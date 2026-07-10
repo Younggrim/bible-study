@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>John Chapter 1 — Bible Study</title>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,600;1,400&family=Cinzel+Decorative:wght@400;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: #2c1810;
+            background-image: radial-gradient(ellipse at center, #3d2317 0%, #1a0f0a 100%);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 40px 20px;
+            font-family: 'EB Garamond', serif;
+        }
+
+        h1.page-title {
+            font-family: 'Cinzel Decorative', cursive;
+            color: #d4a84b;
+            font-size: 2.2rem;
+            text-align: center;
+            margin-bottom: 10px;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+        }
+
+        .translation-selector {
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .translation-selector label {
+            font-family: 'Cormorant Garamond', serif;
+            color: #c9a96e;
+            font-size: 1.1rem;
+            margin-right: 10px;
+        }
+
+        .translation-selector select {
+            font-family: 'EB Garamond', serif;
+            font-size: 1rem;
+            padding: 8px 16px;
+            border: 2px solid #8b6914;
+            border-radius: 4px;
+            background: #f5e6c8;
+            color: #3d2317;
+            cursor: pointer;
+            outline: none;
+        }
+
+        .translation-selector select:focus {
+            border-color: #d4a84b;
+            box-shadow: 0 0 8px rgba(212, 168, 75, 0.4);
+        }
+
+        /* The Book */
+        .book-wrapper {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 50px;
+        }
+
+        .nav-arrow {
+            background: none;
+            border: none;
+            color: #c9a96e;
+            font-size: 2.5rem;
+            cursor: pointer;
+            padding: 15px 10px;
+            border-radius: 8px;
+            transition: all 0.3s ease;
+            user-select: none;
+            opacity: 0.8;
+        }
+
+        .nav-arrow:hover {
+            color: #d4a84b;
+            opacity: 1;
+            background: rgba(212, 168, 75, 0.1);
+            transform: scale(1.1);
+        }
+
+        .nav-arrow:disabled {
+            opacity: 0.2;
+            cursor: default;
+            transform: none;
+            background: none;
+        }
+
+        .book-container {
+            perspective: 1800px;
+        }
+
+        .book {
+            display: flex;
+            width: 900px;
+            max-width: 80vw;
+            height: 620px;
+            position: relative;
+            transform: rotateX(2deg);
+            box-shadow: 
+                0 20px 60px rgba(0,0,0,0.6),
+                0 5px 20px rgba(0,0,0,0.4);
+        }
+
+        /* Spine */
+        .book::before {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 0;
+            bottom: 0;
+            width: 6px;
+            transform: translateX(-50%);
+            background: linear-gradient(to right, #1a0f0a, #4a3020, #1a0f0a);
+            z-index: 10;
+            box-shadow: 0 0 10px rgba(0,0,0,0.5);
+        }
+
+        .page {
+            flex: 1;
+            padding: 40px 45px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .page-left {
+            background: linear-gradient(135deg, #f7eed8 0%, #f0e4c8 50%, #e8d9b4 100%);
+            border-radius: 8px 0 0 8px;
+            box-shadow: inset -5px 0 15px rgba(0,0,0,0.08);
+        }
+
+        .page-right {
+            background: linear-gradient(225deg, #f7eed8 0%, #f0e4c8 50%, #e8d9b4 100%);
+            border-radius: 0 8px 8px 0;
+            box-shadow: inset 5px 0 15px rgba(0,0,0,0.08);
+        }
+
+        /* Page texture overlay */
+        .page::before {
+            content: '';
+            position: absolute;
+            top: 0; left: 0; right: 0; bottom: 0;
+            background: url("data:image/svg+xml,%3Csvg width='100' height='100' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100' height='100' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+            pointer-events: none;
+            border-radius: inherit;
+        }
+
+        .chapter-heading {
+            font-family: 'Cinzel Decorative', cursive;
+            font-size: 1.3rem;
+            color: #5c3a1e;
+            text-align: center;
+            margin-bottom: 20px;
+            padding-bottom: 12px;
+            border-bottom: 1px solid #c9a96e;
+        }
+
+        .chapter-heading span {
+            display: block;
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 0.85rem;
+            color: #8b6914;
+            margin-top: 4px;
+            font-style: italic;
+        }
+
+        .verse {
+            margin-bottom: 8px;
+            line-height: 1.7;
+            color: #2c1810;
+            font-size: 0.95rem;
+            text-align: justify;
+        }
+
+        .verse-number {
+            font-weight: 700;
+            color: #8b4513;
+            font-size: 0.8rem;
+            vertical-align: super;
+            margin-right: 3px;
+        }
+
+        .page-indicator {
+            text-align: center;
+            font-family: 'Cormorant Garamond', serif;
+            color: #c9a96e;
+            font-size: 0.95rem;
+            margin-top: 15px;
+            font-style: italic;
+        }
+
+        .page-number {
+            position: absolute;
+            bottom: 20px;
+            font-family: 'Cormorant Garamond', serif;
+            color: #8b6914;
+            font-size: 0.85rem;
+        }
+
+        .page-left .page-number { left: 45px; }
+        .page-right .page-number { right: 45px; }
+
+        /* Study Notes Section */
+        .study-notes-section {
+            width: 900px;
+            max-width: 80vw;
+            margin-top: 20px;
+        }
+
+        .study-notes-title {
+            font-family: 'Cinzel Decorative', cursive;
+            color: #d4a84b;
+            font-size: 1.6rem;
+            text-align: center;
+            margin-bottom: 25px;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+        }
+
+        .study-notes-content {
+            background: linear-gradient(135deg, #faf3e3 0%, #f5ecd5 100%);
+            border: 2px solid #c9a96e;
+            border-radius: 12px;
+            padding: 40px 50px;
+            box-shadow: 
+                0 10px 40px rgba(0,0,0,0.3),
+                inset 0 1px 0 rgba(255,255,255,0.5);
+            position: relative;
+        }
+
+        .study-notes-content::before {
+            content: '';
+            position: absolute;
+            top: 15px; left: 15px; right: 15px; bottom: 15px;
+            border: 1px solid rgba(201, 169, 110, 0.3);
+            border-radius: 8px;
+            pointer-events: none;
+        }
+
+        .notes-section {
+            margin-bottom: 30px;
+        }
+
+        .notes-section:last-child {
+            margin-bottom: 0;
+        }
+
+        .notes-section h3 {
+            font-family: 'Cinzel Decorative', cursive;
+            font-size: 1.1rem;
+            color: #5c3a1e;
+            margin-bottom: 12px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid rgba(201, 169, 110, 0.4);
+        }
+
+        .notes-section p,
+        .notes-section li {
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 1.1rem;
+            line-height: 1.8;
+            color: #3d2317;
+        }
+
+        .notes-section ul {
+            list-style: none;
+            padding-left: 0;
+        }
+
+        .notes-section ul li {
+            padding-left: 20px;
+            position: relative;
+            margin-bottom: 8px;
+        }
+
+        .notes-section ul li::before {
+            content: '✦';
+            position: absolute;
+            left: 0;
+            color: #8b6914;
+            font-size: 0.7rem;
+            top: 4px;
+        }
+
+        .key-verse {
+            background: rgba(212, 168, 75, 0.1);
+            border-left: 3px solid #d4a84b;
+            padding: 10px 15px;
+            margin: 10px 0;
+            border-radius: 0 6px 6px 0;
+        }
+
+        .key-verse .reference {
+            font-weight: 600;
+            color: #8b4513;
+        }
+
+        .cross-ref {
+            font-style: italic;
+            color: #6b4423;
+        }
+
+        .commentary-quote {
+            font-style: italic;
+            background: rgba(139, 105, 20, 0.05);
+            padding: 15px 20px;
+            border-radius: 8px;
+            margin: 10px 0;
+            border: 1px solid rgba(201, 169, 110, 0.2);
+        }
+
+        .commentary-quote .source {
+            display: block;
+            text-align: right;
+            font-style: normal;
+            font-weight: 600;
+            color: #8b6914;
+            margin-top: 8px;
+        }
+
+        .reflection-question {
+            padding: 8px 0;
+            border-bottom: 1px dotted rgba(201, 169, 110, 0.3);
+        }
+
+        .reflection-question:last-child {
+            border-bottom: none;
+        }
+
+        .ornament {
+            text-align: center;
+            color: #c9a96e;
+            font-size: 1.5rem;
+            margin: 20px 0;
+            opacity: 0.7;
+        }
+
+        @media (max-width: 768px) {
+            .book {
+                flex-direction: column;
+                width: 100%;
+                height: auto;
+            }
+
+            .page-left {
+                border-radius: 8px 8px 0 0;
+                border-bottom: 3px solid #4a3020;
+            }
+
+            .page-right {
+                border-radius: 0 0 8px 8px;
+            }
+
+            .book::before {
+                left: 0; right: 0; top: 50%; bottom: auto;
+                width: 100%; height: 6px;
+                transform: translateY(-50%);
+                background: linear-gradient(to bottom, #1a0f0a, #4a3020, #1a0f0a);
+            }
+
+            .page { padding: 25px 20px; }
+            h1.page-title { font-size: 1.5rem; }
+            .study-notes-content { padding: 25px 20px; }
+            .nav-arrow { font-size: 1.8rem; padding: 10px 5px; }
+        }
+    </style>
+</head>
+<body>
+
+    <h1 class="page-title">The Gospel of John</h1>
+
+    <div class="translation-selector">
+        <label for="translation">Translation:</label>
+        <select id="translation" onchange="changeTranslation()">
+            <option value="ESV">English Standard Version (ESV)</option>
+            <option value="KJV">King James Version (KJV)</option>
+            <option value="ASV">American Standard Version (ASV)</option>
+            <option value="NET">NET Bible (NET)</option>
+            <option value="WEB">World English Bible (WEB)</option>
+        </select>
+    </div>
+
+    <div class="book-wrapper">
+        <button class="nav-arrow" id="prev-btn" onclick="prevPage()" title="Previous page">&#9664;</button>
+        <div class="book-container">
+            <div class="book">
+                <div class="page page-left" id="page-left">
+                    <div class="chapter-heading">
+                        Chapter 1
+                        <span id="translation-label">English Standard Version</span>
+                    </div>
+                    <div id="verses-left"></div>
+                    <div class="page-number" id="page-num-left"></div>
+                </div>
+                <div class="page page-right" id="page-right">
+                    <div id="verses-right"></div>
+                    <div class="page-number" id="page-num-right"></div>
+                </div>
+            </div>
+        </div>
+        <button class="nav-arrow" id="next-btn" onclick="nextPage()" title="Next page">&#9654;</button>
+    </div>
+
+    <div class="page-indicator" id="page-indicator"></div>
+
+    <div class="study-notes-section">
+        <h2 class="study-notes-title">✦ Study Notes ✦</h2>
+        <div class="study-notes-content">
+
+            <div class="notes-section">
+                <h3>Chapter Summary</h3>
+                <p>The eternal Word who was with God and was God becomes flesh — John the Baptist bears witness, and Jesus calls His first disciples, who begin to recognize Him as Messiah, Son of God, and King of Israel.</p>
+            </div>
+
+            <div class="ornament">❧</div>
+
+            <div class="notes-section">
+                <h3>Key Verses</h3>
+                <div class="key-verse">
+                    <span class="reference">v.1</span> — "In the beginning was the Word, and the Word was with God, and the Word was God." — Establishes the pre-existence and deity of Christ.
+                </div>
+                <div class="key-verse">
+                    <span class="reference">v.14</span> — "And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth." — The Incarnation.
+                </div>
+                <div class="key-verse">
+                    <span class="reference">v.12</span> — "But to all who did receive him, who believed in his name, he gave the right to become children of God." — Salvation offered to all who believe.
+                </div>
+                <div class="key-verse">
+                    <span class="reference">v.29</span> — "Behold, the Lamb of God, who takes away the sin of the world!" — John the Baptist's declaration of Jesus as the atoning sacrifice.
+                </div>
+            </div>
+
+            <div class="ornament">❧</div>
+
+            <div class="notes-section">
+                <h3>Cross-References</h3>
+                <ul>
+                    <li><span class="cross-ref">v.1 → Genesis 1:1</span> — John intentionally echoes Genesis, showing Christ was present at creation.</li>
+                    <li><span class="cross-ref">v.1 → Colossians 1:16-17</span> — "All things were created by him and for him."</li>
+                    <li><span class="cross-ref">v.3 → Hebrews 1:2</span> — God made the universe through His Son.</li>
+                    <li><span class="cross-ref">v.14 → Philippians 2:6-8</span> — Christ emptying Himself, taking on human form.</li>
+                    <li><span class="cross-ref">v.23 → Isaiah 40:3</span> — The prophecy John the Baptist fulfills.</li>
+                    <li><span class="cross-ref">v.29 → Isaiah 53:7</span> — "He was led as a lamb to the slaughter."</li>
+                    <li><span class="cross-ref">v.51 → Genesis 28:12</span> — Jacob's ladder, fulfilled in Christ.</li>
+                </ul>
+            </div>
+
+            <div class="ornament">❧</div>
+
+            <div class="notes-section">
+                <h3>Commentary</h3>
+                <div class="commentary-quote">
+                    "The Word was made flesh — here is the miracle of miracles, the mystery of mysteries. He who was God became man; He who was in the bosom of the Father came to the bosom of a woman."
+                    <span class="source">— Charles Spurgeon, "The Word Made Flesh"</span>
+                </div>
+                <div class="commentary-quote">
+                    "John points away from himself entirely. He does not say 'Behold my baptism' or 'Behold my ministry' — he says Behold the Lamb. The whole purpose of a true minister is to point men to Christ."
+                    <span class="source">— Charles Spurgeon, "Behold the Lamb of God"</span>
+                </div>
+            </div>
+
+            <div class="ornament">❧</div>
+
+            <div class="notes-section">
+                <h3>Commentary References</h3>
+                <ul>
+                    <li><strong>Enduring Word (David Guzik):</strong> <a href="https://enduringword.com/bible-commentary/john-1/" target="_blank" style="color:#8b4513;">enduringword.com/bible-commentary/john-1/</a><br>Verse-by-verse analysis of the Logos concept, the role of John the Baptist, and the calling of the first disciples. Highly recommended for deep theological insight on vv.1-18.</li>
+                    <li><strong>Charles Spurgeon — "The Word Made Flesh"</strong> (MTP Vol. 37, No. 2200)<br>"The Word was made flesh — here is the miracle of miracles, the mystery of mysteries. He who was God became man; He who was in the bosom of the Father came to the bosom of a woman. He who was adored by angels became a servant of servants."</li>
+                    <li><strong>Charles Spurgeon — "Behold the Lamb of God"</strong> (MTP Vol. 5, No. 249)<br>"John points away from himself entirely. He does not say 'Behold my baptism' or 'Behold my ministry' — he says Behold the Lamb. The whole purpose of a true minister is to point men to Christ."</li>
+                </ul>
+            </div>
+
+            <div class="ornament">❧</div>
+
+            <div class="notes-section">
+                <h3>Translation Notes</h3>
+                <ul>
+                    <li><span class="reference">v.1</span> — Greek "Logos" (Word) carries rich meaning — in Greek philosophy it meant reason/logic; in Jewish thought it connected to God's creative speech in Genesis 1.</li>
+                    <li><span class="reference">v.1</span> — NET uniquely renders "the Word was fully God" — interpretive but theologically accurate emphasis on complete deity.</li>
+                    <li><span class="reference">v.5</span> — Greek "katelaben" can mean both "to comprehend" (KJV) and "to overcome" (ESV). The darkness neither understood nor defeated the Light.</li>
+                    <li><span class="reference">v.9</span> — ESV clarifies that it is the Light (Christ) who was coming into the world, not every man.</li>
+                    <li><span class="reference">v.12</span> — Greek "exousian" — KJV uses "power" (authority); ESV uses "right." Both convey granted authority/privilege.</li>
+                    <li><span class="reference">v.14</span> — NET renders "took up residence among us" — capturing the tabernacle/tent imagery of Greek "eskenosen." KJV/ESV/ASV/WEB all use "dwelt."</li>
+                    <li><span class="reference">v.14</span> — KJV: "only begotten" reflects older tradition of eternal generation; ESV: "only Son" conveys uniqueness without implying a time of origin.</li>
+                    <li><span class="reference">v.16</span> — Greek "charin anti charitos" — "grace for grace" (KJV) / "grace upon grace" (ESV). Grace replacing grace in continuous abundance.</li>
+                    <li><span class="reference">v.18</span> — "monogenes theos" vs "monogenes huios" — significant textual variant. Some manuscripts read "Son," others "God." ESV follows the "God" reading based on older manuscripts.</li>
+                    <li><span class="reference">v.34</span> — NET reads "the Chosen One" (Greek "eklektos") rather than "the Son of God" (Greek "huios"). A significant textual variant.</li>
+                    <li><span class="reference">v.39</span> — NET converts "the tenth hour" to "about four o'clock in the afternoon" (Jewish time-reckoning from 6 AM).</li>
+                    <li><span class="reference">v.42</span> — WEB reads "Jonah" where KJV/ESV/NET read "John" (textual variant reflecting WEB's Majority Text base).</li>
+                    <li><span class="reference">v.51</span> — NET renders "Amen, amen" as "the solemn truth" rather than "truly, truly" (ESV) or "verily, verily" (KJV). WEB uses "Most certainly."</li>
+                </ul>
+            </div>
+
+            <div class="ornament">❧</div>
+
+            <div class="notes-section">
+                <h3>Video Resources</h3>
+                <ul>
+                    <li><strong>The Bible Project — Gospel of John Overview (Part 1: Chapters 1-12):</strong><br><a href="https://bibleproject.com/explore/video/john/" target="_blank" style="color:#8b4513;">bibleproject.com/explore/video/john/</a><br>Animated overview showing the literary structure of John's Gospel, the seven signs, the "I AM" statements, and how John presents Jesus as the Word become flesh. (~8 minutes)</li>
+                    <li><strong>The Bible Project — John 1 Visual Commentary:</strong><br><a href="https://www.bibleproject.com/videos/john-1/" target="_blank" style="color:#8b4513;">bibleproject.com/videos/john-1/</a><br>Explores how John 1 incorporates Genesis creation language to present Jesus as God's Word taking human form — the new creation beginning in the person of Christ. (~5 minutes)</li>
+                    <li><strong>Voddie Baucham — The Gospel of John:</strong><br>Search YouTube: "Voddie Baucham John 1 Word became flesh"<br>Baucham's exposition emphasizes the deity of Christ, the incarnation, and the exclusive claims of Christ as the only way to the Father.</li>
+                    <li><strong>David Guzik — John 1:1-18 - God the Son Presented to Us:</strong><br><a href="https://enduringword.com/media/john-1-god-son-presented-us/" target="_blank" style="color:#8b4513;">enduringword.com/media/john-1-god-son-presented-us/</a></li>
+                    <li><strong>David Guzik — John 1:19-51 - Revealed to John the Baptist:</strong><br><a href="https://enduringword.com/media/john-119-51-revealed-john-baptist/" target="_blank" style="color:#8b4513;">enduringword.com/media/john-119-51-revealed-john-baptist/</a></li>
+                </ul>
+            </div>
+
+            <div class="ornament">❧</div>
+
+            <div class="notes-section">
+                <h3>Podcast Resources</h3>
+                <ul>
+                    <li><strong>David Guzik — John 1 Verse-by-Verse Teaching (Enduring Word Podcast):</strong><br><a href="https://podcasts.apple.com/nz/podcast/enduring-word/id1717516011" target="_blank" style="color:#8b4513;">Apple Podcasts: Enduring Word</a><br>Search "Enduring Word" on your podcast app and look for the John series. Covers the Logos theology, John the Baptist's witness, and the calling of the first disciples.</li>
+                    <li><strong>BibleProject Podcast — "In the Beginning" (John 1 Series):</strong><br><a href="https://bibleproject.com/podcasts/beginning/" target="_blank" style="color:#8b4513;">bibleproject.com/podcasts/beginning/</a><br>Multi-episode deep dive into John 1, exploring how John incorporates Genesis and Exodus narratives to portray how God responds through the incarnate Word. (Multiple episodes, 45-60 min each)</li>
+                </ul>
+            </div>
+
+            <div class="ornament">❧</div>
+
+            <div class="notes-section">
+                <h3>Reflection Questions</h3>
+                <div class="reflection-question">
+                    <p>1. John 1:1 declares Jesus was "in the beginning" with God and was God. What does the eternal nature of Christ mean to you personally? How does it change how you pray or relate to Him?</p>
+                </div>
+                <div class="reflection-question">
+                    <p>2. Verse 12 says that to all who received Him, He gave the right to become children of God. Have you personally received Him? What does it mean in your daily life to live as a son of God?</p>
+                </div>
+                <div class="reflection-question">
+                    <p>3. John the Baptist consistently deflected attention away from himself (v.20). In what areas of your life do you struggle with wanting credit or recognition? How can John's example challenge you?</p>
+                </div>
+                <div class="reflection-question">
+                    <p>4. Jesus saw Nathanael under the fig tree before Philip called him (v.48). Jesus sees you fully — your private moments, your doubts, your struggles. How does being fully known by Christ bring you comfort or conviction?</p>
+                </div>
+                <div class="reflection-question">
+                    <p>5. "What seek ye?" (v.38) — The first words Jesus speaks in John's Gospel are a question directed at those following Him. What are you truly seeking right now?</p>
+                </div>
+            </div>
+
+            <div class="ornament">❧</div>
+
+            <div class="notes-section">
+                <h3>Personal Application</h3>
+                <ul>
+                    <li>The Word became flesh (v.14) — Jesus did not stay at a distance. He entered our world, our pain, our humanity. Where do you need to experience God not as a distant concept but as Emmanuel — God with us?</li>
+                    <li>John the Baptist's entire purpose was to point others to Jesus (v.29). He had crowds, influence, and a platform — and he used it all to say "look at Him, not me." Where is your life pointing people?</li>
+                    <li>"He came unto his own, and his own received him not" (v.11). Rejection is one of the deepest human pains. Jesus experienced it fully. How does knowing Christ understands rejection change how you handle it?</li>
+                    <li>Andrew's first response after meeting Jesus was to find his brother Simon and bring him to Christ (vv.40-42). Who in your life — a brother, a friend, a coworker — needs you to say "We have found the Messiah"?</li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+
+    <script>
+    const VERSES_PER_PAGE = 8;
+    let currentSpread = 0;
+    let totalSpreads = 0;
+
+    const translations = {
+        ESV: {
+            name: "English Standard Version",
+            verses: [
+                "In the beginning was the Word, and the Word was with God, and the Word was God.",
+                "He was in the beginning with God.",
+                "All things were made through him, and without him was not any thing made that was made.",
+                "In him was life, and the life was the light of men.",
+                "The light shines in the darkness, and the darkness has not overcome it.",
+                "There was a man sent from God, whose name was John.",
+                "He came as a witness, to bear witness about the light, that all might believe through him.",
+                "He was not the light, but came to bear witness about the light.",
+                "The true light, which gives light to everyone, was coming into the world.",
+                "He was in the world, and the world was made through him, yet the world did not know him.",
+                "He came to his own, and his own people did not receive him.",
+                "But to all who did receive him, who believed in his name, he gave the right to become children of God,",
+                "who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.",
+                "And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.",
+                "(John bore witness about him, and cried out, \u201cThis was he of whom I said, \u2018He who comes after me ranks before me, because he was before me.\u2019\u201d)",
+                "For from his fullness we have all received, grace upon grace.",
+                "For the law was given through Moses; grace and truth came through Jesus Christ.",
+                "No one has ever seen God; God the only Son, who is at the Father\u2019s side, he has made him known.",
+                "And this is the testimony of John, when the Jews sent priests and Levites from Jerusalem to ask him, \u201cWho are you?\u201d",
+                "He confessed, and did not deny, but confessed, \u201cI am not the Christ.\u201d",
+                "And they asked him, \u201cWhat then? Are you Elijah?\u201d He said, \u201cI am not.\u201d \u201cAre you the Prophet?\u201d And he answered, \u201cNo.\u201d",
+                "So they said to him, \u201cWho are you? We need to give an answer to those who sent us. What do you say about yourself?\u201d",
+                "He said, \u201cI am the voice of one crying out in the wilderness, \u2018Make straight the way of the Lord,\u2019 as the prophet Isaiah said.\u201d",
+                "(Now they had been sent from the Pharisees.)",
+                "They asked him, \u201cThen why are you baptizing, if you are neither the Christ, nor Elijah, nor the Prophet?\u201d",
+                "John answered them, \u201cI baptize with water, but among you stands one you do not know,",
+                "even he who comes after me, the strap of whose sandal I am not worthy to untie.\u201d",
+                "These things took place in Bethany across the Jordan, where John was baptizing.",
+                "The next day he saw Jesus coming toward him, and said, \u201cBehold, the Lamb of God, who takes away the sin of the world!",
+                "This is he of whom I said, \u2018After me comes a man who ranks before me, because he was before me.\u2019",
+                "I myself did not know him, but for this purpose I came baptizing with water, that he might be revealed to Israel.\u201d",
+                "And John bore witness: \u201cI saw the Spirit descend from heaven like a dove, and it remained on him.",
+                "I myself did not know him, but he who sent me to baptize with water said to me, \u2018He on whom you see the Spirit descend and remain, this is he who baptizes with the Holy Spirit.\u2019",
+                "And I have seen and have borne witness that this is the Son of God.\u201d",
+                "The next day again John was standing with two of his disciples,",
+                "and he looked at Jesus as he walked by and said, \u201cBehold, the Lamb of God!\u201d",
+                "The two disciples heard him say this, and they followed Jesus.",
+                "Jesus turned and saw them following and said to them, \u201cWhat are you seeking?\u201d And they said to him, \u201cRabbi\u201d (which means Teacher), \u201cwhere are you staying?\u201d",
+                "He said to them, \u201cCome and you will see.\u201d So they came and saw where he was staying, and they stayed with him that day, for it was about the tenth hour.",
+                "One of the two who heard John speak and followed Jesus was Andrew, Simon Peter\u2019s brother.",
+                "He first found his own brother Simon and said to him, \u201cWe have found the Messiah\u201d (which means Christ).",
+                "He brought him to Jesus. Jesus looked at him and said, \u201cYou are Simon the son of John. You shall be called Cephas\u201d (which means Peter).",
+                "The next day Jesus decided to go to Galilee. He found Philip and said to him, \u201cFollow me.\u201d",
+                "Now Philip was from Bethsaida, the city of Andrew and Peter.",
+                "Philip found Nathanael and said to him, \u201cWe have found him of whom Moses in the Law and also the prophets wrote, Jesus of Nazareth, the son of Joseph.\u201d",
+                "Nathanael said to him, \u201cCan anything good come out of Nazareth?\u201d Philip said to him, \u201cCome and see.\u201d",
+                "Jesus saw Nathanael coming toward him and said of him, \u201cBehold, an Israelite indeed, in whom there is no deceit!\u201d",
+                "Nathanael said to him, \u201cHow do you know me?\u201d Jesus answered him, \u201cBefore Philip called you, when you were under the fig tree, I saw you.\u201d",
+                "Nathanael answered him, \u201cRabbi, you are the Son of God! You are the King of Israel!\u201d",
+                "Jesus answered him, \u201cBecause I said to you, \u2018I saw you under the fig tree,\u2019 do you believe? You will see greater things than these.\u201d",
+                "And he said to him, \u201cTruly, truly, I say to you, you will see heaven opened, and the angels of God ascending and descending on the Son of Man.\u201d"
+            ]
+        },
+        KJV: {
+            name: "King James Version",
+            verses: [
+                "In the beginning was the Word, and the Word was with God, and the Word was God.",
+                "The same was in the beginning with God.",
+                "All things were made by him; and without him was not any thing made that was made.",
+                "In him was life; and the life was the light of men.",
+                "And the light shineth in darkness; and the darkness comprehended it not.",
+                "There was a man sent from God, whose name was John.",
+                "The same came for a witness, to bear witness of the Light, that all men through him might believe.",
+                "He was not that Light, but was sent to bear witness of that Light.",
+                "That was the true Light, which lighteth every man that cometh into the world.",
+                "He was in the world, and the world was made by him, and the world knew him not.",
+                "He came unto his own, and his own received him not.",
+                "But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:",
+                "Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+                "And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.",
+                "John bare witness of him, and cried, saying, This was he of whom I spake, He that cometh after me is preferred before me: for he was before me.",
+                "And of his fulness have all we received, and grace for grace.",
+                "For the law was given by Moses, but grace and truth came by Jesus Christ.",
+                "No man hath seen God at any time; the only begotten Son, which is in the bosom of the Father, he hath declared him.",
+                "And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?",
+                "And he confessed, and denied not; but confessed, I am not the Christ.",
+                "And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.",
+                "Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?",
+                "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said the prophet Esaias.",
+                "And they which were sent were of the Pharisees.",
+                "And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?",
+                "John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;",
+                "He it is, who coming after me is preferred before me, whose shoe\u2019s latchet I am not worthy to unloose.",
+                "These things were done in Bethabara beyond Jordan, where John was baptizing.",
+                "The next day John seeth Jesus coming unto him, and saith, Behold the Lamb of God, which taketh away the sin of the world.",
+                "This is he of whom I said, After me cometh a man which is preferred before me: for he was before me.",
+                "And I knew him not: but that he should be made manifest to Israel, therefore am I come baptizing with water.",
+                "And John bare record, saying, I saw the Spirit descending from heaven like a dove, and it abode upon him.",
+                "And I knew him not: but he that sent me to baptize with water, the same said unto me, Upon whom thou shalt see the Spirit descending, and remaining on him, the same is he which baptizeth with the Holy Ghost.",
+                "And I saw, and bare record that this is the Son of God.",
+                "Again the next day after John stood, and two of his disciples;",
+                "And looking upon Jesus as he walked, he saith, Behold the Lamb of God!",
+                "And the two disciples heard him speak, and they followed Jesus.",
+                "Then Jesus turned, and saw them following, and saith unto them, What seek ye? They said unto him, Rabbi, (which is to say, being interpreted, Master,) where dwellest thou?",
+                "He saith unto them, Come and see. They came and saw where he dwelt, and abode with him that day: for it was about the tenth hour.",
+                "One of the two which heard John speak, and followed him, was Andrew, Simon Peter\u2019s brother.",
+                "He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.",
+                "And he brought him to Jesus. And when Jesus beheld him, he said, Thou art Simon the son of Jona: thou shalt be called Cephas, which is by interpretation, A stone.",
+                "The day following Jesus would go forth into Galilee, and findeth Philip, and saith unto him, Follow me.",
+                "Now Philip was of Bethsaida, the city of Andrew and Peter.",
+                "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.",
+                "And Nathanael said unto him, Can there any good thing come out of Nazareth? Philip saith unto him, Come and see.",
+                "Jesus saw Nathanael coming to him, and saith of him, Behold an Israelite indeed, in whom is no guile!",
+                "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before that Philip called thee, when thou wast under the fig tree, I saw thee.",
+                "Nathanael answered and saith unto him, Rabbi, thou art the Son of God; thou art the King of Israel.",
+                "Jesus answered and said unto him, Because I said unto thee, I saw thee under the fig tree, believest thou? thou shalt see greater things than these.",
+                "And he saith unto him, Verily, verily, I say unto you, Hereafter ye shall see heaven open, and the angels of God ascending and descending upon the Son of man."
+            ]
+        },
+        ASV: {
+            name: "American Standard Version",
+            verses: [
+                "In the beginning was the Word, and the Word was with God, and the Word was God.",
+                "The same was in the beginning with God.",
+                "All things were made through him; and without him was not anything made that hath been made.",
+                "In him was life; and the life was the light of men.",
+                "And the light shineth in the darkness; and the darkness apprehended it not.",
+                "There came a man, sent from God, whose name was John.",
+                "The same came for witness, that he might bear witness of the light, that all might believe through him.",
+                "He was not the light, but came that he might bear witness of the light.",
+                "There was the true light, even the light which lighteth every man, coming into the world.",
+                "He was in the world, and the world was made through him, and the world knew him not.",
+                "He came unto his own, and they that were his own received him not.",
+                "But as many as received him, to them gave he the right to become children of God, even to them that believe on his name:",
+                "who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+                "And the Word became flesh, and dwelt among us (and we beheld his glory, glory as of the only begotten from the Father), full of grace and truth.",
+                "John beareth witness of him, and crieth, saying, This was he of whom I said, He that cometh after me is become before me: for he was before me.",
+                "For of his fulness we all received, and grace for grace.",
+                "For the law was given through Moses; grace and truth came through Jesus Christ.",
+                "No man hath seen God at any time; the only begotten Son, who is in the bosom of the Father, he hath declared him.",
+                "And this is the witness of John, when the Jews sent unto him from Jerusalem priests and Levites to ask him, Who art thou?",
+                "And he confessed, and denied not; and he confessed, I am not the Christ.",
+                "And they asked him, What then? Art thou Elijah? And he saith, I am not. Art thou the prophet? And he answered, No.",
+                "They said therefore unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?",
+                "He said, I am the voice of one crying in the wilderness, Make straight the way of the Lord, as said Isaiah the prophet.",
+                "And they had been sent from the Pharisees.",
+                "And they asked him, and said unto him, Why then baptizest thou, if thou art not the Christ, neither Elijah, neither the prophet?",
+                "John answered them, saying, I baptize in water: in the midst of you standeth one whom ye know not,",
+                "even he that cometh after me, the latchet of whose shoe I am not worthy to unloose.",
+                "These things were done in Bethany beyond the Jordan, where John was baptizing.",
+                "On the morrow he seeth Jesus coming unto him, and saith, Behold, the Lamb of God, that taketh away the sin of the world!",
+                "This is he of whom I said, After me cometh a man who is become before me: for he was before me.",
+                "And I knew him not; but that he should be made manifest to Israel, for this cause came I baptizing in water.",
+                "And John bare witness, saying, I have beheld the Spirit descending as a dove out of heaven; and it abode upon him.",
+                "And I knew him not: but he that sent me to baptize in water, he said unto me, Upon whomsoever thou shalt see the Spirit descending, and abiding upon him, the same is he that baptizeth in the Holy Spirit.",
+                "And I have seen, and have borne witness that this is the Son of God.",
+                "Again on the morrow John was standing, and two of his disciples;",
+                "and he looked upon Jesus as he walked, and saith, Behold, the Lamb of God!",
+                "And the two disciples heard him speak, and they followed Jesus.",
+                "And Jesus turned, and beheld them following, and saith unto them, What seek ye? And they said unto him, Rabbi (which is to say, being interpreted, Teacher), where abideth thou?",
+                "He saith unto them, Come, and ye shall see. They came therefore and saw where he abode; and they abode with him that day: it was about the tenth hour.",
+                "One of the two that heard John speak, and followed him, was Andrew, Simon Peter\u2019s brother.",
+                "He findeth first his own brother Simon, and saith unto him, We have found the Messiah (which is, being interpreted, Christ).",
+                "He brought him unto Jesus. Jesus looked upon him, and said, Thou art Simon the son of John: thou shalt be called Cephas (which is by interpretation, Peter).",
+                "On the morrow he was minded to go forth into Galilee, and he findeth Philip: and Jesus saith unto him, Follow me.",
+                "Now Philip was from Bethsaida, of the city of Andrew and Peter.",
+                "Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, wrote, Jesus of Nazareth, the son of Joseph.",
+                "And Nathanael said unto him, Can any good thing come out of Nazareth? Philip saith unto him, Come and see.",
+                "Jesus saw Nathanael coming to him, and saith of him, Behold, an Israelite indeed, in whom is no guile!",
+                "Nathanael saith unto him, Whence knowest thou me? Jesus answered and said unto him, Before Philip called thee, when thou wast under the fig tree, I saw thee.",
+                "Nathanael answered him, Rabbi, thou art the Son of God; thou art King of Israel.",
+                "Jesus answered and said unto him, Because I said unto thee, I saw thee underneath the fig tree, believest thou? thou shalt see greater things than these.",
+                "And he saith unto him, Verily, verily, I say unto you, Ye shall see the heaven opened, and the angels of God ascending and descending upon the Son of man."
+            ]
+        },
+        NET: {
+            name: "NET Bible",
+            verses: [
+                "In the beginning was the Word, and the Word was with God, and the Word was fully God.",
+                "The Word was with God in the beginning.",
+                "All things were created by him, and apart from him not one thing was created that has been created.",
+                "In him was life, and the life was the light of mankind.",
+                "And the light shines on in the darkness, but the darkness has not mastered it.",
+                "A man came, sent from God, whose name was John.",
+                "He came as a witness to testify about the light, so that everyone might believe through him.",
+                "He himself was not the light, but he came to testify about the light.",
+                "The true light, who gives light to everyone, was coming into the world.",
+                "He was in the world, and the world was created by him, but the world did not recognize him.",
+                "He came to what was his own, but his own people did not receive him.",
+                "But to all who have received him\u2014those who believe in his name\u2014he has given the right to become God\u2019s children\u2014",
+                "children not born by human parents or by human desire or a husband\u2019s decision, but by God.",
+                "Now the Word became flesh and took up residence among us. We saw his glory\u2014the glory of the one and only, full of grace and truth, who came from the Father.",
+                "John testified about him and shouted out, \u201cThis one was the one about whom I said, \u2018He who comes after me is greater than I am, because he existed before me.\u2019\u201d",
+                "For we have all received from his fullness one gracious gift after another.",
+                "For the law was given through Moses, but grace and truth came about through Jesus Christ.",
+                "No one has ever seen God. The only one, himself God, who is in closest fellowship with the Father, has made God known.",
+                "Now this was John\u2019s testimony when the Jewish leaders sent priests and Levites from Jerusalem to ask him, \u201cWho are you?\u201d",
+                "He confessed\u2014he did not deny but confessed\u2014\u201cI am not the Christ!\u201d",
+                "So they asked him, \u201cThen who are you? Are you Elijah?\u201d He said, \u201cI am not!\u201d \u201cAre you the Prophet?\u201d He answered, \u201cNo!\u201d",
+                "Then they said to him, \u201cWho are you? Tell us so that we can give an answer to those who sent us. What do you say about yourself?\u201d",
+                "John said, \u201cI am the voice of one shouting in the wilderness, \u2018Make straight the way for the Lord,\u2019 as the prophet Isaiah said.\u201d",
+                "(Now they had been sent from the Pharisees.)",
+                "So they asked John, \u201cWhy then are you baptizing if you are not the Christ, nor Elijah, nor the Prophet?\u201d",
+                "John answered them, \u201cI baptize with water. Among you stands one whom you do not recognize,",
+                "who is coming after me. I am not worthy to untie the strap of his sandal!\u201d",
+                "These things happened in Bethany across the Jordan River where John was baptizing.",
+                "On the next day John saw Jesus coming toward him and said, \u201cLook, the Lamb of God who takes away the sin of the world!",
+                "This is the one about whom I said, \u2018After me comes a man who is greater than I am, because he existed before me.\u2019",
+                "I did not recognize him, but I came baptizing with water so that he could be revealed to Israel.\u201d",
+                "Then John testified, \u201cI saw the Spirit descending like a dove from heaven, and it remained on him.",
+                "And I did not recognize him, but the one who sent me to baptize with water said to me, \u2018The one on whom you see the Spirit descending and remaining\u2014this is the one who baptizes with the Holy Spirit.\u2019",
+                "I have both seen and testified that this man is the Chosen One of God.\u201d",
+                "Again the next day John was standing there with two of his disciples.",
+                "Gazing at Jesus as he walked by, he said, \u201cLook, the Lamb of God!\u201d",
+                "When John\u2019s two disciples heard him say this, they followed Jesus.",
+                "Jesus turned around and saw them following and said to them, \u201cWhat do you want?\u201d So they said to him, \u201cRabbi\u201d (which is translated Teacher), \u201cwhere are you staying?\u201d",
+                "Jesus answered, \u201cCome and you will see.\u201d So they came and saw where he was staying, and they stayed with him that day. Now it was about four o\u2019clock in the afternoon.",
+                "Andrew, the brother of Simon Peter, was one of the two disciples who heard what John said and followed Jesus.",
+                "He first found his own brother Simon and told him, \u201cWe have found the Messiah!\u201d (which is translated Christ).",
+                "Andrew brought Simon to Jesus. Jesus looked at him and said, \u201cYou are Simon, the son of John. You will be called Cephas\u201d (which is translated Peter).",
+                "On the next day Jesus wanted to set out for Galilee. He found Philip and said to him, \u201cFollow me.\u201d",
+                "(Now Philip was from Bethsaida, the town of Andrew and Peter.)",
+                "Philip found Nathanael and told him, \u201cWe have found the one Moses wrote about in the law, and the prophets also wrote about\u2014Jesus of Nazareth, the son of Joseph.\u201d",
+                "Nathanael replied, \u201cCan anything good come out of Nazareth?\u201d Philip replied, \u201cCome and see.\u201d",
+                "Jesus saw Nathanael coming toward him and exclaimed, \u201cLook, a true Israelite in whom there is no deceit!\u201d",
+                "Nathanael asked him, \u201cHow do you know me?\u201d Jesus replied, \u201cBefore Philip called you, when you were under the fig tree, I saw you.\u201d",
+                "Nathanael answered him, \u201cRabbi, you are the Son of God; you are the king of Israel!\u201d",
+                "Jesus said to him, \u201cBecause I told you that I saw you under the fig tree, do you believe? You will see greater things than these.\u201d",
+                "He continued, \u201cI tell all of you the solemn truth\u2014you will see heaven opened and the angels of God ascending and descending on the Son of Man.\u201d"
+            ]
+        },
+        WEB: {
+            name: "World English Bible",
+            verses: [
+                "In the beginning was the Word, and the Word was with God, and the Word was God.",
+                "The same was in the beginning with God.",
+                "All things were made through him. Without him was not anything made that has been made.",
+                "In him was life, and the life was the light of men.",
+                "The light shines in the darkness, and the darkness hasn\u2019t overcome it.",
+                "There came a man, sent from God, whose name was John.",
+                "The same came as a witness, that he might testify about the light, that all might believe through him.",
+                "He was not the light, but was sent that he might testify about the light.",
+                "The true light that enlightens everyone was coming into the world.",
+                "He was in the world, and the world was made through him, and the world didn\u2019t recognize him.",
+                "He came to his own, and those who were his own didn\u2019t receive him.",
+                "But as many as received him, to them he gave the right to become God\u2019s children, to those who believe in his name:",
+                "who were born not of blood, nor of the will of the flesh, nor of the will of man, but of God.",
+                "The Word became flesh, and lived among us. We saw his glory, such glory as of the one and only Son of the Father, full of grace and truth.",
+                "John testified about him. He cried out, saying, \u201cThis was he of whom I said, \u2018He who comes after me has surpassed me, for he was before me.\u2019\u201d",
+                "From his fullness we all received grace upon grace.",
+                "For the law was given through Moses. Grace and truth were realized through Jesus Christ.",
+                "No one has seen God at any time. The one and only Son, who is in the bosom of the Father, he has declared him.",
+                "This is John\u2019s testimony, when the Jews sent priests and Levites from Jerusalem to ask him, \u201cWho are you?\u201d",
+                "He declared, and didn\u2019t deny, but he declared, \u201cI am not the Christ.\u201d",
+                "They asked him, \u201cWhat then? Are you Elijah?\u201d He said, \u201cI am not.\u201d \u201cAre you the prophet?\u201d He answered, \u201cNo.\u201d",
+                "They said therefore to him, \u201cWho are you? Give us an answer to take back to those who sent us. What do you say about yourself?\u201d",
+                "He said, \u201cI am the voice of one crying in the wilderness, \u2018Make straight the way of the Lord,\u2019 as Isaiah the prophet said.\u201d",
+                "The ones who had been sent were from the Pharisees.",
+                "They asked him, \u201cWhy then do you baptize, if you are not the Christ, nor Elijah, nor the prophet?\u201d",
+                "John answered them, \u201cI baptize in water, but among you stands one whom you don\u2019t know.",
+                "He is the one who comes after me, who is preferred before me, whose sandal strap I\u2019m not worthy to loosen.\u201d",
+                "These things were done in Bethany beyond the Jordan, where John was baptizing.",
+                "The next day, he saw Jesus coming to him, and said, \u201cBehold, the Lamb of God, who takes away the sin of the world!",
+                "This is he of whom I said, \u2018After me comes a man who is preferred before me, for he was before me.\u2019",
+                "I didn\u2019t know him, but for this reason I came baptizing in water: that he would be revealed to Israel.\u201d",
+                "John testified, saying, \u201cI have seen the Spirit descending like a dove out of heaven, and it remained on him.",
+                "I didn\u2019t recognize him, but he who sent me to baptize in water, he said to me, \u2018On whomever you will see the Spirit descending, and remaining on him, the same is he who baptizes in the Holy Spirit.\u2019",
+                "I have seen, and have testified that this is the Son of God.\u201d",
+                "Again, the next day, John was standing with two of his disciples,",
+                "and he looked at Jesus as he walked, and said, \u201cBehold, the Lamb of God!\u201d",
+                "The two disciples heard him speak, and they followed Jesus.",
+                "Jesus turned, and saw them following, and said to them, \u201cWhat are you looking for?\u201d They said to him, \u201cRabbi\u201d (which is to say, being interpreted, Teacher), \u201cwhere are you staying?\u201d",
+                "He said to them, \u201cCome, and see.\u201d They came and saw where he was staying, and they stayed with him that day. It was about the tenth hour.",
+                "One of the two who heard John, and followed him, was Andrew, Simon Peter\u2019s brother.",
+                "He first found his own brother, Simon, and said to him, \u201cWe have found the Messiah!\u201d (which is, being interpreted, Christ).",
+                "He brought him to Jesus. Jesus looked at him, and said, \u201cYou are Simon the son of Jonah. You shall be called Cephas\u201d (which is by interpretation, Peter).",
+                "On the next day, he was determined to go out into Galilee, and he found Philip. Jesus said to him, \u201cFollow me.\u201d",
+                "Now Philip was from Bethsaida, of the city of Andrew and Peter.",
+                "Philip found Nathanael, and said to him, \u201cWe have found him, of whom Moses in the law, and the prophets, wrote: Jesus of Nazareth, the son of Joseph.\u201d",
+                "Nathanael said to him, \u201cCan any good thing come out of Nazareth?\u201d Philip said to him, \u201cCome and see.\u201d",
+                "Jesus saw Nathanael coming to him, and said about him, \u201cBehold, an Israelite indeed, in whom is no deceit!\u201d",
+                "Nathanael said to him, \u201cHow do you know me?\u201d Jesus answered him, \u201cBefore Philip called you, when you were under the fig tree, I saw you.\u201d",
+                "Nathanael answered him, \u201cRabbi, you are the Son of God! You are King of Israel!\u201d",
+                "Jesus answered him, \u201cBecause I told you, \u2018I saw you underneath the fig tree,\u2019 do you believe? You will see greater things than these!\u201d",
+                "He said to him, \u201cMost certainly, I tell you all, hereafter you will see heaven opened, and the angels of God ascending and descending on the Son of Man.\u201d"
+            ]
+        }
+    };
+
+    function renderSpread() {
+        const select = document.getElementById('translation');
+        const key = select.value;
+        const translation = translations[key];
+        const verses = translation.verses;
+
+        document.getElementById('translation-label').textContent = translation.name;
+
+        totalSpreads = Math.ceil(verses.length / (VERSES_PER_PAGE * 2));
+
+        const startIndex = currentSpread * VERSES_PER_PAGE * 2;
+        const leftVerses = verses.slice(startIndex, startIndex + VERSES_PER_PAGE);
+        const rightVerses = verses.slice(startIndex + VERSES_PER_PAGE, startIndex + VERSES_PER_PAGE * 2);
+
+        let leftHTML = '';
+        leftVerses.forEach((verse, i) => {
+            const verseNum = startIndex + i + 1;
+            leftHTML += `<p class="verse"><span class="verse-number">${verseNum}</span>${verse}</p>`;
+        });
+
+        let rightHTML = '';
+        rightVerses.forEach((verse, i) => {
+            const verseNum = startIndex + VERSES_PER_PAGE + i + 1;
+            rightHTML += `<p class="verse"><span class="verse-number">${verseNum}</span>${verse}</p>`;
+        });
+
+        document.getElementById('verses-left').innerHTML = leftHTML;
+        document.getElementById('verses-right').innerHTML = rightHTML;
+
+        // Page numbers
+        const leftPageNum = currentSpread * 2 + 1;
+        const rightPageNum = currentSpread * 2 + 2;
+        document.getElementById('page-num-left').textContent = leftPageNum;
+        document.getElementById('page-num-right').textContent = rightPageNum;
+
+        // Page indicator
+        document.getElementById('page-indicator').textContent = 
+            `Pages ${leftPageNum}\u2013${rightPageNum} of ${totalSpreads * 2}`;
+
+        // Arrow states
+        document.getElementById('prev-btn').disabled = (currentSpread === 0);
+        document.getElementById('next-btn').disabled = (currentSpread >= totalSpreads - 1);
+    }
+
+    function nextPage() {
+        if (currentSpread < totalSpreads - 1) {
+            currentSpread++;
+            renderSpread();
+        }
+    }
+
+    function prevPage() {
+        if (currentSpread > 0) {
+            currentSpread--;
+            renderSpread();
+        }
+    }
+
+    function changeTranslation() {
+        currentSpread = 0;
+        renderSpread();
+    }
+
+    // Keyboard navigation
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'ArrowRight' || e.key === 'ArrowDown') {
+            nextPage();
+        } else if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') {
+            prevPage();
+        }
+    });
+
+    // Initialize
+    renderSpread();
+    </script>
+</body>
+</html>
