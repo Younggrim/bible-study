@@ -471,6 +471,19 @@ def build_index():
                 <a class="book-link topic-link" href="parables-of-jesus.html">Parables of Jesus</a>
                 <a class="book-link topic-link" href="prophecy-and-fulfillment.html">Prophecy &amp; Fulfillment</a>
                 <a class="book-link topic-link" href="prayers-in-the-bible.html">Prayers in the Bible</a>
+                <a class="book-link topic-link" href="i-am-statements.html">I AM Statements of Jesus</a>
+                <a class="book-link topic-link" href="ten-commandments.html">The Ten Commandments</a>
+                <a class="book-link topic-link" href="beatitudes.html">The Beatitudes</a>
+                <a class="book-link topic-link" href="covenants.html">Covenants of the Bible</a>
+                <a class="book-link topic-link" href="men-of-the-bible.html">Men of the Bible</a>
+                <a class="book-link topic-link" href="women-of-the-bible.html">Women of the Bible</a>
+                <a class="book-link topic-link" href="kings-of-israel.html">Kings of Israel &amp; Judah</a>
+                <a class="book-link topic-link" href="promises-of-god.html">Promises of God</a>
+                <a class="book-link topic-link" href="spiritual-disciplines.html">Spiritual Disciplines</a>
+                <a class="book-link topic-link" href="marriage-and-family.html">Marriage &amp; Family</a>
+                <a class="book-link topic-link" href="the-trinity.html">The Trinity</a>
+                <a class="book-link topic-link" href="the-gospel.html">The Gospel: Salvation</a>
+                <a class="book-link topic-link" href="miracles-of-jesus.html">Miracles of Jesus</a>
             </div>
         </div>
         </div>
