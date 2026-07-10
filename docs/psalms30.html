@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Psalms 30 — Bible Study</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="site/style.css">
+</head>
+<body>
+    <nav class="top-nav">
+        <button class="hamburger" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>
+        <a href="index.html" class="nav-brand">Bible Study</a>
+        <div class="nav-center">
+            <span style="font-size:0.9rem;color:var(--text-secondary);">Psalms &bull; Chapter 30</span>
+            <select class="nav-translation" onchange="switchTranslation(this.value)">
+                <option value="ESV">ESV</option>
+                <option value="KJV">KJV</option>
+                <option value="ASV">ASV</option>
+                <option value="NET">NET</option>
+                <option value="WEB">WEB</option>
+            </select>
+        </div>
+    </nav>
+
+    <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
+
+    <aside class="left-sidebar">
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Old Testament</div>
+            <a class="sidebar-item" href="genesis1.html"><i class="fas fa-book"></i> Genesis</a>
+            <a class="sidebar-item" href="exodus1.html"><i class="fas fa-book"></i> Exodus</a>
+            <a class="sidebar-item" href="leviticus1.html"><i class="fas fa-book"></i> Leviticus</a>
+            <a class="sidebar-item" href="numbers1.html"><i class="fas fa-book"></i> Numbers</a>
+            <a class="sidebar-item" href="deuteronomy1.html"><i class="fas fa-book"></i> Deuteronomy</a>
+            <a class="sidebar-item" href="joshua1.html"><i class="fas fa-book"></i> Joshua</a>
+            <a class="sidebar-item" href="judges1.html"><i class="fas fa-book"></i> Judges</a>
+            <a class="sidebar-item" href="ruth1.html"><i class="fas fa-book"></i> Ruth</a>
+            <a class="sidebar-item" href="1samuel1.html"><i class="fas fa-book"></i> 1 Samuel</a>
+            <a class="sidebar-item" href="2samuel1.html"><i class="fas fa-book"></i> 2 Samuel</a>
+            <a class="sidebar-item" href="1kings1.html"><i class="fas fa-book"></i> 1 Kings</a>
+            <a class="sidebar-item" href="2kings1.html"><i class="fas fa-book"></i> 2 Kings</a>
+            <a class="sidebar-item" href="1chronicles1.html"><i class="fas fa-book"></i> 1 Chronicles</a>
+            <a class="sidebar-item" href="2chronicles1.html"><i class="fas fa-book"></i> 2 Chronicles</a>
+            <a class="sidebar-item" href="ezra1.html"><i class="fas fa-book"></i> Ezra</a>
+            <a class="sidebar-item" href="nehemiah1.html"><i class="fas fa-book"></i> Nehemiah</a>
+            <a class="sidebar-item" href="esther1.html"><i class="fas fa-book"></i> Esther</a>
+            <a class="sidebar-item" href="job1.html"><i class="fas fa-book"></i> Job</a>
+            <a class="sidebar-item active" href="psalms1.html"><i class="fas fa-book"></i> Psalms</a>
+            <div class="chapter-grid">
+                <a class="chapter-btn" href="psalms1.html">1</a>
+                <a class="chapter-btn" href="psalms2.html">2</a>
+                <a class="chapter-btn" href="psalms3.html">3</a>
+                <a class="chapter-btn" href="psalms4.html">4</a>
+                <a class="chapter-btn" href="psalms5.html">5</a>
+                <a class="chapter-btn" href="psalms6.html">6</a>
+                <a class="chapter-btn" href="psalms7.html">7</a>
+                <a class="chapter-btn" href="psalms8.html">8</a>
+                <a class="chapter-btn" href="psalms9.html">9</a>
+                <a class="chapter-btn" href="psalms10.html">10</a>
+                <a class="chapter-btn" href="psalms11.html">11</a>
+                <a class="chapter-btn" href="psalms12.html">12</a>
+                <a class="chapter-btn" href="psalms13.html">13</a>
+                <a class="chapter-btn" href="psalms14.html">14</a>
+                <a class="chapter-btn" href="psalms15.html">15</a>
+                <a class="chapter-btn" href="psalms16.html">16</a>
+                <a class="chapter-btn" href="psalms17.html">17</a>
+                <a class="chapter-btn" href="psalms18.html">18</a>
+                <a class="chapter-btn" href="psalms19.html">19</a>
+                <a class="chapter-btn" href="psalms20.html">20</a>
+                <a class="chapter-btn" href="psalms21.html">21</a>
+                <a class="chapter-btn" href="psalms22.html">22</a>
+                <a class="chapter-btn" href="psalms23.html">23</a>
+                <a class="chapter-btn" href="psalms24.html">24</a>
+                <a class="chapter-btn" href="psalms25.html">25</a>
+                <a class="chapter-btn" href="psalms26.html">26</a>
+                <a class="chapter-btn" href="psalms27.html">27</a>
+                <a class="chapter-btn" href="psalms28.html">28</a>
+                <a class="chapter-btn" href="psalms29.html">29</a>
+                <a class="chapter-btn active" href="psalms30.html">30</a>
+                <a class="chapter-btn" href="psalms31.html">31</a>
+                <a class="chapter-btn" href="psalms32.html">32</a>
+                <a class="chapter-btn" href="psalms33.html">33</a>
+                <a class="chapter-btn" href="psalms34.html">34</a>
+                <a class="chapter-btn" href="psalms35.html">35</a>
+                <a class="chapter-btn" href="psalms36.html">36</a>
+                <a class="chapter-btn" href="psalms37.html">37</a>
+                <a class="chapter-btn" href="psalms38.html">38</a>
+                <a class="chapter-btn" href="psalms39.html">39</a>
+                <a class="chapter-btn" href="psalms40.html">40</a>
+                <a class="chapter-btn" href="psalms41.html">41</a>
+                <a class="chapter-btn" href="psalms42.html">42</a>
+                <a class="chapter-btn" href="psalms43.html">43</a>
+                <a class="chapter-btn" href="psalms44.html">44</a>
+                <a class="chapter-btn" href="psalms45.html">45</a>
+                <a class="chapter-btn" href="psalms46.html">46</a>
+                <a class="chapter-btn" href="psalms47.html">47</a>
+                <a class="chapter-btn" href="psalms48.html">48</a>
+                <a class="chapter-btn" href="psalms49.html">49</a>
+                <a class="chapter-btn" href="psalms50.html">50</a>
+                <a class="chapter-btn" href="psalms51.html">51</a>
+                <a class="chapter-btn" href="psalms52.html">52</a>
+                <a class="chapter-btn" href="psalms53.html">53</a>
+                <a class="chapter-btn" href="psalms54.html">54</a>
+                <a class="chapter-btn" href="psalms55.html">55</a>
+                <a class="chapter-btn" href="psalms56.html">56</a>
+                <a class="chapter-btn" href="psalms57.html">57</a>
+                <a class="chapter-btn" href="psalms58.html">58</a>
+                <a class="chapter-btn" href="psalms59.html">59</a>
+                <a class="chapter-btn" href="psalms60.html">60</a>
+                <a class="chapter-btn" href="psalms61.html">61</a>
+                <a class="chapter-btn" href="psalms62.html">62</a>
+                <a class="chapter-btn" href="psalms63.html">63</a>
+                <a class="chapter-btn" href="psalms64.html">64</a>
+                <a class="chapter-btn" href="psalms65.html">65</a>
+                <a class="chapter-btn" href="psalms66.html">66</a>
+                <a class="chapter-btn" href="psalms67.html">67</a>
+                <a class="chapter-btn" href="psalms68.html">68</a>
+                <a class="chapter-btn" href="psalms69.html">69</a>
+                <a class="chapter-btn" href="psalms70.html">70</a>
+                <a class="chapter-btn" href="psalms71.html">71</a>
+                <a class="chapter-btn" href="psalms72.html">72</a>
+                <a class="chapter-btn" href="psalms73.html">73</a>
+                <a class="chapter-btn" href="psalms74.html">74</a>
+                <a class="chapter-btn" href="psalms75.html">75</a>
+                <a class="chapter-btn" href="psalms76.html">76</a>
+                <a class="chapter-btn" href="psalms77.html">77</a>
+                <a class="chapter-btn" href="psalms78.html">78</a>
+                <a class="chapter-btn" href="psalms79.html">79</a>
+                <a class="chapter-btn" href="psalms80.html">80</a>
+                <a class="chapter-btn" href="psalms81.html">81</a>
+                <a class="chapter-btn" href="psalms82.html">82</a>
+                <a class="chapter-btn" href="psalms83.html">83</a>
+                <a class="chapter-btn" href="psalms84.html">84</a>
+                <a class="chapter-btn" href="psalms85.html">85</a>
+                <a class="chapter-btn" href="psalms86.html">86</a>
+                <a class="chapter-btn" href="psalms87.html">87</a>
+                <a class="chapter-btn" href="psalms88.html">88</a>
+                <a class="chapter-btn" href="psalms89.html">89</a>
+                <a class="chapter-btn" href="psalms90.html">90</a>
+                <a class="chapter-btn" href="psalms91.html">91</a>
+                <a class="chapter-btn" href="psalms92.html">92</a>
+                <a class="chapter-btn" href="psalms93.html">93</a>
+                <a class="chapter-btn" href="psalms94.html">94</a>
+                <a class="chapter-btn" href="psalms95.html">95</a>
+                <a class="chapter-btn" href="psalms96.html">96</a>
+                <a class="chapter-btn" href="psalms97.html">97</a>
+                <a class="chapter-btn" href="psalms98.html">98</a>
+                <a class="chapter-btn" href="psalms99.html">99</a>
+                <a class="chapter-btn" href="psalms100.html">100</a>
+                <a class="chapter-btn" href="psalms101.html">101</a>
+                <a class="chapter-btn" href="psalms102.html">102</a>
+                <a class="chapter-btn" href="psalms103.html">103</a>
+                <a class="chapter-btn" href="psalms104.html">104</a>
+                <a class="chapter-btn" href="psalms105.html">105</a>
+                <a class="chapter-btn" href="psalms106.html">106</a>
+                <a class="chapter-btn" href="psalms107.html">107</a>
+                <a class="chapter-btn" href="psalms108.html">108</a>
+                <a class="chapter-btn" href="psalms109.html">109</a>
+                <a class="chapter-btn" href="psalms110.html">110</a>
+                <a class="chapter-btn" href="psalms111.html">111</a>
+                <a class="chapter-btn" href="psalms112.html">112</a>
+                <a class="chapter-btn" href="psalms113.html">113</a>
+                <a class="chapter-btn" href="psalms114.html">114</a>
+                <a class="chapter-btn" href="psalms115.html">115</a>
+                <a class="chapter-btn" href="psalms116.html">116</a>
+                <a class="chapter-btn" href="psalms117.html">117</a>
+                <a class="chapter-btn" href="psalms118.html">118</a>
+                <a class="chapter-btn" href="psalms119.html">119</a>
+                <a class="chapter-btn" href="psalms120.html">120</a>
+                <a class="chapter-btn" href="psalms121.html">121</a>
+                <a class="chapter-btn" href="psalms122.html">122</a>
+                <a class="chapter-btn" href="psalms123.html">123</a>
+                <a class="chapter-btn" href="psalms124.html">124</a>
+                <a class="chapter-btn" href="psalms125.html">125</a>
+                <a class="chapter-btn" href="psalms126.html">126</a>
+                <a class="chapter-btn" href="psalms127.html">127</a>
+                <a class="chapter-btn" href="psalms128.html">128</a>
+                <a class="chapter-btn" href="psalms129.html">129</a>
+                <a class="chapter-btn" href="psalms130.html">130</a>
+                <a class="chapter-btn" href="psalms131.html">131</a>
+                <a class="chapter-btn" href="psalms132.html">132</a>
+                <a class="chapter-btn" href="psalms133.html">133</a>
+                <a class="chapter-btn" href="psalms134.html">134</a>
+                <a class="chapter-btn" href="psalms135.html">135</a>
+                <a class="chapter-btn" href="psalms136.html">136</a>
+                <a class="chapter-btn" href="psalms137.html">137</a>
+                <a class="chapter-btn" href="psalms138.html">138</a>
+                <a class="chapter-btn" href="psalms139.html">139</a>
+                <a class="chapter-btn" href="psalms140.html">140</a>
+                <a class="chapter-btn" href="psalms141.html">141</a>
+                <a class="chapter-btn" href="psalms142.html">142</a>
+                <a class="chapter-btn" href="psalms143.html">143</a>
+                <a class="chapter-btn" href="psalms144.html">144</a>
+                <a class="chapter-btn" href="psalms145.html">145</a>
+                <a class="chapter-btn" href="psalms146.html">146</a>
+                <a class="chapter-btn" href="psalms147.html">147</a>
+                <a class="chapter-btn" href="psalms148.html">148</a>
+                <a class="chapter-btn" href="psalms149.html">149</a>
+                <a class="chapter-btn" href="psalms150.html">150</a>
+            </div>
+            <a class="sidebar-item" href="proverbs1.html"><i class="fas fa-book"></i> Proverbs</a>
+            <a class="sidebar-item" href="ecclesiastes1.html"><i class="fas fa-book"></i> Ecclesiastes</a>
+            <a class="sidebar-item" href="songofsolomon1.html"><i class="fas fa-book"></i> Song of Solomon</a>
+            <a class="sidebar-item" href="isaiah1.html"><i class="fas fa-book"></i> Isaiah</a>
+            <a class="sidebar-item" href="jeremiah1.html"><i class="fas fa-book"></i> Jeremiah</a>
+            <a class="sidebar-item" href="lamentations1.html"><i class="fas fa-book"></i> Lamentations</a>
+            <a class="sidebar-item" href="ezekiel1.html"><i class="fas fa-book"></i> Ezekiel</a>
+            <a class="sidebar-item" href="daniel1.html"><i class="fas fa-book"></i> Daniel</a>
+            <a class="sidebar-item" href="hosea1.html"><i class="fas fa-book"></i> Hosea</a>
+            <a class="sidebar-item" href="joel1.html"><i class="fas fa-book"></i> Joel</a>
+            <a class="sidebar-item" href="amos1.html"><i class="fas fa-book"></i> Amos</a>
+            <a class="sidebar-item" href="obadiah1.html"><i class="fas fa-book"></i> Obadiah</a>
+            <a class="sidebar-item" href="jonah1.html"><i class="fas fa-book"></i> Jonah</a>
+            <a class="sidebar-item" href="micah1.html"><i class="fas fa-book"></i> Micah</a>
+            <a class="sidebar-item" href="nahum1.html"><i class="fas fa-book"></i> Nahum</a>
+            <a class="sidebar-item" href="habakkuk1.html"><i class="fas fa-book"></i> Habakkuk</a>
+            <a class="sidebar-item" href="zephaniah1.html"><i class="fas fa-book"></i> Zephaniah</a>
+            <a class="sidebar-item" href="haggai1.html"><i class="fas fa-book"></i> Haggai</a>
+            <a class="sidebar-item" href="zechariah1.html"><i class="fas fa-book"></i> Zechariah</a>
+            <a class="sidebar-item" href="malachi1.html"><i class="fas fa-book"></i> Malachi</a>
+        </div>
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">New Testament</div>
+            <a class="sidebar-item" href="matthew1.html"><i class="fas fa-book"></i> Matthew</a>
+            <a class="sidebar-item" href="mark1.html"><i class="fas fa-book"></i> Mark</a>
+            <a class="sidebar-item" href="luke1.html"><i class="fas fa-book"></i> Luke</a>
+            <a class="sidebar-item" href="john1.html"><i class="fas fa-book"></i> John</a>
+            <a class="sidebar-item" href="acts1.html"><i class="fas fa-book"></i> Acts</a>
+            <a class="sidebar-item" href="romans1.html"><i class="fas fa-book"></i> Romans</a>
+            <a class="sidebar-item" href="1corinthians1.html"><i class="fas fa-book"></i> 1 Corinthians</a>
+            <a class="sidebar-item" href="2corinthians1.html"><i class="fas fa-book"></i> 2 Corinthians</a>
+            <a class="sidebar-item" href="galatians1.html"><i class="fas fa-book"></i> Galatians</a>
+            <a class="sidebar-item" href="ephesians1.html"><i class="fas fa-book"></i> Ephesians</a>
+            <a class="sidebar-item" href="philippians1.html"><i class="fas fa-book"></i> Philippians</a>
+            <a class="sidebar-item" href="colossians1.html"><i class="fas fa-book"></i> Colossians</a>
+            <a class="sidebar-item" href="1thessalonians1.html"><i class="fas fa-book"></i> 1 Thessalonians</a>
+            <a class="sidebar-item" href="2thessalonians1.html"><i class="fas fa-book"></i> 2 Thessalonians</a>
+            <a class="sidebar-item" href="1timothy1.html"><i class="fas fa-book"></i> 1 Timothy</a>
+            <a class="sidebar-item" href="2timothy1.html"><i class="fas fa-book"></i> 2 Timothy</a>
+            <a class="sidebar-item" href="titus1.html"><i class="fas fa-book"></i> Titus</a>
+            <a class="sidebar-item" href="philemon1.html"><i class="fas fa-book"></i> Philemon</a>
+            <a class="sidebar-item" href="hebrews1.html"><i class="fas fa-book"></i> Hebrews</a>
+            <a class="sidebar-item" href="james1.html"><i class="fas fa-book"></i> James</a>
+            <a class="sidebar-item" href="1peter1.html"><i class="fas fa-book"></i> 1 Peter</a>
+            <a class="sidebar-item" href="2peter1.html"><i class="fas fa-book"></i> 2 Peter</a>
+            <a class="sidebar-item" href="1john1.html"><i class="fas fa-book"></i> 1 John</a>
+            <a class="sidebar-item" href="2john1.html"><i class="fas fa-book"></i> 2 John</a>
+            <a class="sidebar-item" href="3john1.html"><i class="fas fa-book"></i> 3 John</a>
+            <a class="sidebar-item" href="jude1.html"><i class="fas fa-book"></i> Jude</a>
+            <a class="sidebar-item" href="revelation1.html"><i class="fas fa-book"></i> Revelation</a>
+        </div>
+    </aside>
+
+    <main class="main-content">
+        <div class="book-header">
+            <h1>Psalms — Chapter 30</h1>
+        </div>
+
+        <div class="scripture-container">
+        <div class="translation-block active" data-translation="ESV">
+            <p class="verse"><span class="verse-num">1</span>I will extol you, O LORD, for you have drawn me up and have not let my foes rejoice over me.</p>
+            <p class="verse"><span class="verse-num">2</span>O LORD my God, I cried to you for help, and you have healed me.</p>
+            <p class="verse"><span class="verse-num">3</span>O LORD, you have brought up my soul from Sheol; you restored me to life from among those who go down to the pit.</p>
+            <p class="verse"><span class="verse-num">4</span>Sing praises to the LORD, O you his saints, and give thanks to his holy name.</p>
+            <p class="verse"><span class="verse-num">5</span>For his anger is but for a moment, and his favor is for a lifetime. Weeping may tarry for the night, but joy comes with the morning.</p>
+            <p class="verse"><span class="verse-num">6</span>As for me, I said in my prosperity, “I shall never be moved.”</p>
+            <p class="verse"><span class="verse-num">7</span>By your favor, O LORD, you made my mountain stand strong; you hid your face; I was dismayed.</p>
+            <p class="verse"><span class="verse-num">8</span>To you, O LORD, I cry, and to the Lord I plead for mercy:</p>
+            <p class="verse"><span class="verse-num">9</span>“What profit is there in my death, if I go down to the pit? Will the dust praise you? Will it tell of your faithfulness?</p>
+            <p class="verse"><span class="verse-num">10</span>Hear, O LORD, and be merciful to me! O LORD, be my helper!”</p>
+            <p class="verse"><span class="verse-num">11</span>You have turned for me my mourning into dancing; you have loosed my sackcloth and clothed me with gladness,</p>
+            <p class="verse"><span class="verse-num">12</span>that my glory may sing your praise and not be silent. O LORD my God, I will give thanks to you forever!</p>
+        </div>
+        <div class="translation-block" data-translation="KJV">
+            <p class="verse"><span class="verse-num">1</span>I will extol thee, O LORD; for thou hast lifted me up, and hast not made my foes to rejoice over me.</p>
+            <p class="verse"><span class="verse-num">2</span>O LORD my God, I cried unto thee, and thou hast healed me.</p>
+            <p class="verse"><span class="verse-num">3</span>O LORD, thou hast brought up my soul from the grave: thou hast kept me alive, that I should not go down to the pit.</p>
+            <p class="verse"><span class="verse-num">4</span>Sing unto the LORD, O ye saints of his, and give thanks at the remembrance of his holiness.</p>
+            <p class="verse"><span class="verse-num">5</span>For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.</p>
+            <p class="verse"><span class="verse-num">6</span>And in my prosperity I said, I shall never be moved.</p>
+            <p class="verse"><span class="verse-num">7</span>LORD, by thy favour thou hast made my mountain to stand strong: thou didst hide thy face, and I was troubled.</p>
+            <p class="verse"><span class="verse-num">8</span>I cried to thee, O LORD; and unto the LORD I made supplication.</p>
+            <p class="verse"><span class="verse-num">9</span>What profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?</p>
+            <p class="verse"><span class="verse-num">10</span>Hear, O LORD, and have mercy upon me: LORD, be thou my helper.</p>
+            <p class="verse"><span class="verse-num">11</span>Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness;</p>
+            <p class="verse"><span class="verse-num">12</span>To the end that my glory may sing praise to thee, and not be silent. O LORD my God, I will give thanks unto thee for ever.</p>
+        </div>
+        <div class="translation-block" data-translation="ASV">
+            <p class="verse"><span class="verse-num">1</span>I will extol thee, O Jehovah; for thou hast raised me up, And hast not made my foes to rejoice over me.</p>
+            <p class="verse"><span class="verse-num">2</span>O Jehovah my God, I cried unto thee, and thou hast healed me.</p>
+            <p class="verse"><span class="verse-num">3</span>O Jehovah, thou hast brought up my soul from Sheol; Thou hast kept me alive, that I should not go down to the pit.</p>
+            <p class="verse"><span class="verse-num">4</span>Sing praise unto Jehovah, O ye saints of his, And give thanks to his holy memorial [name].</p>
+            <p class="verse"><span class="verse-num">5</span>For his anger is but for a moment; His favor is for a life-time: Weeping may tarry for the night, But joy [cometh] in the morning.</p>
+            <p class="verse"><span class="verse-num">6</span>As for me, I said in my prosperity, I shall never be moved.</p>
+            <p class="verse"><span class="verse-num">7</span>Thou, Jehovah, of thy favor hadst made my mountain to stand strong: Thou didst hide thy face; I was troubled.</p>
+            <p class="verse"><span class="verse-num">8</span>I cried to thee, O Jehovah; And unto Jehovah I made supplication:</p>
+            <p class="verse"><span class="verse-num">9</span>What profit is there in my blood, when I go down to the pit? Shall the dust praise thee? shall it declare thy truth?</p>
+            <p class="verse"><span class="verse-num">10</span>Hear, O Jehovah, and have mercy upon me: Jehovah, be thou my helper.</p>
+            <p class="verse"><span class="verse-num">11</span>Thou hast turned for me my mourning into dancing; Thou hast loosed my sackcloth, and girded me with gladness;</p>
+            <p class="verse"><span class="verse-num">12</span>To the end that [my] glory may sing praise to thee, and not be silent. O Jehovah my God, I will give thanks unto thee for ever. Psalm 31 For the Chief Musician. A Psalm of David.</p>
+        </div>
+        <div class="translation-block" data-translation="NET">
+            <p class="verse"><span class="verse-num">1</span>A psalm, a song used at the dedication of the temple; by David. I will praise you, O Lord, for you lifted me up and did not allow my enemies to gloat over me.</p>
+            <p class="verse"><span class="verse-num">2</span>O Lord my God, I cried out to you and you healed me.</p>
+            <p class="verse"><span class="verse-num">3</span>O Lord, you pulled me up from Sheol; you rescued me from among those descending into the grave.</p>
+            <p class="verse"><span class="verse-num">4</span>Sing to the Lord, you faithful followers of his; give thanks to his holy name.</p>
+            <p class="verse"><span class="verse-num">5</span>For his anger lasts only a brief moment, and his good favor restores one’s life. One may experience sorrow during the night, but joy arrives in the morning.</p>
+            <p class="verse"><span class="verse-num">6</span>In my self-confidence I said, “I will never be shaken.”</p>
+            <p class="verse"><span class="verse-num">7</span>O Lord, in your good favor you made me secure. Then you rejected me and I was terrified.</p>
+            <p class="verse"><span class="verse-num">8</span>To you, O Lord, I cried out; I begged the Lord for mercy:</p>
+            <p class="verse"><span class="verse-num">9</span>“What profit is there in taking my life, in my descending into the Pit? Can the dust of the grave praise you? Can it declare your loyalty?</p>
+            <p class="verse"><span class="verse-num">10</span>Hear, O Lord, and have mercy on me. O Lord, deliver me.”</p>
+            <p class="verse"><span class="verse-num">11</span>Then you turned my lament into dancing; you removed my sackcloth and covered me with joy.</p>
+            <p class="verse"><span class="verse-num">12</span>So now my heart will sing to you and not be silent; O Lord my God, I will always give thanks to you.</p>
+        </div>
+        <div class="translation-block" data-translation="WEB">
+            <p class="verse"><span class="verse-num">1</span>I will extol you, Yahweh, for you have raised me up, and have not made my foes to rejoice over me.</p>
+            <p class="verse"><span class="verse-num">2</span>Yahweh my God, I cried to you, and you have healed me.</p>
+            <p class="verse"><span class="verse-num">3</span>Yahweh, you have brought up my soul from Sheol. You have kept me alive, that I should not go down to the pit.</p>
+            <p class="verse"><span class="verse-num">4</span>Sing praise to Yahweh, you saints of his. Give thanks to his holy name.</p>
+            <p class="verse"><span class="verse-num">5</span>For his anger is but for a moment. His favor is for a lifetime. Weeping may stay for the night, but joy comes in the morning.</p>
+            <p class="verse"><span class="verse-num">6</span>As for me, I said in my prosperity, “I shall never be moved.”</p>
+            <p class="verse"><span class="verse-num">7</span>You, Yahweh, when you favored me, made my mountain stand strong; but when you hid your face, I was troubled.</p>
+            <p class="verse"><span class="verse-num">8</span>I cried to you, Yahweh. I made supplication to the Lord:</p>
+            <p class="verse"><span class="verse-num">9</span>“What profit is there in my destruction, if I go down to the pit? Shall the dust praise you? Shall it declare your truth?</p>
+            <p class="verse"><span class="verse-num">10</span>Hear, Yahweh, and have mercy on me. Yahweh, be my helper.”</p>
+            <p class="verse"><span class="verse-num">11</span>You have turned my mourning into dancing for me. You have removed my sackcloth, and clothed me with gladness,</p>
+            <p class="verse"><span class="verse-num">12</span>To the end that my heart may sing praise to you, and not be silent. Yahweh my God, I will give thanks to you forever!</p>
+        </div>
+
+        </div>
+
+        <div class="study-section">
+            <div class="study-tabs">
+                <div class="study-tab active" data-tab="summary">Summary</div>
+                <div class="study-tab" data-tab="keyverses">Key Verses</div>
+                <div class="study-tab" data-tab="crossref">Cross-References</div>
+                <div class="study-tab" data-tab="translations">Translations</div>
+                <div class="study-tab" data-tab="videos">Videos</div>
+                <div class="study-tab" data-tab="reflection">Reflection</div>
+            </div>
+            <div class="tab-content active" id="tab-summary">
+                <h3>Summary</h3>
+                <p>A thanksgiving psalm — David praises God for healing and rescue from the pit; weeping may endure for a night, but joy comes in the morning; God turned his mourning into dancing.</p>
+            </div>
+            <div class="tab-content" id="tab-keyverses">
+                <h3>Key Verses</h3>
+                                <div class="key-verse">
+                    <div class="ref">v.5</div>
+                    <div class="text">&quot;For his anger endureth but a moment; in his favour is life: weeping may endure for a night, but joy cometh in the morning.&quot; (KJV) — One of the Psalter&#x27;s most beloved verses. The proportions: anger = a moment; favor = a lifetime. Weeping = one night; joy = the morning. The suffering is real but temporary; the joy is real and lasting.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.6</div>
+                    <div class="text">&quot;And in my prosperity I said, I shall never be moved.&quot; (KJV) — David&#x27;s confession of false security. Prosperity bred complacency. He thought his stability was inherent rather than dependent on God&#x27;s favor. This is the danger of ease.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.11</div>
+                    <div class="text">&quot;Thou hast turned for me my mourning into dancing: thou hast put off my sackcloth, and girded me with gladness&quot; (KJV) — Complete reversal: mourning → dancing; sackcloth → gladness. God does not merely end suffering — He transforms it into its opposite. The exchange is total.</div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-crossref">
+                <h3>Cross-References</h3>
+                <ul>
+                    <li>v.3   — Psalm 86:13 — "Thou hast delivered my soul from the lowest hell." Same rescue from death/Sheol. v.5   — Isaiah 54:7-8 — "For a small moment have I forsaken thee; but with great mercies will I gather thee." Same moment- vs-eternity proportion. v.5   — 2 Corinthians 4:17 — "Our light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory." NT echo. v.6   — Deuteronomy 8:12-14 — "When thou hast eaten and art full... then thine heart be lifted up, and thou forget the LORD." Prosperity-induced forgetfulness. v.9   — Psalm 6:5 — "In death there is no remembrance of thee." Same argument for life-preservation. v.11  — Jeremiah 31:13 — "I will turn their mourning into joy." Prophetic fulfillment of the same reversal. v.11  — Revelation 21:4 — "God shall wipe away all tears." The ultimate mourning-to-joy transformation.</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-translations">
+                <h3>Translations</h3>
+                <ul>
+                    <li>v.1 — KJV: "thou hast lifted me up" / ESV: "you have drawn me up" — Hebrew "dillitani" = drew up (as drawing water from a well). David was in the depths and God drew him upward. The image is rescue from a pit or cistern.</li>
+                    <li>v.5 — KJV: "in his favour is life" / ESV: "his favor is for a lifetime" — Hebrew "b'ratsono chayyim." KJV reads: His favor IS life itself. ESV reads: His favor lasts a lifetime. Both are valid. KJV is more theologically profound — God's favor is not merely long-lasting but IS life itself.</li>
+                    <li>v.9 — KJV: "What profit is there in my blood" / ESV: "What profit is there in my death" — David argues with God: what do You gain from my death? The dead cannot praise You. Keep me alive for YOUR glory. A bold but legitimate prayer logic.</li>
+                    <li>v.11 — KJV: "girded me with gladness" / ESV: "clothed me with gladness" — Hebrew "azartani" = belted, girded, wrapped. Like changing garments — sackcloth removed, gladness put on like a festive robe. Joy as clothing you wear visibly.</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-videos">
+                <h3>Videos</h3>
+                                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://bibleproject.com/explore/video/psalms/" target="_blank">The Bible Project — Psalms Overview</a></h4>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://enduringword.com/media/psalms/" target="_blank">David Guzik — Enduring Word Teaching Series (Psalms)</a></h4>
+                        <p>Verse-by-verse audio/video teaching through Psalms.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-reflection">
+                <h3>Reflection</h3>
+                <ul>
+                    <li>1. Joy comes in the morning (v.5). Whatever night you are in, it has a morning. Weeping is temporary — it "endures" for a night but does not take up permanent residence. Hold on through the darkness; dawn is coming.</li>
+                    <li>2. Prosperity can produce dangerous complacency (v.6). "I shall never be moved" — said in ease, disproved by crisis. When life is good, remember it is GOD'S FAVOR making your mountain strong (v.7), not your own stability. Ease without gratitude breeds false security.</li>
+                    <li>3. God hides His face to restore dependence (v.7). When God "hid his face," David was troubled — and that trouble drove him back to prayer (vv.8-10). Sometimes God withdraws felt presence to restore desperate dependence. The withdrawal is purposeful.</li>
+                    <li>4. Mourning is TURNED into dancing (v.11). Not replaced, not followed — TURNED. The very thing that was mourning becomes dancing. God transforms suffering itself into celebration. Your darkest season becomes your greatest testimony.</li>
+                    <li>5. The purpose of deliverance is endless praise (v.12). "That my glory may sing praise to thee, and not be silent." God rescues so that praise flows — forever. You were saved to sing. Do not be silent about what He has done.</li>
+                </ul>
+            </div>
+        </div>
+    </main>
+
+    <script src="site/script.js"></script>
+</body>
+</html>
