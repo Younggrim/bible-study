@@ -125,6 +125,13 @@ def render_section_as_list(text):
         if item:
             # Convert URLs to links
             item = re.sub(r'(https?://\S+)', r'<a href="\1" target="_blank">\1</a>', item)
+            # Format cross-reference pattern: v.X — Reference — "quote"
+            # Bold the verse reference and italicize the quote
+            item = re.sub(r'^(v\.?\d+\S*)\s*[—–-]\s*', r'<strong>\1</strong> → ', item)
+            # Bold standalone scripture references at start (like "John 1:1-3 —")
+            item = re.sub(r'^(\d?\s?[A-Z][a-z]+ \d+[:\d\-,]*)\s*[—–-]\s*', r'<strong>\1</strong> — ', item)
+            # Italicize quoted text
+            item = re.sub(r'"([^"]+)"', r'<em>"\1"</em>', item)
             html_items.append(f"                    <li>{item}</li>")
     return "\n".join(html_items)
 
