@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nehemiah 7 — Bible Study</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="site/style.css">
+</head>
+<body>
+    <nav class="top-nav">
+        <button class="hamburger" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>
+        <a href="index.html" class="nav-brand">Bible Study</a>
+        <div class="nav-center">
+            <span style="font-size:0.9rem;color:var(--text-secondary);">Nehemiah &bull; Chapter 7</span>
+        </div>
+    </nav>
+
+    <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
+
+    <aside class="left-sidebar">
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Old Testament</div>
+            <a class="sidebar-item" href="genesis1.html"><i class="fas fa-book"></i> Genesis</a>
+            <a class="sidebar-item" href="exodus1.html"><i class="fas fa-book"></i> Exodus</a>
+            <a class="sidebar-item" href="leviticus1.html"><i class="fas fa-book"></i> Leviticus</a>
+            <a class="sidebar-item" href="numbers1.html"><i class="fas fa-book"></i> Numbers</a>
+            <a class="sidebar-item" href="deuteronomy1.html"><i class="fas fa-book"></i> Deuteronomy</a>
+            <a class="sidebar-item" href="joshua1.html"><i class="fas fa-book"></i> Joshua</a>
+            <a class="sidebar-item" href="judges1.html"><i class="fas fa-book"></i> Judges</a>
+            <a class="sidebar-item" href="ruth1.html"><i class="fas fa-book"></i> Ruth</a>
+            <a class="sidebar-item" href="1samuel1.html"><i class="fas fa-book"></i> 1 Samuel</a>
+            <a class="sidebar-item" href="2samuel1.html"><i class="fas fa-book"></i> 2 Samuel</a>
+            <a class="sidebar-item" href="1kings1.html"><i class="fas fa-book"></i> 1 Kings</a>
+            <a class="sidebar-item" href="2kings1.html"><i class="fas fa-book"></i> 2 Kings</a>
+            <a class="sidebar-item" href="1chronicles1.html"><i class="fas fa-book"></i> 1 Chronicles</a>
+            <a class="sidebar-item" href="2chronicles1.html"><i class="fas fa-book"></i> 2 Chronicles</a>
+            <a class="sidebar-item" href="ezra1.html"><i class="fas fa-book"></i> Ezra</a>
+            <a class="sidebar-item active" href="nehemiah1.html"><i class="fas fa-book"></i> Nehemiah</a>
+            <div class="chapter-grid">
+                <a class="chapter-btn" href="nehemiah1.html">1</a>
+                <a class="chapter-btn" href="nehemiah2.html">2</a>
+                <a class="chapter-btn" href="nehemiah3.html">3</a>
+                <a class="chapter-btn" href="nehemiah4.html">4</a>
+                <a class="chapter-btn" href="nehemiah5.html">5</a>
+                <a class="chapter-btn" href="nehemiah6.html">6</a>
+                <a class="chapter-btn active" href="nehemiah7.html">7</a>
+                <a class="chapter-btn" href="nehemiah8.html">8</a>
+                <a class="chapter-btn" href="nehemiah9.html">9</a>
+                <a class="chapter-btn" href="nehemiah10.html">10</a>
+                <a class="chapter-btn" href="nehemiah11.html">11</a>
+                <a class="chapter-btn" href="nehemiah12.html">12</a>
+                <a class="chapter-btn" href="nehemiah13.html">13</a>
+            </div>
+            <a class="sidebar-item" href="esther1.html"><i class="fas fa-book"></i> Esther</a>
+            <a class="sidebar-item" href="job1.html"><i class="fas fa-book"></i> Job</a>
+            <a class="sidebar-item" href="psalms1.html"><i class="fas fa-book"></i> Psalms</a>
+            <a class="sidebar-item" href="proverbs1.html"><i class="fas fa-book"></i> Proverbs</a>
+            <a class="sidebar-item" href="ecclesiastes1.html"><i class="fas fa-book"></i> Ecclesiastes</a>
+            <a class="sidebar-item" href="songofsolomon1.html"><i class="fas fa-book"></i> Song of Solomon</a>
+            <a class="sidebar-item" href="isaiah1.html"><i class="fas fa-book"></i> Isaiah</a>
+            <a class="sidebar-item" href="jeremiah1.html"><i class="fas fa-book"></i> Jeremiah</a>
+            <a class="sidebar-item" href="lamentations1.html"><i class="fas fa-book"></i> Lamentations</a>
+            <a class="sidebar-item" href="ezekiel1.html"><i class="fas fa-book"></i> Ezekiel</a>
+            <a class="sidebar-item" href="daniel1.html"><i class="fas fa-book"></i> Daniel</a>
+            <a class="sidebar-item" href="hosea1.html"><i class="fas fa-book"></i> Hosea</a>
+            <a class="sidebar-item" href="joel1.html"><i class="fas fa-book"></i> Joel</a>
+            <a class="sidebar-item" href="amos1.html"><i class="fas fa-book"></i> Amos</a>
+            <a class="sidebar-item" href="obadiah1.html"><i class="fas fa-book"></i> Obadiah</a>
+            <a class="sidebar-item" href="jonah1.html"><i class="fas fa-book"></i> Jonah</a>
+            <a class="sidebar-item" href="micah1.html"><i class="fas fa-book"></i> Micah</a>
+            <a class="sidebar-item" href="nahum1.html"><i class="fas fa-book"></i> Nahum</a>
+            <a class="sidebar-item" href="habakkuk1.html"><i class="fas fa-book"></i> Habakkuk</a>
+            <a class="sidebar-item" href="zephaniah1.html"><i class="fas fa-book"></i> Zephaniah</a>
+            <a class="sidebar-item" href="haggai1.html"><i class="fas fa-book"></i> Haggai</a>
+            <a class="sidebar-item" href="zechariah1.html"><i class="fas fa-book"></i> Zechariah</a>
+            <a class="sidebar-item" href="malachi1.html"><i class="fas fa-book"></i> Malachi</a>
+        </div>
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">New Testament</div>
+            <a class="sidebar-item" href="matthew1.html"><i class="fas fa-book"></i> Matthew</a>
+            <a class="sidebar-item" href="mark1.html"><i class="fas fa-book"></i> Mark</a>
+            <a class="sidebar-item" href="luke1.html"><i class="fas fa-book"></i> Luke</a>
+            <a class="sidebar-item" href="john1.html"><i class="fas fa-book"></i> John</a>
+            <a class="sidebar-item" href="acts1.html"><i class="fas fa-book"></i> Acts</a>
+            <a class="sidebar-item" href="romans1.html"><i class="fas fa-book"></i> Romans</a>
+            <a class="sidebar-item" href="1corinthians1.html"><i class="fas fa-book"></i> 1 Corinthians</a>
+            <a class="sidebar-item" href="2corinthians1.html"><i class="fas fa-book"></i> 2 Corinthians</a>
+            <a class="sidebar-item" href="galatians1.html"><i class="fas fa-book"></i> Galatians</a>
+            <a class="sidebar-item" href="ephesians1.html"><i class="fas fa-book"></i> Ephesians</a>
+            <a class="sidebar-item" href="philippians1.html"><i class="fas fa-book"></i> Philippians</a>
+            <a class="sidebar-item" href="colossians1.html"><i class="fas fa-book"></i> Colossians</a>
+            <a class="sidebar-item" href="1thessalonians1.html"><i class="fas fa-book"></i> 1 Thessalonians</a>
+            <a class="sidebar-item" href="2thessalonians1.html"><i class="fas fa-book"></i> 2 Thessalonians</a>
+            <a class="sidebar-item" href="1timothy1.html"><i class="fas fa-book"></i> 1 Timothy</a>
+            <a class="sidebar-item" href="2timothy1.html"><i class="fas fa-book"></i> 2 Timothy</a>
+            <a class="sidebar-item" href="titus1.html"><i class="fas fa-book"></i> Titus</a>
+            <a class="sidebar-item" href="philemon1.html"><i class="fas fa-book"></i> Philemon</a>
+            <a class="sidebar-item" href="hebrews1.html"><i class="fas fa-book"></i> Hebrews</a>
+            <a class="sidebar-item" href="james1.html"><i class="fas fa-book"></i> James</a>
+            <a class="sidebar-item" href="1peter1.html"><i class="fas fa-book"></i> 1 Peter</a>
+            <a class="sidebar-item" href="2peter1.html"><i class="fas fa-book"></i> 2 Peter</a>
+            <a class="sidebar-item" href="1john1.html"><i class="fas fa-book"></i> 1 John</a>
+            <a class="sidebar-item" href="2john1.html"><i class="fas fa-book"></i> 2 John</a>
+            <a class="sidebar-item" href="3john1.html"><i class="fas fa-book"></i> 3 John</a>
+            <a class="sidebar-item" href="jude1.html"><i class="fas fa-book"></i> Jude</a>
+            <a class="sidebar-item" href="revelation1.html"><i class="fas fa-book"></i> Revelation</a>
+        </div>
+    </aside>
+
+
+
+    <main class="main-content">
+        <div class="book-header">
+            <h1>Nehemiah — Chapter 7</h1>
+        </div>
+
+        <div class="scripture-container">
+            <p class="verse"><span class="verse-num">1</span>Now when the wall had been built and I had set up the doors, and the gatekeepers, the singers, and the Levites had been appointed,</p>
+            <p class="verse"><span class="verse-num">2</span>I gave my brother Hanani and Hananiah the governor of the castle charge over Jerusalem, for he was a more faithful and God-fearing man than many.</p>
+            <p class="verse"><span class="verse-num">3</span>And I said to them, “Let not the gates of Jerusalem be opened until the sun is hot. And while they are still standing guard, let them shut and bar the doors. Appoint guards from among the inhabitants of Jerusalem, some at their guard posts and some in front of their own homes.”</p>
+            <p class="verse"><span class="verse-num">4</span>The city was wide and large, but the people within it were few, and no houses had been rebuilt.</p>
+            <p class="verse"><span class="verse-num">5</span>Then my God put it into my heart to assemble the nobles and the officials and the people to be enrolled by genealogy. And I found the book of the genealogy of those who came up at the first, and I found written in it:</p>
+            <p class="verse"><span class="verse-num">6</span>These were the people of the province who came up out of the captivity of those exiles whom Nebuchadnezzar the king of Babylon had carried into exile. They returned to Jerusalem and Judah, each to his town.</p>
+            <p class="verse"><span class="verse-num">7</span>They came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, Baanah. The number of the men of the people of Israel:</p>
+            <p class="verse"><span class="verse-num">8</span>the sons of Parosh, 2,172.</p>
+            <p class="verse"><span class="verse-num">9</span>The sons of Shephatiah, 372.</p>
+            <p class="verse"><span class="verse-num">10</span>The sons of Arah, 652.</p>
+            <p class="verse"><span class="verse-num">11</span>The sons of Pahath-moab, namely the sons of Jeshua and Joab, 2,818.</p>
+            <p class="verse"><span class="verse-num">12</span>The sons of Elam, 1,254.</p>
+            <p class="verse"><span class="verse-num">13</span>The sons of Zattu, 845.</p>
+            <p class="verse"><span class="verse-num">14</span>The sons of Zaccai, 760.</p>
+            <p class="verse"><span class="verse-num">15</span>The sons of Binnui, 648.</p>
+            <p class="verse"><span class="verse-num">16</span>The sons of Bebai, 628.</p>
+            <p class="verse"><span class="verse-num">17</span>The sons of Azgad, 2,322.</p>
+            <p class="verse"><span class="verse-num">18</span>The sons of Adonikam, 667.</p>
+            <p class="verse"><span class="verse-num">19</span>The sons of Bigvai, 2,067.</p>
+            <p class="verse"><span class="verse-num">20</span>The sons of Adin, 655.</p>
+            <p class="verse"><span class="verse-num">21</span>The sons of Ater, namely of Hezekiah, 98.</p>
+            <p class="verse"><span class="verse-num">22</span>The sons of Hashum, 328.</p>
+            <p class="verse"><span class="verse-num">23</span>The sons of Bezai, 324.</p>
+            <p class="verse"><span class="verse-num">24</span>The sons of Hariph, 112.</p>
+            <p class="verse"><span class="verse-num">25</span>The sons of Gibeon, 95.</p>
+            <p class="verse"><span class="verse-num">26</span>The men of Bethlehem and Netophah, 188.</p>
+            <p class="verse"><span class="verse-num">27</span>The men of Anathoth, 128.</p>
+            <p class="verse"><span class="verse-num">28</span>The men of Beth-azmaveth, 42.</p>
+            <p class="verse"><span class="verse-num">29</span>The men of Kiriath-jearim, Chephirah, and Beeroth, 743.</p>
+            <p class="verse"><span class="verse-num">30</span>The men of Ramah and Geba, 621.</p>
+            <p class="verse"><span class="verse-num">31</span>The men of Michmas, 122.</p>
+            <p class="verse"><span class="verse-num">32</span>The men of Bethel and Ai, 123.</p>
+            <p class="verse"><span class="verse-num">33</span>The men of the other Nebo, 52.</p>
+            <p class="verse"><span class="verse-num">34</span>The sons of the other Elam, 1,254.</p>
+            <p class="verse"><span class="verse-num">35</span>The sons of Harim, 320.</p>
+            <p class="verse"><span class="verse-num">36</span>The sons of Jericho, 345.</p>
+            <p class="verse"><span class="verse-num">37</span>The sons of Lod, Hadid, and Ono, 721.</p>
+            <p class="verse"><span class="verse-num">38</span>The sons of Senaah, 3,930.</p>
+            <p class="verse"><span class="verse-num">39</span>The priests: the sons of Jedaiah, namely the house of Jeshua, 973.</p>
+            <p class="verse"><span class="verse-num">40</span>The sons of Immer, 1,052.</p>
+            <p class="verse"><span class="verse-num">41</span>The sons of Pashhur, 1,247.</p>
+            <p class="verse"><span class="verse-num">42</span>The sons of Harim, 1,017.</p>
+            <p class="verse"><span class="verse-num">43</span>The Levites: the sons of Jeshua, namely of Kadmiel of the sons of Hodevah, 74.</p>
+            <p class="verse"><span class="verse-num">44</span>The singers: the sons of Asaph, 148.</p>
+            <p class="verse"><span class="verse-num">45</span>The gatekeepers: the sons of Shallum, the sons of Ater, the sons of Talmon, the sons of Akkub, the sons of Hatita, the sons of Shobai, 138.</p>
+            <p class="verse"><span class="verse-num">46</span>The temple servants: the sons of Ziha, the sons of Hasupha, the sons of Tabbaoth,</p>
+            <p class="verse"><span class="verse-num">47</span>the sons of Keros, the sons of Sia, the sons of Padon,</p>
+            <p class="verse"><span class="verse-num">48</span>the sons of Lebana, the sons of Hagaba, the sons of Shalmai,</p>
+            <p class="verse"><span class="verse-num">49</span>the sons of Hanan, the sons of Giddel, the sons of Gahar,</p>
+            <p class="verse"><span class="verse-num">50</span>the sons of Reaiah, the sons of Rezin, the sons of Nekoda,</p>
+            <p class="verse"><span class="verse-num">51</span>the sons of Gazzam, the sons of Uzza, the sons of Paseah,</p>
+            <p class="verse"><span class="verse-num">52</span>the sons of Besai, the sons of Meunim, the sons of Nephushesim,</p>
+            <p class="verse"><span class="verse-num">53</span>the sons of Bakbuk, the sons of Hakupha, the sons of Harhur,</p>
+            <p class="verse"><span class="verse-num">54</span>the sons of Bazlith, the sons of Mehida, the sons of Harsha,</p>
+            <p class="verse"><span class="verse-num">55</span>the sons of Barkos, the sons of Sisera, the sons of Temah,</p>
+            <p class="verse"><span class="verse-num">56</span>the sons of Neziah, the sons of Hatipha.</p>
+            <p class="verse"><span class="verse-num">57</span>The sons of Solomon’s servants: the sons of Sotai, the sons of Sophereth, the sons of Perida,</p>
+            <p class="verse"><span class="verse-num">58</span>the sons of Jaala, the sons of Darkon, the sons of Giddel,</p>
+            <p class="verse"><span class="verse-num">59</span>the sons of Shephatiah, the sons of Hattil, the sons of Pochereth-hazzebaim, the sons of Amon.</p>
+            <p class="verse"><span class="verse-num">60</span>All the temple servants and the sons of Solomon’s servants were 392.</p>
+            <p class="verse"><span class="verse-num">61</span>The following were those who came up from Tel-melah, Tel-harsha, Cherub, Addon, and Immer, but they could not prove their fathers’ houses nor their descent, whether they belonged to Israel:</p>
+            <p class="verse"><span class="verse-num">62</span>the sons of Delaiah, the sons of Tobiah, the sons of Nekoda, 642.</p>
+            <p class="verse"><span class="verse-num">63</span>Also, of the priests: the sons of Hobaiah, the sons of Hakkoz, the sons of Barzillai (who had taken a wife of the daughters of Barzillai the Gileadite and was called by their name).</p>
+            <p class="verse"><span class="verse-num">64</span>These sought their registration among those enrolled in the genealogies, but it was not found there, so they were excluded from the priesthood as unclean.</p>
+            <p class="verse"><span class="verse-num">65</span>The governor told them that they were not to partake of the most holy food until a priest with Urim and Thummim should arise.</p>
+            <p class="verse"><span class="verse-num">66</span>The whole assembly together was 42,360,</p>
+            <p class="verse"><span class="verse-num">67</span>besides their male and female servants, of whom there were 7,337. And they had 245 singers, male and female.</p>
+            <p class="verse"><span class="verse-num">68</span>Their horses were 736, their mules 245,</p>
+            <p class="verse"><span class="verse-num">69</span>their camels 435, and their donkeys 6,720.</p>
+            <p class="verse"><span class="verse-num">70</span>Now some of the heads of fathers’ houses gave to the work. The governor gave to the treasury 1,000 darics of gold, 50 basins, 30 priests’ garments and 500 minas of silver.</p>
+            <p class="verse"><span class="verse-num">71</span>And some of the heads of fathers’ houses gave into the treasury of the work 20,000 darics of gold and 2,200 minas of silver.</p>
+            <p class="verse"><span class="verse-num">72</span>And what the rest of the people gave was 20,000 darics of gold, 2,000 minas of silver, and 67 priests’ garments.</p>
+            <p class="verse"><span class="verse-num">73</span>So the priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all Israel, lived in their towns. And when the seventh month had come, the people of Israel were in their towns.</p>
+        </div>
+
+        <div class="study-section">
+            <div class="study-tabs">
+                <div class="study-tab active" data-tab="summary">Summary</div>
+                <div class="study-tab" data-tab="keyverses">Key Verses</div>
+                <div class="study-tab" data-tab="crossref">Cross-References</div>
+                <div class="study-tab" data-tab="commentary">Commentary</div>
+                <div class="study-tab" data-tab="translations">Translations</div>
+                <div class="study-tab" data-tab="videos">Videos</div>
+                <div class="study-tab" data-tab="reflection">Reflection</div>
+            </div>
+            <div class="tab-content active" id="tab-summary">
+                <h3>Summary</h3>
+                <p>With the wall complete, Nehemiah appoints gatekeepers and finds the genealogical registry of those who first returned from exile. The list mirrors Ezra 2, establishing the identity of the covenant community.</p>
+            </div>
+            <div class="tab-content" id="tab-keyverses">
+                <h3>Key Verses</h3>
+                                <div class="key-verse">
+                    <div class="ref">v.2</div>
+                    <div class="text">&quot;For he was a more faithful and God-fearing man than many.&quot; (ESV) — Nehemiah&#x27;s criteria for leadership delegation: faithfulness and the fear of God. Not competence alone, not connections, not charisma — but proven reliability and genuine reverence. These two qualities — trustworthiness and godliness — remain the essential qualifications for spiritual leadership.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.3</div>
+                    <div class="text">&quot;Let not the gates of Jerusalem be opened until the sun is hot.&quot; (ESV) — Practical security: gates stayed shut until full daylight and were closed before dark. Physical protection required ongoing vigilance even after construction was complete. Building the wall was the beginning of security, not the end.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.4</div>
+                    <div class="text">&quot;The city was wide and large, but the people within it were few, and no houses had been rebuilt.&quot; (ESV) — Walls without inhabitants are an empty shell. Jerusalem had defense but lacked population. Chapter 11 will address this by selecting residents through volunteering and lot. Infrastructure requires community to have meaning.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.5</div>
+                    <div class="text">&quot;Then my God put it into my heart to assemble the nobles and the officials and the people to be enrolled by genealogy.&quot; (ESV) — &quot;My God put into mine heart&quot; — Nehemiah attributed his administrative ideas to divine prompting. Even organizational decisions can be Spirit-led. The census was not just bureaucracy but divine initiative for community ordering.</div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-crossref">
+                <h3>Cross-References</h3>
+                <ul>
+                    <li>v.2  — 1 Timothy 3:1-7 — Qualifications for church leadership: "faithful," "above reproach," "not a lover of money." Nehemiah's criteria for Hananiah anticipated the pastoral qualifications Paul would later articulate — faithfulness and the fear of God as primary requirements.</li>
+                    <li>v.5  — Ezra 2:1-70 — The parallel census list. Minor numerical differences between Ezra 2 and Nehemiah 7 likely reflect different stages of counting or scribal transmission. Both lists preserved the same essential community identity.</li>
+                    <li>v.65 — Exodus 28:30 — The Urim and Thummim, the divine lot used for discerning God's will. Their mention indicates hope for restored prophetic guidance — those with uncertain priestly credentials awaited definitive divine confirmation.</li>
+                    <li>v.73 — Ezra 3:1 — "When the seventh month came" — this phrase transitions to the great spiritual assembly of chapter 8, just as it transitioned to altar-building in Ezra 3. The seventh month was spiritually momentous.</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-commentary">
+                <h3>Commentary</h3>
+                <ul>
+                    <li>Enduring Word (David Guzik): <a href="https://enduringword.com/bible-commentary/nehemiah-7/" target="_blank">https://enduringword.com/bible-commentary/nehemiah-7/</a> Guzik emphasizes that Nehemiah's leadership moved from crisis management to institution-building. The wall was a short-term project; governance, security, and community ordering were long-term necessities. He highlights v.2's leadership criteria as timeless: faithfulness and fear of God.</li>
+                    <li>Charles Spurgeon: "Nehemiah appointed a man 'faithful and feared God above many.' These are the two essentials for every position of trust in God's house: proved faithfulness (you can depend on him) and genuine godliness (he fears God more than man). Many are faithful but lack piety; others are pious but unreliable. The rare and precious servant combines both — and such a one deserves the highest responsibility."</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-translations">
+                <h3>Translations</h3>
+                <ul>
+                    <li>v.2  — KJV: "feared God above many" / ESV: "feared God more than many" — Hebrew "yare eth-ha-Elohim me-rabbim" (feared God more than the many/majority). Not merely devout but conspicuously so — his reverence exceeded the norm.</li>
+                    <li>v.65 — KJV: "the Tirshatha" / ESV: "the governor" — Persian title (see Ezra 2:63 note). Here referring to Nehemiah himself in his capacity as Persian-appointed governor.</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-videos">
+                <h3>Videos</h3>
+                                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://bibleproject.com/explore/video/ezra-nehemiah/" target="_blank">The Bible Project — Nehemiah Overview</a></h4>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://enduringword.com/sermons/nehemiah/nehemiah/" target="_blank">David Guzik — Enduring Word Teaching Series (Nehemiah)</a></h4>
+                        <p>Verse-by-verse audio/video teaching through Nehemiah.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-reflection">
+                <h3>Reflection</h3>
+                <ul>
+                    <li>1. Character over competence in leadership selection (v.2). Nehemiah chose "faithful" and "feared God" — not "most talented" or "most connected." When selecting leaders, prioritize proven character and genuine godliness over impressive resumes.</li>
+                    <li>2. Ongoing vigilance follows completed projects (v.3). The wall was done, but gates still needed guarding daily. Finishing a project doesn't mean relaxing discipline. Maintain the systems that protect what you've built.</li>
+                    <li>3. God prompts administrative wisdom (v.5). "My God put into mine heart" — even practical decisions about organization and census can be divinely inspired. Seek God's guidance in mundane administrative matters, not only in obviously spiritual ones.</li>
+                    <li>4. Identity matters as much as infrastructure (vv.5-73). Before spiritual renewal (chapter 8), the community needed to know who they were. Knowing your spiritual genealogy — your heritage in the faith — grounds you for worship and service.</li>
+                    <li>5. Walls without people are meaningless (v.4). Don't invest all your energy in structures and neglect the people they serve. Buildings, programs, and organizations exist for community — never the reverse.</li>
+                </ul>
+            </div>
+        </div>
+    </main>
+
+    <script src="site/script.js"></script>
+</body>
+</html>

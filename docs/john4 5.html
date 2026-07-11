@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>John 4 — Bible Study</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="site/style.css">
+</head>
+<body>
+    <nav class="top-nav">
+        <button class="hamburger" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>
+        <a href="index.html" class="nav-brand">Bible Study</a>
+        <div class="nav-center">
+            <span style="font-size:0.9rem;color:var(--text-secondary);">John &bull; Chapter 4</span>
+        </div>
+    </nav>
+
+    <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
+
+    <aside class="left-sidebar">
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Old Testament</div>
+            <a class="sidebar-item" href="genesis1.html"><i class="fas fa-book"></i> Genesis</a>
+            <a class="sidebar-item" href="exodus1.html"><i class="fas fa-book"></i> Exodus</a>
+            <a class="sidebar-item" href="leviticus1.html"><i class="fas fa-book"></i> Leviticus</a>
+            <a class="sidebar-item" href="numbers1.html"><i class="fas fa-book"></i> Numbers</a>
+            <a class="sidebar-item" href="deuteronomy1.html"><i class="fas fa-book"></i> Deuteronomy</a>
+            <a class="sidebar-item" href="joshua1.html"><i class="fas fa-book"></i> Joshua</a>
+            <a class="sidebar-item" href="judges1.html"><i class="fas fa-book"></i> Judges</a>
+            <a class="sidebar-item" href="ruth1.html"><i class="fas fa-book"></i> Ruth</a>
+            <a class="sidebar-item" href="1samuel1.html"><i class="fas fa-book"></i> 1 Samuel</a>
+            <a class="sidebar-item" href="2samuel1.html"><i class="fas fa-book"></i> 2 Samuel</a>
+            <a class="sidebar-item" href="1kings1.html"><i class="fas fa-book"></i> 1 Kings</a>
+            <a class="sidebar-item" href="2kings1.html"><i class="fas fa-book"></i> 2 Kings</a>
+            <a class="sidebar-item" href="1chronicles1.html"><i class="fas fa-book"></i> 1 Chronicles</a>
+            <a class="sidebar-item" href="2chronicles1.html"><i class="fas fa-book"></i> 2 Chronicles</a>
+            <a class="sidebar-item" href="ezra1.html"><i class="fas fa-book"></i> Ezra</a>
+            <a class="sidebar-item" href="nehemiah1.html"><i class="fas fa-book"></i> Nehemiah</a>
+            <a class="sidebar-item" href="esther1.html"><i class="fas fa-book"></i> Esther</a>
+            <a class="sidebar-item" href="job1.html"><i class="fas fa-book"></i> Job</a>
+            <a class="sidebar-item" href="psalms1.html"><i class="fas fa-book"></i> Psalms</a>
+            <a class="sidebar-item" href="proverbs1.html"><i class="fas fa-book"></i> Proverbs</a>
+            <a class="sidebar-item" href="ecclesiastes1.html"><i class="fas fa-book"></i> Ecclesiastes</a>
+            <a class="sidebar-item" href="songofsolomon1.html"><i class="fas fa-book"></i> Song of Solomon</a>
+            <a class="sidebar-item" href="isaiah1.html"><i class="fas fa-book"></i> Isaiah</a>
+            <a class="sidebar-item" href="jeremiah1.html"><i class="fas fa-book"></i> Jeremiah</a>
+            <a class="sidebar-item" href="lamentations1.html"><i class="fas fa-book"></i> Lamentations</a>
+            <a class="sidebar-item" href="ezekiel1.html"><i class="fas fa-book"></i> Ezekiel</a>
+            <a class="sidebar-item" href="daniel1.html"><i class="fas fa-book"></i> Daniel</a>
+            <a class="sidebar-item" href="hosea1.html"><i class="fas fa-book"></i> Hosea</a>
+            <a class="sidebar-item" href="joel1.html"><i class="fas fa-book"></i> Joel</a>
+            <a class="sidebar-item" href="amos1.html"><i class="fas fa-book"></i> Amos</a>
+            <a class="sidebar-item" href="obadiah1.html"><i class="fas fa-book"></i> Obadiah</a>
+            <a class="sidebar-item" href="jonah1.html"><i class="fas fa-book"></i> Jonah</a>
+            <a class="sidebar-item" href="micah1.html"><i class="fas fa-book"></i> Micah</a>
+            <a class="sidebar-item" href="nahum1.html"><i class="fas fa-book"></i> Nahum</a>
+            <a class="sidebar-item" href="habakkuk1.html"><i class="fas fa-book"></i> Habakkuk</a>
+            <a class="sidebar-item" href="zephaniah1.html"><i class="fas fa-book"></i> Zephaniah</a>
+            <a class="sidebar-item" href="haggai1.html"><i class="fas fa-book"></i> Haggai</a>
+            <a class="sidebar-item" href="zechariah1.html"><i class="fas fa-book"></i> Zechariah</a>
+            <a class="sidebar-item" href="malachi1.html"><i class="fas fa-book"></i> Malachi</a>
+        </div>
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">New Testament</div>
+            <a class="sidebar-item" href="matthew1.html"><i class="fas fa-book"></i> Matthew</a>
+            <a class="sidebar-item" href="mark1.html"><i class="fas fa-book"></i> Mark</a>
+            <a class="sidebar-item" href="luke1.html"><i class="fas fa-book"></i> Luke</a>
+            <a class="sidebar-item active" href="john1.html"><i class="fas fa-book"></i> John</a>
+            <div class="chapter-grid">
+                <a class="chapter-btn" href="john1.html">1</a>
+                <a class="chapter-btn" href="john2.html">2</a>
+                <a class="chapter-btn" href="john3.html">3</a>
+                <a class="chapter-btn active" href="john4.html">4</a>
+                <a class="chapter-btn" href="john5.html">5</a>
+                <a class="chapter-btn" href="john6.html">6</a>
+                <a class="chapter-btn" href="john7.html">7</a>
+                <a class="chapter-btn" href="john8.html">8</a>
+                <a class="chapter-btn" href="john9.html">9</a>
+                <a class="chapter-btn" href="john10.html">10</a>
+                <a class="chapter-btn" href="john11.html">11</a>
+                <a class="chapter-btn" href="john12.html">12</a>
+                <a class="chapter-btn" href="john13.html">13</a>
+                <a class="chapter-btn" href="john14.html">14</a>
+                <a class="chapter-btn" href="john15.html">15</a>
+                <a class="chapter-btn" href="john16.html">16</a>
+                <a class="chapter-btn" href="john17.html">17</a>
+                <a class="chapter-btn" href="john18.html">18</a>
+                <a class="chapter-btn" href="john19.html">19</a>
+                <a class="chapter-btn" href="john20.html">20</a>
+                <a class="chapter-btn" href="john21.html">21</a>
+            </div>
+            <a class="sidebar-item" href="acts1.html"><i class="fas fa-book"></i> Acts</a>
+            <a class="sidebar-item" href="romans1.html"><i class="fas fa-book"></i> Romans</a>
+            <a class="sidebar-item" href="1corinthians1.html"><i class="fas fa-book"></i> 1 Corinthians</a>
+            <a class="sidebar-item" href="2corinthians1.html"><i class="fas fa-book"></i> 2 Corinthians</a>
+            <a class="sidebar-item" href="galatians1.html"><i class="fas fa-book"></i> Galatians</a>
+            <a class="sidebar-item" href="ephesians1.html"><i class="fas fa-book"></i> Ephesians</a>
+            <a class="sidebar-item" href="philippians1.html"><i class="fas fa-book"></i> Philippians</a>
+            <a class="sidebar-item" href="colossians1.html"><i class="fas fa-book"></i> Colossians</a>
+            <a class="sidebar-item" href="1thessalonians1.html"><i class="fas fa-book"></i> 1 Thessalonians</a>
+            <a class="sidebar-item" href="2thessalonians1.html"><i class="fas fa-book"></i> 2 Thessalonians</a>
+            <a class="sidebar-item" href="1timothy1.html"><i class="fas fa-book"></i> 1 Timothy</a>
+            <a class="sidebar-item" href="2timothy1.html"><i class="fas fa-book"></i> 2 Timothy</a>
+            <a class="sidebar-item" href="titus1.html"><i class="fas fa-book"></i> Titus</a>
+            <a class="sidebar-item" href="philemon1.html"><i class="fas fa-book"></i> Philemon</a>
+            <a class="sidebar-item" href="hebrews1.html"><i class="fas fa-book"></i> Hebrews</a>
+            <a class="sidebar-item" href="james1.html"><i class="fas fa-book"></i> James</a>
+            <a class="sidebar-item" href="1peter1.html"><i class="fas fa-book"></i> 1 Peter</a>
+            <a class="sidebar-item" href="2peter1.html"><i class="fas fa-book"></i> 2 Peter</a>
+            <a class="sidebar-item" href="1john1.html"><i class="fas fa-book"></i> 1 John</a>
+            <a class="sidebar-item" href="2john1.html"><i class="fas fa-book"></i> 2 John</a>
+            <a class="sidebar-item" href="3john1.html"><i class="fas fa-book"></i> 3 John</a>
+            <a class="sidebar-item" href="jude1.html"><i class="fas fa-book"></i> Jude</a>
+            <a class="sidebar-item" href="revelation1.html"><i class="fas fa-book"></i> Revelation</a>
+        </div>
+    </aside>
+
+
+
+    <main class="main-content">
+        <div class="book-header">
+            <h1>John — Chapter 4</h1>
+        </div>
+
+        <div class="scripture-container">
+            <p class="verse"><span class="verse-num">1</span>Now when Jesus learned that the Pharisees had heard that Jesus was making and baptizing more disciples than John</p>
+            <p class="verse"><span class="verse-num">2</span>(although Jesus himself did not baptize, but only his disciples),</p>
+            <p class="verse"><span class="verse-num">3</span>he left Judea and departed again for Galilee.</p>
+            <p class="verse"><span class="verse-num">4</span>And he had to pass through Samaria.</p>
+            <p class="verse"><span class="verse-num">5</span>So he came to a town of Samaria called Sychar, near the field that Jacob had given to his son Joseph.</p>
+            <p class="verse"><span class="verse-num">6</span>Jacob’s well was there; so Jesus, wearied as he was from his journey, was sitting beside the well. It was about the sixth hour.</p>
+            <p class="verse"><span class="verse-num">7</span>A woman from Samaria came to draw water. Jesus said to her, “Give me a drink.”</p>
+            <p class="verse"><span class="verse-num">8</span>(For his disciples had gone away into the city to buy food.)</p>
+            <p class="verse"><span class="verse-num">9</span>The Samaritan woman said to him, “How is it that you, a Jew, ask for a drink from me, a woman of Samaria?” (For Jews have no dealings with Samaritans.)</p>
+            <p class="verse"><span class="verse-num">10</span>Jesus answered her, “If you knew the gift of God, and who it is that is saying to you, ‘Give me a drink,’ you would have asked him, and he would have given you living water.”</p>
+            <p class="verse"><span class="verse-num">11</span>The woman said to him, “Sir, you have nothing to draw water with, and the well is deep. Where do you get that living water?</p>
+            <p class="verse"><span class="verse-num">12</span>Are you greater than our father Jacob? He gave us the well and drank from it himself, as did his sons and his livestock.”</p>
+            <p class="verse"><span class="verse-num">13</span>Jesus said to her, “Everyone who drinks of this water will be thirsty again,</p>
+            <p class="verse"><span class="verse-num">14</span>but whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life.”</p>
+            <p class="verse"><span class="verse-num">15</span>The woman said to him, “Sir, give me this water, so that I will not be thirsty or have to come here to draw water.”</p>
+            <p class="verse"><span class="verse-num">16</span>Jesus said to her, “Go, call your husband, and come here.”</p>
+            <p class="verse"><span class="verse-num">17</span>The woman answered him, “I have no husband.” Jesus said to her, “You are right in saying, ‘I have no husband’;</p>
+            <p class="verse"><span class="verse-num">18</span>for you have had five husbands, and the one you now have is not your husband. What you have said is true.”</p>
+            <p class="verse"><span class="verse-num">19</span>The woman said to him, “Sir, I perceive that you are a prophet.</p>
+            <p class="verse"><span class="verse-num">20</span>Our fathers worshiped on this mountain, but you say that in Jerusalem is the place where people ought to worship.”</p>
+            <p class="verse"><span class="verse-num">21</span>Jesus said to her, “Woman, believe me, the hour is coming when neither on this mountain nor in Jerusalem will you worship the Father.</p>
+            <p class="verse"><span class="verse-num">22</span>You worship what you do not know; we worship what we know, for salvation is from the Jews.</p>
+            <p class="verse"><span class="verse-num">23</span>But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth, for the Father is seeking such people to worship him.</p>
+            <p class="verse"><span class="verse-num">24</span>God is spirit, and those who worship him must worship in spirit and truth.”</p>
+            <p class="verse"><span class="verse-num">25</span>The woman said to him, “I know that Messiah is coming (he who is called Christ). When he comes, he will tell us all things.”</p>
+            <p class="verse"><span class="verse-num">26</span>Jesus said to her, “I who speak to you am he.”</p>
+            <p class="verse"><span class="verse-num">27</span>Just then his disciples came back. They marveled that he was talking with a woman, but no one said, “What do you seek?” or, “Why are you talking with her?”</p>
+            <p class="verse"><span class="verse-num">28</span>So the woman left her water jar and went away into town and said to the people,</p>
+            <p class="verse"><span class="verse-num">29</span>“Come, see a man who told me all that I ever did. Can this be the Christ?”</p>
+            <p class="verse"><span class="verse-num">30</span>They went out of the town and were coming to him.</p>
+            <p class="verse"><span class="verse-num">31</span>Meanwhile the disciples were urging him, saying, “Rabbi, eat.”</p>
+            <p class="verse"><span class="verse-num">32</span>But he said to them, “I have food to eat that you do not know about.”</p>
+            <p class="verse"><span class="verse-num">33</span>So the disciples said to one another, “Has anyone brought him something to eat?”</p>
+            <p class="verse"><span class="verse-num">34</span>Jesus said to them, “My food is to do the will of him who sent me and to accomplish his work.</p>
+            <p class="verse"><span class="verse-num">35</span>Do you not say, ‘There are yet four months, then comes the harvest’? Look, I tell you, lift up your eyes, and see that the fields are white for harvest.</p>
+            <p class="verse"><span class="verse-num">36</span>Already the one who reaps is receiving wages and gathering fruit for eternal life, so that sower and reaper may rejoice together.</p>
+            <p class="verse"><span class="verse-num">37</span>For here the saying holds true, ‘One sows and another reaps.’</p>
+            <p class="verse"><span class="verse-num">38</span>I sent you to reap that for which you did not labor. Others have labored, and you have entered into their labor.”</p>
+            <p class="verse"><span class="verse-num">39</span>Many Samaritans from that town believed in him because of the woman’s testimony, “He told me all that I ever did.”</p>
+            <p class="verse"><span class="verse-num">40</span>So when the Samaritans came to him, they asked him to stay with them, and he stayed there two days.</p>
+            <p class="verse"><span class="verse-num">41</span>And many more believed because of his word.</p>
+            <p class="verse"><span class="verse-num">42</span>They said to the woman, “It is no longer because of what you said that we believe, for we have heard for ourselves, and we know that this is indeed the Savior of the world.”</p>
+            <p class="verse"><span class="verse-num">43</span>After the two days he departed for Galilee.</p>
+            <p class="verse"><span class="verse-num">44</span>(For Jesus himself had testified that a prophet has no honor in his own hometown.)</p>
+            <p class="verse"><span class="verse-num">45</span>So when he came to Galilee, the Galileans welcomed him, having seen all that he had done in Jerusalem at the feast. For they too had gone to the feast.</p>
+            <p class="verse"><span class="verse-num">46</span>So he came again to Cana in Galilee, where he had made the water wine. And at Capernaum there was an official whose son was ill.</p>
+            <p class="verse"><span class="verse-num">47</span>When this man heard that Jesus had come from Judea to Galilee, he went to him and asked him to come down and heal his son, for he was at the point of death.</p>
+            <p class="verse"><span class="verse-num">48</span>So Jesus said to him, “Unless you see signs and wonders you will not believe.”</p>
+            <p class="verse"><span class="verse-num">49</span>The official said to him, “Sir, come down before my child dies.”</p>
+            <p class="verse"><span class="verse-num">50</span>Jesus said to him, “Go; your son will live.” The man believed the word that Jesus spoke to him and went on his way.</p>
+            <p class="verse"><span class="verse-num">51</span>As he was going down, his servants met him and told him that his son was recovering.</p>
+            <p class="verse"><span class="verse-num">52</span>So he asked them the hour when he began to get better, and they said to him, “Yesterday at the seventh hour the fever left him.”</p>
+            <p class="verse"><span class="verse-num">53</span>The father knew that was the hour when Jesus had said to him, “Your son will live.” And he himself believed, and all his household.</p>
+            <p class="verse"><span class="verse-num">54</span>This was now the second sign that Jesus did when he had come from Judea to Galilee.</p>
+        </div>
+
+        <div class="study-section">
+            <div class="study-tabs">
+                <div class="study-tab active" data-tab="summary">Summary</div>
+                <div class="study-tab" data-tab="keyverses">Key Verses</div>
+                <div class="study-tab" data-tab="crossref">Cross-References</div>
+                <div class="study-tab" data-tab="commentary">Commentary</div>
+                <div class="study-tab" data-tab="translations">Translations</div>
+                <div class="study-tab" data-tab="videos">Videos</div>
+                <div class="study-tab" data-tab="reflection">Reflection</div>
+            </div>
+            <div class="tab-content active" id="tab-summary">
+                <h3>Summary</h3>
+                <p>Jesus breaks social barriers by speaking with a Samaritan woman at Jacob&#x27;s well, offers her living water, reveals Himself as the Messiah, and teaches that true worshippers worship the Father in spirit and in truth.</p>
+            </div>
+            <div class="tab-content" id="tab-keyverses">
+                <h3>Key Verses</h3>
+                                <div class="key-verse">
+                    <div class="ref">v.14</div>
+                    <div class="text">&quot;But whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life.&quot; (ESV) — Jesus as the source of lasting spiritual satisfaction.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.23</div>
+                    <div class="text">&quot;But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth, for the Father is seeking such people to worship him.&quot; (ESV) — The nature of true worship.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.24</div>
+                    <div class="text">&quot;God is spirit, and those who worship him must worship in spirit and truth.&quot; (ESV) — One of the clearest statements about God&#x27;s nature and the requirement of authentic worship.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.34</div>
+                    <div class="text">&quot;My food is to do the will of him who sent me and to accomplish his work.&quot; (ESV) — Jesus&#x27; consuming purpose — a model for every man&#x27;s life mission.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.50</div>
+                    <div class="text">&quot;Jesus said to him, &#x27;Go; your son will live.&#x27; The man believed the word that Jesus spoke to him and went on his way.&quot; (ESV) — Faith that acts on Christ&#x27;s word before seeing the result.</div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-crossref">
+                <h3>Cross-References</h3>
+                <ul>
+                    <li>v.4   — Luke 9:51-56 — Jesus' consistent willingness to engage Samaritans. v.10  — Isaiah 55:1 — "Come, all you who are thirsty, come to the waters." v.14  — John 7:37-38 — "Streams of living water will flow from within." v.14  — Revelation 21:6 — "I will give freely from the spring of the water of life." v.23  — Psalm 51:6 — "You desire truth in the inner parts." v.24  — 2 Corinthians 3:17 — "Where the Spirit of the Lord is, there is freedom." v.34  — John 17:4 — "I have finished the work you gave me to do." v.34  — Hebrews 10:7 — "I have come to do your will, O God." v.35  — Matthew 9:37-38 — "The harvest is plentiful but the workers are few." v.50  — Hebrews 11:1 — Faith is being sure of what we hope for, certain of what we do not see.</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-commentary">
+                <h3>Commentary</h3>
+                <ul>
+                    <li>Enduring Word (David Guzik): <a href="https://enduringword.com/bible-commentary/john-4/" target="_blank">https://enduringword.com/bible-commentary/john-4/</a> Guzik examines the cultural significance of Jesus speaking to a Samaritan woman, the meaning of "living water," the woman's five husbands, and the harvest imagery in vv.35-38.</li>
+                    <li>Charles Spurgeon: Sermon: "The Woman of Samaria" (MTP Vol. 28, No. 1657) "Jesus was weary — truly weary, as only a man can be weary. And yet He did not let His weariness become an excuse to neglect a soul. The Son of God sat down at a well and waited for a sinner. That is grace." Sermon: "Spiritual Worship" on v.24 (MTP Vol. 17, No. 1000) "God is a Spirit — not confined to temples made with hands, not reached by ritual or ceremony alone. He is reached by the spirit of a man bowing before Him in truth. Your heart is the only temple He truly requires."</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-translations">
+                <h3>Translations</h3>
+                <ul>
+                    <li>v.6  — KJV: "the sixth hour" / ESV: "the sixth hour" — Both identical. In Jewish reckoning, noon. In Roman reckoning, 6 AM. Most scholars favor noon here — explaining Jesus' weariness from travel and the woman's unusual timing (avoiding others).</li>
+                    <li>v.9  — KJV: "the Jews have no dealings with the Samaritans" / ESV: "Jews have no dealings with Samaritans" — Both equivalent. The Greek could also mean Jews don't use the same vessels as Samaritans (ritual purity concern). The broader social separation is the main point.</li>
+                    <li>v.10 — NET: "If you had known the gift of God and who it is who said to you, 'Give me some water to drink,' you would have asked him, and he would have given you living water" — "living water" (hydōr zōn) = flowing/spring water (literal) AND eternal life (spiritual). WEB: "living water." The double meaning drives the conversation.</li>
+                    <li>v.14 — KJV: "a well of water springing up into everlasting life" / ESV: "a spring of water welling up to eternal life" — Greek "pege" — Both equivalent. ESV uses "spring" and "welling up" for more natural English; the image is of an artesian spring — water that flows from within without external effort.</li>
+                    <li>v.23 — NET: "the true worshipers will worship the Father in spirit and truth" — "in spirit and truth" (en pneumati kai alētheia). WEB: "in spirit and truth." KJV: "in spirit and in truth." Not a physical location (Jerusalem or Gerizim) but an inward orientation and genuine reality.</li>
+                    <li>v.24 — KJV: "God is a Spirit" / ESV: "God is spirit" — Greek "pneuma ho theos" — ESV drops the article "a" — God is not one spirit among many but is spirit in His very nature. The KJV's "a Spirit" can be slightly misleading; the Greek has no article here. [ASV/NET/WEB]: NET: "God is spirit, and the people who worship him must worship in spirit and truth" — "God is spirit" (pneuma ho theos) — a definitive statement about God's nature. WEB: "God is spirit." KJV: "God is a Spirit." The absence of the article in Greek argues against "a spirit" — God IS spirit by nature.</li>
+                    <li>v.26 — NET: "I, the one speaking to you, am he" — Jesus' direct self-identification as Messiah to a Samaritan woman (He rarely stated this so explicitly). WEB: "I am he, the one who speaks to you." KJV: "I that speak unto thee am he." The Greek echoes "I AM" (egō eimi).</li>
+                    <li>v.34 — KJV: "My meat is to do the will" / ESV: "My food is to do the will" — Greek "broma" — KJV's "meat" means food generally (archaic usage), not specifically flesh. Both convey the same meaning — Jesus' sustenance is obedience to the Father.</li>
+                    <li>v.42 — KJV: "this is indeed the Christ, the Saviour of the world" / ESV: "this is indeed the Savior of the world" — Greek "soter tou kosmou" — ESV omits "the Christ" following older manuscripts. Both affirm the universal scope of Jesus' saving work. [ASV/NET/WEB]: NET: "we know that this one is truly the Savior of the world" — "Savior of the world" (sōtēr tou kosmou) — a title used in the Roman world for Caesar. The Samaritans apply it to Jesus. WEB: "the Savior of the world." A universal claim from outsiders who spent only two days with Him.</li>
+                    <li>v.50 — KJV: "thy son liveth" / ESV: "your son will live" — Greek "ho huios sou ze" (present tense) — Both equivalent. The present tense "lives" indicates the healing is already accomplished at the moment Jesus speaks.</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-videos">
+                <h3>Videos</h3>
+                                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://bibleproject.com/explore/video/john/" target="_blank">The Bible Project — John Overview</a></h4>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://enduringword.com/media/john-4-revealed-living-water/" target="_blank">David Guzik — Enduring Word Video Series (John)</a></h4>
+                        <p>YouTube Playlist: https://www.youtube.com/playlist?list=PL_QIfO0mxbX4zgQH4vuK6q1q7gu8Ok6tz John 4:1-26 - Revealed as Living Water: John 4:27-42 - Revealed As Savior of the World: John 4:43-54 - Revealed as Worth Believing:</p>
+                    </div>
+                </div>
+                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://youtu.be/ordhsDeAt60?si=jn-p8G1Bld1jru7_" target="_blank">The Chosen — John 4, The Woman at the Well</a></h4>
+                        <p></p>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-reflection">
+                <h3>Reflection</h3>
+                <ul>
+                    <li>1. Jesus crossed racial, cultural, and gender barriers to reach one woman. What barriers — social, racial, cultural — do you need to cross to reach people around you with the Gospel?</li>
+                    <li>2. The woman tried to redirect the conversation from her personal life to a theological debate about worship locations (v.20). Do you ever use theological discussion to avoid personal conviction? What is God putting His finger on in your life right now?</li>
+                    <li>3. Jesus said true worshippers worship in spirit and in truth (v.23-24). Evaluate your own worship — is it genuine (spirit) and is it grounded in who God actually is (truth)? Or has it become routine and performance-based?</li>
+                    <li>4. The disciples were surprised Jesus was talking to the woman, but none of them asked why (v.27). They had assumptions about who Jesus should talk to. What assumptions do you carry about who deserves to hear the Gospel?</li>
+                    <li>5. The Samaritans believed because they heard Jesus themselves (v.42) — not just because of the woman's testimony. Are you helping people get to a place where they can encounter Jesus personally, or are you keeping them at arm's length from Him?</li>
+                    <li>1. Jesus was physically exhausted (v.6) but still engaged the woman at the well. As men, we often use busyness or tiredness as reasons to disengage from the people around us. Who in your life needs your attention even when you're tired?</li>
+                    <li>2. The woman had five failed marriages and was living with a man outside of marriage. Jesus didn't lead with condemnation — He led with an offer of living water. How does Jesus' approach to broken people challenge how you approach people in your life who are living in ways you disagree with?</li>
+                    <li>3. Jesus said His food was to do the will of the Father and finish His work (v.34). What is the driving purpose of your life? What gets you up in the morning? How does it compare to Jesus' singular focus?</li>
+                    <li>4. The nobleman believed Jesus' word and went home before he saw his son healed (v.50). He acted on the word alone. Where in your life is God asking you to trust His word before you see the evidence?</li>
+                </ul>
+            </div>
+        </div>
+    </main>
+
+    <script src="site/script.js"></script>
+</body>
+</html>

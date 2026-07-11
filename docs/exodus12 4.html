@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exodus 12 — Bible Study</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="site/style.css">
+</head>
+<body>
+    <nav class="top-nav">
+        <button class="hamburger" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>
+        <a href="index.html" class="nav-brand">Bible Study</a>
+        <div class="nav-center">
+            <span style="font-size:0.9rem;color:var(--text-secondary);">Exodus &bull; Chapter 12</span>
+        </div>
+    </nav>
+
+    <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
+
+    <aside class="left-sidebar">
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Old Testament</div>
+            <a class="sidebar-item" href="genesis1.html"><i class="fas fa-book"></i> Genesis</a>
+            <a class="sidebar-item active" href="exodus1.html"><i class="fas fa-book"></i> Exodus</a>
+            <div class="chapter-grid">
+                <a class="chapter-btn" href="exodus1.html">1</a>
+                <a class="chapter-btn" href="exodus2.html">2</a>
+                <a class="chapter-btn" href="exodus3.html">3</a>
+                <a class="chapter-btn" href="exodus4.html">4</a>
+                <a class="chapter-btn" href="exodus5.html">5</a>
+                <a class="chapter-btn" href="exodus6.html">6</a>
+                <a class="chapter-btn" href="exodus7.html">7</a>
+                <a class="chapter-btn" href="exodus8.html">8</a>
+                <a class="chapter-btn" href="exodus9.html">9</a>
+                <a class="chapter-btn" href="exodus10.html">10</a>
+                <a class="chapter-btn" href="exodus11.html">11</a>
+                <a class="chapter-btn active" href="exodus12.html">12</a>
+                <a class="chapter-btn" href="exodus13.html">13</a>
+                <a class="chapter-btn" href="exodus14.html">14</a>
+                <a class="chapter-btn" href="exodus15.html">15</a>
+                <a class="chapter-btn" href="exodus16.html">16</a>
+                <a class="chapter-btn" href="exodus17.html">17</a>
+                <a class="chapter-btn" href="exodus18.html">18</a>
+                <a class="chapter-btn" href="exodus19.html">19</a>
+                <a class="chapter-btn" href="exodus20.html">20</a>
+                <a class="chapter-btn" href="exodus21.html">21</a>
+                <a class="chapter-btn" href="exodus22.html">22</a>
+                <a class="chapter-btn" href="exodus23.html">23</a>
+                <a class="chapter-btn" href="exodus24.html">24</a>
+                <a class="chapter-btn" href="exodus25.html">25</a>
+                <a class="chapter-btn" href="exodus26.html">26</a>
+                <a class="chapter-btn" href="exodus27.html">27</a>
+                <a class="chapter-btn" href="exodus28.html">28</a>
+                <a class="chapter-btn" href="exodus29.html">29</a>
+                <a class="chapter-btn" href="exodus30.html">30</a>
+                <a class="chapter-btn" href="exodus31.html">31</a>
+                <a class="chapter-btn" href="exodus32.html">32</a>
+                <a class="chapter-btn" href="exodus33.html">33</a>
+                <a class="chapter-btn" href="exodus34.html">34</a>
+                <a class="chapter-btn" href="exodus35.html">35</a>
+                <a class="chapter-btn" href="exodus36.html">36</a>
+                <a class="chapter-btn" href="exodus37.html">37</a>
+                <a class="chapter-btn" href="exodus38.html">38</a>
+                <a class="chapter-btn" href="exodus39.html">39</a>
+                <a class="chapter-btn" href="exodus40.html">40</a>
+            </div>
+            <a class="sidebar-item" href="leviticus1.html"><i class="fas fa-book"></i> Leviticus</a>
+            <a class="sidebar-item" href="numbers1.html"><i class="fas fa-book"></i> Numbers</a>
+            <a class="sidebar-item" href="deuteronomy1.html"><i class="fas fa-book"></i> Deuteronomy</a>
+            <a class="sidebar-item" href="joshua1.html"><i class="fas fa-book"></i> Joshua</a>
+            <a class="sidebar-item" href="judges1.html"><i class="fas fa-book"></i> Judges</a>
+            <a class="sidebar-item" href="ruth1.html"><i class="fas fa-book"></i> Ruth</a>
+            <a class="sidebar-item" href="1samuel1.html"><i class="fas fa-book"></i> 1 Samuel</a>
+            <a class="sidebar-item" href="2samuel1.html"><i class="fas fa-book"></i> 2 Samuel</a>
+            <a class="sidebar-item" href="1kings1.html"><i class="fas fa-book"></i> 1 Kings</a>
+            <a class="sidebar-item" href="2kings1.html"><i class="fas fa-book"></i> 2 Kings</a>
+            <a class="sidebar-item" href="1chronicles1.html"><i class="fas fa-book"></i> 1 Chronicles</a>
+            <a class="sidebar-item" href="2chronicles1.html"><i class="fas fa-book"></i> 2 Chronicles</a>
+            <a class="sidebar-item" href="ezra1.html"><i class="fas fa-book"></i> Ezra</a>
+            <a class="sidebar-item" href="nehemiah1.html"><i class="fas fa-book"></i> Nehemiah</a>
+            <a class="sidebar-item" href="esther1.html"><i class="fas fa-book"></i> Esther</a>
+            <a class="sidebar-item" href="job1.html"><i class="fas fa-book"></i> Job</a>
+            <a class="sidebar-item" href="psalms1.html"><i class="fas fa-book"></i> Psalms</a>
+            <a class="sidebar-item" href="proverbs1.html"><i class="fas fa-book"></i> Proverbs</a>
+            <a class="sidebar-item" href="ecclesiastes1.html"><i class="fas fa-book"></i> Ecclesiastes</a>
+            <a class="sidebar-item" href="songofsolomon1.html"><i class="fas fa-book"></i> Song of Solomon</a>
+            <a class="sidebar-item" href="isaiah1.html"><i class="fas fa-book"></i> Isaiah</a>
+            <a class="sidebar-item" href="jeremiah1.html"><i class="fas fa-book"></i> Jeremiah</a>
+            <a class="sidebar-item" href="lamentations1.html"><i class="fas fa-book"></i> Lamentations</a>
+            <a class="sidebar-item" href="ezekiel1.html"><i class="fas fa-book"></i> Ezekiel</a>
+            <a class="sidebar-item" href="daniel1.html"><i class="fas fa-book"></i> Daniel</a>
+            <a class="sidebar-item" href="hosea1.html"><i class="fas fa-book"></i> Hosea</a>
+            <a class="sidebar-item" href="joel1.html"><i class="fas fa-book"></i> Joel</a>
+            <a class="sidebar-item" href="amos1.html"><i class="fas fa-book"></i> Amos</a>
+            <a class="sidebar-item" href="obadiah1.html"><i class="fas fa-book"></i> Obadiah</a>
+            <a class="sidebar-item" href="jonah1.html"><i class="fas fa-book"></i> Jonah</a>
+            <a class="sidebar-item" href="micah1.html"><i class="fas fa-book"></i> Micah</a>
+            <a class="sidebar-item" href="nahum1.html"><i class="fas fa-book"></i> Nahum</a>
+            <a class="sidebar-item" href="habakkuk1.html"><i class="fas fa-book"></i> Habakkuk</a>
+            <a class="sidebar-item" href="zephaniah1.html"><i class="fas fa-book"></i> Zephaniah</a>
+            <a class="sidebar-item" href="haggai1.html"><i class="fas fa-book"></i> Haggai</a>
+            <a class="sidebar-item" href="zechariah1.html"><i class="fas fa-book"></i> Zechariah</a>
+            <a class="sidebar-item" href="malachi1.html"><i class="fas fa-book"></i> Malachi</a>
+        </div>
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">New Testament</div>
+            <a class="sidebar-item" href="matthew1.html"><i class="fas fa-book"></i> Matthew</a>
+            <a class="sidebar-item" href="mark1.html"><i class="fas fa-book"></i> Mark</a>
+            <a class="sidebar-item" href="luke1.html"><i class="fas fa-book"></i> Luke</a>
+            <a class="sidebar-item" href="john1.html"><i class="fas fa-book"></i> John</a>
+            <a class="sidebar-item" href="acts1.html"><i class="fas fa-book"></i> Acts</a>
+            <a class="sidebar-item" href="romans1.html"><i class="fas fa-book"></i> Romans</a>
+            <a class="sidebar-item" href="1corinthians1.html"><i class="fas fa-book"></i> 1 Corinthians</a>
+            <a class="sidebar-item" href="2corinthians1.html"><i class="fas fa-book"></i> 2 Corinthians</a>
+            <a class="sidebar-item" href="galatians1.html"><i class="fas fa-book"></i> Galatians</a>
+            <a class="sidebar-item" href="ephesians1.html"><i class="fas fa-book"></i> Ephesians</a>
+            <a class="sidebar-item" href="philippians1.html"><i class="fas fa-book"></i> Philippians</a>
+            <a class="sidebar-item" href="colossians1.html"><i class="fas fa-book"></i> Colossians</a>
+            <a class="sidebar-item" href="1thessalonians1.html"><i class="fas fa-book"></i> 1 Thessalonians</a>
+            <a class="sidebar-item" href="2thessalonians1.html"><i class="fas fa-book"></i> 2 Thessalonians</a>
+            <a class="sidebar-item" href="1timothy1.html"><i class="fas fa-book"></i> 1 Timothy</a>
+            <a class="sidebar-item" href="2timothy1.html"><i class="fas fa-book"></i> 2 Timothy</a>
+            <a class="sidebar-item" href="titus1.html"><i class="fas fa-book"></i> Titus</a>
+            <a class="sidebar-item" href="philemon1.html"><i class="fas fa-book"></i> Philemon</a>
+            <a class="sidebar-item" href="hebrews1.html"><i class="fas fa-book"></i> Hebrews</a>
+            <a class="sidebar-item" href="james1.html"><i class="fas fa-book"></i> James</a>
+            <a class="sidebar-item" href="1peter1.html"><i class="fas fa-book"></i> 1 Peter</a>
+            <a class="sidebar-item" href="2peter1.html"><i class="fas fa-book"></i> 2 Peter</a>
+            <a class="sidebar-item" href="1john1.html"><i class="fas fa-book"></i> 1 John</a>
+            <a class="sidebar-item" href="2john1.html"><i class="fas fa-book"></i> 2 John</a>
+            <a class="sidebar-item" href="3john1.html"><i class="fas fa-book"></i> 3 John</a>
+            <a class="sidebar-item" href="jude1.html"><i class="fas fa-book"></i> Jude</a>
+            <a class="sidebar-item" href="revelation1.html"><i class="fas fa-book"></i> Revelation</a>
+        </div>
+    </aside>
+
+
+
+    <main class="main-content">
+        <div class="book-header">
+            <h1>Exodus — Chapter 12</h1>
+        </div>
+
+        <div class="scripture-container">
+            <p class="verse"><span class="verse-num">1</span>The LORD said to Moses and Aaron in the land of Egypt,</p>
+            <p class="verse"><span class="verse-num">2</span>“This month shall be for you the beginning of months. It shall be the first month of the year for you.</p>
+            <p class="verse"><span class="verse-num">3</span>Tell all the congregation of Israel that on the tenth day of this month every man shall take a lamb according to their fathers’ houses, a lamb for a household.</p>
+            <p class="verse"><span class="verse-num">4</span>And if the household is too small for a lamb, then he and his nearest neighbor shall take according to the number of persons; according to what each can eat you shall make your count for the lamb.</p>
+            <p class="verse"><span class="verse-num">5</span>Your lamb shall be without blemish, a male a year old. You may take it from the sheep or from the goats,</p>
+            <p class="verse"><span class="verse-num">6</span>and you shall keep it until the fourteenth day of this month, when the whole assembly of the congregation of Israel shall kill their lambs at twilight.</p>
+            <p class="verse"><span class="verse-num">7</span>“Then they shall take some of the blood and put it on the two doorposts and the lintel of the houses in which they eat it.</p>
+            <p class="verse"><span class="verse-num">8</span>They shall eat the flesh that night, roasted on the fire; with unleavened bread and bitter herbs they shall eat it.</p>
+            <p class="verse"><span class="verse-num">9</span>Do not eat any of it raw or boiled in water, but roasted, its head with its legs and its inner parts.</p>
+            <p class="verse"><span class="verse-num">10</span>And you shall let none of it remain until the morning; anything that remains until the morning you shall burn.</p>
+            <p class="verse"><span class="verse-num">11</span>In this manner you shall eat it: with your belt fastened, your sandals on your feet, and your staff in your hand. And you shall eat it in haste. It is the LORD’s Passover.</p>
+            <p class="verse"><span class="verse-num">12</span>For I will pass through the land of Egypt that night, and I will strike all the firstborn in the land of Egypt, both man and beast; and on all the gods of Egypt I will execute judgments: I am the LORD.</p>
+            <p class="verse"><span class="verse-num">13</span>The blood shall be a sign for you, on the houses where you are. And when I see the blood, I will pass over you, and no plague will befall you to destroy you, when I strike the land of Egypt.</p>
+            <p class="verse"><span class="verse-num">14</span>“This day shall be for you a memorial day, and you shall keep it as a feast to the LORD; throughout your generations, as a statute forever, you shall keep it as a feast.</p>
+            <p class="verse"><span class="verse-num">15</span>Seven days you shall eat unleavened bread. On the first day you shall remove leaven out of your houses, for if anyone eats what is leavened, from the first day until the seventh day, that person shall be cut off from Israel.</p>
+            <p class="verse"><span class="verse-num">16</span>On the first day you shall hold a holy assembly, and on the seventh day a holy assembly. No work shall be done on those days. But what everyone needs to eat, that alone may be prepared by you.</p>
+            <p class="verse"><span class="verse-num">17</span>And you shall observe the Feast of Unleavened Bread, for on this very day I brought your hosts out of the land of Egypt. Therefore you shall observe this day, throughout your generations, as a statute forever.</p>
+            <p class="verse"><span class="verse-num">18</span>In the first month, from the fourteenth day of the month at evening, you shall eat unleavened bread until the twenty-first day of the month at evening.</p>
+            <p class="verse"><span class="verse-num">19</span>For seven days no leaven is to be found in your houses. If anyone eats what is leavened, that person will be cut off from the congregation of Israel, whether he is a sojourner or a native of the land.</p>
+            <p class="verse"><span class="verse-num">20</span>You shall eat nothing leavened; in all your dwelling places you shall eat unleavened bread.”</p>
+            <p class="verse"><span class="verse-num">21</span>Then Moses called all the elders of Israel and said to them, “Go and select lambs for yourselves according to your clans, and kill the Passover lamb.</p>
+            <p class="verse"><span class="verse-num">22</span>Take a bunch of hyssop and dip it in the blood that is in the basin, and touch the lintel and the two doorposts with the blood that is in the basin. None of you shall go out of the door of his house until the morning.</p>
+            <p class="verse"><span class="verse-num">23</span>For the LORD will pass through to strike the Egyptians, and when he sees the blood on the lintel and on the two doorposts, the LORD will pass over the door and will not allow the destroyer to enter your houses to strike you.</p>
+            <p class="verse"><span class="verse-num">24</span>You shall observe this rite as a statute for you and for your sons forever.</p>
+            <p class="verse"><span class="verse-num">25</span>And when you come to the land that the LORD will give you, as he has promised, you shall keep this service.</p>
+            <p class="verse"><span class="verse-num">26</span>And when your children say to you, ‘What do you mean by this service?’</p>
+            <p class="verse"><span class="verse-num">27</span>you shall say, ‘It is the sacrifice of the LORD’s Passover, for he passed over the houses of the people of Israel in Egypt, when he struck the Egyptians but spared our houses.’” And the people bowed their heads and worshiped.</p>
+            <p class="verse"><span class="verse-num">28</span>Then the people of Israel went and did so; as the LORD had commanded Moses and Aaron, so they did.</p>
+            <p class="verse"><span class="verse-num">29</span>At midnight the LORD struck down all the firstborn in the land of Egypt, from the firstborn of Pharaoh who sat on his throne to the firstborn of the captive who was in the dungeon, and all the firstborn of the livestock.</p>
+            <p class="verse"><span class="verse-num">30</span>And Pharaoh rose up in the night, he and all his servants and all the Egyptians. And there was a great cry in Egypt, for there was not a house where someone was not dead.</p>
+            <p class="verse"><span class="verse-num">31</span>Then he summoned Moses and Aaron by night and said, “Up, go out from among my people, both you and the people of Israel; and go, serve the LORD, as you have said.</p>
+            <p class="verse"><span class="verse-num">32</span>Take your flocks and your herds, as you have said, and be gone, and bless me also!”</p>
+            <p class="verse"><span class="verse-num">33</span>The Egyptians were urgent with the people to send them out of the land in haste. For they said, “We shall all be dead.”</p>
+            <p class="verse"><span class="verse-num">34</span>So the people took their dough before it was leavened, their kneading bowls being bound up in their cloaks on their shoulders.</p>
+            <p class="verse"><span class="verse-num">35</span>The people of Israel had also done as Moses told them, for they had asked the Egyptians for silver and gold jewelry and for clothing.</p>
+            <p class="verse"><span class="verse-num">36</span>And the LORD had given the people favor in the sight of the Egyptians, so that they let them have what they asked. Thus they plundered the Egyptians.</p>
+            <p class="verse"><span class="verse-num">37</span>And the people of Israel journeyed from Rameses to Succoth, about six hundred thousand men on foot, besides women and children.</p>
+            <p class="verse"><span class="verse-num">38</span>A mixed multitude also went up with them, and very much livestock, both flocks and herds.</p>
+            <p class="verse"><span class="verse-num">39</span>And they baked unleavened cakes of the dough that they had brought out of Egypt, for it was not leavened, because they were thrust out of Egypt and could not wait, nor had they prepared any provisions for themselves.</p>
+            <p class="verse"><span class="verse-num">40</span>The time that the people of Israel lived in Egypt was 430 years.</p>
+            <p class="verse"><span class="verse-num">41</span>At the end of 430 years, on that very day, all the hosts of the LORD went out from the land of Egypt.</p>
+            <p class="verse"><span class="verse-num">42</span>It was a night of watching by the LORD, to bring them out of the land of Egypt; so this same night is a night of watching kept to the LORD by all the people of Israel throughout their generations.</p>
+            <p class="verse"><span class="verse-num">43</span>And the LORD said to Moses and Aaron, “This is the statute of the Passover: no foreigner shall eat of it,</p>
+            <p class="verse"><span class="verse-num">44</span>but every slave that is bought for money may eat of it after you have circumcised him.</p>
+            <p class="verse"><span class="verse-num">45</span>No foreigner or hired worker may eat of it.</p>
+            <p class="verse"><span class="verse-num">46</span>It shall be eaten in one house; you shall not take any of the flesh outside the house, and you shall not break any of its bones.</p>
+            <p class="verse"><span class="verse-num">47</span>All the congregation of Israel shall keep it.</p>
+            <p class="verse"><span class="verse-num">48</span>If a stranger shall sojourn with you and would keep the Passover to the LORD, let all his males be circumcised. Then he may come near and keep it; he shall be as a native of the land. But no uncircumcised person shall eat of it.</p>
+            <p class="verse"><span class="verse-num">49</span>There shall be one law for the native and for the stranger who sojourns among you.”</p>
+            <p class="verse"><span class="verse-num">50</span>All the people of Israel did just as the LORD commanded Moses and Aaron.</p>
+            <p class="verse"><span class="verse-num">51</span>And on that very day the LORD brought the people of Israel out of the land of Egypt by their hosts.</p>
+        </div>
+
+        <div class="study-section">
+            <div class="study-tabs">
+                <div class="study-tab active" data-tab="summary">Summary</div>
+                <div class="study-tab" data-tab="keyverses">Key Verses</div>
+                <div class="study-tab" data-tab="crossref">Cross-References</div>
+                <div class="study-tab" data-tab="commentary">Commentary</div>
+                <div class="study-tab" data-tab="translations">Translations</div>
+                <div class="study-tab" data-tab="videos">Videos</div>
+                <div class="study-tab" data-tab="reflection">Reflection</div>
+            </div>
+            <div class="tab-content active" id="tab-summary">
+                <h3>Summary</h3>
+                <p>God institutes the Passover — the lamb&#x27;s blood on the doorposts saves Israel&#x27;s firstborn while Egypt&#x27;s are struck dead; Israel finally leaves Egypt.</p>
+            </div>
+            <div class="tab-content" id="tab-keyverses">
+                <h3>Key Verses</h3>
+                                <div class="key-verse">
+                    <div class="ref">v.5</div>
+                    <div class="text">&quot;Your lamb shall be without blemish, a male a year old.&quot; (ESV) — The Passover lamb: a type of Christ.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.7</div>
+                    <div class="text">&quot;They shall take some of the blood and put it on the two doorposts and the lintel.&quot; (ESV) — Blood applied = salvation applied.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.12</div>
+                    <div class="text">&quot;On all the gods of Egypt I will execute judgments: I am the LORD.&quot; (ESV) — The plagues are war against false gods.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.13</div>
+                    <div class="text">&quot;When I see the blood, I will pass over you.&quot; (ESV) — THE gospel in the Old Testament. Safety is in the blood, not in the person.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.46</div>
+                    <div class="text">&quot;You shall not break any of its bones.&quot; (ESV) — Fulfilled in Christ: John 19:36.</div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-crossref">
+                <h3>Cross-References</h3>
+                <ul>
+                    <li>v.3   — John 1:29 — "Behold, the Lamb of God, who takes away the sin of the world!" v.5   — 1 Peter 1:19 — "A lamb without blemish or spot." v.6   — Matthew 27:46-50 — Jesus dies at the evening hour. v.7   — Hebrews 9:22 — "Without the shedding of blood there is no forgiveness of sins." v.8   — 1 Corinthians 5:8 — "The unleavened bread of sincerity and truth." v.11  — 1 Peter 1:13 — "Preparing your minds for action." v.13  — Romans 3:25 — "Whom God put forward as a propitiation by his blood." v.13  — Hebrews 9:12-14 — Christ's blood secures eternal redemption. v.14  — 1 Corinthians 11:24-26 — "Do this in remembrance of me." v.22  — John 19:29 — Hyssop at the cross. v.23  — Hebrews 11:28 — "By faith he kept the Passover." v.29  — Psalm 78:51 — "He struck down every firstborn in Egypt." v.40  — Genesis 15:13 — "Your offspring will be sojourners... four hundred years." v.46  — John 19:33, 36 — "They did not break his legs... Not one of his bones will be broken." v.46  — Psalm 34:20 — "He keeps all his bones; not one of them is broken."</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-commentary">
+                <h3>Commentary</h3>
+                <ul>
+                    <li>Enduring Word (David Guzik): <a href="https://enduringword.com/bible-commentary/exodus-12/" target="_blank">https://enduringword.com/bible-commentary/exodus-12/</a> Guzik provides extensive treatment of every Passover detail as a type of Christ — the lamb, the blood, the hyssop, the unleavened bread, the unbroken bones, and the timing.</li>
+                    <li>Charles Spurgeon: Sermon: "When I See the Blood" on v.13 (MTP Vol. 32, No. 1899) "WHEN I SEE THE BLOOD, I will pass over you — not 'when I see your tears,' not 'when I see your good works,' not 'when I see your sincerity,' not 'when I see your church attendance.' When I see THE BLOOD. The blood is everything. The firstborn in the blood-marked house was no better than the firstborn in the unmarked house — the difference was the BLOOD. A trembling Israelite behind the blood was safer than a confident Egyptian without it. God did not say 'When YOU see the blood' — for you might doubt your own application. He said 'When I see it.' God sees the blood of Christ applied to you — and that is enough. Rest there."</li>
+                    <li>Sermon: "The Passover" on v.11 (MTP Vol. 6, No. 291) "It is the LORD's passover — not Israel's feast, not Moses' invention, not a human tradition. It is GOD's passover. He designed it. He commanded it. He fulfilled it. And every detail points to His Son: the lamb without blemish (Christ's sinlessness), the blood on the door (Christ's atonement), the roasting with fire (Christ bearing God's wrath), the bitter herbs (our repentance), the unleavened bread (Christ's purity), the haste (urgency of faith). This is not a meal — it is a gospel."</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-translations">
+                <h3>Translations</h3>
+                <ul>
+                    <li>v.2  — KJV: "the beginning of months" / ESV: "the beginning of months" — Hebrew "rosh chodashim" — head of months. Both identical. God resets Israel's calendar. Redemption creates a new beginning — the month of Nisan (March/April) becomes month one.</li>
+                    <li>v.5  — KJV: "without blemish" / ESV: "without blemish" — Hebrew "tamim" — complete, whole, without defect. Both identical. Christ was "tamim" — morally and physically perfect.</li>
+                    <li>v.11 — KJV: "passover" / ESV: "Passover" — Hebrew "pesach" — from "pasach" — to pass over, to skip over, to spare. Both identical (ESV capitalizes as a proper noun). God passes over the blood-marked houses.</li>
+                    <li>v.13 — KJV: "when I see the blood" / ESV: "when I see the blood" — Hebrew "vera'iti et hadam" — and I will see the blood. Both identical. God's eyes are on the blood — not on the person inside.</li>
+                    <li>v.22 — KJV: "hyssop" / ESV: "hyssop" — Hebrew "ezov" — a small bushy plant used for sprinkling. Both identical. Used at the Passover, in purification rites, and referenced at the cross (John 19:29).</li>
+                    <li>v.46 — KJV: "neither shall ye break a bone thereof" / ESV: "you shall not break any of its bones" — Hebrew "etzem lo tishberu vo" — a bone you shall not break in it. Both equivalent. Fulfilled in Christ: the soldiers did not break Jesus' legs (John 19:33, 36).</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-videos">
+                <h3>Videos</h3>
+                                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://bibleproject.com/explore/video/exodus-1-18/" target="_blank">The Bible Project — Exodus Overview</a></h4>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://enduringword.com/sermons/exodus/exodus/" target="_blank">David Guzik — Enduring Word Teaching Series (Exodus)</a></h4>
+                        <p>Verse-by-verse audio/video teaching through Exodus.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-reflection">
+                <h3>Reflection</h3>
+                <ul>
+                    <li>1. "When I see the blood, I will pass over you" (v.13). Your safety before God depends on the blood of Christ — not your performance, not your feelings, not your worthiness. Are you trusting the blood? That is enough.</li>
+                    <li>2. "Your lamb shall be without blemish" (v.5). Only a perfect sacrifice suffices. Christ alone is without blemish — without sin. No human effort can substitute for His perfect sacrifice.</li>
+                    <li>3. The blood had to be APPLIED (v.7). It wasn't enough for the lamb to die — the blood had to be put on the doorposts. Christ's death must be personally applied by faith. Have you applied it to YOUR life?</li>
+                    <li>4. "Eat it in haste" (v.11). There is urgency to the gospel. Don't delay your response to God. Loins girded, shoes on, staff in hand — be ready to move when God says go.</li>
+                    <li>5. "What mean ye by this service?" (v.26). Children will ask. Be ready to tell the story. The Passover — and the gospel — is meant to be explained to the next generation. Are you telling it?</li>
+                </ul>
+            </div>
+        </div>
+    </main>
+
+    <script src="site/script.js"></script>
+</body>
+</html>

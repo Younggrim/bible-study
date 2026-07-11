@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Numbers 16 — Bible Study</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="site/style.css">
+</head>
+<body>
+    <nav class="top-nav">
+        <button class="hamburger" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>
+        <a href="index.html" class="nav-brand">Bible Study</a>
+        <div class="nav-center">
+            <span style="font-size:0.9rem;color:var(--text-secondary);">Numbers &bull; Chapter 16</span>
+        </div>
+    </nav>
+
+    <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
+
+    <aside class="left-sidebar">
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Old Testament</div>
+            <a class="sidebar-item" href="genesis1.html"><i class="fas fa-book"></i> Genesis</a>
+            <a class="sidebar-item" href="exodus1.html"><i class="fas fa-book"></i> Exodus</a>
+            <a class="sidebar-item" href="leviticus1.html"><i class="fas fa-book"></i> Leviticus</a>
+            <a class="sidebar-item active" href="numbers1.html"><i class="fas fa-book"></i> Numbers</a>
+            <div class="chapter-grid">
+                <a class="chapter-btn" href="numbers1.html">1</a>
+                <a class="chapter-btn" href="numbers2.html">2</a>
+                <a class="chapter-btn" href="numbers3.html">3</a>
+                <a class="chapter-btn" href="numbers4.html">4</a>
+                <a class="chapter-btn" href="numbers5.html">5</a>
+                <a class="chapter-btn" href="numbers6.html">6</a>
+                <a class="chapter-btn" href="numbers7.html">7</a>
+                <a class="chapter-btn" href="numbers8.html">8</a>
+                <a class="chapter-btn" href="numbers9.html">9</a>
+                <a class="chapter-btn" href="numbers10.html">10</a>
+                <a class="chapter-btn" href="numbers11.html">11</a>
+                <a class="chapter-btn" href="numbers12.html">12</a>
+                <a class="chapter-btn" href="numbers13.html">13</a>
+                <a class="chapter-btn" href="numbers14.html">14</a>
+                <a class="chapter-btn" href="numbers15.html">15</a>
+                <a class="chapter-btn active" href="numbers16.html">16</a>
+                <a class="chapter-btn" href="numbers17.html">17</a>
+                <a class="chapter-btn" href="numbers18.html">18</a>
+                <a class="chapter-btn" href="numbers19.html">19</a>
+                <a class="chapter-btn" href="numbers20.html">20</a>
+                <a class="chapter-btn" href="numbers21.html">21</a>
+                <a class="chapter-btn" href="numbers22.html">22</a>
+                <a class="chapter-btn" href="numbers23.html">23</a>
+                <a class="chapter-btn" href="numbers24.html">24</a>
+                <a class="chapter-btn" href="numbers25.html">25</a>
+                <a class="chapter-btn" href="numbers26.html">26</a>
+                <a class="chapter-btn" href="numbers27.html">27</a>
+                <a class="chapter-btn" href="numbers28.html">28</a>
+                <a class="chapter-btn" href="numbers29.html">29</a>
+                <a class="chapter-btn" href="numbers30.html">30</a>
+                <a class="chapter-btn" href="numbers31.html">31</a>
+                <a class="chapter-btn" href="numbers32.html">32</a>
+                <a class="chapter-btn" href="numbers33.html">33</a>
+                <a class="chapter-btn" href="numbers34.html">34</a>
+                <a class="chapter-btn" href="numbers35.html">35</a>
+                <a class="chapter-btn" href="numbers36.html">36</a>
+            </div>
+            <a class="sidebar-item" href="deuteronomy1.html"><i class="fas fa-book"></i> Deuteronomy</a>
+            <a class="sidebar-item" href="joshua1.html"><i class="fas fa-book"></i> Joshua</a>
+            <a class="sidebar-item" href="judges1.html"><i class="fas fa-book"></i> Judges</a>
+            <a class="sidebar-item" href="ruth1.html"><i class="fas fa-book"></i> Ruth</a>
+            <a class="sidebar-item" href="1samuel1.html"><i class="fas fa-book"></i> 1 Samuel</a>
+            <a class="sidebar-item" href="2samuel1.html"><i class="fas fa-book"></i> 2 Samuel</a>
+            <a class="sidebar-item" href="1kings1.html"><i class="fas fa-book"></i> 1 Kings</a>
+            <a class="sidebar-item" href="2kings1.html"><i class="fas fa-book"></i> 2 Kings</a>
+            <a class="sidebar-item" href="1chronicles1.html"><i class="fas fa-book"></i> 1 Chronicles</a>
+            <a class="sidebar-item" href="2chronicles1.html"><i class="fas fa-book"></i> 2 Chronicles</a>
+            <a class="sidebar-item" href="ezra1.html"><i class="fas fa-book"></i> Ezra</a>
+            <a class="sidebar-item" href="nehemiah1.html"><i class="fas fa-book"></i> Nehemiah</a>
+            <a class="sidebar-item" href="esther1.html"><i class="fas fa-book"></i> Esther</a>
+            <a class="sidebar-item" href="job1.html"><i class="fas fa-book"></i> Job</a>
+            <a class="sidebar-item" href="psalms1.html"><i class="fas fa-book"></i> Psalms</a>
+            <a class="sidebar-item" href="proverbs1.html"><i class="fas fa-book"></i> Proverbs</a>
+            <a class="sidebar-item" href="ecclesiastes1.html"><i class="fas fa-book"></i> Ecclesiastes</a>
+            <a class="sidebar-item" href="songofsolomon1.html"><i class="fas fa-book"></i> Song of Solomon</a>
+            <a class="sidebar-item" href="isaiah1.html"><i class="fas fa-book"></i> Isaiah</a>
+            <a class="sidebar-item" href="jeremiah1.html"><i class="fas fa-book"></i> Jeremiah</a>
+            <a class="sidebar-item" href="lamentations1.html"><i class="fas fa-book"></i> Lamentations</a>
+            <a class="sidebar-item" href="ezekiel1.html"><i class="fas fa-book"></i> Ezekiel</a>
+            <a class="sidebar-item" href="daniel1.html"><i class="fas fa-book"></i> Daniel</a>
+            <a class="sidebar-item" href="hosea1.html"><i class="fas fa-book"></i> Hosea</a>
+            <a class="sidebar-item" href="joel1.html"><i class="fas fa-book"></i> Joel</a>
+            <a class="sidebar-item" href="amos1.html"><i class="fas fa-book"></i> Amos</a>
+            <a class="sidebar-item" href="obadiah1.html"><i class="fas fa-book"></i> Obadiah</a>
+            <a class="sidebar-item" href="jonah1.html"><i class="fas fa-book"></i> Jonah</a>
+            <a class="sidebar-item" href="micah1.html"><i class="fas fa-book"></i> Micah</a>
+            <a class="sidebar-item" href="nahum1.html"><i class="fas fa-book"></i> Nahum</a>
+            <a class="sidebar-item" href="habakkuk1.html"><i class="fas fa-book"></i> Habakkuk</a>
+            <a class="sidebar-item" href="zephaniah1.html"><i class="fas fa-book"></i> Zephaniah</a>
+            <a class="sidebar-item" href="haggai1.html"><i class="fas fa-book"></i> Haggai</a>
+            <a class="sidebar-item" href="zechariah1.html"><i class="fas fa-book"></i> Zechariah</a>
+            <a class="sidebar-item" href="malachi1.html"><i class="fas fa-book"></i> Malachi</a>
+        </div>
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">New Testament</div>
+            <a class="sidebar-item" href="matthew1.html"><i class="fas fa-book"></i> Matthew</a>
+            <a class="sidebar-item" href="mark1.html"><i class="fas fa-book"></i> Mark</a>
+            <a class="sidebar-item" href="luke1.html"><i class="fas fa-book"></i> Luke</a>
+            <a class="sidebar-item" href="john1.html"><i class="fas fa-book"></i> John</a>
+            <a class="sidebar-item" href="acts1.html"><i class="fas fa-book"></i> Acts</a>
+            <a class="sidebar-item" href="romans1.html"><i class="fas fa-book"></i> Romans</a>
+            <a class="sidebar-item" href="1corinthians1.html"><i class="fas fa-book"></i> 1 Corinthians</a>
+            <a class="sidebar-item" href="2corinthians1.html"><i class="fas fa-book"></i> 2 Corinthians</a>
+            <a class="sidebar-item" href="galatians1.html"><i class="fas fa-book"></i> Galatians</a>
+            <a class="sidebar-item" href="ephesians1.html"><i class="fas fa-book"></i> Ephesians</a>
+            <a class="sidebar-item" href="philippians1.html"><i class="fas fa-book"></i> Philippians</a>
+            <a class="sidebar-item" href="colossians1.html"><i class="fas fa-book"></i> Colossians</a>
+            <a class="sidebar-item" href="1thessalonians1.html"><i class="fas fa-book"></i> 1 Thessalonians</a>
+            <a class="sidebar-item" href="2thessalonians1.html"><i class="fas fa-book"></i> 2 Thessalonians</a>
+            <a class="sidebar-item" href="1timothy1.html"><i class="fas fa-book"></i> 1 Timothy</a>
+            <a class="sidebar-item" href="2timothy1.html"><i class="fas fa-book"></i> 2 Timothy</a>
+            <a class="sidebar-item" href="titus1.html"><i class="fas fa-book"></i> Titus</a>
+            <a class="sidebar-item" href="philemon1.html"><i class="fas fa-book"></i> Philemon</a>
+            <a class="sidebar-item" href="hebrews1.html"><i class="fas fa-book"></i> Hebrews</a>
+            <a class="sidebar-item" href="james1.html"><i class="fas fa-book"></i> James</a>
+            <a class="sidebar-item" href="1peter1.html"><i class="fas fa-book"></i> 1 Peter</a>
+            <a class="sidebar-item" href="2peter1.html"><i class="fas fa-book"></i> 2 Peter</a>
+            <a class="sidebar-item" href="1john1.html"><i class="fas fa-book"></i> 1 John</a>
+            <a class="sidebar-item" href="2john1.html"><i class="fas fa-book"></i> 2 John</a>
+            <a class="sidebar-item" href="3john1.html"><i class="fas fa-book"></i> 3 John</a>
+            <a class="sidebar-item" href="jude1.html"><i class="fas fa-book"></i> Jude</a>
+            <a class="sidebar-item" href="revelation1.html"><i class="fas fa-book"></i> Revelation</a>
+        </div>
+    </aside>
+
+
+
+    <main class="main-content">
+        <div class="book-header">
+            <h1>Numbers — Chapter 16</h1>
+        </div>
+
+        <div class="scripture-container">
+            <p class="verse"><span class="verse-num">1</span>Now Korah the son of Izhar, son of Kohath, son of Levi, and Dathan and Abiram the sons of Eliab, and On the son of Peleth, sons of Reuben, took men.</p>
+            <p class="verse"><span class="verse-num">2</span>And they rose up before Moses, with a number of the people of Israel, 250 chiefs of the congregation, chosen from the assembly, well-known men.</p>
+            <p class="verse"><span class="verse-num">3</span>They assembled themselves together against Moses and against Aaron and said to them, “You have gone too far! For all in the congregation are holy, every one of them, and the LORD is among them. Why then do you exalt yourselves above the assembly of the LORD?”</p>
+            <p class="verse"><span class="verse-num">4</span>When Moses heard it, he fell on his face,</p>
+            <p class="verse"><span class="verse-num">5</span>and he said to Korah and all his company, “In the morning the LORD will show who is his, and who is holy, and will bring him near to him. The one whom he chooses he will bring near to him.</p>
+            <p class="verse"><span class="verse-num">6</span>Do this: take censers, Korah and all his company;</p>
+            <p class="verse"><span class="verse-num">7</span>put fire in them and put incense on them before the LORD tomorrow, and the man whom the LORD chooses shall be the holy one. You have gone too far, sons of Levi!”</p>
+            <p class="verse"><span class="verse-num">8</span>And Moses said to Korah, “Hear now, you sons of Levi:</p>
+            <p class="verse"><span class="verse-num">9</span>is it too small a thing for you that the God of Israel has separated you from the congregation of Israel, to bring you near to himself, to do service in the tabernacle of the LORD and to stand before the congregation to minister to them,</p>
+            <p class="verse"><span class="verse-num">10</span>and that he has brought you near him, and all your brothers the sons of Levi with you? And would you seek the priesthood also?</p>
+            <p class="verse"><span class="verse-num">11</span>Therefore it is against the LORD that you and all your company have gathered together. What is Aaron that you grumble against him?”</p>
+            <p class="verse"><span class="verse-num">12</span>And Moses sent to call Dathan and Abiram the sons of Eliab, and they said, “We will not come up.</p>
+            <p class="verse"><span class="verse-num">13</span>Is it a small thing that you have brought us up out of a land flowing with milk and honey, to kill us in the wilderness, that you must also make yourself a prince over us?</p>
+            <p class="verse"><span class="verse-num">14</span>Moreover, you have not brought us into a land flowing with milk and honey, nor given us inheritance of fields and vineyards. Will you put out the eyes of these men? We will not come up.”</p>
+            <p class="verse"><span class="verse-num">15</span>And Moses was very angry and said to the LORD, “Do not respect their offering. I have not taken one donkey from them, and I have not harmed one of them.”</p>
+            <p class="verse"><span class="verse-num">16</span>And Moses said to Korah, “Be present, you and all your company, before the LORD, you and they, and Aaron, tomorrow.</p>
+            <p class="verse"><span class="verse-num">17</span>And let every one of you take his censer and put incense on it, and every one of you bring before the LORD his censer, 250 censers; you also, and Aaron, each his censer.”</p>
+            <p class="verse"><span class="verse-num">18</span>So every man took his censer and put fire in them and laid incense on them and stood at the entrance of the tent of meeting with Moses and Aaron.</p>
+            <p class="verse"><span class="verse-num">19</span>Then Korah assembled all the congregation against them at the entrance of the tent of meeting. And the glory of the LORD appeared to all the congregation.</p>
+            <p class="verse"><span class="verse-num">20</span>And the LORD spoke to Moses and to Aaron, saying,</p>
+            <p class="verse"><span class="verse-num">21</span>“Separate yourselves from among this congregation, that I may consume them in a moment.”</p>
+            <p class="verse"><span class="verse-num">22</span>And they fell on their faces and said, “O God, the God of the spirits of all flesh, shall one man sin, and will you be angry with all the congregation?”</p>
+            <p class="verse"><span class="verse-num">23</span>And the LORD spoke to Moses, saying,</p>
+            <p class="verse"><span class="verse-num">24</span>“Say to the congregation, Get away from the dwelling of Korah, Dathan, and Abiram.”</p>
+            <p class="verse"><span class="verse-num">25</span>Then Moses rose and went to Dathan and Abiram, and the elders of Israel followed him.</p>
+            <p class="verse"><span class="verse-num">26</span>And he spoke to the congregation, saying, “Depart, please, from the tents of these wicked men, and touch nothing of theirs, lest you be swept away with all their sins.”</p>
+            <p class="verse"><span class="verse-num">27</span>So they got away from the dwelling of Korah, Dathan, and Abiram. And Dathan and Abiram came out and stood at the door of their tents, together with their wives, their sons, and their little ones.</p>
+            <p class="verse"><span class="verse-num">28</span>And Moses said, “Hereby you shall know that the LORD has sent me to do all these works, and that it has not been of my own accord.</p>
+            <p class="verse"><span class="verse-num">29</span>If these men die as all men die, or if they are visited by the fate of all mankind, then the LORD has not sent me.</p>
+            <p class="verse"><span class="verse-num">30</span>But if the LORD creates something new, and the ground opens its mouth and swallows them up with all that belongs to them, and they go down alive into Sheol, then you shall know that these men have despised the LORD.”</p>
+            <p class="verse"><span class="verse-num">31</span>And as soon as he had finished speaking all these words, the ground under them split apart.</p>
+            <p class="verse"><span class="verse-num">32</span>And the earth opened its mouth and swallowed them up, with their households and all the people who belonged to Korah and all their goods.</p>
+            <p class="verse"><span class="verse-num">33</span>So they and all that belonged to them went down alive into Sheol, and the earth closed over them, and they perished from the midst of the assembly.</p>
+            <p class="verse"><span class="verse-num">34</span>And all Israel who were around them fled at their cry, for they said, “Lest the earth swallow us up!”</p>
+            <p class="verse"><span class="verse-num">35</span>And fire came out from the LORD and consumed the 250 men offering the incense.</p>
+            <p class="verse"><span class="verse-num">36</span>Then the LORD spoke to Moses, saying,</p>
+            <p class="verse"><span class="verse-num">37</span>“Tell Eleazar the son of Aaron the priest to take up the censers out of the blaze. Then scatter the fire far and wide, for they have become holy.</p>
+            <p class="verse"><span class="verse-num">38</span>As for the censers of these men who have sinned at the cost of their lives, let them be made into hammered plates as a covering for the altar, for they offered them before the LORD, and they became holy. Thus they shall be a sign to the people of Israel.”</p>
+            <p class="verse"><span class="verse-num">39</span>So Eleazar the priest took the bronze censers, which those who were burned had offered, and they were hammered out as a covering for the altar,</p>
+            <p class="verse"><span class="verse-num">40</span>to be a reminder to the people of Israel, so that no outsider, who is not of the descendants of Aaron, should draw near to burn incense before the LORD, lest he become like Korah and his company—as the LORD said to him through Moses.</p>
+            <p class="verse"><span class="verse-num">41</span>But on the next day all the congregation of the people of Israel grumbled against Moses and against Aaron, saying, “You have killed the people of the LORD.”</p>
+            <p class="verse"><span class="verse-num">42</span>And when the congregation had assembled against Moses and against Aaron, they turned toward the tent of meeting. And behold, the cloud covered it, and the glory of the LORD appeared.</p>
+            <p class="verse"><span class="verse-num">43</span>And Moses and Aaron came to the front of the tent of meeting,</p>
+            <p class="verse"><span class="verse-num">44</span>and the LORD spoke to Moses, saying,</p>
+            <p class="verse"><span class="verse-num">45</span>“Get away from the midst of this congregation, that I may consume them in a moment.” And they fell on their faces.</p>
+            <p class="verse"><span class="verse-num">46</span>And Moses said to Aaron, “Take your censer, and put fire on it from off the altar and lay incense on it and carry it quickly to the congregation and make atonement for them, for wrath has gone out from the LORD; the plague has begun.”</p>
+            <p class="verse"><span class="verse-num">47</span>So Aaron took it as Moses said and ran into the midst of the assembly. And behold, the plague had already begun among the people. And he put on the incense and made atonement for the people.</p>
+            <p class="verse"><span class="verse-num">48</span>And he stood between the dead and the living, and the plague was stopped.</p>
+            <p class="verse"><span class="verse-num">49</span>Now those who died in the plague were 14,700, besides those who died in the affair of Korah.</p>
+            <p class="verse"><span class="verse-num">50</span>And Aaron returned to Moses at the entrance of the tent of meeting, when the plague was stopped.</p>
+        </div>
+
+        <div class="study-section">
+            <div class="study-tabs">
+                <div class="study-tab active" data-tab="summary">Summary</div>
+                <div class="study-tab" data-tab="keyverses">Key Verses</div>
+                <div class="study-tab" data-tab="crossref">Cross-References</div>
+                <div class="study-tab" data-tab="commentary">Commentary</div>
+                <div class="study-tab" data-tab="translations">Translations</div>
+                <div class="study-tab" data-tab="videos">Videos</div>
+                <div class="study-tab" data-tab="reflection">Reflection</div>
+            </div>
+            <div class="tab-content active" id="tab-summary">
+                <h3>Summary</h3>
+                <p>Korah, Dathan, and Abiram lead a rebellion against Moses and Aaron; the earth swallows the rebels and fire consumes 250 men offering incense.</p>
+            </div>
+            <div class="tab-content" id="tab-keyverses">
+                <h3>Key Verses</h3>
+                                <div class="key-verse">
+                    <div class="ref">v.3</div>
+                    <div class="text">&quot;All the congregation are holy, every one of them, and the LORD is among them: wherefore then lift ye up yourselves above the congregation of the LORD?&quot; — Korah&#x27;s argument: sounds spiritual, is actually rebellion. Twisting truth to reject God&#x27;s order.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.5</div>
+                    <div class="text">&quot;The LORD will shew who are his, and who is holy; and will cause him to come near unto him.&quot; — God chooses; man does not appoint himself. The test: let God decide.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.9</div>
+                    <div class="text">&quot;Is it too small a thing for you that the God of Israel has separated you... to bring you near to himself?&quot; (ESV) — Korah despises his actual calling while coveting another&#x27;s.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.22</div>
+                    <div class="text">&quot;O God, the God of the spirits of all flesh, shall one man sin, and wilt thou be wroth with all the congregation?&quot; — Moses and Aaron intercede for the very people rebelling against them.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.30</div>
+                    <div class="text">&quot;If the LORD make a new thing, and the earth open her mouth, and swallow them up.&quot; — God creates unprecedented judgment for unprecedented rebellion.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.48</div>
+                    <div class="text">&quot;And he stood between the dead and the living; and the plague was stayed.&quot; — Aaron the intercessor. The priest stands in the gap. A picture of Christ standing between us and death.</div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-crossref">
+                <h3>Cross-References</h3>
+                <ul>
+                    <li>v.1   — Exodus 6:18, 21 — Korah's genealogy: grandson of Kohath, great- grandson of Levi. He is Moses' cousin. v.3   — Exodus 19:6 — "you shall be to me a kingdom of priests and a holy nation" (ESV) — the truth Korah distorts. v.5   — 2 Timothy 2:19 — "The Lord knows those who are his." (ESV) v.11  — 1 Samuel 8:7 — "They have not rejected you, but they have rejected me" (ESV) — rebellion against God's leaders is rebellion against God. v.15  — 1 Samuel 12:3 — Samuel's similar defense: "Whose ox have I taken?" v.22  — Genesis 18:23-25 — Abraham's intercession for Sodom: "Wilt thou also destroy the righteous with the wicked?" v.26  — 2 Corinthians 6:17 — "Come out from among them, and be ye separate." v.30  — Isaiah 28:21 — "His strange work... his strange act" — God does unprecedented things in judgment. v.31-33 — Psalm 106:17 — "The earth opened and swallowed up Dathan, and covered the company of Abiram." v.35  — Leviticus 10:1-2 — Nadab and Abihu consumed by fire for unauthorized incense — the same judgment. v.41  — Numbers 14:2 — The same pattern: God judges, the people blame Moses. v.46  — Hebrews 7:25 — Christ "ever liveth to make intercession for them." v.48  — 1 Timothy 2:5 — "One mediator between God and men, the man Christ Jesus." v.49  — Numbers 25:9 — Another plague: 24,000 die at Baal-peor. Jude 11 — "Perished in the gainsaying of Core [Korah]."</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-commentary">
+                <h3>Commentary</h3>
+                <ul>
+                    <li>Enduring Word (David Guzik): <a href="https://enduringword.com/bible-commentary/numbers-16/" target="_blank">https://enduringword.com/bible-commentary/numbers-16/</a> Guzik emphasizes that Korah's rebellion is particularly dangerous because it uses spiritual language to mask ambition. "All the congregation are holy" sounds humble and egalitarian — but it is actually a power grab disguised as theology. He highlights Aaron standing between the dead and the living as one of the most powerful images of intercession in the Bible.</li>
+                    <li>Charles Spurgeon: "Korah said, 'All are holy.' It sounded so fair, so democratic, so spiritual. But it was the language of hell dressed in the robes of heaven. For when God appoints, man does not un-appoint. When God sets a man in office, the congregation does not vote him out. Korah wanted Aaron's place — not Aaron's God. He wanted the censer — not the consecration. And the earth opened its mouth. Let every man who covets another's calling beware: the ground beneath ambition is thin."</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-translations">
+                <h3>Translations</h3>
+                <ul>
+                    <li>v.1  — KJV: "took men" / ESV: "took men" — Hebrew "vayyiqqach." The verb "took" has no explicit object in Hebrew — it may mean "took men" (recruited followers), "took upon himself" (presumed authority), or "took [action]." Both translations supply "men" for clarity.</li>
+                    <li>v.2  — KJV: "two hundred and fifty princes of the assembly, famous in the congregation, men of renown" / ESV: "250 chiefs of the congregation, chosen from the assembly, well-known men" — Hebrew "n'si'ei edah q'ri'ei mo'ed anshei shem." These are not nobodies — they are the elite of Israel. The rebellion is from the top, not the bottom.</li>
+                    <li>v.3  — KJV: "Ye take too much upon you" / ESV: "You have gone too far" — Hebrew "rav lakhem." Literally "much/enough for you" — you have taken too much, or you have gone far enough. Ironically, Moses uses the same phrase back to them in v.7.</li>
+                    <li>v.13 — KJV: "a land that floweth with milk and honey" (referring to Egypt) / ESV: "a land flowing with milk and honey" — The rebels blasphemously apply God's description of Canaan (Exodus 3:8) to Egypt — the land of slavery. They rewrite history to justify rebellion.</li>
+                    <li>v.30 — KJV: "the earth open her mouth, and swallow them up... and they go down quick into the pit" / ESV: "the ground opens its mouth and swallows them up... and they go down alive into Sheol" — Hebrew "Sheol." KJV translates as "the pit"; ESV retains "Sheol" — the realm of the dead. They descend alive into the place of death.</li>
+                    <li>v.38 — KJV: "The censers of these sinners against their own souls" / ESV: "the censers of these men who have sinned at the cost of their lives" — Hebrew "ha-chatta'im ha-elleh b'nafsh'tam." Their sin cost them their lives/souls. The censers are holy (offered before God) but the offerers are dead — a sobering memorial.</li>
+                    <li>v.46 — KJV: "there is wrath gone out from the LORD; the plague is begun" / ESV: "wrath has gone out from the LORD; the plague has begun" — The urgency: wrath is already active, death is already spreading. Aaron must RUN — there is no time for ceremony.</li>
+                    <li>v.48 — KJV: "he stood between the dead and the living" / ESV: "he stood between the dead and the living" — Identical in both. The image is physical: Aaron literally positions himself at the boundary where the plague is advancing, incense in hand, and the death stops at his feet. The priest as barrier between God's wrath and the people.</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-videos">
+                <h3>Videos</h3>
+                                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://bibleproject.com/explore/video/numbers/" target="_blank">The Bible Project — Numbers Overview</a></h4>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://enduringword.com/sermons/numbers/numbers/" target="_blank">David Guzik — Enduring Word Teaching Series (Numbers)</a></h4>
+                        <p>Verse-by-verse audio/video teaching through Numbers.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-reflection">
+                <h3>Reflection</h3>
+                <ul>
+                    <li>1. "All the congregation are holy" (v.3). Korah's argument sounds humble and egalitarian — but it masks ambition. Beware of using spiritual language to justify rebellion against God-appointed authority. Not all claims of equality are righteous; some are power grabs in disguise.</li>
+                    <li>2. "Is it a small thing?" (v.9). Korah despises his actual calling while coveting another's. He is a Levite — separated to serve God — and it is not enough. Do you despise the role God has given you while envying someone else's? Faithfulness in your calling is better than ambition for another's.</li>
+                    <li>3. Moses' integrity (v.15). "I have not taken one ass from them." When accused, Moses can point to a clean record. Integrity is the best defense against slander. Can you say the same about your stewardship?</li>
+                    <li>4. "The LORD make a new thing" (v.30). God is not limited to ordinary means of judgment. Unprecedented rebellion receives unprecedented response. Do not presume on God's patience or assume His judgments will always look familiar.</li>
+                    <li>5. "Ye have killed the people of the LORD" (v.41). The day after God's dramatic judgment, the people blame Moses. The human capacity to witness God's clear action and still blame human leaders is staggering. Do you blame pastors and leaders for consequences that God Himself has brought?</li>
+                    <li>6. "He stood between the dead and the living" (v.48). Aaron runs TOWARD the plague, not away from it. The true priest/intercessor moves toward danger to save others. Christ did not flee from death — He ran into it to stand between us and judgment. Who are you standing between?</li>
+                </ul>
+            </div>
+        </div>
+    </main>
+
+    <script src="site/script.js"></script>
+</body>
+</html>

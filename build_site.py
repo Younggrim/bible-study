@@ -320,16 +320,16 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
 
     left_sidebar = build_left_sidebar(testament, book_name, chapter_num, total_chapters)
 
-    return build_html_page(book_name, chapter_num, verses_html, tab_bar, tab_panels, left_sidebar)
+    return build_html_page(book_name, chapter_num, total_chapters, verses_html, tab_bar, tab_panels, left_sidebar)
 
-def build_html_page(book_name, chapter_num, verses_html, tab_bar, tab_panels, left_sidebar):
+def build_html_page(book_name, chapter_num, total_chapters, verses_html, tab_bar, tab_panels, left_sidebar):
     """Assemble the full HTML page."""
-    return f'''<!DOCTYPE html>
+    nav_html = '''<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{book_name} {chapter_num} — Bible Study</title>
+    <title>''' + f'{book_name} {chapter_num}' + ''' — Bible Study</title>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link rel="stylesheet" href="site/style.css">
@@ -339,7 +339,33 @@ def build_html_page(book_name, chapter_num, verses_html, tab_bar, tab_panels, le
         <button class="hamburger" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>
         <a href="index.html" class="nav-brand">Bible Study</a>
         <div class="nav-center">
-            <span style="font-size:0.9rem;color:var(--text-secondary);">{book_name} &bull; Chapter {chapter_num}</span>
+            <select class="nav-book-select" id="bookSelect" onchange="updateChapters()">
+                <optgroup label="Old Testament">'''
+
+    for _, name, chapters in OT_BOOKS:
+        selected = ' selected' if name == book_name else ''
+        nav_html += f'\n                    <option value="{book_slug(name)}" data-chapters="{chapters}"{selected}>{name}</option>'
+
+    nav_html += '''
+                </optgroup>
+                <optgroup label="New Testament">'''
+
+    for _, name, chapters in NT_BOOKS:
+        selected = ' selected' if name == book_name else ''
+        nav_html += f'\n                    <option value="{book_slug(name)}" data-chapters="{chapters}"{selected}>{name}</option>'
+
+    nav_html += f'''
+                </optgroup>
+            </select>
+            <select class="nav-chapter-select" id="chapterSelect">'''
+
+    for c in range(1, total_chapters + 1):
+        selected = ' selected' if c == chapter_num else ''
+        nav_html += f'\n                <option value="{c}"{selected}>Ch {c}</option>'
+
+    nav_html += '''
+            </select>
+            <button onclick="goToChapter()" style="padding:6px 12px;background:#8b3a2a;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:0.85rem;font-weight:600;">Go</button>
             <select class="nav-translation" onchange="switchTranslation(this.value)">
                 <option value="ESV">ESV</option>
                 <option value="KJV">KJV</option>
@@ -352,7 +378,7 @@ def build_html_page(book_name, chapter_num, verses_html, tab_bar, tab_panels, le
 
     <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
 
-{left_sidebar}
+''' + left_sidebar + f'''
 
     <main class="main-content">
         <div class="book-header">
@@ -372,6 +398,8 @@ def build_html_page(book_name, chapter_num, verses_html, tab_bar, tab_panels, le
     <script src="site/script.js"></script>
 </body>
 </html>'''
+
+    return nav_html
 
 def build_index():
     """Build the homepage."""

@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luke 19 — Bible Study</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="site/style.css">
+</head>
+<body>
+    <nav class="top-nav">
+        <button class="hamburger" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>
+        <a href="index.html" class="nav-brand">Bible Study</a>
+        <div class="nav-center">
+            <span style="font-size:0.9rem;color:var(--text-secondary);">Luke &bull; Chapter 19</span>
+        </div>
+    </nav>
+
+    <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
+
+    <aside class="left-sidebar">
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Old Testament</div>
+            <a class="sidebar-item" href="genesis1.html"><i class="fas fa-book"></i> Genesis</a>
+            <a class="sidebar-item" href="exodus1.html"><i class="fas fa-book"></i> Exodus</a>
+            <a class="sidebar-item" href="leviticus1.html"><i class="fas fa-book"></i> Leviticus</a>
+            <a class="sidebar-item" href="numbers1.html"><i class="fas fa-book"></i> Numbers</a>
+            <a class="sidebar-item" href="deuteronomy1.html"><i class="fas fa-book"></i> Deuteronomy</a>
+            <a class="sidebar-item" href="joshua1.html"><i class="fas fa-book"></i> Joshua</a>
+            <a class="sidebar-item" href="judges1.html"><i class="fas fa-book"></i> Judges</a>
+            <a class="sidebar-item" href="ruth1.html"><i class="fas fa-book"></i> Ruth</a>
+            <a class="sidebar-item" href="1samuel1.html"><i class="fas fa-book"></i> 1 Samuel</a>
+            <a class="sidebar-item" href="2samuel1.html"><i class="fas fa-book"></i> 2 Samuel</a>
+            <a class="sidebar-item" href="1kings1.html"><i class="fas fa-book"></i> 1 Kings</a>
+            <a class="sidebar-item" href="2kings1.html"><i class="fas fa-book"></i> 2 Kings</a>
+            <a class="sidebar-item" href="1chronicles1.html"><i class="fas fa-book"></i> 1 Chronicles</a>
+            <a class="sidebar-item" href="2chronicles1.html"><i class="fas fa-book"></i> 2 Chronicles</a>
+            <a class="sidebar-item" href="ezra1.html"><i class="fas fa-book"></i> Ezra</a>
+            <a class="sidebar-item" href="nehemiah1.html"><i class="fas fa-book"></i> Nehemiah</a>
+            <a class="sidebar-item" href="esther1.html"><i class="fas fa-book"></i> Esther</a>
+            <a class="sidebar-item" href="job1.html"><i class="fas fa-book"></i> Job</a>
+            <a class="sidebar-item" href="psalms1.html"><i class="fas fa-book"></i> Psalms</a>
+            <a class="sidebar-item" href="proverbs1.html"><i class="fas fa-book"></i> Proverbs</a>
+            <a class="sidebar-item" href="ecclesiastes1.html"><i class="fas fa-book"></i> Ecclesiastes</a>
+            <a class="sidebar-item" href="songofsolomon1.html"><i class="fas fa-book"></i> Song of Solomon</a>
+            <a class="sidebar-item" href="isaiah1.html"><i class="fas fa-book"></i> Isaiah</a>
+            <a class="sidebar-item" href="jeremiah1.html"><i class="fas fa-book"></i> Jeremiah</a>
+            <a class="sidebar-item" href="lamentations1.html"><i class="fas fa-book"></i> Lamentations</a>
+            <a class="sidebar-item" href="ezekiel1.html"><i class="fas fa-book"></i> Ezekiel</a>
+            <a class="sidebar-item" href="daniel1.html"><i class="fas fa-book"></i> Daniel</a>
+            <a class="sidebar-item" href="hosea1.html"><i class="fas fa-book"></i> Hosea</a>
+            <a class="sidebar-item" href="joel1.html"><i class="fas fa-book"></i> Joel</a>
+            <a class="sidebar-item" href="amos1.html"><i class="fas fa-book"></i> Amos</a>
+            <a class="sidebar-item" href="obadiah1.html"><i class="fas fa-book"></i> Obadiah</a>
+            <a class="sidebar-item" href="jonah1.html"><i class="fas fa-book"></i> Jonah</a>
+            <a class="sidebar-item" href="micah1.html"><i class="fas fa-book"></i> Micah</a>
+            <a class="sidebar-item" href="nahum1.html"><i class="fas fa-book"></i> Nahum</a>
+            <a class="sidebar-item" href="habakkuk1.html"><i class="fas fa-book"></i> Habakkuk</a>
+            <a class="sidebar-item" href="zephaniah1.html"><i class="fas fa-book"></i> Zephaniah</a>
+            <a class="sidebar-item" href="haggai1.html"><i class="fas fa-book"></i> Haggai</a>
+            <a class="sidebar-item" href="zechariah1.html"><i class="fas fa-book"></i> Zechariah</a>
+            <a class="sidebar-item" href="malachi1.html"><i class="fas fa-book"></i> Malachi</a>
+        </div>
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">New Testament</div>
+            <a class="sidebar-item" href="matthew1.html"><i class="fas fa-book"></i> Matthew</a>
+            <a class="sidebar-item" href="mark1.html"><i class="fas fa-book"></i> Mark</a>
+            <a class="sidebar-item active" href="luke1.html"><i class="fas fa-book"></i> Luke</a>
+            <div class="chapter-grid">
+                <a class="chapter-btn" href="luke1.html">1</a>
+                <a class="chapter-btn" href="luke2.html">2</a>
+                <a class="chapter-btn" href="luke3.html">3</a>
+                <a class="chapter-btn" href="luke4.html">4</a>
+                <a class="chapter-btn" href="luke5.html">5</a>
+                <a class="chapter-btn" href="luke6.html">6</a>
+                <a class="chapter-btn" href="luke7.html">7</a>
+                <a class="chapter-btn" href="luke8.html">8</a>
+                <a class="chapter-btn" href="luke9.html">9</a>
+                <a class="chapter-btn" href="luke10.html">10</a>
+                <a class="chapter-btn" href="luke11.html">11</a>
+                <a class="chapter-btn" href="luke12.html">12</a>
+                <a class="chapter-btn" href="luke13.html">13</a>
+                <a class="chapter-btn" href="luke14.html">14</a>
+                <a class="chapter-btn" href="luke15.html">15</a>
+                <a class="chapter-btn" href="luke16.html">16</a>
+                <a class="chapter-btn" href="luke17.html">17</a>
+                <a class="chapter-btn" href="luke18.html">18</a>
+                <a class="chapter-btn active" href="luke19.html">19</a>
+                <a class="chapter-btn" href="luke20.html">20</a>
+                <a class="chapter-btn" href="luke21.html">21</a>
+                <a class="chapter-btn" href="luke22.html">22</a>
+                <a class="chapter-btn" href="luke23.html">23</a>
+                <a class="chapter-btn" href="luke24.html">24</a>
+            </div>
+            <a class="sidebar-item" href="john1.html"><i class="fas fa-book"></i> John</a>
+            <a class="sidebar-item" href="acts1.html"><i class="fas fa-book"></i> Acts</a>
+            <a class="sidebar-item" href="romans1.html"><i class="fas fa-book"></i> Romans</a>
+            <a class="sidebar-item" href="1corinthians1.html"><i class="fas fa-book"></i> 1 Corinthians</a>
+            <a class="sidebar-item" href="2corinthians1.html"><i class="fas fa-book"></i> 2 Corinthians</a>
+            <a class="sidebar-item" href="galatians1.html"><i class="fas fa-book"></i> Galatians</a>
+            <a class="sidebar-item" href="ephesians1.html"><i class="fas fa-book"></i> Ephesians</a>
+            <a class="sidebar-item" href="philippians1.html"><i class="fas fa-book"></i> Philippians</a>
+            <a class="sidebar-item" href="colossians1.html"><i class="fas fa-book"></i> Colossians</a>
+            <a class="sidebar-item" href="1thessalonians1.html"><i class="fas fa-book"></i> 1 Thessalonians</a>
+            <a class="sidebar-item" href="2thessalonians1.html"><i class="fas fa-book"></i> 2 Thessalonians</a>
+            <a class="sidebar-item" href="1timothy1.html"><i class="fas fa-book"></i> 1 Timothy</a>
+            <a class="sidebar-item" href="2timothy1.html"><i class="fas fa-book"></i> 2 Timothy</a>
+            <a class="sidebar-item" href="titus1.html"><i class="fas fa-book"></i> Titus</a>
+            <a class="sidebar-item" href="philemon1.html"><i class="fas fa-book"></i> Philemon</a>
+            <a class="sidebar-item" href="hebrews1.html"><i class="fas fa-book"></i> Hebrews</a>
+            <a class="sidebar-item" href="james1.html"><i class="fas fa-book"></i> James</a>
+            <a class="sidebar-item" href="1peter1.html"><i class="fas fa-book"></i> 1 Peter</a>
+            <a class="sidebar-item" href="2peter1.html"><i class="fas fa-book"></i> 2 Peter</a>
+            <a class="sidebar-item" href="1john1.html"><i class="fas fa-book"></i> 1 John</a>
+            <a class="sidebar-item" href="2john1.html"><i class="fas fa-book"></i> 2 John</a>
+            <a class="sidebar-item" href="3john1.html"><i class="fas fa-book"></i> 3 John</a>
+            <a class="sidebar-item" href="jude1.html"><i class="fas fa-book"></i> Jude</a>
+            <a class="sidebar-item" href="revelation1.html"><i class="fas fa-book"></i> Revelation</a>
+        </div>
+    </aside>
+
+
+
+    <main class="main-content">
+        <div class="book-header">
+            <h1>Luke — Chapter 19</h1>
+        </div>
+
+        <div class="scripture-container">
+            <p class="verse"><span class="verse-num">1</span>He entered Jericho and was passing through.</p>
+            <p class="verse"><span class="verse-num">2</span>And behold, there was a man named Zacchaeus. He was a chief tax collector and was rich.</p>
+            <p class="verse"><span class="verse-num">3</span>And he was seeking to see who Jesus was, but on account of the crowd he could not, because he was small in stature.</p>
+            <p class="verse"><span class="verse-num">4</span>So he ran on ahead and climbed up into a sycamore tree to see him, for he was about to pass that way.</p>
+            <p class="verse"><span class="verse-num">5</span>And when Jesus came to the place, he looked up and said to him, “Zacchaeus, hurry and come down, for I must stay at your house today.”</p>
+            <p class="verse"><span class="verse-num">6</span>So he hurried and came down and received him joyfully.</p>
+            <p class="verse"><span class="verse-num">7</span>And when they saw it, they all grumbled, “He has gone in to be the guest of a man who is a sinner.”</p>
+            <p class="verse"><span class="verse-num">8</span>And Zacchaeus stood and said to the Lord, “Behold, Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold.”</p>
+            <p class="verse"><span class="verse-num">9</span>And Jesus said to him, “Today salvation has come to this house, since he also is a son of Abraham.</p>
+            <p class="verse"><span class="verse-num">10</span>For the Son of Man came to seek and to save the lost.”</p>
+            <p class="verse"><span class="verse-num">11</span>As they heard these things, he proceeded to tell a parable, because he was near to Jerusalem, and because they supposed that the kingdom of God was to appear immediately.</p>
+            <p class="verse"><span class="verse-num">12</span>He said therefore, “A nobleman went into a far country to receive for himself a kingdom and then return.</p>
+            <p class="verse"><span class="verse-num">13</span>Calling ten of his servants, he gave them ten minas, and said to them, ‘Engage in business until I come.’</p>
+            <p class="verse"><span class="verse-num">14</span>But his citizens hated him and sent a delegation after him, saying, ‘We do not want this man to reign over us.’</p>
+            <p class="verse"><span class="verse-num">15</span>When he returned, having received the kingdom, he ordered these servants to whom he had given the money to be called to him, that he might know what they had gained by doing business.</p>
+            <p class="verse"><span class="verse-num">16</span>The first came before him, saying, ‘Lord, your mina has made ten minas more.’</p>
+            <p class="verse"><span class="verse-num">17</span>And he said to him, ‘Well done, good servant! Because you have been faithful in a very little, you shall have authority over ten cities.’</p>
+            <p class="verse"><span class="verse-num">18</span>And the second came, saying, ‘Lord, your mina has made five minas.’</p>
+            <p class="verse"><span class="verse-num">19</span>And he said to him, ‘And you are to be over five cities.’</p>
+            <p class="verse"><span class="verse-num">20</span>Then another came, saying, ‘Lord, here is your mina, which I kept laid away in a handkerchief;</p>
+            <p class="verse"><span class="verse-num">21</span>for I was afraid of you, because you are a severe man. You take what you did not deposit, and reap what you did not sow.’</p>
+            <p class="verse"><span class="verse-num">22</span>He said to him, ‘I will condemn you with your own words, you wicked servant! You knew that I was a severe man, taking what I did not deposit and reaping what I did not sow?</p>
+            <p class="verse"><span class="verse-num">23</span>Why then did you not put my money in the bank, and at my coming I might have collected it with interest?’</p>
+            <p class="verse"><span class="verse-num">24</span>And he said to those who stood by, ‘Take the mina from him, and give it to the one who has the ten minas.’</p>
+            <p class="verse"><span class="verse-num">25</span>And they said to him, ‘Lord, he has ten minas!’</p>
+            <p class="verse"><span class="verse-num">26</span>‘I tell you that to everyone who has, more will be given, but from the one who has not, even what he has will be taken away.</p>
+            <p class="verse"><span class="verse-num">27</span>But as for these enemies of mine, who did not want me to reign over them, bring them here and slaughter them before me.’”</p>
+            <p class="verse"><span class="verse-num">28</span>And when he had said these things, he went on ahead, going up to Jerusalem.</p>
+            <p class="verse"><span class="verse-num">29</span>When he drew near to Bethphage and Bethany, at the mount that is called Olivet, he sent two of the disciples,</p>
+            <p class="verse"><span class="verse-num">30</span>saying, “Go into the village in front of you, where on entering you will find a colt tied, on which no one has ever yet sat. Untie it and bring it here.</p>
+            <p class="verse"><span class="verse-num">31</span>If anyone asks you, ‘Why are you untying it?’ you shall say this: ‘The Lord has need of it.’”</p>
+            <p class="verse"><span class="verse-num">32</span>So those who were sent went away and found it just as he had told them.</p>
+            <p class="verse"><span class="verse-num">33</span>And as they were untying the colt, its owners said to them, “Why are you untying the colt?”</p>
+            <p class="verse"><span class="verse-num">34</span>And they said, “The Lord has need of it.”</p>
+            <p class="verse"><span class="verse-num">35</span>And they brought it to Jesus, and throwing their cloaks on the colt, they set Jesus on it.</p>
+            <p class="verse"><span class="verse-num">36</span>And as he rode along, they spread their cloaks on the road.</p>
+            <p class="verse"><span class="verse-num">37</span>As he was drawing near—already on the way down the Mount of Olives—the whole multitude of his disciples began to rejoice and praise God with a loud voice for all the mighty works that they had seen,</p>
+            <p class="verse"><span class="verse-num">38</span>saying, “Blessed is the King who comes in the name of the Lord! Peace in heaven and glory in the highest!”</p>
+            <p class="verse"><span class="verse-num">39</span>And some of the Pharisees in the crowd said to him, “Teacher, rebuke your disciples.”</p>
+            <p class="verse"><span class="verse-num">40</span>He answered, “I tell you, if these were silent, the very stones would cry out.”</p>
+            <p class="verse"><span class="verse-num">41</span>And when he drew near and saw the city, he wept over it,</p>
+            <p class="verse"><span class="verse-num">42</span>saying, “Would that you, even you, had known on this day the things that make for peace! But now they are hidden from your eyes.</p>
+            <p class="verse"><span class="verse-num">43</span>For the days will come upon you, when your enemies will set up a barricade around you and surround you and hem you in on every side</p>
+            <p class="verse"><span class="verse-num">44</span>and tear you down to the ground, you and your children within you. And they will not leave one stone upon another in you, because you did not know the time of your visitation.”</p>
+            <p class="verse"><span class="verse-num">45</span>And he entered the temple and began to drive out those who sold,</p>
+            <p class="verse"><span class="verse-num">46</span>saying to them, “It is written, ‘My house shall be a house of prayer,’ but you have made it a den of robbers.”</p>
+            <p class="verse"><span class="verse-num">47</span>And he was teaching daily in the temple. The chief priests and the scribes and the principal men of the people were seeking to destroy him,</p>
+            <p class="verse"><span class="verse-num">48</span>but they did not find anything they could do, for all the people were hanging on his words.</p>
+        </div>
+
+        <div class="study-section">
+            <div class="study-tabs">
+                <div class="study-tab active" data-tab="summary">Summary</div>
+                <div class="study-tab" data-tab="keyverses">Key Verses</div>
+                <div class="study-tab" data-tab="crossref">Cross-References</div>
+                <div class="study-tab" data-tab="commentary">Commentary</div>
+                <div class="study-tab" data-tab="translations">Translations</div>
+                <div class="study-tab" data-tab="videos">Videos</div>
+                <div class="study-tab" data-tab="reflection">Reflection</div>
+            </div>
+            <div class="tab-content active" id="tab-summary">
+                <h3>Summary</h3>
+                <p>Jesus transforms Zacchaeus the tax collector (&quot;salvation has come to this house&quot;), tells the parable of the Ten Minas about faithful stewardship, enters Jerusalem weeping over the city, and cleanses the temple.</p>
+            </div>
+            <div class="tab-content" id="tab-keyverses">
+                <h3>Key Verses</h3>
+                                <div class="key-verse">
+                    <div class="ref">v.5</div>
+                    <div class="text">&quot;Zacchaeus, hurry and come down, for I must stay at your house today.&quot; (ESV) — Jesus invites Himself into the life of a sinner.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.8</div>
+                    <div class="text">&quot;Behold, Lord, the half of my goods I give to the poor. And if I have defrauded anyone of anything, I restore it fourfold.&quot; (ESV) — The fruit of genuine repentance: radical generosity.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.10</div>
+                    <div class="text">&quot;For the Son of Man came to seek and to save the lost.&quot; (ESV) — The mission of Christ summarized.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.40</div>
+                    <div class="text">&quot;I tell you, if these were silent, the very stones would cry out.&quot; (ESV) — Creation itself demands that Christ be praised.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.42</div>
+                    <div class="text">&quot;Would that you, even you, had known on this day the things that make for peace!&quot; (ESV) — Jesus&#x27; grief over missed opportunity.</div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-crossref">
+                <h3>Cross-References</h3>
+                <ul>
+                    <li>v.2   — Luke 3:12-13 — John the Baptist's instructions to tax collectors. v.5   — Revelation 3:20 — "Behold, I stand at the door and knock." v.8   — Exodus 22:1 — Fourfold restoration for theft. v.9   — Luke 15:6 — "Rejoice with me, for I have found my sheep that was lost." v.10  — Ezekiel 34:16 — "I will seek the lost." v.10  — 1 Timothy 1:15 — "Christ Jesus came into the world to save sinners." v.12  — Matthew 25:14-30 — The parallel Parable of the Talents. v.17  — Matthew 25:21 — "Well done, good and faithful servant." v.38  — Psalm 118:26 — "Blessed is he who comes in the name of the Lord." v.40  — Habakkuk 2:11 — "The stone will cry out from the wall." v.42  — Matthew 23:37 — "How often I would have gathered your children." v.44  — Luke 21:6 — "Not one stone will be left on another." v.46  — Isaiah 56:7 — "My house shall be called a house of prayer."</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-commentary">
+                <h3>Commentary</h3>
+                <ul>
+                    <li>Enduring Word (David Guzik): <a href="https://enduringword.com/bible-commentary/luke-19/" target="_blank">https://enduringword.com/bible-commentary/luke-19/</a> Guzik examines Zacchaeus' conversion, the Parable of the Minas, the Triumphal Entry, Jesus weeping over Jerusalem, and the Temple cleansing.</li>
+                    <li>Charles Spurgeon: Sermon: "Zacchaeus" on vv.1-10 (MTP Vol. 10, No. 579) "Jesus called him by name — Zacchaeus. He knew him. He knew his sin, his wealth, his loneliness, his curiosity. And He said 'I must abide at thy house.' Not 'I might' or 'I'd like to' — I MUST. There was divine necessity in that visit. Christ came to seek this man specifically." Sermon: "Jesus Weeping Over Jerusalem" on vv.41-44 (MTP Vol. 22, No. 1313) "He wept. The King entering His capital in triumph — and He wept. Not tears of joy but tears of grief. He saw what they could not see — the coming destruction, the missed opportunity, the peace they rejected. That is the heart of God toward those who refuse Him."</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-translations">
+                <h3>Translations</h3>
+                <ul>
+                    <li>v.2  — KJV: "chief among the publicans" / ESV: "a chief tax collector" — Both equivalent. Greek "architelōnēs" — a chief tax collector, overseeing other collectors. A position of great wealth and great corruption. Only mentioned here in the NT.</li>
+                    <li>v.8  — KJV: "I restore him fourfold" / ESV: "I restore it fourfold" — Both equivalent. Exceeding the Law's requirement (Exodus 22:1 required fourfold for stolen sheep; Numbers 5:7 required restitution plus one-fifth). Zacchaeus went beyond what was required.</li>
+                    <li>v.13 — KJV: "ten pounds" / ESV: "ten minas" — KJV uses "pounds"; ESV transliterates the Greek "mnas" (minas). One mina = about 3 months' wages. Much less than a talent (Matthew 25). The point: even small resources must be invested faithfully.</li>
+                    <li>v.40 — KJV: "the stones would immediately cry out" / ESV: "the very stones would cry out" — Both equivalent. If human voices are silenced, creation itself will testify to Christ's kingship. Praise of Christ is inevitable — the only question is who will offer it.</li>
+                    <li>ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB) v.5  — NET: "Zacchaeus, come down quickly, because I must stay at your house today" — "I must" (dei) — divine necessity. Jesus didn't wait to be invited. WEB: "I must stay at your house today." KJV: "I must abide at thy house." The Son of Man seeks — He doesn't wait to be sought.</li>
+                    <li>v.8  — NET: "But Zacchaeus stopped and said to the Lord, 'Look, Lord, half of my possessions I now give to the poor, and if I have cheated anyone of anything, I am paying back four times as much!'" — present tense "I now give" — immediate action. WEB: "I give." KJV: "I give." Restitution as evidence of genuine repentance.</li>
+                    <li>v.10 — NET: "For the Son of Man came to seek and to save the lost" — Luke's thesis statement for the entire Gospel. WEB: "For the Son of Man came to seek and to save that which was lost." KJV: "to seek and to save that which was lost." All versions — the mission in one sentence.</li>
+                    <li>v.38 — NET: "Blessed is the king who comes in the name of the Lord!" — Luke adds "the king" to Psalm 118:26. WEB: "Blessed is the King who comes in the name of the Lord!" KJV: "Blessed be the King." Luke makes the royal claim explicit — this is a coronation procession.</li>
+                    <li>v.41 — NET: "Now when Jesus approached and saw the city, he wept over it" — "wept" (eklausen) — not quiet tears but audible weeping/wailing. Only Luke records this. WEB: "he wept over it." The conquering King weeps for the city that will reject Him. Unique to Luke.</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-videos">
+                <h3>Videos</h3>
+                                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://bibleproject.com/explore/video/luke/" target="_blank">The Bible Project — Luke Overview</a></h4>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://enduringword.com/media/luke/" target="_blank">David Guzik — Enduring Word Teaching Series (Luke)</a></h4>
+                        <p>Verse-by-verse audio/video teaching through Luke.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-reflection">
+                <h3>Reflection</h3>
+                <ul>
+                    <li>1. Zacchaeus climbed a tree — a humiliating act for a wealthy man. He was willing to look foolish to see Jesus. What are you willing to do that might look foolish in order to get closer to Christ?</li>
+                    <li>2. The crowd murmured that Jesus went to a sinner's house (v.7). They wanted Jesus to associate only with the respectable. Who do you think Jesus "shouldn't" associate with? How does His example challenge your categories?</li>
+                    <li>3. The servant who hid his mina said "I feared thee" (v.21). Fear of the master produced inaction. Is your view of God producing bold action or fearful paralysis? What would change if you saw God as generous rather than harsh?</li>
+                    <li>4. "If thou hadst known... the things which belong unto thy peace" (v.42). Jesus grieved over missed opportunity. Is there an opportunity for peace with God, peace with others, or peace in your circumstances that you're missing right now?</li>
+                    <li>5. The stones would cry out if the people were silent (v.40). Praise of Christ is inevitable — the question is whether you'll be part of it. Is your life a testimony of praise, or are you silent while the stones are ready to speak?</li>
+                    <li>1. Jesus sought out Zacchaeus — a man everyone else despised (v.5). He didn't wait for Zacchaeus to clean up his life first. He came to him in his sin. Do you believe Jesus seeks you out the same way — not waiting for you to be worthy but coming to you as you are?</li>
+                    <li>2. Zacchaeus' repentance was immediate and radical — half his goods to the poor, fourfold restoration (v.8). Genuine conversion produces visible, costly change. What visible change has your faith produced in how you handle money, relationships, and integrity?</li>
+                    <li>3. Jesus wept over Jerusalem (v.41) — a city that rejected Him. He didn't respond with anger but with grief. How do you respond to people who reject Christ — with frustration or with compassion?</li>
+                    <li>4. "The Son of man is come to seek and to save that which was lost" (v.10). Jesus is a seeking Savior. Who in your life is "lost" that you need to actively seek out rather than passively wait for?</li>
+                </ul>
+            </div>
+        </div>
+    </main>
+
+    <script src="site/script.js"></script>
+</body>
+</html>

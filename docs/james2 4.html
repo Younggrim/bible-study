@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>James 2 — Bible Study</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="site/style.css">
+</head>
+<body>
+    <nav class="top-nav">
+        <button class="hamburger" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>
+        <a href="index.html" class="nav-brand">Bible Study</a>
+        <div class="nav-center">
+            <span style="font-size:0.9rem;color:var(--text-secondary);">James &bull; Chapter 2</span>
+        </div>
+    </nav>
+
+    <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
+
+    <aside class="left-sidebar">
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Old Testament</div>
+            <a class="sidebar-item" href="genesis1.html"><i class="fas fa-book"></i> Genesis</a>
+            <a class="sidebar-item" href="exodus1.html"><i class="fas fa-book"></i> Exodus</a>
+            <a class="sidebar-item" href="leviticus1.html"><i class="fas fa-book"></i> Leviticus</a>
+            <a class="sidebar-item" href="numbers1.html"><i class="fas fa-book"></i> Numbers</a>
+            <a class="sidebar-item" href="deuteronomy1.html"><i class="fas fa-book"></i> Deuteronomy</a>
+            <a class="sidebar-item" href="joshua1.html"><i class="fas fa-book"></i> Joshua</a>
+            <a class="sidebar-item" href="judges1.html"><i class="fas fa-book"></i> Judges</a>
+            <a class="sidebar-item" href="ruth1.html"><i class="fas fa-book"></i> Ruth</a>
+            <a class="sidebar-item" href="1samuel1.html"><i class="fas fa-book"></i> 1 Samuel</a>
+            <a class="sidebar-item" href="2samuel1.html"><i class="fas fa-book"></i> 2 Samuel</a>
+            <a class="sidebar-item" href="1kings1.html"><i class="fas fa-book"></i> 1 Kings</a>
+            <a class="sidebar-item" href="2kings1.html"><i class="fas fa-book"></i> 2 Kings</a>
+            <a class="sidebar-item" href="1chronicles1.html"><i class="fas fa-book"></i> 1 Chronicles</a>
+            <a class="sidebar-item" href="2chronicles1.html"><i class="fas fa-book"></i> 2 Chronicles</a>
+            <a class="sidebar-item" href="ezra1.html"><i class="fas fa-book"></i> Ezra</a>
+            <a class="sidebar-item" href="nehemiah1.html"><i class="fas fa-book"></i> Nehemiah</a>
+            <a class="sidebar-item" href="esther1.html"><i class="fas fa-book"></i> Esther</a>
+            <a class="sidebar-item" href="job1.html"><i class="fas fa-book"></i> Job</a>
+            <a class="sidebar-item" href="psalms1.html"><i class="fas fa-book"></i> Psalms</a>
+            <a class="sidebar-item" href="proverbs1.html"><i class="fas fa-book"></i> Proverbs</a>
+            <a class="sidebar-item" href="ecclesiastes1.html"><i class="fas fa-book"></i> Ecclesiastes</a>
+            <a class="sidebar-item" href="songofsolomon1.html"><i class="fas fa-book"></i> Song of Solomon</a>
+            <a class="sidebar-item" href="isaiah1.html"><i class="fas fa-book"></i> Isaiah</a>
+            <a class="sidebar-item" href="jeremiah1.html"><i class="fas fa-book"></i> Jeremiah</a>
+            <a class="sidebar-item" href="lamentations1.html"><i class="fas fa-book"></i> Lamentations</a>
+            <a class="sidebar-item" href="ezekiel1.html"><i class="fas fa-book"></i> Ezekiel</a>
+            <a class="sidebar-item" href="daniel1.html"><i class="fas fa-book"></i> Daniel</a>
+            <a class="sidebar-item" href="hosea1.html"><i class="fas fa-book"></i> Hosea</a>
+            <a class="sidebar-item" href="joel1.html"><i class="fas fa-book"></i> Joel</a>
+            <a class="sidebar-item" href="amos1.html"><i class="fas fa-book"></i> Amos</a>
+            <a class="sidebar-item" href="obadiah1.html"><i class="fas fa-book"></i> Obadiah</a>
+            <a class="sidebar-item" href="jonah1.html"><i class="fas fa-book"></i> Jonah</a>
+            <a class="sidebar-item" href="micah1.html"><i class="fas fa-book"></i> Micah</a>
+            <a class="sidebar-item" href="nahum1.html"><i class="fas fa-book"></i> Nahum</a>
+            <a class="sidebar-item" href="habakkuk1.html"><i class="fas fa-book"></i> Habakkuk</a>
+            <a class="sidebar-item" href="zephaniah1.html"><i class="fas fa-book"></i> Zephaniah</a>
+            <a class="sidebar-item" href="haggai1.html"><i class="fas fa-book"></i> Haggai</a>
+            <a class="sidebar-item" href="zechariah1.html"><i class="fas fa-book"></i> Zechariah</a>
+            <a class="sidebar-item" href="malachi1.html"><i class="fas fa-book"></i> Malachi</a>
+        </div>
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">New Testament</div>
+            <a class="sidebar-item" href="matthew1.html"><i class="fas fa-book"></i> Matthew</a>
+            <a class="sidebar-item" href="mark1.html"><i class="fas fa-book"></i> Mark</a>
+            <a class="sidebar-item" href="luke1.html"><i class="fas fa-book"></i> Luke</a>
+            <a class="sidebar-item" href="john1.html"><i class="fas fa-book"></i> John</a>
+            <a class="sidebar-item" href="acts1.html"><i class="fas fa-book"></i> Acts</a>
+            <a class="sidebar-item" href="romans1.html"><i class="fas fa-book"></i> Romans</a>
+            <a class="sidebar-item" href="1corinthians1.html"><i class="fas fa-book"></i> 1 Corinthians</a>
+            <a class="sidebar-item" href="2corinthians1.html"><i class="fas fa-book"></i> 2 Corinthians</a>
+            <a class="sidebar-item" href="galatians1.html"><i class="fas fa-book"></i> Galatians</a>
+            <a class="sidebar-item" href="ephesians1.html"><i class="fas fa-book"></i> Ephesians</a>
+            <a class="sidebar-item" href="philippians1.html"><i class="fas fa-book"></i> Philippians</a>
+            <a class="sidebar-item" href="colossians1.html"><i class="fas fa-book"></i> Colossians</a>
+            <a class="sidebar-item" href="1thessalonians1.html"><i class="fas fa-book"></i> 1 Thessalonians</a>
+            <a class="sidebar-item" href="2thessalonians1.html"><i class="fas fa-book"></i> 2 Thessalonians</a>
+            <a class="sidebar-item" href="1timothy1.html"><i class="fas fa-book"></i> 1 Timothy</a>
+            <a class="sidebar-item" href="2timothy1.html"><i class="fas fa-book"></i> 2 Timothy</a>
+            <a class="sidebar-item" href="titus1.html"><i class="fas fa-book"></i> Titus</a>
+            <a class="sidebar-item" href="philemon1.html"><i class="fas fa-book"></i> Philemon</a>
+            <a class="sidebar-item" href="hebrews1.html"><i class="fas fa-book"></i> Hebrews</a>
+            <a class="sidebar-item active" href="james1.html"><i class="fas fa-book"></i> James</a>
+            <div class="chapter-grid">
+                <a class="chapter-btn" href="james1.html">1</a>
+                <a class="chapter-btn active" href="james2.html">2</a>
+                <a class="chapter-btn" href="james3.html">3</a>
+                <a class="chapter-btn" href="james4.html">4</a>
+                <a class="chapter-btn" href="james5.html">5</a>
+            </div>
+            <a class="sidebar-item" href="1peter1.html"><i class="fas fa-book"></i> 1 Peter</a>
+            <a class="sidebar-item" href="2peter1.html"><i class="fas fa-book"></i> 2 Peter</a>
+            <a class="sidebar-item" href="1john1.html"><i class="fas fa-book"></i> 1 John</a>
+            <a class="sidebar-item" href="2john1.html"><i class="fas fa-book"></i> 2 John</a>
+            <a class="sidebar-item" href="3john1.html"><i class="fas fa-book"></i> 3 John</a>
+            <a class="sidebar-item" href="jude1.html"><i class="fas fa-book"></i> Jude</a>
+            <a class="sidebar-item" href="revelation1.html"><i class="fas fa-book"></i> Revelation</a>
+        </div>
+    </aside>
+
+
+
+    <main class="main-content">
+        <div class="book-header">
+            <h1>James — Chapter 2</h1>
+        </div>
+
+        <div class="scripture-container">
+            <p class="verse"><span class="verse-num">1</span>My brothers, show no partiality as you hold the faith in our Lord Jesus Christ, the Lord of glory.</p>
+            <p class="verse"><span class="verse-num">2</span>For if a man wearing a gold ring and fine clothing comes into your assembly, and a poor man in shabby clothing also comes in,</p>
+            <p class="verse"><span class="verse-num">3</span>and if you pay attention to the one who wears the fine clothing and say, “You sit here in a good place,” while you say to the poor man, “You stand over there,” or, “Sit down at my feet,”</p>
+            <p class="verse"><span class="verse-num">4</span>have you not then made distinctions among yourselves and become judges with evil thoughts?</p>
+            <p class="verse"><span class="verse-num">5</span>Listen, my beloved brothers, has not God chosen those who are poor in the world to be rich in faith and heirs of the kingdom, which he has promised to those who love him?</p>
+            <p class="verse"><span class="verse-num">6</span>But you have dishonored the poor man. Are not the rich the ones who oppress you, and the ones who drag you into court?</p>
+            <p class="verse"><span class="verse-num">7</span>Are they not the ones who blaspheme the honorable name by which you were called?</p>
+            <p class="verse"><span class="verse-num">8</span>If you really fulfill the royal law according to the Scripture, “You shall love your neighbor as yourself,” you are doing well.</p>
+            <p class="verse"><span class="verse-num">9</span>But if you show partiality, you are committing sin and are convicted by the law as transgressors.</p>
+            <p class="verse"><span class="verse-num">10</span>For whoever keeps the whole law but fails in one point has become guilty of all of it.</p>
+            <p class="verse"><span class="verse-num">11</span>For he who said, “Do not commit adultery,” also said, “Do not murder.” If you do not commit adultery but do murder, you have become a transgressor of the law.</p>
+            <p class="verse"><span class="verse-num">12</span>So speak and so act as those who are to be judged under the law of liberty.</p>
+            <p class="verse"><span class="verse-num">13</span>For judgment is without mercy to one who has shown no mercy. Mercy triumphs over judgment.</p>
+            <p class="verse"><span class="verse-num">14</span>What good is it, my brothers, if someone says he has faith but does not have works? Can that faith save him?</p>
+            <p class="verse"><span class="verse-num">15</span>If a brother or sister is poorly clothed and lacking in daily food,</p>
+            <p class="verse"><span class="verse-num">16</span>and one of you says to them, “Go in peace, be warmed and filled,” without giving them the things needed for the body, what good is that?</p>
+            <p class="verse"><span class="verse-num">17</span>So also faith by itself, if it does not have works, is dead.</p>
+            <p class="verse"><span class="verse-num">18</span>But someone will say, “You have faith and I have works.” Show me your faith apart from your works, and I will show you my faith by my works.</p>
+            <p class="verse"><span class="verse-num">19</span>You believe that God is one; you do well. Even the demons believe—and shudder!</p>
+            <p class="verse"><span class="verse-num">20</span>Do you want to be shown, you foolish person, that faith apart from works is useless?</p>
+            <p class="verse"><span class="verse-num">21</span>Was not Abraham our father justified by works when he offered up his son Isaac on the altar?</p>
+            <p class="verse"><span class="verse-num">22</span>You see that faith was active along with his works, and faith was completed by his works;</p>
+            <p class="verse"><span class="verse-num">23</span>and the Scripture was fulfilled that says, “Abraham believed God, and it was counted to him as righteousness”—and he was called a friend of God.</p>
+            <p class="verse"><span class="verse-num">24</span>You see that a person is justified by works and not by faith alone.</p>
+            <p class="verse"><span class="verse-num">25</span>And in the same way was not also Rahab the prostitute justified by works when she received the messengers and sent them out by another way?</p>
+            <p class="verse"><span class="verse-num">26</span>For as the body apart from the spirit is dead, so also faith apart from works is dead.</p>
+        </div>
+
+        <div class="study-section">
+            <div class="study-tabs">
+                <div class="study-tab active" data-tab="summary">Summary</div>
+                <div class="study-tab" data-tab="keyverses">Key Verses</div>
+                <div class="study-tab" data-tab="crossref">Cross-References</div>
+                <div class="study-tab" data-tab="commentary">Commentary</div>
+                <div class="study-tab" data-tab="translations">Translations</div>
+                <div class="study-tab" data-tab="videos">Videos</div>
+                <div class="study-tab" data-tab="reflection">Reflection</div>
+            </div>
+            <div class="tab-content active" id="tab-summary">
+                <h3>Summary</h3>
+                <p>James condemns showing favoritism to the rich over the poor, declares that faith without works is dead — &quot;as the body without the spirit is dead, so faith without works is dead also&quot; — using Abraham and Rahab as examples of active faith.</p>
+            </div>
+            <div class="tab-content" id="tab-keyverses">
+                <h3>Key Verses</h3>
+                                <div class="key-verse">
+                    <div class="ref">v.1</div>
+                    <div class="text">&quot;My brothers, show no partiality as you hold the faith in our Lord Jesus Christ, the Lord of glory.&quot; (ESV) — Faith and favoritism are incompatible.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.8</div>
+                    <div class="text">&quot;You shall love your neighbor as yourself.&quot; (ESV) — The royal law.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.13</div>
+                    <div class="text">&quot;Mercy triumphs over judgment.&quot; (ESV) — Mercy triumphs over judgment.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.17</div>
+                    <div class="text">&quot;So also faith by itself, if it does not have works, is dead.&quot; (ESV) — Dead faith: faith without evidence.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.18</div>
+                    <div class="text">&quot;Show me your faith apart from your works, and I will show you my faith by my works.&quot; (ESV) — Works as faith&#x27;s evidence.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.19</div>
+                    <div class="text">&quot;Even the demons believe—and shudder!&quot; (ESV) — Intellectual belief without transformation is demonic, not saving.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.22</div>
+                    <div class="text">&quot;Faith was active along with his works, and faith was completed by his works.&quot; (ESV) — Faith and works cooperating.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.26</div>
+                    <div class="text">&quot;For as the body apart from the spirit is dead, so also faith apart from works is dead.&quot; (ESV) — The definitive statement.</div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-crossref">
+                <h3>Cross-References</h3>
+                <ul>
+                    <li>v.1 — Acts 10:34 — "God shows no partiality." (ESV) v.1 — Deuteronomy 1:17 — "You shall not be partial in judgment." (ESV) v.5 — 1 Corinthians 1:26-28 — "Not many of you were wise... not many were powerful... not many were of noble birth." (ESV) v.5 — Luke 6:20 — "Blessed are you who are poor, for yours is the kingdom of God." (ESV) v.8 — Leviticus 19:18 — "You shall love your neighbor as yourself." (ESV) v.8 — Matthew 22:39 — "You shall love your neighbor as yourself." (ESV) v.10 — Galatians 3:10 — "Cursed be everyone who does not abide by all things written in the Book of the Law." (ESV) v.13 — Matthew 5:7 — "Blessed are the merciful, for they shall receive mercy." (ESV) v.13 — Matthew 18:33 — "Should not you have had mercy on your fellow servant?" (ESV) v.14 — Matthew 7:21 — "Not everyone who says to me, 'Lord, Lord.'" (ESV) v.17 — 1 John 3:17-18 — "If anyone has the world's goods and sees his brother in need, yet closes his heart against him." (ESV) v.18 — Galatians 5:6 — "Faith working through love." (ESV) v.19 — Mark 1:24 — Demons acknowledging Jesus. v.21 — Genesis 22:9-12 — Abraham offering Isaac. v.23 — Genesis 15:6 — "Abraham believed God, and it was counted to him as righteousness." (ESV) v.23 — Romans 4:3 — Paul quotes the same verse. v.25 — Joshua 2:1-21 — Rahab hiding the spies. v.26 — Galatians 5:6 — "Faith working through love." (ESV)</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-commentary">
+                <h3>Commentary</h3>
+                <ul>
+                    <li>Enduring Word (David Guzik): <a href="https://enduringword.com/bible-commentary/james-2/" target="_blank">https://enduringword.com/bible-commentary/james-2/</a> Guzik covers favoritism, the royal law, the faith/works relationship, and the harmony between James and Paul.</li>
+                    <li>Charles Spurgeon: Sermon: "Faith and Works" on vv.17-18 (MTP Vol. 18, No. 1078) "Faith without works is dead — not weak, not sick, not sleeping — DEAD. A dead faith is no faith at all. It is a corpse of faith — it has the form but not the life. How do you know faith is alive? By its works. As a tree is known by its fruit, faith is known by its works. James does not say works save you — he says works PROVE you are saved. Show me your faith BY your works. Faith that doesn't work doesn't exist." Sermon: "Mercy Rejoiceth Against Judgment" on v.13 (MTP Vol. 11, No. 624) "Mercy rejoiceth — it triumphs, it exults, it overcomes. Against judgment — when mercy and judgment meet, mercy wins. Not that judgment is unjust but that mercy is greater. The merciful man will receive mercy. The unmerciful man will receive strict judgment. Show mercy — and mercy will triumph over the judgment you deserve."</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-translations">
+                <h3>Translations</h3>
+                <ul>
+                    <li>v.1 — KJV: "respect of persons" — Greek "prosōpolēmpsia" — face-receiving, judging by external appearance. Favoritism based on outward status.</li>
+                    <li>v.2 — KJV: "assembly" / ESV: Both equivalent. — Greek "sunagōgēn" — synagogue. James uses the Jewish term for their gathering place, reflecting the early Jewish- Christian context.</li>
+                    <li>v.8 — KJV: "royal law" / ESV: Both equivalent. — Greek "nomon basilikon" — the king's law, the supreme law. Love of neighbor is the law that rules over all other laws.</li>
+                    <li>v.14 — KJV: "can faith save him?" / ESV: "faith save" — Greek "mē dunatai hē pistis sōsai auton?" — The Greek expects a negative answer: "That kind of faith can't save him, can it?" The article "hē" (THE faith) points to the specific faith just described — faith without works.</li>
+                    <li>v.19 — KJV: "the devils also believe" — Demons have correct theology — they believe God is one. But their belief produces trembling, not obedience. Intellectual assent without life change is not saving faith.</li>
+                    <li>v.21 — KJV: "justified by works" / ESV: Both equivalent. — Greek "edikaiōthē ex ergōn" — declared righteous from/by works. James uses "justified" in the sense of "demonstrated to be righteous" (before men), not "declared righteous" (before God, as Paul uses it).</li>
+                    <li>v.22 — KJV: "faith wrought with his works" / ESV: "works, and faith" — Greek "sunērgei" — worked together with, cooperated. Faith and works are partners, not enemies. "Made perfect" — Greek "eteleiōthē" — brought to completion. Works complete/perfect faith by expressing it.</li>
+                    <li>v.26 — KJV: "the body without the spirit is dead" / ESV: "body apart from the spirit is dead" — The analogy: as a body without breath/spirit is a corpse, faith without works is a corpse. Works are to faith what breath is to the body — the evidence of life.</li>
+                    <li>ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB) v.1  — NET: "do not show prejudice" — "prejudice" (prosOpolEmpsiais = face-receiving/favoritism). WEB: "don't show partiality." KJV: "have not the faith... with respect of persons." Faith in Jesus and favoritism are incompatible — you cannot hold both simultaneously.</li>
+                    <li>v.14 — NET: "What good is it, my brothers and sisters, if someone claims to have faith but does not have works?" — "claims" (legE = says). WEB: "if a man says he has faith." KJV: "if a man say he hath faith." The emphasis: SAYS vs. SHOWS. Verbal faith without visible works is suspect.</li>
+                    <li>v.19 — NET: "You believe that God is one; well and good. Even the demons believe that — and tremble with fear" — "tremble" (phrissousin = shudder/have hair stand on end). WEB: "the demons also believe, and shudder." Even demons have correct theology — belief alone is not saving faith.</li>
+                    <li>v.23 — NET: "Abraham believed God and it was credited to him as righteousness" — quoting Genesis 15:6 (same text Paul uses in Romans 4). WEB: "it was accounted to him as righteousness." James and Paul are not contradicting but complementing — Paul addresses the ground of justification; James addresses its evidence.</li>
+                    <li>v.26 — NET: "as the body without the spirit is dead, so also faith without works is dead" — "without the spirit" (chOris pneumatos = apart from breath/spirit). WEB: "faith apart from works is dead." An analogy: works are to faith what breath is to the body — the evidence of life, not its cause.</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-videos">
+                <h3>Videos</h3>
+                                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://bibleproject.com/explore/video/james/" target="_blank">The Bible Project — James Overview</a></h4>
+                        <p>Animated overview of the book&#x27;s literary structure, themes, and theological message. Excellent visual introduction. (Approx. 8 minutes)</p>
+                    </div>
+                </div>
+                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://enduringword.com/media/james" target="_blank">David Guzik — Enduring Word Teaching Series (James)</a></h4>
+                        <p>Verse-by-verse audio/video teaching through James.</p>
+                    </div>
+                </div>
+                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://enduringword.com/media/genuine-faith-gods-people-james-2-1-13/" target="_blank">David Guzik — Enduring Word Video Series (James)</a></h4>
+                        <p>James 2:1-13 - Genuine Faith Among God&#x27;s People: James 2:14-26 - Dead Faith and Living Faith:</p>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-reflection">
+                <h3>Reflection</h3>
+                <ul>
+                    <li>1. "Have not the faith... with respect of persons" (v.1). Do you treat people differently based on their wealth, appearance, or status? How would Jesus treat the poorly dressed person who walks into your church?</li>
+                    <li>2. "Mercy rejoiceth against judgment" (v.13). Are you merciful toward others? Or do you demand strict justice for everyone except yourself? The measure of mercy you give is the measure you'll receive.</li>
+                    <li>3. "Faith, if it hath not works, is dead" (v.17). Examine your faith: what visible evidence does it produce? If someone looked at your life, would they see living faith or dead religion?</li>
+                    <li>4. "The devils also believe, and tremble" (v.19). Is your faith merely intellectual agreement with facts about God? Or does it produce obedience, love, and transformation? What's the difference between your faith and a demon's?</li>
+                    <li>5. "Shew me thy faith by thy works" (v.18). If someone asked you to prove your faith, what would you point to? What works demonstrate that your faith is alive?</li>
+                </ul>
+            </div>
+        </div>
+    </main>
+
+    <script src="site/script.js"></script>
+</body>
+</html>

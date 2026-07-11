@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Luke 1 — Bible Study</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="site/style.css">
+</head>
+<body>
+    <nav class="top-nav">
+        <button class="hamburger" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>
+        <a href="index.html" class="nav-brand">Bible Study</a>
+        <div class="nav-center">
+            <span style="font-size:0.9rem;color:var(--text-secondary);">Luke &bull; Chapter 1</span>
+        </div>
+    </nav>
+
+    <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
+
+    <aside class="left-sidebar">
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">Old Testament</div>
+            <a class="sidebar-item" href="genesis1.html"><i class="fas fa-book"></i> Genesis</a>
+            <a class="sidebar-item" href="exodus1.html"><i class="fas fa-book"></i> Exodus</a>
+            <a class="sidebar-item" href="leviticus1.html"><i class="fas fa-book"></i> Leviticus</a>
+            <a class="sidebar-item" href="numbers1.html"><i class="fas fa-book"></i> Numbers</a>
+            <a class="sidebar-item" href="deuteronomy1.html"><i class="fas fa-book"></i> Deuteronomy</a>
+            <a class="sidebar-item" href="joshua1.html"><i class="fas fa-book"></i> Joshua</a>
+            <a class="sidebar-item" href="judges1.html"><i class="fas fa-book"></i> Judges</a>
+            <a class="sidebar-item" href="ruth1.html"><i class="fas fa-book"></i> Ruth</a>
+            <a class="sidebar-item" href="1samuel1.html"><i class="fas fa-book"></i> 1 Samuel</a>
+            <a class="sidebar-item" href="2samuel1.html"><i class="fas fa-book"></i> 2 Samuel</a>
+            <a class="sidebar-item" href="1kings1.html"><i class="fas fa-book"></i> 1 Kings</a>
+            <a class="sidebar-item" href="2kings1.html"><i class="fas fa-book"></i> 2 Kings</a>
+            <a class="sidebar-item" href="1chronicles1.html"><i class="fas fa-book"></i> 1 Chronicles</a>
+            <a class="sidebar-item" href="2chronicles1.html"><i class="fas fa-book"></i> 2 Chronicles</a>
+            <a class="sidebar-item" href="ezra1.html"><i class="fas fa-book"></i> Ezra</a>
+            <a class="sidebar-item" href="nehemiah1.html"><i class="fas fa-book"></i> Nehemiah</a>
+            <a class="sidebar-item" href="esther1.html"><i class="fas fa-book"></i> Esther</a>
+            <a class="sidebar-item" href="job1.html"><i class="fas fa-book"></i> Job</a>
+            <a class="sidebar-item" href="psalms1.html"><i class="fas fa-book"></i> Psalms</a>
+            <a class="sidebar-item" href="proverbs1.html"><i class="fas fa-book"></i> Proverbs</a>
+            <a class="sidebar-item" href="ecclesiastes1.html"><i class="fas fa-book"></i> Ecclesiastes</a>
+            <a class="sidebar-item" href="songofsolomon1.html"><i class="fas fa-book"></i> Song of Solomon</a>
+            <a class="sidebar-item" href="isaiah1.html"><i class="fas fa-book"></i> Isaiah</a>
+            <a class="sidebar-item" href="jeremiah1.html"><i class="fas fa-book"></i> Jeremiah</a>
+            <a class="sidebar-item" href="lamentations1.html"><i class="fas fa-book"></i> Lamentations</a>
+            <a class="sidebar-item" href="ezekiel1.html"><i class="fas fa-book"></i> Ezekiel</a>
+            <a class="sidebar-item" href="daniel1.html"><i class="fas fa-book"></i> Daniel</a>
+            <a class="sidebar-item" href="hosea1.html"><i class="fas fa-book"></i> Hosea</a>
+            <a class="sidebar-item" href="joel1.html"><i class="fas fa-book"></i> Joel</a>
+            <a class="sidebar-item" href="amos1.html"><i class="fas fa-book"></i> Amos</a>
+            <a class="sidebar-item" href="obadiah1.html"><i class="fas fa-book"></i> Obadiah</a>
+            <a class="sidebar-item" href="jonah1.html"><i class="fas fa-book"></i> Jonah</a>
+            <a class="sidebar-item" href="micah1.html"><i class="fas fa-book"></i> Micah</a>
+            <a class="sidebar-item" href="nahum1.html"><i class="fas fa-book"></i> Nahum</a>
+            <a class="sidebar-item" href="habakkuk1.html"><i class="fas fa-book"></i> Habakkuk</a>
+            <a class="sidebar-item" href="zephaniah1.html"><i class="fas fa-book"></i> Zephaniah</a>
+            <a class="sidebar-item" href="haggai1.html"><i class="fas fa-book"></i> Haggai</a>
+            <a class="sidebar-item" href="zechariah1.html"><i class="fas fa-book"></i> Zechariah</a>
+            <a class="sidebar-item" href="malachi1.html"><i class="fas fa-book"></i> Malachi</a>
+        </div>
+        <div class="sidebar-section">
+            <div class="sidebar-section-title">New Testament</div>
+            <a class="sidebar-item" href="matthew1.html"><i class="fas fa-book"></i> Matthew</a>
+            <a class="sidebar-item" href="mark1.html"><i class="fas fa-book"></i> Mark</a>
+            <a class="sidebar-item active" href="luke1.html"><i class="fas fa-book"></i> Luke</a>
+            <div class="chapter-grid">
+                <a class="chapter-btn active" href="luke1.html">1</a>
+                <a class="chapter-btn" href="luke2.html">2</a>
+                <a class="chapter-btn" href="luke3.html">3</a>
+                <a class="chapter-btn" href="luke4.html">4</a>
+                <a class="chapter-btn" href="luke5.html">5</a>
+                <a class="chapter-btn" href="luke6.html">6</a>
+                <a class="chapter-btn" href="luke7.html">7</a>
+                <a class="chapter-btn" href="luke8.html">8</a>
+                <a class="chapter-btn" href="luke9.html">9</a>
+                <a class="chapter-btn" href="luke10.html">10</a>
+                <a class="chapter-btn" href="luke11.html">11</a>
+                <a class="chapter-btn" href="luke12.html">12</a>
+                <a class="chapter-btn" href="luke13.html">13</a>
+                <a class="chapter-btn" href="luke14.html">14</a>
+                <a class="chapter-btn" href="luke15.html">15</a>
+                <a class="chapter-btn" href="luke16.html">16</a>
+                <a class="chapter-btn" href="luke17.html">17</a>
+                <a class="chapter-btn" href="luke18.html">18</a>
+                <a class="chapter-btn" href="luke19.html">19</a>
+                <a class="chapter-btn" href="luke20.html">20</a>
+                <a class="chapter-btn" href="luke21.html">21</a>
+                <a class="chapter-btn" href="luke22.html">22</a>
+                <a class="chapter-btn" href="luke23.html">23</a>
+                <a class="chapter-btn" href="luke24.html">24</a>
+            </div>
+            <a class="sidebar-item" href="john1.html"><i class="fas fa-book"></i> John</a>
+            <a class="sidebar-item" href="acts1.html"><i class="fas fa-book"></i> Acts</a>
+            <a class="sidebar-item" href="romans1.html"><i class="fas fa-book"></i> Romans</a>
+            <a class="sidebar-item" href="1corinthians1.html"><i class="fas fa-book"></i> 1 Corinthians</a>
+            <a class="sidebar-item" href="2corinthians1.html"><i class="fas fa-book"></i> 2 Corinthians</a>
+            <a class="sidebar-item" href="galatians1.html"><i class="fas fa-book"></i> Galatians</a>
+            <a class="sidebar-item" href="ephesians1.html"><i class="fas fa-book"></i> Ephesians</a>
+            <a class="sidebar-item" href="philippians1.html"><i class="fas fa-book"></i> Philippians</a>
+            <a class="sidebar-item" href="colossians1.html"><i class="fas fa-book"></i> Colossians</a>
+            <a class="sidebar-item" href="1thessalonians1.html"><i class="fas fa-book"></i> 1 Thessalonians</a>
+            <a class="sidebar-item" href="2thessalonians1.html"><i class="fas fa-book"></i> 2 Thessalonians</a>
+            <a class="sidebar-item" href="1timothy1.html"><i class="fas fa-book"></i> 1 Timothy</a>
+            <a class="sidebar-item" href="2timothy1.html"><i class="fas fa-book"></i> 2 Timothy</a>
+            <a class="sidebar-item" href="titus1.html"><i class="fas fa-book"></i> Titus</a>
+            <a class="sidebar-item" href="philemon1.html"><i class="fas fa-book"></i> Philemon</a>
+            <a class="sidebar-item" href="hebrews1.html"><i class="fas fa-book"></i> Hebrews</a>
+            <a class="sidebar-item" href="james1.html"><i class="fas fa-book"></i> James</a>
+            <a class="sidebar-item" href="1peter1.html"><i class="fas fa-book"></i> 1 Peter</a>
+            <a class="sidebar-item" href="2peter1.html"><i class="fas fa-book"></i> 2 Peter</a>
+            <a class="sidebar-item" href="1john1.html"><i class="fas fa-book"></i> 1 John</a>
+            <a class="sidebar-item" href="2john1.html"><i class="fas fa-book"></i> 2 John</a>
+            <a class="sidebar-item" href="3john1.html"><i class="fas fa-book"></i> 3 John</a>
+            <a class="sidebar-item" href="jude1.html"><i class="fas fa-book"></i> Jude</a>
+            <a class="sidebar-item" href="revelation1.html"><i class="fas fa-book"></i> Revelation</a>
+        </div>
+    </aside>
+
+
+
+    <main class="main-content">
+        <div class="book-header">
+            <h1>Luke — Chapter 1</h1>
+        </div>
+
+        <div class="scripture-container">
+            <p class="verse"><span class="verse-num">1</span>Inasmuch as many have undertaken to compile a narrative of the things that have been accomplished among us,</p>
+            <p class="verse"><span class="verse-num">2</span>just as those who from the beginning were eyewitnesses and ministers of the word have delivered them to us,</p>
+            <p class="verse"><span class="verse-num">3</span>it seemed good to me also, having followed all things closely for some time past, to write an orderly account for you, most excellent Theophilus,</p>
+            <p class="verse"><span class="verse-num">4</span>that you may have certainty concerning the things you have been taught.</p>
+            <p class="verse"><span class="verse-num">5</span>In the days of Herod, king of Judea, there was a priest named Zechariah, of the division of Abijah. And he had a wife from the daughters of Aaron, and her name was Elizabeth.</p>
+            <p class="verse"><span class="verse-num">6</span>And they were both righteous before God, walking blamelessly in all the commandments and statutes of the Lord.</p>
+            <p class="verse"><span class="verse-num">7</span>But they had no child, because Elizabeth was barren, and both were advanced in years.</p>
+            <p class="verse"><span class="verse-num">8</span>Now while he was serving as priest before God when his division was on duty,</p>
+            <p class="verse"><span class="verse-num">9</span>according to the custom of the priesthood, he was chosen by lot to enter the temple of the Lord and burn incense.</p>
+            <p class="verse"><span class="verse-num">10</span>And the whole multitude of the people were praying outside at the hour of incense.</p>
+            <p class="verse"><span class="verse-num">11</span>And there appeared to him an angel of the Lord standing on the right side of the altar of incense.</p>
+            <p class="verse"><span class="verse-num">12</span>And Zechariah was troubled when he saw him, and fear fell upon him.</p>
+            <p class="verse"><span class="verse-num">13</span>But the angel said to him, “Do not be afraid, Zechariah, for your prayer has been heard, and your wife Elizabeth will bear you a son, and you shall call his name John.</p>
+            <p class="verse"><span class="verse-num">14</span>And you will have joy and gladness, and many will rejoice at his birth,</p>
+            <p class="verse"><span class="verse-num">15</span>for he will be great before the Lord. And he must not drink wine or strong drink, and he will be filled with the Holy Spirit, even from his mother’s womb.</p>
+            <p class="verse"><span class="verse-num">16</span>And he will turn many of the children of Israel to the Lord their God,</p>
+            <p class="verse"><span class="verse-num">17</span>and he will go before him in the spirit and power of Elijah, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just, to make ready for the Lord a people prepared.”</p>
+            <p class="verse"><span class="verse-num">18</span>And Zechariah said to the angel, “How shall I know this? For I am an old man, and my wife is advanced in years.”</p>
+            <p class="verse"><span class="verse-num">19</span>And the angel answered him, “I am Gabriel. I stand in the presence of God, and I was sent to speak to you and to bring you this good news.</p>
+            <p class="verse"><span class="verse-num">20</span>And behold, you will be silent and unable to speak until the day that these things take place, because you did not believe my words, which will be fulfilled in their time.”</p>
+            <p class="verse"><span class="verse-num">21</span>And the people were waiting for Zechariah, and they were wondering at his delay in the temple.</p>
+            <p class="verse"><span class="verse-num">22</span>And when he came out, he was unable to speak to them, and they realized that he had seen a vision in the temple. And he kept making signs to them and remained mute.</p>
+            <p class="verse"><span class="verse-num">23</span>And when his time of service was ended, he went to his home.</p>
+            <p class="verse"><span class="verse-num">24</span>After these days his wife Elizabeth conceived, and for five months she kept herself hidden, saying,</p>
+            <p class="verse"><span class="verse-num">25</span>“Thus the Lord has done for me in the days when he looked on me, to take away my reproach among people.”</p>
+            <p class="verse"><span class="verse-num">26</span>In the sixth month the angel Gabriel was sent from God to a city of Galilee named Nazareth,</p>
+            <p class="verse"><span class="verse-num">27</span>to a virgin betrothed to a man whose name was Joseph, of the house of David. And the virgin’s name was Mary.</p>
+            <p class="verse"><span class="verse-num">28</span>And he came to her and said, “Greetings, O favored one, the Lord is with you!”</p>
+            <p class="verse"><span class="verse-num">29</span>But she was greatly troubled at the saying, and tried to discern what sort of greeting this might be.</p>
+            <p class="verse"><span class="verse-num">30</span>And the angel said to her, “Do not be afraid, Mary, for you have found favor with God.</p>
+            <p class="verse"><span class="verse-num">31</span>And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus.</p>
+            <p class="verse"><span class="verse-num">32</span>He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David,</p>
+            <p class="verse"><span class="verse-num">33</span>and he will reign over the house of Jacob forever, and of his kingdom there will be no end.”</p>
+            <p class="verse"><span class="verse-num">34</span>And Mary said to the angel, “How will this be, since I am a virgin?”</p>
+            <p class="verse"><span class="verse-num">35</span>And the angel answered her, “The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the child to be born will be called holy—the Son of God.</p>
+            <p class="verse"><span class="verse-num">36</span>And behold, your relative Elizabeth in her old age has also conceived a son, and this is the sixth month with her who was called barren.</p>
+            <p class="verse"><span class="verse-num">37</span>For nothing will be impossible with God.”</p>
+            <p class="verse"><span class="verse-num">38</span>And Mary said, “Behold, I am the servant of the Lord; let it be to me according to your word.” And the angel departed from her.</p>
+            <p class="verse"><span class="verse-num">39</span>In those days Mary arose and went with haste into the hill country, to a town in Judah,</p>
+            <p class="verse"><span class="verse-num">40</span>and she entered the house of Zechariah and greeted Elizabeth.</p>
+            <p class="verse"><span class="verse-num">41</span>And when Elizabeth heard the greeting of Mary, the baby leaped in her womb. And Elizabeth was filled with the Holy Spirit,</p>
+            <p class="verse"><span class="verse-num">42</span>and she exclaimed with a loud cry, “Blessed are you among women, and blessed is the fruit of your womb!</p>
+            <p class="verse"><span class="verse-num">43</span>And why is this granted to me that the mother of my Lord should come to me?</p>
+            <p class="verse"><span class="verse-num">44</span>For behold, when the sound of your greeting came to my ears, the baby in my womb leaped for joy.</p>
+            <p class="verse"><span class="verse-num">45</span>And blessed is she who believed that there would be a fulfillment of what was spoken to her from the Lord.”</p>
+            <p class="verse"><span class="verse-num">46</span>And Mary said, “My soul magnifies the Lord,</p>
+            <p class="verse"><span class="verse-num">47</span>and my spirit rejoices in God my Savior,</p>
+            <p class="verse"><span class="verse-num">48</span>for he has looked on the humble estate of his servant. For behold, from now on all generations will call me blessed;</p>
+            <p class="verse"><span class="verse-num">49</span>for he who is mighty has done great things for me, and holy is his name.</p>
+            <p class="verse"><span class="verse-num">50</span>And his mercy is for those who fear him from generation to generation.</p>
+            <p class="verse"><span class="verse-num">51</span>He has shown strength with his arm; he has scattered the proud in the thoughts of their hearts;</p>
+            <p class="verse"><span class="verse-num">52</span>he has brought down the mighty from their thrones and exalted those of humble estate;</p>
+            <p class="verse"><span class="verse-num">53</span>he has filled the hungry with good things, and the rich he has sent away empty.</p>
+            <p class="verse"><span class="verse-num">54</span>He has helped his servant Israel, in remembrance of his mercy,</p>
+            <p class="verse"><span class="verse-num">55</span>as he spoke to our fathers, to Abraham and to his offspring forever.”</p>
+            <p class="verse"><span class="verse-num">56</span>And Mary remained with her about three months and returned to her home.</p>
+            <p class="verse"><span class="verse-num">57</span>Now the time came for Elizabeth to give birth, and she bore a son.</p>
+            <p class="verse"><span class="verse-num">58</span>And her neighbors and relatives heard that the Lord had shown great mercy to her, and they rejoiced with her.</p>
+            <p class="verse"><span class="verse-num">59</span>And on the eighth day they came to circumcise the child. And they would have called him Zechariah after his father,</p>
+            <p class="verse"><span class="verse-num">60</span>but his mother answered, “No; he shall be called John.”</p>
+            <p class="verse"><span class="verse-num">61</span>And they said to her, “None of your relatives is called by this name.”</p>
+            <p class="verse"><span class="verse-num">62</span>And they made signs to his father, inquiring what he wanted him to be called.</p>
+            <p class="verse"><span class="verse-num">63</span>And he asked for a writing tablet and wrote, “His name is John.” And they all wondered.</p>
+            <p class="verse"><span class="verse-num">64</span>And immediately his mouth was opened and his tongue loosed, and he spoke, blessing God.</p>
+            <p class="verse"><span class="verse-num">65</span>And fear came on all their neighbors. And all these things were talked about through all the hill country of Judea,</p>
+            <p class="verse"><span class="verse-num">66</span>and all who heard them laid them up in their hearts, saying, “What then will this child be?” For the hand of the Lord was with him.</p>
+            <p class="verse"><span class="verse-num">67</span>And his father Zechariah was filled with the Holy Spirit and prophesied, saying,</p>
+            <p class="verse"><span class="verse-num">68</span>“Blessed be the Lord God of Israel, for he has visited and redeemed his people</p>
+            <p class="verse"><span class="verse-num">69</span>and has raised up a horn of salvation for us in the house of his servant David,</p>
+            <p class="verse"><span class="verse-num">70</span>as he spoke by the mouth of his holy prophets from of old,</p>
+            <p class="verse"><span class="verse-num">71</span>that we should be saved from our enemies and from the hand of all who hate us;</p>
+            <p class="verse"><span class="verse-num">72</span>to show the mercy promised to our fathers and to remember his holy covenant,</p>
+            <p class="verse"><span class="verse-num">73</span>the oath that he swore to our father Abraham, to grant us</p>
+            <p class="verse"><span class="verse-num">74</span>that we, being delivered from the hand of our enemies, might serve him without fear,</p>
+            <p class="verse"><span class="verse-num">75</span>in holiness and righteousness before him all our days.</p>
+            <p class="verse"><span class="verse-num">76</span>And you, child, will be called the prophet of the Most High; for you will go before the Lord to prepare his ways,</p>
+            <p class="verse"><span class="verse-num">77</span>to give knowledge of salvation to his people in the forgiveness of their sins,</p>
+            <p class="verse"><span class="verse-num">78</span>because of the tender mercy of our God, whereby the sunrise shall visit us from on high</p>
+            <p class="verse"><span class="verse-num">79</span>to give light to those who sit in darkness and in the shadow of death, to guide our feet into the way of peace.”</p>
+            <p class="verse"><span class="verse-num">80</span>And the child grew and became strong in spirit, and he was in the wilderness until the day of his public appearance to Israel.</p>
+        </div>
+
+        <div class="study-section">
+            <div class="study-tabs">
+                <div class="study-tab active" data-tab="summary">Summary</div>
+                <div class="study-tab" data-tab="keyverses">Key Verses</div>
+                <div class="study-tab" data-tab="crossref">Cross-References</div>
+                <div class="study-tab" data-tab="commentary">Commentary</div>
+                <div class="study-tab" data-tab="translations">Translations</div>
+                <div class="study-tab" data-tab="videos">Videos</div>
+                <div class="study-tab" data-tab="reflection">Reflection</div>
+            </div>
+            <div class="tab-content active" id="tab-summary">
+                <h3>Summary</h3>
+                <p>Luke opens with the angel Gabriel announcing two miraculous births — John the Baptist to aged Zechariah and Elizabeth, and Jesus the Messiah to the virgin Mary — culminating in Mary&#x27;s Magnificat and Zechariah&#x27;s prophecy of redemption.</p>
+            </div>
+            <div class="tab-content" id="tab-keyverses">
+                <h3>Key Verses</h3>
+                                <div class="key-verse">
+                    <div class="ref">v.37</div>
+                    <div class="text">&quot;For nothing will be impossible with God.&quot; (ESV) — The angel&#x27;s declaration to Mary — the foundation of faith in God&#x27;s power.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.38</div>
+                    <div class="text">&quot;Behold, I am the servant of the Lord; let it be to me according to your word.&quot; (ESV) — Mary&#x27;s response of total surrender — the model of faith.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.46-47</div>
+                    <div class="text">&quot;My soul magnifies the Lord, and my spirit rejoices in God my Savior.&quot; (ESV) — The opening of the Magnificat — worship flowing from a surrendered heart.</div>
+                </div>
+                <div class="key-verse">
+                    <div class="ref">v.78-79</div>
+                    <div class="text">&quot;The sunrise shall visit us from on high to give light to those who sit in darkness and in the shadow of death.&quot; (ESV) — The coming of Christ as the dawn breaking over a dark world.</div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-crossref">
+                <h3>Cross-References</h3>
+                <ul>
+                    <li>v.5   — 1 Chronicles 24:10 — The priestly course of Abijah (Abia). v.13  — Genesis 18:10-14 — Sarah's miraculous conception in old age. v.15  — Numbers 6:1-4 — The Nazirite vow — no wine or strong drink. v.17  — Malachi 4:5-6 — Elijah turning hearts of fathers to children. v.31  — Matthew 1:21 — "You shall call his name Jesus." v.32  — 2 Samuel 7:12-16 — The Davidic covenant — an eternal throne. v.35  — Matthew 1:18-20 — The virgin conception by the Holy Spirit. v.37  — Genesis 18:14 — "Is anything too hard for the Lord?" v.46  — 1 Samuel 2:1-10 — Hannah's song — the model for Mary's Magnificat. v.68  — Psalm 111:9 — "He provided redemption for his people." v.79  — Isaiah 9:2 — "The people walking in darkness have seen a great light."</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-commentary">
+                <h3>Commentary</h3>
+                <ul>
+                    <li>Enduring Word (David Guzik): <a href="https://enduringword.com/bible-commentary/luke-1/" target="_blank">https://enduringword.com/bible-commentary/luke-1/</a> Guzik examines Luke's historical method, the contrast between Zacharias' doubt and Mary's faith, the Magnificat's theology, and the Benedictus as a summary of Old Testament hope fulfilled.</li>
+                    <li>Charles Spurgeon: Sermon: "Nothing Impossible with God" on v.37 (MTP Vol. 10, No. 566) "With God nothing shall be impossible. Not 'most things are possible' — nothing is impossible. The barren conceive. The virgin bears a son. The dead rise. The sinner is made righteous. Nothing — nothing — is beyond the reach of the God who spoke the universe into existence." Sermon: "The Handmaid of the Lord" on v.38 (MTP Vol. 22, No. 1296) "Be it unto me according to thy word. That is faith — not understanding how, not seeing the path, not knowing the cost — but saying yes to God's word. Mary did not ask for an explanation; she asked for nothing but to be used."</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-translations">
+                <h3>Translations</h3>
+                <ul>
+                    <li>v.3  — KJV: "having had perfect understanding of all things from the very first" — ESV: "having followed all things closely for some time past" — Greek "parēkolouthēkoti" — to investigate carefully, to trace accurately. Luke is claiming careful research, not divine inspiration in the same sense as a prophet.</li>
+                    <li>v.28 — KJV: "Hail, thou that art highly favoured" — ESV: "Greetings, O favored one" — Greek "kecharitōmenē" — one who has been graced, one who has received grace. Mary is not the source of grace but the recipient of it.</li>
+                    <li>v.34 — KJV: "seeing I know not a man" / ESV: "since I am a virgin" — A euphemism for sexual relations. The ESV renders the idiom directly. Mary's question is not doubt (like Zacharias') but a practical inquiry — she is a virgin and wants to understand how this will happen.</li>
+                    <li>v.46 — KJV: "My soul doth magnify the Lord" / ESV: "My soul magnifies the Lord" — Both equivalent. Greek "megalunei" — to make great, to declare the greatness of. Mary's worship makes God bigger in her own eyes and in the eyes of others.</li>
+                    <li>ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB) v.1  — NET: "Now many have undertaken to compile an account of the things that have been fulfilled among us" — "fulfilled" (peplērophorēmenōn) rather than KJV "believed" or ESV "accomplished." The word implies certainty and completion.</li>
+                    <li>v.28 — NET: "Greetings, favored one, the Lord is with you!" — "favored one" (kecharitōmenē) vs. KJV "highly favoured" and WEB "favored one." Not "full of grace" (Vulgate's gratia plena) — Mary is the recipient of grace, not its source.</li>
+                    <li>v.35 — NET: "The Holy Spirit will come upon you, and the power of the Most High will overshadow you" — "overshadow" (episkiasei) echoes the Shekinah glory covering the tabernacle (Exodus 40:35). All translations preserve this verb. WEB: "the power of the Most High will overshadow you."</li>
+                    <li>v.46 — WEB: "My soul magnifies the Lord" — all translations render the Magnificat similarly. NET: "My soul exalts the Lord." The Latin Magnificat comes from the Vulgate of this verse. ASV: "My soul doth magnify the Lord."</li>
+                    <li>v.78 — NET: "the dawn will break upon us from on high" — "dawn" (anatolē) = rising sun/dayspring. KJV: "the dayspring from on high hath visited us." WEB: "the dawn from on high will visit us." A messianic title — Christ as the rising Sun.</li>
+                </ul>
+            </div>
+            <div class="tab-content" id="tab-videos">
+                <h3>Videos</h3>
+                                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://bibleproject.com/explore/video/luke/" target="_blank">The Bible Project — Luke Overview</a></h4>
+                        <p></p>
+                    </div>
+                </div>
+                <div class="video-card">
+                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
+                    <div class="video-card-info">
+                        <h4><a href="https://enduringword.com/media/luke/" target="_blank">David Guzik — Enduring Word Teaching Series (Luke)</a></h4>
+                        <p>Verse-by-verse audio/video teaching through Luke.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="tab-content" id="tab-reflection">
+                <h3>Reflection</h3>
+                <ul>
+                    <li>1. Luke researched carefully before writing (vv.1-4). Faith and careful investigation are not enemies — they are partners. How does knowing that Christianity is historically grounded strengthen your faith?</li>
+                    <li>2. God chose to announce the Messiah's birth to a teenage girl in an obscure village — not to the high priest in Jerusalem. What does God's choice of Mary tell you about who He uses and how He works?</li>
+                    <li>3. Mary's song celebrates God's reversal of human power structures — scattering the proud, putting down the mighty, exalting the lowly, filling the hungry (vv.51-53). How does this challenge your own pursuit of status and security?</li>
+                    <li>4. Zacharias was silenced for nine months — unable to speak until he obeyed (v.63). Sometimes God silences us to teach us to listen. Is there a season of silence in your life that God might be using to teach you something?</li>
+                    <li>5. "With God nothing shall be impossible" (v.37). What situation in your life feels impossible right now? How does this verse speak to it — not as a magic formula but as a declaration of God's character?</li>
+                    <li>1. Zacharias doubted the angel's message and was struck mute (v.20). Mary asked a question but believed (v.38) and was blessed. The difference was not the question but the posture — doubt vs. faith. When God speaks to you through His Word, is your default posture doubt or trust?</li>
+                    <li>2. Mary said "Be it unto me according to thy word" (v.38) — total surrender before she understood the cost. She didn't know about the scandal, the flight to Egypt, or the sword that would pierce her soul. She said yes first. What is God asking you to say yes to before you see the full picture?</li>
+                    <li>3. The Magnificat (vv.46-55) shows Mary's deep knowledge of Scripture — she weaves together themes from Hannah, the Psalms, and the Prophets. Her worship was informed by the Word. How deeply does Scripture inform your worship and your response to God's work in your life?</li>
+                    <li>4. Zacharias and Elizabeth were "righteous before God" (v.6) yet childless — a source of deep pain and social shame. Faithfulness does not guarantee freedom from suffering. How do you handle the tension between obedience and unanswered prayer?</li>
+                </ul>
+            </div>
+        </div>
+    </main>
+
+    <script src="site/script.js"></script>
+</body>
+</html>
