@@ -132,10 +132,12 @@ def render_section_as_list(text):
     html_items = []
     for item in items:
         if item:
-            # Convert URLs to links (show clean domain name instead of full URL)
+            # Convert URLs to links first (show clean domain name)
             item = re.sub(r'(https?://)([^/\s]+)(/\S*)', r'<a href="\1\2\3" target="_blank">\2</a>', item)
             # Bold commentary source names (like "Enduring Word (David Guzik):")
             item = re.sub(r'^([A-Z][^:]+:)\s*', r'<strong>\1</strong> ', item)
+            # Italicize quoted text (only quotes NOT inside HTML tags)
+            item = re.sub(r'(?<!=)"([^"<>]+)"', r'<em>"\1"</em>', item)
             # Format cross-reference pattern: v.X — Reference — "quote"
             item = re.sub(r'^(v\.?\d+\S*)\s*[—–-]\s*', r'<strong>\1</strong> → ', item)
             # Bold standalone scripture references at start
