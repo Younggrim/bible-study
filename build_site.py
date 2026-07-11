@@ -140,6 +140,10 @@ def render_section_as_list(text):
             item = re.sub(r'^(v\.?\d+\S*)\s*[—–-]\s*', r'<strong>\1</strong> → ', item)
             # Bold standalone scripture references at start
             item = re.sub(r'^(\d?\s?[A-Z][a-z]+ \d+[:\d\-,]*)\s*[—–-]\s*', r'<strong>\1</strong> — ', item)
+            # Bold translation abbreviations (KJV, ESV, ASV, NET, WEB)
+            item = re.sub(r'\b(KJV|ESV|ASV|NET|WEB):', r'<strong>\1:</strong>', item)
+            # Convert / between translations to arrow
+            item = re.sub(r'\s*/\s*(?=(KJV|ESV|ASV|NET|WEB|<strong>))', r' → ', item)
             html_items.append(f"                    <li>{item}</li>")
     return "\n".join(html_items)
 
