@@ -176,7 +176,7 @@ def render_video_cards(text):
 
 
 def render_key_verses(text):
-    """Render key verses with highlight styling."""
+    """Render key verses as a clean bulleted list."""
     items = []
     entries = re.split(r'\n(?=v\.?\d)', text.strip())
     for entry in entries:
@@ -190,11 +190,10 @@ def render_key_verses(text):
             verse_text = ref_match.group(2)
             extra = " ".join(l.strip() for l in lines[1:] if l.strip())
             full_text = verse_text + (" " + extra if extra else "")
-            items.append(f'''                <div class="key-verse">
-                    <div class="ref">{escape(ref)}</div>
-                    <div class="text">{escape(full_text)}</div>
-                </div>''')
-    return "\n".join(items)
+            # Italicize quoted text
+            full_text = re.sub(r'"([^"]+)"', r'<em>"\1"</em>', escape(full_text))
+            items.append(f'                    <li><strong>{escape(ref)}</strong> — {full_text}</li>')
+    return "<ul>\n" + "\n".join(items) + "\n                </ul>" if items else ""
 
 def build_left_sidebar(testament, book_name, chapter_num, total_chapters):
     """Build the left sidebar HTML with book list and chapter grid."""
