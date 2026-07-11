@@ -108,15 +108,24 @@ def render_verses_html(verses):
 
 def render_section_as_list(text):
     """Render a text section as HTML list items."""
+    # First try splitting on lines that start with v.X pattern (cross-references)
+    # This handles cases where entries aren't separated by blank lines
+    lines = text.strip().split("\n")
     items = []
     current = []
-    for line in text.split("\n"):
-        if line.strip() == "":
+
+    for line in lines:
+        stripped = line.strip()
+        if not stripped:
             if current:
                 items.append(" ".join(current))
                 current = []
+        elif re.match(r'^v\.?\d', stripped) and current:
+            # New verse reference starts - save previous and start new
+            items.append(" ".join(current))
+            current = [stripped]
         else:
-            current.append(line.strip())
+            current.append(stripped)
     if current:
         items.append(" ".join(current))
 
@@ -126,9 +135,8 @@ def render_section_as_list(text):
             # Convert URLs to links
             item = re.sub(r'(https?://\S+)', r'<a href="\1" target="_blank">\1</a>', item)
             # Format cross-reference pattern: v.X — Reference — "quote"
-            # Bold the verse reference and italicize the quote
             item = re.sub(r'^(v\.?\d+\S*)\s*[—–-]\s*', r'<strong>\1</strong> → ', item)
-            # Bold standalone scripture references at start (like "John 1:1-3 —")
+            # Bold standalone scripture references at start
             item = re.sub(r'^(\d?\s?[A-Z][a-z]+ \d+[:\d\-,]*)\s*[—–-]\s*', r'<strong>\1</strong> — ', item)
             # Italicize quoted text
             item = re.sub(r'"([^"]+)"', r'<em>"\1"</em>', item)
