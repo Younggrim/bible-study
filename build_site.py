@@ -373,8 +373,19 @@ def build_html_page(book_name, chapter_num, total_chapters, verses_html, tab_bar
                 <option value="NET">NET</option>
                 <option value="WEB">WEB</option>
             </select>
+            <button class="trans-info-btn" onclick="toggleTransInfo()" title="Translation Guide">ℹ</button>
         </div>
     </nav>
+
+    <div class="trans-popup" id="transPopup">
+        <button class="close-btn" onclick="toggleTransInfo()">&times;</button>
+        <h4>Translation Guide</h4>
+        <div class="trans-item"><span class="trans-name">ESV</span> — English Standard Version<br><span class="trans-desc">Essentially literal. Modern English, highly accurate. Best for deep study.</span></div>
+        <div class="trans-item"><span class="trans-name">KJV</span> — King James Version<br><span class="trans-desc">Traditional (1611). Beautiful, poetic language. The classic English Bible.</span></div>
+        <div class="trans-item"><span class="trans-name">ASV</span> — American Standard Version<br><span class="trans-desc">Formal equivalent (1901). Very literal, precise. Good for word studies.</span></div>
+        <div class="trans-item"><span class="trans-name">NET</span> — New English Translation<br><span class="trans-desc">Study Bible with extensive translator notes. Balances accuracy and readability.</span></div>
+        <div class="trans-item"><span class="trans-name">WEB</span> — World English Bible<br><span class="trans-desc">Modern, public domain. Based on the Majority Text. Free to use and share.</span></div>
+    </div>
 
     <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
 
@@ -512,6 +523,16 @@ def build_index():
                 <a class="book-link topic-link" href="the-trinity.html">The Trinity</a>
                 <a class="book-link topic-link" href="the-gospel.html">The Gospel: Salvation</a>
                 <a class="book-link topic-link" href="miracles-of-jesus.html">Miracles of Jesus</a>
+            </div>
+        </div>
+        <div class="testament-section">
+            <h2 class="testament-title" style="color:#6b4c3b; border-bottom-color:#6b4c3b;">Translation Guide</h2>
+            <div class="book-grid">
+                <div class="book-link" style="border-left-color:#2c6b4f; cursor:default;"><strong>ESV</strong> — English Standard Version<br><span style="font-size:0.78rem;color:#8a7e74;">Essentially literal. Modern, accurate. Best for study.</span></div>
+                <div class="book-link" style="border-left-color:#4a5a8a; cursor:default;"><strong>KJV</strong> — King James Version<br><span style="font-size:0.78rem;color:#8a7e74;">Traditional (1611). Poetic, classic English Bible.</span></div>
+                <div class="book-link" style="border-left-color:#7a5c2e; cursor:default;"><strong>ASV</strong> — American Standard Version<br><span style="font-size:0.78rem;color:#8a7e74;">Formal equivalent (1901). Very literal, precise.</span></div>
+                <div class="book-link" style="border-left-color:#5c3d6e; cursor:default;"><strong>NET</strong> — New English Translation<br><span style="font-size:0.78rem;color:#8a7e74;">Study Bible with extensive translator notes.</span></div>
+                <div class="book-link" style="border-left-color:#8b3a2a; cursor:default;"><strong>WEB</strong> — World English Bible<br><span style="font-size:0.78rem;color:#8a7e74;">Modern, public domain. Free to use and share.</span></div>
             </div>
         </div>
         </div>

@@ -65,3 +65,7 @@ function goToChapter() {
     var chapter = document.getElementById('chapterSelect').value;
     window.location.href = book + chapter + '.html';
 }
+
+function toggleTransInfo() {
+    document.getElementById('transPopup').classList.toggle('show');
+}

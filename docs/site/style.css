@@ -420,3 +420,44 @@ body {
 /* TRANSLATION SWITCHER */
 .translation-block { display: none; }
 .translation-block.active { display: block; }
+
+/* TRANSLATION INFO POPUP */
+.trans-info-btn {
+    background: none;
+    border: 1px solid var(--border-medium);
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    font-size: 0.7rem;
+    color: var(--text-muted);
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.2s, color 0.2s;
+}
+.trans-info-btn:hover { background: var(--accent-brown); color: #fff; border-color: var(--accent-brown); }
+
+.trans-popup {
+    display: none;
+    position: fixed;
+    top: 60px;
+    right: 20px;
+    width: 320px;
+    background: var(--bg-card);
+    border: 1px solid var(--border-light);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-lg);
+    padding: 20px;
+    z-index: 2000;
+    font-size: 0.82rem;
+    line-height: 1.6;
+}
+.trans-popup.show { display: block; }
+.trans-popup h4 { font-family: 'Cinzel', serif; font-size: 1rem; color: var(--accent-brown); margin-bottom: 12px; }
+.trans-popup .trans-item { margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid var(--border-light); }
+.trans-popup .trans-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
+.trans-popup .trans-name { font-weight: 700; color: var(--text-primary); }
+.trans-popup .trans-desc { color: var(--text-muted); font-size: 0.78rem; }
+.trans-popup .close-btn { position: absolute; top: 10px; right: 14px; background: none; border: none; font-size: 1.2rem; color: var(--text-muted); cursor: pointer; }
+@media (max-width: 768px) { .trans-popup { width: calc(100% - 40px); right: 20px; } }
