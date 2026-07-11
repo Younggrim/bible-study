@@ -140,8 +140,6 @@ def render_section_as_list(text):
             item = re.sub(r'^(v\.?\d+\S*)\s*[—–-]\s*', r'<strong>\1</strong> → ', item)
             # Bold standalone scripture references at start
             item = re.sub(r'^(\d?\s?[A-Z][a-z]+ \d+[:\d\-,]*)\s*[—–-]\s*', r'<strong>\1</strong> — ', item)
-            # Italicize quoted text
-            item = re.sub(r'"([^"]+)"', r'<em>"\1"</em>', item)
             html_items.append(f"                    <li>{item}</li>")
     return "\n".join(html_items)
 
@@ -192,9 +190,7 @@ def render_key_verses(text):
             verse_text = ref_match.group(2)
             extra = " ".join(l.strip() for l in lines[1:] if l.strip())
             full_text = verse_text + (" " + extra if extra else "")
-            # Italicize quoted text
-            full_text = re.sub(r'"([^"]+)"', r'<em>"\1"</em>', escape(full_text))
-            items.append(f'                    <li><strong>{escape(ref)}</strong> — {full_text}</li>')
+            items.append(f'                    <li><strong>{escape(ref)}</strong> — {escape(full_text)}</li>')
     return "<ul>\n" + "\n".join(items) + "\n                </ul>" if items else ""
 
 def build_left_sidebar(testament, book_name, chapter_num, total_chapters):
