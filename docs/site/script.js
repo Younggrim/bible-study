@@ -46,3 +46,22 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 });
+
+function updateChapters() {
+    var bookSelect = document.getElementById('bookSelect');
+    var chapterSelect = document.getElementById('chapterSelect');
+    var chapters = bookSelect.options[bookSelect.selectedIndex].dataset.chapters;
+    chapterSelect.innerHTML = '';
+    for (var i = 1; i <= parseInt(chapters); i++) {
+        var opt = document.createElement('option');
+        opt.value = i;
+        opt.textContent = 'Ch ' + i;
+        chapterSelect.appendChild(opt);
+    }
+}
+
+function goToChapter() {
+    var book = document.getElementById('bookSelect').value;
+    var chapter = document.getElementById('chapterSelect').value;
+    window.location.href = book + chapter + '.html';
+}

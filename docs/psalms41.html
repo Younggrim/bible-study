@@ -13,7 +13,231 @@
         <button class="hamburger" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>
         <a href="index.html" class="nav-brand">Bible Study</a>
         <div class="nav-center">
-            <span style="font-size:0.9rem;color:var(--text-secondary);">Psalms &bull; Chapter 41</span>
+            <select class="nav-book-select" id="bookSelect" onchange="updateChapters()">
+                <optgroup label="Old Testament">
+                    <option value="genesis" data-chapters="50">Genesis</option>
+                    <option value="exodus" data-chapters="40">Exodus</option>
+                    <option value="leviticus" data-chapters="27">Leviticus</option>
+                    <option value="numbers" data-chapters="36">Numbers</option>
+                    <option value="deuteronomy" data-chapters="34">Deuteronomy</option>
+                    <option value="joshua" data-chapters="24">Joshua</option>
+                    <option value="judges" data-chapters="21">Judges</option>
+                    <option value="ruth" data-chapters="4">Ruth</option>
+                    <option value="1samuel" data-chapters="31">1 Samuel</option>
+                    <option value="2samuel" data-chapters="24">2 Samuel</option>
+                    <option value="1kings" data-chapters="22">1 Kings</option>
+                    <option value="2kings" data-chapters="25">2 Kings</option>
+                    <option value="1chronicles" data-chapters="29">1 Chronicles</option>
+                    <option value="2chronicles" data-chapters="36">2 Chronicles</option>
+                    <option value="ezra" data-chapters="10">Ezra</option>
+                    <option value="nehemiah" data-chapters="13">Nehemiah</option>
+                    <option value="esther" data-chapters="10">Esther</option>
+                    <option value="job" data-chapters="42">Job</option>
+                    <option value="psalms" data-chapters="150" selected>Psalms</option>
+                    <option value="proverbs" data-chapters="31">Proverbs</option>
+                    <option value="ecclesiastes" data-chapters="12">Ecclesiastes</option>
+                    <option value="songofsolomon" data-chapters="8">Song of Solomon</option>
+                    <option value="isaiah" data-chapters="66">Isaiah</option>
+                    <option value="jeremiah" data-chapters="52">Jeremiah</option>
+                    <option value="lamentations" data-chapters="5">Lamentations</option>
+                    <option value="ezekiel" data-chapters="48">Ezekiel</option>
+                    <option value="daniel" data-chapters="12">Daniel</option>
+                    <option value="hosea" data-chapters="14">Hosea</option>
+                    <option value="joel" data-chapters="3">Joel</option>
+                    <option value="amos" data-chapters="9">Amos</option>
+                    <option value="obadiah" data-chapters="1">Obadiah</option>
+                    <option value="jonah" data-chapters="4">Jonah</option>
+                    <option value="micah" data-chapters="7">Micah</option>
+                    <option value="nahum" data-chapters="3">Nahum</option>
+                    <option value="habakkuk" data-chapters="3">Habakkuk</option>
+                    <option value="zephaniah" data-chapters="3">Zephaniah</option>
+                    <option value="haggai" data-chapters="2">Haggai</option>
+                    <option value="zechariah" data-chapters="14">Zechariah</option>
+                    <option value="malachi" data-chapters="4">Malachi</option>
+                </optgroup>
+                <optgroup label="New Testament">
+                    <option value="matthew" data-chapters="28">Matthew</option>
+                    <option value="mark" data-chapters="16">Mark</option>
+                    <option value="luke" data-chapters="24">Luke</option>
+                    <option value="john" data-chapters="21">John</option>
+                    <option value="acts" data-chapters="28">Acts</option>
+                    <option value="romans" data-chapters="16">Romans</option>
+                    <option value="1corinthians" data-chapters="16">1 Corinthians</option>
+                    <option value="2corinthians" data-chapters="13">2 Corinthians</option>
+                    <option value="galatians" data-chapters="6">Galatians</option>
+                    <option value="ephesians" data-chapters="6">Ephesians</option>
+                    <option value="philippians" data-chapters="4">Philippians</option>
+                    <option value="colossians" data-chapters="4">Colossians</option>
+                    <option value="1thessalonians" data-chapters="5">1 Thessalonians</option>
+                    <option value="2thessalonians" data-chapters="3">2 Thessalonians</option>
+                    <option value="1timothy" data-chapters="6">1 Timothy</option>
+                    <option value="2timothy" data-chapters="4">2 Timothy</option>
+                    <option value="titus" data-chapters="3">Titus</option>
+                    <option value="philemon" data-chapters="1">Philemon</option>
+                    <option value="hebrews" data-chapters="13">Hebrews</option>
+                    <option value="james" data-chapters="5">James</option>
+                    <option value="1peter" data-chapters="5">1 Peter</option>
+                    <option value="2peter" data-chapters="3">2 Peter</option>
+                    <option value="1john" data-chapters="5">1 John</option>
+                    <option value="2john" data-chapters="1">2 John</option>
+                    <option value="3john" data-chapters="1">3 John</option>
+                    <option value="jude" data-chapters="1">Jude</option>
+                    <option value="revelation" data-chapters="22">Revelation</option>
+                </optgroup>
+            </select>
+            <select class="nav-chapter-select" id="chapterSelect">
+                <option value="1">Ch 1</option>
+                <option value="2">Ch 2</option>
+                <option value="3">Ch 3</option>
+                <option value="4">Ch 4</option>
+                <option value="5">Ch 5</option>
+                <option value="6">Ch 6</option>
+                <option value="7">Ch 7</option>
+                <option value="8">Ch 8</option>
+                <option value="9">Ch 9</option>
+                <option value="10">Ch 10</option>
+                <option value="11">Ch 11</option>
+                <option value="12">Ch 12</option>
+                <option value="13">Ch 13</option>
+                <option value="14">Ch 14</option>
+                <option value="15">Ch 15</option>
+                <option value="16">Ch 16</option>
+                <option value="17">Ch 17</option>
+                <option value="18">Ch 18</option>
+                <option value="19">Ch 19</option>
+                <option value="20">Ch 20</option>
+                <option value="21">Ch 21</option>
+                <option value="22">Ch 22</option>
+                <option value="23">Ch 23</option>
+                <option value="24">Ch 24</option>
+                <option value="25">Ch 25</option>
+                <option value="26">Ch 26</option>
+                <option value="27">Ch 27</option>
+                <option value="28">Ch 28</option>
+                <option value="29">Ch 29</option>
+                <option value="30">Ch 30</option>
+                <option value="31">Ch 31</option>
+                <option value="32">Ch 32</option>
+                <option value="33">Ch 33</option>
+                <option value="34">Ch 34</option>
+                <option value="35">Ch 35</option>
+                <option value="36">Ch 36</option>
+                <option value="37">Ch 37</option>
+                <option value="38">Ch 38</option>
+                <option value="39">Ch 39</option>
+                <option value="40">Ch 40</option>
+                <option value="41" selected>Ch 41</option>
+                <option value="42">Ch 42</option>
+                <option value="43">Ch 43</option>
+                <option value="44">Ch 44</option>
+                <option value="45">Ch 45</option>
+                <option value="46">Ch 46</option>
+                <option value="47">Ch 47</option>
+                <option value="48">Ch 48</option>
+                <option value="49">Ch 49</option>
+                <option value="50">Ch 50</option>
+                <option value="51">Ch 51</option>
+                <option value="52">Ch 52</option>
+                <option value="53">Ch 53</option>
+                <option value="54">Ch 54</option>
+                <option value="55">Ch 55</option>
+                <option value="56">Ch 56</option>
+                <option value="57">Ch 57</option>
+                <option value="58">Ch 58</option>
+                <option value="59">Ch 59</option>
+                <option value="60">Ch 60</option>
+                <option value="61">Ch 61</option>
+                <option value="62">Ch 62</option>
+                <option value="63">Ch 63</option>
+                <option value="64">Ch 64</option>
+                <option value="65">Ch 65</option>
+                <option value="66">Ch 66</option>
+                <option value="67">Ch 67</option>
+                <option value="68">Ch 68</option>
+                <option value="69">Ch 69</option>
+                <option value="70">Ch 70</option>
+                <option value="71">Ch 71</option>
+                <option value="72">Ch 72</option>
+                <option value="73">Ch 73</option>
+                <option value="74">Ch 74</option>
+                <option value="75">Ch 75</option>
+                <option value="76">Ch 76</option>
+                <option value="77">Ch 77</option>
+                <option value="78">Ch 78</option>
+                <option value="79">Ch 79</option>
+                <option value="80">Ch 80</option>
+                <option value="81">Ch 81</option>
+                <option value="82">Ch 82</option>
+                <option value="83">Ch 83</option>
+                <option value="84">Ch 84</option>
+                <option value="85">Ch 85</option>
+                <option value="86">Ch 86</option>
+                <option value="87">Ch 87</option>
+                <option value="88">Ch 88</option>
+                <option value="89">Ch 89</option>
+                <option value="90">Ch 90</option>
+                <option value="91">Ch 91</option>
+                <option value="92">Ch 92</option>
+                <option value="93">Ch 93</option>
+                <option value="94">Ch 94</option>
+                <option value="95">Ch 95</option>
+                <option value="96">Ch 96</option>
+                <option value="97">Ch 97</option>
+                <option value="98">Ch 98</option>
+                <option value="99">Ch 99</option>
+                <option value="100">Ch 100</option>
+                <option value="101">Ch 101</option>
+                <option value="102">Ch 102</option>
+                <option value="103">Ch 103</option>
+                <option value="104">Ch 104</option>
+                <option value="105">Ch 105</option>
+                <option value="106">Ch 106</option>
+                <option value="107">Ch 107</option>
+                <option value="108">Ch 108</option>
+                <option value="109">Ch 109</option>
+                <option value="110">Ch 110</option>
+                <option value="111">Ch 111</option>
+                <option value="112">Ch 112</option>
+                <option value="113">Ch 113</option>
+                <option value="114">Ch 114</option>
+                <option value="115">Ch 115</option>
+                <option value="116">Ch 116</option>
+                <option value="117">Ch 117</option>
+                <option value="118">Ch 118</option>
+                <option value="119">Ch 119</option>
+                <option value="120">Ch 120</option>
+                <option value="121">Ch 121</option>
+                <option value="122">Ch 122</option>
+                <option value="123">Ch 123</option>
+                <option value="124">Ch 124</option>
+                <option value="125">Ch 125</option>
+                <option value="126">Ch 126</option>
+                <option value="127">Ch 127</option>
+                <option value="128">Ch 128</option>
+                <option value="129">Ch 129</option>
+                <option value="130">Ch 130</option>
+                <option value="131">Ch 131</option>
+                <option value="132">Ch 132</option>
+                <option value="133">Ch 133</option>
+                <option value="134">Ch 134</option>
+                <option value="135">Ch 135</option>
+                <option value="136">Ch 136</option>
+                <option value="137">Ch 137</option>
+                <option value="138">Ch 138</option>
+                <option value="139">Ch 139</option>
+                <option value="140">Ch 140</option>
+                <option value="141">Ch 141</option>
+                <option value="142">Ch 142</option>
+                <option value="143">Ch 143</option>
+                <option value="144">Ch 144</option>
+                <option value="145">Ch 145</option>
+                <option value="146">Ch 146</option>
+                <option value="147">Ch 147</option>
+                <option value="148">Ch 148</option>
+                <option value="149">Ch 149</option>
+                <option value="150">Ch 150</option>
+            </select>
+            <button onclick="goToChapter()" style="padding:6px 12px;background:#8b3a2a;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:0.85rem;font-weight:600;">Go</button>
             <select class="nav-translation" onchange="switchTranslation(this.value)">
                 <option value="ESV">ESV</option>
                 <option value="KJV">KJV</option>
