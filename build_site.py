@@ -346,45 +346,281 @@ def render_map_geography(text):
 
 
 def render_glossary(text):
-    """Render glossary as a bulleted list of terms and definitions."""
-    lines = text.strip().split("\n")
-    items = []
-    current_term = ""
-    current_def_lines = []
+    """Legacy glossary renderer - kept for fallback."""
+    return ""
 
-    for line in lines:
-        stripped = line.strip()
-        if not stripped:
-            if current_term:
-                items.append((current_term, " ".join(current_def_lines)))
-                current_term = ""
-                current_def_lines = []
+
+# Dictionary of uncommon/archaic English words found in Bible translations with definitions
+UNCOMMON_WORDS = {
+    "hath": "has",
+    "doth": "does",
+    "thee": "you (singular, object form)",
+    "thou": "you (singular, subject form)",
+    "thy": "your (singular possessive)",
+    "thine": "yours / your (before a vowel)",
+    "ye": "you (plural)",
+    "wherefore": "why; for what reason",
+    "thereof": "of that; of it",
+    "therein": "in that place; in that matter",
+    "thereto": "to that; in addition",
+    "wherein": "in which; in what",
+    "whereby": "by which; by what means",
+    "wherewith": "with which; with what",
+    "hitherto": "until now; up to this point",
+    "thither": "to that place; there",
+    "hither": "to this place; here",
+    "whither": "to where; to what place",
+    "hence": "from this place; from now",
+    "thence": "from that place; from that time",
+    "forthwith": "immediately; without delay",
+    "straightway": "immediately; at once",
+    "peradventure": "perhaps; possibly",
+    "notwithstanding": "nevertheless; in spite of",
+    "inasmuch": "to the extent that; since",
+    "forasmuch": "since; because",
+    "howbeit": "nevertheless; however",
+    "albeit": "although; even though",
+    "lest": "for fear that; in order to prevent",
+    "nay": "no; not so",
+    "yea": "yes; indeed",
+    "verily": "truly; certainly",
+    "behold": "look; see; pay attention",
+    "lo": "look; see (exclamation)",
+    "woe": "grief; sorrow; a curse",
+    "wist": "knew; was aware",
+    "wot": "know; knows",
+    "wroth": "angry; furious",
+    "sore": "greatly; severely; very much",
+    "selah": "a musical or liturgical pause (meaning uncertain)",
+    "begat": "fathered; was the parent of",
+    "begotten": "fathered; brought into being",
+    "brethren": "brothers; fellow believers",
+    "damsel": "a young unmarried woman",
+    "raiment": "clothing; garments",
+    "vesture": "clothing; a garment",
+    "girdle": "a belt or sash worn around the waist",
+    "loins": "the area of the hips and lower abdomen",
+    "victuals": "food; provisions",
+    "kine": "cows; cattle",
+    "oxen": "plural of ox; domesticated cattle",
+    "hart": "a male deer; stag",
+    "hind": "a female deer",
+    "cockatrice": "a venomous serpent",
+    "leviathan": "a great sea creature",
+    "behemoth": "a massive beast",
+    "firmament": "the sky; the expanse of heaven",
+    "tabernacle": "a tent or temporary dwelling; the portable sanctuary",
+    "ephod": "a priestly garment worn over the chest",
+    "cubit": "a unit of measurement, about 18 inches / 45 cm",
+    "shekel": "a unit of weight/currency, about 11 grams",
+    "ephah": "a dry measure, about 22 liters or 3/5 bushel",
+    "hin": "a liquid measure, about 6 liters or 1.5 gallons",
+    "sojourn": "to live temporarily in a place; to dwell as a foreigner",
+    "sojourner": "a temporary resident; a foreigner",
+    "bondage": "slavery; forced servitude",
+    "handmaid": "a female servant",
+    "concubine": "a secondary wife with lower legal status",
+    "harlot": "a prostitute",
+    "smite": "to strike; to hit forcefully",
+    "smote": "struck; hit (past tense of smite)",
+    "smitten": "struck; afflicted",
+    "slay": "to kill",
+    "slew": "killed (past tense of slay)",
+    "slain": "killed (past participle of slay)",
+    "prevail": "to overcome; to be stronger than",
+    "entreat": "to plead with; to ask earnestly",
+    "beseech": "to beg; to implore earnestly",
+    "supplication": "a humble, earnest prayer or request",
+    "propitiation": "a sacrifice that turns away God's wrath",
+    "atonement": "reconciliation with God through sacrifice",
+    "expiation": "making amends for guilt or wrongdoing",
+    "remission": "forgiveness; cancellation of a penalty",
+    "transgression": "a violation of God's law; sin",
+    "trespass": "a sin; an offense against God or another",
+    "iniquity": "wickedness; moral perversity; gross injustice",
+    "abomination": "something intensely detestable to God",
+    "blasphemy": "speaking irreverently about God",
+    "covet": "to desire intensely what belongs to another",
+    "concupiscence": "strong sinful desire; lust",
+    "lasciviousness": "unrestrained sensuality; shameless immorality",
+    "wantonness": "reckless disregard for morality",
+    "fornication": "sexual immorality; sex outside marriage",
+    "profane": "to treat something sacred with disrespect",
+    "defile": "to make unclean; to pollute; to corrupt",
+    "sanctify": "to set apart as holy; to make pure",
+    "consecrate": "to dedicate formally to God's service",
+    "hallowed": "made holy; set apart as sacred",
+    "justification": "being declared righteous by God",
+    "impute": "to credit or attribute to someone's account",
+    "quicken": "to make alive; to give life to",
+    "quickened": "made alive; given spiritual life",
+    "edify": "to build up spiritually; to instruct",
+    "exhort": "to strongly urge or encourage",
+    "admonish": "to warn or reprimand gently but firmly",
+    "rebuke": "to express sharp disapproval; to reprimand",
+    "reprove": "to correct; to express disapproval",
+    "chasten": "to discipline; to correct through suffering",
+    "chastise": "to punish in order to correct",
+    "longsuffering": "patient endurance; slow to anger",
+    "forbearance": "patient self-control; restraint",
+    "temperance": "self-control; moderation",
+    "meekness": "gentle strength; humility under control",
+    "lovingkindness": "God's steadfast, loyal love; mercy",
+    "propitiation": "an atoning sacrifice satisfying God's justice",
+    "reconciliation": "restoration of relationship with God",
+    "redemption": "deliverance by payment of a ransom",
+    "sanctification": "the process of being made holy",
+    "predestination": "God's sovereign determination beforehand",
+    "omnipotent": "all-powerful; having unlimited power",
+    "omniscient": "all-knowing; having unlimited knowledge",
+    "immutable": "unchangeable; cannot be altered",
+    "efficacious": "producing the intended effect; effective",
+    "circumcise": "to cut away the foreskin as a covenant sign",
+    "tithe": "a tenth of income given to God",
+    "firstfruits": "the first portion of harvest, offered to God",
+    "oblation": "an offering or sacrifice presented to God",
+    "libation": "a liquid offering poured out before God",
+    "frankincense": "a fragrant resin burned as incense",
+    "myrrh": "a costly aromatic resin for anointing/embalming",
+    "hyssop": "a plant used for sprinkling in purification",
+    "sackcloth": "coarse fabric worn as a sign of mourning",
+    "phylactery": "a small box containing Scripture, worn on the body",
+    "proselyte": "a convert to Judaism from another religion",
+    "publican": "a tax collector (often despised)",
+    "centurion": "a Roman officer commanding 100 soldiers",
+    "sepulchre": "a tomb; a burial place carved in rock",
+    "palsy": "paralysis; inability to move",
+    "infirmity": "physical weakness or illness",
+    "dropsy": "edema; swelling from fluid retention",
+    "pestilence": "a deadly epidemic disease; plague",
+    "dearth": "a scarcity; famine",
+    "wrath": "intense anger; God's fury against sin",
+    "indignation": "anger provoked by injustice",
+    "vengeance": "divine retribution; punishment in return",
+    "recompense": "reward or punishment for actions",
+    "requite": "to repay; to make return for",
+    "remnant": "a small surviving group; those who remain faithful",
+    "posterity": "all future generations; descendants",
+    "kindred": "relatives; family; people of same ancestry",
+    "birthright": "the rights and inheritance of the firstborn",
+    "usury": "interest charged on a loan",
+    "surety": "a guarantee; one who pledges for another",
+    "mammon": "wealth or riches, especially as an idol",
+    "alms": "charitable gifts to the poor",
+    "dissimulation": "hypocrisy; hiding true feelings",
+    "guile": "deceitful cunning; craftiness",
+    "subtil": "crafty; cunning; slyly deceptive",
+    "froward": "stubbornly contrary; perverse",
+    "gainsay": "to speak against; to contradict",
+    "nought": "nothing; zero; worthlessness",
+    "asunder": "apart; into pieces; separated",
+    "twain": "two",
+    "manifold": "many and various; numerous",
+    "divers": "various; several different kinds",
+    "ere": "before (in time)",
+    "anon": "soon; shortly; immediately",
+    "betimes": "early; in good time; promptly",
+    "withal": "in addition; moreover; as well",
+    "haply": "perhaps; by chance",
+    "privily": "secretly; privately",
+    "succour": "help; assistance in time of need",
+    "travail": "painful labor; hard work; childbirth pain",
+    "vex": "to annoy; to distress; to torment",
+    "upbraid": "to scold harshly; to criticize severely",
+    "gainsayers": "those who speak against; opposers",
+    "reprobate": "morally unprincipled; rejected by God",
+    "perdition": "eternal damnation; utter destruction",
+    "tribulation": "great suffering; severe affliction",
+    "desolation": "complete emptiness; devastation; ruin",
+    "affliction": "suffering; distress; trouble",
+    "vouchsafe": "to grant in a gracious manner",
+    "sufferance": "patient endurance; tolerance",
+    "shew": "show; display; make known",
+    "shewed": "showed (past tense)",
+    "spake": "spoke (past tense of speak)",
+    "saith": "says",
+    "cometh": "comes",
+    "goeth": "goes",
+    "doeth": "does",
+    "giveth": "gives",
+    "maketh": "makes",
+    "taketh": "takes",
+    "abideth": "remains; stays",
+    "bringeth": "brings",
+    "keepeth": "keeps",
+    "knoweth": "knows",
+    "liveth": "lives",
+    "loveth": "loves",
+    "passeth": "passes; surpasses",
+    "seeketh": "seeks",
+    "sendeth": "sends",
+    "speaketh": "speaks",
+    "worketh": "works",
+    "pertaineth": "belongs to; relates to",
+    "remaineth": "remains",
+    "pleaseth": "pleases",
+    "perisheth": "perishes",
+    "endureth": "endures",
+    "dwelleth": "dwells; lives in",
+    "reigneth": "reigns; rules",
+    "teacheth": "teaches",
+    "leadeth": "leads",
+    "heareth": "hears",
+    "seeth": "sees",
+    "doest": "do (second person singular)",
+    "knowest": "know (second person singular)",
+    "canst": "can (second person singular)",
+    "shalt": "shall (second person singular)",
+    "wilt": "will (second person singular)",
+    "mayest": "may (second person singular)",
+    "wouldest": "would (second person singular)",
+    "shouldest": "should (second person singular)",
+    "hadst": "had (second person singular)",
+    "didst": "did (second person singular)",
+    "gavest": "gave (second person singular)",
+    "sawest": "saw (second person singular)",
+    "hearest": "hear (second person singular)",
+    "speakest": "speak (second person singular)",
+}
+
+
+def build_auto_glossary(all_verses):
+    """Scan all translation texts and find uncommon words, noting which translation they appear in."""
+    found_words = {}  # word -> set of translations
+
+    for trans, verses in all_verses.items():
+        if not verses:
             continue
+        for _, verse_text in verses:
+            words = re.findall(r"[a-zA-Z']+", verse_text.lower())
+            for word in words:
+                clean = word.strip("'")
+                if clean in UNCOMMON_WORDS:
+                    if clean not in found_words:
+                        found_words[clean] = set()
+                    found_words[clean].add(trans)
 
-        # Check if this line starts a new term (has — or - as separator after a word)
-        term_match = re.match(r'^([A-Za-z][^—–\-]*?)\s*[—–\-]+\s*(.+)', stripped)
-        if term_match and not current_term:
-            current_term = term_match.group(1).strip()
-            current_def_lines = [term_match.group(2).strip()]
-        elif term_match and current_term and not stripped.startswith(" ") and len(stripped) > 10:
-            # Save previous and start new
-            items.append((current_term, " ".join(current_def_lines)))
-            current_term = term_match.group(1).strip()
-            current_def_lines = [term_match.group(2).strip()]
-        else:
-            current_def_lines.append(stripped)
+    return found_words
 
-    if current_term:
-        items.append((current_term, " ".join(current_def_lines)))
+
+def render_auto_glossary(all_verses):
+    """Render auto-generated glossary from uncommon words found in all translation texts."""
+    found_words = build_auto_glossary(all_verses)
+
+    if not found_words:
+        return "<p>No uncommon vocabulary found in this chapter.</p>"
+
+    sorted_words = sorted(found_words.items(), key=lambda x: x[0])
 
     html_items = []
-    for term, definition in items:
-        if term and definition:
-            html_items.append(f'                    <li><strong>{escape(term)}</strong> — {escape(definition)}</li>')
+    for word, translations in sorted_words:
+        definition = UNCOMMON_WORDS[word]
+        trans_list = ", ".join(sorted(translations))
+        html_items.append(
+            f'                    <li><strong>{escape(word)}</strong> <span style="color:#8b3a2a;font-size:0.8em;">({trans_list})</span> — {escape(definition)}</li>'
+        )
 
-    if html_items:
-        return "<ul>\n" + "\n".join(html_items) + "\n                </ul>"
-    return "<p>No glossary available for this chapter.</p>"
+    return "<ul>\n" + "\n".join(html_items) + "\n                </ul>"
 
 
 def render_key_verses(text):
@@ -506,8 +742,8 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
         tab_headers.append(('authorship', 'Authorship & Background'))
     if map_geo:
         tab_headers.append(('mapgeo', 'Map & Geography'))
-    if glossary:
-        tab_headers.append(('glossary', 'Glossary'))
+    # Glossary is auto-generated from translation text, always show
+    tab_headers.append(('glossary', 'Glossary'))
     if cross_refs:
         tab_headers.append(('crossref', 'Cross-References'))
     if commentary:
@@ -538,7 +774,7 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
         elif tid == "mapgeo":
             content = render_map_geography(map_geo)
         elif tid == "glossary":
-            content = render_glossary(glossary)
+            content = render_auto_glossary(all_verses)
         elif tid == "crossref":
             content = f"<ul>\n{render_section_as_list(cross_refs)}\n                </ul>"
         elif tid == "commentary":
