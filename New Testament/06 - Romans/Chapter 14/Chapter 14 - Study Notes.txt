@@ -156,6 +156,16 @@ v.23 — NET: "everything that does not come from faith is sin" —
        faith is sin." KJV: "whatsoever is not of faith is sin."
        If you can't do it in good conscience before God, don't.
 
+NOTE ON VERSE COUNT DIFFERENCES: The WEB translation includes 26 verses in
+       Romans 14, while ESV, KJV, ASV, and NET include only 23. This is because
+       some ancient manuscripts place the doxology of Romans 16:25-27 ("Now to
+       him who is able to strengthen you...") after 14:23, reflecting an early
+       manuscript tradition where Romans circulated in a shorter form ending at
+       chapter 14. The WEB follows this alternative arrangement, placing the
+       doxology at both locations. Most modern translations (ESV, NET, KJV)
+       place it only at the end of chapter 16. Neither is "wrong" — they
+       reflect different manuscript traditions.
+
 GLOSSARY
 ------------------------------------
 Weak in faith — Believers whose conscience restricts them in areas where
