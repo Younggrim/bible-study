@@ -179,6 +179,187 @@ def render_video_cards(text):
     return "\n".join(cards)
 
 
+# Wikipedia links for common biblical locations
+LOCATION_WIKI_LINKS = {
+    "jerusalem": "https://en.wikipedia.org/wiki/Jerusalem",
+    "bethlehem": "https://en.wikipedia.org/wiki/Bethlehem",
+    "nazareth": "https://en.wikipedia.org/wiki/Nazareth",
+    "capernaum": "https://en.wikipedia.org/wiki/Capernaum",
+    "sea of galilee": "https://en.wikipedia.org/wiki/Sea_of_Galilee",
+    "galilee": "https://en.wikipedia.org/wiki/Galilee",
+    "jordan river": "https://en.wikipedia.org/wiki/Jordan_River",
+    "jordan": "https://en.wikipedia.org/wiki/Jordan_River",
+    "egypt": "https://en.wikipedia.org/wiki/Ancient_Egypt",
+    "nile": "https://en.wikipedia.org/wiki/Nile",
+    "nile river": "https://en.wikipedia.org/wiki/Nile",
+    "sinai": "https://en.wikipedia.org/wiki/Mount_Sinai",
+    "mount sinai": "https://en.wikipedia.org/wiki/Mount_Sinai",
+    "horeb": "https://en.wikipedia.org/wiki/Mount_Sinai",
+    "mount horeb": "https://en.wikipedia.org/wiki/Mount_Sinai",
+    "babylon": "https://en.wikipedia.org/wiki/Babylon",
+    "assyria": "https://en.wikipedia.org/wiki/Assyria",
+    "persia": "https://en.wikipedia.org/wiki/Achaemenid_Empire",
+    "rome": "https://en.wikipedia.org/wiki/Ancient_Rome",
+    "ephesus": "https://en.wikipedia.org/wiki/Ephesus",
+    "corinth": "https://en.wikipedia.org/wiki/Ancient_Corinth",
+    "antioch": "https://en.wikipedia.org/wiki/Antioch",
+    "damascus": "https://en.wikipedia.org/wiki/Damascus",
+    "samaria": "https://en.wikipedia.org/wiki/Samaria",
+    "jericho": "https://en.wikipedia.org/wiki/Jericho",
+    "bethany": "https://en.wikipedia.org/wiki/Bethany_(biblical_village)",
+    "mount of olives": "https://en.wikipedia.org/wiki/Mount_of_Olives",
+    "mount olives": "https://en.wikipedia.org/wiki/Mount_of_Olives",
+    "gethsemane": "https://en.wikipedia.org/wiki/Gethsemane",
+    "golgotha": "https://en.wikipedia.org/wiki/Calvary",
+    "calvary": "https://en.wikipedia.org/wiki/Calvary",
+    "dead sea": "https://en.wikipedia.org/wiki/Dead_Sea",
+    "red sea": "https://en.wikipedia.org/wiki/Red_Sea",
+    "mount hermon": "https://en.wikipedia.org/wiki/Mount_Hermon",
+    "tyre": "https://en.wikipedia.org/wiki/Tyre,_Lebanon",
+    "sidon": "https://en.wikipedia.org/wiki/Sidon",
+    "caesarea philippi": "https://en.wikipedia.org/wiki/Caesarea_Philippi",
+    "caesarea": "https://en.wikipedia.org/wiki/Caesarea_Maritima",
+    "decapolis": "https://en.wikipedia.org/wiki/Decapolis",
+    "phoenicia": "https://en.wikipedia.org/wiki/Phoenicia",
+    "kidron valley": "https://en.wikipedia.org/wiki/Kidron_Valley",
+    "temple mount": "https://en.wikipedia.org/wiki/Temple_Mount",
+    "hebron": "https://en.wikipedia.org/wiki/Hebron",
+    "beersheba": "https://en.wikipedia.org/wiki/Beersheba",
+    "shechem": "https://en.wikipedia.org/wiki/Shechem",
+    "bethel": "https://en.wikipedia.org/wiki/Bethel",
+    "shiloh": "https://en.wikipedia.org/wiki/Shiloh_(biblical_city)",
+    "ur": "https://en.wikipedia.org/wiki/Ur",
+    "haran": "https://en.wikipedia.org/wiki/Harran",
+    "canaan": "https://en.wikipedia.org/wiki/Canaan",
+    "philistia": "https://en.wikipedia.org/wiki/Philistia",
+    "moab": "https://en.wikipedia.org/wiki/Moab",
+    "edom": "https://en.wikipedia.org/wiki/Edom",
+    "ammon": "https://en.wikipedia.org/wiki/Ammon",
+    "nineveh": "https://en.wikipedia.org/wiki/Nineveh",
+    "tarshish": "https://en.wikipedia.org/wiki/Tarshish",
+    "patmos": "https://en.wikipedia.org/wiki/Patmos",
+    "thessalonica": "https://en.wikipedia.org/wiki/Thessaloniki",
+    "philippi": "https://en.wikipedia.org/wiki/Philippi",
+    "galatia": "https://en.wikipedia.org/wiki/Galatia",
+    "colossae": "https://en.wikipedia.org/wiki/Colossae",
+    "crete": "https://en.wikipedia.org/wiki/Crete",
+    "malta": "https://en.wikipedia.org/wiki/Malta",
+    "athens": "https://en.wikipedia.org/wiki/Athens",
+    "mount carmel": "https://en.wikipedia.org/wiki/Mount_Carmel",
+    "mount zion": "https://en.wikipedia.org/wiki/Mount_Zion",
+    "petra": "https://en.wikipedia.org/wiki/Petra",
+    "tigris": "https://en.wikipedia.org/wiki/Tigris",
+    "euphrates": "https://en.wikipedia.org/wiki/Euphrates",
+    "mediterranean": "https://en.wikipedia.org/wiki/Mediterranean_Sea",
+    "perea": "https://en.wikipedia.org/wiki/Perea",
+    "idumea": "https://en.wikipedia.org/wiki/Idumea",
+    "wilderness of judea": "https://en.wikipedia.org/wiki/Judean_Desert",
+    "judean wilderness": "https://en.wikipedia.org/wiki/Judean_Desert",
+    "mount tabor": "https://en.wikipedia.org/wiki/Mount_Tabor",
+    "dan": "https://en.wikipedia.org/wiki/Tel_Dan",
+    "megiddo": "https://en.wikipedia.org/wiki/Megiddo",
+    "armageddon": "https://en.wikipedia.org/wiki/Tel_Megiddo",
+    "carchemish": "https://en.wikipedia.org/wiki/Carchemish",
+    "thebes": "https://en.wikipedia.org/wiki/Thebes,_Egypt",
+    "memphis": "https://en.wikipedia.org/wiki/Memphis,_Egypt",
+    "heshbon": "https://en.wikipedia.org/wiki/Heshbon",
+    "gilead": "https://en.wikipedia.org/wiki/Gilead",
+    "bashan": "https://en.wikipedia.org/wiki/Bashan",
+    "lebanon": "https://en.wikipedia.org/wiki/Lebanon",
+    "mount nebo": "https://en.wikipedia.org/wiki/Mount_Nebo",
+    "midian": "https://en.wikipedia.org/wiki/Midian",
+    "gaza": "https://en.wikipedia.org/wiki/Gaza_City",
+    "tekoa": "https://en.wikipedia.org/wiki/Tekoa,_Gush_Etzion",
+}
+
+
+def render_map_geography(text):
+    """Render map & geography notes as a list with Wikipedia links for locations."""
+    lines = text.strip().split("\n")
+    items = []
+    current = []
+
+    for line in lines:
+        stripped = line.strip()
+        if not stripped:
+            if current:
+                items.append(" ".join(current))
+                current = []
+        elif stripped.startswith("-") or stripped.startswith("•"):
+            if current:
+                items.append(" ".join(current))
+            current = [stripped.lstrip("-•").strip()]
+        else:
+            current.append(stripped)
+    if current:
+        items.append(" ".join(current))
+
+    html_items = []
+    for item in items:
+        if not item:
+            continue
+        escaped_item = escape(item)
+        # Try to link known locations - case insensitive matching
+        for location, wiki_url in sorted(LOCATION_WIKI_LINKS.items(), key=lambda x: -len(x[0])):
+            # Use word boundary matching on the escaped text
+            pattern = re.compile(re.escape(escape(location)), re.IGNORECASE)
+            match = pattern.search(escaped_item)
+            if match:
+                matched_text = match.group(0)
+                escaped_item = escaped_item.replace(
+                    matched_text,
+                    f'<a href="{wiki_url}" target="_blank" style="color:#8b3a2a;text-decoration:none;border-bottom:1px dotted #8b3a2a;">{matched_text}</a>',
+                    1  # Only replace first occurrence
+                )
+        html_items.append(f"                    <li>{escaped_item}</li>")
+
+    if html_items:
+        return "<ul>\n" + "\n".join(html_items) + "\n                </ul>"
+    return "<p>No geography notes available for this chapter.</p>"
+
+
+def render_glossary(text):
+    """Render glossary as a bulleted list of terms and definitions."""
+    lines = text.strip().split("\n")
+    items = []
+    current_term = ""
+    current_def_lines = []
+
+    for line in lines:
+        stripped = line.strip()
+        if not stripped:
+            if current_term:
+                items.append((current_term, " ".join(current_def_lines)))
+                current_term = ""
+                current_def_lines = []
+            continue
+
+        # Check if this line starts a new term (has — or - as separator after a word)
+        term_match = re.match(r'^([A-Za-z][^—–\-]*?)\s*[—–\-]+\s*(.+)', stripped)
+        if term_match and not current_term:
+            current_term = term_match.group(1).strip()
+            current_def_lines = [term_match.group(2).strip()]
+        elif term_match and current_term and not stripped.startswith(" ") and len(stripped) > 10:
+            # Save previous and start new
+            items.append((current_term, " ".join(current_def_lines)))
+            current_term = term_match.group(1).strip()
+            current_def_lines = [term_match.group(2).strip()]
+        else:
+            current_def_lines.append(stripped)
+
+    if current_term:
+        items.append((current_term, " ".join(current_def_lines)))
+
+    html_items = []
+    for term, definition in items:
+        if term and definition:
+            html_items.append(f'                    <li><strong>{escape(term)}</strong> — {escape(definition)}</li>')
+
+    if html_items:
+        return "<ul>\n" + "\n".join(html_items) + "\n                </ul>"
+    return "<p>No glossary available for this chapter.</p>"
+
+
 def render_key_verses(text):
     """Render key verses as a clean bulleted list."""
     items = []
@@ -271,6 +452,9 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
     # Build study note tabs
     summary = sections.get("CHAPTER SUMMARY", "")
     key_verses = sections.get("KEY VERSES", "")
+    authorship = sections.get("AUTHORSHIP & HISTORICAL BACKGROUND", "")
+    map_geo = sections.get("MAP & GEOGRAPHY NOTES", "")
+    glossary = sections.get("GLOSSARY", "")
     cross_refs = sections.get("CROSS-REFERENCES", "")
     commentary = sections.get("COMMENTARY REFERENCES", "")
     translation = sections.get("TRANSLATION NOTES", "")
@@ -291,6 +475,12 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
         tab_headers.append(('summary', 'Summary'))
     if key_verses:
         tab_headers.append(('keyverses', 'Key Verses'))
+    if authorship:
+        tab_headers.append(('authorship', 'Authorship & Background'))
+    if map_geo:
+        tab_headers.append(('mapgeo', 'Map & Geography'))
+    if glossary:
+        tab_headers.append(('glossary', 'Glossary'))
     if cross_refs:
         tab_headers.append(('crossref', 'Cross-References'))
     if commentary:
@@ -316,6 +506,12 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
             content = f"<p>{escape(summary)}</p>"
         elif tid == "keyverses":
             content = render_key_verses(key_verses)
+        elif tid == "authorship":
+            content = f"<p>{escape(authorship).replace(chr(10), '<br>')}</p>"
+        elif tid == "mapgeo":
+            content = render_map_geography(map_geo)
+        elif tid == "glossary":
+            content = render_glossary(glossary)
         elif tid == "crossref":
             content = f"<ul>\n{render_section_as_list(cross_refs)}\n                </ul>"
         elif tid == "commentary":
