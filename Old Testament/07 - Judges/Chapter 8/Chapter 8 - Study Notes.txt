@@ -229,6 +229,20 @@ Baal-berith    — "Lord of the covenant." The specific Baal worshipped at
                covenant relationship with Israel — they replace the true
                covenant God with a false "lord of the covenant."
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.4 — ASV: "faint, yet pursuing" / WEB: "faint, yet pursuing" / NET: "even though they were exhausted, they were still chasing the Midianites" — This famous phrase in KJV/ASV/WEB ("faint, yet pursuing") is Hebrew "ayefim v'rod'fim" — a terse, powerful construction. NET expands into a full explanatory clause, losing the poetic compression that has made this phrase memorable for centuries.
+
+- v.16 — ASV: "with them he taught the men of Succoth" / WEB: "with them he taught the men of Succoth" / NET: "he then 'threshed' the men of Sukkoth with them" — Hebrew "vayyoda" can mean "to teach/make known" or (from a different root) "to thresh." KJV/ASV/WEB use "taught" (grimly ironic — he "taught" them with thorns). NET uses "threshed" in quotes, connecting to Gideon's threat in v.7. Both readings are linguistically possible.
+
+- v.21 — NET: "a man is judged by his strength" / ASV: "as the man is, so is his strength" / WEB: "as the man is, so is his strength" — Hebrew "ki k'ish g'vurato" = "for as the man, so is his strength." Zebah and Zalmunna prefer death at a warrior's hand rather than a boy's. NET interprets this as a proverb about judgment; ASV/WEB retain the more literal construction linking identity to power.
+
+- v.27 — ASV: "all Israel played the harlot after it there" / WEB: "all Israel played the prostitute with it there" / NET: "All the Israelites prostituted themselves to it by worshiping it there" — Hebrew "vayyiznu... acharav" = whored after it. NET adds "by worshiping it" — explanatory gloss not in Hebrew. The spiritual adultery metaphor is preserved in all versions; NET makes explicit what the metaphor implies.
+
+- v.33 — ASV: "played the harlot after the Baalim, and made Baal-berith their god" / WEB: "played the prostitute following the Baals, and made Baal Berith their god" / NET: "prostituted themselves to the Baals. They made Baal Berith their god" — "Baal-berith" = "Lord of the Covenant" — a deeply ironic name. Israel replaces their covenant LORD with a false "lord of the covenant." All translations preserve the name; the theological irony transcends translation.
+
+- v.22 — ASV: "Rule thou over us... for thou hast saved us" / WEB: "Rule over us... for you have saved us" / NET: "Rule over us... For you have delivered us from Midian's power" — Hebrew "moshal banu... ki hoshata-nu" = rule over us, for you have saved us. NET adds "from Midian's power" for clarity. Gideon's refusal ("Jehovah/Yahweh shall rule over you") is theologically crucial — he acknowledges divine kingship, though his subsequent actions (ephod, many wives, naming a son "my father is king") contradict his words.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "Faint, yet pursuing" (v.4). The Christian life is often this: weary

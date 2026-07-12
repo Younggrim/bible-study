@@ -225,6 +225,16 @@ Flax           — A plant whose stalks were dried on rooftops and used to
                concealment for the spies and indicates she was involved
                in textile production.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — NET: "a prostitute named Rahab" / ASV: "a harlot whose name was Rahab" / WEB: "a prostitute whose name was Rahab" — NET adds interpretive detail, calling the men "clients of mine" in v.4, suggesting Rahab used her profession as cover. KJV/ASV retain the more formal "harlot."
+- v.9 — ASV: "Jehovah hath given you the land" / WEB: "Yahweh has given you the land" / NET: "the Lord is handing this land over to you" / KJV: "the LORD hath given you the land" — The divine name pattern continues. NET uses present tense "is handing over" (interpretive) where Hebrew uses past tense "natan" (has given), weakening the sense of completed divine decree.
+- v.10 — NET: "how you annihilated the two Amorite kings" / KJV: "what ye did unto the two kings" / ASV: "whom ye utterly destroyed" — NET's "annihilated" interprets the Hebrew "cherem" (devoted to destruction), which ASV renders as "utterly destroyed." The cherem concept is more than military annihilation — it is sacred devotion to God's judgment.
+- v.12 — NET: "Because I have shown allegiance to you, show allegiance to my family" / KJV: "since I have shewed you kindness" / ASV: "since I have dealt kindly with you" / WEB: "since I have dealt kindly with you" — NET renders Hebrew "chesed" (loyal love/kindness) as "allegiance," which captures the covenant dimension but loses the warmth of "kindness" (chesed).
+- v.14 — NET: "If you die, may we die too!" / KJV: "Our life for yours" / ASV: "Our life for yours" / WEB: "Our life for yours" — NET dramatically reinterprets the Hebrew oath formula. KJV/ASV/WEB preserve the literal pledge; NET makes it a conditional curse.
+- v.18 — NET: "tie this red rope in the window" / KJV: "this line of scarlet thread" / ASV: "this line of scarlet thread" / WEB: "this line of scarlet thread" — NET simplifies "tikvat chut ha-shani" to "red rope," losing the layered Hebrew vocabulary (tikvah = cord/hope, chut = thread, shani = scarlet). The literal translations preserve the poetic richness and the wordplay on "hope."
+- v.24 — ASV: "Truly Jehovah hath delivered into our hands all the land" / WEB: "Truly Yahweh has delivered all the land into our hands" / NET: "Surely the Lord is handing over all the land to us" — Again, NET uses present continuous tense where Hebrew uses the perfect (completed action). The faith of the spies rests on what God has already done, not what He is in process of doing.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God's grace knows no boundaries (v.1). A Canaanite prostitute in a

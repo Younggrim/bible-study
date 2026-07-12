@@ -210,6 +210,15 @@ Salt Sea       — The Dead Sea (also called the Sea of the Arabah). The
                lowest point on earth, extremely salty, at the southern
                end of the Jordan Valley.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "smote, and possessed their land beyond the Jordan toward the sunrising" / WEB: "struck, and possessed their land beyond the Jordan toward the sunrise" / NET: "defeated and drove from their land on the east side of the Jordan" — KJV/ASV/WEB's "possessed their land" preserves the inheritance language (yarash — to possess/inherit). NET's "drove from their land" focuses on military displacement rather than the theological concept of possession.
+- v.1 — ASV: "the Arabah" / WEB: "the Arabah" / NET: "the eastern rift valley" — NET consistently interprets geographic names rather than preserving them. "Arabah" is the Hebrew name for the Jordan Rift; NET's "rift valley" is a geological description that loses the biblical place name.
+- v.4 — ASV: "the remnant of the Rephaim" / WEB: "the remnant of the Rephaim" / NET: "one of the few remaining Rephaites" — NET rephrases "she'erit" (remnant) as "one of the few remaining," weakening the concept of a nearly-extinct race of giants. KJV/ASV/WEB preserve the dramatic "remnant" language.
+- v.6 — ASV: "Moses the servant of Jehovah" / WEB: "Moses the servant of Yahweh" / NET: "Moses the Lord's servant" — The honorific title recurs throughout this chapter. The divine name usage (Jehovah/Yahweh vs. "the Lord") emphasizes that Moses served the personal, covenant God of Israel.
+- v.7 — ASV: "gave it unto the tribes of Israel for a possession" / WEB: "gave it to the tribes of Israel for a possession" / NET: "assigned this territory to the Israelite tribes" — NET uses "assigned territory" (administrative language) where KJV/ASV/WEB use "possession" (inheritance language). The Hebrew "y'rushah" (possession/inheritance) carries the weight of God's covenant promise.
+- v.23 — ASV: "the king of Goiim in Gilgal" / WEB: "the king of Goiim in Gilgal" / NET: "the king of Goyim—near Gilgal" — "Goiim/Goyim" means "nations" in Hebrew. ASV/WEB preserve the Hebrew word; NET adds a dash and "near" for clarity. This may refer to a coalition king of various nations rather than a specific city.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Count your victories (vv.9-24). This chapter is a victory catalog —

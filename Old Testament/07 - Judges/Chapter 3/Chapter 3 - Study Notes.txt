@@ -224,6 +224,22 @@ Cubit          — A unit of measurement approximately 18 inches (the
                cubit length" — about 18 inches, short enough to conceal
                but long enough to be lethal.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.2 — NET: "he wanted to teach the subsequent generations of Israelites...how to conduct holy war" / ASV: "to teach them war" / WEB: "to teach them war" — NET uniquely adds "holy war" (Hebrew simply "milchamah" = war/battle). This is an interpretive addition — NET clarifies the theological dimension that Israel's warfare was divinely sanctioned, but the Hebrew text does not include the word "holy."
+
+- v.9 — ASV/WEB: "Jehovah/Yahweh raised up a saviour" / NET: "he raised up a deliverer" / KJV: "the LORD raised up a deliverer" — Hebrew "moshia" = savior/deliverer. ASV and WEB use "saviour" (stronger theological term connecting to Christ as ultimate Savior); NET/KJV use "deliverer." The Hebrew term is the same root as "Yeshua/Joshua/Jesus" — "one who saves."
+
+- v.10 — ASV: "the Spirit of Jehovah came upon him" / WEB: "Yahweh's Spirit came on him" / NET: "The Lord's Spirit empowered him" — NET interprets "came upon" as "empowered" — adding functional explanation. The Hebrew "vattehi alav" (was upon him) is more mysterious; NET makes the purpose explicit but loses the sense of divine presence resting on a person.
+
+- v.19 — ASV: "the quarries that were by Gilgal" / WEB: "the stone idols that were by Gilgal" / NET: "the carved images at Gilgal" — Hebrew "ha-p'silim." ASV follows KJV's unusual rendering "quarries"; WEB says "stone idols"; NET says "carved images." The standard meaning of "pesel" is "graven image/idol" — ASV/KJV's "quarries" is an older, now-rejected interpretation.
+
+- v.20 — NET: "I have a message from God for you" / WEB: "I have a message from God to you" / ASV: "I have a message from God unto thee" — All translations render this identically in substance, but NET adds context in v.19: "I have a secret message for you, O king" — Hebrew "d'var-sether" = "a word of secrecy." The deadly irony is preserved across all versions.
+
+- v.24 — WEB: "Surely he is covering his feet in the upper room" / NET: "He must be relieving himself in the well-ventilated inner room" / ASV: "Surely he is covering his feet in the upper chamber" — NET fully explains the Hebrew euphemism "mesikh raglav" (covering his feet) while ASV/WEB retain the literal idiom. NET also adds "well-ventilated" (interpreting Hebrew "maqerah" as referring to the room's coolness/ventilation).
+
+- v.29 — ASV: "every lusty man, and every man of valor" / WEB: "every strong man, and every man of valor" / NET: "all strong, capable warriors" — Hebrew "kol-shamen v'kol-ish chayil." ASV's "lusty" (archaic for "robust/vigorous") corresponds to "shamen" (fat/robust). WEB uses "strong"; NET combines both terms into "strong, capable warriors." The Hebrew "shamen" literally means "fat/well-fed" — implying well-provisioned soldiers.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God uses unlikely instruments (vv.15,31). A left-handed man. An ox

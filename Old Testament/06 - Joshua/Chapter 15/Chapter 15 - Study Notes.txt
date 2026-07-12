@@ -166,6 +166,15 @@ Jebusites      — The Canaanite inhabitants of Jerusalem (called "Jebus").
                They remained unconquered until David's time (~1000 BC),
                nearly 400 years after Joshua.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.13 — ASV: "according to the commandment of Jehovah to Joshua" / NET: "according to the Lord's instructions to Joshua" / KJV: "according to the commandment of the LORD to Joshua" — NET softens "commandment" (Hebrew "peh YHWH" — mouth/command of YHWH) to "instructions." The Hebrew conveys direct divine speech — a command, not a suggestion.
+- v.16 — ASV: "He that smiteth Kiriath-sepher, and taketh it" / NET: "To the man who attacks and captures Kiriath Sepher" — Both are adequate; NET modernizes the challenge. The cultural context of a warrior earning a bride through military valor is preserved in both.
+- v.18 — NET: "One time Achsah came and charmed her father so that she could ask him for some land" / KJV: "she moved him to ask of her father a field" / ASV: "she moved him to ask of her father a field" — NET adds "charmed" (not in Hebrew). The Hebrew "sut" means to incite or urge — Achsah persuaded (either her husband or herself was moved to ask). NET's "charmed" introduces a nuance absent from the text.
+- v.19 — ASV: "Give me a blessing; for that thou hast set me in the land of the South, give me also springs of water" / NET: "Please give me a special present. Since you have given me land in the Negev, now give me springs of water" — Hebrew "b'rakhah" (blessing) is rendered "special present" by NET, losing the theological dimension. Achsah asks for a "blessing" — she understands inheritance as divine favor, not just real estate.
+- v.20 — ASV: "This is the inheritance of the tribe of the children of Judah" / NET: "This is the land assigned to the tribe of Judah by its clans" — Again, NET replaces "inheritance" (nachalah) with "land assigned" — an administrative rather than covenantal concept.
+- v.63 — ASV: "the children of Judah could not drive them out" / NET: "The men of Judah were unable to conquer the Jebusites living in Jerusalem" — NET's "conquer" vs. ASV/KJV's "drive out" (Hebrew "horish" — to dispossess). The Hebrew emphasizes removal/dispossession rather than mere military conquest.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Caleb drives out the giants (v.14). What terrified a generation, one

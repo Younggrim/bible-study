@@ -104,60 +104,71 @@ Charles Spurgeon:
   and confidence in God's justice. 'Shall not the Judge of all the earth do
   right?' — this is the foundation: God IS just. We can trust His decisions."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "the LORD appeared" / ESV: "the LORD appeared" — Both identical.
-       Hebrew "Yahweh" appeared. One of the three visitors IS Yahweh (a
-       theophany — pre-incarnate Christ). The other two are angels (19:1).
+v.1  — Hebrew "vayyera elav Yahweh... kechom hayyom"
+       KJV: "the LORD appeared unto him... in the heat of the day"
+       ESV: "the LORD appeared to him... in the heat of the day"
+       ASV: "Jehovah appeared unto him... in the heat of the day"
+       NET: "the LORD appeared to Abraham... during the hottest time of the day"
+       WEB: "Yahweh appeared to him... in the heat of the day"
+       Analysis: One of the three visitors IS Yahweh (a theophany — pre-
+       incarnate Christ). The other two are angels (19:1). NET adds temporal
+       emphasis ("hottest time"). ASV uses "Jehovah"; WEB uses "Yahweh."
 
-v.3  — KJV: "My Lord" / ESV: "O Lord" — Both equivalent. Hebrew "Adonai"
-       (capital L) — Abraham addresses the lead visitor as LORD, recognizing
-       the divine presence.
+v.11 — Hebrew "chadal lihyoth leSarah orach kannashim"
+       KJV: "it ceased to be with Sarah after the manner of women"
+       ESV: "the way of women had ceased to be with Sarah"
+       ASV: "it had ceased to be with Sarah after the manner of women"
+       NET: "Sarah had long since passed menopause"
+       WEB: "it had ceased to be with Sarah after the manner of women"
+       Analysis: NET uses strikingly clinical modern language — "passed
+       menopause" — where all others use the euphemistic Hebrew idiom.
+       The impossibility of the promise is emphasized: humanly, conception
+       is impossible.
 
-v.12 — KJV: "laughed within herself" / ESV: "Sarah laughed to herself" —
-       Both equivalent. Hebrew "titsachaq beqirbah" — laughed inwardly. The
-       same root as "Isaac" (yitschaq). Both parents laugh — and the child is
-       named for it.
+v.12 — Hebrew "vaттitschaq Sarah beqirbah" — Sarah laughed within herself.
+       KJV: "Therefore Sarah laughed within herself"
+       ESV: "So Sarah laughed to herself"
+       ASV: "And Sarah laughed within herself"
+       NET: "So Sarah laughed to herself"
+       WEB: "Sarah laughed within herself"
+       Analysis: All essentially identical. Hebrew "titsachaq" — same root
+       as "Isaac" (yitschaq). Both parents laugh — and the child is named
+       for it. NET renders the follow-up: "After I am worn out will I have
+       pleasure" — more natural than KJV's archaic phrasing.
 
-v.14 — KJV: "Is any thing too hard for the LORD?" / ESV: "Is anything too
-       hard for the LORD?" — Both identical. Hebrew "yippale" — too wonderful,
-       too extraordinary. From "pala" — to be marvelous, beyond human ability.
-       Nothing is too wonderful/extraordinary for God.
+v.14 — Hebrew "hayippale meYahweh davar" — Is anything too wonderful/hard for the LORD?
+       KJV: "Is any thing too hard for the LORD?"
+       ESV: "Is anything too hard for the LORD?"
+       ASV: "Is anything too hard for Jehovah?"
+       NET: "Is anything impossible for the LORD?"
+       WEB: "Is anything too hard for Yahweh?"
+       Analysis: Hebrew "pala" = to be marvelous, extraordinary, beyond
+       human ability. NET replaces "too hard" with "impossible" — a
+       stronger absolute. WEB uses "Yahweh" — making the rhetorical question
+       more intimate and personal. ASV uses "Jehovah."
 
-v.19 — KJV: "I know him" / ESV: "I have chosen him" — Hebrew "yeda'tiv" —
-       I have known him intimately, I have chosen him. ESV renders the
-       relational "know" as "chosen," making the election aspect explicit.
-       God's intimate knowledge of Abraham includes confidence in his
-       faithfulness.
+v.19 — Hebrew "ki yeda'tiv" — for I have known him / chosen him.
+       KJV: "For I know him, that he will command his children"
+       ESV: "For I have chosen him, that he may command his children"
+       ASV: "For I have known him, to the end that he may command his children"
+       NET: "I have chosen him so that he may command his children"
+       WEB: "For I have known him, to the end that he may command his children"
+       Analysis: ESV/NET render "yeda'tiv" as "chosen" — making the election
+       aspect of Hebrew "know" explicit. KJV/ASV/WEB retain "known" — the
+       relational/intimate sense. In Hebrew, "to know" (yada) in a
+       covenantal context means to choose and enter relationship with.
 
-v.25 — KJV: "Shall not the Judge of all the earth do right?" / ESV: "Shall
-       not the Judge of all the earth do what is just?" — Both equivalent.
-       Hebrew "hashophet kol ha'arets." ESV uses "just" for Hebrew
-       "mishpat"; KJV uses "right." Abraham appeals to God's character as
-       universal Judge. If God is just, He cannot destroy the righteous with
-       the wicked.
-
-v.27 — KJV: "dust and ashes" / ESV: "dust and ashes" — Both identical.
-       Abraham's self-description. Bold in access yet humble in self-
-       assessment. The proper posture of intercession.
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "during the hottest time of the day" — renders "the heat of the
-  day" with temporal emphasis, while WEB has "the heat of the day" and ASV
-  "in the heat of the day." All capture the same setting.
-- v.11 — NET: "Sarah had long since passed menopause" — strikingly clinical
-  modern language where KJV has "it ceased to be with Sarah after the manner
-  of women" and ESV has "the way of women had ceased to be with Sarah."
-- v.12 — NET: "After I am worn out will I have pleasure" — renders Hebrew
-  "edna" (pleasure/delight) more naturally than KJV's archaic "shall I
-  have pleasure."
-- v.14 — WEB: "Is anything too hard for Yahweh?" — using the personal name
-  makes this rhetorical question even more intimate and powerful. NET: "Is
-  anything impossible for the Lord?" — replaces "too hard" with "impossible."
-- v.19 — NET: "I have chosen him so that he may command his children" —
-  interprets Hebrew "yada'tiv" (KJV: "I know him") as "I have chosen him,"
-  reflecting the relational/covenantal sense of "know" in Hebrew.
+v.25 — Hebrew "hashophet kol-ha'arets lo ya'aseh mishpat"
+       KJV: "Shall not the Judge of all the earth do right?"
+       ESV: "Shall not the Judge of all the earth do what is just?"
+       ASV: "Shall not the Judge of all the earth do right?"
+       NET: "Won't the judge of the whole earth do what is right?"
+       WEB: "Won't the Judge of all the earth do right?"
+       Analysis: All essentially identical. NET/WEB use "Won't" — more
+       conversational than "Shall not." Abraham appeals to God's character
+       as universal Judge. The foundation of trust: God IS just.
 
 GLOSSARY
 ------------------------------------

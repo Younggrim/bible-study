@@ -118,33 +118,81 @@ Charles Spurgeon:
   You do not need a human mediator between you and God. Christ is your High
   Priest — and you are a priest under Him."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.4  — KJV: "eagles' wings" / ESV: "eagles' wings" — Hebrew "kanfei
-       nesharim" — wings of eagles/vultures. Both identical. The eagle
-       carries young on its wings — a picture of God's protective care.
+v.4  — Hebrew "kanfei nesharim... va'avi etkhem elai" — wings of eagles... and I brought you to myself.
+       KJV: "I bare you on eagles' wings, and brought you unto myself"
+       ESV: "I bore you on eagles' wings and brought you to myself"
+       ASV: "how I bare you on eagles' wings, and brought you unto myself"
+       NET: "how I lifted you on eagles' wings and brought you to myself"
+       WEB: "how I bore you on eagles' wings, and brought you to myself"
+       Analysis: NET's "lifted" adds vertical imagery; ASV/WEB/KJV's "bare/bore"
+       (carried) is closer to Hebrew "nasa" (to carry, bear). All preserve the
+       remarkable destination: "unto myself" — God's goal is intimacy, not just
+       geography. The eagle carries young on its wings — a picture of protective care.
 
-v.5  — KJV: "peculiar treasure" / ESV: "treasured possession" — Hebrew
-       "segullah" — a treasured possession, a special property. The ESV's
-       "treasured possession" is clearer than the KJV's "peculiar treasure"
-       (which sounds strange to modern ears). Not "peculiar" (odd) but
-       "treasured" — uniquely valued.
+v.5  — Hebrew "segullah" — a treasured possession, special property of value.
+       KJV: "a peculiar treasure unto me above all people"
+       ESV: "my treasured possession among all peoples"
+       ASV: "ye shall be mine own possession from among all peoples"
+       NET: "you will be my special possession out of all the nations"
+       WEB: "you shall be my own possession from among all peoples"
+       Analysis: NET's "special possession" and ASV/WEB's "mine own possession" both
+       capture "segullah." KJV's "peculiar treasure" is archaic but rich — "peculiar"
+       meant "one's own." ESV's "treasured possession" is clearest for modern ears.
+       Not "peculiar" (odd) but uniquely valued by God.
 
-v.6  — KJV: "kingdom of priests" / ESV: "kingdom of priests" — Hebrew
-       "mamlekhet kohanim" — a kingdom consisting of priests. Both
-       identical. The entire nation has priestly access and responsibility.
+v.6  — Hebrew "mamlekhet kohanim vegoy qadosh" — a kingdom of priests and a holy nation.
+       KJV: "a kingdom of priests, and an holy nation"
+       ESV: "a kingdom of priests and a holy nation"
+       ASV: "ye shall be unto me a kingdom of priests, and a holy nation"
+       NET: "you will be to me a kingdom of priests and a holy nation"
+       WEB: "you shall be to me a kingdom of priests, and a holy nation"
+       Analysis: All translate this key covenant phrase identically. The entire
+       nation has priestly access and responsibility. This becomes the church's
+       identity in 1 Peter 2:9.
 
-v.13 — KJV: "when the trumpet soundeth long" / ESV: "when the trumpet
-       sounds a long blast" — Hebrew "bimshokh hayovel" — when the ram's
-       horn sounds a long blast. The ESV adds "a long blast" for clarity.
+v.13 — Hebrew "bimshokh hayovel" — when the ram's horn sounds a long blast.
+       KJV: "when the trumpet soundeth long"
+       ESV: "when the trumpet sounds a long blast"
+       ASV: "when the trumpet soundeth long"
+       NET: "When the ram's horn sounds a long blast"
+       WEB: "When the trumpet sounds long"
+       Analysis: NET specifies "ram's horn" (the shofar/yovel), adding precision
+       about the instrument. ASV/WEB/KJV's generic "trumpet" obscures that this is
+       a ram's horn, not a metal trumpet. The ESV adds "a long blast" for clarity.
 
-v.16 — KJV: "the voice of the trumpet" / ESV: "the sound of the trumpet"
-       — Hebrew "qol shofar" — the sound of the ram's horn. The ESV's
-       "sound" is more natural than the KJV's "voice" for a trumpet.
+v.16 — Hebrew "qol shofar chazaq me'od" — the sound of the ram's horn exceedingly loud.
+       KJV: "the voice of the trumpet exceeding loud"
+       ESV: "a very loud trumpet blast"
+       ASV: "the voice of a trumpet exceeding loud"
+       NET: "the sound of a very loud horn"
+       WEB: "the sound of an exceedingly loud trumpet"
+       Analysis: NET again specifies "horn" rather than "trumpet" (shofar vs.
+       chatzotzrah). The theophany sound is organic (animal horn), not manufactured
+       metal. KJV/ASV's "voice" for "qol" is more literal than ESV/WEB/NET's
+       "sound" — but less natural for a trumpet.
 
-v.18 — KJV: "quaked greatly" / ESV: "trembled greatly" — Hebrew
-       "vayecherad... me'od" — trembled exceedingly. Both equivalent. The
-       mountain itself shakes at God's presence.
+v.18 — Hebrew "vayecherad kol-hahar me'od" — and the whole mountain trembled exceedingly.
+       KJV: "quaked greatly"
+       ESV: "trembled greatly"
+       ASV: "the whole mount quaked greatly"
+       NET: "the whole mountain shook violently"
+       WEB: "the whole mountain quaked greatly"
+       Analysis: NET's "shook violently" and ASV/WEB/KJV's "quaked greatly" both
+       capture the seismic intensity of divine descent. The mountain itself shakes
+       at God's presence — terrifying holiness made perceptible.
+
+v.22 — Hebrew "pen-yiphrotz bahem YHWH" — lest the LORD break forth/through against them.
+       KJV: "lest the LORD break forth upon them"
+       ESV: "lest the LORD break out against them"
+       ASV: "lest Jehovah break forth upon them"
+       NET: "lest the Lord break through against them"
+       WEB: "lest Yahweh break out on them"
+       Analysis: The image is of God as overwhelming force breaking through barriers.
+       All capture this with different prepositions: "upon/on/against" — God's
+       holiness is dangerous to the unprepared. The divine name rendered
+       characteristically by each translation.
 
 GLOSSARY
 ------------------------------------

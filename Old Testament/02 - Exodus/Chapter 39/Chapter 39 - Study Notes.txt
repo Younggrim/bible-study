@@ -111,35 +111,95 @@ Charles Spurgeon:
   but on His heart (where He loves you). You are engraved upon the heart
   of your great High Priest."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1 — KJV: "cloths of service" / ESV: "finely woven garments" — Hebrew
- "bigdey haserad" — garments of service/ministry. Special vestments
- worn for priestly duties in the Holy Place.
+v.1  — Hebrew "kaʼasher tsivvah YHWH ʼet-Mosheh" — as YHWH commanded Moses.
+       KJV: "as the LORD commanded Moses"
+       ESV: "as the LORD had commanded Moses"
+       ASV: "as Jehovah commanded Moses"
+       NET: "just as the Lord had commanded Moses"
+       WEB: "as Yahweh commanded Moses"
+       Analysis: The repeated obedience formula uses each translation's standard rendering of the divine name. This phrase appears seven times in this chapter — a deliberate echo of the seven days of creation.
 
-v.3 — KJV: "wires" / ESV: "threads" — Hebrew "petilim" — threads or cords.
- Gold was hammered thin and cut into threads to be woven into the
- fabric. Extraordinary craftsmanship.
+v.1  — Hebrew "bigdey haserad" — garments of service/ministry.
+       KJV: "cloths of service"
+       ESV: "finely woven garments"
+       ASV: "cloths of service"
+       NET: "woven garments for serving"
+       WEB: "the garments of ministry for ministering"
+       Analysis: Special vestments worn for priestly duties in the Holy Place. KJV/ASV focus on "service"; ESV emphasizes the quality ("finely woven"); NET combines both; WEB emphasizes the ministerial function.
 
-v.5 — KJV: "curious girdle" / ESV: "skillfully woven band" — Hebrew
- "cheshev" — a skillfully woven band or sash. KJV "curious" meant
- "made with care/skill" (archaic). The waistband of the ephod.
+v.3  — Hebrew "petilim" — threads or cords.
+       KJV: "wires"
+       ESV: "threads"
+       ASV: "wires"
+       NET: "threads"
+       WEB: "wires"
+       Analysis: Gold was hammered thin and cut into threads to be woven into the fabric — extraordinary craftsmanship. KJV/ASV/WEB's "wires" describes the metalworking process; ESV/NET's "threads" describes the result as used in textile work.
 
-v.23 — KJV: "habergeon" / ESV: "garment" — Hebrew "tachra" — a coat of
- mail or armored garment. The robe's neckline was reinforced like
- armor to prevent tearing. KJV uses the archaic military term.
+v.5  — Hebrew "cheshev" — a skillfully woven band or sash.
+       KJV: "the curious girdle of his ephod"
+       ESV: "the skillfully woven band on it"
+       ASV: "the skilfully woven band"
+       NET: "the artistically woven waistband"
+       WEB: "the skillfully woven band"
+       Analysis: KJV "curious" meant "made with care/skill" (archaic); "girdle" = waistband. NET's "artistically woven waistband" is the most specific modern rendering. The band held the ephod in place.
 
-v.28 — KJV: "mitre" / ESV: "turban" — Hebrew "mitsnephet" — a turban or
- head-wrapping. KJV "mitre" (from Latin mitra) and ESV "turban"
- both describe the priestly head covering.
+v.23 — Hebrew "tachra" — a coat of mail or reinforced neckline.
+       KJV: "as it were the hole of an habergeon"
+       ESV: "like the opening in a garment"
+       ASV: "as the hole of a coat of mail"
+       NET: "an edge like the opening of a collar"
+       WEB: "like the hole of a coat of mail"
+       Analysis: The robe's neckline was reinforced like armor to prevent tearing. KJV uses the archaic military term "habergeon"; ASV/WEB use "coat of mail"; ESV generalizes to "garment"; NET describes the reinforced edge.
 
-v.28 — KJV: "goodly bonnets" / ESV: "caps" — Hebrew "migbaʻot" — caps or
- headbands for the ordinary priests (distinct from the high priest's
- turban). KJV "goodly bonnets" = fine caps.
+v.28 — Hebrew "mitsnephet" — turban; "migbaʻot" — caps.
+       KJV: "a mitre... goodly bonnets"
+       ESV: "the turban... the caps"
+       ASV: "the mitre... the head-tires"
+       NET: "the turban... the headbands"
+       WEB: "the turban... the linen headbands"
+       Analysis: KJV "mitre" (from Latin mitra) and ESV/NET "turban" describe the high priest's head covering. KJV "goodly bonnets" = fine caps for ordinary priests. ASV "head-tires" and NET "headbands" and WEB "linen headbands" offer various modernizations.
 
-v.30 — KJV: "HOLINESS TO THE LORD" / ESV: "Holy to the LORD" — Hebrew
- "qodesh laYHWH" — holiness/holy belonging to Yahweh. Both
- translations are valid; KJV emphasizes the abstract quality.
+v.30 — Hebrew "qodesh laYHWH" — holiness/holy belonging to Yahweh.
+       KJV: "HOLINESS TO THE LORD"
+       ESV: "Holy to the LORD"
+       ASV: "HOLY TO JEHOVAH"
+       NET: "Holiness to the Lord"
+       WEB: "HOLY TO YAHWEH"
+       Analysis: The golden plate inscription reveals each translation's approach to the divine name most strikingly. ASV/WEB use the actual name (Jehovah/Yahweh) while KJV/ESV/NET use the traditional substitute. KJV/ASV/WEB capitalize fully for emphasis; ESV/NET use standard capitalization. Both renderings are valid: KJV emphasizes the abstract quality ("HOLINESS"); ESV focuses on the state ("Holy").
+
+v.34 — Hebrew "tachash" — uncertain animal skin.
+       KJV: "badgers' skins"
+       ESV: "goatskins"
+       ASV: "sealskins"
+       NET: "the covering of fine leather"
+       WEB: "sea cow hides"
+       Analysis: The debated Hebrew "tachash" again. NET's "fine leather" is deliberately generic; WEB's "sea cow hides" (dugong) reflects one scholarly theory; ASV's "sealskins" reflects another.
+
+v.35 — Hebrew "kapporet" — mercy seat/atonement lid; "bad" — poles/staves.
+       KJV: "the ark of the testimony, and the staves thereof, and the mercy seat"
+       ESV: "the ark of the testimony with its poles and the mercy seat"
+       ASV: "the ark of the testimony, and the staves thereof, and the mercy-seat"
+       NET: "the ark of the testimony and its poles, and the atonement lid"
+       WEB: "the ark of the testimony with its poles, the mercy seat"
+       Analysis: NET's "atonement lid" vs. all others' "mercy seat" for the kapporet. Also note ASV's archaic "staves" where ESV/WEB/NET use "poles." All identify this as the most sacred assembly of objects.
+
+v.36 — Hebrew "lechem hapanim" — bread of the face/presence.
+       KJV: "the shewbread"
+       ESV: "the bread of the Presence"
+       ASV: "the showbread"
+       NET: "the Bread of the Presence"
+       WEB: "the show bread"
+       Analysis: NET/ESV's "Bread of the Presence" (bread set before God's face) is more literal than the traditional "showbread" retained by KJV/ASV/WEB.
+
+v.37 — Hebrew "menorah" — lampstand.
+       KJV: "the pure candlestick"
+       ESV: "the pure gold lampstand"
+       ASV: "the pure candlestick"
+       NET: "the pure lampstand"
+       WEB: "the pure lamp stand"
+       Analysis: ASV/KJV retain "candlestick" for the menorah in this final inventory. ESV/WEB/NET use the accurate "lampstand." The adjective "pure" refers to the gold from which it was made.
 
 GLOSSARY
 ------------------------------------

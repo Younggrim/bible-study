@@ -114,37 +114,103 @@ Charles Spurgeon:
   but all. In the wilderness, in the battles, in the waiting — the cloud
   was there. So is Christ with us, always, even unto the end of the age."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2 — KJV: "tabernacle of the tent of the congregation" / ESV: "tabernacle
- of the tent of meeting" — Hebrew "mishkan ʼohel moʻed" — the
- dwelling-place of the tent of meeting/appointed time. Two terms
- combined: mishkan (dwelling) and ʼohel moʻed (tent of meeting).
+v.2  — Hebrew "mishkan ʼohel moʻed" — dwelling-place of the tent of meeting.
+       KJV: "the tabernacle of the tent of the congregation"
+       ESV: "the tabernacle of the tent of meeting"
+       ASV: "the tabernacle of the tent of meeting"
+       NET: "the tabernacle, the tent of meeting"
+       WEB: "the tabernacle of the Tent of Meeting"
+       Analysis: Two terms combined: mishkan (dwelling) and ʼohel moʻed (tent of meeting/appointed time). KJV's "congregation" is less precise; "meeting" (all modern translations) captures that this is where God meets with His people.
 
-v.4 — KJV: "candlestick" / ESV: "lampstand" — Hebrew "menorah" — see note
- on 37:17. ESV is more accurate; it burned oil, not candles.
+v.3  — Hebrew "paroket" — the inner curtain/veil.
+       KJV: "thou shalt... cover the ark with the vail"
+       ESV: "you shall screen the ark with the veil"
+       ASV: "thou shalt screen the ark with the veil"
+       NET: "you are to shield the ark with the special curtain"
+       WEB: "you shall screen the ark with the veil"
+       Analysis: NET avoids the traditional "veil" in favor of "special curtain," and uses "shield" rather than "screen." The theological resonance of "veil" — torn at Christ's death (Matt 27:51) — is lost in NET's functionally descriptive approach.
 
-v.9 — KJV: "hallow it" / ESV: "consecrate it" — Hebrew "veqiddashta" — to
- make holy, set apart. Both translations convey the same meaning:
- setting apart for sacred use through anointing.
+v.4  — Hebrew "menorah" — lampstand.
+       KJV: "thou shalt bring in the candlestick"
+       ESV: "you shall bring in the lampstand"
+       ASV: "thou shalt bring in the candlestick"
+       NET: "you are to bring in the lampstand"
+       WEB: "You shall bring in the lamp stand"
+       Analysis: ASV/KJV retain the archaic "candlestick" for the menorah. ESV/WEB/NET correctly use "lampstand" since the object burned oil, not wax candles.
 
-v.15 — KJV: "everlasting priesthood" / ESV: "perpetual priesthood" — Hebrew
- "kehunnat ʻolam" — a priesthood for the age/perpetuity. The
- Aaronic priesthood endured until fulfilled in Christ (Heb 7).
+v.7  — Hebrew "kiyyor" — laver/basin.
+       KJV: "thou shalt set the laver"
+       ESV: "you shall put the basin"
+       ASV: "thou shalt set the laver"
+       NET: "you are to put the large basin"
+       WEB: "You shall set the basin"
+       Analysis: NET adds the adjective "large" (not in Hebrew) to distinguish this basin from smaller vessels. ASV/KJV preserve the traditional "laver." ESV/WEB use the simpler "basin." The bronze laver was where priests washed before service.
 
-v.29 — KJV: "meat offering" / ESV: "grain offering" — Hebrew "minchah" — a
- gift offering, specifically of grain/flour. KJV "meat" meant "food"
- in general (archaic); ESV specifies the actual content.
+v.9  — Hebrew "veqiddashta" — to make holy, set apart.
+       KJV: "thou shalt... hallow it"
+       ESV: "you shall... consecrate it"
+       ASV: "thou shalt... hallow it"
+       NET: "you are to... sanctify it"
+       WEB: "you shall... make it holy"
+       Analysis: Four different English words for the same Hebrew concept: KJV/ASV "hallow," ESV "consecrate," NET "sanctify," WEB "make it holy." All convey setting apart for sacred use through anointing.
 
-v.34 — KJV: "the glory of the LORD filled the tabernacle" / ESV: same —
- Hebrew "kevod YHWH maleʼ ʼet-hamishkan" — the weight/glory of
- Yahweh filled the dwelling. "Kavod" = heaviness, splendor,
- manifest presence.
+v.15 — Hebrew "kehunnat ʻolam" — priesthood for the age/perpetuity.
+       KJV: "an everlasting priesthood"
+       ESV: "a perpetual priesthood"
+       ASV: "an everlasting priesthood"
+       NET: "a lasting priesthood"
+       WEB: "an everlasting priesthood"
+       Analysis: KJV/ASV/WEB "everlasting" and ESV "perpetual" convey duration without end; NET's "lasting" is weaker. The Aaronic priesthood endured until fulfilled in Christ (Heb 7).
 
-v.35 — KJV: "the cloud abode thereon" / ESV: "the cloud settled on it" —
- Hebrew "shakan" — to dwell, settle, tabernacle. The root of
- "Shekinah" — God's dwelling presence. The cloud "tabernacled" on
- the tabernacle.
+v.16 — Hebrew obedience formula with the divine name.
+       KJV: "according to all that the LORD commanded him, so did he"
+       ESV: "according to all that the LORD commanded him, so he did"
+       ASV: "according to all that Jehovah commanded him, so did he"
+       NET: "according to all the Lord had commanded him—so he did"
+       WEB: "According to all that Yahweh commanded him, so he did"
+       Analysis: The obedience formula summarizing Moses' life. The divine name is prominent: Moses obeys not an abstract principle but a personal God. NET's dash before "so he did" adds rhetorical emphasis. This formula appears in nearly every verse of the chapter.
+
+v.20 — Hebrew "kapporet" — mercy seat/atonement lid.
+       KJV: "put the mercy seat above upon the ark"
+       ESV: "put the mercy seat on top of the ark"
+       ASV: "put the mercy-seat above upon the ark"
+       NET: "put the atonement lid on the ark"
+       WEB: "put the mercy seat above on the ark"
+       Analysis: NET's consistent "atonement lid" for Hebrew "kapporet" appears in this climactic chapter where the most sacred objects are assembled. The "mercy seat" (KJV/ESV/ASV/WEB) emphasizes grace; the "atonement lid" (NET) emphasizes propitiation.
+
+v.29 — Hebrew "minchah" — gift offering, specifically grain/flour.
+       KJV: "the meat offering"
+       ESV: "the grain offering"
+       ASV: "the meal-offering"
+       NET: "the grain offering"
+       WEB: "the meal offering"
+       Analysis: KJV "meat" meant "food" in general (archaic); ESV/NET specify "grain"; ASV/WEB use "meal" (ground grain). All refer to the same non-animal offering of flour/grain.
+
+v.34 — Hebrew "kevod YHWH maleʼ ʼet-hamishkan" — the glory of YHWH filled the dwelling.
+       KJV: "the glory of the LORD filled the tabernacle"
+       ESV: "the glory of the LORD filled the tabernacle"
+       ASV: "the glory of Jehovah filled the tabernacle"
+       NET: "the glory of the Lord filled the tabernacle"
+       WEB: "Yahweh's glory filled the tabernacle"
+       Analysis: The climactic verse of Exodus. "Kavod" = heaviness, splendor, manifest presence. Each translation renders the divine name characteristically in this theologically supreme moment. WEB's possessive "Yahweh's glory" is structurally different from the others' "the glory of [divine name]." God's visible, weighty presence fills the structure His people built.
+
+v.35 — Hebrew "shakan" — to dwell, settle, tabernacle.
+       KJV: "the cloud abode thereon"
+       ESV: "the cloud settled on it"
+       ASV: "the cloud abode thereon"
+       NET: "the cloud settled on it"
+       WEB: "the cloud stayed on it"
+       Analysis: NET/ESV's "settled," ASV/KJV's "abode," and WEB's "stayed" all render Hebrew "shakan" — to dwell, settle, tabernacle. This is the root of "Shekinah" (the dwelling presence) and "mishkan" (tabernacle). God "tabernacles" on the tabernacle.
+
+v.38 — Hebrew "le'einei" — to the eyes of; the final verse of Exodus.
+       KJV: "the cloud of the LORD was upon the tabernacle by day, and fire was in it by night, in the sight of all the house of Israel"
+       ESV: "the cloud of the LORD was on the tabernacle by day, and fire was in it by night, in the sight of all the house of Israel"
+       ASV: "the cloud of Jehovah was upon the tabernacle by day, and there was fire therein by night, in the sight of all the house of Israel"
+       NET: "the cloud of the Lord was on the tabernacle by day, but fire would be on it at night, in plain view of all the house of Israel"
+       WEB: "the cloud of Yahweh was on the tabernacle by day, and there was fire in the cloud by night, in the sight of all the house of Israel"
+       Analysis: The divine name accompanies the final verse of Exodus. NET's "in plain view" and others' "in the sight" both translate "le'einei" (to the eyes of). God's presence was publicly visible — not hidden, not private, but displayed for all Israel to see throughout all their journeys.
 
 GLOSSARY
 ------------------------------------

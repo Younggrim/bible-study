@@ -110,48 +110,129 @@ Charles Spurgeon:
   of blood (Hebrews 9:22). The blood binds us to God and God to us —
   permanently, irrevocably, eternally."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.4  — KJV: "builded an altar under the hill" / ESV: "built an altar at
-       the foot of the mountain" — Hebrew "tachat hahar" — at the base/foot
-       of the mountain. The ESV's "at the foot" is clearer than the KJV's
-       "under the hill." The altar represents God's side of the covenant;
-       the twelve pillars represent the twelve tribes.
+v.1  — Hebrew "YHWH" — the divine name.
+       KJV: "the LORD"
+       ESV: "the LORD"
+       ASV: "Come up unto Jehovah"
+       NET: "Come up to the Lord"
+       WEB: "Come up to Yahweh"
+       Analysis: The divine name distinction is especially significant in
+       this covenant ratification chapter. ASV uses "Jehovah" (traditional
+       English rendering), WEB uses "Yahweh" (scholarly reconstruction of
+       YHWH), and NET substitutes the title "the Lord." In a chapter where
+       Israel formally enters covenant with God, whether His personal name
+       is spoken carries relational weight.
 
-v.6  — KJV: "sprinkled on the altar" / ESV: "threw against the altar" —
-       Hebrew "vayizroq" — to dash, to throw, to sprinkle by throwing. The
-       ESV's "threw" captures the forceful action better than the KJV's
-       gentler "sprinkled." Blood was dashed against the altar with force.
+v.3  — Hebrew "mishpatim" — judgments, ordinances, rules.
+       KJV: "all the judgments"
+       ESV: "all the rules"
+       ASV: "all the ordinances"
+       NET: "all the decisions"
+       WEB: "all the ordinances"
+       Analysis: NET uniquely renders "mishpatim" as "decisions" rather than
+       "ordinances" (ASV/WEB) or "rules" (ESV). This emphasizes the judicial,
+       case-law character — they are precedent-setting decisions, not
+       abstract regulations.
 
-v.7  — KJV: "the book of the covenant" / ESV: "the Book of the Covenant"
-       — Hebrew "sepher haberit." Both capitalize it as a title. This is
-       the written record of Exodus 20:22-23:33 — the first "book" of
-       Scripture formally read to the people.
+v.4  — Hebrew "mattsevot" — standing stones/pillars.
+       KJV: "twelve pillars"
+       ESV: "twelve pillars"
+       ASV: "twelve pillars"
+       NET: "twelve standing stones"
+       WEB: "twelve pillars"
+       Analysis: NET's "standing stones" distinguishes these memorial markers
+       from architectural pillars. The same Hebrew word "mattsevot" is used
+       negatively for pagan standing stones (23:24) but here positively as
+       covenant memorials — context determines meaning.
 
-v.10 — KJV: "a paved work of a sapphire stone" / ESV: "a pavement of
-       sapphire stone" — Hebrew "ma'aseh livnat hassappir" — a work/
-       construction of sapphire-like brilliance. "Sappir" may be lapis
-       lazuli (deep blue) rather than modern sapphire. The vision: God
-       standing on a floor of brilliant blue — "like the very heaven for
-       clearness" (ESV) / "the body of heaven in his clearness" (KJV).
+v.6  — Hebrew "vayizroq" — to dash, to throw, to sprinkle by throwing.
+       KJV: "sprinkled on the altar"
+       ESV: "threw against the altar"
+       ASV: "sprinkled on the altar"
+       NET: "splashed on the altar"
+       WEB: "sprinkled on the altar"
+       Analysis: ESV's "threw" and NET's "splashed" capture the forceful
+       action better than KJV/ASV/WEB's gentler "sprinkled." Blood was
+       dashed against the altar with force — a dramatic covenant ceremony.
 
-v.11 — KJV: "the nobles" / ESV: "the chief men" — Hebrew "atsilei" — the
-       chosen ones, the nobles, the leaders. The ESV's "chief men" is more
-       accessible; the KJV's "nobles" captures the dignity of the term.
+v.7  — Hebrew "na'aseh venishma" — we will do and we will hear/obey.
+       KJV: "will we do, and be obedient"
+       ESV: "we will do, and we will be obedient"
+       ASV: "will we do, and be obedient"
+       NET: "We are willing to do and obey"
+       WEB: "will we do, and be obedient"
+       Analysis: NET's "We are willing" adds an element of volition not
+       explicit in the Hebrew. ASV/WEB preserve the straightforward pledge.
+       NET softens from an absolute vow to a declaration of willingness — a
+       subtle but theologically significant difference.
 
-v.12 — KJV: "tables of stone" / ESV: "tablets of stone" — Hebrew "luchot
-       ha'even." The ESV's "tablets" is the modern term; the KJV's "tables"
-       is archaic English for flat writing surfaces (not furniture).
+v.8  — Hebrew "hinneh dam haberit" — behold the blood of the covenant.
+       KJV: "Behold the blood of the covenant"
+       ESV: "Behold the blood of the covenant"
+       ASV: "Behold the blood of the covenant, which Jehovah hath made with you"
+       NET: "This is the blood of the covenant that the Lord has made with you"
+       WEB: "Look, this is the blood of the covenant, which Yahweh has made with you"
+       Analysis: WEB's "Look" and ASV's "Behold" retain the Hebrew
+       interjection "hinneh" — a dramatic call to attention. NET omits it.
+       Jesus echoes these exact words at the Last Supper (Matthew 26:28),
+       making the divine name choice here especially resonant.
 
-v.13 — KJV: "his minister Joshua" / ESV: "his assistant Joshua" — Hebrew
-       "meshareto" — his attendant, his servant/minister. The KJV's
-       "minister" has religious connotations today; the ESV's "assistant"
-       is more neutral. Joshua serves Moses as an aide/apprentice.
+v.10 — Hebrew "ma'aseh livnat hassappir" — a work/construction of sapphire
+       brilliance.
+       KJV: "a paved work of a sapphire stone, and as it were the body of heaven in his clearness"
+       ESV: "a pavement of sapphire stone, like the very heaven for clearness"
+       ASV: "a paved work of sapphire stone, and as it were the very heaven for clearness"
+       NET: "something like a pavement made of sapphire, clear like the sky itself"
+       WEB: "like a paved work of sapphire stone, like the skies for clearness"
+       Analysis: NET's hedging language ("something like") reflects the
+       difficulty of describing a theophany. ASV's "the very heaven for
+       clearness" is the most evocative. All preserve "sapphire" (Hebrew
+       "sappir," possibly lapis lazuli — a brilliant blue). "Sappir" may be
+       lapis lazuli rather than modern sapphire.
 
-v.17 — KJV: "devouring fire" / ESV: "devouring fire" — Hebrew "esh
-       okheleth" — fire that consumes/eats. Both translations are identical.
-       God's glory appears as fire that consumes everything it touches —
-       terrifying to behold.
+v.11 — Hebrew "atsilei benei Yisra'el" — the nobles/chosen ones of Israel.
+       KJV: "the nobles"
+       ESV: "the chief men"
+       ASV: "the nobles of the children of Israel"
+       NET: "the leaders of the Israelites"
+       WEB: "the nobles of the children of Israel"
+       Analysis: NET modernizes to "leaders," losing the aristocratic dignity
+       of "nobles" (KJV/ASV/WEB). ESV's "chief men" is more accessible. All
+       record the astonishing statement: they saw God, and ate and drank —
+       covenant fellowship in the divine presence, prefiguring the Lord's
+       Supper.
+
+v.12 — Hebrew "luchot ha'even" — tablets of stone.
+       KJV: "tables of stone"
+       ESV: "tablets of stone"
+       ASV: "tables of stone"
+       NET: "stone tablets"
+       WEB: "stone tablets"
+       Analysis: ESV/NET/WEB use "tablets" — the modern term. KJV/ASV use
+       "tables" — archaic English for flat writing surfaces (not furniture).
+       These are the Ten Commandments written by God's own finger.
+
+v.13 — Hebrew "meshareto" — his attendant, his servant/minister.
+       KJV: "his minister Joshua"
+       ESV: "his assistant Joshua"
+       ASV: "his minister Joshua"
+       NET: "his servant Joshua"
+       WEB: "his servant Joshua"
+       Analysis: KJV/ASV's "minister" has religious connotations today; ESV's
+       "assistant" is most neutral. NET/WEB's "servant" captures the Hebrew
+       sense of one who serves. Joshua serves Moses as an aide/apprentice.
+
+v.17 — Hebrew "esh okheleth" — fire that consumes/eats.
+       KJV: "devouring fire"
+       ESV: "devouring fire"
+       ASV: "devouring fire"
+       NET: "a consuming fire"
+       WEB: "a devouring fire"
+       Analysis: All translations are nearly identical. God's glory appears
+       as fire that consumes everything it touches — terrifying to behold.
+       NET's "consuming" is virtually synonymous with "devouring."
 
 GLOSSARY
 ------------------------------------

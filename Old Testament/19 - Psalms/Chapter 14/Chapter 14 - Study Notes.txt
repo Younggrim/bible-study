@@ -113,6 +113,22 @@ v.7 — KJV: "when the LORD bringeth back the captivity" / ESV:
       fortunes" (reverse circumstances). Both point to
       comprehensive divine restoration.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — NET: "Fools say to themselves, 'There is no God.' They sin and commit evil deeds; none of them does what is right" — NET makes this plural ("Fools say") where KJV/ASV/WEB use singular ("The fool hath said"). NET also replaces "corrupt... abominable works" with the softer "sin and commit evil deeds." The Hebrew "hit'ivu alilah" (made abominable their deeds) is stronger than NET suggests.
+
+- v.2 — ASV: "Jehovah looked down from heaven" / WEB: "Yahweh looked down from heaven" / NET: "The Lord looks down from heaven at the human race" — NET adds "at the human race" (not in Hebrew) and shifts to present tense ("looks") where KJV/ASV use past tense ("looked"). The divine name rendering remains the key distinction: Jehovah (ASV), Yahweh (WEB), LORD (KJV), Lord (NET).
+
+- v.3 — NET: "Everyone rejects God; they are all morally corrupt" — NET interprets "sar" (turned aside) as "rejects God" and "ne'elachu" (become filthy/rotten) as "morally corrupt." KJV: "become filthy." ASV: "become filthy." WEB: "become corrupt." The Hebrew image is of spoiling/going rancid (like food), which only KJV/ASV preserve with "filthy."
+
+- v.4 — ASV: "Who eat up my people as they eat bread, And call not upon Jehovah?" / NET: "those who devour my people as if they were eating bread and do not call out to the Lord" — NET's "devour" and "as if they were eating bread" makes the metaphor more explicit. The casualness of oppression — consuming the vulnerable as routinely as eating bread — is powerful in all versions.
+
+- v.5 — NET: "They are absolutely terrified, for God defends the godly" — Significantly paraphrased. KJV: "There were they in great fear: for God is in the generation of the righteous." ASV: "There were they in great fear; For God is in the generation of the righteous." NET adds "defends" — the Hebrew simply says God "is in/among" the generation of the righteous. His presence, not His action, is what terrifies.
+
+- v.6 — NET: "You want to humiliate the oppressed, even though the Lord is their shelter" vs. KJV: "Ye have shamed the counsel of the poor, because the LORD is his refuge" — NET makes this an accusation with "You want to humiliate." WEB: "You frustrate the plan of the poor, because Yahweh is his refuge." The irony in all versions: the wicked attack the poor precisely because the poor trust God rather than human power.
+
+- v.7 — ASV: "When Jehovah bringeth back the captivity of his people" / WEB: "When Yahweh restores the fortunes of his people" / NET: "When the Lord restores the well-being of his people" — Hebrew "shuvt shevut" is debated: "restore captivity" (ASV, literal) or "restore fortunes" (WEB/NET). NET's "well-being" is the most interpretive, moving from the concrete (captivity/fortunes) to the abstract.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Practical atheism is more dangerous than intellectual atheism

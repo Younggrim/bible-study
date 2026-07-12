@@ -225,6 +225,16 @@ Adam (city)    — A city about 18 miles north of the crossing point near
                Jericho. The waters were held back at this point, creating
                a long stretch of dry riverbed for Israel to cross.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.3 — ASV: "the ark of the covenant of Jehovah your God" / WEB: "the ark of Yahweh your God's covenant" / NET: "the ark of the covenant of the Lord your God" — The divine name distinction (Jehovah/Yahweh/the Lord) is prominent in this chapter, appearing repeatedly as God acts miraculously. WEB's "Yahweh" is closest to the original pronunciation.
+- v.5 — NET: "Ritually consecrate yourselves, for tomorrow the Lord will perform miraculous deeds among you" / KJV: "Sanctify yourselves: for to morrow the LORD will do wonders among you" / WEB: "Sanctify yourselves; for tomorrow Yahweh will do wonders among you" — NET adds "ritually" (interpretive), specifying the type of consecration. KJV/ASV/WEB preserve the broader Hebrew "qadash" (set apart, make holy) without narrowing it to ritual acts.
+- v.7 — NET: "This very day I will begin to honor you before all Israel" / KJV: "This day will I begin to magnify thee" / ASV: "This day will I begin to magnify thee" — NET renders "gadal" (magnify/make great) as "honor," which is weaker. KJV/ASV's "magnify" better captures God's intention to make Joshua's authority visibly great before the people.
+- v.10 — NET: "he will truly drive out before you" / KJV: "he will without fail drive out from before you" / WEB: "he will without fail drive" — NET's "truly" is adequate but "without fail" (KJV/ASV/WEB) better renders the Hebrew infinitive absolute construction (yarosh yorish), which intensifies the certainty of the action.
+- v.13 — NET: "the water coming downstream toward you will stop flowing and pile up" / KJV: "they shall stand upon an heap" / ASV: "they shall stand in one heap" — NET uses dynamic "pile up" for Hebrew "ned echad" (one heap). KJV/ASV's "stand upon a heap" preserves the image of waters rising and standing still — an act defying nature, not merely accumulation.
+- v.15 — NET: "the Jordan is at flood stage all during harvest time" / KJV: "Jordan overfloweth all his banks all the time of harvest" / WEB: "the Jordan overflows all its banks all the time of harvest" — NET's parenthetical explanation is functional but clinical. KJV/WEB preserve the dramatic detail: the river is at maximum force when God stops it — heightening the miracle.
+- v.16 — NET: "the sea of the rift valley (the Salt Sea)" / KJV: "the sea of the plain, even the salt sea" / ASV: "the sea of the Arabah, even the Salt Sea" — NET adds the geological term "rift valley" as interpretation. ASV preserves "Arabah" (the Hebrew name for the Jordan depression), while KJV uses "the plain."
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Consecration precedes miracle (v.5). God says "sanctify yourselves"

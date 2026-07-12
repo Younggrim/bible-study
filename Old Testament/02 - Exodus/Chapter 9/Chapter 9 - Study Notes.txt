@@ -110,49 +110,87 @@ Charles Spurgeon:
   unwitting advertisement for God's power. The harder Pharaoh resisted, the
   more glorious God's victory became."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3  — KJV: "murrain" / ESV: "severe plague" — Hebrew "dever" — pestilence,
-       plague. The KJV's "murrain" is archaic English for animal plague; the
-       ESV's "severe plague" is accessible to modern readers.
+v.3  — Hebrew "dever" — pestilence, plague.
+       KJV: "a very grievous murrain"
+       ESV: "a very severe plague"
+       ASV: "a very grievous murrain"
+       NET: "a very terrible plague"
+       WEB: "a very grievous pestilence"
+       Analysis: KJV/ASV's "murrain" is archaic English for livestock plague
+       — directly linking to traditional English plague vocabulary. ESV's
+       "severe plague" and NET's "terrible plague" are accessible to modern
+       readers. WEB uses "pestilence" — a middle ground between archaic and
+       modern.
 
-v.9  — KJV: "boil breaking forth with blains" / ESV: "boils breaking out
-       in sores" — Hebrew "shechin pore'ach avabu'ot" — an inflamed sore
-       erupting in blisters. The ESV is clearer; the KJV's "blains" is
-       archaic for blisters.
+v.9  — Hebrew "shechin pore'ach avabu'ot" — inflamed sore erupting in blisters.
+       KJV: "a boil breaking forth with blains"
+       ESV: "boils breaking out in sores"
+       ASV: "a boil breaking forth with blains"
+       NET: "boils to break out and fester"
+       WEB: "a boil breaking out with boils"
+       Analysis: KJV/ASV's "blains" is archaic for blisters/pustules —
+       revealing the Hebrew "avabu'ot" precisely. NET adds "fester"
+       interpretively, emphasizing the ongoing infection. ESV's "sores" is
+       clear. WEB's repetition of "boil... boils" is awkward but literal.
 
-v.14 — KJV: "all my plagues upon thine heart" / ESV: "all my plagues on
-       you yourself" — Hebrew "al libbeka" — upon your heart. The KJV is
-       more literal; the ESV interprets "heart" as "you yourself." The
-       plagues target Pharaoh's will — the seat of decision.
+v.14 — Hebrew "al libbeka" — upon your heart.
+       KJV: "all my plagues upon thine heart"
+       ESV: "all my plagues on you yourself"
+       ASV: "all my plagues upon thy heart"
+       NET: "all my plagues on your heart"
+       WEB: "all my plagues against your heart"
+       Analysis: KJV/ASV/NET/WEB are more literal — "heart." ESV interprets
+       "heart" as "you yourself." The plagues target Pharaoh's will — the
+       seat of decision. WEB's "against" adds a combative tone the Hebrew
+       supports.
 
-v.16 — KJV: "raised thee up" / ESV: "raised you up" — Hebrew
-       "he'emadtikha" — caused you to stand, established you, preserved
-       you. Both translations equivalent. God sustained Pharaoh through the
+v.16 — Hebrew "he'emadtikha" — caused you to stand, established you.
+       KJV: "raised thee up"
+       ESV: "raised you up"
+       ASV: "for this cause have I made thee to stand"
+       NET: "for this purpose I have caused you to stand"
+       WEB: "for this cause I have made you stand"
+       Analysis: The verse quoted in Romans 9:17. NET's "caused you to stand"
+       subtly implies divine sovereignty over Pharaoh's existence. ASV/WEB
+       preserve the causative force. God sustained Pharaoh through the
        plagues for a purpose — not creating evil but using an evil man for
        divine glory.
 
-v.24 — KJV: "fire mingled with the hail" / ESV: "fire flashing continually
-       in the midst of the hail" — Hebrew "esh mitlaqqachat betokh habarad"
-       — fire flashing/taking hold within the hail. The ESV is more
-       descriptive; the KJV is more concise. Lightning within hailstones —
-       supernatural and terrifying.
+v.23 — Hebrew "esh" — fire (within the hail).
+       KJV: "the fire ran along upon the ground"
+       ESV: "fire flashing continually in the midst of the hail"
+       ASV: "fire ran down unto the earth"
+       NET: "fire fell to the earth"
+       WEB: "lightning flashed down to the earth"
+       Analysis: WEB interprets "esh" (fire) as "lightning" — a reasonable
+       identification but moves beyond the Hebrew. ASV's "fire ran down" is
+       most literal. NET's "fire fell" is a middle rendering. ESV is most
+       descriptive. Lightning within hailstones — supernatural and terrifying.
 
-v.27 — KJV: "I have sinned this time" / ESV: "This time I have sinned" —
-       Both equivalent. "This time" (happa'am) suggests Pharaoh admits fault
-       only for this instance — not genuine, deep repentance.
+v.27 — Hebrew "YHWH hatsaddiq" — YHWH is the righteous one.
+       KJV: "the LORD is righteous"
+       ESV: "the LORD is in the right"
+       ASV: "Jehovah is righteous"
+       NET: "The LORD is righteous"
+       WEB: "Yahweh is righteous"
+       Analysis: ASV/WEB spell out the divine name, making Pharaoh's
+       confession more personal — he acknowledges YHWH by name. ESV
+       paraphrases to "in the right" — emphasizing the forensic/legal sense.
+       True words without true repentance — "this time" (happa'am) suggests
+       Pharaoh admits fault only for this instance.
 
-v.31 — KJV: "bolled" / ESV: "in bud" — Hebrew "giv'ol" — in bud/bloom.
-       The KJV's "bolled" is extremely archaic; the ESV's "in bud" is
-       clear. This detail helps date the plague to January-February.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.3 — ASV: "a very grievous murrain" — preserves the archaic English "murrain" (livestock disease); NET: "a very terrible plague"; WEB: "a very grievous pestilence." ASV's term directly links to the traditional English plague vocabulary.
-- v.9 — ASV: "boil breaking forth with blains" — "blains" is an archaic term for blisters/pustules, revealing the Hebrew "avabu'ot" (blisters); NET: "boils to break out and fester" — adds "fester" interpretively; WEB: "boil breaking out with boils."
-- v.16 — ASV: "for this cause have I made thee to stand" / NET: "for this purpose I have caused you to stand" / WEB: "for this cause I have made you stand" — the verse quoted in Romans 9:17. NET's "caused you to stand" subtly implies divine sovereignty over Pharaoh's existence.
-- v.23 — WEB: "lightning flashed down to the earth" — WEB interprets Hebrew "esh" (fire) as "lightning"; ASV: "fire ran down unto the earth" — more literal; NET: "fire fell to the earth" — a middle rendering.
-- v.27 — WEB: "Yahweh is righteous" — Pharaoh acknowledges "Yahweh" by name, making his confession more personal in WEB; in ASV: "Jehovah is righteous" achieves the same effect.
+v.31 — Hebrew "giv'ol" — in bud/bloom.
+       KJV: "the flax was bolled"
+       ESV: "the flax was in bud"
+       ASV: "the flax was in bloom"
+       NET: "the flax was in bud"
+       WEB: "the flax was in bloom"
+       Analysis: KJV's "bolled" is extremely archaic — unintelligible to
+       modern readers. ESV/NET use "in bud." ASV/WEB use "in bloom" — a
+       slightly later stage. This botanical detail helps date the plague to
+       January-February.
 
 GLOSSARY
 ------------------------------------

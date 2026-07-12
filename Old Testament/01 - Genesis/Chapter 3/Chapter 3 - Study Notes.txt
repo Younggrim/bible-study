@@ -117,93 +117,88 @@ Charles Spurgeon:
   those who are hiding from Him. He is the seeking God — and He has never
   stopped calling."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "subtil" / ESV: "crafty" — Hebrew "arum" — crafty, shrewd,
-       cunning. ESV's "crafty" is more immediately understood by modern
-       readers than KJV's archaic "subtil." The same root as "naked" (arom)
-       in 2:25 — a wordplay connecting the chapters.
+v.1  — Hebrew "arum" — crafty, shrewd, cunning.
+       KJV: "Now the serpent was more subtil than any beast"
+       ESV: "Now the serpent was more crafty than any other beast"
+       ASV: "Now the serpent was more subtle than any beast"
+       NET: "Now the serpent was shrewder than any of the wild animals"
+       WEB: "Now the serpent was more subtle than any animal"
+       Analysis: KJV/ASV use archaic "subtil/subtle." ESV's "crafty" has
+       negative connotation. NET uses "shrewder" — morally neutral, just
+       intelligent. WEB's "subtle" retains the old sense. NET also uses
+       "wild animals" instead of "beasts of the field." The same root as
+       "naked" (arom) in 2:25 — a wordplay connecting the chapters.
 
-v.1  — KJV: "Yea, hath God said, Ye shall not eat of every tree?" / ESV:
-       "Did God actually say, 'You shall not eat of any tree in the
-       garden'?" — Both convey the same distortion. ESV's "actually" captures
-       the incredulous tone of the Hebrew. Satan's first recorded words: a
-       question that casts doubt on God's word.
+v.5  — Hebrew "kelohim" — like God/gods.
+       KJV: "ye shall be as gods, knowing good and evil"
+       ESV: "you will be like God, knowing good and evil"
+       ASV: "ye shall be as God, knowing good and evil"
+       NET: "you will be like God, knowing good and evil"
+       WEB: "you will be like God, knowing good and evil"
+       Analysis: KJV alone uses "gods" (lowercase, plural) — suggesting
+       becoming divine beings. All modern translations take "Elohim" as
+       referring to God Himself. Both are legitimate readings of the Hebrew.
 
-v.5  — KJV: "ye shall be as gods" / ESV: "you will be like God" — Hebrew
-       "kelohim" — like God/gods. The Hebrew "Elohim" can be translated
-       either way. ESV takes it as referring to God Himself; KJV's "gods"
-       (lowercase) suggests becoming divine beings. Both are legitimate
-       readings; ESV's is more common among modern scholars.
+v.8  — Hebrew "qol Yahweh Elohim mithallekh... leruach hayom"
+       KJV: "the voice of the LORD God walking in the garden in the cool of the day"
+       ESV: "the sound of the LORD God walking in the garden in the cool of the day"
+       ASV: "the voice of Jehovah God walking in the garden in the cool of the day"
+       NET: "the sound of the LORD God moving about in the orchard at the breezy time of the day"
+       WEB: "Yahweh God's voice walking in the garden in the cool of the day"
+       Analysis: NET is distinctive — "breezy time of the day" renders "ruach
+       hayom" emphasizing the wind/breeze element of "ruach" rather than
+       temperature. NET also uses "orchard" (consistent with ch.2) and
+       "moving about" instead of "walking." ASV uses "Jehovah"; WEB uses
+       "Yahweh."
 
-v.6  — KJV: "pleasant to the eyes" / ESV: "a delight to the eyes" — Both
-       equivalent. Hebrew "ta'avah" — desirable, delightful. Three categories
-       matching 1 John 2:16: lust of the flesh, lust of the eyes, pride of
-       life.
+v.15 — Hebrew "hu yeshupeka rosh ve'attah teshuphenu aqev"
+       KJV: "it shall bruise thy head, and thou shalt bruise his heel"
+       ESV: "he shall bruise your head, and you shall bruise his heel"
+       ASV: "he shall bruise thy head, and thou shalt bruise his heel"
+       NET: "he will attack your head, and you will attack his heel"
+       WEB: "he will bruise your head, and you will bruise his heel"
+       Analysis: The protoevangelium — first promise of Christ. KJV's "it"
+       obscures the masculine pronoun; ESV/ASV/NET/WEB correctly use "he"
+       (pointing to a specific male descendant). Hebrew "shuph" = crush/
+       strike. NET uses "attack" — more violent than "bruise" but loses the
+       crushing imagery. Head-crushing = fatal; heel-bruising = survivable.
 
-v.7  — KJV: "made themselves aprons" / ESV: "made themselves loincloths" —
-       Hebrew "chagoroth" — coverings for the waist/loins. ESV's "loincloths"
-       is more precise; KJV's "aprons" reflects 1611 English usage for a
-       waist-covering garment.
+v.16 — Hebrew "teshuqah" — desire/longing.
+       KJV: "thy desire shall be to thy husband, and he shall rule over thee"
+       ESV: "Your desire shall be contrary to your husband, but he shall rule over you"
+       ASV: "thy desire shall be to thy husband, and he shall rule over thee"
+       NET: "You will want to control your husband, but he will dominate you"
+       WEB: "your desire will be for your husband, and he will rule over you"
+       Analysis: NET is strikingly interpretive — "want to control" makes
+       explicit the conflict interpretation of "teshuqah" (cf. Gen 4:7 where
+       sin "desires" Cain). ESV adds "contrary to" — also conflict-oriented.
+       KJV/ASV/WEB leave "desire" ambiguous. This is one of the most debated
+       translation choices in Genesis.
 
-v.8  — KJV: "the voice of the LORD God walking" / ESV: "the sound of the
-       LORD God walking" — Hebrew "qol" — voice, sound, noise. ESV's "sound"
-       is more natural here (one hears the sound of someone walking); KJV's
-       "voice" is a more literal default for "qol."
+v.21 — Hebrew "kotnoth or" — tunics/garments of skin.
+       KJV: "coats of skins, and clothed them"
+       ESV: "garments of skins and clothed them"
+       ASV: "coats of skins, and clothed them"
+       NET: "garments made from skin and clothed them"
+       WEB: "coats of animal skins, and clothed them"
+       Analysis: All essentially equivalent. WEB adds "animal" for clarity.
+       NET adds "made from." An animal died to provide covering — the first
+       death in Scripture, the first blood shed, the first substitution. God
+       Himself provides covering — humanity's fig leaves are inadequate.
 
-v.15 — KJV: "it shall bruise thy head, and thou shalt bruise his heel" /
-       ESV: "he shall bruise your head, and you shall bruise his heel" —
-       Hebrew "hu yeshupeka rosh" — he (masculine pronoun) shall crush your
-       head. ESV correctly renders the masculine pronoun "he" (pointing to a
-       specific male descendant — Christ). KJV's "it" obscures the personal
-       reference. "Bruise" — Hebrew "shuph" — crush, strike. Head-crushing =
-       fatal; heel-bruising = painful but survivable.
-
-v.16 — KJV: "I will greatly multiply thy sorrow and thy conception" / ESV:
-       "I will surely multiply your pain in childbearing" — Hebrew "itstsabon"
-       — pain, toil, labor. ESV's "pain in childbearing" is clearer than
-       KJV's "sorrow and thy conception" which can confuse modern readers.
-
-v.17 — KJV: "cursed is the ground for thy sake" / ESV: "cursed is the
-       ground because of you" — Hebrew "ba'abureka" — on your account,
-       because of you. ESV is more transparent; KJV's "for thy sake" could
-       be misread as "for your benefit."
-
-v.19 — KJV: "In the sweat of thy face" / ESV: "By the sweat of your face"
-       — Both equivalent. Minor preposition difference only.
-
-v.21 — KJV: "coats of skins" / ESV: "garments of skins" — Hebrew "kotnoth
-       or" — tunics/garments of skin. Both equivalent. An animal died to
-       provide covering. The first death in Scripture. The first blood shed.
-       The first substitution. God Himself provides the covering — humanity's
-       fig leaves are inadequate.
-
-v.24 — KJV: "Cherubims, and a flaming sword which turned every way, to keep
-       the way" / ESV: "the cherubim and a flaming sword that turned every
-       way to guard the way" — Hebrew "lishmor" — to guard, keep, watch
-       over. ESV's "guard" is more specific than KJV's "keep." Also, KJV
-       adds English plural "-s" to "Cherubim" (already plural in Hebrew);
-       ESV correctly uses "cherubim" without the extra "s."
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "shrewder than any of the wild animals" — uses "shrewder"
-  (morally neutral term for intelligence) rather than "subtle/crafty"
-  (KJV/ESV), and "wild animals" instead of "beasts of the field."
-- v.8 — NET: "the breezy time of the day" — a distinctive rendering of
-  Hebrew "ruach hayom" (KJV/ESV: "cool of the day"), emphasizing the wind/
-  breeze element of "ruach" rather than temperature.
-- v.15 — WEB: "hostility between you and the woman...He will bruise your
-  head" — uses "hostility" (also NET) rather than "enmity" (KJV/ESV),
-  more accessible to modern readers. Correctly renders masculine "He."
-- v.16 — NET: "You will want to control your husband, but he will dominate
-  you" — a strikingly interpretive rendering. KJV/ESV: "thy desire shall be
-  to thy husband." NET makes explicit the conflict interpretation of Hebrew
-  "teshuqah" (desire/longing as desire to control, cf. Gen 4:7).
-- v.24 — NET: "angelic sentries who used the flame of a whirling sword" —
-  expands "cherubim" to "angelic sentries" for clarity and renders the Hebrew
-  construction as an instrumental use ("used the flame"), making the image
-  more vivid than KJV/ESV's more literal rendering.
+v.24 — Hebrew "hakkeruvim... lahat hacherev hammithappeketh"
+       KJV: "Cherubims, and a flaming sword which turned every way"
+       ESV: "the cherubim and a flaming sword that turned every way"
+       ASV: "the Cherubim, and the flame of a sword which turned every way"
+       NET: "angelic sentries who used the flame of a whirling sword"
+       WEB: "the cherubim, and the flame of a sword which turned every way"
+       Analysis: KJV incorrectly adds English plural "-s" to "Cherubim"
+       (already plural in Hebrew). NET expands to "angelic sentries" for
+       modern readers unfamiliar with cherubim, and renders the Hebrew as
+       instrumental ("used the flame") — making the image more vivid.
+       ASV/WEB translate "lahat" as "flame" rather than "flaming."
 
 GLOSSARY
 ------------------------------------

@@ -149,69 +149,127 @@ Charles Spurgeon:
   presumption. If you have only reverence without joy, you have slavish
   fear. But fire from God produces both."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "And it came to pass on the eighth day" / ESV: "On the eighth
-       day" — Hebrew "vay'hi ba-yom ha-sh'mini." KJV preserves the Hebrew
-       narrative formula "vay'hi" (and it came to pass). ESV streamlines.
-       The "eighth day" — after seven days of consecration. A new beginning.
+v.1  — Hebrew "vay'hi ba-yom ha-sh'mini" — and it came to pass on the
+       eighth day.
+       KJV: "And it came to pass on the eighth day"
+       ESV: "On the eighth day"
+       ASV: "And it came to pass on the eighth day"
+       NET: "On the eighth day"
+       WEB: "On the eighth day"
+       Analysis: KJV/ASV preserve the Hebrew narrative formula "vay'hi."
+       ESV/NET/WEB streamline. The "eighth day" — after seven days of
+       consecration. A new beginning.
 
-v.2  — KJV: "a young calf" / ESV: "a bull calf" — Hebrew "egel ben baqar"
-       — a calf, son of the herd. Both convey a young bovine. Some see
-       significance: Aaron's sin offering is a CALF — recalling the golden
-       calf incident (Exodus 32). The very animal of his sin becomes his
-       sin offering.
+v.2  — Hebrew "egel ben baqar" — a calf, son of the herd.
+       KJV: "a young calf"
+       ESV: "a bull calf"
+       ASV: "a calf of the herd"
+       NET: "a bull calf for a sin offering"
+       WEB: "a calf of the herd for a sin offering"
+       Analysis: NET specifies "bull calf" to clarify gender and age. Some
+       see significance: Aaron's sin offering is a CALF — recalling the
+       golden calf incident (Exodus 32). The very animal of his sin becomes
+       his sin offering.
 
-v.4  — KJV: "a meat offering mingled with oil" / ESV: "a grain offering
-       mixed with oil" — Hebrew "minchah b'lulah ba-shamen." Again, KJV's
-       "meat" = food (archaic); ESV's "grain" is accurate.
+v.4  — Hebrew "minchah b'lulah ba-shamen" — grain offering mixed with oil.
+       KJV: "a meat offering mingled with oil"
+       ESV: "a grain offering mixed with oil"
+       ASV: "a meal-offering mingled with oil"
+       NET: "a grain offering mixed with olive oil"
+       WEB: "a meal offering mixed with oil"
+       Analysis: Three different terms for "minchah": NET/ESV's "grain
+       offering," ASV/WEB's "meal-offering," and KJV's archaic "meat
+       offering." NET specifies "olive oil" (Hebrew "shemen") for clarity.
 
-v.4  — KJV: "for to day the LORD will appear unto you" / ESV: "for today
-       the LORD will appear to you" — Hebrew "ki ha-yom YHWH nir'ah
-       aleikhem." Both identical in meaning. The promise: God will make
-       Himself visible/manifest. This is the purpose of all the preparation.
+v.4  — Hebrew "ki ha-yom YHWH nir'ah aleikhem" — for today the LORD will
+       appear to you.
+       KJV: "for to day the LORD will appear unto you"
+       ESV: "for today the LORD will appear to you"
+       ASV: "Jehovah appeareth unto you"
+       NET: "the Lord is going to appear to you"
+       WEB: "Yahweh appears to you"
+       Analysis: NET uses future tense to build anticipation. The promise:
+       God will make Himself visible/manifest. This is the purpose of all
+       the preparation. The divine name difference is visible.
 
-v.7  — KJV: "Go unto the altar" / ESV: "Draw near to the altar" — Hebrew
-       "q'rav el ha-mizbe'ach" — draw near/approach. ESV is more literal.
-       "Draw near" — the same root as "qorban" (offering). To offer is to
-       draw near to God.
+v.7  — Hebrew "q'rav el ha-mizbe'ach" — draw near/approach to the altar.
+       KJV: "Go unto the altar"
+       ESV: "Draw near to the altar"
+       ASV: "Draw near unto the altar"
+       NET: "make atonement on behalf of yourself and on behalf of the
+       people"
+       WEB: "Go to the altar"
+       Analysis: ESV/ASV are more literal: "draw near" — the same root as
+       "qorban" (offering). To offer is to draw near to God. NET's "on
+       behalf of" (Hebrew "be'ad") emphasizes the representative nature of
+       priestly atonement.
 
-v.12 — KJV: "sprinkled round about upon the altar" / ESV: "threw it
-       against the sides of the altar" — Hebrew "vay'zar'qu" — to
-       dash/throw. ESV is more accurate (as in chapter 7). The blood is
-       dashed vigorously, not delicately sprinkled.
+v.12 — Hebrew "vay'zar'qu" — to dash/throw.
+       KJV: "sprinkled round about upon the altar"
+       ESV: "threw it against the sides of the altar"
+       ASV: "sprinkled upon the altar round about"
+       NET: "splashed it against the altar's sides"
+       WEB: "sprinkled it around on the altar"
+       Analysis: ESV/NET are more accurate. The blood is dashed vigorously,
+       not delicately sprinkled. Hebrew "zaraq" is distinct from "nazah"
+       (to sprinkle with finger).
 
-v.17 — KJV: "the meat offering... beside the burnt sacrifice of the
-       morning" / ESV: "the grain offering... besides the burnt offering
-       of the morning" — This indicates the regular daily burnt offering
-       (tamid) was already being offered. Aaron's inaugural offerings are
-       IN ADDITION to the daily sacrifice.
+v.17 — Hebrew "minchah" — grain offering. Hebrew "tamid" — daily/continual.
+       KJV: "the meat offering... beside the burnt sacrifice of the morning"
+       ESV: "the grain offering... besides the burnt offering of the morning"
+       ASV: "the meal-offering... besides the burnt-offering of the morning"
+       NET: "the grain offering... in addition to the morning burnt offering"
+       WEB: "the meal offering... besides the burnt offering of the morning"
+       Analysis: This indicates the regular daily burnt offering (tamid) was
+       already being offered. Aaron's inaugural offerings are IN ADDITION to
+       the daily sacrifice. NET's "in addition to" is the clearest phrasing.
 
-v.21 — KJV: "the right shoulder" / ESV: "the right thigh" — Hebrew "shoq
-       ha-yamin." As in chapter 7, ESV's "thigh" is anatomically more
-       accurate than KJV's "shoulder."
+v.21 — Hebrew "shoq ha-yamin" — the right thigh/leg.
+       KJV: "the right shoulder"
+       ESV: "the right thigh"
+       ASV: "the right thigh"
+       NET: "the right thigh"
+       WEB: "the right thigh"
+       Analysis: As in chapter 7, ESV/ASV/NET/WEB's "thigh" is anatomically
+       more accurate than KJV's "shoulder."
 
-v.22 — KJV: "Aaron lifted up his hand" / ESV: "Aaron lifted up his hands"
-       — Hebrew "yadav" (his hands, plural). ESV correctly renders the
-       plural. KJV's singular "hand" is a textual variant but the Hebrew
-       is plural — both hands raised in blessing.
+v.22 — Hebrew "yadav" (his hands, plural) — raised in blessing.
+       KJV: "Aaron lifted up his hand"
+       ESV: "Aaron lifted up his hands"
+       ASV: "Aaron lifted up his hands toward the people, and blessed them"
+       NET: "Aaron lifted his hands toward the people and blessed them"
+       WEB: "Aaron lifted up his hands toward the people, and blessed them"
+       Analysis: ESV/ASV/NET/WEB correctly render the plural. KJV's
+       singular "hand" is a textual variant but the Hebrew is plural — both
+       hands raised in blessing. The priestly blessing with uplifted hands
+       is the visible sign of God's favor.
 
-v.23 — KJV: "the glory of the LORD appeared unto all the people" / ESV:
-       "the glory of the LORD appeared to all the people" — Hebrew "kavod
-       YHWH" — the weighty, visible manifestation of God's presence.
-       Identical in both translations. "Kavod" — glory, weight, honor.
+v.23 — Hebrew "kavod YHWH" — the glory of the LORD.
+       KJV: "the glory of the LORD appeared unto all the people"
+       ESV: "the glory of the LORD appeared to all the people"
+       ASV: "the glory of Jehovah appeared unto all the people"
+       NET: "the glory of the Lord appeared to all the people"
+       WEB: "Yahweh's glory appeared to all the people"
+       Analysis: All identical in meaning. "Kavod" — glory, weight, honor.
+       The weighty, visible manifestation of God's presence.
 
-v.24 — KJV: "there came a fire out from before the LORD" / ESV: "fire came
-       out from before the LORD" — Hebrew "va-tetse esh mil'lifnei YHWH."
-       Both identical. The fire originates from God's presence — it is
-       supernatural, not natural. "From before the LORD" — from the Holy
-       of Holies, from the Shekinah presence.
-
-v.24 — KJV: "they shouted, and fell on their faces" / ESV: "they shouted
-       and fell on their faces" — Hebrew "vay'rannu vay'yiplu al
-       p'neihem." "Rannu" — to shout/sing for joy (not a scream of fear).
-       "Fell on their faces" — prostration in awe and worship. Joy AND
-       reverence together.
+v.24 — Hebrew "va-tetse esh mil'lifnei YHWH" — fire came out from before
+       the LORD. Hebrew "vay'rannu vay'yiplu al p'neihem" — they shouted
+       and fell on their faces.
+       KJV: "there came a fire out from before the LORD... they shouted,
+       and fell on their faces"
+       ESV: "fire came out from before the LORD... they shouted and fell on
+       their faces"
+       ASV: "there came forth fire from before Jehovah, and devoured them"
+       NET: "fire went out from the presence of the Lord and consumed them"
+       WEB: "fire came out from before Yahweh, and consumed"
+       Analysis: NET's "from the presence of the Lord" interprets "miliphne
+       YHWH" (from before the face of YHWH). "Rannu" — to shout/sing for
+       joy (not a scream of fear). "Fell on their faces" — prostration in
+       awe. Joy AND reverence together. Divine fire consumes the offering —
+       God's acceptance is visible and dramatic.
 
 GLOSSARY
 ------------------------------------

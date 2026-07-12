@@ -79,6 +79,15 @@ v.10  — Romans 8:14 — "As many as are led by the Spirit of God."
 COMMENTARY REFERENCES
 ------------------------------------
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.2 — KJV: "in thy sight shall no man living be justified" / NET: "no one alive is innocent before you" — NET replaces "justified" (legal/forensic) with "innocent" (moral state), a subtle but significant theological shift. Paul quotes this verse in Romans 3 using the justification framework.
+- v.7 — KJV: "lest I be like unto them that go down into the pit" / NET: "or I will join those descending into the grave" — NET replaces "pit" (Hebrew "bor") with "grave," making the death reference explicit. ASV/WEB retain "pit."
+- v.8 — KJV: "Cause me to hear thy lovingkindness in the morning" / ASV: "thy lovingkindness" / WEB: "your loving kindness" / NET: "May I hear about your loyal love in the morning" — Classic chesed pattern. NET adds "about" and changes the imperative to a wish ("May I hear").
+- v.10 — KJV: "thy spirit is good" / ASV: "Thy Spirit is good" / WEB: "Your Spirit is good" / NET: "May your kind presence" — NET paraphrases "Spirit" (Hebrew "ruach") as "kind presence," removing the personal pronoun and pneumatological reference.
+- v.11 — KJV: "Quicken me, O LORD" / ASV: "Quicken me, O Jehovah" / WEB: "Revive me, Yahweh" / NET: "O Lord...revive me" — Standard "quicken/revive" modernization pattern.
+- v.12 — KJV: "of thy mercy cut off mine enemies" / ASV: "in thy lovingkindness cut off mine enemies" / WEB: "In your loving kindness, cut off my enemies" / NET: "As a demonstration of your loyal love, destroy my enemies" — NET adds "As a demonstration of," making God's chesed the motive for judgment. The connection between mercy and enemy destruction is theologically bold.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. No one is justified before God (v.2). This is not false

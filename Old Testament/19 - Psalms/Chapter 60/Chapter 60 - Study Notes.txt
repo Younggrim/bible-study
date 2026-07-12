@@ -112,6 +112,22 @@ v.8 — KJV: "Philistia, triumph thou because of me" / ESV: "over
       shout of victory over Philistia. ESV is more consistent with
       the context of God's dominion over enemy nations.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.3 — ASV: "the wine of staggering" / NET: "intoxicating wine" vs. KJV: "the wine of astonishment" — Hebrew "yayin tar'elah" describes wine that causes reeling/staggering. KJV's "astonishment" is archaic; ASV's "staggering" and NET's "intoxicating" make the physical effect clearer. WEB: "wine that makes us stagger."
+
+- v.4 — NET: "You have given your loyal followers a rallying flag, so that they might seek safety from the bow" — NET follows ESV's emendation reading "qesheth" (bow) rather than KJV's "qoshet" (truth). Also renders "those who fear thee" as "loyal followers." WEB stays with KJV: "because of the truth."
+
+- v.7 — NET: "Ephraim is my helmet, Judah my royal scepter" vs. KJV: "Ephraim also is the strength of mine head; Judah is my lawgiver" — NET interprets "strength of my head" as "helmet" (military equipment metaphor) and adds "royal" to "scepter." ASV: "the defence of my head... my sceptre." WEB: "the defense of my head... my scepter."
+
+- v.8 — NET: "I will make Edom serve me" vs. KJV: "over Edom will I cast out my shoe" — NET completely removes the shoe-casting idiom (an ancient property-claim gesture) and substitutes a flat interpretation: "make Edom serve me." ASV/WEB preserve: "Upon Edom will I cast my shoe/I will throw my shoe on Edom."
+
+- v.8 — NET: "I will shout in triumph over Philistia" — NET reads this as God's victory shout (matching ESV), clarifying the ambiguity. ASV: "Philistia, shout thou because of me" — follows KJV's ironic/sarcastic reading. WEB: "I shout in triumph over Philistia."
+
+- v.11 — NET: "any help men might offer is futile" vs. KJV: "vain is the help of man" — NET adds "might offer" making it conditional. The Hebrew is absolute: human help IS vain. WEB/ASV: "the help of man is vain" — preserves the stark declaration.
+
+- v.12 — NET: "By God's power we will conquer; he will trample down our enemies" — NET adds "power" (not in Hebrew) and uses "conquer" for "do valiantly." WEB/ASV preserve "Through God we shall do valiantly" — keeping the Hebrew emphasis on courageous action rather than mere victory.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God can use defeat to teach dependence (vv.1-3). Israel's

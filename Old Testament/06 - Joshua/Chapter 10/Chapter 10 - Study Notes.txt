@@ -247,6 +247,16 @@ Southern Campaign — Joshua's systematic conquest of southern Canaan after
                Makkedah, Libnah, Lachish, Eglon, Hebron, Debir. Territory
                secured from Kadesh-barnea to Gaza to Gibeon.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "had utterly destroyed it" / WEB: "had utterly destroyed it" / NET: "annihilated it" — Hebrew "cherem" (herem/devoted to destruction) continues as a key term. NET consistently uses "annihilated" where ASV/WEB use "utterly destroyed," which better conveys the sacred-judgment dimension of total destruction.
+- v.8 — ASV: "I have delivered them into thy hands" / WEB: "I have delivered them into your hands" / NET: "I am handing them over to you" — Once again, NET uses present progressive where Hebrew uses the perfect (past) tense. KJV/ASV/WEB preserve God's declaration of accomplished fact — the victory is already determined before the battle begins.
+- v.10 — ASV: "Jehovah discomfited them before Israel" / WEB: "Yahweh confused them before Israel" / NET: "The Lord routed them before Israel" — Hebrew "hamam" means to confuse, throw into panic, put into commotion. ASV's archaic "discomfited" and WEB's "confused" retain the supernatural panic element; NET's "routed" implies military defeat without the divine terror dimension.
+- v.12 — ASV: "Then spake Joshua to Jehovah" / WEB: "Then Joshua spoke to Yahweh" / NET: "Joshua prayed to the Lord" — NET interprets "spoke to" as "prayed to." The Hebrew "amar" (to say/speak) is broader — Joshua speaks a command to the sun and moon in Yahweh's presence. It is poetic, bold, prophetic speech, not merely prayer.
+- v.13 — NET: "The event is recorded in the Scroll of the Upright One" / KJV: "Is not this written in the book of Jasher?" / ASV: "Is not this written in the book of Jashar?" — NET renders "sepher ha-yashar" (Book of Jashar/the Upright) as "Scroll of the Upright One," interpreting "Jashar" rather than preserving the proper name. KJV/ASV/WEB retain the Hebrew name "Jashar/Jasher" as a lost source document.
+- v.25 — ASV: "Fear not, nor be dismayed; be strong and of good courage" / WEB: "Don't be afraid, nor be dismayed. Be strong and courageous" / NET: "Don't be afraid and don't panic! Be strong and brave" — Joshua echoes God's threefold command to him (1:6,7,9). NET's "don't panic" and "brave" are colloquial; ASV/WEB/KJV preserve the formal commissioning language that ties this moment back to chapter 1.
+- v.40 — ASV: "he utterly destroyed all that breathed, as Jehovah, the God of Israel, commanded" / WEB: "he utterly destroyed all that breathed, as Yahweh, the God of Israel, commanded" / NET: "He annihilated everything that breathed, just as the Lord God of Israel had commanded" — The critical theological note: the destruction was commanded by God. All translations agree, but ASV/WEB's "utterly destroyed" (cherem language) and the divine name (Jehovah/Yahweh) make the theological framework more explicit.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God fights for His people (vv.11,14,42). Three times the chapter

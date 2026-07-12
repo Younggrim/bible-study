@@ -109,45 +109,112 @@ Charles Spurgeon:
   flesh' (Hebrews 10:19-20). Christ's torn flesh IS the torn veil. Enter
   boldly."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "cherubims of cunning work" / ESV: "cherubim skillfully worked
-       into them" — Hebrew "keruvim ma'aseh choshev." The KJV's "cunning
-       work" means skillful/artistic work (archaic English). The ESV's
-       "skillfully worked" is the modern equivalent. The cherubim were woven
-       INTO the fabric — not appliquéd on top.
+v.1  — Hebrew "keruvim ma'aseh choshev" — cherubim, work of a skilled craftsman.
+       KJV: "cherubims of cunning work"
+       ESV: "cherubim skillfully worked into them"
+       ASV: "the work of the skilful workman"
+       NET: "the work of an artistic designer"
+       WEB: "The work of the skillful workman"
+       Analysis: KJV's "cunning work" means skillful/artistic work (archaic
+       English). ESV "skillfully worked" is the modern equivalent. NET uses
+       "artistic designer" — an interpretive rendering emphasizing creative
+       design rather than mere craftsmanship. The cherubim were woven INTO
+       the fabric — not appliquéd on top.
 
-v.6  — KJV: "taches" / ESV: "clasps" — Hebrew "qerasim." The KJV's
-       "taches" is archaic English for clasps/hooks. The ESV uses the modern
-       word. These gold clasps joined the two sets of curtains into one
-       unified structure.
+v.2  — Hebrew "esrim ushmone ammah... arba ammot" — twenty-eight cubits...
+       four cubits.
+       KJV: "eight and twenty cubits... four cubits"
+       ESV: "twenty-eight cubits... four cubits"
+       ASV: "eight and twenty cubits... four cubits"
+       NET: "42 feet... 6 feet"
+       WEB: "twenty-eight cubits... four cubits"
+       Analysis: NET consistently converts ancient measurements to modern
+       feet/inches throughout the chapter. While accessible, this removes
+       readers from the original measurement system. ASV/WEB/KJV retain
+       cubits, preserving the biblical terminology that connects to other
+       Tabernacle/Temple descriptions.
 
-v.14 — KJV: "badgers' skins" / ESV: "goatskins" — Hebrew "orot techashim."
-       Same translation issue as 25:5. The identity of "tachash" remains
-       uncertain. The outer covering was utilitarian — protecting the beauty
-       within from weather.
+v.6  — Hebrew "qerasim... echad" — clasps... one.
+       KJV: "taches... it shall be one tabernacle"
+       ESV: "clasps... it shall be a single tabernacle"
+       ASV: "clasps of gold... one tabernacle"
+       NET: "50 gold clasps... so that the tabernacle is a unit"
+       WEB: "fifty clasps of gold... one tabernacle"
+       Analysis: All agree on "clasps" (vs. KJV's archaic "taches"). NET
+       interprets the Hebrew "echad" (one) as "a unit," making the unity
+       concept explicit. The gold clasps join the inner curtains into one
+       unified structure — many parts forming a single whole.
 
-v.15 — KJV: "boards" / ESV: "upright frames" — Hebrew "qerashim." The KJV's
-       "boards" suggests solid planks; the ESV's "frames" suggests open
-       frameworks. Archaeological evidence and the Hebrew suggest frames
-       rather than solid boards — allowing the inner curtains to be visible
-       from inside.
+v.14 — Hebrew "orot techashim" — skins of tachash (uncertain animal).
+       KJV: "badgers' skins"
+       ESV: "goatskins"
+       ASV: "sealskins"
+       NET: "fine leather"
+       WEB: "sea cow hides"
+       Analysis: Same divergence as chapter 25:5. The outer covering of the
+       Tabernacle used this uncertain material. ASV identifies seals, WEB
+       identifies sea cows (dugongs), NET avoids animal identification
+       entirely. The theological point remains: the outer covering was plain
+       and utilitarian, hiding the beauty within.
 
-v.19 — KJV: "sockets of silver" / ESV: "bases of silver" — Hebrew "adnei
-       kesef." The KJV's "sockets" and the ESV's "bases" both describe the
-       silver foundation blocks into which the frames were set. Each base
-       weighed about 75 pounds (a talent of silver). Silver represents
-       redemption — the entire structure rests on redemption.
+v.15 — Hebrew "qerashim" — frames/boards.
+       KJV: "boards"
+       ESV: "upright frames"
+       ASV: "boards"
+       NET: "frames"
+       WEB: "boards"
+       Analysis: KJV/ASV/WEB "boards" suggests solid planks; ESV/NET "frames"
+       suggests open frameworks. Archaeological evidence and the Hebrew
+       suggest frames rather than solid boards — allowing the inner curtains
+       to be visible from inside. NET also converts measurements: "15 feet
+       long" instead of cubits (v.16).
 
-v.31 — KJV: "vail" / ESV: "veil" — Hebrew "parokhet" — a dividing curtain,
-       a screen of separation. The KJV uses the archaic spelling "vail";
-       the ESV uses modern "veil." This is THE veil — the barrier between
-       the Holy Place and the Most Holy Place, torn at Christ's death.
+v.19 — Hebrew "adnei kesef" — bases/sockets of silver.
+       KJV: "sockets of silver"
+       ESV: "bases of silver"
+       ASV: "sockets of silver"
+       NET: "silver bases"
+       WEB: "sockets of silver"
+       Analysis: KJV/ASV/WEB "sockets" and ESV/NET "bases" both describe the
+       silver foundation blocks into which the frames were set. Each weighed
+       about 75 pounds (a talent of silver). Silver represents redemption —
+       the entire structure rests on redemption.
 
-v.33 — KJV: "the most holy" / ESV: "the Most Holy" — Hebrew "qodesh
-       haqqodashim" — the Holy of Holies, the holiest of all. The
-       superlative: the holiest place in the holiest structure on earth.
-       Only the high priest entered, once a year, with blood.
+v.31 — Hebrew "parokhet" — a dividing curtain, a screen of separation.
+       KJV: "vail"
+       ESV: "veil"
+       ASV: "veil"
+       NET: "a special curtain"
+       WEB: "veil"
+       Analysis: KJV uses the archaic spelling "vail"; ESV/ASV/WEB use
+       "veil." NET uses "a special curtain," which is technically accurate
+       but obscures the traditional connection to Matthew 27:51 — the veil
+       torn at Christ's death. The theologically loaded term "veil" is
+       preferred for preserving that connection.
+
+v.33 — Hebrew "qodesh haqqodashim" — the Holy of Holies.
+       KJV: "the holy place and the most holy"
+       ESV: "the Holy Place from the Most Holy"
+       ASV: "the holy place and the most holy"
+       NET: "the Holy Place and the Most Holy Place"
+       WEB: "the holy place from the most holy"
+       Analysis: NET capitalizes both as proper names and adds "Place" for
+       clarity. All convey the same meaning, but NET's formal capitalization
+       treats these as technical architectural terms rather than descriptive
+       phrases. The superlative: the holiest place in the holiest structure.
+
+v.34 — Hebrew "kapporet" — the mercy seat / atonement lid.
+       KJV: "mercy seat upon the ark of the testimony in the most holy place"
+       ESV: "the mercy seat on the ark of the testimony in the Most Holy Place"
+       ASV: "the mercy-seat upon the ark of the testimony in the most holy place"
+       NET: "the atonement lid on the ark of the testimony in the Most Holy Place"
+       WEB: "the mercy seat on the ark of the testimony in the most holy place"
+       Analysis: NET's "atonement lid" (vs. "mercy seat") again emphasizes
+       theology over tradition. Combined with "Most Holy Place," NET reads
+       more like a theological commentary than a translation. ASV/WEB/KJV
+       retain the traditional "mercy seat."
 
 GLOSSARY
 ------------------------------------

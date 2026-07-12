@@ -244,6 +244,20 @@ Lebanon         a forest. Used as an armory (Isaiah 22:8) and
               the Temple — reflects the scale of Solomon's royal
               establishment.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.14 — ASV: "he was filled with wisdom and understanding and skill, to work all works in brass" / WEB: "he was filled with wisdom and understanding and skill, to work all works in brass" / NET: "He had the skill and knowledge to make all kinds of works of bronze" — Hebrew "chokmah, tevunah, da'at" = wisdom, understanding, knowledge — the same three terms used for Bezalel, the tabernacle builder (Exodus 31:3). ASV/WEB preserve all three; NET reduces to "skill and knowledge," losing the direct linguistic parallel with the Spirit-filled craftsman of the tabernacle.
+
+- v.48 — ASV: "the golden altar, and the table whereupon the showbread was" / WEB: "the golden altar and the table that the show bread was on" / NET: "the gold altar; the gold table on which was kept the Bread of the Presence" — Hebrew "lechem ha-panim" = literally "bread of the face/presence." KJV/ASV use "shewbread" (an archaic English compound); WEB uses "show bread"; NET uses "Bread of the Presence" which captures the Hebrew meaning — bread set before God's face.
+
+- v.1 — ASV: "Solomon was building his own house thirteen years" / WEB: "Solomon was building his own house thirteen years" / NET: "Solomon took 13 years to build his palace" — NET uses "palace" for Hebrew "bayit" (house). The same Hebrew word is used for both Solomon's residence and God's temple (bayit YHWH). The author's point — that Solomon spent 13 years on his own house but only 7 on God's — is more striking when the same word is used for both structures.
+
+- v.12 — ASV: "the inner court of the house of Jehovah" / WEB: "the inner court of Yahweh's house" / NET: "the inner courtyard of the Lord's temple" — Standard divine name variation. ASV/WEB maintain "house" (bayit) for the temple; NET again shifts to "temple," obscuring the house/home theology.
+
+- v.21 — ASV: "Jachin... Boaz" / WEB: "Jachin... Boaz" / NET: "Yakin... Boaz" — NET transliterates the first pillar name differently: "Yakin" (from Hebrew yakhin = "he establishes") vs. traditional English "Jachin." Both are valid transliterations. The pillar names together form a theological statement: "He establishes" (Jachin) "in strength" (Boaz) — affirming that God establishes His house by His power.
+
+- v.23 — ASV: "he made the molten sea" / WEB: "He made the molten sea" / NET: "He also made the large bronze basin called 'The Sea'" — NET adds interpretive labels ("large bronze basin called 'The Sea'"), while ASV/WEB use the direct Hebrew "molten sea" (yam mutsaq). The Hebrew simply calls it "the sea" — a bold, cosmological term suggesting the temple contains/conquers the primordial waters of chaos (Genesis 1:2; Psalm 93:3-4).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God values artistic excellence in worship (v.14). Hiram was

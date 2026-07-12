@@ -169,6 +169,22 @@ ESV's "way" translates the Hebrew "derek" (path/way of life) more
 clearly for modern readers. The point is that a rightly-ordered
 life — not mere words — demonstrates genuine faith.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "The Mighty One, God, Jehovah, hath spoken" / WEB: "The Mighty One, God, Yahweh, speaks" — Both preserve all three divine names explicitly. NET renders it "El, God, the Lord." The triple naming (El, Elohim, YHWH) is strikingly clear in ASV/WEB with the personal covenant name visible.
+
+- v.2 — NET: "From Zion, the most beautiful of all places, God has come in splendor" — NET interprets "the perfection of beauty" (miklal-yophi) as a superlative comparison ("most beautiful of all places"), while KJV/ASV/WEB keep the absolute: "the perfection of beauty." NET also changes "shined" to "come in splendor."
+
+- v.5 — NET: "those who ratified a covenant with me by sacrifice" vs. KJV: "those that have made a covenant with me by sacrifice" — NET's "ratified" is more precise than "made," reflecting the Hebrew "karat" (cut) which refers to the formal ratification ceremony involving sacrifice.
+
+- v.6 — NET: "The heavens declare his fairness" vs. KJV: "the heavens shall declare his righteousness" — NET renders "tsedek" (righteousness) as "fairness," significantly weakening the term. Righteousness encompasses divine justice, moral perfection, and covenant faithfulness — "fairness" captures only impartiality.
+
+- v.14 — ASV/WEB: "Offer unto God the sacrifice of thanksgiving" — Both add "sacrifice of" (as does ESV), making explicit that thanksgiving itself IS a sacrifice. NET: "Present to God a thank offering" — uses sacrificial temple language ("thank offering") connecting it to the Levitical todah offering.
+
+- v.21 — NET: "But now I will condemn you and state my case against you" vs. KJV: "I will reprove thee, and set them in order before thine eyes" — NET uses strong legal language ("condemn... state my case"), making the courtroom setting explicit. WEB: "I will rebuke you, and accuse you in front of your eyes."
+
+- v.23 — NET: "To whoever obeys my commands, I will reveal my power to deliver" vs. KJV: "to him that ordereth his conversation aright will I shew the salvation of God" — NET interprets "ordering one's way" as obedience and "salvation of God" as God's "power to deliver," losing the broader theological concept of salvation.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God does not need our worship — He wants our hearts. This

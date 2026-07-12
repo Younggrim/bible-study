@@ -112,6 +112,20 @@ v.11 — KJV: "thy paths drop fatness" / ESV: "your wagon tracks
        travels through the land, abundance flows in its tracks like
        spilled grain or oil.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.3 — ASV: "thou wilt forgive them" / WEB: "you atoned for our transgressions" / NET: "you forgive our acts of rebellion" vs. KJV: "thou shalt purge them away" — WEB uniquely uses "atoned" (Hebrew "kaphar" — to cover/atone), making the sacrificial action explicit. NET specifies "acts of rebellion" for "transgressions." KJV's "purge" emphasizes cleansing.
+
+- v.5 — WEB: "By awesome deeds of righteousness, you answer us, God of our salvation. You who are the hope of all the ends of the earth" — WEB renders "confidence" (KJV) / "trust" as "hope" for Hebrew "mivtach." NET: "All the ends of the earth trust in you."
+
+- v.8 — NET: "you cause those living in the east and west to praise you" — NET interprets "outgoings of the morning and evening" as geographic directions (east and west), while KJV preserves the temporal imagery: dawn and dusk themselves rejoice. WEB: "You call the morning's dawn and the evening with songs of joy."
+
+- v.9 — NET: "God's streams are full of water; you provide grain for the people of the earth" — NET specifies "people of the earth" (not in Hebrew which just says "them"). WEB: "The river of God is full of water. You provide them grain" — stays closer to Hebrew. The "river of God" likely refers to heavenly waters/rain.
+
+- v.11 — NET: "you leave abundance in your wake" / WEB: "Your carts overflow with abundance" vs. KJV: "thy paths drop fatness" — Three different images of the same Hebrew. WEB specifies "carts" (implied by wagon tracks); NET uses "wake" (like a ship); KJV preserves the more enigmatic "paths drop fatness."
+
+- v.12 — NET: "The pastures in the wilderness glisten with moisture" — NET interprets "drop" (Hebrew "ra'aph") as moisture glistening, while KJV/ASV have "drop upon the pastures" (rain falling). WEB: "The wilderness grasslands overflow" — yet another reading.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God hears prayer — that's His character (v.2). Prayer is not

@@ -134,56 +134,130 @@ Charles Spurgeon:
   all things are naked and opened unto the eyes of Him with whom we have
   to do (Hebrews 4:13)."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "every leper, and every one that hath an issue" / ESV:
-       "everyone who is leprous or has a discharge" — Hebrew "kol tsarua
-       v'khol zav." "Tsarua" = one afflicted with skin disease (broader
-       than modern leprosy). "Zav" = one with a bodily discharge
-       (Leviticus 15). Both render the terms accurately.
+v.2  — Hebrew "kol tsarua v'khol zav" — every leprous one and every one
+       with a discharge.
+       KJV: "every leper, and every one that hath an issue"
+       ESV: "everyone who is leprous or has a discharge"
+       ASV: "every leper"
+       NET: "every diseased person"
+       WEB: "every leper"
+       Analysis: "Tsarua" = one afflicted with skin disease (broader than
+       modern leprosy). "Zav" = one with a bodily discharge (Leviticus 15).
+       NET avoids "leper" for the more accurate "diseased person." The
+       unclean must be sent outside to preserve the camp's holiness.
 
-v.3  — KJV: "in the midst whereof I dwell" / ESV: "in the midst of which
-       I dwell" — Hebrew "asher ani shokhein b'tokham" — where I am
-       dwelling in their midst. God's ongoing, present-tense dwelling
-       among them is the reason for purity.
+v.2  — Hebrew "shalach" — to send away, expel.
+       KJV: "put out of the camp"
+       ESV: "put out of the camp"
+       ASV: "put out of the camp"
+       NET: "expel from the camp"
+       WEB: "put out of the camp"
+       Analysis: NET uses "expel" where others use "put out." Both convey
+       the necessary separation of the unclean from God's dwelling place.
 
-v.7  — KJV: "recompense his trespass with the principal thereof" / ESV:
-       "make full restitution for his wrong" — Hebrew "v'heshiv et ashamo
-       b'rosho" — return his guilt in its head/capital. KJV's "principal"
-       means the full original amount. ESV's "full restitution" captures
-       the same meaning.
+v.3  — Hebrew "asher ani shokhein b'tokham" — where I am dwelling in
+       their midst.
+       KJV: "in the midst whereof I dwell"
+       ESV: "in the midst of which I dwell"
+       ASV: "in the midst whereof I dwell"
+       NET: "among which I live"
+       WEB: "in the midst of which I dwell"
+       Analysis: God's ongoing, present-tense dwelling among them is the
+       reason for purity. The reason for camp purity is not social hygiene
+       but God's presence. NET's "live" and KJV/ESV/ASV/WEB's "dwell" both
+       translate "shokhein" — God tabernacles among them.
 
-v.12 — KJV: "go aside" / ESV: "goes astray" — Hebrew "tisteh" — to turn
-       aside, go astray, deviate. A euphemism for sexual unfaithfulness.
-       The word implies wandering from the proper path.
+v.6  — Hebrew "lim'ol ma'al ba-YHWH" — to trespass unfaithfully against
+       the LORD.
+       KJV: "to do a trespass against the LORD"
+       ESV: "breaking faith with the LORD"
+       ASV: "so as to do a trespass against Jehovah, and that soul be guilty"
+       NET: "and that person is found guilty"
+       WEB: "to do a trespass against Yahweh"
+       Analysis: Sin against a neighbor is trespass against God. ASV
+       includes "against Jehovah"; WEB uses "Yahweh"; KJV/ESV use "the
+       LORD." The divine name personalizes the offense. NET focuses on the
+       result ("found guilty") rather than the direction of the offense.
 
-v.15 — KJV: "barley meal" / ESV: "barley flour" — Hebrew "qemach s'orim"
-       — barley flour. Barley is the grain of the poor and of mourning
-       (not the fine wheat flour of joyful offerings). No oil (joy) or
-       frankincense (prayer/worship) — this is a somber, investigative
-       offering.
+v.7  — Hebrew "v'heshiv et ashamo b'rosho" — return his guilt in its
+       head/capital.
+       KJV: "recompense his trespass with the principal thereof"
+       ESV: "make full restitution for his wrong"
+       ASV: "make restitution for his guilt in full"
+       NET: "make full reparation"
+       WEB: "make restitution for his guilt in full"
+       Analysis: KJV's "principal" means the full original amount. ESV/ASV/
+       WEB's "full restitution" captures the same meaning. NET uses
+       "reparation." All convey that the original amount must be returned
+       completely before the one-fifth penalty is added.
 
-v.18 — KJV: "uncover the woman's head" / ESV: "unbind the hair of the
-       woman's head" — Hebrew "u-fara et rosh ha-ishah" — to let loose/
-       unbind the head. Loosening the hair signifies exposure, vulnerability,
-       and the removal of normal dignity. She stands exposed before God's
-       judgment.
+v.12 — Hebrew "tisteh" — to turn aside, go astray, deviate.
+       KJV: "go aside"
+       ESV: "goes astray"
+       ASV: "go aside"
+       NET: "goes astray"
+       WEB: "go astray"
+       Analysis: A euphemism for sexual unfaithfulness. The word implies
+       wandering from the proper path. KJV/ASV's "go aside" is more
+       neutral; ESV/NET/WEB's "goes astray" carries stronger moral
+       connotation.
 
-v.21 — KJV: "thy thigh to rot" / ESV: "your thigh fall away" — Hebrew
-       "y'rekhekh nofelet" — your thigh/hip falling. The exact medical
-       meaning is debated — likely refers to reproductive organs wasting
-       or a miscarriage/barrenness. KJV's "rot" is more graphic; ESV's
-       "fall away" is more literal to the Hebrew.
+v.15 — Hebrew "qemach s'orim" — barley flour; "minchat q'na'ot" —
+       offering of jealousy/suspicion.
+       KJV: "barley meal... an offering of jealousy, an offering of memorial"
+       ESV: "barley flour... a grain offering of jealousy"
+       ASV: "barley meal... a meal-offering of jealousy, a meal-offering of memorial"
+       NET: "barley flour... a grain offering of suspicion, a grain offering for remembering"
+       WEB: "barley meal... a meal offering of jealousy, a meal offering of memorial"
+       Analysis: Barley is the grain of the poor and of mourning (not fine
+       wheat flour). No oil or frankincense — stripped of all elements of
+       joy. NET uses "suspicion" where others use "jealousy" (Hebrew
+       "qena'ot"). The offering memorializes the accusation before God.
 
-v.22 — KJV: "thy belly to swell" / ESV: "your womb swell" — Hebrew
-       "bitnekh la-ts'bot" — your belly/womb to swell/distend. The
-       physical manifestation of the curse — visible evidence of God's
-       judgment.
+v.18 — Hebrew "u-fara et rosh ha-ishah" — to let loose/unbind the head.
+       KJV: "uncover the woman's head"
+       ESV: "unbind the hair of the woman's head"
+       ASV: "let the hair of the woman's head go loose"
+       NET: "uncover the woman's head"
+       WEB: "let the woman's hair hang loose"
+       Analysis: Loosening the hair signifies exposure, vulnerability, and
+       the removal of normal dignity. She stands exposed before God's
+       judgment. ESV/ASV/WEB specify the hair; KJV/NET say "uncover."
 
-v.23 — KJV: "blot them out with the bitter water" / ESV: "wash them off
-       into the water of bitterness" — Hebrew "machah el mei ha-marim" —
-       wipe/blot into the bitter waters. The written curses are dissolved
-       into the water — the woman literally drinks the judgment.
+v.21 — Hebrew "y'rekhekh nofelet" — your thigh/hip falling.
+       KJV: "the LORD make thee a curse and an oath among thy people... thy thigh to rot"
+       ESV: "the LORD make you a curse... your thigh fall away"
+       ASV: "Jehovah make thee a curse and an oath among thy people"
+       NET: "May the Lord make you an attested curse among your people"
+       WEB: "May Yahweh make you a curse and an oath among your people"
+       Analysis: The exact medical meaning is debated — likely refers to
+       reproductive organs wasting or barrenness. KJV's "rot" is more
+       graphic; ESV's "fall away" is more literal. The "waters of bitterness"
+       test is an appeal to divine omniscience — God alone knows the truth
+       of hidden sin.
+
+v.22 — Hebrew "bitnekh la-ts'bot" — your belly/womb to swell/distend.
+       KJV: "thy belly to swell"
+       ESV: "your womb swell"
+       ASV: "thy body to swell"
+       NET: "your abdomen to swell"
+       WEB: "your body to swell"
+       Analysis: The physical manifestation of the curse — visible evidence
+       of God's judgment. ESV specifies "womb"; NET uses "abdomen"; KJV
+       says "belly"; ASV/WEB use "body." All refer to the same physical
+       sign.
+
+v.23 — Hebrew "machah el mei ha-marim" — wipe/blot into the bitter waters.
+       KJV: "blot them out with the bitter water"
+       ESV: "wash them off into the water of bitterness"
+       ASV: "blot them out into the water of bitterness"
+       NET: "wash them off into the water of bitterness"
+       WEB: "blot them into the water of bitterness"
+       Analysis: The written curses are dissolved into the water — the
+       woman literally drinks the judgment. KJV's "blot out" suggests
+       erasure; ESV/NET's "wash off" emphasizes transfer into the water.
 
 GLOSSARY
 ------------------------------------

@@ -115,56 +115,91 @@ Charles Spurgeon:
   imprison him in a dungeon — but the dream survives. God's purposes are
   indestructible. They outlast every human attempt to destroy them."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "generations of Jacob" / ESV: "generations of Jacob" — Both
-       identical. The tenth toledoth. Though titled "Jacob's generations,"
-       the story is about Joseph. Jacob's legacy IS Joseph's story.
+v.2  — Hebrew "toledoth Ya'aqov" — generations of Jacob.
+       KJV: "generations of Jacob"
+       ESV: "generations of Jacob"
+       ASV: "generations of Jacob"
+       NET: "the account of Jacob"
+       WEB: "the history of the generations of Jacob"
+       Analysis: All equivalent. The tenth toledoth. NET renders as "account"
+       for modern readability. Though titled "Jacob's generations," the story
+       is about Joseph. Jacob's legacy IS Joseph's story. NET's "bad report"
+       for "dibbatam ra'ah" is closest to the Hebrew.
 
-v.3  — KJV: "coat of many colours" / ESV: "robe of many colors" — Both
-       equivalent (coat vs. robe). Hebrew "ketonet passim" — a long-sleeved,
-       ornamental tunic. Possibly multi-colored or full-length (reaching
-       palms and soles). A garment of distinction — marking Joseph as the
-       favored heir.
+v.3  — Hebrew "ketonet passim" — a long-sleeved, ornamental tunic.
+       KJV: "a coat of many colours"
+       ESV: "a robe of many colors"
+       ASV: "a coat of many colors"
+       NET: "a special tunic"
+       WEB: "a coat of many colors"
+       Analysis: KJV/ESV/ASV/WEB all render "passim" as "many colors." NET
+       uses "special tunic" without committing to the uncertain meaning —
+       Hebrew "passim" may mean long-sleeved, richly ornamented, full-length
+       (reaching palms and soles), or multicolored. A garment of distinction
+       marking Joseph as the favored heir.
 
-v.11 — KJV: "observed the saying" / ESV: "kept the saying in mind" — ESV
-       clarifies the meaning. Hebrew "shamar" — kept, guarded, pondered.
-       Jacob recognized the dreams might be from God.
+v.11 — Hebrew "shamar" — kept, guarded, pondered.
+       KJV: "observed the saying"
+       ESV: "kept the saying in mind"
+       ASV: "kept the saying in mind"
+       NET: "pondered the matter"
+       WEB: "kept the saying in mind"
+       Analysis: KJV's "observed" is less clear to modern readers. ESV/ASV/WEB
+       clarify with "kept the saying in mind." NET uses "pondered." Jacob
+       recognized the dreams might be from God.
 
-v.20 — KJV: "this dreamer" / ESV: "this dreamer" — Both identical. Hebrew
-       "ba'al hachalomot" — literally "master of dreams" or "this lord of
-       dreams." Spoken mockingly.
+v.20 — Hebrew "ba'al hachalomot" — master/lord of dreams.
+       KJV: "this dreamer"
+       ESV: "this dreamer"
+       ASV: "this dreamer"
+       NET: "we'll see how his dreams turn out!"
+       WEB: "this dreamer"
+       Analysis: Hebrew literally means "master of dreams" or "lord of
+       dreams" — spoken mockingly. KJV/ESV/ASV/WEB all render simply as
+       "this dreamer." NET captures the brothers' colloquial irony with
+       "we'll see how his dreams turn out!"
 
-v.28 — KJV: "twenty pieces of silver" / ESV: "twenty shekels of silver" —
-       ESV specifies the unit of currency (shekels). The price of a young
-       male slave in the ancient Near East (cf. Leviticus 27:5). Jesus was
-       sold for thirty (the price of an adult slave, Exodus 21:32).
+v.28 — Hebrew "esrim kasef" — twenty silver (shekels).
+       KJV: "twenty pieces of silver"
+       ESV: "twenty shekels of silver"
+       ASV: "twenty pieces of silver"
+       NET: "twenty pieces of silver"
+       WEB: "twenty pieces of silver"
+       Analysis: ESV specifies the unit of currency (shekels). The price of
+       a young male slave in the ancient Near East (cf. Leviticus 27:5).
+       Jesus was sold for thirty (the price of an adult slave, Exodus 21:32).
 
-v.31 — KJV: "killed a kid of the goats, and dipped the coat in the blood" /
-       ESV: "slaughtered a goat and dipped the robe in the blood" — Both
-       equivalent. Poetic justice: Jacob deceived Isaac with a goat (27:9);
-       now his sons deceive him with a goat. You reap what you sow.
+v.31 — Hebrew "shechatu se'ir izzim" — slaughtered a goat.
+       KJV: "killed a kid of the goats, and dipped the coat in the blood"
+       ESV: "slaughtered a goat and dipped the robe in the blood"
+       ASV: "killed a he-goat, and dipped the coat in the blood"
+       NET: "slaughtered a young goat and dipped the tunic in the blood"
+       WEB: "killed a male goat, and dipped the coat in the blood"
+       Analysis: All equivalent. Poetic justice: Jacob deceived Isaac with a
+       goat (27:9); now his sons deceive him with a goat. The irony is
+       preserved across all translations. You reap what you sow.
 
-v.36 — KJV: "Potiphar, an officer of Pharaoh's" / ESV: "Potiphar, an
-       officer of Pharaoh, the captain of the guard" — ESV adds the
-       clarifying title. Egyptian name meaning "he whom Ra (the sun god)
-       has given." Captain of Pharaoh's guard. Joseph enters the household
-       of one of Egypt's most powerful men.
+v.35 — Hebrew "vayyevk otho" — and he wept for him.
+       KJV: "thus his father wept for him"
+       ESV: "thus his father wept for him"
+       ASV: "thus his father wept for him"
+       NET: "So his father wept for him"
+       WEB: "His father wept for him"
+       Analysis: All equivalent. Jacob who deceived his own father is now
+       deceived by his sons — irony preserved across all versions.
 
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "Joseph brought back a bad report about them to their father" —
-  all translations agree on "bad/evil report." NET's "bad report" is closest
-  to the Hebrew "dibbatam ra'ah."
-- v.3 — NET: "he made a special tunic for him" — renders Hebrew "ketonet
-  passim" as "special tunic" without committing to "many colours" (KJV) or
-  "of many colors" (ESV). WEB: "a coat of many colors." The Hebrew "passim"
-  is uncertain: long-sleeved, richly ornamented, or multicolored.
-- v.20 — NET: "we'll see how his dreams turn out!" — colloquial and ironic,
-  where KJV has "we shall see what will become of his dreams."
-- v.35 — NET: "So his father wept for him" — renders Jacob's grief. WEB uses
-  the same basic rendering across translations. The irony: Jacob who deceived
-  his own father is now deceived by his sons.
+v.36 — Hebrew "Potiphar, seris Par'oh" — Potiphar, officer of Pharaoh.
+       KJV: "Potiphar, an officer of Pharaoh's"
+       ESV: "Potiphar, an officer of Pharaoh, the captain of the guard"
+       ASV: "Potiphar, an officer of Pharaoh's, the captain of the guard"
+       NET: "Potiphar, one of Pharaoh's officials, the captain of the guard"
+       WEB: "Potiphar, an officer of Pharaoh's, the captain of the guard"
+       Analysis: KJV alone omits the clarifying title "captain of the guard."
+       ESV/ASV/NET/WEB all include it. Egyptian name meaning "he whom Ra
+       (the sun god) has given." Joseph enters the household of one of
+       Egypt's most powerful men.
 
 GLOSSARY
 ------------------------------------

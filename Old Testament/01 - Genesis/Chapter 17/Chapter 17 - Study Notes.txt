@@ -95,52 +95,72 @@ Charles Spurgeon:
   What seems impossible to you is nothing to Me. Walk before Me — live in My
   presence. Be perfect — be wholehearted. And watch what the Almighty can do.'"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "Almighty God" / ESV: "God Almighty" — Both equivalent (word
-       order differs). Hebrew "El Shaddai." "Shaddai" possibly from "shad"
-       (breast — the all-sufficient nourisher) or "shadad" (to overpower —
-       the almighty one). First use of this divine name. KJV: "be thou
-       perfect" / ESV: "be blameless" — ESV's "blameless" is a clearer
-       modern rendering of Hebrew "tamim" (wholehearted, complete).
+v.1  — Hebrew "El Shaddai... hithhallek lephanay vehyeh tamim"
+       KJV: "I am the Almighty God; walk before me, and be thou perfect"
+       ESV: "I am God Almighty; walk before me, and be blameless"
+       ASV: "I am God Almighty; walk before me, and be thou perfect"
+       NET: "I am the Sovereign God. Walk before me and be blameless"
+       WEB: "I am God Almighty. Walk before me, and be blameless"
+       Analysis: NET renders "El Shaddai" as "Sovereign God" — emphasizing
+       authority over power, unlike "Almighty" (KJV/ESV/ASV/WEB). "Shaddai"
+       possibly from "shad" (breast = all-sufficient nourisher) or "shadad"
+       (to overpower). KJV/ASV's "perfect" can mislead — Hebrew "tamim"
+       means wholehearted/complete, not sinless perfection. ESV/NET/WEB's
+       "blameless" is clearer.
 
-v.5  — KJV: "Abraham" / ESV: "Abraham" — Both identical. Hebrew "Avraham" —
-       "father of a multitude." Changed from "Abram" ("exalted father"). God
-       inserts the "ah" sound — from His own name (Yahweh) into Abraham's.
+v.5  — Hebrew "Avraham" — father of a multitude (name change from Abram).
+       KJV: "Neither shall thy name any more be called Abram, but thy name shall be Abraham"
+       ESV: "No longer shall your name be called Abram, but your name shall be Abraham"
+       ASV: "Neither shall thy name any more be called Abram, but thy name shall be Abraham"
+       NET: "No longer will your name be Abram. Instead, your name will be Abraham"
+       WEB: "Your name will no longer be called Abram, but your name will be Abraham"
+       Analysis: All essentially equivalent. "Avraham" = "father of a
+       multitude." God inserts the "ah" sound — from His own name (Yahweh)
+       — into Abraham's. Identity redefined by promise.
 
-v.10 — KJV: "circumcised" / ESV: "circumcised" — Both identical. Hebrew
-       "nimol" — to cut around. A physical sign in the flesh marking covenant
-       membership. Performed on the eighth day — the day associated with new
-       beginnings.
+v.9  — Hebrew "eth-beriti tishmor" — my covenant you shall keep.
+       KJV: "Thou shalt keep my covenant"
+       ESV: "you shall keep my covenant"
+       ASV: "thou shalt keep my covenant"
+       NET: "you must keep the covenantal requirement I am imposing on you"
+       WEB: "you shall keep my covenant"
+       Analysis: NET renders in explicitly legal language — "covenantal
+       requirement...imposing" — making the obligation aspect clear.
+       KJV/ESV/ASV/WEB all use the simple "keep my covenant."
 
-v.15 — KJV: "Sarah" / ESV: "Sarah" — Both identical. Hebrew "Sarah" —
-       "princess." Changed from "Sarai" (possibly "my princess" — personal)
-       to "Sarah" (princess — universal).
+v.11 — Hebrew "oth berith" — sign of the covenant.
+       KJV: "it shall be a token of the covenant"
+       ESV: "it shall be a sign of the covenant"
+       ASV: "it shall be a token of a covenant"
+       NET: "This will be a reminder of the covenant"
+       WEB: "It will be a token of a covenant"
+       Analysis: NET shifts from visual symbol ("sign/token") to memorial
+       function ("reminder"). KJV/ASV/WEB use "token" (slightly archaic);
+       ESV uses "sign." Circumcision: a physical mark in the flesh on the
+       eighth day (new beginnings).
 
-v.17 — KJV: "laughed" / ESV: "laughed" — Both identical. Hebrew "yitschaq"
-       — he laughed. The root of "Isaac" (Yitschaq = "he laughs"). Both
-       Abraham (here) and Sarah (18:12) laugh — and God names the child
-       "Laughter."
+v.17 — Hebrew "vayyitschaq" — and he laughed.
+       KJV: "Abraham fell upon his face, and laughed"
+       ESV: "Abraham fell on his face and laughed"
+       ASV: "Abraham fell upon his face, and laughed"
+       NET: "Abraham bowed down with his face to the ground and laughed"
+       WEB: "Abraham fell on his face, and laughed"
+       Analysis: All translations agree. Hebrew "yitschaq" = he laughed —
+       the root of "Isaac" (Yitschaq = "he laughs"). NET expands "fell on
+       his face" to "bowed down with his face to the ground" for modern
+       clarity. Both Abraham (here) and Sarah (18:12) laugh — and God names
+       the child "Laughter."
 
-v.19 — KJV: "Isaac" / ESV: "Isaac" — Both identical. Hebrew "Yitschaq" —
-       "he laughs." Named by God before birth. The laughter of disbelief
-       becomes the laughter of joy.
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "I am the Sovereign God" — renders "El Shaddai" as "the
-  Sovereign God" rather than "God Almighty" (KJV/ESV/WEB) or "God
-  All-sufficient" (some traditions). This emphasizes authority over power.
-- v.9 — NET: "you must keep the covenantal requirement I am imposing on you"
-  — renders "my covenant which you shall keep" in explicitly legal language
-  ("covenantal requirement...imposing"), making the obligation aspect of
-  circumcision very clear.
-- v.11 — NET: "This will be a reminder of the covenant" — renders Hebrew
-  "oth" (sign/token) as "reminder," shifting from visual symbol to memorial
-  function. WEB retains "token" like KJV.
-- v.17 — NET: "Abraham bowed down...and laughed" — same as KJV/ESV/WEB, but
-  all translations agree this was joyful amazement rather than doubt (unlike
-  Sarah's laugh in 18:12). ASV renders "fell upon his face, and laughed."
+v.19 — Hebrew "Yitschaq" — he laughs (Isaac).
+       KJV: "thou shalt call his name Isaac"
+       ESV: "You shall call his name Isaac"
+       ASV: "thou shalt call his name Isaac"
+       NET: "you will name him Isaac"
+       WEB: "you shall call his name Isaac"
+       Analysis: All identical in substance. Named by God before birth. The
+       laughter of disbelief becomes the laughter of joy.
 
 GLOSSARY
 ------------------------------------

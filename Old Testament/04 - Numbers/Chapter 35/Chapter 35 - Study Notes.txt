@@ -236,6 +236,20 @@ Pastureland (Hebrew: "migrash") — Open land surrounding the Levitical
                for grazing livestock. Not to be sold or built upon —
                permanently attached to the Levitical cities.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.6 — NET: "you must select for yourselves cities of refuge" / ASV: "ye shall give six cities for refuge" / WEB: "you shall give six cities for refuge" — NET uses "select" emphasizing deliberate choice; ASV/WEB use "give." Hebrew "natenu" — to give/designate. Six cities (3 east, 3 west of Jordan) provide accessible refuge throughout the land.
+
+- v.11 — NET: "you must select for yourselves towns to be cities of refuge for you, to which a person who kills someone unintentionally may flee" / ASV: "then ye shall appoint you cities to be cities of refuge for you, that the manslayer that killeth any person unwittingly may flee thither" — NET's "person who kills someone unintentionally" is clearer than ASV's "manslayer that killeth... unwittingly." The distinction between murder (intentional) and manslaughter (unintentional) is foundational.
+
+- v.12 — NET: "a place of refuge from the avenger" / ASV: "for refuge from the avenger" / WEB: "for refuge from the avenger" — Hebrew "go'el ha-dam" — the avenger/redeemer of blood. The kinsman whose duty is to execute justice for murdered relatives. The city of refuge protects the unintentional killer from this legitimate but potentially unjust vengeance.
+
+- v.25 — NET: "the community must deliver the accidental killer from the hand of the avenger of blood" / ASV: "the congregation shall deliver the manslayer out of the hand of the avenger of blood" / WEB: "the congregation shall deliver the man slayer out of the hand of the avenger of blood" — The community (through its judges) has the responsibility to protect the innocent from vengeance. Justice requires discernment, not automatic retribution.
+
+- v.30 — NET: "one witness is not enough" / ASV: "one witness shall not testify against any person that he die" / WEB: "one witness shall not testify against any person that he die" — A fundamental legal principle: capital punishment requires multiple witnesses. This prevents false accusation and ensures due process — cited in Deuteronomy 19:15 and Matthew 18:16.
+
+- v.33 — NET: "you must not pollute the land where you are" / ASV: "ye shall not pollute the land wherein ye are" / WEB: "you shall not pollute the land in which you are" — Hebrew "chaneph" — to pollute/profane. Unpunished bloodshed defiles the land itself (not just the people). Only the blood of the murderer can purify land defiled by murder.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God provides refuge (v.11). The cities of refuge are God's provision

@@ -304,6 +304,20 @@ Jezreel       — "God sows" — a city and valley in northern Israel,
               Naboth's field (2 Kings 9:24-26). The place of the
               crime becomes the place of justice.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.3 — ASV: "Jehovah forbid it me, that I should give the inheritance of my fathers unto thee" / WEB: "May Yahweh forbid me, that I should give the inheritance of my fathers to you!" / NET: "The Lord forbid that I should sell you my ancestral inheritance" — Hebrew "chalilah li me-YHWH" = "Far be it from me by YHWH" — a covenantal oath. Naboth invokes YHWH because the land is a covenantal inheritance (nachalah) — it belongs to God and cannot be permanently alienated (Leviticus 25:23). NET adds "sell" where Naboth says "give" — the point is not price but principle.
+
+- v.20 — ASV: "thou hast sold thyself to do that which is evil in the sight of Jehovah" / WEB: "you have sold yourself to do that which is evil in Yahweh's sight" / NET: "you are committed to doing evil in the sight of the Lord" — Hebrew "hitmakerkha la'asot ha-ra" = "you have sold yourself to do evil." ASV/WEB preserve the marketplace metaphor — Ahab sold himself (as a slave sells himself to a master). NET's "committed to" is weaker, losing the slavery imagery — Ahab is a slave to sin, owned by evil.
+
+- v.25 — ASV: "there was none like unto Ahab, who did sell himself to do that which was evil in the sight of Jehovah, whom Jezebel his wife stirred up" / WEB: same / NET: "There had never been anyone like Ahab, who was firmly committed to doing evil in the sight of the Lord, urged on by his wife Jezebel" — Hebrew "hesitah" = incited/stirred up (from suth = to entice/provoke). ASV/WEB's "stirred up" preserves the active instigation; NET's "urged on" is milder. Jezebel didn't merely encourage — she actively provoked Ahab to evil.
+
+- v.10 — ASV: "two men, base fellows" / WEB: "two men, wicked fellows" / NET: "two villains" — Hebrew "benei beliya'al" = "sons of worthlessness/wickedness." This is a significant Hebrew term — Belial later becomes a name for Satan (2 Corinthians 6:15). ASV's "base fellows" and WEB's "wicked fellows" preserve the composite nature; NET's "villains" is adequate but loses the Hebrew idiom.
+
+- v.19 — ASV: "Hast thou killed and also taken possession?" / WEB: "Have you killed and also taken possession?" / NET: "Haven't you committed murder and taken possession of the property of the deceased?" — The Hebrew is devastatingly terse: "ha-ratsachta ve-gam yarashta?" = "Have you murdered AND ALSO inherited?" — two words exposing two crimes. NET expands with interpretive additions ("property of the deceased"); ASV/WEB preserve the stark brevity of God's accusation.
+
+- v.4 — ASV: "heavy and displeased" / WEB: "sullen and angry" / NET: "bitter and angry" — Hebrew "sar ve-za'ef" = sullen/stubborn and enraged. This exact phrase is used again in 20:43 — a characteristic description of Ahab's petulant character. WEB's "sullen and angry" is closest to the Hebrew pair.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Covetousness destroys from within (vv.4-6). Ahab had a kingdom

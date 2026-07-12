@@ -113,6 +113,24 @@ v.5 — KJV: "putteth not out his money to usury" / ESV: "does not
       about exploitation of the vulnerable, not all financial
       transactions.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "Jehovah, who shall sojourn in thy tabernacle?" / WEB: "Yahweh, who shall dwell in your sanctuary?" / NET: "Lord, who may be a guest in your home?" — Three different approaches to the entrance question. ASV preserves "sojourn" (gur = dwell as guest) and "tabernacle." WEB uses "sanctuary." NET domesticates it entirely to "your home" — losing the sacred-space theology of temple/tabernacle worship.
+
+- v.1 — NET: "Who may live on your holy hill?" — All versions preserve "holy hill" (har qodsheka), but NET's "live" is less formal than ASV's "dwell" or KJV's "dwell." The question is about permanent residency with God, not casual visiting.
+
+- v.3 — NET: "He does not slander, or do harm to others, or insult his neighbor" — NET breaks this into three clauses. KJV: "He that backbiteth not with his tongue, nor doeth evil to his neighbour, nor taketh up a reproach against his neighbour." ASV uses "slandereth" for Hebrew "ragal" (to spy/go about gossiping). WEB: "doesn't slander with his tongue" — the tongue-connection is important as it links to the speech theme of v.2.
+
+- v.4 — ASV: "He that sweareth to his own hurt, and changeth not" / WEB: "he who keeps an oath even when it hurts, and doesn't change" / NET: "He makes firm commitments and does not renege on his promise" — NET loses the "to his own hurt" dimension entirely, replacing it with the bland "firm commitments." The Hebrew specifically says this person swears even when it damages him — integrity over self-interest.
+
+- v.4 — NET: "he despises a reprobate, but honors the Lord's loyal followers" — NET uses "loyal followers" for Hebrew "yir'ey YHWH" (those who fear the LORD/Yahweh). This is a significant theological shift — "fearing God" carries awe, reverence, and trembling that "loyal followers" does not convey.
+
+- v.5 — ASV: "He that putteth not out his money to interest" / WEB: "he who doesn't lend out his money for usury" / NET: "He does not charge interest when he lends his money" — KJV uses "usury" (neshek = a bite, i.e., interest that bites/devours). WEB retains "usury." NET neutralizes it to "charge interest." In the OT context, lending at interest to fellow Israelites (especially the poor) was exploitative.
+
+- v.5 — NET: "He does not take bribes to testify against the innocent" — NET adds "to testify" (not explicit in Hebrew). KJV/ASV: "nor taketh reward against the innocent" — Hebrew "shochad" = bribe. The broader Hebrew includes any payment that perverts justice, not only courtroom testimony.
+
+- v.5 — WEB: "He who does these things shall never be shaken" vs. KJV: "shall never be moved" — Both translate Hebrew "mot" (to totter/shake). NET: "will never be shaken." ASV: "shall never be moved." The promise of unshakable stability for the person of integrity is consistent across all versions.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Access to God is ethical, not merely ceremonial (v.1). God does

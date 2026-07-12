@@ -101,6 +101,20 @@ v.9 — KJV: "feed them also, and lift them up for ever" / ESV: "Be
       shepherd metaphor explicit. "Carry" (nasa = lift, bear) —
       God carries His people like a shepherd carries lambs.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "O Jehovah" / WEB: "Yahweh" / NET: "O Lord" / KJV: "O LORD my rock" — NET renders the divine name as "Lord" and replaces "rock" with "My Protector" — an interpretation of the metaphor rather than the metaphor itself. ASV/WEB preserve "My rock" with the divine name.
+
+- v.1 — NET: "I will join those who are descending into the grave" — NET interprets "the pit" (bor) as "the grave," making the death-reference explicit. KJV/ASV/WEB retain "pit" — which can mean cistern, dungeon, or grave/Sheol, preserving the Hebrew ambiguity.
+
+- v.2 — KJV: "thy holy oracle" / ASV: "thy holy oracle" / WEB: "your Most Holy Place" / NET: "your holy temple" — Three different renderings of Hebrew "debir." WEB capitalizes "Most Holy Place" (the inner sanctuary). NET generalizes to "temple." The debir was specifically the innermost shrine where God's presence dwelt.
+
+- v.7 — ASV: "Jehovah is my strength and my shield" / WEB: "Yahweh is my strength and my shield" / NET: "The Lord strengthens and protects me" — NET converts nouns ("strength," "shield") into verbs ("strengthens," "protects"), losing the metaphorical power. God is not merely an actor who strengthens — He IS the strength itself.
+
+- v.8 — KJV: "the saving strength of his anointed" / ASV: "a stronghold of salvation to his anointed" / NET: "he protects and delivers his chosen king" — NET interprets "anointed" (mashiach) as "chosen king," making the royal context explicit but removing the Messianic resonance. ASV's "stronghold of salvation" is a powerful compound metaphor.
+
+- v.9 — KJV: "feed them also, and lift them up" / ASV: "Be their shepherd also, and bear them up" / WEB: "Be their shepherd also, and bear them up" / NET: "Care for them like a shepherd and carry them in your arms at all times!" — NET adds "in your arms" and "at all times" — neither in the Hebrew but creating a tender, expanded image. ASV/WEB's "bear them up" is closer to the Hebrew "nasa" (to lift, carry).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God's silence feels like death (v.1). When God seems quiet, the

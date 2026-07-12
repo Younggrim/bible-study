@@ -123,52 +123,89 @@ Charles Spurgeon:
   inability is no obstacle to omnipotence. Stop looking at your limitations
   and look at your God."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "rod" / ESV: "staff" — Hebrew "matteh" — a staff, a
-       shepherd's rod. The ESV uses "staff"; the KJV uses "rod." Both are
-       valid. It becomes "the rod of God" (v.20) — ordinary tools
-       transformed by divine commission.
+v.2  — Hebrew "matteh" — a staff, a shepherd's rod.
+       KJV: "rod"
+       ESV: "staff"
+       ASV: "A rod"
+       NET: "A staff"
+       WEB: "A rod"
+       Analysis: KJV/ASV/WEB retain "rod"; ESV/NET prefer "staff." Both are
+       valid renderings of "matteh." It becomes "the rod of God" (v.20) —
+       ordinary tools transformed by divine commission. NET's consistent use
+       of "staff" loses the connection to Aaron's "rod" that later buds
+       (Numbers 17).
 
-v.10 — KJV: "slow of speech, and of a slow tongue" / ESV: "slow of speech
-       and of tongue" — Hebrew "kevad peh ukhvad lashon" — heavy of mouth
-       and heavy of tongue. Both translations capture the sense. Not
-       necessarily a stutter — possibly a lack of fluency in Egyptian after
-       40 years, or genuine difficulty in public speaking.
+v.10 — Hebrew "kevad peh ukhvad lashon" — heavy of mouth and heavy of tongue.
+       KJV: "slow of speech, and of a slow tongue"
+       ESV: "slow of speech and of tongue"
+       ASV: "Oh, Lord, I am not eloquent... I am slow of speech, and of a slow tongue"
+       NET: "I am not an eloquent speaker... I am slow of speech and slow of tongue"
+       WEB: "Oh, Lord, I am not eloquent... I am slow of speech, and of a slow tongue"
+       Analysis: All translations capture Moses' self-assessment of inadequacy.
+       Not necessarily a stutter — possibly a lack of fluency in Egyptian
+       after 40 years. ASV addresses "Jehovah" but uses "Lord" (Adonai)
+       here, showing Moses switches to the submissive title. WEB uniquely
+       addresses "Yahweh" while also saying "O Lord" — preserving both the
+       divine name context and the respectful address.
 
-v.13 — KJV: "by the hand of him whom thou wilt send" / ESV: "by the hand
-       of him whom you will send" — Hebrew "beyad tishlach" — literally "by
-       the hand you will send." Both are identical. A polite refusal
-       disguised as deference: "Send whoever you're going to send — just
-       not me."
+v.13 — Hebrew "beyad tishlach" — literally "by the hand you will send."
+       KJV: "by the hand of him whom thou wilt send"
+       ESV: "by the hand of him whom you will send"
+       ASV: "by the hand of him whom thou wilt send"
+       NET: "please send anyone else whom you wish to send!"
+       WEB: "please send someone else"
+       Analysis: A polite refusal disguised as deference. KJV/ESV/ASV retain
+       the literal Hebrew idiom. NET's expansive paraphrase makes Moses'
+       reluctance more explicit. WEB simplifies to a direct plea. The range
+       shows how translations handle Hebrew idiom — literal vs. dynamic.
 
-v.21 — KJV: "I will harden his heart" / ESV: "I will harden his heart" —
-       Hebrew "achazzeq et libbo" — I will strengthen/make firm his heart.
-       Both translations identical. The hardening is complex: sometimes God
-       hardens (4:21, 9:12), sometimes Pharaoh hardens himself (8:15, 8:32).
+v.21 — Hebrew "achazzeq et libbo" — I will strengthen/make firm his heart.
+       KJV: "I will harden his heart"
+       ESV: "I will harden his heart"
+       ASV: "I will harden his heart"
+       NET: "I will harden his resolve"
+       WEB: "I will harden his heart"
+       Analysis: All translations agree on "harden." NET uniquely uses
+       "resolve" instead of "heart," interpreting the Hebrew "lev" (heart/mind)
+       as determination rather than emotion. The hardening is complex:
+       sometimes God hardens (4:21, 9:12), sometimes Pharaoh hardens himself
+       (8:15, 8:32).
 
-v.22 — KJV: "my firstborn" / ESV: "my firstborn son" — Hebrew "beni
-       bekhori" — my son, my firstborn. The ESV adds "son" for clarity.
-       A declaration of special relationship, inheritance rights, and
-       protection.
+v.22 — Hebrew "beni bekhori" — my son, my firstborn.
+       KJV: "Israel is my son, even my firstborn"
+       ESV: "Israel is my firstborn son"
+       ASV: "Israel is my son, my first-born"
+       NET: "Israel is my son, my firstborn"
+       WEB: "Israel is my son, my firstborn"
+       Analysis: All translations are nearly identical. ESV compresses to
+       "firstborn son" for conciseness. A declaration of special
+       relationship, inheritance rights, and protection.
 
-v.24 — KJV: "sought to kill him" / ESV: "sought to put him to death" —
-       Hebrew "vayevaqesh hamito" — sought to put him to death. The ESV is
-       more literal. Terrifying and mysterious — Moses cannot represent the
+v.24 — Hebrew "vayevaqesh hamito" — sought to put him to death.
+       KJV: "sought to kill him"
+       ESV: "sought to put him to death"
+       ASV: "sought to kill him"
+       NET: "sought to kill him"
+       WEB: "Yahweh met Moses and wanted to kill him"
+       Analysis: Most translations agree. WEB is uniquely interpretive —
+       "wanted to kill" softens the Hebrew from active pursuit ("sought") to
+       intention. WEB also names "Yahweh" explicitly where others use "the
+       LORD/he." Terrifying and mysterious — Moses cannot represent the
        covenant while neglecting its sign (circumcision).
 
-v.25 — KJV: "a bloody husband" / ESV: "a bridegroom of blood" — Hebrew
-       "chatan damim" — a bridegroom/husband of blood(s). The ESV's
-       "bridegroom" is more precise than the KJV's "husband" for the Hebrew
-       "chatan." Zipporah's words express horror at the bloody rite.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — ASV: "A rod" / NET: "A staff" / WEB: "A rod" — NET consistently uses "staff" where ASV/WEB retain "rod" (Hebrew "matteh"). NET's choice loses the connection to Aaron's "rod" that later buds (Numbers 17).
-- v.10 — ASV: "Oh, Lord, I am not eloquent... I am slow of speech, and of a slow tongue" — ASV addresses "Jehovah" but uses "Lord" (Adonai) here, showing Moses switches to the submissive title. WEB uniquely addresses "Yahweh" while also saying "O Lord" — preserving both the divine name context and the respectful address.
-- v.13 — NET: "please send anyone else whom you wish to send!" — NET's expansive paraphrase makes Moses' reluctance more explicit; WEB simplifies: "please send someone else"; ASV retains the literal Hebrew idiom "by the hand of him whom thou wilt send."
-- v.24 — WEB: "Yahweh met Moses and wanted to kill him" — uniquely interpretive; "wanted to kill" softens the Hebrew "sought to kill" (ASV) into intention rather than action. NET: "sought to kill him" matches ASV's literalness.
-- v.25 — NET: "touched it to Moses' feet" — NET interprets the ambiguous "cast it at his feet" (ASV/WEB) as deliberate contact, a significant exegetical choice for this notoriously difficult passage.
+v.25 — Hebrew "chatan damim" — a bridegroom/husband of blood(s).
+       KJV: "a bloody husband"
+       ESV: "a bridegroom of blood"
+       ASV: "a bridegroom of blood"
+       NET: "a bridegroom of blood"
+       WEB: "a bridegroom of blood"
+       Analysis: KJV alone uses "husband" — all modern translations prefer
+       "bridegroom," which is more precise for Hebrew "chatan." NET
+       interprets the ambiguous "cast it at his feet" as "touched it to
+       Moses' feet" — a significant exegetical choice for this notoriously
+       difficult passage. Zipporah's words express horror at the bloody rite.
 
 GLOSSARY
 ------------------------------------

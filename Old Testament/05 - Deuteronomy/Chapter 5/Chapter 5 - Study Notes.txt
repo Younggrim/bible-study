@@ -252,6 +252,20 @@ Vain (Hebrew: "shav") — Emptiness, falsehood, worthlessness. Taking God's
                worthless purposes — false oaths, casual profanity, or
                claiming His authority without His commission.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.6 — NET: "I am the Lord your God, who brought you from the land of Egypt, from the place of slavery" / ASV: "I am Jehovah thy God, who brought thee out of the land of Egypt, out of the house of bondage" / WEB: "I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage" — The Decalogue preamble. NET uses "place of slavery"; ASV/WEB use "house of bondage" (Hebrew "beth avadim"). God's self-identification grounds all commandments in redemption — He saved them BEFORE giving rules.
+
+- v.7 — NET: "You must not have any other gods besides me" / ASV: "Thou shalt have no other gods before me" / WEB: "You shall have no other gods before me" / KJV: "Thou shalt have none other gods before me" — NET's "besides me" differs from ASV/KJV's "before me." Hebrew "al-panai" could mean "before my face" (in my presence), "in opposition to me," or "besides me." NET chooses exclusivity; ASV/KJV retain the spatial metaphor.
+
+- v.12 — NET: "the Lord spoke to you from the middle of the fire" / ASV: "Jehovah spake unto you out of the midst of the fire" / WEB: "Yahweh spoke to you out of the middle of the fire" — Deuteronomy's retelling of Sinai. "Out of the midst of the fire" — God speaks from fire itself, demonstrating both His holiness (fire purifies) and His power (fire consumes). The divine name marks who spoke.
+
+- v.15 — NET: "the Lord your God has commanded you" / ASV: "Jehovah thy God commanded thee" / WEB: "Yahweh your God commanded you" — The Sabbath command in Deuteronomy adds a humanitarian motivation (slaves must rest) not found in Exodus 20. The divine name appears more frequently in Deuteronomy's version.
+
+- v.21 — NET: "You must not covet your neighbor's wife" / ASV: "Neither shalt thou covet thy neighbor's wife" / WEB: "Neither shall you covet your neighbor's wife" — In Deuteronomy, "wife" is listed separately from property (unlike Exodus 20:17 where she's grouped with possessions). This elevates her dignity — she is a person, not property.
+
+- v.29 — NET: "if only they had such a heart" / ASV: "Oh that there were such a heart in them" / WEB: "Oh that there were such a heart in them" — God's poignant wish for Israel. Hebrew "mi-yitten" (who will give?) — an expression of divine longing. God desires their obedience but will not coerce it.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "Not with our fathers... but with us" (v.3). The covenant is not

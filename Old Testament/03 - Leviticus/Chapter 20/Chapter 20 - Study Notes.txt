@@ -163,58 +163,76 @@ Charles Spurgeon:
   His beloved people. And because you are His, you must be holy — for He
   is holy. A king's child bears the king's character."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "giveth any of his seed unto Molech" / ESV: "gives any of his
-       children to Molech" — Hebrew "yitten mi-zar'o la-Molekh" — gives
-       from his seed to Molech. KJV's "seed" is literal; ESV's "children"
-       is interpretive but correct. "Seed" (zera) here means offspring.
+v.2  — Hebrew "yitten mi-zar'o la-Molekh" — gives from his seed to Molech.
+       KJV: "giveth any of his seed unto Molech"
+       ESV: "gives any of his children to Molech"
+       ASV: "Whosoever he be of the children of Israel... that giveth of his seed unto Molech"
+       NET: "any man from the Israelites or from the resident foreigners who live in Israel who gives any of his children to Molech must be put to death"
+       Analysis: KJV's "seed" is literal; ESV's "children" is interpretive but correct. NET includes "resident foreigners" (Hebrew "ger") — these laws apply to everyone in Israel, not just Israelites. Molech worship is universally condemned.
 
-v.3  — KJV: "to defile my sanctuary" / ESV: "to make my sanctuary unclean"
-       — Hebrew "l'tamme et miqdashi." Both convey the same meaning. Child
-       sacrifice defiles God's sanctuary — even though it occurs outside
-       the sanctuary. Sin committed in the community pollutes the place
-       where God dwells.
+v.3  — Hebrew "ani" — I myself (emphatic).
+       KJV: "I will set my face against that man"
+       ESV: "I myself will set my face against that man"
+       ASV: "I also will set my face against that man, and will cut him off from among his people"
+       NET: "I myself will set my face against that man and cut him off from the midst of his people"
+       Analysis: Both preserve the forceful divine "I MYSELF" (Hebrew "ani"). God personally opposes the one who sacrifices children — this is not merely judicial but personal divine action. To "defile my sanctuary" and "profane my holy name" — child sacrifice defiles God's sanctuary even though it occurs outside it.
 
-v.6  — KJV: "familiar spirits... wizards" / ESV: "mediums and
-       necromancers" — Hebrew "ha-ovot v'ha-yid'onim." "Ov" = a spirit of
-       the dead, or one who channels such spirits (a medium). "Yid'oni" =
-       a knowing one, a spiritist (one who claims supernatural knowledge).
-       KJV's "familiar spirits" refers to the spirit that is "familiar"
-       (known/attached) to the medium. ESV uses modern terminology.
+v.6  — Hebrew "ha-ovot v'ha-yid'onim" — the familiar spirits and the knowing ones.
+       KJV: "familiar spirits... wizards"
+       ESV: "mediums and necromancers"
+       ASV: "them that have familiar spirits, and unto the wizards"
+       NET: "the spirits of the dead and familiar spirits"
+       WEB: "those who are mediums, and to wizards"
+       Analysis: "Ov" = a spirit of the dead, or one who channels such spirits (a medium). "Yid'oni" = a knowing one, a spiritist. KJV's "familiar spirits" refers to the spirit that is "familiar" (known/attached) to the medium. NET's "spirits of the dead and familiar spirits" clarifies the occult practices. ESV uses modern terminology.
 
-v.9  — KJV: "curseth his father or his mother" / ESV: "curses his father
-       or his mother" — Hebrew "y'qallel et aviv v'et immo." "Qalal" = to
-       make light of, to curse, to treat with contempt. The opposite of
-       "kavad" (to honor/make heavy). Not merely profanity but fundamental
-       disrespect — treating parents as worthless.
+v.7  — Hebrew "hitqaddeshtem" — sanctify yourselves (reflexive).
+       KJV: "Sanctify yourselves therefore, and be ye holy"
+       ESV: "Consecrate yourselves, therefore, and be holy"
+       ASV: "Sanctify yourselves therefore, and be ye holy"
+       NET: "Sanctify yourselves and be holy"
+       WEB: "Sanctify yourselves therefore, and be holy"
+       Analysis: All translations preserve both imperatives. The reflexive form shows personal responsibility. Holiness requires active pursuit.
 
-v.12 — KJV: "they have wrought confusion" / ESV: "they have committed
-       perversion" — Hebrew "tevel asu" — they have done confusion/
-       perversion. Same word as 18:23 (bestiality). Implies a violation of
-       created order — mixing what God has distinguished.
+v.9  — Hebrew "y'qallel et aviv v'et immo" — cursing father and mother.
+       KJV: "curseth his father or his mother"
+       ESV: "curses his father or his mother"
+       Analysis: "Qalal" = to make light of, to curse, to treat with contempt. The opposite of "kavad" (to honor/make heavy). Not merely profanity but fundamental disrespect — treating parents as worthless.
 
-v.14 — KJV: "it is wickedness" / ESV: "it is depravity" — Hebrew "zimmah
-       hi" — it is a scheme/plan/heinous sin. Implies calculated,
-       deliberate wickedness — not a moment of weakness but a planned
-       perversion.
+v.12 — Hebrew "tevel asu" — they have done confusion/perversion.
+       KJV: "they have wrought confusion"
+       ESV: "they have committed perversion"
+       Analysis: Same word as 18:23 (bestiality). Implies a violation of created order — mixing what God has distinguished.
 
-v.17 — KJV: "it is a wicked thing" / ESV: "it is a disgrace" — Hebrew
-       "chesed hu" — here used in its negative sense: a shameful thing, a
-       disgrace. (The same word "chesed" usually means lovingkindness —
-       but in this rare usage it means shame/reproach. Context determines
-       meaning.)
+v.14 — Hebrew "zimmah hi" — it is a scheme/heinous sin.
+       KJV: "it is wickedness"
+       ESV: "it is depravity"
+       Analysis: Implies calculated, deliberate wickedness — not a moment of weakness but a planned perversion.
 
-v.26 — KJV: "have severed you from other people" / ESV: "have separated
-       you from the peoples" — Hebrew "va-avdil etkhem min ha-ammim" —
-       and I have divided/separated you from the peoples. "Avdil" = to
-       divide, separate (same root as Genesis 1 — God "divided" light from
-       darkness). God's separation of Israel mirrors His creative work of
-       distinction.
+v.17 — Hebrew "chesed hu" — here used in its negative sense.
+       KJV: "it is a wicked thing"
+       ESV: "it is a disgrace"
+       Analysis: The same word "chesed" usually means lovingkindness — but in this rare usage it means shame/reproach. Context determines meaning.
 
-v.27 — KJV: "a familiar spirit, or that is a wizard" / ESV: "a medium or
-       a necromancer" — Same terms as v.6. The chapter ends where it began
-       — with the death penalty for occult practices. Bookend structure.
+v.24 — Hebrew "hivdalti" — I have separated/set apart.
+       KJV: "I am the LORD your God, which have separated you from other people"
+       ASV: "I am Jehovah your God, who have separated you from the peoples"
+       NET: "I am the Lord your God who has set you apart from the other peoples"
+       Analysis: NET's "set you apart" is the same root as "holy" — to be set apart. God's separating work is both the act of election and the call to holiness.
+
+v.26 — Hebrew "va-avdil etkhem min ha-ammim" — I have divided/separated you from the peoples.
+       KJV: "have severed you from other people, that ye should be mine"
+       ESV: "have separated you from the peoples, that you should be mine"
+       ASV: "I have set you apart from the peoples, that ye should be mine"
+       NET: "I have set you apart from the other peoples to be mine"
+       WEB: "I have separated you from the peoples, that you should be mine"
+       Analysis: "Avdil" = to divide, separate (same root as Genesis 1 — God "divided" light from darkness). God's separation of Israel mirrors His creative work of distinction. The possessive "MINE" (Hebrew "li") is emphatic. Separation is not mere isolation but belonging — Israel is God's treasured possession.
+
+v.27 — Hebrew "ov" and "yid'oni" — medium and spiritist.
+       KJV: "a familiar spirit, or that is a wizard"
+       ESV: "a medium or a necromancer"
+       Analysis: Same terms as v.6. The chapter ends where it began — with the death penalty for occult practices. Bookend structure.
 
 GLOSSARY
 ------------------------------------

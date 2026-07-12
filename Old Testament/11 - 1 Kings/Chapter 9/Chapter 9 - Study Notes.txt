@@ -210,6 +210,20 @@ Ezion-geber   — A port city at the northern tip of the Gulf of
               Eilat/Aqaba. Solomon built his fleet here to access
               maritime trade routes to Africa, Arabia, and beyond.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.3 — ASV: "I have hallowed this house, which thou hast built, to put my name there for ever" / WEB: "I have made this house holy, which you have built, to put my name there forever" / NET: "I have consecrated this temple you built by making it my permanent home" — Hebrew "hiqdashti" (I have sanctified/set apart). ASV uses "hallowed" (sacred/set apart); NET interprets as "consecrated... making it my permanent home," which goes beyond the Hebrew — God doesn't say it's His "home" but that His name dwells there. The Name theology (shem) is distinct from full presence.
+
+- v.4 — ASV: "if thou wilt walk before me, as David thy father walked, in integrity of heart, and in uprightness" / WEB: same / NET: "You must serve me with integrity and sincerity, just as your father David did" — Hebrew "tom levav" = "integrity/completeness of heart" and "yosher" = "uprightness." NET replaces "walk before me" (halak l'panay — a covenantal idiom for living in God's presence) with "serve me," and "uprightness" with "sincerity." The Hebrew "walking before" implies conscious awareness of God's watchful presence.
+
+- v.7 — ASV: "I will cut off Israel out of the land" / WEB: "I will cut off Israel out of the land" / NET: "I will remove Israel from the land" — Hebrew "karath" (cut off) is violent covenant-curse language — the same verb used for "cutting" a covenant (Genesis 15:18). It implies severance and death. NET's mild "remove" loses the judicial severity of the covenant-curse vocabulary.
+
+- v.8 — ASV: "every one that passeth by it be astonished, and shall hiss" / WEB: "everyone who passes by it will be astonished and hiss" / NET: "everyone who passes by it will be shocked and will hiss out their scorn" — Hebrew "yishrōq" (hiss/whistle) is an expression of horror and mockery. NET adds "out their scorn" which is interpretive but captures the meaning. The hissing is a Near Eastern gesture of astonishment at divine judgment.
+
+- v.21 — ASV: "of them did Solomon raise a levy of bondservants" / WEB: "of them Solomon raised a levy of bondservants" / NET: "Solomon conscripted them for his work crews" — Hebrew "mas 'oved" = literally "levy of servitude/slave labor." ASV/WEB's "bondservants" reveals this is enslaved labor. NET's neutral "work crews" again conceals the forced nature of the labor — a theologically significant detail given Israel's own history in Egypt.
+
+- v.25 — ASV: "Solomon offer burnt-offerings and peace-offerings upon the altar which he built unto Jehovah" / WEB: "Solomon offered burnt offerings and peace offerings on the altar which he built to Yahweh" / NET: "Solomon offered burnt offerings and peace offerings on the altar he had built for the Lord" — Hebrew "shelamim" (peace offerings) comes from "shalom" — offerings of wholeness, completeness, and fellowship with God. All translations render this similarly, with the standard divine name variations.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God's greatest warnings come at moments of greatest success

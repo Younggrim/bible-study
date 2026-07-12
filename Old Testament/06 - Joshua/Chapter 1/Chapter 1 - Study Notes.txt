@@ -231,6 +231,16 @@ Meditate       — Hebrew "hagah." To murmur, mutter, speak quietly to
                mind but active, verbal repetition and reflection on
                God's Word. Cf. Psalm 1:2.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV/WEB: "Jehovah"/"Yahweh" vs. KJV/ESV: "the LORD" — ASV uses "Jehovah" and WEB uses "Yahweh" to render the divine name (YHWH) directly, while KJV/ESV follow the convention of substituting "the LORD" (small caps). This distinction appears throughout Joshua.
+- v.1 — NET: "the Lord's servant" / ASV: "the servant of Jehovah" / KJV: "the servant of the LORD" — NET drops the small-caps convention entirely, using "Lord" in standard case, making the divine name indistinguishable from the title "Adonai."
+- v.2 — NET: "Get ready! Cross the Jordan River" / KJV: "arise, go over this Jordan" — NET uses dynamic equivalence, making God's command sound urgent and contemporary ("Get ready!"), while KJV/ASV/WEB retain the literal Hebrew "arise" (qum), preserving the imagery of standing up to take action.
+- v.6 — NET: "You must lead these people in the conquest of this land" / KJV: "unto this people shalt thou divide for an inheritance the land" / ASV: "thou shalt cause this people to inherit the land" — NET interprets "inherit" as "conquest," adding military connotation. KJV/ASV/WEB preserve the inheritance (nachalah) language, which connects to God's covenant promise to the fathers.
+- v.8 — NET: "This law scroll must not leave your lips. You must memorize it day and night" / KJV: "thou shalt meditate therein day and night" / WEB: "you shall meditate on it day and night" — NET renders "hagah" (meditate/murmur) as "memorize," losing the Hebrew concept of vocal, repetitive meditation. ASV/WEB/KJV preserve "meditate," which implies speaking and pondering, not mere mental recall.
+- v.9 — NET: "Don't be afraid and don't panic" / KJV: "be not afraid, neither be thou dismayed" / ASV: "be not affrighted, neither be thou dismayed" — NET uses colloquial "don't panic" for Hebrew "al techat" (dismayed/shattered). ASV's archaic "affrighted" and KJV's "afraid" are more literal but less accessible.
+- v.11 — NET: "begin the conquest of the land" / WEB: "to go in to possess the land" / KJV: "to go in to possess the land" — NET again inserts "conquest" language where the Hebrew uses "yarash" (to possess/inherit). WEB and KJV preserve the theological concept that the land is an inheritance to be possessed, not merely a military objective.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God buries His workers but continues His work (vv.1-2). Moses is dead,

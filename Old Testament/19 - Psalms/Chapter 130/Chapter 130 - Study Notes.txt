@@ -110,6 +110,15 @@ v.6 — "more than they that watch for the morning" — Night watchmen
       relief, for safety, for the end of darkness. The psalmist's
       longing for God exceeds even this.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — KJV: "Out of the depths have I cried unto thee, O LORD" / ASV: "O Jehovah" / WEB: "Yahweh" / NET: "From the deep water I cry out to you, O Lord" — NET makes "depths" (Hebrew "ma'amaqqim") concrete as "deep water," losing the metaphorical ambiguity (depths of despair, Sheol, waters of chaos).
+- v.3 — WEB: "If you, Yah, kept a record of sins" — WEB uniquely uses the shortened "Yah" here. NET: "If you, O Lord, were to keep track of sins" — adds "track" for emphasis.
+- v.4 — KJV: "that thou mayest be feared" / WEB: "therefore you are feared" / NET: "so that you might be honored" — NET replaces "feared" with "honored" — a significant theological choice. Hebrew "yare" (fear) is central to the psalm's meaning: forgiveness produces reverence, not casual familiarity.
+- v.5 — NET: "I rely on the Lord. I rely on him with my whole being; I wait for his assuring word" — Significantly expands KJV's "I wait for the LORD, my soul doth wait, and in his word do I hope." NET changes "wait" to "rely" and adds "assuring" to "word."
+- v.7 — KJV: "with the LORD there is mercy" / ASV: "with Jehovah there is lovingkindness" / WEB: "with Yahweh there is loving kindness" / NET: "the Lord exhibits loyal love" — Classic chesed rendering. NET's "exhibits" adds the idea of active demonstration.
+- v.7 — KJV: "plenteous redemption" / ASV: "plenteous redemption" / WEB: "abundant redemption" / NET: "is more than willing to deliver" — NET dramatically paraphrases, turning "plenteous redemption" (a noun) into an expression of God's willingness (attitude).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Cry from where you are (v.1). You don't need to clean up

@@ -226,6 +226,22 @@ Kenites        — Descendants of Moses' father-in-law (Jethro/Hobab).
                Judah's territory. They remained faithful allies
                throughout Israel's history (cf. 1 Samuel 15:6).
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "asked of Jehovah" / WEB: "asked of Yahweh" / NET: "asked the Lord" — The divine name YHWH is rendered distinctly in each: ASV uses "Jehovah," WEB uses "Yahweh" (closest to Hebrew pronunciation), NET/KJV use "the LORD/Lord." This distinction recurs throughout Judges wherever the covenant name appears.
+
+- v.17 — KJV: "utterly destroyed it" / NET: "wiped out Zephath" / ASV/WEB: "utterly destroyed it" — Hebrew "hecharim" (devoted to destruction, cherem/herem). NET uses dynamic equivalence ("wiped out") losing the covenantal warfare concept of devoting a city to God through total destruction. The term herem is central to Judges' theology of holy war.
+
+- v.19 — NET: "they had chariots with iron-rimmed wheels" / KJV/ASV/WEB: "chariots of iron" — NET adds interpretive detail ("iron-rimmed wheels") not explicit in Hebrew "rikbey barzel." The Hebrew simply says "chariots of iron." NET's expansion clarifies the military technology but goes beyond the literal text.
+
+- v.24 — NET: "the spies spotted a man" / ASV/WEB: "the watchers saw a man" / KJV: "the spies saw a man" — Hebrew "shomerim" literally means "watchers/guards." NET and KJV interpret as "spies" while ASV/WEB retain the more literal "watchers." The distinction matters: were they intelligence operatives or sentries observing?
+
+- v.28 — ASV: "put the Canaanites to taskwork" / WEB: "put the Canaanites to forced labor" / NET: "forced the Canaanites to do hard labor" / KJV: "put the Canaanites to tribute" — Hebrew "mas" = corvée labor. KJV's "tribute" suggests financial payment; ASV's "taskwork" and WEB/NET's "forced labor" better capture the Hebrew concept of compulsory labor service.
+
+- v.34 — NET: "The Amorites forced the people of Dan to live in the hill country" / WEB: "forced the children of Dan into the hill country" — NET adds interpretive "to live in," making explicit what is implied. Both capture the devastating reversal: the enemy pushes Israel back rather than Israel driving out the enemy.
+
+- v.14 — NET: "she charmed her father so she could ask him for some land" / KJV: "she moved him to ask of her father a field" / ASV: "she moved him to ask of her father a field" — Hebrew "vatesithehu" is debated. NET interprets Achsah as persuading her father directly; KJV/ASV suggest she urged her husband to ask. The subject and object of persuasion differ significantly between translations.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Partial obedience is disobedience (v.28). Israel obeyed partially —

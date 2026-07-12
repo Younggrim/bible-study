@@ -135,6 +135,22 @@ Lachish      — Judah's second-strongest fortress (after
               targeted Jerusalem. The Lachish reliefs in the
               British Museum depict this siege in detail.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.2 — NET: "The king of Assyria sent his chief adviser from Lachish" — NET translates the title "Rabshakeh" as "chief adviser," interpreting the Assyrian title rather than transliterating it. ASV and WEB retain "Rabshakeh" as KJV does. This is a significant NET paraphrase that loses the historical specificity of the Assyrian court title.
+
+- v.7 — ASV: "We trust in Jehovah our God" / WEB: "We trust in Yahweh our God" / NET: "We are trusting in the Lord our God" — The divine name appears prominently in Rabshakeh's challenge. ASV uses "Jehovah," WEB uses "Yahweh," and NET uses "the Lord." The irony of a pagan invoking God's covenant name is more vivid when the name itself is rendered.
+
+- v.10 — ASV: "Jehovah said unto me, Go up against this land, and destroy it" / WEB: "Yahweh said to me, 'Go up against this land, and destroy it'" — Rabshakeh's blasphemous claim to divine authorization is rendered with the actual covenant name in ASV/WEB, making the false claim even more audacious. NET softens to "the Lord told me."
+
+- v.12 — KJV: "drink their own piss" / ASV: "drink their own water" / WEB: "drink their own urine" / NET: "drink their own urine" — ASV euphemizes the crude language of the original Hebrew, using "water" where the Hebrew is deliberately vulgar. WEB and NET retain the vulgarity with "urine." KJV preserves the original bluntness.
+
+- v.6 — ASV: "thou trustest upon the staff of this bruised reed" / WEB: "you trust in the staff of this bruised reed" / NET: "you must be trusting in Egypt, that splintered reed staff" — NET rearranges and interprets, making "Egypt" the explicit object and adding "splintered" for the Hebrew word that KJV/ASV render "broken/bruised." NET's dynamic equivalence clarifies but loses the metaphor-first structure of the Hebrew.
+
+- v.11 — ASV: "in the Syrian language" / WEB: "in Aramaic" / NET: "in Aramaic" — KJV and ASV use "Syrian language" (reflecting older English usage where "Syrian" = Aramaic). Modern versions (WEB, NET) correctly identify this as "Aramaic," the lingua franca of the ancient Near East.
+
+- v.16 — KJV: "Make an agreement with me by a present" / ASV: "Make your peace with me" / WEB: "Make your peace with me" / NET: "Send me a token of your submission and surrender to me" — NET's rendering makes explicit what the Hebrew implies: this "peace" is actually unconditional surrender. The Hebrew "birkhah" (blessing/gift) is variously interpreted across versions.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Rabshakeh's speech is the template for spiritual attack

@@ -246,6 +246,22 @@ offerings       gratitude, and communion with God. Unlike burnt
               were peace offerings — a massive communal feast
               celebrating God's presence.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.23 — ASV: "who keepest covenant and lovingkindness with thy servants" / WEB: "who keeps covenant and loving kindness with your servants" / NET: "You maintain covenantal loyalty to your servants" — Hebrew "shomer ha-berit ve-ha-chesed" = "keeping the covenant and the lovingkindness." ASV/WEB preserve both nouns (covenant + chesed); NET collapses them into one concept ("covenantal loyalty"), losing the distinction between God's binding agreement (berit) and His gracious character (chesed).
+
+- v.27 — ASV: "But will God in very deed dwell on the earth? behold, heaven and the heaven of heavens cannot contain thee" / WEB: "But will God in very deed dwell on the earth? Behold, heaven and the heaven of heavens can't contain you" / NET: "God does not really live on the earth! Look, if the sky and the highest heaven cannot contain you" — NET turns Solomon's reverent question into a declaration ("does not really live"). The Hebrew is interrogative — a question expressing awe. Also, "heaven and the heaven of heavens" (ASV/WEB) preserves the Hebrew superlative construction (shamayim u-shemey ha-shamayim); NET's "sky and the highest heaven" loses the poetic repetition.
+
+- v.56 — ASV: "Blessed be Jehovah, that hath given rest unto his people Israel" / WEB: "Blessed be Yahweh, who has given rest to his people Israel" / NET: "The Lord is worthy of praise because he has made Israel his people secure" — Hebrew "menucha" (rest) again appears — the Sabbath/promised-land rest theology (Deuteronomy 12:10; Hebrews 4:8-9). NET replaces "rest" with "secure," losing the creation-Sabbath-temple rest theological thread. The temple is the place of God's rest and His people's rest.
+
+- v.11 — ASV: "the glory of Jehovah filled the house of Jehovah" / WEB: "Yahweh's glory filled Yahweh's house" / NET: "the Lord's glory filled his temple" — The Hebrew doubles YHWH: "the glory of YHWH filled the house of YHWH" — a majestic emphatic construction. WEB preserves this double naming; NET simplifies to "his temple." The "glory" (kavod) here is the visible manifestation of God's presence — the Shekinah.
+
+- v.51 — ASV: "from the midst of the furnace of iron" / WEB: "from the middle of the iron furnace" / NET: "from the middle of the iron-smelting furnace" — Hebrew "kur ha-barzel" = "iron furnace" — a metaphor for Egypt's oppression (Deuteronomy 4:20). NET adds "smelting" for clarity, which helps the metaphor (iron requires extreme heat to smelt), though the Hebrew is simply "iron furnace."
+
+- v.61 — ASV: "Let your heart therefore be perfect with Jehovah our God" / WEB: "Let your heart therefore be perfect with Yahweh our God" / NET: "May you demonstrate wholehearted devotion to the Lord our God" — Hebrew "shalem" = complete, whole, at peace (related to "shalom"). ASV/WEB preserve "perfect" (a classic Bible word for covenant wholeness); NET paraphrases as "wholehearted devotion," which captures part of the meaning but loses the connection to shalom/completion.
+
+- v.53 — ASV: "O Lord Jehovah" / WEB: "Lord Yahweh" / NET: "O Sovereign Lord" — The compound divine name "Adonai YHWH" rendered differently in each tradition. ASV/WEB keep both divine titles visible; NET's "Sovereign Lord" interprets "Adonai" as "Sovereign," which is accurate but loses the personal name dimension.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God validates what He initiates (vv.10-11). The glory cloud

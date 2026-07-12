@@ -156,49 +156,127 @@ Charles Spurgeon:
   many' (Mark 10:45). As the Levites belonged wholly to God, so Christ
   gave Himself wholly for us."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.4  — KJV: "offered strange fire" / ESV: "offered unauthorized fire" —
-       Hebrew "esh zarah" — strange/foreign fire. "Zarah" means alien,
-       unauthorized, illegitimate. KJV's "strange" is literal; ESV's
-       "unauthorized" interprets the meaning. The fire was not prescribed
-       by God — it was self-willed worship.
+v.1  — Hebrew "toledoth" — generations, records, account.
+       KJV: "these also are the generations of Aaron and Moses"
+       ESV: "these are the generations of Aaron and Moses"
+       ASV: "these are the generations of Aaron and Moses"
+       NET: "these are the records of Aaron and Moses"
+       WEB: "these are the generations of Aaron and Moses"
+       Analysis: NET uses "records" where all others use "generations."
+       Hebrew "toledoth" is the same structuring word used throughout
+       Genesis. However, what follows is not a genealogy but a narrative —
+       showing that "toledoth" means "account/history" more broadly.
 
-v.7  — KJV: "they shall keep his charge" / ESV: "they shall keep guard
-       over him" — Hebrew "shamru et mishmart'o" — they shall guard his
-       guarding. The Levites guard what Aaron guards — they extend his
-       protective ministry around the Tabernacle.
+v.4  — Hebrew "esh zarah" — strange/foreign fire.
+       KJV: "offered strange fire"
+       ESV: "offered unauthorized fire"
+       ASV: "strange fire"
+       NET: "strange fire"
+       WEB: "strange fire"
+       Analysis: "Zarah" means alien, unauthorized, illegitimate. KJV/ASV/
+       NET/WEB retain the literal "strange"; ESV's "unauthorized"
+       interprets the meaning. The fire was not prescribed by God — it was
+       self-willed worship. A back-reference to Leviticus 10:1-2 explaining
+       why only Eleazar and Ithamar serve.
 
-v.9  — KJV: "wholly given" / ESV: "wholly given" — Hebrew "n'tunim
-       n'tunim" — given, given (emphatic doubling). The repetition
-       emphasizes totality. The Levites are completely, unreservedly given
-       to priestly service. They belong entirely to God through Aaron.
+v.6  — Hebrew "shareth" — to minister, to serve.
+       KJV: "bring the tribe of Levi near, and present them before Aaron"
+       ESV: "bring the tribe of Levi near, and set them before Aaron"
+       ASV: "set them before Aaron the priest, that they may minister unto him"
+       NET: "present them before Aaron the priest, that they may serve him"
+       WEB: "present them before Aaron the priest, that they may minister to him"
+       Analysis: NET uses "serve" where ASV/WEB use "minister" (Hebrew
+       "shareth"). The Levites serve the priests who serve God — a
+       hierarchical ministry structure.
 
-v.12 — KJV: "the firstborn that openeth the matrix" / ESV: "every
-       firstborn who opens the womb" — Hebrew "kol b'khor peter rechem."
-       KJV's "matrix" is archaic English for "womb." The firstborn who
-       "opens the womb" is the first child born to a mother.
+v.7  — Hebrew "shamru et mishmart'o" — they shall guard his guarding.
+       KJV: "they shall keep his charge"
+       ESV: "they shall keep guard over him"
+       ASV: "they shall keep his charge"
+       NET: "they are to carry out his duties"
+       WEB: "they shall keep his requirements"
+       Analysis: The Levites guard what Aaron guards — they extend his
+       protective ministry around the Tabernacle. KJV/ASV's "keep his
+       charge" is most literal; NET interprets as "carry out duties."
 
-v.25 — KJV: "the tabernacle, and the tent, the covering thereof" / ESV:
-       "the tabernacle, the tent with its covering" — These are distinct
-       layers: the "mishkan" (inner curtains), the "ohel" (tent/goat-hair
-       covering over it), and the "mikhseh" (outer covering of ram/badger
-       skins). The Gershonites carry all the fabric/covering elements.
+v.9  — Hebrew "n'tunim n'tunim" — given, given (emphatic doubling).
+       KJV: "wholly given"
+       ESV: "wholly given"
+       ASV: "wholly given unto him"
+       NET: "wholly given to him"
+       WEB: "wholly given to him"
+       Analysis: The repetition emphasizes totality. The Levites are
+       completely, unreservedly given to priestly service. They belong
+       entirely to God through Aaron. All translations agree on rendering
+       this emphatic doubling as "wholly given."
 
-v.31 — KJV: "the candlestick" / ESV: "the lampstand" — Hebrew "menorah."
-       KJV uses the older English term; ESV uses the more accurate modern
-       term. It is a seven-branched lampstand, not a candle holder.
+v.12 — Hebrew "kol b'khor" — every firstborn.
+       KJV: "I have taken the Levites from among the children of Israel instead of all the firstborn"
+       ESV: "I have taken the Levites from among the people of Israel instead of every firstborn"
+       ASV: "I have taken the Levites from among the children of Israel instead of all the first-born"
+       NET: "I have taken the Levites from among the Israelites instead of every firstborn"
+       WEB: "I have taken the Levites from among the children of Israel instead of all the firstborn"
+       Analysis: The substitutionary principle: Levites replace the
+       firstborn who belong to God since the Passover (Exodus 13:2). One
+       tribe standing in for all. ASV uses "Jehovah" and WEB uses "Yahweh"
+       in v.11 where NET has "the Lord." The divine claim on the firstborn
+       is grounded in the Exodus redemption.
 
-v.36 — KJV: "the boards of the tabernacle" / ESV: "the frames of the
-       tabernacle" — Hebrew "qarshei ha-mishkan." Whether these are solid
-       boards or open frames is debated. KJV follows the traditional
-       "boards"; ESV follows the view that they were frames (lighter for
-       transport).
+v.12 — Hebrew "kol b'khor peter rechem" — every firstborn who opens the womb.
+       KJV: "the firstborn that openeth the matrix"
+       ESV: "every firstborn who opens the womb"
+       ASV: "all the first-born that openeth the womb"
+       NET: "every firstborn male"
+       WEB: "all the firstborn who open the womb"
+       Analysis: KJV's "matrix" is archaic English for "womb." NET
+       simplifies to "firstborn male" without the Hebrew idiom of "opening
+       the womb." The firstborn who "opens the womb" is the first child
+       born to a mother.
 
-v.47 — KJV: "five shekels apiece by the poll" / ESV: "five shekels per
-       head" — Hebrew "chamesh chamesh sh'qalim la-gulgolet" — five, five
-       shekels per skull. Five shekels per person. "By the poll" (KJV) =
-       per head.
+v.25 — Hebrew "mishkan... ohel... mikhseh" — distinct layers of covering.
+       KJV: "the tabernacle, and the tent, the covering thereof"
+       ESV: "the tabernacle, the tent with its covering"
+       ASV: "the tabernacle, and the Tent, the covering thereof"
+       NET: "the tabernacle, the tent with its covering"
+       WEB: "the tabernacle, the tent, its covering"
+       Analysis: These are distinct layers: the "mishkan" (inner curtains),
+       the "ohel" (tent/goat-hair covering over it), and the "mikhseh"
+       (outer covering of ram/badger skins). The Gershonites carry all
+       the fabric/covering elements.
+
+v.31 — Hebrew "menorah" — lampstand.
+       KJV: "the candlestick"
+       ESV: "the lampstand"
+       ASV: "the candlestick"
+       NET: "the lampstand"
+       WEB: "the lampstand"
+       Analysis: KJV/ASV use the older English term "candlestick"; ESV/NET/
+       WEB use the more accurate modern term "lampstand." It is a seven-
+       branched lampstand, not a candle holder.
+
+v.36 — Hebrew "qarshei ha-mishkan" — the boards/frames of the tabernacle.
+       KJV: "the boards of the tabernacle"
+       ESV: "the frames of the tabernacle"
+       ASV: "the boards of the tabernacle"
+       NET: "the frames of the tabernacle"
+       WEB: "the boards of the tabernacle"
+       Analysis: Whether these are solid boards or open frames is debated.
+       KJV/ASV/WEB follow the traditional "boards"; ESV/NET follow the
+       view that they were frames (lighter for transport).
+
+v.47 — Hebrew "chamesh chamesh sh'qalim la-gulgolet" — five, five shekels
+       per skull.
+       KJV: "five shekels apiece by the poll"
+       ESV: "five shekels per head"
+       ASV: "thou shalt take five shekels apiece, by the poll; after the shekel of the sanctuary"
+       NET: "five shekels apiece, according to the sanctuary shekel"
+       WEB: "five shekels a head"
+       Analysis: Five shekels per person. KJV/ASV's "by the poll" = per
+       head. The 273 excess firstborn (over the Levite count) are redeemed
+       with silver — establishing that those who cannot be substituted must
+       be ransomed with payment.
 
 GLOSSARY
 ------------------------------------

@@ -85,6 +85,15 @@ v.4 — "streams in the south" / "watercourses in the Negev" —
       rushing water. The image: sudden, abundant, dramatic
       restoration after extended dryness.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — KJV: "turned again the captivity of Zion" / ASV: "brought back those that returned to Zion" / WEB: "brought back those who returned to Zion" / NET: "restored the well-being of Zion" — Significant interpretive divergence. KJV/ASV/WEB read Hebrew "shivat" as return from captivity; NET reads "shevut" as restoration of fortunes/well-being, not necessarily exile.
+- v.2 — KJV: "the heathen" / ASV/WEB: "the nations" / NET: "the nations" — KJV's "heathen" carries pejorative connotation absent from the neutral Hebrew "goyim."
+- v.4 — KJV: "as the streams in the south" / ASV: "the streams in the South" / WEB: "like the streams in the Negev" / NET: "just as the streams in the arid south are replenished" — WEB uses the actual Hebrew place name "Negev"; NET adds "arid" and "replenished" to explain the geography and the metaphor.
+- v.5 — NET: "Those who shed tears as they plant will shout for joy when they reap the harvest" — More interpretive than KJV's "They that sow in tears shall reap in joy." NET adds "shed," "plant" (for sow), and "the harvest" to make the agricultural metaphor explicit.
+- v.6 — KJV: "bearing precious seed" / ASV: "bearing seed for sowing" / WEB: "carrying seed for sowing" / NET: "carrying his bag of seed" — Different interpretations of Hebrew "meshek." KJV emphasizes value ("precious"); ASV/WEB emphasize purpose ("for sowing"); NET adds container ("bag").
+- v.1 — ASV: "Jehovah" / WEB: "Yahweh" / NET: "the Lord" — The divine name appears three times in six verses.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Restoration feels like a dream (v.1). When God finally moves

@@ -223,80 +223,89 @@ Charles Spurgeon:
   people forever. Every feast is a prophecy. Every prophecy points to
   Christ."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "the feasts of the LORD" / ESV: "the appointed feasts of the
-       LORD" — Hebrew "mo'adei YHWH" — from "mo'ed" (appointed time,
-       meeting, season). These are not merely celebrations but divinely
-       appointed times — scheduled meetings between God and His people.
-       ESV's "appointed feasts" captures this better than KJV's simple
-       "feasts."
+v.2  — Hebrew "mo'adei YHWH" — appointed times/seasons of the LORD.
+       KJV: "the feasts of the LORD"
+       ESV: "the appointed feasts of the LORD"
+       ASV: "The set feasts of Jehovah"
+       NET: "the Lord's appointed times which you must proclaim as holy assemblies"
+       WEB: "The feasts of Yahweh"
+       Analysis: From "mo'ed" (appointed time, meeting, season). These are not merely celebrations but divinely appointed times — scheduled meetings between God and His people. ESV's "appointed feasts" and NET's "appointed times" capture this better than KJV's simple "feasts." The possessive "my" emphasizes these are GOD'S feasts, not Israel's festivals.
 
-v.2  — KJV: "holy convocations" / ESV: "holy convocations" — Hebrew
-       "miqra'ei qodesh" — from "qara" (to call, proclaim, read). A
-       "miqra" is a calling together, a rehearsal, a proclamation. The
-       feasts are sacred assemblies AND prophetic rehearsals.
+v.2  — Hebrew "miqra'ei qodesh" — holy convocations/rehearsals.
+       KJV: "holy convocations"
+       ESV: "holy convocations"
+       Analysis: From "qara" (to call, proclaim, read). A "miqra" is a calling together, a rehearsal, a proclamation. The feasts are sacred assemblies AND prophetic rehearsals.
 
-v.3  — KJV: "the sabbath of rest" / ESV: "a Sabbath of solemn rest" —
-       Hebrew "shabbat shabbaton" — an intensive form: a sabbath of
-       complete cessation. ESV's "solemn rest" captures the intensification.
+v.3  — Hebrew "shabbat shabbaton" — an intensive form of sabbath.
+       KJV: "the sabbath of rest"
+       ESV: "a Sabbath of solemn rest"
+       ASV: "a sabbath of solemn rest"
+       NET: "a Sabbath of complete rest"
+       WEB: "a Sabbath of solemn rest"
+       Analysis: An intensive form: a sabbath of complete cessation. ESV/ASV/WEB's "solemn rest" captures the intensification. NET's "complete rest" captures the totality.
 
-v.5  — KJV: "at even" / ESV: "at twilight" — Hebrew "bein ha-arbayim" —
-       literally "between the evenings." Debated: either between noon and
-       sunset, or between sunset and dark. The Passover lamb was slain in
-       the late afternoon. KJV's "at even" and ESV's "at twilight" both
-       approximate.
+v.5  — Hebrew "bein ha-arbayim" — between the evenings.
+       KJV: "at even"
+       ESV: "at twilight"
+       ASV: "Jehovah's passover"
+       NET: "a Passover offering to the Lord"
+       WEB: "Yahweh's Passover"
+       Analysis: Debated: either between noon and sunset, or between sunset and dark. The Passover lamb was slain in the late afternoon. NET adds "offering" to clarify "pesach" refers both to the festival and the lamb sacrificed. The divine name attached to Passover marks it as God's own saving act.
 
-v.7  — KJV: "no servile work" / ESV: "no ordinary work" — Hebrew
-       "melekhet avodah" — work of labor/service. Distinguished from
-       "all work" (kol melakhah) used for Sabbath and Day of Atonement.
-       On feast days, food preparation was permitted; on Sabbath/Atonement,
-       NO work at all. KJV's "servile" is archaic; ESV's "ordinary" is
-       clearer.
+v.7  — Hebrew "melekhet avodah" — work of labor/service.
+       KJV: "no servile work"
+       ESV: "no ordinary work"
+       Analysis: Distinguished from "all work" (kol melakhah) used for Sabbath and Day of Atonement. On feast days, food preparation was permitted; on Sabbath/Atonement, NO work at all. KJV's "servile" is archaic; ESV's "ordinary" is clearer.
 
-v.11 — KJV: "on the morrow after the sabbath" / ESV: "On the day after
-       the Sabbath" — Hebrew "mi-macharat ha-shabbat." This phrase
-       generated significant debate: which Sabbath? The Pharisees said
-       the first day of Unleavened Bread (Nisan 16 always); the Sadducees
-       said the weekly Sabbath during the feast (always a Sunday). Christ's
-       resurrection on Sunday confirms the Sunday interpretation.
+v.11 — Hebrew "mi-macharat ha-shabbat" — on the morrow after the sabbath.
+       KJV: "on the morrow after the sabbath"
+       ESV: "On the day after the Sabbath"
+       Analysis: This phrase generated significant debate: which Sabbath? The Pharisees said the first day of Unleavened Bread (Nisan 16 always); the Sadducees said the weekly Sabbath during the feast (always a Sunday). Christ's resurrection on Sunday confirms the Sunday interpretation.
 
-v.13 — KJV: "the meat offering" / ESV: "the grain offering" — Hebrew
-       "minchah." KJV's "meat" is archaic English for "food" (not flesh).
-       ESV correctly renders "grain offering."
+v.13 — Hebrew "minchah" — grain/food offering.
+       KJV: "the meat offering"
+       ESV: "the grain offering"
+       Analysis: KJV's "meat" is archaic English for "food" (not flesh). ESV correctly renders "grain offering."
 
-v.15 — KJV: "seven sabbaths shall be complete" / ESV: "seven full weeks"
-       — Hebrew "sheva shabbatot temimot" — seven complete sabbaths/weeks.
-       "Shabbat" can mean either "sabbath" or "week." The count of 49 days
-       (7x7) leads to the 50th day — Pentecost (Greek: "fiftieth").
+v.15 — Hebrew "sheva shabbatot temimot" — seven complete sabbaths/weeks.
+       KJV: "seven sabbaths shall be complete"
+       ESV: "seven full weeks"
+       Analysis: "Shabbat" can mean either "sabbath" or "week." The count of 49 days (7x7) leads to the 50th day — Pentecost (Greek: "fiftieth").
 
-v.17 — KJV: "baken with leaven" / ESV: "baked with leaven" — Hebrew
-       "chametz te'afenah." Remarkable: leaven is normally forbidden in
-       offerings (2:11). These two loaves are the exception — because they
-       represent the Church (Jew and Gentile), which still contains sin.
-       A sin offering accompanies (v.19) for this reason.
+v.17 — Hebrew "chametz te'afenah" — baked with leaven.
+       KJV: "baken with leaven"
+       ESV: "baked with leaven"
+       Analysis: Remarkable: leaven is normally forbidden in offerings (2:11). These two loaves are the exception — because they represent the Church (Jew and Gentile), which still contains sin. A sin offering accompanies (v.19) for this reason.
 
-v.24 — KJV: "a memorial of blowing of trumpets" / ESV: "a memorial
-       proclaimed with blast of trumpets" — Hebrew "zikron teru'ah" —
-       a memorial of shouting/trumpet blast. "Teru'ah" can mean a shout,
-       an alarm, or a trumpet blast. The specific purpose is not stated
-       — it is a memorial, but of what? The mystery adds to its prophetic
-       significance.
+v.24 — Hebrew "zikron teru'ah" — a memorial of shouting/trumpet blast.
+       KJV: "a memorial of blowing of trumpets"
+       ESV: "a memorial proclaimed with blast of trumpets"
+       ASV: "a memorial of blowing of trumpets, a holy convocation"
+       NET: "a memorial of trumpet blasting, a holy assembly"
+       WEB: "a memorial of blowing of trumpets, a holy convocation"
+       Analysis: "Teru'ah" can mean a shout, an alarm, or a trumpet blast. The specific purpose is not stated — it is a memorial, but of what? The mystery adds to its prophetic significance. NET's "trumpet blasting" specifies the sound.
 
-v.34 — KJV: "the feast of tabernacles" / ESV: "the Feast of Booths" —
-       Hebrew "chag ha-sukkot" — the festival of booths/shelters. "Sukkah"
-       is a temporary shelter made of branches. KJV's "tabernacles" (from
-       Latin "tabernaculum" — tent) and ESV's "booths" both translate
-       correctly. The temporary nature is the point: life on earth is
-       temporary; God's dwelling with us will be permanent.
+v.27 — Hebrew "yom ha-kippurim" — day of coverings/atonements (plural).
+       KJV: "a day of atonement"
+       ESV: "the Day of Atonement"
+       ASV: "the day of atonement"
+       NET: "the Day of Atonement"
+       WEB: "the Day of Atonement"
+       Analysis: All translations render it identically. The most solemn day in Israel's calendar — the tenth day of the seventh month.
 
-v.40 — KJV: "boughs of goodly trees, branches of palm trees, and the
-       boughs of thick trees, and willows of the brook" / ESV: "the fruit
-       of splendid trees, branches of palm trees and boughs of leafy trees
-       and willows of the brook" — Hebrew identifies four types of
-       vegetation. Jewish tradition identifies these as citron (etrog),
-       palm (lulav), myrtle (hadas), and willow (aravah) — the "four
-       species" still used in Sukkot celebrations today.
+v.34 — Hebrew "chag ha-sukkot" — the festival of booths/shelters.
+       KJV: "the feast of tabernacles"
+       ESV: "the Feast of Booths"
+       Analysis: "Sukkah" is a temporary shelter made of branches. KJV's "tabernacles" (from Latin "tabernaculum" — tent) and ESV's "booths" both translate correctly. The temporary nature is the point: life on earth is temporary; God's dwelling with us will be permanent.
+
+v.40 — Hebrew four types of vegetation for Sukkot.
+       KJV: "boughs of goodly trees, branches of palm trees, and the boughs of thick trees, and willows of the brook"
+       ESV: "the fruit of splendid trees, branches of palm trees and boughs of leafy trees and willows of the brook"
+       ASV: "ye shall take you on the first day the fruit of goodly trees, branches of palm-trees"
+       NET: "you must take for yourselves branches from luxuriant trees"
+       Analysis: Jewish tradition identifies these as citron (etrog), palm (lulav), myrtle (hadas), and willow (aravah) — the "four species" still used in Sukkot celebrations today. NET uses "luxuriant trees" where ASV/KJV use "goodly trees" (Hebrew "etz hadar" — trees of splendor/glory).
 
 GLOSSARY
 ------------------------------------

@@ -108,54 +108,110 @@ Charles Spurgeon:
   AVENGES. The poor have a Defender whose wrath makes Pharaoh's army look
   like children playing at war."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "restore five oxen for an ox, and four sheep for a sheep" /
-       ESV: "repay five oxen for an ox, and four sheep for a sheep." The
-       Hebrew "yeshallem" means to make complete, to repay. Why five for an
-       ox but four for a sheep? An ox is a working animal (greater economic
-       loss); a sheep is not. Restitution is proportional to damage.
+v.1  — Hebrew "yeshallem" — to make complete, to repay.
+       KJV: "restore five oxen for an ox, and four sheep for a sheep"
+       ESV: "repay five oxen for an ox, and four sheep for a sheep"
+       ASV: "restore five oxen for an ox, and four sheep for a sheep"
+       NET: "he must pay back five head of cattle for the ox"
+       WEB: "restore five oxen for an ox, and four sheep for a sheep"
+       Analysis: All convey the same restitution principle. NET uniquely adds
+       "head of cattle" for clarity and marks this verse as "(21:37)"
+       following the Hebrew verse numbering (which differs from English Bibles
+       starting in this chapter). Why five for an ox but four for a sheep? An
+       ox is a working animal (greater economic loss); restitution is
+       proportional to damage.
 
-v.8  — KJV: "the judges" / ESV: "God" — Hebrew "ha'elohim." Same
-       translation issue as 21:6. The KJV reads "judges" (God's
-       representatives in court); the ESV reads "God" (the case is brought
-       before God Himself). The ESV interpretation emphasizes that all
-       justice ultimately comes before God.
+v.8  — Hebrew "ha'elohim" — God / the judges.
+       KJV: "the judges"
+       ESV: "God"
+       ASV: "come near unto God"
+       NET: "brought before the judges"
+       WEB: "come near to God"
+       Analysis: Same translation issue as 21:6. The NET consistently renders
+       "ha'elohim" as "the judges" (human authorities), while ASV and WEB
+       retain "God." The KJV reads "judges"; the ESV reads "God." The NET
+       emphasizes the courtroom setting over the sacred element.
 
-v.18 — KJV: "Thou shalt not suffer a witch to live" / ESV: "You shall not
-       permit a sorceress to live." Hebrew "mekhashshephah" — a female
-       practitioner of sorcery/harmful magic. The KJV "witch" carries
-       medieval connotations; the ESV "sorceress" is more precise. The
-       feminine form is used because women were more commonly associated
-       with this practice in the ancient Near East, but the prohibition
-       applies to both genders (Deuteronomy 18:10-12).
+v.11 — Hebrew "shevuat YHWH" — the oath of the LORD.
+       KJV: "the oath of the LORD"
+       ESV: "an oath by the LORD"
+       ASV: "the oath of Jehovah"
+       NET: "an oath to the Lord"
+       WEB: "the oath of Yahweh"
+       Analysis: The divine name distinction: ASV uses "Jehovah," WEB uses
+       "Yahweh" (closer to scholarly reconstruction of the Hebrew YHWH), and
+       NET substitutes the title "the Lord." Each reflects a different
+       tradition for handling the Tetragrammaton.
 
-v.20 — KJV: "utterly destroyed" / ESV: "devoted to destruction" — Hebrew
-       "yocharam" — placed under the "cherem" (ban of total destruction).
-       The ESV's "devoted to destruction" captures the technical meaning of
-       "cherem" — something irrevocably given over to God's judgment.
+v.18 — Hebrew "mekhashshephah" — a female practitioner of sorcery.
+       KJV: "Thou shalt not suffer a witch to live"
+       ESV: "You shall not permit a sorceress to live"
+       ASV: "Thou shalt not suffer a sorceress to live"
+       NET: "You must not allow a sorceress to live"
+       WEB: "You shall not allow a sorceress to live"
+       Analysis: The KJV "witch" carries medieval connotations; all modern
+       translations use "sorceress." The feminine form is used because women
+       were more commonly associated with this practice in the ancient Near
+       East, but the prohibition applies to both genders (Deuteronomy 18:10-12).
 
-v.21 — KJV: "stranger" / ESV: "sojourner" — Hebrew "ger" — a resident
-       alien, a foreigner living among Israel. The ESV's "sojourner" is more
-       precise than the KJV's "stranger" (which could mean anyone unknown).
-       A "ger" has chosen to live in Israel's community.
+v.20 — Hebrew "yocharam" — placed under the cherem (ban of total destruction).
+       KJV: "utterly destroyed"
+       ESV: "devoted to destruction"
+       ASV: "utterly destroyed"
+       NET: "utterly destroyed"
+       WEB: "utterly destroyed"
+       Analysis: The ESV's "devoted to destruction" captures the technical
+       meaning of "cherem" — something irrevocably given over to God's
+       judgment. All others use "utterly destroyed." Context: "save unto
+       the LORD only" — ASV adds "Jehovah," WEB adds "Yahweh," NET uses
+       "the Lord." All agree on the severity of the penalty for idolatry.
 
-v.25 — KJV: "usurer... usury" / ESV: "moneylender... interest" — Hebrew
-       "nosheh... neshekh." "Neshekh" literally means "a bite" — interest
-       that bites/devours the poor. The ESV's "interest" is clearer to
-       modern readers; the KJV's "usury" originally meant any interest (not
-       just excessive interest as in modern usage).
+v.21 — Hebrew "ger" — a resident alien, a foreigner living among Israel.
+       KJV: "stranger"
+       ESV: "sojourner"
+       ASV: "sojourner"
+       NET: "resident foreigner"
+       WEB: "alien"
+       Analysis: Three different renderings. NET's "resident foreigner" is
+       the most explanatory, making the legal status explicit. WEB's "alien"
+       is modern but clinical. ASV's "sojourner" is closest to the KJV
+       tradition. A "ger" has chosen to live in Israel's community.
 
-v.27 — KJV: "I am gracious" / ESV: "I am compassionate" — Hebrew "channun"
-       — gracious, compassionate, showing favor. Both translations are valid.
-       The KJV emphasizes God's unmerited favor; the ESV emphasizes His
-       emotional compassion. The Hebrew encompasses both.
+v.25 — Hebrew "nosheh... neshekh" — a creditor... a bite (interest).
+       KJV: "usurer... usury"
+       ESV: "moneylender... interest"
+       ASV: "neither shall ye lay upon him interest"
+       NET: "do not charge him interest"
+       WEB: "You shall not charge him interest"
+       Analysis: "Neshekh" literally means "a bite" — interest that bites/
+       devours the poor. All modern translations use "interest" rather than
+       KJV's "usury" (which originally meant any interest, not just
+       excessive). ASV retains formal "lay upon him" phrasing. The Hebrew
+       "neshekh" (bite) is lost in all modern translations.
 
-v.31 — KJV: "ye shall be holy men unto me" / ESV: "You shall be consecrated
-       to me" — Hebrew "anshei qodesh tihyun li" — men of holiness you
-       shall be to me. The KJV preserves "holy"; the ESV uses "consecrated"
-       (set apart). Both capture the idea: Israel is to be distinct,
-       separated, belonging to God.
+v.27 — Hebrew "channun" — gracious, compassionate, showing favor.
+       KJV: "I am gracious"
+       ESV: "I am compassionate"
+       ASV: "I am gracious"
+       NET: "I am compassionate"
+       WEB: "I am gracious"
+       Analysis: KJV/ASV/WEB emphasize God's unmerited favor ("gracious");
+       ESV/NET emphasize His emotional compassion. The Hebrew encompasses
+       both dimensions.
+
+v.31 — Hebrew "anshei qodesh tihyun li" — men of holiness you shall be to me.
+       KJV: "ye shall be holy men unto me"
+       ESV: "You shall be consecrated to me"
+       ASV: "ye shall be holy men unto me"
+       NET: "You will be holy people to me"
+       WEB: "You shall be holy men to me"
+       Analysis: The KJV/ASV/WEB preserve "holy"; the ESV uses "consecrated"
+       (set apart). NET uses "people" (gender-inclusive) where ASV/WEB retain
+       "men" (Hebrew "anshei qodesh"). This is a minor but notable
+       interpretive choice in the NET's translation philosophy. All capture
+       the call to holiness as the chapter's climax.
 
 GLOSSARY
 ------------------------------------

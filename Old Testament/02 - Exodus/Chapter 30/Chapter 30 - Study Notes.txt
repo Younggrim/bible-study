@@ -99,50 +99,159 @@ Charles Spurgeon:
   specific — God's recipe, not man's invention. True prayer follows God's
   pattern, not our preferences."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "shittim wood" / ESV: "acacia wood" — Same as previous chapters.
-       ESV translates; KJV transliterates.
+v.1  — Hebrew "atzei shittim" — acacia wood.
+       KJV: "shittim wood"
+       ESV: "acacia wood"
+       ASV: "acacia wood"
+       NET: "acacia wood"
+       WEB: "acacia wood"
+       Analysis: Same as previous chapters. KJV transliterates; all modern
+       translations correctly identify acacia.
 
-v.7  — KJV: "sweet incense" / ESV: "fragrant incense" — Hebrew "qetoret
-       sammim" — incense of spices/aromatics. Both equivalent; ESV's
-       "fragrant" is more natural modern English.
+v.6  — Hebrew "kapporet" — the mercy seat / atonement lid.
+       KJV: "the mercy seat"
+       ESV: "the mercy seat"
+       ASV: "the mercy-seat"
+       NET: "the atonement lid"
+       WEB: "the mercy seat"
+       Analysis: ASV/WEB retain the traditional "mercy seat"; NET renders it
+       literally as "atonement lid" — emphasizing its function (a lid where
+       atonement blood was sprinkled) over its theological meaning (the
+       place where God shows mercy). NET's choice is more literal but loses
+       the rich Reformation-era theology of the term.
 
-v.9  — KJV: "strange incense" / ESV: "unauthorized incense" — Hebrew
-       "qetoret zarah" — foreign/unauthorized incense. The ESV's
-       "unauthorized" clarifies the meaning: not merely unfamiliar but
-       unprescribed by God. Only God's recipe is acceptable.
+v.7  — Hebrew "qetoret sammim" — incense of spices/aromatics.
+       KJV: "sweet incense"
+       ESV: "fragrant incense"
+       ASV: "sweet incense"
+       NET: "fragrant incense"
+       WEB: "sweet incense"
+       Analysis: KJV/ASV/WEB use "sweet"; ESV/NET use "fragrant." Both
+       are equivalent; ESV/NET's "fragrant" is more natural modern English.
 
-v.12 — KJV: "a ransom for his soul" / ESV: "a ransom for his life" —
-       Hebrew "kopher nafsho" — a covering/ransom for his life/soul. Both
-       valid; "nephesh" means both soul and life. The payment covers/atones
-       for the person.
+v.8  — Hebrew "tamid... lifnei YHWH" — continual/perpetual... before the LORD.
+       KJV: "a perpetual incense before the LORD"
+       ESV: "a regular incense before the LORD"
+       ASV: "a perpetual incense before Jehovah"
+       NET: "a regular incense offering before the Lord"
+       WEB: "a perpetual incense before Yahweh"
+       Analysis: The divine name differs: ASV "Jehovah," WEB "Yahweh," NET
+       "the Lord." Additionally, NET uses "regular" where ASV/WEB use
+       "perpetual" (Hebrew "tamid" — continual, perpetual). NET also adds
+       "offering" which is not in the Hebrew, making the incense explicitly
+       sacrificial.
 
-v.15 — KJV: "The rich shall not give more, and the poor shall not give
-       less" / ESV: "The rich shall not give more, and the poor shall not
-       give less" — Both identical. Every soul has equal value before God.
-       Redemption is not proportional to wealth.
+v.9  — Hebrew "qetoret zarah" — foreign/unauthorized incense.
+       KJV: "strange incense"
+       ESV: "unauthorized incense"
+       ASV: "strange incense"
+       NET: "unauthorized incense"
+       WEB: "strange incense"
+       Analysis: ESV/NET "unauthorized" clarifies the meaning: not merely
+       unfamiliar but unprescribed by God. KJV/ASV/WEB retain "strange."
+       Only God's recipe is acceptable — Nadab and Abihu learned this fatally
+       (Leviticus 10:1).
 
-v.18 — KJV: "a laver of brass" / ESV: "a basin of bronze" — Hebrew "kiyyor
-       nechoshet." KJV's "laver" is archaic for a washing basin; ESV's
-       "basin" is modern. KJV's "brass" vs. ESV's "bronze" — same
-       correction as earlier chapters.
+v.12 — Hebrew "kopher nafsho" — a covering/ransom for his life/soul.
+       KJV: "a ransom for his soul"
+       ESV: "a ransom for his life"
+       ASV: "a ransom for his soul unto Jehovah"
+       NET: "a ransom for his life to the Lord"
+       WEB: "a ransom for his soul to Yahweh"
+       Analysis: ASV/WEB translate "nephesh" as "soul"; ESV/NET translate it
+       as "life." Both are valid meanings. "Soul" carries more theological
+       weight (the eternal person); "life" focuses on physical existence. The
+       census ransom covers the whole person. The payment covers/atones for
+       the person.
 
-v.25 — KJV: "an ointment compound after the art of the apothecary" / ESV:
-       "a sacred anointing oil blended as by the perfumer" — Hebrew
-       "roqe'ach" — a perfumer/compounder. ESV's "perfumer" is more
-       accurate than KJV's "apothecary" (which now means pharmacist). The
-       ESV also adds "sacred" to clarify the oil's holy purpose.
+v.14 — Hebrew "over al happequdim" — passes over to those numbered.
+       KJV: "every one that passeth among them that are numbered"
+       ESV: "each who is numbered in the census"
+       ASV: "Every one that passeth over unto them that are numbered"
+       NET: "Everyone who crosses over to those numbered, from twenty years old and up, is to pay an offering to the Lord"
+       WEB: "everyone who passes over to those who are numbered"
+       Analysis: NET restructures the verse significantly, adding "is to pay"
+       for clarity. NET's dynamic equivalence smooths the Hebrew idiom
+       "passes over to those numbered" into plain English.
 
-v.33 — KJV: "a stranger" / ESV: "an outsider" — Hebrew "zar" — an
-       unauthorized person, a non-priest. ESV's "outsider" is clearer than
-       KJV's "stranger" (which could mean foreigner). Anyone not authorized
-       for priestly service.
+v.15 — Hebrew "he'ashir lo yarbeh vehadal lo yam'it" — the rich shall not
+       increase and the poor shall not diminish.
+       KJV: "The rich shall not give more, and the poor shall not give less"
+       ESV: "The rich shall not give more, and the poor shall not give less"
+       ASV: "The rich shall not give more, and the poor shall not give less"
+       NET: "The rich shall not pay more and the poor shall not pay less"
+       WEB: "The rich shall not give more, and the poor shall not give less"
+       Analysis: All are virtually identical. NET uses "pay" instead of
+       "give." Every soul has equal value before God. Redemption is not
+       proportional to wealth.
 
-v.35 — KJV: "tempered together" / ESV: "seasoned with salt" — Hebrew
-       "memullach" — salted. The ESV includes "salt" which is in the Hebrew
-       but absent from the KJV rendering. Salt = purity, preservation,
+v.18 — Hebrew "kiyyor nechoshet" — a basin/laver of bronze.
+       KJV: "a laver of brass"
+       ESV: "a basin of bronze"
+       ASV: "a laver of brass"
+       NET: "a large bronze basin"
+       WEB: "a basin of brass"
+       Analysis: KJV/ASV use archaic "laver" (washing basin); ESV/WEB use
+       "basin." NET adds "large" (interpretive addition not in the Hebrew)
+       and correctly uses "bronze." KJV/ASV/WEB incorrectly use "brass."
+
+v.23 — Hebrew "mor deror chamesh me'ot sheqel" — myrrh of freedom, five
+       hundred shekels.
+       KJV: "of pure myrrh five hundred shekels"
+       ESV: "of liquid myrrh 500 shekels"
+       ASV: "of flowing myrrh five hundred shekels"
+       NET: "12½ pounds of free-flowing myrrh"
+       WEB: "of liquid myrrh, five hundred shekels"
+       Analysis: NET converts ancient measurements to modern equivalents
+       (12½ pounds), making it immediately accessible but losing the original
+       shekel measurements. ASV has "flowing"; WEB/ESV use "liquid." All
+       describe "mor deror" — myrrh of freedom/flowing — the finest grade.
+
+v.25 — Hebrew "roqe'ach" — a perfumer/compounder.
+       KJV: "an ointment compound after the art of the apothecary"
+       ESV: "a sacred anointing oil blended as by the perfumer"
+       ASV: "a holy anointing oil, a perfume compounded after the art of the perfumer"
+       NET: "a sacred anointing oil"
+       WEB: "a holy anointing oil, a perfume compounded after the art of the perfumer"
+       Analysis: ESV/ASV/WEB's "perfumer" is more accurate than KJV's
+       "apothecary" (which now means pharmacist). NET omits the craftsman
+       reference entirely. ESV also adds "sacred" to clarify the oil's holy
+       purpose.
+
+v.33 — Hebrew "zar" — an unauthorized person, a non-priest.
+       KJV: "a stranger"
+       ESV: "an outsider"
+       ASV: "a stranger"
+       NET: "an outsider"
+       WEB: "a stranger"
+       Analysis: ESV/NET "outsider" is clearer than KJV/ASV/WEB "stranger"
+       (which could mean foreigner). Anyone not authorized for priestly
+       service is excluded from the sacred oil.
+
+v.35 — Hebrew "memullach" — salted.
+       KJV: "tempered together"
+       ESV: "seasoned with salt"
+       ASV: "seasoned with salt, pure and holy"
+       NET: "It is to be finely ground, and pure and sacred"
+       WEB: "seasoned with salt, pure and holy"
+       Analysis: ESV/ASV/WEB include "seasoned with salt" (Hebrew "memullach")
+       which KJV omits. NET surprisingly renders "memullach" as "finely
+       ground" rather than "salted" — a minority interpretation. Most lexicons
+       support "salted" as the primary meaning, connecting incense to the salt
        covenant (Leviticus 2:13).
+
+v.37 — Hebrew "qodesh la-YHWH" — holy to the LORD.
+       KJV: "it shall be unto thee holy for the LORD"
+       ESV: "it shall be holy to you for the LORD"
+       ASV: "it shall be unto thee holy for Jehovah"
+       NET: "it is to be most holy to you, belonging to the Lord"
+       WEB: "it shall be to you holy for Yahweh"
+       Analysis: NET adds the interpretive phrase "belonging to the Lord" to
+       explain the Hebrew construction. NET also upgrades "holy" to "most
+       holy" (Hebrew "qodesh" can be either depending on context). The divine
+       name pattern continues: Jehovah/Yahweh/the Lord.
 
 GLOSSARY
 ------------------------------------

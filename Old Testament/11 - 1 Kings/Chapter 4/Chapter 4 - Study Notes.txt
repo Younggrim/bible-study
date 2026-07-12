@@ -226,6 +226,20 @@ the east        and others renowned for wisdom traditions. "Eastern
               all indicates supernatural gifting beyond human
               learning.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.29 — ASV: "God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the sea-shore" / WEB: "God gave Solomon abundant wisdom and understanding, and very great understanding, even as the sand that is on the seashore" / NET: "God gave Solomon wisdom and very great discernment; the breadth of his understanding was as infinite as the sand on the seashore" — Hebrew "rochav lev" = literally "breadth/largeness of heart." ASV preserves "largeness of heart" — the Hebrew concept that wisdom expands the soul. NET substitutes "the breadth of his understanding," losing the Hebrew "heart" (lev) as the seat of intellect and wisdom.
+
+- v.25 — ASV: "Judah and Israel dwelt safely, every man under his vine and under his fig-tree" / WEB: "Judah and Israel lived safely, every man under his vine and under his fig tree" / NET: "All the people of Judah and Israel had security; everyone from Dan to Beer Sheba enjoyed the produce of their vines and fig trees" — NET paraphrases the iconic covenant blessing formula. "Under his vine and fig tree" (Micah 4:4; Zechariah 3:10) is prophetic shorthand for messianic peace. NET's "enjoyed the produce of" destroys this intertextual connection.
+
+- v.5 — ASV: "the king's friend" / WEB: "chief minister, the king's friend" / NET: "a priest and adviser to the king" — Hebrew "re'eh ha-melek" = "friend of the king," an official court title. ASV/WEB preserve this technical term; NET interprets it as "adviser," losing the relational dimension of this ancient Near Eastern court title.
+
+- v.6 — ASV: "over the men subject to taskwork" / WEB: "over the men subject to forced labor" / NET: "supervisor of the work crews" — Hebrew "mas" = forced/corvée labor, a loaded term that will cause the kingdom's division (1 Kings 12:4). WEB's "forced labor" is most precise; NET's neutral "work crews" conceals the oppressive nature of Solomon's labor policy.
+
+- v.20 — ASV: "eating and drinking and making merry" / WEB: "eating and drinking and making merry" / NET: "they had plenty to eat and drink and were happy" — The Hebrew idiom "eating and drinking and making merry" (Ecclesiastes 8:15) carries theological weight as a description of covenant blessing and creation enjoyment. NET flattens this to prosaic "plenty to eat and drink and were happy."
+
+- v.26 — ASV/WEB: "forty thousand stalls of horses" / NET: "4,000 stalls for his chariot horses" — A significant textual variant. The Hebrew Masoretic text reads 40,000, but 2 Chronicles 9:25 reads 4,000. NET follows Chronicles (likely the original number); ASV/WEB follow the Masoretic text of Kings. This is a well-known numerical discrepancy between Kings and Chronicles.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Wise leadership produces flourishing for everyone (vv.20, 25).

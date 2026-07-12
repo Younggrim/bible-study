@@ -88,6 +88,14 @@ v.1 — "things too high for me" — Hebrew "niphla'ot" = wonderful/
       extraordinary things beyond my capacity. David doesn't deny
       mystery — he accepts what is beyond him without striving.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — KJV: "LORD, my heart is not haughty, nor mine eyes lofty" / NET: "O Lord, my heart is not proud, nor do I have a haughty look" — NET redistributes: KJV's "haughty" (heart) and "lofty" (eyes) become "proud" (heart) and "haughty look" (eyes).
+- v.1 — KJV: "neither do I exercise myself in great matters, or in things too high for me" / ASV: "things too wonderful for me" / WEB: "things too wonderful for me" / NET: "I do not have great aspirations, or concern myself with things that are beyond me" — ASV/WEB's "wonderful" (Hebrew "niph'la'ot") adds positive connotation; NET neutralizes to "beyond me."
+- v.2 — KJV: "I have behaved and quieted myself" / ASV/WEB: "I have stilled and quieted my soul" / NET: "I have calmed and quieted myself" — ASV/WEB distinguish between "stilled" (action) and "quieted" (result); NET combines both into the gentler "calmed and quieted."
+- v.2 — NET: "I am content like a young child" — Adds "content" (not in Hebrew) to interpret the weaned-child metaphor. This makes explicit what the other translations leave implicit through imagery.
+- v.3 — ASV: "O Israel, hope in Jehovah" / WEB: "Israel, hope in Yahweh" / NET: "O Israel, hope in the Lord" — Standard divine name pattern in the psalm's closing exhortation.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Choose humility (v.1). Humility is not weakness — it's the

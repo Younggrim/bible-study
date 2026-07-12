@@ -134,61 +134,132 @@ Charles Spurgeon:
   fat of praise ascend continually. The altar of your heart must never grow
   cold."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "If a soul sin, and commit a trespass against the LORD" /
-       ESV: "If anyone sins and commits a breach of faith against the LORD"
-       — Hebrew "ma'al ma'al" — to act unfaithfully/treacherously. ESV's
-       "breach of faith" captures the covenant-breaking nature. KJV's
-       "trespass" is more general. The Hebrew emphasizes betrayal of trust.
+v.1  — Note: NET includes Hebrew verse numbering in parentheses. In the
+       Hebrew Bible, Leviticus 6:1-7 (English) is 5:20-26 (Hebrew). This
+       chapter division difference affects cross-referencing.
 
-v.2  — KJV: "in fellowship" / ESV: "or security" — Hebrew "tesumeth yad"
-       — a pledge/deposit placed in hand. KJV's "fellowship" is misleading;
-       ESV's "security" (a financial pledge) is more accurate.
+v.2  — Hebrew "ma'al ma'al" — to act unfaithfully/treacherously. Hebrew
+       "amith" — fellow citizen/neighbor.
+       KJV: "If a soul sin, and commit a trespass against the LORD... in
+       fellowship"
+       ESV: "If anyone sins and commits a breach of faith against the
+       LORD... or security"
+       ASV: "commit a trespass against Jehovah, and deal falsely with his
+       neighbor"
+       NET: "commits a trespass against the Lord by deceiving his fellow
+       citizen"
+       WEB: "commits a trespass against Yahweh, and deals falsely with his
+       neighbor"
+       Analysis: ESV's "breach of faith" captures the covenant-breaking
+       nature. KJV's "trespass" is more general. NET's "fellow citizen"
+       (Hebrew "amith") is more specific than KJV/ASV's "neighbor." The
+       Hebrew emphasizes betrayal of trust. KJV's "in fellowship" is
+       misleading; ESV's "security" (a financial pledge, Hebrew "tesumeth
+       yad") is more accurate.
 
-v.5  — KJV: "in the principal" / ESV: "in full" — Hebrew "b'rosho" —
-       literally "in its head/chief amount." Both convey full restitution
-       of the original amount.
+v.5  — Hebrew "b'rosho" — in its head/chief amount.
+       KJV: "in the principal"
+       ESV: "in full"
+       ASV: "in full"
+       NET: "its full value"
+       WEB: "in full"
+       Analysis: All convey full restitution of the original amount plus
+       one-fifth (20%).
 
-v.6  — KJV: "trespass offering" / ESV: "guilt offering" — Hebrew "asham."
-       ESV's "guilt offering" better captures the meaning: this offering
-       addresses guilt and requires compensation. KJV's "trespass" focuses
-       on the act; ESV's "guilt" focuses on the condition.
+v.6  — Hebrew "asham" — guilt/trespass offering.
+       KJV: "trespass offering"
+       ESV: "guilt offering"
+       ASV: "trespass-offering"
+       NET: "guilt offering"
+       WEB: "trespass offering"
+       Analysis: NET/ESV translate "asham" as "guilt offering" (emphasizing
+       the guilt that requires reparation), while ASV/WEB/KJV use "trespass
+       offering" (emphasizing the violation). Both capture different aspects
+       of the same Hebrew term.
 
-v.9  — KJV: "the law of the burnt offering" / ESV: "the law of the burnt
-       offering" — Hebrew "torath ha'olah." "Torah" here means instruction/
-       regulation, not the whole Law. This is the priestly manual.
+v.9  — Hebrew "torath ha'olah" — the law/instruction of the burnt offering.
+       Hebrew "moqdah" — the hearth/burning surface of the altar.
+       KJV: "the law of the burnt offering... on the hearth"
+       ESV: "the law of the burnt offering... on the hearth"
+       ASV: "the burnt-offering shall be on the hearth"
+       NET: "The burnt offering is to remain on the hearth"
+       WEB: "the burnt offering shall be on the hearth"
+       Analysis: All translations agree on "hearth" (Hebrew "moqdah") — the
+       burning surface of the altar. "Torah" here means instruction/
+       regulation, not the whole Law. The perpetual fire symbolizes
+       unceasing worship.
 
-v.10 — KJV: "linen breeches" / ESV: "linen undergarment" — Hebrew
-       "miknesei bad" — linen undergarments. ESV modernizes; KJV preserves
-       the archaic "breeches."
+v.10 — Hebrew "miknesei bad" — linen undergarments. Hebrew "deshen" —
+       fatty ashes.
+       KJV: "linen breeches... the ashes"
+       ESV: "linen undergarment... the ashes"
+       ASV: "linen breeches... the ashes whereto the fire hath consumed"
+       NET: "linen leggings over his bare flesh... the fatty ashes"
+       WEB: "linen trousers... the ashes from where the fire has consumed"
+       Analysis: ESV modernizes "breeches"; NET uses "leggings" and adds
+       "bare" to clarify priestly modesty. NET's "fatty ashes" (Hebrew
+       "deshen") is more precise — these ashes are mixed with sacrificial
+       fat, not ordinary ash.
 
-v.14 — KJV: "the meat offering" / ESV: "the grain offering" — Hebrew
-       "minchah." KJV's "meat" is archaic English for "food" (not flesh).
-       ESV's "grain offering" is far clearer for modern readers. This is
+v.14 — Hebrew "minchah" — grain offering.
+       KJV: "the meat offering"
+       ESV: "the grain offering"
+       ASV: "the meal-offering"
+       NET: "the grain offering"
+       WEB: "the meal offering"
+       Analysis: KJV's "meat" is archaic English for "food" (not flesh).
+       ESV/NET "grain offering" is far clearer for modern readers. This is
        flour, oil, and frankincense — no animal flesh involved.
 
-v.15 — KJV: "a sweet savour, even the memorial of it" / ESV: "a pleasing
-       aroma to the LORD" — Hebrew "re'ach nichoach... azkaratah." KJV
-       preserves "memorial" (azkarah) — the portion that brings the
-       worshipper to God's remembrance. ESV omits this nuance.
+v.15 — Hebrew "re'ach nichoach... azkaratah" — pleasing aroma... its
+       memorial.
+       KJV: "a sweet savour, even the memorial of it"
+       ESV: "a pleasing aroma to the LORD"
+       ASV: "for a sweet savor, the memorial thereof"
+       NET: "for a soothing aroma, its memorial portion"
+       WEB: "for a pleasant aroma, the memorial of it"
+       Analysis: KJV/ASV/NET/WEB preserve "memorial" (azkarah) — the
+       portion that brings the worshipper to God's remembrance. ESV omits
+       this nuance.
 
-v.21 — KJV: "in a pan" / ESV: "on a griddle" — Hebrew "al machabath" —
-       a flat plate/griddle. ESV is more precise; KJV's "pan" suggests
+v.21 — Hebrew "al machabath" — on a flat plate/griddle.
+       KJV: "in a pan"
+       ESV: "on a griddle"
+       ASV: "upon a baking-pan"
+       NET: "on a griddle"
+       WEB: "on a griddle"
+       Analysis: ESV/NET/WEB are more precise; KJV's "pan" suggests
        sides/depth.
 
-v.25 — KJV: "the law of the sin offering" / ESV: "the law of the sin
-       offering" — Hebrew "torath ha-chatta'th." Both identical. "Sin
-       offering" — Hebrew "chatta'th" — from the root "to miss/fail."
+v.25 — Hebrew "torath ha-chatta'th" — the law of the sin offering.
+       KJV: "the law of the sin offering"
+       ESV: "the law of the sin offering"
+       ASV: "the law of the sin-offering"
+       NET: "the law of the sin offering"
+       WEB: "the law of the sin offering"
+       Analysis: All identical. "Sin offering" — Hebrew "chatta'th" — from
+       the root "to miss/fail."
 
-v.28 — KJV: "sodden" / ESV: "boiled" — Hebrew "bushlah." KJV's "sodden"
-       is archaic past participle of "seethe" (to boil). ESV's "boiled"
-       is clear. KJV: "brasen" / ESV: "bronze" — same metal, updated term.
+v.28 — Hebrew "bushlah" — boiled/cooked. Hebrew "n'chosheth" — bronze.
+       KJV: "sodden... brasen vessel"
+       ESV: "boiled... bronze vessel"
+       ASV: "boiled... brazen vessel"
+       NET: "boiled... bronze vessel"
+       WEB: "boiled... bronze vessel"
+       Analysis: KJV's "sodden" is archaic past participle of "seethe" (to
+       boil). KJV's "brasen" = ESV/NET/WEB's "bronze" — same metal,
+       updated term.
 
-v.30 — KJV: "to reconcile withal in the holy place" / ESV: "to make
-       atonement in the Holy Place" — Hebrew "l'khapper ba-qodesh." Both
-       convey the same meaning. KJV's "reconcile" and ESV's "atonement"
-       are both valid renderings of "kaphar."
+v.30 — Hebrew "l'khapper ba-qodesh" — to atone in the holy place.
+       KJV: "to reconcile withal in the holy place"
+       ESV: "to make atonement in the Holy Place"
+       ASV: "to make atonement in the holy place"
+       NET: "to make atonement in the holy place"
+       WEB: "to make atonement in the holy place"
+       Analysis: KJV's "reconcile" and ESV/ASV/NET/WEB's "atonement" are
+       both valid renderings of "kaphar."
 
 GLOSSARY
 ------------------------------------

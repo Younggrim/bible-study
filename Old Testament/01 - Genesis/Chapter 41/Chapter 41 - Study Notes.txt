@@ -103,56 +103,95 @@ Charles Spurgeon:
   time. Every injustice, every delay, every forgotten promise — all preparation
   for THIS moment. Trust God's timing. Your 'suddenly' is coming."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "two full years" / ESV: "After two whole years" — Both
-       equivalent. Two more years after the butler's release. Total time in
-       prison: approximately 10-11 years. Total time from sale to exaltation:
-       13 years.
+v.1  — Hebrew "shenathayim yamim" — two full years of days.
+       KJV: "two full years"
+       ESV: "After two whole years"
+       ASV: "at the end of two full years"
+       NET: "After two full years"
+       WEB: "At the end of two full years"
+       Analysis: All equivalent. Two more years after the butler's release.
+       Total time in prison: approximately 10-11 years. Total time from sale
+       to exaltation: 13 years.
 
-v.16 — KJV: "It is not in me: God shall give Pharaoh an answer of peace" /
-       ESV: "It is not in me; God will give Pharaoh a favorable answer" —
-       KJV "answer of peace" vs. ESV "favorable answer." Hebrew "bil'aday"
-       — apart from me, not from me. Joseph consistently deflects credit to
-       God (40:8, 41:16, 41:25, 28).
+v.8  — Hebrew "chartummim" — magicians/diviner-priests.
+       KJV: "magicians"
+       ESV: "magicians"
+       ASV: "magicians"
+       NET: "all the diviner-priests of Egypt and all its wise men"
+       WEB: "magicians"
+       Analysis: NET renders "chartummim" as "diviner-priests" rather than
+       "magicians," specifying their religious-divinatory function. All other
+       translations use the traditional "magicians."
 
-v.38 — KJV: "the Spirit of God" / ESV: "the Spirit of God" — Both identical.
-       Hebrew "ruach Elohim." Even a pagan Pharaoh recognizes the divine
-       Spirit in Joseph.
+v.16 — Hebrew "bil'aday" — apart from me, not from me.
+       KJV: "It is not in me: God shall give Pharaoh an answer of peace"
+       ESV: "It is not in me; God will give Pharaoh a favorable answer"
+       ASV: "It is not in me; God will give Pharaoh an answer of peace"
+       NET: "It is not within my power...God will address Pharaoh's welfare"
+       WEB: "It isn't in me. God will give Pharaoh an answer of peace"
+       Analysis: KJV "answer of peace" vs. ESV "favorable answer." NET
+       renders Joseph's deflection with "it is not within my power" more
+       explicitly. Joseph consistently deflects credit to God (40:8, 41:16,
+       41:25, 28).
 
-v.43 — KJV: "Bow the knee" / ESV: "Bow the knee!" — Both identical. Hebrew
-       "abrek" — possibly Egyptian for "kneel" or "attention." All Egypt
-       bows to Joseph.
+v.38 — Hebrew "ruach Elohim" — the Spirit of God.
+       KJV: "the Spirit of God"
+       ESV: "the Spirit of God"
+       ASV: "the Spirit of God"
+       NET: "Can we find a man like this, one in whom the Spirit of God dwells?"
+       WEB: "the Spirit of God"
+       Analysis: All translations identical in substance. Even a pagan Pharaoh
+       recognizes the divine Spirit in Joseph. NET adds "dwells" for emphasis.
 
-v.45 — KJV: "Zaphnath-paaneah" / ESV: "Zaphenath-paneah" — Minor spelling
-       variation. Egyptian name, meaning debated: possibly "God speaks and
-       lives" or "sustainer of life."
+v.43 — Hebrew "abrek" — possibly Egyptian for "kneel" or "attention."
+       KJV: "Bow the knee"
+       ESV: "Bow the knee!"
+       ASV: "Bow the knee"
+       NET: "Kneel down!"
+       WEB: "Bow the knee!"
+       Analysis: All equivalent. The Hebrew "abrek" may be Egyptian in origin.
+       All Egypt bows to Joseph — a foreshadowing of Philippians 2:10.
 
-v.46 — KJV: "Joseph was thirty years old" / ESV: "Joseph was thirty years
-       old" — Both identical. Sold at 17 (37:2). Thirteen years of suffering
-       between the pit and the palace.
+v.45 — Hebrew/Egyptian "Zaphnath-paaneah" — meaning debated: possibly "God
+       speaks and lives" or "sustainer of life."
+       KJV: "Zaphnath-paaneah"
+       ESV: "Zaphenath-paneah"
+       ASV: "Zaphenath-paneah"
+       NET: "Zaphenath-Paneah"
+       WEB: "Zaphenath-Paneah"
+       Analysis: Minor spelling variations in transliteration. NET adds
+       explanatory notes about the probable Egyptian meaning ("the god speaks
+       and he lives" or "sustainer of life").
 
-v.51 — KJV: "Manasseh" / ESV: "Manasseh" — Both identical. Hebrew
-       "Menasheh" — "causing to forget." God healed Joseph's pain.
+v.46 — Hebrew "ben-sheloshim shanah" — son of thirty years.
+       KJV: "Joseph was thirty years old"
+       ESV: "Joseph was thirty years old"
+       ASV: "Joseph was thirty years old"
+       NET: "Joseph was thirty years old"
+       WEB: "Joseph was thirty years old"
+       Analysis: All identical. Sold at 17 (37:2). Thirteen years of
+       suffering between the pit and the palace. Same age Jesus began His
+       ministry (Luke 3:23).
 
-v.52 — KJV: "Ephraim" / ESV: "Ephraim" — Both identical. Hebrew "Ephrayim"
-       — "double fruitfulness." God made Joseph fruitful in the very land of
-       his affliction.
+v.51 — Hebrew "Menasheh" — causing to forget.
+       KJV: "Manasseh"
+       ESV: "Manasseh"
+       ASV: "Manasseh"
+       NET: "Manasseh"
+       WEB: "Manasseh"
+       Analysis: All identical. "Causing to forget." God healed Joseph's pain
+       — He made him forget the toil and hardship of his father's house.
 
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.8 — NET: "all the diviner-priests of Egypt and all its wise men" — renders
-  Hebrew "chartummim" as "diviner-priests" rather than "magicians" (KJV/ESV)
-  or "magicians" (WEB/ASV), specifying their religious-divinatory function.
-- v.16 — NET: "It is not within my power...God will address Pharaoh's welfare"
-  — renders Joseph's deflection with "it is not within my power" (Hebrew "not
-  in me") more explicitly than KJV's "It is not in me."
-- v.38 — NET: "Can we find a man like this, one in whom the Spirit of God
-  dwells?" — same across translations. Pharaoh's recognition of divine Spirit
-  in Joseph is rendered consistently.
-- v.45 — NET: "Zaphenath-Paneah" — all translations transliterate this
-  Egyptian name. NET adds explanatory notes about the probable Egyptian
-  meaning ("the god speaks and he lives" or "sustainer of life").
+v.52 — Hebrew "Ephrayim" — double fruitfulness.
+       KJV: "Ephraim"
+       ESV: "Ephraim"
+       ASV: "Ephraim"
+       NET: "Ephraim"
+       WEB: "Ephraim"
+       Analysis: All identical. "Double fruitfulness." God made Joseph
+       fruitful in the very land of his affliction.
 
 GLOSSARY
 ------------------------------------

@@ -113,68 +113,74 @@ Charles Spurgeon:
   God WAS 'cut' — Christ's body broken to keep the covenant Abram could never
   keep. Unconditional. Unbreakable. God's alone to fulfill."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "the word of the LORD came unto Abram in a vision" / ESV: "the
-       word of the LORD came to Abram in a vision" — Both equivalent. First
-       use of "the word of the LORD came" — a prophetic formula used hundreds
-       of times in the OT.
+v.1  — Hebrew "debar-Yahweh... magen... sekharekha harbeh meod"
+       KJV: "the word of the LORD came unto Abram in a vision... I am thy shield, and thy exceeding great reward"
+       ESV: "the word of the LORD came to Abram in a vision... I am your shield; your reward shall be very great"
+       ASV: "the word of Jehovah came unto Abram in a vision... I am thy shield, and thy exceeding great reward"
+       NET: "the Lord's message came to Abram in a vision... I am your shield and the one who will reward you in great abundance"
+       WEB: "Yahweh's word came to Abram in a vision... I am your shield, your exceedingly great reward"
+       Analysis: NET renders "debar Yahweh" as "the Lord's message" —
+       emphasizing communication over divine title. For the reward: KJV/ASV/
+       WEB read God Himself as the reward; ESV's phrasing separates God from
+       the reward; NET expands to "the one who will reward you." ASV uses
+       "Jehovah"; WEB uses "Yahweh."
 
-v.1  — KJV: "thy shield, and thy exceeding great reward" / ESV: "your
-       shield; your reward shall be very great" — Hebrew "magen" — a
-       defensive shield. "Exceeding great reward" — Hebrew "sekarekha harbeh
-       meod" — your reward is very great. KJV reads God Himself as the
-       reward; ESV's phrasing could suggest the reward is separate. Hebrew
-       supports both readings.
+v.2  — Hebrew "Adonai Yahweh" — Lord GOD (two distinct divine names).
+       KJV: "Lord GOD"
+       ESV: "O Lord GOD"
+       ASV: "O Lord Jehovah"
+       NET: "O Sovereign Lord"
+       WEB: "Lord Yahweh"
+       Analysis: WEB uniquely preserves both Hebrew titles intact ("Lord
+       Yahweh"). ASV uses "Lord Jehovah." NET makes the authority aspect
+       of "Adonai" explicit with "Sovereign." KJV/ESV use "Lord GOD" — two
+       English words for two different Hebrew words.
 
-v.6  — KJV: "believed" / ESV: "believed" — Both identical. Hebrew "he'emin"
-       — trusted, relied upon, had faith in. From the root "aman" (firm,
-       sure — root of "Amen"). KJV: "counted it to him for righteousness" /
-       ESV: "counted it to him as righteousness" — Both equivalent. Hebrew
-       "chashab" — reckoned, credited, imputed. An accounting term: faith
-       deposited to Abram's account as righteousness.
+v.6  — Hebrew "vehe'emin baYahweh vayyachsheveha lo tsedaqah"
+       KJV: "he believed in the LORD; and he counted it to him for righteousness"
+       ESV: "he believed the LORD, and he counted it to him as righteousness"
+       ASV: "he believed in Jehovah; and he reckoned it to him for righteousness"
+       NET: "Abram believed the LORD, and the LORD credited it as righteousness to him"
+       WEB: "He believed in Yahweh, who credited it to him for righteousness"
+       Analysis: The foundational justification verse (cf. Romans 4:3, Gal
+       3:6). Hebrew "he'emin" = trusted, relied upon (root "aman" = firm/
+       sure). "Chashab" = reckoned, credited — an accounting term. NET uses
+       "credited" (modern banking language). ASV uses "Jehovah"; WEB uses
+       "Yahweh."
 
-v.9  — KJV: "Take me an heifer of three years old" / ESV: "Bring me a
-       heifer three years old" — Both equivalent. The covenant ceremony:
-       animals cut in half, arranged in two rows. Both parties would walk
-       between them, saying: "May I become like these animals if I break this
-       covenant." A self-maledictory oath.
+v.12 — Hebrew "emah chashekhah gedolah nopheleth alav"
+       KJV: "an horror of great darkness fell upon him"
+       ESV: "a dreadful and great darkness fell upon him"
+       ASV: "a horror of great darkness fell upon him"
+       NET: "great terror overwhelmed him"
+       WEB: "a deep sleep fell on Abram... a horror of great darkness fell on him"
+       Analysis: NET intensifies with "great terror overwhelmed him" —
+       compressing the Hebrew into visceral language. KJV/ASV/ESV preserve
+       both "horror" and "darkness." The weight of what God is about to
+       reveal and commit to.
 
-v.12 — KJV: "horror of great darkness" / ESV: "dreadful and great darkness"
-       — Both equivalent. Hebrew "emah chashekhah gedolah" — a dreadful,
-       great darkness. The weight of what God is about to reveal and commit
-       to.
+v.16 — Hebrew "ki lo-shalem avon ha-Emori ad-hennah"
+       KJV: "the iniquity of the Amorites is not yet full"
+       ESV: "the iniquity of the Amorites is not yet complete"
+       ASV: "the iniquity of the Amorite is not yet full"
+       NET: "the sin of the Amorites has not yet reached its limit"
+       WEB: "the iniquity of the Amorite is not yet full"
+       Analysis: NET interprets "not yet full" as "not yet reached its limit"
+       — making the divine patience/threshold concept more accessible. God
+       delays judgment until sin reaches its appointed measure.
 
-v.17 — KJV: "smoking furnace, and a burning lamp" / ESV: "a smoking fire
-       pot and a flaming torch" — Hebrew "tannur ashan" (smoking oven/
-       furnace) and "lappid esh" (torch of fire). ESV's "fire pot" and
-       "flaming torch" are more precise modern renderings. Theophany: God's
+v.17 — Hebrew "tannur ashan velappid esh" — a smoking oven and a torch of fire.
+       KJV: "a smoking furnace, and a burning lamp"
+       ESV: "a smoking fire pot and a flaming torch"
+       ASV: "a smoking furnace, and a flaming torch"
+       NET: "a smoking firepot with a flaming torch"
+       WEB: "a smoking furnace and a flaming torch"
+       Analysis: KJV's "burning lamp" is less accurate — Hebrew "lappid" =
+       torch. ESV/NET specify "fire pot" (a clay oven). Theophany: God's
        presence as fire and smoke (cf. Exodus 13:21, 19:18). GOD ALONE passes
-       through — making this a unilateral covenant.
-
-v.18 — KJV: "from the river of Egypt unto the great river" / ESV: "from the
-       river of Egypt to the great river, the river Euphrates" — Both
-       equivalent; ESV explicitly names the Euphrates. The full extent of the
-       Promised Land. Never fully possessed except briefly under Solomon
-       (1 Kings 4:21).
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "the Lord's message came to Abram in a vision" — renders Hebrew
-  "debar Yahweh" as "the Lord's message" rather than "the word of the LORD"
-  (KJV/ESV), emphasizing communication content over divine title.
-- v.2 — WEB: "Lord Yahweh" — preserves the Hebrew "Adonai Yahweh" with both
-  titles intact, where KJV/ESV use "Lord GOD" (two English words for two
-  different Hebrew words). NET: "O Sovereign Lord" — makes the authority
-  aspect of "Adonai" explicit.
-- v.6 — NET: "the Lord credited it as righteousness to him" — renders the
-  foundational justification verse with "credited" (accounting language),
-  emphasizing imputation. ASV: "reckoned it to him" — similarly formal.
-- v.12 — NET: "great terror overwhelmed him" — more intense than "a horror
-  of great darkness fell upon him" (KJV/ESV), emphasizing the dread.
-- v.16 — NET: "the sin of the Amorites has not yet reached its limit" —
-  interprets "iniquity...not yet full" with "reached its limit," making the
-  divine patience/threshold concept more accessible.
+       through — making this a unilateral, unconditional covenant.
 
 GLOSSARY
 ------------------------------------

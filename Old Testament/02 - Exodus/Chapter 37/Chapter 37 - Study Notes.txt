@@ -106,35 +106,63 @@ Charles Spurgeon:
   of all illumination. The branches are not separate; they grow from the
   central shaft. So we have no light apart from Him."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1 — KJV: "shittim wood" / ESV: "acacia wood" — Hebrew "ʻatsey shittim" —
- acacia wood. KJV transliterates the Hebrew; ESV translates to the
- common English name for the tree.
+v.1  — Hebrew "ʻatsey shittim" — acacia wood; Ark dimensions.
+       KJV: "shittim wood... two cubits and a half... a cubit and a half... a cubit and a half"
+       ESV: "acacia wood. Two cubits and a half was its length"
+       ASV: "acacia wood: two cubits and a half... a cubit and a half... a cubit and a half"
+       NET: "acacia wood; its length was 45 inches, its width 27 inches, and its height 27 inches"
+       WEB: "acacia wood. Two and a half cubits... a cubit and a half... a cubit and a half"
+       Analysis: KJV transliterates the Hebrew "shittim"; all modern translations use the common English name "acacia." NET converts cubits to inches/feet throughout — the Ark was approximately 3¾ × 2¼ × 2¼ feet. ASV/WEB/ESV retain the original cubit measurements.
 
-v.2 — KJV: "a crown of gold" / ESV: "a molding of gold" — Hebrew "zer
- zahav" — a border or rim of gold. Decorative edging around the top
- of the Ark. "Crown" and "molding" both capture the ornamental rim.
+v.2  — Hebrew "zer zahav" — a border or rim of gold.
+       KJV: "a crown of gold round about"
+       ESV: "a molding of gold around it"
+       ASV: "a crown of gold round about"
+       NET: "a border of gold around it"
+       WEB: "a gold molding around it"
+       Analysis: Decorative edging around the top of the Ark. KJV/ASV's "crown" and ESV/WEB's "molding" and NET's "border" all capture the ornamental rim. "Crown" suggests royal dignity; "molding" suggests architectural detail.
 
-v.6 — KJV: "mercy seat" / ESV: "mercy seat" — Hebrew "kapporet" — from
- "kaphar" (to cover, to atone). The lid of the Ark where blood was
- sprinkled on the Day of Atonement. The place of propitiation.
+v.6  — Hebrew "kapporet" — from "kaphar" (to cover, to atone).
+       KJV: "mercy seat of pure gold"
+       ESV: "mercy seat of pure gold"
+       ASV: "a mercy-seat of pure gold"
+       NET: "an atonement lid of pure gold"
+       WEB: "a mercy seat of pure gold"
+       Analysis: NET's most distinctive rendering in these chapters. "Atonement lid" emphasizes the Hebrew root "kaphar" (to cover/atone) and the object's function on the Day of Atonement, while the traditional "mercy seat" (from Tyndale via Luther's "Gnadenstuhl") emphasizes God's merciful presence above the law.
 
-v.17 — KJV: "candlestick" / ESV: "lampstand" — Hebrew "menorah" — a
- lampstand (not a candle holder). It burned olive oil, not wax
- candles. ESV is more accurate to the actual object.
+v.16 — Hebrew vessels for the table — "flagons/pitchers."
+       KJV: "the dishes thereof, and the spoons thereof, and the bowls thereof, and the covers"
+       ESV: "the plates and dishes for incense, and the bowls and flagons"
+       ASV: "the flagons thereof, wherewith to pour out"
+       NET: "its pitchers, and its bowls, to be used in pouring out offerings"
+       WEB: "its pitchers with which to pour out"
+       Analysis: ASV retains the archaic "flagons" while WEB/NET use "pitchers." NET adds explanatory context ("to be used in pouring out offerings") absent from the Hebrew, making the function explicit for modern readers.
 
-v.17 — KJV: "knops" / ESV: "calyxes" — Hebrew "kaphtor" — a knob or
- capital, likely shaped like a flower bud or calyx. Decorative
- elements on the lampstand's branches.
+v.17 — Hebrew "menorah" — lampstand; "kaphtor" — ornamental bulbs.
+       KJV: "the candlestick of pure gold... his knops, and his flowers"
+       ESV: "the lampstand of pure gold... its calyxes and its flowers"
+       ASV: "the candlestick of pure gold... its cups, its knops, and its flowers"
+       NET: "the lampstand of pure gold... its cups, its buds, and its blossoms"
+       WEB: "the lamp stand of pure gold... its cups, its buds, and its flowers"
+       Analysis: ASV/KJV retain the archaic "candlestick" (it burned olive oil, not wax candles); ESV/WEB/NET correctly use "lampstand." For "kaphtor": KJV/ASV's archaic "knops" (knobs) is updated to "buds" (WEB/NET) or "calyxes" (ESV) — ornamental bulbs on the lampstand's branches shaped like flower buds.
 
-v.24 — KJV: "a talent of pure gold" / ESV: same — Hebrew "kikkar" — a
- talent, approximately 75 pounds (34 kg). The entire lampstand and
- its utensils were hammered from this single mass of gold.
+v.24 — Hebrew "kikkar" — a talent (approximately 75 pounds).
+       KJV: "of a talent of pure gold made he it"
+       ESV: "He made it and all its utensils out of a talent of pure gold"
+       ASV: "Of a talent of pure gold made he it"
+       NET: "He made the lampstand and all its accessories with seventy-five pounds of pure gold"
+       WEB: "He made it of a talent of pure gold"
+       Analysis: NET converts the Hebrew "kikkar" (talent) to modern weight measurement (75 pounds), making the staggering cost tangible for contemporary readers. KJV/ASV/WEB/ESV retain the ancient unit.
 
-v.29 — KJV: "the work of the apothecary" / ESV: "blended as by the
- perfumer" — Hebrew "roqeach" — a perfumer, spice-mixer. The sacred
- incense was professionally compounded according to God's recipe.
+v.29 — Hebrew "roqeach" — a perfumer, spice-mixer.
+       KJV: "the work of the apothecary"
+       ESV: "blended as by the perfumer"
+       ASV: "the work of the perfumer"
+       NET: "the work of a perfumer"
+       WEB: "the work of the perfumer"
+       Analysis: KJV's "apothecary" (one who compounds medicines/spices) is archaic; all modern translations use "perfumer." The sacred incense was professionally compounded according to God's recipe (Ex 30:34-38).
 
 GLOSSARY
 ------------------------------------

@@ -128,34 +128,116 @@ Charles Spurgeon:
   (our repentance), the unleavened bread (Christ's purity), the haste
   (urgency of faith). This is not a meal — it is a gospel."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "the beginning of months" / ESV: "the beginning of months" —
-       Hebrew "rosh chodashim" — head of months. Both identical. God resets
-       Israel's calendar. Redemption creates a new beginning — the month of
-       Nisan (March/April) becomes month one.
+v.2  — Hebrew "rosh chodashim" — head of months.
+       KJV: "the beginning of months"
+       ESV: "the beginning of months"
+       ASV: "the beginning of months"
+       NET: "the beginning of months"
+       WEB: "the beginning of months"
+       Analysis: All translations identical. God resets Israel's calendar.
+       Redemption creates a new beginning — the month of Nisan (March/April)
+       becomes month one.
 
-v.5  — KJV: "without blemish" / ESV: "without blemish" — Hebrew "tamim" —
-       complete, whole, without defect. Both identical. Christ was "tamim" —
-       morally and physically perfect.
+v.5  — Hebrew "tamim" — complete, whole, without defect.
+       KJV: "without blemish"
+       ESV: "without blemish"
+       ASV: "without blemish"
+       NET: "without blemish"
+       WEB: "without blemish"
+       Analysis: All translations identical. Christ was "tamim" — morally and
+       physically perfect. The Passover lamb must be flawless.
 
-v.11 — KJV: "passover" / ESV: "Passover" — Hebrew "pesach" — from "pasach"
-       — to pass over, to skip over, to spare. Both identical (ESV
-       capitalizes as a proper noun). God passes over the blood-marked
-       houses.
+v.11 — Hebrew "pesach" — from "pasach" — to pass over, to skip over, to spare.
+       KJV: "passover"
+       ESV: "Passover"
+       ASV: "Jehovah's passover"
+       NET: "the Lord's Passover"
+       WEB: "Yahweh's Passover"
+       Analysis: The ESV/NET/WEB capitalize "Passover" as a proper noun; KJV uses
+       lowercase. ASV's "Jehovah's passover" and WEB's "Yahweh's Passover"
+       explicitly attach the divine name to "Pesach." The Hebrew "pesach YHWH"
+       makes clear this feast belongs to God, not Israel.
 
-v.13 — KJV: "when I see the blood" / ESV: "when I see the blood" — Hebrew
-       "vera'iti et hadam" — and I will see the blood. Both identical.
-       God's eyes are on the blood — not on the person inside.
+v.12 — Hebrew "nakah" — to smite, strike.
+       KJV: "I will smite all the first-born"
+       ESV: "I will strike all the firstborn"
+       ASV: "I will smite all the first-born"
+       NET: "I will attack all the firstborn"
+       WEB: "I will strike all the firstborn"
+       Analysis: NET's "attack" is more dynamic and aggressive than the literal
+       "smite/strike." NET emphasizes divine warfare; the literal translations
+       preserve the judicial tone.
 
-v.22 — KJV: "hyssop" / ESV: "hyssop" — Hebrew "ezov" — a small bushy
-       plant used for sprinkling. Both identical. Used at the Passover, in
-       purification rites, and referenced at the cross (John 19:29).
+v.13 — Hebrew "vera'iti et hadam... upasachti" — and I will see the blood... and I will pass over.
+       KJV: "when I see the blood, I will pass over you"
+       ESV: "when I see the blood, I will pass over you"
+       ASV: "when I see the blood, I will pass over you"
+       NET: "when I see the blood I will pass over you"
+       WEB: "when I see the blood, I will pass over you"
+       Analysis: All translations preserve this crucial verse nearly identically.
+       God's eyes are on the blood — not on the person inside. The consistency
+       across all five translations underscores its theological centrality.
 
-v.46 — KJV: "neither shall ye break a bone thereof" / ESV: "you shall not
-       break any of its bones" — Hebrew "etzem lo tishberu vo" — a bone you
-       shall not break in it. Both equivalent. Fulfilled in Christ: the
-       soldiers did not break Jesus' legs (John 19:33, 36).
+v.21 — Hebrew "moshekhu uqechu" — draw out and take.
+       KJV: "Draw out, and take you a lamb... and kill the passover"
+       ESV: "select your lambs... and kill the Passover lamb"
+       ASV: "Draw out, and take you lambs... and kill the passover"
+       NET: "Go and select for yourselves a lamb or young goat for your families, and kill the Passover animals"
+       WEB: "Go and select for yourselves lambs... and kill the Passover"
+       Analysis: NET adds "or young goat" (interpretive addition from v.5) and
+       "animals" to clarify the metonymy — "kill the passover" meaning "kill the
+       Passover animal." KJV/ASV preserve the Hebrew idiom literally.
+
+v.22 — Hebrew "ezov" — a small bushy plant used for sprinkling.
+       KJV: "hyssop"
+       ESV: "hyssop"
+       ASV: "hyssop"
+       NET: "hyssop"
+       WEB: "hyssop"
+       Analysis: All translations identical. Used at the Passover, in purification
+       rites, and referenced at the cross (John 19:29).
+
+v.23 — Hebrew "hamashchit" — the destroyer.
+       KJV: "will not suffer the destroyer to come in"
+       ESV: "will not allow the destroyer to enter"
+       ASV: "will not suffer the destroyer to come in"
+       NET: "he will not permit the destroyer to enter"
+       WEB: "will not allow the destroyer to come in"
+       Analysis: All five preserve "the destroyer" — a distinct angelic agent. This
+       is theologically significant: God passes through, but "the destroyer" executes
+       the plague. God stands between His people and the destroying angel.
+
+v.37 — Hebrew "keshesh me'ot elef ragli" — about 600,000 on foot.
+       KJV: "about six hundred thousand on foot that were men, beside children"
+       ESV: "about six hundred thousand men on foot, besides women and children"
+       ASV: "about six hundred thousand on foot that were men, beside children"
+       NET: "about 600,000 men on foot, plus their dependents"
+       WEB: "about six hundred thousand on foot who were men, besides children"
+       Analysis: NET's "dependents" replaces "children" (Hebrew "taph" — little
+       ones/dependents) and is more inclusive, covering women and children.
+       KJV/ASV/WEB mention only "children" though women are also implied.
+
+v.42 — Hebrew "shimmurim" — watchings/observances.
+       KJV: "a night to be much observed unto the LORD"
+       ESV: "a night of watching kept to the LORD"
+       ASV: "a night to be much observed unto Jehovah"
+       NET: "It was a night of vigil for the Lord"
+       WEB: "a night to be much observed to Yahweh"
+       Analysis: NET's "vigil" interprets Hebrew "shimmurim" (watchings/observances).
+       The literal "much observed" (KJV/ASV/WEB) is closer to the Hebrew plural
+       intensive form — a night of watchings.
+
+v.46 — Hebrew "etzem lo tishberu vo" — a bone you shall not break in it.
+       KJV: "neither shall ye break a bone thereof"
+       ESV: "you shall not break any of its bones"
+       ASV: "neither shall ye break a bone thereof"
+       NET: "you must not break a bone of it"
+       WEB: "Do not break any of its bones"
+       Analysis: All preserve this Passover regulation fulfilled in John 19:36.
+       NET's "must not" adds emphasis of obligation. This detail becomes
+       prophetically crucial — identifying Jesus as the true Passover Lamb.
 
 GLOSSARY
 ------------------------------------

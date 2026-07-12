@@ -233,6 +233,22 @@ Seir/Edom      — The mountainous region southeast of the Dead Sea. God
                Sinai through the wilderness. The theophanic language
                connects past deliverance (Exodus) with present victory.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.2 — ASV: "For that the leaders took the lead in Israel, For that the people offered themselves willingly, Bless ye Jehovah" / WEB: "Because the leaders took the lead in Israel, because the people offered themselves willingly, be blessed, Yahweh!" / NET: "When the leaders took the lead in Israel, When the people answered the call to war—Praise the Lord!" — NET diverges significantly: "offered themselves willingly" becomes "answered the call to war" — losing the voluntary nature emphasized in Hebrew "b'hitnadev am" (when the people volunteered themselves). The Hebrew stresses willing self-offering, not merely responding to a summons.
+
+- v.7 — ASV: "Until that I Deborah arose, That I arose a mother in Israel" / WEB: "Until I, Deborah, arose; Until I arose a mother in Israel" / NET: "until you arose, Deborah, until you arose as a motherly protector in Israel" — NET changes first person to second person ("you arose") and expands "mother" to "motherly protector." The Hebrew "em" simply means "mother" — Deborah's role as national mother-figure needs no expansion.
+
+- v.11 — ASV: "there shall they rehearse the righteous acts of Jehovah" / WEB: "there they will rehearse Yahweh's righteous acts" / NET: "there they tell of the Lord's victorious deeds" — Hebrew "tsidqot Adonai" = "righteousnesses/righteous acts of the LORD." NET renders "tsidqot" as "victorious deeds" — an interpretive shift from moral character (righteousness) to military outcome (victory). The Hebrew encompasses both: God's victories ARE His righteous acts.
+
+- v.21 — ASV: "O my soul, march on with strength" / WEB: "My soul, march on with strength" / NET: "Step on the necks of the strong!" — Dramatically different renderings of Hebrew "tidr'ki nafshi oz." ASV/WEB: self-exhortation to courage. NET: violent imagery of trampling enemies. The Hebrew is ambiguous but the self-address ("my soul") favors ASV/WEB's reading.
+
+- v.25 — ASV: "She brought him butter in a lordly dish" / WEB: "She brought him butter in a lordly dish" / NET: "in a bowl fit for a king, she served him curds" — Hebrew "chem'ah" = curds/butter/cream. KJV/ASV/WEB say "butter"; NET says "curds" (more accurate for the dairy product in ancient Near East). "Lordly dish" (Hebrew "sephel addiyrim") = ASV/WEB retain the majestic language; NET expands to "bowl fit for a king."
+
+- v.30 — NET: "a girl or two for each man to rape!" / ASV: "A damsel, two damsels to every man" / WEB: "A lady, two ladies to every man" — Hebrew "racham rachamatayim" literally means "a womb, two wombs per warrior." NET makes the brutal sexual violence explicit ("to rape"); ASV/WEB use euphemistic "damsel/lady." NET's rendering is interpretively bold but captures the degradation Sisera's mother casually contemplates for Israelite women.
+
+- v.23 — ASV: "Curse ye Meroz, said the angel of Jehovah" / WEB: "'Curse Meroz,' said Yahweh's angel" / NET: "'Call judgment down on Meroz,' says the angel of the Lord" — Hebrew "oru" = curse. NET softens "curse" to "call judgment down on" — a dynamic equivalence that loses the direct imprecatory force of the Hebrew curse formula.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Willing participation in God's work (v.2). The song praises those who

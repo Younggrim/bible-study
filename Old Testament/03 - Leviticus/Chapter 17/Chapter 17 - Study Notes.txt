@@ -147,57 +147,64 @@ Charles Spurgeon:
   place of the guilty. This is the scarlet thread that runs from Genesis
   to Revelation."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.4  — KJV: "blood shall be imputed unto that man" / ESV: "bloodguilt
-       shall be imputed to that man" — Hebrew "dam ye'chashev la-ish
-       ha-hu" — blood shall be reckoned to that man. ESV's "bloodguilt"
-       makes the legal implication explicit. The man is charged with
-       murder — treating an animal's life carelessly is treated as
-       shedding blood.
+v.4  — Hebrew "dam ye'chashev la-ish ha-hu" — blood shall be reckoned to that man.
+       KJV: "blood shall be imputed unto that man"
+       ESV: "bloodguilt shall be imputed to that man"
+       ASV: "blood shall be imputed unto that man"
+       NET: "Blood guilt will be accounted to any man"
+       Analysis: ESV's "bloodguilt" and NET's "blood guilt" make the legal implication explicit. The man is charged with murder — treating an animal's life carelessly is treated as shedding blood. Hebrew "dam" (blood) is used as shorthand for bloodguilt — liability for a death.
 
-v.6  — KJV: "a sweet savour unto the LORD" / ESV: "a pleasing aroma to
-       the LORD" — Hebrew "re'ach nichoach la-YHWH." KJV's "sweet savour"
-       is traditional; ESV's "pleasing aroma" is more natural in modern
-       English. The anthropomorphism: God is pleased by proper sacrifice
-       as one is pleased by a good aroma.
+v.6  — Hebrew "re'ach nichoach la-YHWH" — a pleasing aroma to the LORD.
+       KJV: "a sweet savour unto the LORD"
+       ESV: "a pleasing aroma to the LORD"
+       Analysis: KJV's "sweet savour" is traditional; ESV's "pleasing aroma" is more natural in modern English. The anthropomorphism: God is pleased by proper sacrifice as one is pleased by a good aroma.
 
-v.7  — KJV: "unto devils" / ESV: "to goat demons" — Hebrew "la-se'irim"
-       — to the hairy ones / goat-demons / satyrs. KJV generalizes to
-       "devils"; ESV translates more literally. These were goat-shaped
-       demonic entities worshiped in the open fields — a practice Israel
-       picked up in Egypt. The word appears also in Isaiah 13:21; 34:14
-       and 2 Chronicles 11:15.
+v.7  — Hebrew "la-se'irim" — to the hairy ones/goat-demons/satyrs.
+       KJV: "unto devils"
+       ESV: "to goat demons"
+       ASV: "the he-goats"
+       NET: "the goat demons"
+       WEB: "the goat idols"
+       Analysis: A significant difference. KJV generalizes to "devils"; ESV/NET translate more literally as "goat demons." ASV translates literally as "he-goats"; WEB compromises with "goat idols." These were likely goat-shaped desert spirits worshiped in Egypt. The word appears also in Isaiah 13:21; 34:14 and 2 Chronicles 11:15.
 
-v.11 — KJV: "For the life of the flesh is in the blood" / ESV: "For the
-       life of the flesh is in the blood" — Hebrew "ki nefesh ha-basar
-       ba-dam hi" — for the soul/life of the flesh, in the blood it [is].
-       Both translations are identical here. "Nefesh" = soul, life, being.
-       The life-principle resides in the blood.
+v.7  — Hebrew "zanah" — to commit harlotry/spiritual adultery.
+       KJV: "after whom they have gone a whoring"
+       ASV: "after which they play the harlot"
+       NET: "acting like prostitutes by going after them"
+       Analysis: All translations use sexual infidelity imagery for spiritual idolatry. NET's "acting like prostitutes" is less archaic than KJV's "gone a whoring."
 
-v.11 — KJV: "for it is the blood that maketh an atonement for the soul" /
-       ESV: "for it is the blood that makes atonement by the life" —
-       Hebrew "ki ha-dam hu ba-nefesh y'khapper." A crucial difference:
-       KJV reads "atonement FOR the soul" (blood atones on behalf of the
-       soul); ESV reads "atonement BY the life" (blood atones by means of
-       the life in it). The Hebrew allows both readings. The preposition
-       "ba" can mean "for" or "by means of." Both are theologically true:
-       blood atones BY the life it contains, and it atones FOR the life
-       of the sinner.
+v.11 — Hebrew "ki nefesh ha-basar ba-dam hi" — for the soul/life of the flesh, in the blood it is.
+       KJV: "For the life of the flesh is in the blood"
+       ESV: "For the life of the flesh is in the blood"
+       ASV: "For the life of the flesh is in the blood"
+       NET: "for the life of every living thing is in the blood"
+       Analysis: Both KJV and ESV are identical here. "Nefesh" = soul, life, being. The life-principle resides in the blood. NET says "every living thing" (Hebrew "kol basar" — all flesh), broadening the principle beyond just sacrificial animals.
 
-v.13 — KJV: "cover it with dust" / ESV: "cover it with earth" — Hebrew
-       "v'khissahu be-afar" — cover it with dust/earth. Both are accurate.
-       The blood must be covered — it is sacred, not to be left exposed
-       or trampled. Even in hunting (non-sacrificial killing), blood is
-       treated with reverence.
+v.11 — Hebrew "ki ha-dam hu ba-nefesh y'khapper" — crucial preposition "ba."
+       KJV: "for it is the blood that maketh an atonement for the soul"
+       ESV: "for it is the blood that makes atonement by the life"
+       ASV: "I have given it to you upon the altar to make atonement for your souls"
+       NET: "I have given it to you on the altar to make atonement for your lives"
+       Analysis: A crucial difference: KJV reads "atonement FOR the soul" (blood atones on behalf of the soul); ESV reads "atonement BY the life" (blood atones by means of the life in it). The Hebrew allows both readings. NET uses "lives" where ASV uses "souls" (Hebrew "nephesh"). Both are theologically true: blood atones BY the life it contains, and it atones FOR the life of the sinner.
 
-v.15 — KJV: "that which died of itself, or that which was torn with
-       beasts" / ESV: "what dies of itself or what is torn by beasts" —
-       Hebrew "n'velah u-t'refah" — a carcass and a torn [animal]. These
-       technical terms become important in later Jewish dietary law:
-       "n'velah" = an animal not properly slaughtered; "t'refah" = an
-       animal killed by predators. Both are unfit because the blood was
-       not properly drained.
+v.13 — Hebrew "v'khissahu be-afar" — cover it with dust/earth.
+       KJV: "cover it with dust"
+       ESV: "cover it with earth"
+       Analysis: Both are accurate. The blood must be covered — it is sacred, not to be left exposed or trampled. Even in hunting (non-sacrificial killing), blood is treated with reverence.
+
+v.14 — Hebrew "kol basar" — all flesh.
+       KJV: "the life of all flesh; the blood of it is for the life thereof"
+       ASV: "Ye shall eat the blood of no manner of flesh"
+       NET: "You must not eat the blood of any living thing"
+       WEB: "You shall not eat the blood of any kind of flesh"
+       Analysis: NET's "any living thing" is the broadest rendering. This prohibition is one of the few OT laws explicitly retained for Gentile believers (Acts 15:20).
+
+v.15 — Hebrew "n'velah u-t'refah" — a carcass and a torn animal.
+       KJV: "that which died of itself, or that which was torn with beasts"
+       ESV: "what dies of itself or what is torn by beasts"
+       Analysis: These technical terms become important in later Jewish dietary law: "n'velah" = an animal not properly slaughtered; "t'refah" = an animal killed by predators. Both are unfit because the blood was not properly drained.
 
 GLOSSARY
 ------------------------------------

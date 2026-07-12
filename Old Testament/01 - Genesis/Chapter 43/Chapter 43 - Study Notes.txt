@@ -93,56 +93,80 @@ Charles Spurgeon:
   is what grace does. And Judah foreshadows Christ: the one from Judah's
   tribe who became surety for us all."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.9  — KJV: "I will be surety for him" / ESV: "I will be a pledge of his
-       safety" — KJV "surety" vs. ESV "pledge of his safety." Hebrew "arab"
-       — to pledge, to guarantee. Judah puts himself on the line for
-       Benjamin. The same concept applied to Christ in Hebrews 7:22.
+v.9  — Hebrew "arab" — to pledge, to guarantee.
+       KJV: "I will be surety for him"
+       ESV: "I will be a pledge of his safety"
+       ASV: "I will be surety for him"
+       NET: "I myself pledge security for him; you may hold me liable"
+       WEB: "I'll be collateral for him"
+       Analysis: KJV "surety" vs. ESV "pledge of his safety." NET renders
+       Judah's surety pledge in legal language, making the personal risk
+       explicit. Judah puts himself on the line for Benjamin. The same
+       concept applied to Christ in Hebrews 7:22.
 
-v.14 — KJV: "If I be bereaved of my children, I am bereaved" / ESV: "if I
-       am bereaved of my children, I am bereaved" — Both identical. Hebrew
-       "ka'asher shakolti shakalti." Jacob surrenders to God's sovereignty.
-       Not fatalism but faith: "God's will be done, whatever it costs me."
+v.11 — Hebrew "zimrath" — song/choice produce/best products.
+       KJV: "the best fruits in the land"
+       ESV: "some of the choice fruits of the land"
+       ASV: "of the choice fruits of the land"
+       NET: "Take some of the best products of the land in your bags"
+       WEB: "some of the best fruits of the land"
+       Analysis: All similar. "Best products/fruits" renders Hebrew "zimrath"
+       (song/choice produce). Jacob sends the finest Canaan has to offer as
+       a gift.
 
-v.23 — KJV: "Your God, and the God of your father, hath given you treasure
-       in your sacks" / ESV: "Your God and the God of your father has put
-       treasure in your sacks for you" — Both equivalent. Even Joseph's
-       Egyptian steward acknowledges God's provision. God's work is visible
-       even to outsiders.
+v.14 — Hebrew "El Shaddai" — God Almighty / the Sovereign God.
+       KJV: "God Almighty give you mercy before the man"
+       ESV: "May God Almighty grant you mercy before the man"
+       ASV: "God Almighty give you mercy before the man"
+       NET: "May the Sovereign God grant you mercy before the man"
+       WEB: "May God Almighty give you mercy before the man"
+       Analysis: NET uses "Sovereign God" for "El Shaddai" (consistent with
+       NET Genesis). All others use "God Almighty." Jacob's Hebrew reads
+       "If I be bereaved of my children, I am bereaved" — surrender to God's
+       sovereignty. Not fatalism but faith: "God's will be done, whatever it
+       costs me."
 
-v.30 — KJV: "his bowels did yearn upon his brother" / ESV: "his compassion
-       grew warm for his brother" — ESV modernizes the idiom. Hebrew
-       "rachamav" — his compassions were stirred. Deep, visceral emotion.
-       Joseph loves his brothers intensely.
+v.23 — Hebrew "Eloheikhem ve'Elohei avikhem natan lakhem matmon" — your God
+       and the God of your father has given you treasure.
+       KJV: "Your God, and the God of your father, hath given you treasure in your sacks"
+       ESV: "Your God and the God of your father has put treasure in your sacks for you"
+       ASV: "Your God, and the God of your father, hath given you treasure in your sacks"
+       NET: "Your God and the God of your father has given you treasure in your sacks"
+       WEB: "Your God, and the God of your father, has given you treasure in your sacks"
+       Analysis: All equivalent. Even Joseph's Egyptian steward acknowledges
+       God's provision. God's work is visible even to outsiders.
 
-v.33 — KJV: "the firstborn according to his birthright, and the youngest
-       according to his youth" / ESV: "the firstborn according to his
-       birthright and the youngest according to his youth" — Both identical.
-       Joseph seats them in exact birth order. The brothers are astonished —
-       how could this Egyptian know?
+v.30 — Hebrew "rachamav" — his compassions were stirred.
+       KJV: "his bowels did yearn upon his brother"
+       ESV: "his compassion grew warm for his brother"
+       ASV: "his heart yearned over his brother"
+       NET: "his deepest emotions were stirred"
+       WEB: "his heart yearned over his brother"
+       Analysis: ESV modernizes the KJV idiom. NET renders with "deepest
+       emotions were stirred" — modern emotional language. Hebrew "rachamav"
+       indicates deep, visceral emotion. Joseph loves his brothers intensely.
 
-v.34 — KJV: "Benjamin's mess was five times so much as any of theirs" / ESV:
-       "Benjamin's portion was five times as much as any of theirs" — KJV
-       "mess" (archaic for "portion") vs. ESV "portion." Joseph favors
-       Benjamin to test the brothers: will they be jealous (as they were of
-       Joseph's coat) or accepting?
+v.33 — Hebrew "habbekhor kibekhorato vehatsa'ir kitsi'rato" — the firstborn
+       according to his birthright and the youngest according to his youth.
+       KJV: "the firstborn according to his birthright, and the youngest according to his youth"
+       ESV: "the firstborn according to his birthright and the youngest according to his youth"
+       ASV: "the firstborn according to his birthright, and the youngest according to his youth"
+       NET: "the firstborn according to his right of primogeniture and the youngest according to his age"
+       WEB: "the firstborn according to his birthright, and the youngest according to his youth"
+       Analysis: All identical in meaning. Joseph seats them in exact birth
+       order. The brothers are astonished — how could this Egyptian know?
 
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.9 — NET: "I myself pledge security for him; you may hold me liable" —
-  renders Judah's surety pledge in legal language. KJV: "I will be surety
-  for him; of my hand shalt thou require him." NET makes the personal risk
-  explicit.
-- v.11 — NET: "Take some of the best products of the land in your bags" —
-  same across translations. "Best products" renders Hebrew "zimrath" (song/
-  choice produce).
-- v.14 — NET: "May the Sovereign God grant you mercy before the man" — uses
-  "Sovereign God" for "El Shaddai" (consistent with NET Genesis). WEB: "May
-  God Almighty give you mercy."
-- v.30 — NET: "his deepest emotions were stirred" — renders Hebrew "rachamav"
-  (KJV: "his bowels did yearn") with modern emotional language. WEB: "his
-  heart yearned over his brother."
+v.34 — Hebrew "mas'ath" — portion, serving.
+       KJV: "Benjamin's mess was five times so much as any of theirs"
+       ESV: "Benjamin's portion was five times as much as any of theirs"
+       ASV: "Benjamin's mess was five times so much as any of theirs"
+       NET: "he gave Benjamin five times the amount of the others"
+       WEB: "Benjamin's portion was five times as much as any of theirs"
+       Analysis: KJV "mess" (archaic for "portion") vs. ESV/WEB "portion."
+       NET renders freely. Joseph favors Benjamin to test the brothers: will
+       they be jealous (as they were of Joseph's coat) or accepting?
 
 GLOSSARY
 ------------------------------------

@@ -107,32 +107,104 @@ Charles Spurgeon:
   banner that flies over the field — not ours. The victory belongs to the
   One whose banner we carry."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "chide" / ESV: "quarreled" — Hebrew "riv" — to contend, to
-       quarrel, to bring a legal complaint. The ESV's "quarreled" is more
-       accessible; the KJV's "chide" is archaic. Israel puts God on trial.
+v.2  — Hebrew "riv" / "tenassun et-YHWH" — to contend, to quarrel / to test God.
+       KJV: "chide" / "Wherefore do ye tempt the LORD?"
+       ESV: "quarreled" / "Why do you test the LORD?"
+       ASV: "strove" / "Wherefore do ye tempt Jehovah?"
+       NET: "contended" / "Why do you test the Lord?"
+       WEB: "quarreled" / "Why do you test Yahweh?"
+       Analysis: The ESV/WEB's "quarreled" is most accessible; the KJV's "chide"
+       is archaic. ASV's "tempt" means "test" here (not seduce). All capture Moses
+       reframing their complaint about water as a theological challenge against God.
+       Israel puts God on trial.
 
-v.6  — KJV: "smite the rock" / ESV: "strike the rock" — Hebrew "hikkita
-       vatsur" — strike the rock. Both equivalent. The rock is struck ONCE
-       — water flows. In Numbers 20, Moses strikes again (wrongly).
+v.6  — Hebrew "hikkita vatsur" — strike the rock.
+       KJV: "smite the rock"
+       ESV: "strike the rock"
+       ASV: "smite the rock"
+       NET: "strike the rock"
+       WEB: "strike the rock"
+       Analysis: All equivalent. The rock is struck ONCE — water flows. In Numbers
+       20, Moses strikes again (wrongly). God says "I will stand before thee there
+       upon the rock" — God positions Himself ON the rock that is struck. The rock
+       is Christ (1 Corinthians 10:4).
 
-v.7  — KJV: "Massah" / ESV: "Massah" — Hebrew "testing/trial." Both
-       transliterate. KJV: "Meribah" / ESV: "Meribah" — Hebrew
-       "quarreling/contention." The place is named for Israel's sin.
+v.7  — Hebrew "Massah... Meribah" — testing... quarreling/contention.
+       KJV: "Massah, and Meribah"
+       ESV: "Massah and Meribah"
+       ASV: "Massah, and Meribah"
+       NET: "Massah and Meribah"
+       WEB: "Massah, and Meribah"
+       Analysis: All transliterate. Israel's faithless question follows: "Is the
+       LORD among us, or not?" The irony is pronounced: God's visible pillar stands
+       over them while they ask if He is present. ASV renders "Is Jehovah among us?"
+       / WEB "Is Yahweh among us?" / NET "Is the Lord among us?"
 
-v.9  — KJV: "Joshua" / ESV: "Joshua" — Hebrew "Yehoshua" — "YHWH saves."
-       Both identical. First appearance of Moses' successor. His name is
-       the Hebrew form of "Jesus."
+v.9  — Hebrew "Yehoshua" — "YHWH saves."
+       KJV: "Joshua"
+       ESV: "Joshua"
+       ASV: "Joshua"
+       NET: "Joshua"
+       WEB: "Joshua"
+       Analysis: All identical. First appearance of Moses' successor. His name is
+       the Hebrew form of "Jesus." He appears as a military leader — fitting, as
+       Jesus is our warrior.
 
-v.11 — KJV: "held up his hand" / ESV: "held up his hands" — Hebrew "yarim
-       Mosheh yado" — Moses raised his hand(s). The ESV uses plural; the
-       KJV singular. The raised hand with the rod represents dependence on
-       God's power.
+v.11 — Hebrew "yarim Mosheh yado" — Moses raised his hand(s).
+       KJV: "held up his hand"
+       ESV: "held up his hands"
+       ASV: "held up his hand"
+       NET: "held his hands up"
+       WEB: "held up his hand"
+       Analysis: The ESV/NET use plural "hands"; KJV/ASV/WEB use singular. The
+       raised hand with the rod represents dependence on God's power. When raised,
+       Israel prevails; when lowered, Amalek prevails.
 
-v.15 — KJV: "Jehovah-nissi" / ESV: "The LORD Is My Banner" — Hebrew "YHWH
-       nissi." The KJV transliterates; the ESV translates. A military term:
-       the standard around which troops rally.
+v.13 — Hebrew "vayachalosh" — to weaken, disable, overwhelm.
+       KJV: "Joshua discomfited Amalek"
+       ESV: "Joshua overwhelmed Amalek"
+       ASV: "Joshua discomfited Amalek"
+       NET: "Joshua destroyed Amalek and his army with the sword"
+       WEB: "Joshua defeated Amalek"
+       Analysis: ASV's "discomfited" (archaic for routed), WEB's "defeated," and
+       NET's "destroyed" represent increasing intensity. The Hebrew suggests
+       weakening/overpowering rather than total annihilation. ESV's "overwhelmed"
+       captures the Hebrew well.
+
+v.14 — Hebrew "macho emcheh" — utterly blotting out.
+       KJV: "I will utterly put out the remembrance of Amalek from under heaven"
+       ESV: "I will utterly blot out the memory of Amalek from under heaven"
+       ASV: "I will utterly blot out the remembrance of Amalek from under heaven"
+       NET: "I will surely wipe out the remembrance of Amalek from under heaven"
+       WEB: "I will utterly blot out the memory of Amalek from under the sky"
+       Analysis: WEB uses "sky" for "shamayim"; all others use "heaven." NET's
+       "wipe out" renders the emphatic Hebrew infinitive absolute ("macho emcheh").
+       God commands Moses to write this — the first command to write Scripture.
+
+v.15 — Hebrew "YHWH nissi" — The LORD is my banner.
+       KJV: "Jehovah-nissi"
+       ESV: "The LORD Is My Banner"
+       ASV: "Jehovah-nissi"
+       NET: "The Lord is my Banner"
+       WEB: "Yahweh our Banner"
+       Analysis: KJV/ASV transliterate the compound divine name; ESV/NET fully
+       translate; WEB translates with "Yahweh" retained. "Nissi" (my banner/
+       standard) is a military term — the rallying flag in battle. A banner
+       identifies whose army you belong to.
+
+v.16 — Hebrew "kes Yah" — an obscure phrase, debated among scholars.
+       KJV: "the LORD hath sworn"
+       ESV: "A hand upon the throne of the LORD!"
+       ASV: "Jehovah hath sworn"
+       NET: "For a hand was lifted up to the throne of the Lord"
+       WEB: "Yah has sworn"
+       Analysis: WEB uses the abbreviated "Yah" (as in Hallelujah). NET diverges
+       entirely, rendering the notoriously difficult Hebrew phrase ("kes Yah") as
+       "hand lifted to the throne." The Hebrew is obscure — this is one of the most
+       debated phrases in Exodus. KJV/ASV/WEB take it as an oath; ESV/NET see a
+       reference to God's throne.
 
 GLOSSARY
 ------------------------------------

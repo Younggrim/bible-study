@@ -183,6 +183,15 @@ Shechem        — A city in the central hill country between Mount Ebal
                Canaan (Genesis 12:6), Jacob's well (John 4), and
                Joshua's covenant renewal (Joshua 24).
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.2 — ASV: "Assign you the cities of refuge" / WEB: "Assign the cities of refuge" / NET: "Have the Israelites select the cities of refuge" — NET's "select" implies Israel chooses; ASV/KJV's "assign" (Hebrew "tenu" — give/designate) implies God's prior directive being carried out. God selected the concept; Israel designated the specific cities.
+- v.3 — ASV: "the manslayer that killeth any person unwittingly and unawares" / NET: "Anyone who accidentally kills someone" / WEB: "the manslayer who kills any person accidentally and unintentionally" — NET simplifies "b'shgagah b'vli da'at" (in error, without knowledge) to "accidentally." The Hebrew makes two distinctions: "b'shgagah" (unintentionally) and "b'vli da'at" (without knowledge/premeditation). WEB preserves both.
+- v.5 — ASV: "because he smote his neighbor unawares, and hated him not beforetime" / NET: "for he accidentally killed his fellow man without premeditation" — KJV/ASV's "hated him not beforetime" preserves the Hebrew criterion for distinguishing manslaughter from murder: absence of prior hatred. NET's "without premeditation" is legally accurate but loses the relational dimension.
+- v.6 — ASV: "until he stand before the congregation for judgment, until the death of the high priest" / NET: "until his case is decided by the assembly, and the high priest dies" — The death of the high priest releases the manslayer — a powerful type of Christ: when our High Priest died, we were released from the penalty of sin. Both translations convey this, but ASV's "stand before the congregation" preserves the judicial formality.
+- v.7 — ASV: "they set apart Kedesh in Galilee" / WEB: "they designated Kedesh in Galilee" / NET: "they selected Kedesh in Galilee" — Hebrew "qadash" (to consecrate/set apart) is significant: these cities were sanctified for a holy purpose. ASV's "set apart" preserves the sanctification concept; NET's "selected" loses it.
+- v.9 — ASV: "the stranger that sojourneth among them" / WEB: "for the foreigner who lives among them" / NET: "for resident foreigners living among them" — The cities of refuge were available to non-Israelites too. ASV's "stranger that sojourneth" translates "ger" (sojourner/resident alien), showing God's justice extends to all — foreshadowing the gospel's inclusion of Gentiles.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Christ is our city of refuge. As the manslayer fled to the city for

@@ -114,6 +114,22 @@ v.19 — KJV: "O deliver not the soul of thy turtledove" / ESV: "Do
        vulnerable dove amid the "wild beasts" (predatory nations).
        A tender image of helplessness needing divine protection.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — NET: "Why, O God, have you permanently rejected us?" — NET makes "forever" explicit as "permanently," interpretively clarifying the Hebrew's ambiguity about whether this is a question or accusation.
+
+- v.8 — NET: "We will oppress all of them" / WEB: "We will crush them completely" / KJV: "Let us destroy them together" — NET and WEB interpret the Hebrew as total annihilation language; KJV's "together" is more ambiguous (together in time or in totality?).
+
+- v.11 — NET: "Why do you remain inactive? Intervene and destroy him" — NET significantly paraphrases what KJV renders literally as "Why withdrawest thou thy hand...pluck it out of thy bosom." NET loses the vivid image of God's hand hidden in His robe but gains clarity.
+
+- v.14 — NET: "you fed him to the people who live along the coast" / KJV: "gavest him to be meat to the people inhabiting the wilderness" — The Hebrew is debated; NET reads "coast-dwellers" while KJV/ASV read "wilderness-dwellers." Different understanding of the same Hebrew word.
+
+- v.18 — ASV: "O Jehovah" / WEB: "Yahweh" / KJV/NET: "O LORD" — The divine name YHWH rendered differently: ASV uses the traditional English "Jehovah," WEB uses the scholarly transliteration "Yahweh," while KJV and NET use the conventional "LORD."
+
+- v.20 — ASV: "habitations of violence" / KJV: "habitations of cruelty" / NET: "places where violence rules" / WEB: "haunts of violence" — All capture the Hebrew חָמָס (chamas), but NET's interpretive "where violence rules" adds personification absent from the Hebrew.
+
+- v.19 — ASV: "wild beast" / NET: "wild animal" / KJV: "multitude of the wicked" — KJV reads the Hebrew differently here, understanding it as wicked people rather than a wild creature. ASV, WEB, and NET all read "wild beast/animal," which better parallels "dove."
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "How long?" is a valid prayer (v.10). When God seems absent and

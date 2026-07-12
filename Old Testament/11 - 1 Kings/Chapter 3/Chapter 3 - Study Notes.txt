@@ -222,6 +222,20 @@ High places  — Hebrew "bamot" = elevated worship sites, often on
              pagan practices. Their removal becomes a measure of
              faithfulness for later kings.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.3 — ASV: "Solomon loved Jehovah" / WEB: "Solomon loved Yahweh" / NET: "Solomon demonstrated his loyalty to the Lord" — The divine name appears as "Jehovah" (ASV), "Yahweh" (WEB), "the LORD" (KJV/ESV). NET replaces the simple "loved" (Heb. 'ahab) with "demonstrated his loyalty to," turning an emotional/relational verb into a behavioral description, which misses the intimacy of the Hebrew.
+
+- v.6 — ASV: "Thou hast showed unto thy servant David my father great lovingkindness" / WEB: "You have shown... great loving kindness" / NET: "You demonstrated great loyalty to your servant" — Hebrew "chesed gadol" (great lovingkindness/covenant faithfulness) is a key theological term. ASV/WEB preserve "lovingkindness" while NET renders it "great loyalty," which captures the covenant dimension but loses the tenderness inherent in chesed.
+
+- v.2 — ASV: "there was no house built for the name of Jehovah" / WEB: "there was not yet a house built for Yahweh's name" / NET: "a temple had not yet been built to honor the Lord" — NET interprets "for the name of" (Heb. l'shem) as "to honor," which is one implication but loses the temple theology of God's name dwelling in a specific place (Deuteronomy 12:5).
+
+- v.9 — ASV: "Give thy servant therefore an understanding heart to judge thy people" / WEB: "Give your servant therefore an understanding heart to judge your people" / NET: "So give your servant a discerning mind so he can make judicial decisions" — Hebrew "lev shomea" = literally "a hearing/listening heart." ASV/WEB preserve "heart" (the Hebrew seat of wisdom); NET shifts to "mind" and narrows "judge" to "make judicial decisions," over-specifying what is a broader request for wisdom in governance.
+
+- v.26 — ASV: "her heart yearned over her son" / WEB: "her heart yearned over her son" / NET: "her motherly instincts were awakened" — Hebrew "nikhmeru rachameha" = literally "her compassions/womb grew hot." ASV/WEB capture the visceral emotion with "heart yearned." NET's "motherly instincts were awakened" is psychological language foreign to the Hebrew idiom. "Rachamim" (compassion) derives from "rechem" (womb) — the connection between compassion and the maternal body is lost in NET.
+
+- v.28 — ASV: "they saw that the wisdom of God was in him, to do justice" / WEB: "they saw that the wisdom of God was in him, to do justice" / NET: "they realized that he possessed divine wisdom to make judicial decisions" — NET again narrows "justice" (Heb. mishpat) to "judicial decisions" and changes "wisdom of God was in him" to "possessed divine wisdom," shifting from the language of divine indwelling to human possession.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. What would you ask for if God said "Ask what I shall give thee"?

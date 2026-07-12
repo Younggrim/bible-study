@@ -115,6 +115,20 @@ v.8 — KJV: "My soul followeth hard after thee" / ESV: "My soul
       "followeth hard after," though KJV captures the pursuit
       dimension.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "earnestly will I seek thee" / NET: "I long for you" vs. KJV: "early will I seek thee" — ASV sides with ESV reading "shachar" as intensity rather than time. NET paraphrases further to "I long for you," making it purely emotional rather than active seeking. WEB: "I will earnestly seek you."
+
+- v.3 — ASV: "thy lovingkindness is better than life" / WEB: "your loving kindness is better than life" / NET: "experiencing your loyal love is better than life itself" — The "chesed" differences: KJV uses "lovingkindness" here (unusually). NET adds "experiencing" (not in Hebrew) and "itself" for emphasis. All agree this is the psalm's theological summit.
+
+- v.5 — NET: "As with choice meat you satisfy my soul" vs. KJV: "My soul shall be satisfied as with marrow and fatness" — NET uses "choice meat" for "cheleb" (fat), a more accessible modern term. WEB: "as with the richest food" — paraphrases without specifying meat.
+
+- v.8 — WEB: "My soul stays close to you" / NET: "My soul pursues you" vs. KJV: "My soul followeth hard after thee" — Three renderings of "dabaq" (cling/cleave): WEB emphasizes proximity, NET emphasizes pursuit, KJV emphasizes intensity. ASV matches KJV: "followeth hard after thee."
+
+- v.10 — ASV/WEB: "They shall be a portion for foxes/jackal food" / NET: "their corpses will be eaten by jackals" — The Hebrew "shu'alim" can mean foxes or jackals. NET makes the death explicit with "corpses." ASV/KJV use "foxes"; WEB and NET use "jackals" (more accurate for scavengers).
+
+- v.11 — NET: "everyone who takes oaths in his name will boast" vs. KJV: "every one that sweareth by him shall glory" — NET's "takes oaths" is more specific than KJV's "sweareth by him." WEB: "Everyone who swears by him will praise him" — changes "glory/boast" to "praise."
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Let physical needs remind you of spiritual needs (v.1). David's

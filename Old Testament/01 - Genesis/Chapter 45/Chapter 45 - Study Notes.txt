@@ -117,51 +117,88 @@ Charles Spurgeon:
   cross was not man's victory over God but God's victory through man's sin.
   'It was not you that sent me hither, but God.'"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "could not refrain himself" / ESV: "could not control himself"
-       — Hebrew "lo yakol lehit'appek" — could not contain/restrain himself.
-       The ESV's "control himself" is more natural in modern English. The
-       dam of emotion breaks after Judah's plea.
+v.1  — Hebrew "lo yakol lehit'appek" — could not contain/restrain himself.
+       KJV: "could not refrain himself"
+       ESV: "could not control himself"
+       ASV: "could not refrain himself"
+       NET: "could not control himself"
+       WEB: "couldn't refrain himself"
+       Analysis: ESV/NET's "control himself" is more natural in modern
+       English. KJV/ASV's "refrain" is slightly archaic. The dam of emotion
+       breaks after Judah's plea.
 
-v.3  — KJV: "troubled at his presence" / ESV: "dismayed at his presence" —
-       Hebrew "nivhalu" from "bahal" — terrified, dismayed, panic-stricken.
-       The ESV's "dismayed" captures the terror. Not mere surprise but
-       panic — the man they sold is the most powerful man in Egypt.
+v.3  — Hebrew "nivhalu" from "bahal" — terrified, dismayed, panic-stricken.
+       KJV: "troubled at his presence"
+       ESV: "dismayed at his presence"
+       ASV: "troubled at his presence"
+       NET: "His brothers could not answer him because they were dumbfounded before him"
+       WEB: "terrified at his presence"
+       Analysis: ESV's "dismayed" captures the terror. NET's "dumbfounded"
+       captures the shock vividly. WEB uses "terrified." Not mere surprise
+       but panic — the man they sold is the most powerful man in Egypt.
 
-v.5  — KJV: "God did send me" / ESV: "God sent me" — Hebrew "shalach" — to
-       send with purpose, to commission. Both equivalent. The same word used
-       for God sending prophets. Joseph sees himself as divinely
-       commissioned.
+v.5  — Hebrew "shalach" — to send with purpose, to commission.
+       KJV: "God did send me before you to preserve life"
+       ESV: "God sent me before you to preserve life"
+       ASV: "God did send me before you to preserve life"
+       NET: "God sent me ahead of you to preserve life!"
+       WEB: "God sent me before you to preserve life"
+       Analysis: All translations agree on this theological interpretation
+       of Joseph's suffering. The divine purpose language is consistent
+       across all five translations. The same word used for God sending
+       prophets — Joseph sees himself as divinely commissioned.
 
-v.6  — KJV: "earing" / ESV: "plowing" — The KJV's "earing" is archaic
-       English for "plowing." The ESV uses the modern word. There will be
-       neither plowing nor harvest for five more years.
+v.6  — Hebrew "charish" — plowing.
+       KJV: "neither earing nor harvest"
+       ESV: "neither plowing nor harvest"
+       ASV: "neither plowing nor harvest"
+       NET: "there will be no plowing or harvesting"
+       WEB: "there will be neither plowing nor harvest"
+       Analysis: KJV's "earing" is archaic English for "plowing." All modern
+       translations use "plowing." There will be neither plowing nor harvest
+       for five more years.
 
-v.24 — KJV: "fall not out by the way" / ESV: "do not quarrel on the way" —
-       Hebrew "al tirgezu" — do not quarrel, do not be agitated. The ESV is
-       immediately clear; the KJV's "fall not out" is archaic for quarreling.
+v.7  — Hebrew "peletah gedolah" — a great deliverance/escape.
+       KJV: "a great deliverance"
+       ESV: "a great escape" (footnote: "great deliverance")
+       ASV: "a great deliverance"
+       NET: "to save your lives by a great deliverance"
+       WEB: "a great deliverance"
+       Analysis: NET adds "to save your lives" for emphasis. All translations
+       preserve this critical theological statement about God's preserving
+       purpose for the covenant line.
 
-v.27 — KJV: "the spirit of Jacob their father revived" / ESV: "the spirit
-       of their father Jacob revived" — Hebrew "vattechi ruach" — his spirit
-       lived again. Both equivalent. Jacob was spiritually dead with grief;
-       the news of Joseph brings resurrection of spirit.
+v.8  — Hebrew "ab" — father (a title of authority/adviser).
+       KJV: "a father to Pharaoh"
+       ESV: "a father to Pharaoh"
+       ASV: "a father to Pharaoh"
+       NET: "He has made me an adviser to Pharaoh"
+       WEB: "a father to Pharaoh"
+       Analysis: NET interprets the title's functional meaning, rendering
+       Hebrew "ab" (father) as "adviser." KJV/ESV/ASV/WEB preserve the
+       literal "father to Pharaoh" — an Egyptian title of honor and authority.
 
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.3 — NET: "His brothers could not answer him because they were dumbfounded
-  before him" — "dumbfounded" captures the shock vividly (KJV: "troubled at
-  his presence" / ESV: "dismayed"). WEB: "terrified at his presence."
-- v.5 — NET: "God sent me ahead of you to preserve life!" — all translations
-  agree on this theological interpretation of Joseph's suffering. The divine
-  purpose language is consistent across ASV, WEB, and NET.
-- v.7 — NET: "God sent me ahead of you to preserve you on the earth and to
-  save your lives by a great deliverance" — "great deliverance" renders
-  Hebrew "peletah gedolah" (KJV: "a great deliverance" / ESV: "great
-  escape"). All translations preserve this critical theological statement.
-- v.8 — NET: "He has made me an adviser to Pharaoh" — renders Hebrew "ab"
-  (father) as "adviser" where KJV/ESV/ASV/WEB have "father to Pharaoh." NET
-  interprets the title's functional meaning.
+v.24 — Hebrew "al tirgezu" — do not quarrel, do not be agitated.
+       KJV: "fall not out by the way"
+       ESV: "do not quarrel on the way"
+       ASV: "See that ye fall not out by the way"
+       NET: "Don't quarrel on the journey!"
+       WEB: "See that you don't quarrel on the way"
+       Analysis: ESV/NET are immediately clear. KJV's "fall not out" is
+       archaic for quarreling. Joseph warns against letting guilt and blame
+       destroy the reconciliation.
+
+v.27 — Hebrew "vattechi ruach" — his spirit lived again.
+       KJV: "the spirit of Jacob their father revived"
+       ESV: "the spirit of their father Jacob revived"
+       ASV: "the spirit of Jacob their father revived"
+       NET: "their father Jacob's spirit revived"
+       WEB: "the spirit of Jacob, their father, revived"
+       Analysis: All equivalent. Jacob was spiritually dead with grief; the
+       news of Joseph brings resurrection of spirit. Note the name change
+       in v.28: "Jacob" faints, but "Israel" revives.
 
 GLOSSARY
 ------------------------------------

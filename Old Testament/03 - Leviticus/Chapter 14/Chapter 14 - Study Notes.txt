@@ -232,88 +232,148 @@ Charles Spurgeon:
   Pentecost. No atonement, no anointing. But where the blood is applied,
   the oil follows. Always."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "the law of the leper in the day of his cleansing" / ESV: "the
-       law of the leprous person for the day of his cleansing" — Hebrew
-       "torat ha-m'tsora b'yom tahorato." "M'tsora" = the leprous one (from
-       tsara'at). "Tahorato" = his purification/cleansing. Both translations
-       equivalent. "The day of his cleansing" — a specific, appointed day.
-       There is a day appointed for every sinner's cleansing.
+v.2  — Hebrew "torat ha-m'tsora b'yom tahorato" — the law of the leprous
+       one in the day of his purification.
+       KJV: "the law of the leper in the day of his cleansing"
+       ESV: "the law of the leprous person for the day of his cleansing"
+       ASV: "the law of the leper in the day of his cleansing"
+       NET: "the law of the diseased person on the day of his cleansing"
+       WEB: "the law of the leper in the day of his cleansing"
+       Analysis: NET consistently avoids "leper/leprosy" (since "tsara'at"
+       is not modern leprosy) and uses "diseased person" — removing stigma
+       while retaining ceremonial reality. "Tahorato" = his purification/
+       cleansing. "The day of his cleansing" — a specific, appointed day.
 
-v.4  — KJV: "two birds alive and clean, and cedar wood, and scarlet, and
-       hyssop" / ESV: "two live clean birds and cedarwood and scarlet yarn
-       and hyssop" — Hebrew "sh'tei tsipporim chayyot t'horot, v'etz erez,
-       u-sh'ni tola'at, v'ezov." "Tsipporim" = small birds (sparrows or
-       similar). "Chayyot" = living/alive. "T'horot" = clean (ritually
-       acceptable). "Erez" = cedar. "Sh'ni tola'at" = scarlet of the worm
-       (crimson dye from the tola'at worm — see Psalm 22:6 "I am a worm").
-       ESV adds "yarn" for clarity — the scarlet was a thread/yarn dyed
-       crimson. "Ezov" = hyssop (a small bushy plant, likely marjoram).
+v.4  — Hebrew "sh'tei tsipporim chayyot t'horot, v'etz erez, u-sh'ni
+       tola'at, v'ezov" — two live clean birds, cedar wood, scarlet of the
+       worm, and hyssop.
+       KJV: "two birds alive and clean, and cedar wood, and scarlet, and
+       hyssop"
+       ESV: "two live clean birds and cedarwood and scarlet yarn and hyssop"
+       ASV: "two living clean birds, and cedar wood, and scarlet, and
+       hyssop"
+       NET: "two live clean birds, a piece of cedar wood, a scrap of
+       crimson fabric, and some twigs of hyssop"
+       WEB: "two living clean birds, cedar wood, scarlet, and hyssop"
+       Analysis: NET specifies "crimson fabric" for Hebrew "sheni tola'at"
+       (literally "scarlet of the worm" — a dye from crushed insects). ESV
+       adds "yarn" for clarity. The scarlet, cedar, and hyssop together
+       picture Christ's blood, cross, and humility.
 
-v.5  — KJV: "over running water" / ESV: "over fresh water" — Hebrew "al
-       mayim chayyim" — literally "over LIVING water." "Chayyim" = living,
-       alive. KJV's "running" captures the flowing aspect. ESV's "fresh"
-       is less evocative. The Hebrew is "living water" — the same phrase
-       Jesus uses in John 4:10 and 7:38. The bird is killed over living
-       water — death over life; the blood mingles with living water.
+v.5  — Hebrew "al mayim chayyim" — over living water. Hebrew "el k'li
+       cheres" — in an earthen vessel.
+       KJV: "over running water... in an earthen vessel"
+       ESV: "over fresh water... in an earthenware vessel"
+       ASV: "over running water... in an earthen vessel"
+       NET: "over fresh water... in a clay vessel"
+       WEB: "over running water... in an earthen vessel"
+       Analysis: "Chayyim" = living, alive. KJV/ASV/WEB's "running" captures
+       the flowing aspect. ESV/NET's "fresh" is less evocative. The Hebrew
+       is "living water" — the same phrase Jesus uses in John 4:10 and 7:38.
+       The bird is killed over living water — death over life. "Cheres" =
+       clay, earthenware — Christ's body was an "earthen vessel" (2 Cor
+       4:7).
 
-v.5  — KJV: "in an earthen vessel" / ESV: "in an earthenware vessel" —
-       Hebrew "el k'li cheres." "Cheres" = clay, earthenware. The bird is
-       killed in a clay pot — a fragile, common container. Christ's body
-       was an "earthen vessel" (2 Corinthians 4:7) — human, breakable,
-       common in appearance.
+v.7  — Hebrew "penei hasadeh" — face of the field.
+       KJV: "into the open field"
+       ESV: "into the open field"
+       ASV: "into the open field"
+       NET: "over the open countryside"
+       WEB: "into the open field"
+       Analysis: NET's "open countryside" is more descriptive. The released
+       bird flies free — a picture of sin carried away and resurrection
+       freedom (cf. the scapegoat in ch.16).
 
-v.10 — KJV: "two he lambs" / ESV: "two male lambs" — Hebrew "sh'nei
-       k'vasim." KJV's "he lambs" is archaic for male lambs. ESV is
-       clearer.
+v.10 — Hebrew "sh'nei k'vasim" — two male lambs.
+       KJV: "two he lambs"
+       ESV: "two male lambs"
+       ASV: "two he-lambs"
+       NET: "two flawless male lambs"
+       WEB: "two male lambs"
+       Analysis: KJV/ASV's "he lambs" is archaic for male lambs. NET adds
+       "flawless" (Hebrew "tamim") directly into the text for clarity.
 
-v.10 — KJV: "three tenth deals of fine flour for a meat offering" / ESV:
-       "a grain offering of three tenths of an ephah of fine flour" —
-       Hebrew "sh'loshah esronim solet l'minchah." KJV's "meat offering" =
-       grain offering (archaic "meat" = food). "Tenth deals" = tenth parts
-       of an ephah. ESV specifies the unit of measurement.
+v.10 — Hebrew "sh'loshah esronim solet l'minchah" — three-tenths of fine
+       flour for a grain offering.
+       KJV: "three tenth deals of fine flour for a meat offering"
+       ESV: "a grain offering of three tenths of an ephah of fine flour"
+       ASV: "three tenth parts of an ephah of fine flour for a meal-offering"
+       NET: "three-tenths of an ephah of choice wheat flour"
+       WEB: "three tenth parts of an ephah of fine flour for a meal offering"
+       Analysis: KJV's "meat offering" = grain offering (archaic). "Tenth
+       deals" = tenth parts of an ephah. ESV specifies the unit. NET uses
+       "choice wheat flour" for Hebrew "soleth."
 
-v.12 — KJV: "a trespass offering" / ESV: "a guilt offering" — Hebrew
-       "asham." The "asham" is the offering for specific acts of trespass
-       or guilt — particularly where restitution is involved. KJV's
-       "trespass" and ESV's "guilt" both capture aspects of the Hebrew.
-       The leper's disease was a kind of "debt" to God that must be repaid.
+v.12 — Hebrew "asham" — guilt/trespass offering.
+       KJV: "a trespass offering"
+       ESV: "a guilt offering"
+       ASV: "a guilt-offering"
+       NET: "a guilt offering"
+       WEB: "a trespass offering"
+       Analysis: KJV/WEB's "trespass" and ESV/ASV/NET's "guilt" both
+       capture aspects of the Hebrew. The leper's disease was a kind of
+       "debt" to God that must be repaid.
 
-v.14 — KJV: "the tip of the right ear" / ESV: "the lobe of the right ear"
-       — Hebrew "t'nukh ozen y'manit." "T'nukh" = tip/lobe. Both
-       translations acceptable. The specific location: the ear lobe — the
-       outermost, most accessible part of the ear. Blood touches the organ
-       of hearing.
+v.14 — Hebrew "t'nukh ozen y'manit" — the tip/lobe of the right ear.
+       KJV: "the tip of the right ear... the thumb of his right hand...
+       the great toe of his right foot"
+       ESV: "the lobe of the right ear... the thumb of his right hand...
+       the big toe of his right foot"
+       ASV: "the tip of the right ear... the thumb of his right hand...
+       the great toe of his right foot"
+       NET: "the lobe of the right ear... right hand thumb... right foot
+       big toe"
+       WEB: "the tip of the right ear... the thumb of his right hand...
+       the great toe of his right foot"
+       Analysis: NET/ESV use anatomical "lobe" and "big toe" where ASV/KJV/
+       WEB use "tip" and "great toe." The same three-point application as
+       priestly consecration (ch.8) — the cleansed leper is re-consecrated
+       like a priest. Blood on ear (hearing), thumb (work), toe (walk).
 
-v.34 — KJV: "I put the plague of leprosy in a house" / ESV: "I put a case
-       of leprous disease in a house" — Hebrew "v'natatti nega tsara'at
-       b'veit." "Natatti" = I give/put/place. God claims direct agency.
-       This is remarkable — God Himself places the disease. Some rabbis
-       suggested this was actually a blessing in disguise: when the
-       Canaanites heard Israel was coming, they hid treasures in their
-       walls. God sent "leprosy" to force the walls to be torn down,
-       revealing the hidden treasure. Whether or not this tradition is
-       accurate, the text affirms God's sovereignty over all circumstances.
+v.34 — Hebrew "v'natatti nega tsara'at b'veit" — I give/put/place a plague
+       of skin disease in a house.
+       KJV: "I put the plague of leprosy in a house"
+       ESV: "I put a case of leprous disease in a house"
+       ASV: "I put the plague of leprosy in a house"
+       NET: "I assign an infection in a house"
+       WEB: "I put a plague of leprosy in a house"
+       Analysis: God claims direct agency. "Natatti" = I give/put/place.
+       NET uses "assign" to emphasize divine sovereignty. NET also renders
+       "the land that I am about to give you for a possession" — emphasizing
+       the promise as imminent. The land laws apply to future possession.
 
-v.44 — KJV: "a fretting leprosy" / ESV: "a persistent leprous disease" —
-       Hebrew "tsara'at mam'eret" — same phrase as 13:51. Malignant,
-       corroding, actively destructive. The disease that returns after
-       treatment is the most dangerous kind — it requires total destruction
-       of the house.
+v.44 — Hebrew "tsara'at mam'eret" — malignant/persistent leprosy.
+       KJV: "a fretting leprosy"
+       ESV: "a persistent leprous disease"
+       ASV: "a fretting leprosy"
+       NET: "a malignant disease"
+       WEB: "a spreading plague"
+       Analysis: Malignant, corroding, actively destructive. The disease
+       that returns after treatment is the most dangerous — it requires
+       total destruction of the house.
 
-v.51 — KJV: "sprinkle the house seven times" / ESV: "sprinkle the house
-       seven times" — The same ceremony used for the person (vv.6-7) is
-       used for the house. Blood cleanses environments as well as
+v.51 — The house cleansing ceremony mirrors the personal ceremony (vv.6-7).
+       KJV: "sprinkle the house seven times"
+       ESV: "sprinkle the house seven times"
+       ASV: "sprinkle the house seven times"
+       NET: "sprinkle the house seven times"
+       WEB: "sprinkle the house seven times"
+       Analysis: All identical. Blood cleanses environments as well as
        individuals. Seven times = complete, perfect cleansing.
 
-v.57 — KJV: "to teach when it is unclean, and when it is clean" / ESV: "to
-       show when it is unclean and when it is clean" — Hebrew "l'horot
-       b'yom ha-tamei u-v'yom ha-tahor." "L'horot" = to teach, to instruct,
-       to show (same root as "Torah" = instruction). The entire leprosy
-       legislation is TORAH — instruction. Its purpose is pedagogical: to
-       teach Israel (and us) to discern between disease and health, sin and
-       holiness, death and life.
+v.57 — Hebrew "l'horot b'yom ha-tamei u-v'yom ha-tahor" — to teach/
+       instruct in the day of unclean and the day of clean.
+       KJV: "to teach when it is unclean, and when it is clean"
+       ESV: "to show when it is unclean and when it is clean"
+       ASV: "to teach when it is unclean, and when it is clean"
+       NET: "to teach when something is unclean and when it is clean"
+       WEB: "to teach when it is unclean, and when it is clean"
+       Analysis: "L'horot" = to teach, instruct, show (same root as "Torah"
+       = instruction). The entire leprosy legislation is TORAH —
+       instruction. Its purpose is pedagogical: to teach discernment between
+       disease and health, sin and holiness, death and life.
 
 GLOSSARY
 ------------------------------------

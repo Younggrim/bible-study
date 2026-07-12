@@ -100,37 +100,75 @@ Charles Spurgeon:
   are safe — not because you are better than the world, but because you are
   under the blood."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "thrust you out" / ESV: "drive you away" — Hebrew "garesh
-       yegaresh" — he will completely drive you out. Both capture the
-       emphatic: Pharaoh won't just permit departure — he will urgently
-       expel them. Same word used for Adam's expulsion from Eden (Genesis
-       3:24).
+v.1  — Hebrew "garesh yegaresh" — he will completely drive you out.
+       KJV: "thrust you out"
+       ESV: "drive you away"
+       ASV: "he shall surely thrust you out hence altogether"
+       NET: "he will drive you out completely from this place"
+       WEB: "he will surely thrust you out altogether"
+       Analysis: All capture the emphatic Hebrew infinitive absolute construction
+       ("garesh yegaresh") — Pharaoh won't just permit departure, he will urgently
+       expel them. Same word used for Adam's expulsion from Eden (Genesis 3:24).
+       NET smooths the doubled verb into natural English; ASV/KJV/WEB preserve the
+       literal force. The divine name (YHWH) in this verse is rendered "Jehovah"
+       (ASV), "Yahweh" (WEB), "the Lord" (NET/KJV/ESV).
 
-v.2  — KJV: "borrow" / ESV: "ask" — Hebrew "sha'al" — to ask, to request.
-       The ESV correctly renders "ask" (not implying return). The KJV's
-       "borrow" is misleading. The Egyptians give willingly — reparations
-       for centuries of unpaid labor.
+v.2  — Hebrew "sha'al" — to ask, to request.
+       KJV: "borrow... jewels of silver"
+       ESV: "ask... for silver and gold jewelry"
+       ASV: "ask... jewels of silver"
+       NET: "request from his or her neighbor items of silver and gold"
+       WEB: "ask... jewels of silver"
+       Analysis: The ESV correctly renders "ask" (not implying return). The KJV's
+       "borrow" is misleading — the Egyptians give willingly as reparations for
+       centuries of unpaid labor. NET avoids "jewels" (Hebrew "keli" means
+       articles/vessels/items) and adds "his or her" for gender clarity. The NET
+       rendering is most accurate to the Hebrew. ASV/WEB follow the KJV pattern.
 
-v.4  — KJV: "About midnight" / ESV: "About midnight" — Hebrew "kachatzot
-       halaylah" — approximately at the dividing of the night. Both
-       identical. God acts at the darkest hour.
+v.4  — Hebrew "kachatzot halaylah" — approximately at the dividing of the night.
+       KJV: "About midnight"
+       ESV: "About midnight"
+       ASV: "About midnight"
+       NET: "About midnight"
+       WEB: "About midnight"
+       Analysis: All translations identical. God acts at the darkest hour — the
+       dividing point of the night.
 
-v.5  — KJV: "the maidservant that is behind the mill" / ESV: "the female
-       slave who is behind the handmill" — The lowest social position. The
-       ESV's "female slave" and "handmill" are more precise. From Pharaoh's
-       throne to the slave grinding grain — no one exempt.
+v.5  — Hebrew "hashifchah asher achar harechayim" — the maidservant behind the mill.
+       KJV: "the maidservant that is behind the mill"
+       ESV: "the female slave who is behind the handmill"
+       ASV: "the first-born of the maid-servant that is behind the mill"
+       NET: "the firstborn son of the slave girl who is at her hand mill"
+       WEB: "the firstborn of the female servant who is behind the mill"
+       Analysis: The lowest social position — from Pharaoh's throne to the slave
+       grinding grain, no one exempt. ESV's "female slave" and "handmill" are more
+       precise. NET specifies "son" and "hand mill," adding interpretive clarity.
+       WEB/ASV stay closer to the Hebrew's generality.
 
-v.7  — KJV: "not a dog move his tongue" / ESV: "not a dog shall growl" —
-       Hebrew "lo yecheratz kelev leshono" — not a dog shall sharpen/point
-       its tongue. The KJV is more literal; the ESV interprets as "growl."
-       Both express absolute peace — not even the slightest disturbance.
+v.7  — Hebrew "lo yecheratz kelev leshono" — not a dog shall sharpen/point its tongue.
+       KJV: "not a dog move his tongue"
+       ESV: "not a dog shall growl"
+       ASV: "not a dog move his tongue"
+       NET: "not even a dog will bark against either people or animals"
+       WEB: "a dog won't even bark or move its tongue"
+       Analysis: The KJV/ASV are more literal to the Hebrew "tongue" imagery; the
+       ESV interprets as "growl." NET loses the vivid "tongue" imagery entirely;
+       WEB combines both ideas. All express absolute peace — not even the slightest
+       disturbance against Israel. ASV/WEB use "Jehovah/Yahweh makes a distinction"
+       while NET says "the Lord distinguishes between Egypt and Israel" — all
+       rendering Hebrew "yaphle" (to make a distinction/separation).
 
-v.8  — KJV: "in a great anger" / ESV: "in hot anger" — Hebrew "bechari af"
-       — in burning/hot anger. The ESV's "hot anger" is more literal to the
-       Hebrew "chari" (burning). Moses' righteous indignation at Pharaoh's
-       stubborn cruelty.
+v.8  — Hebrew "bechari af" — in burning/hot anger.
+       KJV: "in a great anger"
+       ESV: "in hot anger"
+       ASV: "in hot anger"
+       NET: "in great anger"
+       WEB: "in hot anger"
+       Analysis: The ESV/ASV/WEB's "hot anger" is more literal to the Hebrew
+       "chari" (burning). KJV/NET use "great anger." Moses' righteous indignation
+       at Pharaoh's stubborn cruelty — his final words in Pharaoh's presence.
 
 GLOSSARY
 ------------------------------------

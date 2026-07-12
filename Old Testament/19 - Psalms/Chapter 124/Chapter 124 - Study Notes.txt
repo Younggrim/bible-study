@@ -83,6 +83,15 @@ v.7 — "fowlers" = those who trap birds with snares. The enemy is
       compared to a trapper — subtle, hidden, deadly. But God
       broke the snare.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.3 — KJV: "swallowed us up quick" / ASV/WEB: "swallowed us up alive" / NET: "swallowed us alive" — KJV's archaic "quick" means alive (same root as "quicken"). Modern translations clarify this crucial word.
+- v.5 — KJV: "the proud waters" / NET: "The raging water" — KJV personifies the waters as "proud" (Hebrew "zedonim"); NET replaces this with "raging," losing the moral characterization of the threat.
+- v.6 — KJV: "Blessed be the LORD" / ASV: "Blessed be Jehovah" / WEB: "Blessed be Yahweh" / NET: "The Lord deserves praise" — NET uniquely paraphrases the blessing formula into a statement of desert/worthiness.
+- v.7 — KJV: "the snare of the fowlers" / WEB: "the fowler's snare" / NET: "a hunter's snare" — NET modernizes "fowler" (bird-catcher) to generic "hunter," losing the specific imagery of bird-trapping.
+- v.8 — KJV: "Our help is in the name of the LORD" / NET: "Our deliverer is the Lord, the Creator of heaven and earth" — NET interprets "help" as "deliverer" (more personal) and "who made" as "Creator" (title), adding theological weight.
+- v.1 — ASV: "Jehovah" / WEB: "Yahweh" / NET: "the Lord" — The divine name appears four times in this short psalm, making the translation choice prominent in every section.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Imagine life without God's rescue (vv.1-5). What would have

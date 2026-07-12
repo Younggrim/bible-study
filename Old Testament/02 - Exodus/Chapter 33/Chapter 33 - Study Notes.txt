@@ -110,37 +110,87 @@ Charles Spurgeon:
   and live. Apart from Christ, the glory would consume us. In Christ, the
   glory transforms us."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3 — KJV: "stiffnecked" / ESV: "stiff-necked" — Hebrew "qesheh-ʻoreph" —
- hard of neck. Same term as 32:9. The hyphenation differs but the
- meaning is identical.
+v.1  — Hebrew "YHWH" — the divine covenant name.
+       KJV: "the LORD said unto Moses"
+       ESV: "the LORD said to Moses"
+       ASV: "And Jehovah spake unto Moses"
+       NET: "The Lord said to Moses"
+       WEB: "Yahweh spoke to Moses"
+       Analysis: The divine name pattern throughout this intimate chapter. ASV uses "Jehovah" (vv.1, 5, 7, 9, 11, 17, 19, 21); WEB uses "Yahweh"; NET uses "the Lord." Notably in v.19, where God proclaims His own name, ASV has "the name of Jehovah," WEB has "Yahweh's name," and NET has "the Lord by name."
 
-v.7 — KJV: "tabernacle" / ESV: "tent" — Hebrew "ʼohel" — tent. This is NOT
- the tabernacle (mishkan) of chapters 25–31 (not yet built). It was
- a temporary tent Moses used for meeting with God.
+v.3  — Hebrew "qesheh-ʻoreph" — hard of neck; "pen-ʼakhelka" — lest I consume.
+       KJV: "for thou art a stiffnecked people: lest I consume thee in the way"
+       ESV: "for you are a stiff-necked people, lest I consume you on the way"
+       ASV: "for thou art a stiffnecked people, lest I consume thee in the way"
+       NET: "for you are a stiff-necked people, and I might destroy you on the way"
+       WEB: "for you are a stiff-necked people, lest I consume you on the way"
+       Analysis: ASV/WEB/KJV/ESV retain the purposive "lest I consume" (Hebrew "pen-ʼakhelka"); NET renders as "I might destroy" — less of a warning and more of a possibility statement. "Consume" (KJV/ASV/WEB/ESV) captures the devouring fire of God's holiness; NET's "destroy" is flatter.
 
-v.11 — KJV: "face to face" / ESV: "face to face" — Hebrew "panim ʼel-panim"
- — face to face. An idiom for direct, intimate communication, not
- necessarily literal visual sight (cf. v.20, "thou canst not see my
- face").
+v.4  — Hebrew "hadavar haraʻ" — the evil/bad word/matter.
+       KJV: "these evil tidings"
+       ESV: "this disastrous word"
+       ASV: "these evil tidings"
+       NET: "this troubling word"
+       WEB: "this evil news"
+       Analysis: ASV/KJV's "evil tidings" is archaic but close; WEB modernizes to "evil news." NET softens "evil" to "troubling" — losing the Hebrew force of "raʻ" (genuinely bad/harmful), which emphasizes how devastating the threatened withdrawal of God's presence truly was.
 
-v.14 — KJV: "My presence shall go with thee" / ESV: "My presence will go
- with you" — Hebrew "panay" — literally "my face." God's "face"
- going with them means His personal, immediate presence.
+v.7  — Hebrew "ʼohel" — tent. NOT the tabernacle (mishkan).
+       KJV: "the tabernacle of the congregation"
+       ESV: "the tent of meeting"
+       ASV: "the Tent of meeting"
+       NET: "the tent of meeting"
+       WEB: "the Tent of Meeting"
+       Analysis: This is NOT the tabernacle (mishkan) of chapters 25–31 (not yet built). It was a temporary tent Moses used for meeting with God. KJV's "tabernacle of the congregation" is misleading; all modern translations correctly distinguish it as "tent of meeting."
 
-v.19 — KJV: "will be gracious to whom I will be gracious" / ESV: same —
- Hebrew "channoti ʼet-ʼasher ʼachon" — sovereign, unconditional
- grace. God's mercy is not earned but freely bestowed according to
- His will.
+v.11 — Hebrew "panim ʼel-panim" — face to face (idiom for intimate communication).
+       KJV: "the LORD spake unto Moses face to face, as a man speaketh unto his friend"
+       ESV: "the LORD used to speak to Moses face to face, as a man speaks to his friend"
+       ASV: "And Jehovah spake unto Moses face to face, as a man speaketh unto his friend"
+       NET: "The Lord would speak to Moses face to face, the way a person speaks to a friend"
+       WEB: "Yahweh spoke to Moses face to face, as a man speaks to his friend"
+       Analysis: NET adds "would speak" (habitual/frequentative), correctly reflecting the Hebrew imperfect tense indicating repeated action. ASV/WEB use simple past. NET also generalizes "man" to "person" — a stylistic modernization. The idiom describes relational closeness, not full visual revelation (cf. v.20).
 
-v.22 — KJV: "clift of the rock" / ESV: "cleft of the rock" — Hebrew
- "niqrat hatsur" — a crevice or hollow in the rock. A place of
- shelter and protection within the solid rock.
+v.14 — Hebrew "panay" — literally "my face" (God's personal presence).
+       KJV: "My presence shall go with thee, and I will give thee rest"
+       ESV: "My presence will go with you, and I will give you rest"
+       ASV: "My presence shall go with thee, and I will give thee rest"
+       NET: "My presence will go with you, and I will give you rest"
+       WEB: "My presence will go with you, and I will give you rest"
+       Analysis: All translations agree. God's "face" going with them means His personal, immediate presence — not merely an angel or representative.
 
-v.23 — KJV: "my back parts" / ESV: "my back" — Hebrew "ʼachoray" — my
- back, my aftereffects. Moses sees the trailing glory, the
- afterglow of God's passing — not His full, unveiled face.
+v.19 — Hebrew "channoti ʼet-ʼasher ʼachon" — sovereign grace.
+       KJV: "I will make all my goodness pass before thee, and I will proclaim the name of the LORD before thee"
+       ESV: "I will make all my goodness pass before you and will proclaim before you my name 'The LORD'"
+       ASV: "I will make all my goodness pass before thee, and will proclaim the name of Jehovah before thee"
+       NET: "I will make all my goodness pass before your face, and I will proclaim the Lord by name before you"
+       WEB: "I will make all my goodness pass before you, and will proclaim Yahweh's name before you"
+       Analysis: A theologically crucial verse. NET adds "before your face" (translating "ʻal-paneycha" literally). The divine name in the proclamation: ASV's "the name of Jehovah" and WEB's "Yahweh's name" make God's covenant identity explicit where NET's "the Lord by name" is less direct. God reveals His glory through goodness and name (character).
+
+v.20 — Hebrew "lo-yir'ani haʼadam vachai" — man shall not see me and live.
+       KJV: "Thou canst not see my face: for there shall no man see me, and live"
+       ESV: "you cannot see my face, for man shall not see me and live"
+       ASV: "Thou canst not see my face; for man shall not see me and live"
+       NET: "You cannot see my face, for no one can see me and live"
+       WEB: "You cannot see my face, for man may not see me and live"
+       Analysis: ASV/KJV's "man shall not" implies a divine decree; WEB's "may not" suggests permission denied; NET's "no one can" emphasizes impossibility. The theological weight shifts subtly: decree vs. prohibition vs. inherent limitation of creaturely finitude before infinite holiness.
+
+v.22 — Hebrew "niqrat hatsur" — a crevice or hollow in the rock.
+       KJV: "I will put thee in a clift of the rock"
+       ESV: "I will put you in a cleft of the rock"
+       ASV: "I will put thee in a cleft of the rock"
+       NET: "I will put you in a cleft in the rock"
+       WEB: "I will put you in a cleft of the rock"
+       Analysis: Identical in meaning across all five. Note the slight grammatical difference: KJV/ESV/ASV/WEB say "cleft of the rock" (the rock possessing the cleft); NET says "cleft in the rock" (locational). Minor but shows NET's preference for natural modern English. A place of shelter and protection.
+
+v.23 — Hebrew "ʼachoray" — my back, my aftereffects.
+       KJV: "thou shalt see my back parts: but my face shall not be seen"
+       ESV: "you shall see my back, but my face shall not be seen"
+       ASV: "thou shalt see my back; but my face shall not be seen"
+       NET: "you will see my back, but my face must not be seen"
+       WEB: "you will see my back; but my face shall not be seen"
+       Analysis: NET's "must not be seen" conveys prohibition; KJV/ASV/WEB/ESV's "shall not be seen" is more declarative. All render "ʼachoray" as "back" — the trailing radiance, the afterglow of God's passing glory rather than His unveiled face. Moses sees the aftereffects of God's passing.
 
 GLOSSARY
 ------------------------------------

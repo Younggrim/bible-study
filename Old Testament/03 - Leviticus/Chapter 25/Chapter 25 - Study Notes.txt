@@ -197,68 +197,78 @@ Charles Spurgeon:
   is cancelled. Your lost inheritance is restored. The trumpet has sounded.
   Believe it and go free!"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "then shall the land keep a sabbath unto the LORD" / ESV:
-       "the land shall keep a Sabbath to the LORD" — Hebrew "v'shavtah
-       ha-aretz shabbat la-YHWH" — the land shall sabbath a sabbath to
-       the LORD. The land itself is personified as keeping Sabbath. The
-       verb "shavat" (to cease, rest) is applied to the ground.
+v.2  — Hebrew "v'shavtah ha-aretz shabbat la-YHWH" — the land shall sabbath a sabbath to the LORD.
+       KJV: "then shall the land keep a sabbath unto the LORD"
+       ESV: "the land shall keep a Sabbath to the LORD"
+       ASV: "then shall the land keep a sabbath unto Jehovah"
+       NET: "the land must observe a Sabbath to the Lord"
+       WEB: "then the land shall keep a Sabbath to Yahweh"
+       Analysis: The land itself is personified as keeping Sabbath. The verb "shavat" (to cease, rest) is applied to the ground. The divine name marks this as YHWH's own principle. The earth participates in God's rhythm of work and rest.
 
-v.9  — KJV: "the trumpet of the jubile" / ESV: "the loud trumpet" —
-       Hebrew "shofar teru'ah" — the ram's horn of blasting/shouting.
-       KJV inserts "jubile" (from "yovel" — ram/ram's horn); ESV
-       translates descriptively. The shofar blast on the Day of Atonement
-       inaugurates the Jubilee.
+v.4  — Hebrew "shabbath shabbathon" — emphatic double form.
+       KJV: "a sabbath of rest"
+       ESV: "a Sabbath of solemn rest"
+       ASV: "a sabbath of solemn rest"
+       NET: "a Sabbath of complete rest"
+       WEB: "a Sabbath of solemn rest"
+       Analysis: Literally "a sabbath of sabbathing." NET's "complete rest" captures the totality; ASV/WEB/ESV's "solemn rest" captures the gravity.
 
-v.10 — KJV: "jubile" / ESV: "jubilee" — Hebrew "yovel" — originally
-       meaning "ram" or "ram's horn." The year is named for the trumpet
-       that announces it. English "jubilee" comes through Latin "jubilaeus"
-       from Hebrew "yovel." The word carries connotations of joy and
-       celebration, though its root is simply the instrument.
+v.9  — Hebrew "shofar teru'ah" — the ram's horn of blasting/shouting.
+       KJV: "the trumpet of the jubile"
+       ESV: "the loud trumpet"
+       Analysis: KJV inserts "jubile" (from "yovel" — ram/ram's horn); ESV translates descriptively. The shofar blast on the Day of Atonement inaugurates the Jubilee.
 
-v.10 — KJV: "proclaim liberty throughout all the land unto all the
-       inhabitants thereof" / ESV: "proclaim liberty throughout the land
-       to all its inhabitants" — Hebrew "uqratem deror ba-aretz l'khol
-       yoshveha." "Deror" means liberty, release, free-flowing. This
-       exact phrase is inscribed on the Liberty Bell in Philadelphia.
+v.10 — Hebrew "yovel" — ram or ram's horn; the jubilee.
+       KJV: "proclaim liberty throughout all the land unto all the inhabitants thereof"
+       ESV: "proclaim liberty throughout the land to all its inhabitants"
+       ASV: "ye shall proclaim liberty throughout the land unto all the inhabitants thereof"
+       NET: "you must proclaim a release in the land for all its inhabitants"
+       Analysis: Hebrew "deror" means liberty, release, free-flowing. This exact phrase is inscribed on the Liberty Bell in Philadelphia. NET uses "release" — more connected to debt cancellation; ASV/KJV use "liberty" — more broadly evocative. English "jubilee" comes through Latin "jubilaeus" from Hebrew "yovel."
 
-v.23 — KJV: "The land shall not be sold for ever" / ESV: "The land shall
-       not be sold in perpetuity" — Hebrew "lo timakher litzmitut" —
-       shall not be sold to cutting off (permanently). KJV's "for ever"
-       and ESV's "in perpetuity" both capture the meaning: no permanent,
-       irrevocable land sales.
+v.23 — Hebrew "lo timakher litzmitut" — shall not be sold permanently.
+       KJV: "The land shall not be sold for ever"
+       ESV: "The land shall not be sold in perpetuity"
+       ASV: "the land shall not be sold in perpetuity"
+       NET: "the land must not be sold without reclaim"
+       WEB: "The land shall not be sold in perpetuity"
+       Analysis: NET's "without reclaim" interprets the Hebrew "litsmituth" (permanently/in perpetuity). Land always returns to original families in Jubilee — it cannot be permanently alienated from its tribal inheritance. KJV's "for ever" and ESV's "in perpetuity" both capture the meaning.
 
-v.25 — KJV: "if any of his kin come to redeem it" / ESV: "his nearest
-       redeemer shall come and redeem" — Hebrew "go'alo ha-qarov" — his
-       redeemer, the near one. "Go'el" is the kinsman-redeemer — a near
-       relative with the right and responsibility to buy back what a poor
-       brother has lost. This is the same term used of Boaz (Ruth 3:9, 12)
-       and of God Himself (Isaiah 41:14; 43:14; 44:6).
+v.25 — Hebrew "go'alo ha-qarov" — his redeemer, the near one.
+       KJV: "if any of his kin come to redeem it"
+       ESV: "his nearest redeemer shall come and redeem"
+       ASV: "then shall his kinsman that is next unto him come"
+       NET: "his near redeemer is to come"
+       WEB: "his nearest relative shall come"
+       Analysis: "Go'el" is the kinsman-redeemer — a near relative with the right and responsibility to buy back what a poor brother has lost. NET uses "near redeemer"; ASV "kinsman"; WEB "nearest relative." This is the same term used of Boaz (Ruth 3:9, 12) and of God Himself (Isaiah 41:14; 43:14; 44:6).
 
-v.35 — KJV: "fallen in decay with thee" / ESV: "cannot maintain himself
-       with you" — Hebrew "u-matah yado" — his hand has slipped/failed.
-       KJV's "fallen in decay" is archaic for economic decline. ESV
-       modernizes. The image is of someone whose grip has failed — they
-       can no longer hold on economically.
+v.35 — Hebrew "u-matah yado" — his hand has slipped/failed.
+       KJV: "fallen in decay with thee"
+       ESV: "cannot maintain himself with you"
+       Analysis: KJV's "fallen in decay" is archaic for economic decline. ESV modernizes. The image is of someone whose grip has failed — they can no longer hold on economically.
 
-v.36 — KJV: "Take thou no usury of him, or increase" / ESV: "Take no
-       interest from him or profit" — Hebrew "neshekh" (usury/interest —
-       literally "a bite") and "tarbit/marbit" (increase/profit). KJV's
-       "usury" originally meant any interest (not just excessive interest).
-       ESV's "interest" and "profit" are clearer for modern readers.
+v.36 — Hebrew "neshekh" (usury/interest) and "tarbit/marbit" (increase/profit).
+       KJV: "Take thou no usury of him, or increase"
+       ESV: "Take no interest from him or profit"
+       Analysis: "Neshekh" literally means "a bite." KJV's "usury" originally meant any interest (not just excessive interest). ESV's "interest" and "profit" are clearer for modern readers.
 
-v.39 — KJV: "thou shalt not compel him to serve as a bondservant" / ESV:
-       "you shall not make him serve as a slave" — Hebrew "lo ta'avod bo
-       avodat aved" — you shall not work him with the work of a slave.
-       An Israelite who sells himself due to poverty must be treated as a
-       hired worker, not a slave. His dignity as God's servant is preserved.
+v.39 — Hebrew "lo ta'avod bo avodat aved" — you shall not work him with the work of a slave.
+       KJV: "thou shalt not compel him to serve as a bondservant"
+       ESV: "you shall not make him serve as a slave"
+       Analysis: An Israelite who sells himself due to poverty must be treated as a hired worker, not a slave. His dignity as God's servant is preserved.
 
-v.43 — KJV: "Thou shalt not rule over him with rigour" / ESV: "You shall
-       not rule over him ruthlessly" — Hebrew "lo tirdeh vo b'farekh" —
-       the same word "farekh" (harshness, ruthlessness) used of Egyptian
-       slavery (Exodus 1:13-14). Israel must never replicate Egypt's
-       oppression.
+v.43 — Hebrew "lo tirdeh vo b'farekh" — do not rule with harshness.
+       KJV: "Thou shalt not rule over him with rigour"
+       ESV: "You shall not rule over him ruthlessly"
+       Analysis: The same word "farekh" (harshness, ruthlessness) used of Egyptian slavery (Exodus 1:13-14). Israel must never replicate Egypt's oppression.
+
+v.55 — Hebrew "ki li b'nei Yisrael avadim" — for to me the children of Israel are servants.
+       KJV: "For unto me the children of Israel are servants"
+       ESV: "For it is to me that the people of Israel are servants"
+       ASV: "the children of Israel are servants unto me; they are my servants"
+       NET: "the Israelites are my servants—they are my servants whom I brought out from the land of Egypt"
+       Analysis: Israel belongs to God, not to human masters. Because YHWH redeemed them from Egypt, they cannot be permanently enslaved. Redemption establishes ownership.
 
 GLOSSARY
 ------------------------------------

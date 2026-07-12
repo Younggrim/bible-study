@@ -106,48 +106,81 @@ Charles Spurgeon:
   the deliverer must be delivered first — from self-reliance, from human
   wisdom, from his own timetable. God's delays are not God's denials."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "a goodly child" / ESV: "a fine child" — Hebrew "tov" — good,
-       beautiful. The same word used in Genesis 1: "God saw that it was
-       good." The ESV's "fine" is understated; the KJV's "goodly" captures
-       the sense of something remarkable. Moses' parents saw God's purpose.
+v.2  — Hebrew "tov" — good, beautiful (same word as Genesis 1: "God saw that it was good").
+       KJV: "a goodly child"
+       ESV: "a fine child"
+       ASV: "a goodly child"
+       NET: "a beautiful child"
+       WEB: "a fine child"
+       Analysis: KJV/ASV's "goodly" captures the sense of something
+       remarkable — Moses' parents saw God's purpose. ESV/WEB's "fine" is
+       understated. NET's "beautiful" aligns with Acts 7:20. The same word
+       declared creation "good" — God's hand is on this child.
 
-v.3  — KJV: "ark of bulrushes" / ESV: "basket made of bulrushes" — Hebrew
-       "tebat gome" — a chest/basket of papyrus. "Tebah" is used only here
-       and for Noah's ark — both vessels of salvation through water. The ESV
-       adds "made of" for clarity.
+v.3  — Hebrew "tebat gome" — a chest/basket of papyrus; "chemar" and "zepheth" — bitumen and pitch.
+       KJV: "ark of bulrushes... slime and pitch"
+       ESV: "basket made of bulrushes... bitumen and pitch"
+       ASV: "ark of bulrushes... slime and with pitch"
+       NET: "papyrus basket... sealed it with bitumen and pitch"
+       WEB: "papyrus basket... sealed it with bitumen and with pitch"
+       Analysis: "Tebah" is used only here and for Noah's ark — both vessels
+       of salvation through water. KJV/ASV retain "ark," preserving the
+       deliberate Hebrew connection to Noah. NET/WEB use "papyrus basket,"
+       losing that theological link. ESV's "basket" also loses it but adds
+       "made of" for clarity. KJV's "slime" is archaic for tar/asphalt —
+       modern translations rightly use "bitumen."
 
-v.3  — KJV: "slime and pitch" / ESV: "bitumen and pitch" — Hebrew "chemar"
-       (bitumen) and "zepheth" (pitch). The ESV uses the technical term
-       "bitumen"; the KJV's "slime" is archaic for tar/asphalt.
-       Waterproofing — same method as Noah's ark (Genesis 6:14).
+v.10 — Hebrew "Mosheh" — from "mashah" (to draw out).
+       KJV: "Moses... Because I drew him out of the water"
+       ESV: "Moses... Because I drew him out of the water"
+       ASV: "Moses... Because I drew him out of the water"
+       NET: "Moses... Because I drew him from the water"
+       WEB: "Moses... Because I drew him out of the water"
+       Analysis: All translations transliterate the name. NET uses "from"
+       rather than "out of" — a subtle shift that slightly weakens the
+       physical rescue imagery. An Egyptian name element (as in Thut-mose,
+       Ra-meses) meaning "born of" — but given Hebrew etymology by
+       Pharaoh's daughter. The name is prophetic: he who was drawn out will
+       draw out a nation.
 
-v.10 — KJV: "Moses" / ESV: "Moses" — Hebrew "Mosheh" — from "mashah" (to
-       draw out). Both translations transliterate. An Egyptian name element
-       (as in Thut-mose, Ra-meses) meaning "born of" — but given Hebrew
-       etymology: "I drew him out of the water."
+v.12 — Hebrew "vayyakh" — he struck/killed.
+       KJV: "he slew the Egyptian"
+       ESV: "he struck down the Egyptian"
+       ASV: "he smote the Egyptian"
+       NET: "he attacked the Egyptian"
+       WEB: "he killed the Egyptian"
+       Analysis: WEB is strikingly direct — "killed" makes the lethal outcome
+       explicit. ASV's "smote" can mean merely struck. NET's "attacked"
+       softens to the action without specifying death. KJV's "slew" and
+       ESV's "struck down" both clearly indicate death. The Hebrew verb
+       range shows the translations balancing directness with euphemism.
 
-v.15 — KJV: "Midian" / ESV: "Midian" — A region east of the Gulf of Aqaba,
-       descended from Abraham through Keturah (Genesis 25:2). Moses spends
-       40 years here as a shepherd — God's seminary.
+v.22 — Hebrew "ger sham" — a stranger there.
+       KJV: "I have been a stranger in a strange land"
+       ESV: "I have been a sojourner in a foreign land"
+       ASV: "I have been a sojourner in a foreign land"
+       NET: "I have become a resident foreigner in a foreign land"
+       WEB: "I have lived as a foreigner in a foreign land"
+       Analysis: NET is uniquely interpretive, distinguishing legal status
+       ("resident foreigner") from mere strangeness. ASV/ESV use
+       "sojourner" — a theological term connecting to Abraham's experience.
+       WEB emphasizes the lived experience. Moses names his son after his
+       exile — he belongs neither to Egypt nor to Midian.
 
-v.22 — KJV: "Gershom" / ESV: "Gershom" — Hebrew "ger sham" — "a stranger
-       there." Moses names his son after his exile experience.
-
-v.25 — KJV: "God had respect unto them" / ESV: "God knew" — Hebrew
-       "vayyeda Elohim" — literally "God knew." The ESV is more literal;
-       the KJV's "had respect unto" interprets the knowing as caring
-       attention. Both are valid: God knew their condition intimately —
-       personal, compassionate knowledge.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.3 — NET: "papyrus basket" and "sealed it with bitumen and pitch" — NET avoids "ark" (ASV/KJV "ark of bulrushes"), losing the deliberate Hebrew connection to Noah's "tebah." WEB also uses "papyrus basket."
-- v.10 — NET: "She named him Moses, saying, 'Because I drew him from the water'" — NET uses "from" rather than "out of" (ASV/WEB), a subtle shift that slightly weakens the physical rescue imagery.
-- v.12 — WEB: "he killed the Egyptian" — strikingly direct; ASV uses "smote" (which can mean struck), NET uses "attacked" — WEB alone makes the lethal outcome explicit in the verb.
-- v.22 — NET: "I have become a resident foreigner in a foreign land" — uniquely interpretive, distinguishing between legal status ("resident foreigner") and mere strangeness; ASV has "sojourner," WEB has "foreigner."
-- v.25 — ASV: "God took knowledge of them" (with brackets) / NET: "God understood" / WEB: "God was concerned about them" — three very different renderings of Hebrew "vayyeda Elohim." ASV preserves ambiguity, NET emphasizes cognition, WEB emphasizes compassion.
+v.25 — Hebrew "vayyeda Elohim" — literally "God knew."
+       KJV: "God had respect unto them"
+       ESV: "God knew"
+       ASV: "God took knowledge of them"
+       NET: "God understood"
+       WEB: "God was concerned about them"
+       Analysis: Five remarkably different renderings of the same Hebrew. ESV
+       is most literal. KJV interprets knowing as caring attention. ASV
+       preserves ambiguity. NET emphasizes cognition. WEB emphasizes
+       compassion. All are valid facets: God knew their condition intimately
+       — personal, compassionate, active knowledge that leads to
+       intervention.
 
 GLOSSARY
 ------------------------------------

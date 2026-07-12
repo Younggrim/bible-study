@@ -129,6 +129,24 @@ v.35 — KJV: "thy gentleness hath made me great" / ESV: "your
        help" or "your answering." The idea: God stooped down to
        David's level, and that condescension elevated David.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "I love thee, O Jehovah, my strength" / WEB: "I love you, Yahweh, my strength" / NET: "I love you, Lord, my source of strength!" — The divine name distinction is clear. NET adds "source of" — a minor interpretive addition. The Hebrew "racham" (deep, visceral love) is rare as a human-to-God expression; all versions capture the tenderness of David's declaration.
+
+- v.2 — ASV: "Jehovah is my rock, and my fortress... my high tower" / WEB: "Yahweh is my rock, my fortress... my high tower" / NET: "The Lord is my high ridge, my stronghold... my refuge" — NET renders "sela" as "high ridge" and "metsudah" as "stronghold" rather than "fortress." KJV: "my buckler" for "magen" (shield); NET: "my shield." KJV's "buckler" is archaic for a small round shield.
+
+- v.4 — ASV: "The cords of death compassed me, And the floods of ungodliness made me afraid" / NET: "The waves of death engulfed me, the currents of chaos overwhelmed me" — KJV: "sorrows of death." Hebrew "chevley" = cords or pangs. NET reads "waves" (from a different root) and adds "chaos" (Hebrew "beliya'al" = worthlessness/wickedness, not chaos). NET's "currents of chaos" is evocative but stretches the Hebrew.
+
+- v.25 — ASV: "With the merciful thou wilt show thyself merciful" / WEB: "With the merciful you will show yourself merciful" — Hebrew "chesed" appears here as "chasid" (the merciful/loyal one). KJV/ASV/WEB are identical in approach. NET: "You prove to be loyal to one who is faithful" — replacing "merciful" (chesed-character) with "loyal" and "faithful," which captures the covenant dimension but loses the compassion connotation.
+
+- v.30 — ASV: "The word of Jehovah is tried" / WEB: "Yahweh's word is tried" / NET: "the Lord's promise is reliable" — KJV: "the word of the LORD is tried." Hebrew "tseruphah" = refined/tested (as metal in fire). NET replaces the fire-testing metaphor with the abstract "reliable." ASV/WEB preserve the tested-and-proven imagery that connects to Psalm 12:6 (silver refined seven times).
+
+- v.35 — All versions preserve the remarkable "thy gentleness hath made me great" (KJV) / "thy gentleness hath made me great" (ASV) / "Your gentleness has made me great" (WEB). NET: "Your willingness to help enables me to prevail" — NET completely removes the "gentleness" concept (Hebrew "anvat'ka" = your humility/condescension/gentleness), replacing it with the generic "willingness to help." This is a significant theological loss — the idea that God's tender condescension, not raw power, produces greatness.
+
+- v.50 — ASV: "showeth lovingkindness to his anointed" / WEB: "shows loving kindness to his anointed" / NET: "he is faithful to his chosen ruler" / KJV: "sheweth mercy to his anointed" — Again the rendering of "chesed": lovingkindness (ASV), loving kindness (WEB), mercy (KJV), faithful (NET). NET also replaces "anointed" (mashiach/messiah) with "chosen ruler" — losing the Messianic technical term that connects this to Christ.
+
+- v.46 — ASV: "Jehovah liveth; and blessed be my rock" / WEB: "Yahweh lives; and blessed be my rock" / NET: "The Lord is alive! My Protector is praiseworthy" — NET replaces "rock" (tsur) with "Protector" — an interpretation rather than a translation. The rock metaphor (stability, strength, unchangeability) is a core divine image in the Psalms that NET abstracts away.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God delights to deliver (v.19). He does not rescue reluctantly.

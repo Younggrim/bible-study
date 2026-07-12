@@ -99,6 +99,16 @@ v.15 — "Precious" (yaqar) = costly, heavy, rare. Not "beautiful"
        matter of great consequence — He does not allow it
        carelessly.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.3 — KJV: "the pains of hell gat hold upon me" / ASV/WEB: "the pains of Sheol" / NET: "the snares of Sheol" — KJV translates "Sheol" as "hell," obscuring the Hebrew concept of the underworld/grave. ASV and WEB preserve "Sheol" as a proper noun. NET adds interpretive "snares" for Hebrew "metsarim" (straits/distress).
+- v.3 — KJV: "The sorrows of death" / ASV/WEB: "The cords of death" / NET: "The ropes of death" — Hebrew "chebel" means cord/rope, not sorrow. KJV follows a textual variant; ASV/WEB/NET follow the more likely reading of death's binding cords.
+- v.6 — NET: "The Lord protects the untrained" — Interprets KJV/ASV/WEB's "the simple" (Hebrew "pethi" = naive, inexperienced) as "untrained," adding a pedagogical nuance absent from other translations.
+- v.12 — NET: "How can I repay the Lord for all his acts of kindness to me?" — Paraphrases KJV's "What shall I render unto the LORD for all his benefits toward me?" NET turns "benefits" into "acts of kindness," making it more relational.
+- v.13 — NET: "I will celebrate my deliverance" — Significantly departs from KJV/ASV/WEB's "I will take the cup of salvation." NET removes the concrete cup imagery and renders the meaning abstractly.
+- v.15 — NET: "The Lord values the lives of his faithful followers" — Radically different from KJV's "Precious in the sight of the LORD is the death of his saints." NET interprets the verse as God valuing their LIVES (not wanting their death), while KJV preserves the paradox of death being "precious."
+- v.16 — WEB: "You have freed me from my chains" — Vivid rendering of KJV's "thou hast loosed my bonds." Both convey liberation, but WEB's "chains" is more concrete for modern readers.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "What shall I render?" (v.12). Ask this question regularly.

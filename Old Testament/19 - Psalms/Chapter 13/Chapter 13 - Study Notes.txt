@@ -106,6 +106,22 @@ v.6 — KJV: "he hath dealt bountifully" / ESV: "he has dealt
       with good. Past-tense confidence: God HAS BEEN good, and
       that record is the basis for future trust.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "How long, O Jehovah? wilt thou forget me for ever?" / WEB: "How long, Yahweh? Will you forget me forever?" — Both preserve the covenant name (YHWH) in the raw cry of lament. NET: "How long, Lord, will you continue to ignore me?" — NET replaces "forget" with "ignore," which is more active and accusatory. "Forget" implies inadvertence; "ignore" implies deliberate choice.
+
+- v.2 — NET: "How long must I worry, and suffer in broad daylight?" — Significantly different from KJV: "How long shall I take counsel in my soul, having sorrow in my heart daily?" Hebrew "eshith etzot b'nafshi" = "set/place counsels in my soul" — the idea of anxious inner deliberation. NET's "worry" captures the anxiety but "in broad daylight" is an unusual rendering of "yomam" (daily/by day).
+
+- v.3 — NET: "Look at me! Answer me, O Lord my God! Revive me, or else I will die" — Highly dynamic. KJV: "Consider and hear me... lighten mine eyes, lest I sleep the sleep of death." ASV: "Consider and answer me, O Jehovah my God: Lighten mine eyes." NET loses the beautiful "lighten mine eyes" (ha'ira eynay) — dimming eyes as a sign of approaching death — replacing it with the blunt "Revive me."
+
+- v.5 — ASV: "But I have trusted in thy lovingkindness" / WEB: "But I trust in your loving kindness" / NET: "But I trust in your faithfulness" / KJV: "But I have trusted in thy mercy" — This is the key Hebrew word "chesed": KJV renders it "mercy," ASV uses the compound "lovingkindness," WEB splits it as "loving kindness," and NET chooses "faithfulness." ESV uses "steadfast love." Each translation captures a different facet of this untranslatable covenant-love term.
+
+- v.5 — NET: "May I rejoice because of your deliverance" — NET makes this optative (a wish) where KJV states it as fact: "my heart SHALL rejoice in thy salvation." ASV also uses future indicative: "My heart shall rejoice." The difference matters theologically: is David declaring confidence or expressing hope?
+
+- v.6 — NET: "I will sing praises to the Lord when he vindicates me" vs. KJV: "I will sing unto the LORD, because he hath dealt bountifully with me" — NET projects vindication into the future ("when he vindicates"), while KJV/ASV read past tense: "he HATH dealt bountifully" (Hebrew "gamal" in perfect tense). This tense difference affects whether David is remembering past faithfulness or anticipating future action.
+
+- v.6 — WEB: "I will sing to Yahweh, because he has been good to me" — WEB simplifies "gamal" (deal bountifully/recompense fully) to simply "been good to me." Less theologically rich than the Hebrew concept of God dealing fully and abundantly, but accessible.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "How long?" is the prayer of endurance (vv.1-2). The question

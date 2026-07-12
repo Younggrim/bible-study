@@ -163,6 +163,22 @@ Sheol         — The underworld/realm of the dead. Here personified
                thrones to greet him: "Art thou also become weak as
                we? Art thou become like unto us?" (v.10).
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.12 — ASV: "O day-star, son of the morning!" / WEB: "morning star, son of the dawn!" / NET: "O shining one, son of the dawn!" vs. KJV: "O Lucifer, son of the morning!" — Hebrew "helel ben-shachar." KJV uniquely uses "Lucifer" (from the Latin Vulgate). ASV's "day-star," WEB's "morning star," and NET's "shining one" all translate the Hebrew more directly. The name "Lucifer" entered Christian tradition through this KJV rendering.
+
+- v.13 — NET: "Above the stars of El I will set up my throne. I will rule on the mountain of assembly on the remote slopes of Zaphon" — NET uniquely retains "El" (the Hebrew divine name) untranslated and uses "Zaphon" (the Canaanite divine mountain), while KJV/ASV/WEB translate as "stars of God" and "sides/far north." NET highlights the Canaanite mythological background explicitly.
+
+- v.9 — NET: "It rouses the spirits of the dead for you" vs. ASV/WEB: "it stirreth up the dead for thee" / KJV: "it stirreth up the dead for thee" — Hebrew "repha'im" = shades of the dead. NET adds "spirits of" (interpretive). The Hebrew simply says "the Rephaim" — the shadowy inhabitants of Sheol, once-great but now powerless.
+
+- v.22 — ASV: "saith Jehovah of hosts... saith Jehovah" / WEB: "says Yahweh of Armies... says Yahweh" / NET: "says the Lord of Heaven's Armies... says the Lord" — The double divine-name formula for solemn emphasis. ASV/WEB preserve both instances of the covenant name; NET uses titles throughout.
+
+- v.24 — ASV: "Jehovah of hosts hath sworn" / WEB: "Yahweh of Armies has sworn" / NET: "The Lord of Heaven's Armies makes this solemn vow" — When God SWEARS, the strongest possible guarantee. NET's "solemn vow" captures the gravity but loses the specific divine name that stakes God's personal reputation on the outcome.
+
+- v.27 — ASV: "Jehovah of hosts hath purposed, and who shall annul it?" / WEB: "Yahweh of Armies has planned, and who can stop it?" / NET: "the Lord of Heaven's Armies has a plan, and who can possibly frustrate it?" — All three capture the rhetorical force: God's purposes are unstoppable. NET adds "possibly" for emphasis. This is Isaiah's theology of divine sovereignty in a single verse.
+
+- v.29 — WEB: "a fiery flying serpent" / ASV: "a fiery flying serpent" / NET: "a darting adder" — Hebrew "saraph me'opheph" literally means "burning flying one." KJV/ASV/WEB preserve the supernatural imagery (a flying serpent); NET domesticates it to a "darting adder." The "seraph" connection links to Isaiah 6's burning ones.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Five "I wills" (vv.13-14). Pride always begins with "I will"

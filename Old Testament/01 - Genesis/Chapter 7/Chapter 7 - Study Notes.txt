@@ -98,75 +98,74 @@ Charles Spurgeon:
   says the same: 'Come unto me.' Not 'go somewhere' but 'come to where I am.'
   The ark is where God is — and He invites you in."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "Come thou and all thy house into the ark" / ESV: "Go into the
-       ark, you and all your household" — Hebrew "bo" — come/enter. This is
-       a significant translation difference. KJV renders "bo" as "come"
-       (implying God is already in the ark, inviting Noah toward Himself);
-       ESV renders it as "go" (a directional command). The Hebrew "bo" most
-       naturally means "come/enter" — KJV's rendering preserves the
-       theological nuance that God invites Noah toward His presence.
+v.1  — Hebrew "bo el-hattevah" — come/enter into the ark.
+       KJV: "Come thou and all thy house into the ark"
+       ESV: "Go into the ark, you and all your household"
+       ASV: "Come thou and all thy house into the ark"
+       NET: "Come into the ark, you and all your household"
+       WEB: "Come with all of your household into the ship"
+       Analysis: Significant theological difference. KJV/ASV/NET retain
+       "Come" (Hebrew "bo") — implying God is already in the ark, inviting
+       Noah toward Himself. ESV renders it as "Go" — a directional command
+       only. WEB renders "tevah" (ark) as "ship" throughout the flood
+       narrative. NET also uses "I consider you godly" where others say
+       "righteous" — shifting from legal standing to character description.
 
-v.2  — KJV: "by sevens, the male and his female" / ESV: "seven pairs...
-       the male and his mate" — Hebrew "shib'ah shib'ah" — seven seven.
-       Debated: seven total or seven pairs? ESV interprets as "seven pairs"
-       (14 total); KJV's "by sevens" leaves it ambiguous. The distinction
-       between clean and unclean animals predates the Mosaic Law.
+v.2  — Hebrew "shib'ah shib'ah" — seven seven.
+       KJV: "Of every clean beast thou shalt take to thee by sevens"
+       ESV: "Take with you seven pairs of all clean animals"
+       ASV: "Of every clean beast thou shalt take to thee seven and seven"
+       NET: "of every clean animal, take seven"
+       WEB: "You shall take seven pairs of every clean animal"
+       Analysis: Debated — seven total or seven pairs? ESV/WEB interpret as
+       "seven pairs" (14 total). KJV/ASV's "by sevens / seven and seven"
+       leaves it ambiguous. NET says simply "take seven" without specifying
+       pairs. The clean/unclean distinction predates the Mosaic Law.
 
-v.3  — KJV: "to keep seed alive upon the face of all the earth" / ESV: "to
-       keep their offspring alive on the face of all the earth" — Hebrew
-       "zera" — seed, offspring. ESV's "offspring" is clearer for modern
-       readers.
+v.11 — Hebrew "nib'qe'u kol-ma'yenoth tehom rabbah va'arubboth hashamayim niftachu"
+       KJV: "all the fountains of the great deep broken up, and the windows of heaven were opened"
+       ESV: "all the fountains of the great deep burst forth, and the windows of the heavens were opened"
+       ASV: "all the fountains of the great deep were broken up, and the windows of heaven were opened"
+       NET: "all the fountains of the great deep burst open and the floodgates of the heavens were opened"
+       WEB: "all the fountains of the great deep burst open, and the sky's windows opened"
+       Analysis: ESV/NET/WEB's "burst forth/open" is more vivid than KJV/
+       ASV's "broken up." NET renders "arubboth" as "floodgates" — a more
+       hydrological image that avoids the literal "windows" metaphor.
+       Catastrophic eruption of subterranean waters combined with
+       unprecedented precipitation.
 
-v.4  — KJV: "every living substance that I have made will I destroy" / ESV:
-       "every living thing that I have made I will blot out" — Hebrew
-       "emcheh" — to wipe away, blot out. ESV's "blot out" is more literal;
-       KJV's "destroy" captures the result. "Forty days and forty nights" —
-       both identical. Forty is a number of testing/judgment throughout
-       Scripture.
+v.16 — Hebrew "Yahweh sagar ba'ado" — the LORD closed [the door] behind him.
+       KJV: "the LORD shut him in"
+       ESV: "the LORD shut him in"
+       ASV: "Jehovah shut him in"
+       NET: "the LORD shut him in"
+       WEB: "Yahweh shut him in"
+       Analysis: All translations agree. God personally sealed the ark.
+       Divine security — once God closes the door, no one can open it.
+       ASV uses "Jehovah"; WEB uses "Yahweh."
 
-v.11 — KJV: "all the fountains of the great deep broken up, and the windows
-       of heaven were opened" / ESV: "all the fountains of the great deep
-       burst forth, and the windows of the heavens were opened" — Hebrew
-       "nib'qe'u" — burst open, split apart. ESV's "burst forth" is more
-       vivid than KJV's "broken up." Both convey catastrophic eruption of
-       subterranean waters.
+v.19 — Hebrew "kol-heharim haggevohim asher-tachat kol-hashamayim"
+       KJV: "all the high hills, that were under the whole heaven, were covered"
+       ESV: "all the high mountains under the whole heaven were covered"
+       ASV: "all the high mountains that were under the whole heaven were covered"
+       NET: "all the high mountains under the entire sky were covered"
+       WEB: "All the high mountains that were under the whole sky were covered"
+       Analysis: KJV alone uses "hills" — Hebrew "harim" means mountains.
+       All modern translations use "mountains," strengthening the global
+       scope. NET uses "entire sky" instead of "whole heaven." The language
+       indicates a universal flood — "under the whole heaven" = comprehensive.
 
-v.16 — KJV: "the LORD shut him in" / ESV: "the LORD shut him in" — Both
-       identical. Hebrew "Yahweh sagar ba'ado" — Yahweh closed [the door]
-       behind him. God personally sealed the ark. Divine security.
-
-v.19 — KJV: "all the high hills, that were under the whole heaven, were
-       covered" / ESV: "all the high mountains under the whole heaven were
-       covered" — Hebrew "harim" — hills or mountains. ESV's "mountains" is
-       stronger; KJV's "hills" may understate the scope. The language
-       indicates a universal, global flood — "under the whole heaven" =
-       comprehensive.
-
-v.23 — KJV: "Noah only remained alive, and they that were with him in the
-       ark" / ESV: "Only Noah was left, and those who were with him in the
-       ark" — Both equivalent. Salvation exclusively through the ark.
-
-v.24 — KJV: "an hundred and fifty days" / ESV: "150 days" — Both identical
-       in meaning. Five months of prevailing waters. The flood was not a
-       brief rainstorm but a prolonged, catastrophic event.
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV/WEB both retain "Come" (Hebrew "bo"), preserving the theological
-  nuance that God invites Noah toward Himself. NET also uses "Come into the
-  ark." WEB renders "ark" as "ship" throughout the flood narrative.
-- v.1 — NET: "I consider you godly" — interprets "righteous" (KJV/ESV) as
-  "godly," shifting from legal/moral standing to character description.
-- v.11 — NET: "the floodgates of the heavens were opened" — renders Hebrew
-  "arubboth hashamayim" as "floodgates" (vs. "windows" in KJV/ESV/ASV/WEB),
-  a more hydrological image that avoids the literal "windows" metaphor.
-- v.19 — ASV: "all the high mountains that were under the whole heaven were
-  covered" — uses "mountains" (like ESV) where KJV has weaker "hills,"
-  strengthening the global scope of the flood.
-- v.20 — NET converts "fifteen cubits" to "more than 20 feet," continuing
-  its practice of modernizing measurements for accessibility.
+v.20 — Hebrew "chamesh esreh ammah milma'lah" — fifteen cubits upward.
+       KJV: "Fifteen cubits upward did the waters prevail"
+       ESV: "the waters prevailed above the mountains, covering them fifteen cubits deep"
+       ASV: "Fifteen cubits upward did the waters prevail"
+       NET: "the waters rose more than twenty feet above the mountains"
+       WEB: "The waters rose fifteen cubits higher"
+       Analysis: NET converts cubits to modern measurements (20+ feet) for
+       accessibility. ESV restructures for clarity, adding "covering them"
+       and "deep." KJV/ASV retain the Hebrew word order.
 
 GLOSSARY
 ------------------------------------

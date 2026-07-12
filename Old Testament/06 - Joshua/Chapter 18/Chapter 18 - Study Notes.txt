@@ -159,6 +159,15 @@ The Lot        — Hebrew "goral." A method of determining God's will,
                the NT by the Holy Spirit's guidance (last biblical use:
                Acts 1:26).
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.3 — ASV: "How long are ye slack to go in to possess the land, which Jehovah, the God of your fathers, hath given you?" / NET: "How long do you intend to put off occupying the land the Lord God of your ancestors has given you?" — NET's "put off occupying" is close to ASV/KJV's "slack to go in to possess." Both capture Joshua's rebuke. ASV's "possess" (yarash) carries stronger inheritance connotations than NET's "occupying."
+- v.6 — ASV: "I will cast lots for you here before Jehovah our God" / NET: "I will draw lots for you here before the Lord our God" — NET uses "draw lots" where ASV/KJV use "cast lots." The Hebrew "yarah goral" (throw/cast the lot) implies active, decisive action in God's presence. The lot was a sacred means of divine guidance (Proverbs 16:33).
+- v.7 — ASV: "the priesthood of Jehovah is their inheritance" / NET: "their inheritance is to serve the Lord" — NET interprets "the priesthood of YHWH" as "to serve the Lord," losing the specific identification of the priestly office as the Levites' inheritance. The Hebrew emphasizes that God's service replaces territorial land as their portion.
+- v.7 — ASV: "which Moses the servant of Jehovah gave them" / WEB: "which Moses the servant of Yahweh gave them" / NET: "which Moses the Lord's servant assigned them" — The divine name distinction continues. NET uses "assigned" for "gave" (natan) — KJV/ASV/WEB's "gave" is more personal and generous.
+- v.9 — ASV: "described it by cities into seven portions in a book" / NET: "mapped it and its cities out into seven regions on a scroll" — NET's "scroll" is technically more precise than ASV's "book" (Hebrew "sepher" can mean scroll or written document). Both capture this remarkable early act of cartography.
+- v.10 — ASV: "Joshua divided the land unto the children of Israel according to their divisions" / NET: "divided the land among the Israelites according to their allotted portions" — ASV/KJV preserve "divided" with "according to their divisions" (machlekot — tribal divisions), while NET uses the more generic "allotted portions."
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "How long are ye slack?" (v.3). Joshua's rebuke applies to every

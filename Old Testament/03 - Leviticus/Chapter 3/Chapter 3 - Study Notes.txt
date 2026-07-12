@@ -109,48 +109,102 @@ Enduring Word (David Guzik):
 
 Charles Spurgeon:
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1 — KJV: "sacrifice of peace offering" / ESV: "sacrifice of peace
- offering" — Hebrew "zevach shelamim" — Both translations retain the
- phrase. "Shelamim" is from "shalom" (peace, wholeness, completeness).
- It is a sacrifice that celebrates and expresses peace/fellowship.
+v.1  — Hebrew "zevach shelamim" — sacrifice of peace offerings. "Shelamim"
+       from "shalom" (peace, wholeness, completeness).
+       KJV: "sacrifice of peace offering"
+       ESV: "sacrifice of peace offering"
+       ASV: "sacrifice of peace-offerings"
+       NET: "peace-offering sacrifice"
+       WEB: "sacrifice of peace offerings"
+       Analysis: All retain "peace offering." NET reverses the word order
+       for natural English. KJV's rendering is identical to WEB here. It
+       is a sacrifice that celebrates and expresses peace/fellowship.
 
-v.2 — KJV: "door of the tabernacle of the congregation" / ESV: "entrance
- of the tent of meeting" — Hebrew "petach ohel moed" — The KJV
- "tabernacle of the congregation" and ESV "tent of meeting" translate
- the same Hebrew phrase. The ESV is more literal: it was the tent where
- God met with His people.
+v.1  — Hebrew YHWH — the divine name (used 8 times in this chapter).
+       KJV: "before the LORD"
+       ESV: "before the LORD"
+       ASV: "before Jehovah"
+       NET: "before the Lord"
+       WEB: "before Yahweh"
+       Analysis: ASV uses "Jehovah," WEB "Yahweh," NET "the Lord." This
+       chapter uses the divine name 8 times, making the pattern especially
+       visible.
 
-v.3 — KJV: "an offering made by fire unto the LORD" / ESV: "a food
- offering to the LORD" — Hebrew "isheh" — The KJV emphasizes the fire;
- the ESV emphasizes it as food/sustenance presented to God. Both
- aspects are present in the Hebrew.
+v.2  — Hebrew "petach ohel moed" — entrance of the tent of meeting. Hebrew
+       "shachat" — to slaughter.
+       KJV: "door of the tabernacle of the congregation"
+       ESV: "entrance of the tent of meeting"
+       ASV: "door of the tent of meeting"
+       NET: "the entrance of the Meeting Tent"
+       WEB: "the door of the Tent of Meeting"
+       Analysis: KJV's "tabernacle of the congregation" and ESV "tent of
+       meeting" translate the same Hebrew phrase. ESV is more literal. NET
+       uses "slaughter" where KJV has "kill" — NET's "slaughter" (Hebrew
+       "shachat") is more technically precise for sacrificial killing.
 
-v.4 — KJV: "the caul above the liver" / ESV: "the long lobe of the liver"
- — Hebrew "yothereth ha-kaved" — The KJV "caul" is an archaic term for
- a membrane or lobe. The ESV clarifies: it refers to the caudate lobe
- of the liver, a fatty appendage.
+v.3  — Hebrew "isheh" — fire offering/food offering.
+       KJV: "an offering made by fire unto the LORD"
+       ESV: "a food offering to the LORD"
+       ASV: "an offering made by fire unto Jehovah"
+       NET: "a gift to the Lord"
+       WEB: "an offering made by fire to Yahweh"
+       Analysis: KJV/ASV/WEB emphasize the fire; ESV emphasizes it as
+       food/sustenance; NET's concise "gift" captures a different nuance.
+       Both fire and food aspects are present in the Hebrew.
 
-v.9 — KJV: "the whole rump" / ESV: "the whole fat tail" — Hebrew "ha-alyah"
- — The fat tail of the broad-tailed sheep common in the Near East. These
- sheep have tails weighing 10-15 pounds of pure fat. This was considered
- the choicest portion and belonged entirely to God.
+v.4  — Hebrew "yothereth ha-kaved" — the lobe/appendage of the liver.
+       KJV: "the caul above the liver"
+       ESV: "the long lobe of the liver"
+       ASV: "the caul upon the liver"
+       NET: "the protruding lobe on the liver"
+       WEB: "the cover on the liver"
+       Analysis: KJV/ASV "caul" is an archaic term for a membrane or lobe.
+       ESV clarifies: it refers to the caudate lobe of the liver. NET's
+       "protruding lobe" is the most anatomically descriptive. Modern
+       readers benefit from NET's specificity.
 
-v.11 — KJV: "it is the food of the offering made by fire" / ESV: "a food
- offering to the LORD" — Hebrew "lechem isheh" — literally "bread/food
- of the fire-offering." God does not eat, but the language of "food"
- expresses His satisfaction and acceptance.
+v.9  — Hebrew "ha-alyah" — the fat tail.
+       KJV: "the whole rump"
+       ESV: "the whole fat tail"
+       ASV: "the fat tail entire"
+       NET: "the entire fat tail"
+       WEB: "the entire fat tail"
+       Analysis: The fat tail of the broad-tailed sheep common in the Near
+       East (weighing 10-15 pounds of pure fat). KJV's "rump" is less
+       precise. ESV/ASV/NET/WEB all specify "fat tail," which was
+       considered the choicest portion and belonged entirely to God.
 
-v.16 — KJV: "all the fat is the LORD's" / ESV: "All fat is the LORD's" —
- A universal, permanent claim. The fat (the best, richest portion) always
- belongs to God. This principle extends beyond sacrifice: God claims the
- first and best of everything.
+v.11 — Hebrew "lechem isheh" — bread/food of the fire-offering.
+       KJV: "it is the food of the offering made by fire"
+       ESV: "a food offering to the LORD"
+       ASV: "the food of the offering made by fire unto Jehovah"
+       NET: "a food gift to the Lord"
+       WEB: "the food of the offering made by fire to Yahweh"
+       Analysis: NET's concise "food gift" captures both Hebrew terms
+       efficiently. God does not eat, but the language of "food" expresses
+       His satisfaction and acceptance. The concept of sacrifice as God's
+       "food" is anthropomorphic language.
 
-v.17 — KJV: "a perpetual statute for your generations" / ESV: "a statute
- forever throughout your generations" — Hebrew "chuqqath olam" — an
- eternal ordinance. The prohibition of fat and blood was permanent and
- universal for Israel.
+v.16 — Hebrew "chelev" — fat. "All the fat is the LORD's."
+       KJV: "all the fat is the LORD's"
+       ESV: "All fat is the LORD's"
+       ASV: "all the fat is Jehovah's"
+       NET: "all the fat belongs to the Lord"
+       WEB: "all the fat is Yahweh's"
+       Analysis: All translations preserve this absolute statement. The fat
+       represents the best and richest portion — it belongs exclusively to
+       God. A universal, permanent claim.
+
+v.17 — Hebrew "chuqqath olam" — an eternal ordinance.
+       KJV: "a perpetual statute for your generations"
+       ESV: "a statute forever throughout your generations"
+       ASV: "a perpetual statute throughout your generations"
+       NET: "a perpetual statute throughout your generations"
+       WEB: "a perpetual statute throughout your generations"
+       Analysis: All translations agree. The prohibition of fat and blood
+       was permanent and universal for Israel.
 
 GLOSSARY
 ------------------------------------

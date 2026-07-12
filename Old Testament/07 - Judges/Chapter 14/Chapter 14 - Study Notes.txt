@@ -186,6 +186,20 @@ Ashkelon       — One of the five major Philistine cities, on the
                — far enough away that the connection to the wedding
                would not be immediately obvious.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.3 — ASV: "she pleaseth me well" / WEB: "she pleases me well" / NET: "she is the right one for me" — Hebrew "hi yash'rah b'eynay" = "she is right/straight in my eyes." KJV/ASV/WEB preserve the "eyes" language, connecting to the book's refrain about doing "right in one's own eyes" (17:6, 21:25). NET's "the right one for me" loses this thematic connection entirely.
+
+- v.4 — ASV: "it was of Jehovah; for he sought an occasion against the Philistines" / NET: "this was the Lord's doing because he was looking for an opportunity to stir up trouble with the Philistines" — Hebrew "t'anah" = occasion/opportunity for conflict. NET adds "stir up trouble" — more colloquial. The theological tension is preserved: God sovereignly uses Samson's sinful desire for His own purposes without approving the sin.
+
+- v.6 — ASV: "the Spirit of Jehovah came mightily upon him" / WEB: "Yahweh's Spirit came mightily on him" / NET: "The Lord's Spirit empowered him" — Hebrew "vatitslach alav ruach Adonai" = the Spirit of the LORD rushed/fell upon him. "Tsalach" = to rush, fall upon mightily. ASV/WEB retain "came mightily upon" (violent empowerment); NET's "empowered" domesticates the wild, irruptive force of the Hebrew verb. This verb is unique to Samson and Saul — a violent seizure by the Spirit.
+
+- v.12 — ASV: "thirty linen garments and thirty changes of raiment" / NET: "30 linen robes and 30 sets of clothes" — Hebrew "s'dinim" = fine linen wraps; "chaliphot b'gadim" = changes of garments (festive clothing). These were expensive items — the stakes of the riddle were substantial.
+
+- v.18 — ASV: "If ye had not plowed with my heifer, Ye had not found out my riddle" / NET: "If you had not plowed with my heifer, you would not have solved my riddle!" — Both preserve Samson's crude agricultural metaphor — comparing his wife to a heifer and the Philistines' extraction of information to plowing. The sexual innuendo is intentional in the Hebrew, reflecting Samson's coarseness.
+
+- v.19 — ASV: "the Spirit of Jehovah came mightily upon him, and he went down to Ashkelon, and smote thirty men" / NET: "The Lord's Spirit empowered him. He went down to Ashkelon and killed 30 men" — The Spirit empowers Samson for violence driven by personal rage — a troubling intersection of divine power and human anger. The theological question: does Spirit-empowerment equal moral approval? In Samson's case, clearly not.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "She is right in my eyes" (v.3). Samson's life is governed by sight

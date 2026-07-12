@@ -314,6 +314,20 @@ Ivory house    — Ahab's palace decorated with ivory inlays and
                this biblical detail. Amos later condemns the "houses
                of ivory" as symbols of corrupt luxury (Amos 3:15).
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.19 — ASV: "I saw Jehovah sitting on his throne, and all the host of heaven standing by him" / WEB: "I saw Yahweh sitting on his throne, and all the army of heaven standing by him" / NET: "I saw the Lord sitting on his throne, with all the heavenly assembly standing beside him" — Hebrew "kol tseva ha-shamayim" = "all the host/army of heaven." ASV uses "host of heaven" (the classic rendering); WEB has "army of heaven"; NET uses "heavenly assembly." This is the divine council scene — God deliberating with His heavenly court — a rare theological vision unique to this passage and Isaiah 6.
+
+- v.20 — ASV: "Who shall entice Ahab" / WEB: "Who will entice Ahab" / NET: "Who will deceive Ahab" — Hebrew "yefateh" = to entice/persuade/deceive. ASV/WEB use "entice" (morally neutral — persuade); NET uses "deceive" (morally charged). The Hebrew root "patah" means to be open/naive, then to persuade/seduce. Whether God "entices" or "deceives" is theologically significant — God uses Ahab's own desire to hear false prophecy as the means of judgment.
+
+- v.14 — ASV: "As Jehovah liveth, what Jehovah saith unto me, that will I speak" / WEB: "As Yahweh lives, what Yahweh says to me, that I will speak" / NET: "As certainly as the Lord lives, I will say what the Lord tells me to say" — Micaiah's prophetic oath — a true prophet speaks only God's word regardless of consequences. The double use of the divine name (YHWH... YHWH) in ASV/WEB emphasizes the source of prophetic authority.
+
+- v.17 — ASV: "I saw all Israel scattered upon the mountains, as sheep that have no shepherd" / WEB: same / NET: "I saw all Israel scattered on the mountains like sheep that have no shepherd" — This shepherd metaphor (later echoed by Jesus in Matthew 9:36) prophesies Ahab's death — Israel without a king. All translations preserve this vivid prophetic image faithfully. The "mountains" may allude specifically to the hills around Ramoth-Gilead.
+
+- v.6 — ASV: "the Lord will deliver it into the hand of the king" / WEB: "the Lord will deliver it into the hand of the king" / NET: "The Sovereign One will hand it over to the king" — Notably, the 400 false prophets use "Adonai" (Lord/master) — not the covenant name YHWH. In v.7, Jehoshaphat asks specifically for "a prophet of YHWH" — sensing that the 400 prophets are not speaking for the true God. NET's "Sovereign One" makes this distinction clearer.
+
+- v.23 — ASV: "Jehovah hath put a lying spirit in the mouth of all these thy prophets; and Jehovah hath spoken evil concerning thee" / WEB: "Yahweh has put a lying spirit in the mouth of all these your prophets; and Yahweh has spoken evil concerning you" / NET: "the Lord has placed a lying spirit in the mouths of all these prophets of yours, but the Lord has decreed disaster for you" — A theologically difficult verse: God sends deception to those who want to be deceived. NET adds "of yours" (emphasizing these are Ahab's pet prophets) and renders "evil" as "disaster," which clarifies that God decrees calamity as judgment, not moral evil.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. We must seek truth, not confirmation (vv.6-8). Ahab had 400

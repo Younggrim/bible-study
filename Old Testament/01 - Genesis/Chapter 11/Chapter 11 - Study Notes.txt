@@ -98,62 +98,83 @@ Charles Spurgeon:
   response: confusion and scattering. Every attempt to build a kingdom without
   God ends in confusion. Every tower of human pride is brought low."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "one language, and of one speech" / ESV: "one language and the
-       same words" — Hebrew "saphah echath udbarim achadim" — one lip and one
-       set of words. Complete linguistic unity. Both equivalent in meaning;
-       ESV renders "dbarim" more literally as "words."
+v.1  — Hebrew "saphah echath udbarim achadim" — one lip and one set of words.
+       KJV: "the whole earth was of one language, and of one speech"
+       ESV: "the whole earth had one language and the same words"
+       ASV: "the whole earth was of one language and of one speech"
+       NET: "the whole earth had a common language and a common vocabulary"
+       WEB: "The whole earth was of one language and of one speech"
+       Analysis: NET uniquely distinguishes between "language" (grammar/
+       system) and "vocabulary" (shared words) — rendering the Hebrew double
+       expression as two distinct concepts. KJV/ASV/WEB combine them as
+       "one language and one speech." ESV's "same words" is closest to the
+       literal Hebrew "dbarim achadim."
 
-v.4  — KJV: "whose top may reach unto heaven" / ESV: "with its top in the
-       heavens" — Not literally reaching heaven but a tower of religious/
-       political ambition. A ziggurat — a stepped temple-tower common in
-       Mesopotamia. ESV drops the KJV's "may reach" (italicized/supplied in
-       KJV), staying closer to the Hebrew construct.
+v.3  — Hebrew "chemar lachem lachomer" — bitumen/tar for mortar.
+       KJV: "slime had they for mortar"
+       ESV: "bitumen for mortar"
+       ASV: "slime had they for mortar"
+       NET: "tar for mortar"
+       WEB: "they used tar for mortar"
+       Analysis: KJV/ASV's "slime" is archaic English for bitumen/tar. ESV
+       uses the technical "bitumen." NET/WEB use "tar" — most accessible for
+       modern readers. All describe the same waterproof asphalt substance
+       abundant in Mesopotamia.
 
-v.4  — KJV: "make us a name" / ESV: "let us make a name for ourselves" —
-       Hebrew "na'aseh lanu shem" — make for ourselves a reputation. Both
-       equivalent. Self-glorification rather than glorifying God. Contrast
+v.4  — Hebrew "umigdal verosho bashamayim vena'aseh-lanu shem"
+       KJV: "a tower, whose top may reach unto heaven... let us make us a name"
+       ESV: "a tower with its top in the heavens... let us make a name for ourselves"
+       ASV: "a tower, whose top may reach unto heaven... let us make us a name"
+       NET: "a tower whose top reaches to the heavens... Let us make a name for ourselves"
+       WEB: "a tower whose top reaches to the sky... let's make a name for ourselves"
+       Analysis: WEB uses "sky" instead of "heaven(s)" — distinguishing
+       physical height from spiritual aspiration. A ziggurat — a stepped
+       temple-tower. Self-glorification rather than glorifying God. Contrast
        with 12:2 where GOD makes Abram's name great.
 
-v.5  — KJV: "the LORD came down to see the city and the tower, which the
-       children of men builded" / ESV: "the LORD came down to see the city
-       and the tower, which the children of man had built" —
-       Anthropomorphic language. Both equivalent. Ironic: they built UP to
-       reach heaven; God came DOWN to see their puny effort.
+v.6  — Hebrew "lo-yibbazer mehem kol asher yazmu la'asoth"
+       KJV: "nothing will be restrained from them, which they have imagined to do"
+       ESV: "nothing that they propose to do will now be impossible for them"
+       ASV: "nothing will be withholden from them, which they purpose to do"
+       NET: "nothing they plan to do will be beyond them"
+       WEB: "nothing will be withheld from them, which they intend to do"
+       Analysis: NET's "beyond them" is most dynamic. ESV's "impossible" is
+       strong. KJV/ASV/WEB retain the restraint language. God acknowledges
+       human potential when unified — and acts to limit it because their
+       unified purpose is rebellion.
 
-v.7  — KJV: "let us go down, and there confound their language" / ESV:
-       "let us go down and there confuse their language" — The divine plural
-       again (cf. 1:26, 3:22). The Trinity in action. ESV modernizes
-       "confound" to "confuse" — same Hebrew "balal."
+v.7  — Hebrew "havah nerdah venablah sham sephatam"
+       KJV: "let us go down, and there confound their language"
+       ESV: "let us go down and there confuse their language"
+       ASV: "let us go down, and there confound their language"
+       NET: "Come, let's go down and confuse their language"
+       WEB: "Come, let's go down, and there confuse their language"
+       Analysis: The divine plural again (cf. 1:26, 3:22) — the Trinity in
+       action. ESV/NET/WEB modernize "confound" to "confuse" — same Hebrew
+       "balal." NET/WEB use informal "let's" instead of formal "let us."
 
-v.9  — KJV: "Babel" / ESV: "Babel" — Both identical. Hebrew "balal" = to
-       confuse/mix. A wordplay: the Babylonians claimed "Babel" meant "gate
-       of God" (Bab-ili). God says it means "confusion." KJV: "confound";
-       ESV: "confused" — same root word.
+v.9  — Hebrew "Bavel... balal" — Babel... confused (wordplay).
+       KJV: "Therefore is the name of it called Babel; because the LORD did there confound the language"
+       ESV: "Therefore its name was called Babel, because there the LORD confused the language"
+       ASV: "Therefore was the name of it called Babel; because Jehovah did there confound the language"
+       NET: "That is why its name was called Babel—because there the LORD confused the language"
+       WEB: "Therefore its name was called Babel, because there Yahweh confused the language"
+       Analysis: All preserve the Hebrew wordplay: "Babel" from "balal"
+       (confuse/mix). The Babylonians claimed "Babel" meant "gate of God"
+       (Bab-ili). God says it means "confusion." ASV uses "Jehovah"; WEB
+       uses "Yahweh."
 
-v.30 — KJV: "barren" / ESV: "barren" — Both identical. Hebrew "aqarah" —
-       unable to conceive. A critical detail: God's promise of a great nation
-       (12:2) will require a miracle.
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "a common language and a common vocabulary" — uniquely renders
-  Hebrew "saphah echath udbarim achadim" by distinguishing between "language"
-  (grammar/system) and "vocabulary" (shared words), where KJV/ESV/ASV combine
-  them as "one language and one speech."
-- v.3 — WEB: "they used tar for mortar" — renders Hebrew "chemar" as "tar"
-  where KJV/ASV have "slime" (archaic) and ESV has "bitumen." WEB's "tar"
-  is the most immediately accessible for modern readers.
-- v.4 — WEB: "a tower whose top reaches to the sky" — uses "sky" where
-  KJV/ESV/ASV have "heaven(s)," subtly distinguishing physical height from
-  spiritual aspiration.
-- v.6 — NET: "nothing they plan to do will be beyond them" — a more dynamic
-  interpretation than "nothing will be withholden/restrained from them"
-  (KJV/ESV), emphasizing limitless human potential when unified in purpose.
-- v.28 — NET: "while his father Terah was still alive" — adds this
-  interpretive note (not explicit in the Hebrew) to clarify the tragedy of
-  Haran dying before his father.
+v.30 — Hebrew "aqarah" — barren, unable to conceive.
+       KJV: "Sarai was barren; she had no child"
+       ESV: "Sarai was barren; she had no child"
+       ASV: "Sarai was barren; she had no child"
+       NET: "Sarai was barren; she had no child"
+       WEB: "Sarai was barren. She had no child"
+       Analysis: All translations identical. A critical detail: God's promise
+       of a great nation (12:2) will require a miracle. The impossible
+       situation sets up divine intervention.
 
 GLOSSARY
 ------------------------------------

@@ -114,38 +114,102 @@ Charles Spurgeon:
   of Moses AND the Lamb (Revelation 15:3) — looking back at the completed
   work of redemption from the shores of eternity."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "triumphed gloriously" / ESV: "triumphed gloriously" — Hebrew
-       "ga'oh ga'ah" — exalted exceedingly, risen in majesty. Both
-       translations identical. An emphatic doubling: God has supremely
-       triumphed.
+v.1  — Hebrew "ga'oh ga'ah" — exalted exceedingly, risen in majesty.
+       KJV: "triumphed gloriously"
+       ESV: "triumphed gloriously"
+       ASV: "triumphed gloriously"
+       NET: "triumphed gloriously"
+       WEB: "triumphed gloriously"
+       Analysis: All translations identical. An emphatic doubling: God has supremely
+       triumphed. The first recorded song in Scripture opens with this declaration.
 
-v.2  — KJV: "he is become my salvation" / ESV: "he has become my
-       salvation" — Hebrew "vayehi li lishu'ah" — He has become to me
-       salvation. Both equivalent. Not abstract theology but personal
-       experience.
+v.2  — Hebrew "vayehi li lishu'ah" — He has become to me salvation.
+       KJV: "he is become my salvation"
+       ESV: "he has become my salvation"
+       ASV: "Jehovah is my strength and song"
+       NET: "The Lord is my strength and my song"
+       WEB: "Yah is my strength and song"
+       Analysis: WEB uniquely uses the abbreviated divine name "Yah" (Hebrew "Yah")
+       — the shortened poetic form found in "Hallelujah." ASV uses "Jehovah," NET
+       uses "the Lord." Not abstract theology but personal experience — God has
+       become salvation to the individual.
 
-v.3  — KJV: "a man of war" / ESV: "a man of war" — Hebrew "ish milchamah"
-       — a warrior, a man of battle. Both identical. God fights personally.
+v.3  — Hebrew "ish milchamah" — a warrior, a man of battle.
+       KJV: "a man of war"
+       ESV: "a man of war"
+       ASV: "a man of war"
+       NET: "The Lord is a warrior"
+       WEB: "a man of war"
+       Analysis: NET modernizes to "warrior," avoiding the literal but potentially
+       misleading "man of war." The Hebrew idiom attributes personal combat to God;
+       NET preserves the meaning while updating the phrasing. KJV/ESV/ASV/WEB
+       retain the vivid anthropomorphism.
 
-v.11 — KJV: "fearful in praises" / ESV: "awesome in glorious deeds" —
-       Hebrew "nora tehillot" — awesome/terrifying in praiseworthy deeds.
-       The ESV interprets "tehillot" as "glorious deeds"; the KJV keeps
-       "praises." Both are valid: God's acts inspire praise AND holy fear.
+v.8  — Hebrew "qaph'u" — congealed, thickened, solidified.
+       KJV: "the depths were congealed in the heart of the sea"
+       ESV: "the deeps congealed in the heart of the sea"
+       ASV: "The deeps were congealed in the heart of the sea"
+       NET: "the deep waters were solidified in the heart of the sea"
+       WEB: "The deeps were congealed in the heart of the sea"
+       Analysis: NET's "solidified" and KJV/ESV/ASV/WEB's "congealed" both capture
+       the miraculous stiffening of water into walls. The poetic imagery conveys
+       liquid becoming solid — supernatural transformation.
 
-v.20 — KJV: "prophetess" / ESV: "prophetess" — Hebrew "nevi'ah" — a female
-       prophet. Both identical. Miriam is the first woman given this title.
+v.11 — Hebrew "nora tehillot" — awesome/terrifying in praiseworthy deeds.
+       KJV: "fearful in praises"
+       ESV: "awesome in glorious deeds"
+       ASV: "fearful in praises"
+       NET: "fearful in praises"
+       WEB: "fearful in praises"
+       Analysis: The ESV interprets "tehillot" as "glorious deeds"; KJV/ASV/NET/WEB
+       keep "praises." Both are valid: God's acts inspire praise AND holy fear. The
+       ESV takes a more interpretive approach while others preserve the ambiguity.
 
-v.25 — KJV: "shewed him a tree" / ESV: "showed him a log" — Hebrew
-       "vayorehu YHWH etz" — the LORD taught/showed him a tree/wood. The
-       ESV's "log" is more specific; the KJV's "tree" is broader. "Yorah"
-       is the root of "Torah" (teaching). God teaches through the tree.
+v.13 — Hebrew "chesed" — covenant love, loyal love.
+       KJV: "thou in thy mercy hast led the people"
+       ESV: "you have led in your steadfast love"
+       ASV: "Thou in thy lovingkindness hast led the people"
+       NET: "By your loyal love you will lead the people"
+       WEB: "in your loving kindness, have led"
+       Analysis: Hebrew "chesed" rendered multiple ways: ASV's "lovingkindness"
+       (classic), WEB's "loving kindness," NET's "loyal love" (emphasizing covenant
+       faithfulness), ESV's "steadfast love," KJV's "mercy." All capture aspects of
+       this rich Hebrew term.
 
-v.26 — KJV: "I am the LORD that healeth thee" / ESV: "I am the LORD, your
-       healer" — Hebrew "ani YHWH rophe'ekha" — I am YHWH your healer.
-       The ESV makes "healer" a title; the KJV uses a relative clause. Both
-       reveal Jehovah Rapha — God the Healer.
+v.20 — Hebrew "toph" — a small frame drum.
+       KJV: "a timbrel"
+       ESV: "a tambourine"
+       ASV: "a timbrel"
+       NET: "a hand drum"
+       WEB: "a tambourine"
+       Analysis: NET's "hand drum" is most precise; WEB/ESV's "tambourine" is modern
+       but adds jingles not in the original; ASV/KJV's "timbrel" is archaic but
+       accurate. Miriam is called "prophetess" — the first woman given this title.
+
+v.25 — Hebrew "vayorehu YHWH etz... vayimtequ hamayim" — the LORD showed him a tree... and the waters became sweet.
+       KJV: "shewed him a tree... the waters were made sweet"
+       ESV: "showed him a log... the water became sweet"
+       ASV: "showed him a tree... the waters were made sweet"
+       NET: "showed him a piece of wood... the water became safe to drink"
+       WEB: "showed him a tree... the waters were made sweet"
+       Analysis: The ESV's "log" is more specific; KJV/ASV/WEB's "tree" is broader.
+       NET interprets functionally ("safe to drink") rather than literally ("sweet"),
+       losing the contrast with "Marah" (bitter). "Yorah" is the root of "Torah"
+       (teaching). God teaches through the tree — a type of the cross transforming
+       bitterness.
+
+v.26 — Hebrew "ani YHWH rophekha" — I am YHWH your healer.
+       KJV: "I am the LORD that healeth thee"
+       ESV: "I am the LORD, your healer"
+       ASV: "I am Jehovah that healeth thee"
+       NET: "I, the Lord, am your healer"
+       WEB: "I am Yahweh who heals you"
+       Analysis: This reveals the divine name Jehovah Rapha — God the Healer. The
+       ESV/NET make "healer" a title; the KJV/ASV use a relative clause; WEB uses
+       the participial form most literally. He heals body, soul, and spirit — and
+       He heals bitterness through the "tree" (the cross).
 
 GLOSSARY
 ------------------------------------

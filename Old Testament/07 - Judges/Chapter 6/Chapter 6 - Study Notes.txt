@@ -233,6 +233,22 @@ Ophrah         — A town belonging to the Abiezrite clan of Manasseh.
                altar. Not to be confused with Ophrah of Benjamin
                (1 Samuel 13:17).
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.12 — ASV: "Jehovah is with thee, thou mighty man of valor" / WEB: "Yahweh is with you, you mighty man of valor!" / NET: "The Lord is with you, courageous warrior!" — Hebrew "gibbor hechayil" = mighty man of valor/strength. NET modernizes to "courageous warrior," losing the Hebrew emphasis on inherent strength ("gibbor" = mighty one). ASV/WEB retain the traditional "mighty man of valor" which emphasizes God's prophetic declaration over Gideon's present cowardly state.
+
+- v.14 — ASV: "Go in this thy might, and save Israel" / WEB: "Go in this your might, and save Israel" / NET: "You have the strength. Deliver Israel from the power of the Midianites!" — NET restructures the Hebrew "lek b'kocha-zeh" (go in this your strength) into a separate declaration: "You have the strength." The Hebrew implies the command itself IS the empowerment — "go in this strength" (i.e., the strength of My sending you). NET's separation loses this connection.
+
+- v.22 — ASV: "Alas, O Lord Jehovah! forasmuch as I have seen the angel of Jehovah face to face" / WEB: "Alas, Lord Yahweh! Because I have seen Yahweh's angel face to face!" / NET: "Oh no! Sovereign Lord! I have seen the angel of the Lord face-to-face!" — NET renders "Adonai Yahweh" as "Sovereign Lord," while ASV gives "Lord Jehovah" and WEB gives "Lord Yahweh." Gideon's terror reflects the belief that seeing God means death (Exodus 33:20). The double divine title intensifies his awe.
+
+- v.24 — ASV: "Jehovah-shalom" / WEB: "Yahweh is Peace" / NET: "The Lord is on friendly terms with me" — A striking divergence. Hebrew "Yahweh-Shalom" means "The LORD is Peace." ASV retains the Hebrew compound name; WEB translates literally; NET paraphrases extensively ("on friendly terms with me"), adding relational interpretation not in the Hebrew. "Shalom" means wholeness/peace/well-being — not merely friendliness.
+
+- v.34 — ASV: "the Spirit of Jehovah came upon Gideon" / WEB: "Yahweh's Spirit came on Gideon" / NET: "The Lord's Spirit took control of Gideon" — Hebrew "labshah" literally means "clothed" — the Spirit clothed/enveloped Gideon. NET's "took control" emphasizes domination; the Hebrew image is more intimate — being clothed with the Spirit like a garment. This is a unique verb compared to other judges where the Spirit "rushed upon" (tsalach) them.
+
+- v.25 — ASV: "cut down the Asherah that is by it" / WEB: "cut down the Asherah that is by it" / NET: "cut down the nearby Asherah pole" — NET adds "pole" to clarify that the Asherah was a wooden cult object (a pole or carved image representing the goddess). ASV/WEB leave "Asherah" ambiguous — it could refer to the goddess herself or her cult symbol.
+
+- v.16 — ASV: "thou shalt smite the Midianites as one man" / WEB: "you shall strike the Midianites as one man" / NET: "You will strike down the whole Midianite army" — Hebrew "k'ish echad" = "as one man." ASV/WEB retain this idiom meaning "as if they were a single person" (easy victory). NET interprets the idiom: "the whole Midianite army" — explaining the meaning but losing the vivid Hebrew image.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God sees what we will become (v.12). Gideon is hiding in a winepress

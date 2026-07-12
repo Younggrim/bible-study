@@ -141,59 +141,93 @@ Charles Spurgeon:
   But your bow can abide in strength — if your arms are made strong by the
   same mighty God."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.4  — KJV: "Unstable as water" / ESV: "Unstable as water" — Hebrew
-       "pachaz kamayim" — reckless, turbulent as water. Both identical.
-       Water without a container — no self-control.
+v.4  — Hebrew "pachaz kamayim" — reckless, turbulent as water.
+       KJV: "Unstable as water"
+       ESV: "Unstable as water"
+       ASV: "Boiling over as water"
+       NET: "You are destructive like water"
+       WEB: "Boiling over as water"
+       Analysis: KJV and ESV are identical, emphasizing instability. NET
+       renders it as "destructive like water," emphasizing the harmful
+       consequences of Reuben's instability rather than just the quality.
+       ASV and WEB use "boiling over" — turbulence and excess. Water without
+       a container — no self-control.
 
-v.10 — KJV: "Shiloh" / ESV: "Shiloh" — Hebrew "shiloh" — debated meaning:
-       (1) "the one to whom it belongs" (from "shello"); (2) "peace-bringer"
-       (from "shalom"); (3) "sent one" (from "shalach"). Both transliterate.
-       All three meanings apply to Christ. Ancient Targums identify Shiloh
-       as Messiah.
+v.5  — Hebrew "mecheroteihem" — a difficult word; instruments/weapons.
+       KJV: "instruments of cruelty"
+       ESV: "weapons of violence"
+       ASV: "weapons of violence"
+       NET: "weapons of violence are their knives!"
+       WEB: "weapons of violence"
+       Analysis: NET adds the specific "knives," suggesting the circumcision
+       swords used against Shechem. The others remain general. The underlying
+       Hebrew is debated but all translations convey violent intent.
 
-v.10 — KJV: "sceptre" / ESV: "scepter" — Hebrew "shebet" — a ruler's
-       staff, symbol of authority. Both equivalent (different spelling).
+v.10 — Hebrew "shiloh" — debated: (1) "the one to whom it belongs"; (2)
+       "peace-bringer"; (3) "sent one."
+       KJV: "until Shiloh come"
+       ESV: "until tribute comes to him"
+       ASV: "until Shiloh come"
+       NET: "until he comes to whom it belongs"
+       WEB: "until he comes to whom it belongs"
+       Analysis: KJV and ASV transliterate "Shiloh" directly. ESV renders
+       interpretively as "until tribute comes to him." NET and WEB interpret
+       as "he comes to whom it belongs" — identifying Shiloh as a reference
+       to the Messiah's rightful authority. All three meanings apply to
+       Christ. Ancient Targums identify Shiloh as Messiah.
+
+v.10 — Hebrew "shebet" — a ruler's staff, symbol of authority.
+       KJV: "sceptre"
+       ESV: "scepter"
+       ASV: "scepter"
+       NET: "scepter"
+       WEB: "scepter"
+       Analysis: All translations equivalent (KJV uses older spelling).
        Judah will maintain ruling authority until Messiah comes.
 
-v.14 — KJV: "a strong ass couching down between two burdens" / ESV: "a
-       strong donkey, crouching between the sheepfolds" — Hebrew "chamor
-       gerem" — a bony/strong donkey. The KJV has "two burdens"; the ESV
-       has "sheepfolds." The Hebrew "mishpetayim" can mean either. Both
-       depict Issachar choosing comfort over freedom.
+v.14 — Hebrew "chamor gerem" — a bony/strong donkey.
+       KJV: "a strong ass couching down between two burdens"
+       ESV: "a strong donkey, crouching between the sheepfolds"
+       ASV: "a strong ass, couching down between the sheepfolds"
+       NET: "a strong-boned donkey lying down between two saddlebags"
+       WEB: "a strong donkey, lying down between the saddlebags"
+       Analysis: The Hebrew "mishpetayim" can mean "burdens," "sheepfolds,"
+       or "saddlebags." KJV has "two burdens"; ESV and ASV have
+       "sheepfolds"; NET and WEB have "saddlebags." All depict Issachar
+       choosing comfort over freedom.
 
-v.22 — KJV: "a fruitful bough by a well" / ESV: "a fruitful bough by a
-       spring" — Hebrew "ben porat alei ayin" — literally "son of
-       fruitfulness by a spring." Both equivalent. Joseph's fruitfulness
-       comes from being rooted by living water.
+v.22 — Hebrew "ben porat alei ayin" — literally "son of fruitfulness by a
+       spring."
+       KJV: "a fruitful bough by a well"
+       ESV: "a fruitful bough by a spring"
+       ASV: "a fruitful bough by a fountain"
+       NET: "Joseph is a fruitful bough"
+       WEB: "Joseph is a fruitful vine"
+       Analysis: All convey fruitfulness rooted by living water. WEB uses
+       "vine" instead of "bough." Joseph's fruitfulness comes from being
+       connected to the source of life.
 
-v.24 — KJV: "the shepherd, the stone of Israel" / ESV: "the Shepherd, the
-       Stone of Israel" — Both identical (ESV capitalizes as titles). Two
-       Messianic titles: Christ is both Shepherd (John 10) and Stone
-       (1 Peter 2:4-8).
+v.24 — Hebrew "ro'eh even yisra'el" — the Shepherd, the Stone of Israel.
+       KJV: "the shepherd, the stone of Israel"
+       ESV: "the Shepherd, the Stone of Israel"
+       ASV: "the shepherd, the stone of Israel"
+       NET: "the Shepherd, the Rock of Israel"
+       WEB: "the shepherd, the stone of Israel"
+       Analysis: ESV capitalizes as Messianic titles. NET uses "Rock" instead
+       of "Stone." Two Messianic titles: Christ is both Shepherd (John 10)
+       and Stone/Rock (1 Peter 2:4-8).
 
-v.33 — KJV: "yielded up the ghost" / ESV: "breathed his last" — Hebrew
-       "vayigva" — he expired, he breathed his last. The ESV is more
-       literal; the KJV's "yielded up the ghost" is archaic but evocative.
-       A peaceful, deliberate death.
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.4 — NET: "You are destructive like water and will not excel" — renders
-  "pachaz kamayim" (KJV: "unstable as water") as "destructive like water,"
-  emphasizing the harmful consequences of Reuben's instability rather than
-  just the quality of instability.
-- v.5 — NET: "weapons of violence are their knives!" — renders the difficult
-  Hebrew "mecheroteihem" (KJV: "instruments of cruelty" / ESV: "weapons of
-  violence") with the specific "knives," suggesting the circumcision swords
-  used against Shechem.
-- v.10 — NET: "until he comes to whom it belongs; the nations will obey him"
-  — renders the crucial "Shiloh" prophecy (KJV: "until Shiloh come") as "he
-  comes to whom it belongs," interpreting Shiloh as a reference to the
-  Messiah's rightful authority. WEB: "until he comes to whom it belongs."
-- v.22 — NET: "Joseph is a fruitful bough" — same image across translations.
-  WEB: "Joseph is a fruitful vine."
+v.33 — Hebrew "vayigva" — he expired, he breathed his last.
+       KJV: "yielded up the ghost"
+       ESV: "breathed his last"
+       ASV: "yielded up the ghost"
+       NET: "breathed his last"
+       WEB: "breathed his last"
+       Analysis: The ESV, NET, and WEB are more literal; the KJV and ASV's
+       "yielded up the ghost" is archaic but evocative. A peaceful,
+       deliberate death.
 
 GLOSSARY
 ------------------------------------

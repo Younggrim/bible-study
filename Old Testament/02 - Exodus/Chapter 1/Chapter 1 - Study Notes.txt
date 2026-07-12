@@ -115,54 +115,99 @@ Charles Spurgeon:
   a fool: every blow he strikes against God's people produces more growth,
   more faith, more fruit."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.7  — KJV: "were fruitful, and increased abundantly, and multiplied, and
-       waxed exceeding mighty" / ESV: "were fruitful and increased greatly;
-       they multiplied and grew exceedingly strong" — Five Hebrew verbs of
-       growth: "paru" (were fruitful), "vayyishretzu" (swarmed/teemed),
-       "vayyirbu" (multiplied), "vayyaatzmu" (became strong), "bim'od m'od"
-       (exceedingly). The ESV captures the force well with "exceedingly
-       strong." The language echoes Genesis 1 — God's creative power at work.
+v.5  — Hebrew "yotzei yerekh Ya'aqov" — those coming out of the thigh/loins of Jacob.
+       KJV: "all the souls that came out of the loins of Jacob"
+       ESV: "the descendants of Jacob"
+       ASV: "all the souls that came out of the loins of Jacob"
+       NET: "directly descended from Jacob"
+       WEB: "all the souls who came out of Jacob's body"
+       Analysis: ASV/KJV retain the extremely literal Hebrew idiom ("loins"
+       = physical/generational imagery). NET modernizes to "directly
+       descended," losing the bodily metaphor. WEB paraphrases with "body."
+       ESV compresses to "descendants" — clean but less vivid.
 
-v.8  — KJV: "knew not Joseph" / ESV: "did not know Joseph" — Hebrew "lo
-       yada" — did not know/acknowledge. Not mere ignorance but deliberate
-       disregard — refusing to honor the debt Egypt owed to Joseph. Both
-       translations are equivalent.
+v.7  — Hebrew "paru, vayyishretzu, vayyirbu, vayyaatzmu, bim'od m'od" — five verbs of growth.
+       KJV: "were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty"
+       ESV: "were fruitful and increased greatly; they multiplied and grew exceedingly strong"
+       ASV: "were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty"
+       NET: "were fruitful, increased greatly, multiplied, and became extremely strong"
+       WEB: "were fruitful, and increased abundantly, and multiplied, and grew exceedingly mighty"
+       Analysis: Five Hebrew verbs echo Genesis 1 — God's creative power at
+       work. ESV captures the force well with "exceedingly strong." NET uses
+       "Israelites" rather than "children of Israel" (ASV/WEB), a consistent
+       choice that loses the patronymic connection to Jacob. The language
+       deliberately recalls God's creation mandate and Abrahamic promise.
 
-v.11 — KJV: "taskmasters" / ESV: "taskmasters" — Hebrew "sarei missim" —
-       chiefs of forced labor gangs. Both translations use the same word.
-       KJV: "treasure cities" / ESV: "store cities" — Hebrew "arei
-       miskenot" — storage/supply cities. The ESV's "store cities" is more
-       accurate than the KJV's "treasure cities."
+v.8  — Hebrew "lo yada" — did not know/acknowledge.
+       KJV: "knew not Joseph"
+       ESV: "did not know Joseph"
+       ASV: "knew not Joseph"
+       NET: "did not know about Joseph"
+       WEB: "didn't know Joseph"
+       Analysis: Not mere ignorance but deliberate disregard — refusing to
+       honor the debt Egypt owed to Joseph. All translations are essentially
+       equivalent. NET adds "about" — slightly shifting from personal
+       relationship to mere information.
 
-v.13 — KJV: "rigour" / ESV: "ruthlessly" — Hebrew "perekh" — harshness,
-       crushing severity, breaking labor. The ESV's "ruthlessly" captures
-       the brutality more vividly for modern readers. Used only of the
-       Egyptian oppression and forbidden for Israelites (Leviticus 25:43).
+v.11 — Hebrew "sarei missim" — chiefs of forced labor; "arei miskenot" — storage/supply cities.
+       KJV: "taskmasters" / "treasure cities, Pithom and Raamses"
+       ESV: "taskmasters" / "store cities, Pithom and Rameses"
+       ASV: "taskmasters" / "store-cities, Pithom and Raamses"
+       NET: "foremen" / "supply cities... Pithom and Rameses"
+       WEB: "taskmasters" / "storage cities, Pithom and Rameses"
+       Analysis: ESV's "store cities" is more accurate than KJV's "treasure
+       cities." ASV preserves the older spelling "Raamses" closer to the
+       Hebrew "Ra'amses"; NET modernizes to match Egyptian convention. NET
+       also uses "foremen" instead of "taskmasters" — a less evocative but
+       technically precise rendering.
 
-v.15 — KJV: "Hebrew midwives" / ESV: "Hebrew midwives" — Could mean
-       "midwives who were Hebrew" or "midwives to the Hebrews." Most
-       scholars take them as Hebrew women — their names (Shiphrah =
-       "beautiful"; Puah = "splendid") are Semitic.
+v.13 — Hebrew "perekh" — harshness, crushing severity, breaking labor.
+       KJV: "with rigour"
+       ESV: "ruthlessly"
+       ASV: "with rigor"
+       NET: "serve rigorously"
+       WEB: "ruthlessly"
+       Analysis: ESV/WEB capture the brutality more vividly for modern
+       readers. ASV retains KJV phrasing. NET expands to "serve rigorously"
+       — a middle path. Used only of the Egyptian oppression and forbidden
+       for Israelites (Leviticus 25:43). The word implies labor designed not
+       to produce but to destroy.
 
-v.16 — KJV: "stools" / ESV: "birthstool" — Hebrew "obnayim" — literally
-       "two stones" — the birthing stones/stool on which women knelt during
-       delivery. The ESV's "birthstool" is clearer than the KJV's "stools."
+v.15 — Hebrew "hameyalledot ha'ivriyot" — the Hebrew midwives.
+       KJV: "Hebrew midwives"
+       ESV: "Hebrew midwives"
+       ASV: "Hebrew midwives"
+       NET: "Hebrew midwives"
+       WEB: "Hebrew midwives"
+       Analysis: All translations agree. The phrase could mean "midwives who
+       were Hebrew" or "midwives to the Hebrews." Most scholars take them as
+       Hebrew women — their names (Shiphrah = "beautiful"; Puah = "splendid")
+       are Semitic, supporting Hebrew identity.
 
-v.21 — KJV: "he made them houses" / ESV: "he gave them families" — Hebrew
-       "vayya'as lahem battim" — He made/established houses for them.
-       "Houses" (battim) can mean households/families/dynasties. The ESV
-       interprets: God blessed them with families of their own. The KJV
-       leaves it more literal.
+v.16 — Hebrew "obnayim" — literally "two stones," the birthing stones/stool.
+       KJV: "upon the stools"
+       ESV: "on the birthstool"
+       ASV: "upon the birth-stool"
+       NET: "observe at the delivery"
+       WEB: "on the birth stool"
+       Analysis: NET completely paraphrases, avoiding the cultural artifact
+       entirely. ASV hyphenates "birth-stool" for clarity while preserving
+       the object reference. ESV's "birthstool" is clearer than KJV's
+       "stools." The Hebrew refers to stones on which women knelt during
+       delivery — a cultural practice lost on modern readers.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.5 — ASV: "all the souls that came out of the loins of Jacob" — extremely literal rendering of Hebrew idiom; NET modernizes to "directly descended from Jacob," losing the physical/generational imagery.
-- v.7 — NET: "The Israelites, however, were fruitful, increased greatly, multiplied, and became extremely strong" — uses "Israelites" rather than "children of Israel" (ASV/WEB), a consistent NET choice that loses the patronymic connection to Jacob.
-- v.11 — ASV: "Raamses" / NET: "Rameses" — ASV preserves the older English spelling closer to the Hebrew "Ra'amses"; NET modernizes to match Egyptian convention.
-- v.13 — WEB: "ruthlessly" — matches ESV; ASV retains "with rigor" (KJV phrasing). NET expands to "serve rigorously" — a middle path that retains the Hebrew "perekh" concept.
-- v.16 — ASV: "birth-stool" / NET: "observe at the delivery" — NET completely paraphrases the Hebrew "obnayim" (two stones), avoiding the cultural artifact; ASV hyphenates for clarity while preserving the object reference.
+v.21 — Hebrew "vayya'as lahem battim" — He made/established houses for them.
+       KJV: "he made them houses"
+       ESV: "he gave them families"
+       ASV: "he made them households"
+       NET: "he made households for them"
+       WEB: "he gave them families"
+       Analysis: "Houses" (battim) can mean households/families/dynasties.
+       ESV/WEB interpret: God blessed them with families of their own.
+       KJV leaves it more literal. ASV/NET use "households" — a middle
+       ground. God rewarded the midwives' courage with established lineages.
 
 GLOSSARY
 ------------------------------------

@@ -110,40 +110,96 @@ Charles Spurgeon:
   faithfulness does not depend on our faithfulness. He leads even when we
   wander."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "sanctify" / ESV: "consecrate" — Hebrew "qaddesh" — to set
-       apart, to consecrate, to make holy. The ESV's "consecrate" and the
-       KJV's "sanctify" are synonymous. The firstborn are set apart for
-       God.
+v.2  — Hebrew "qaddesh" — to set apart, to consecrate, to make holy.
+       KJV: "sanctify"
+       ESV: "consecrate"
+       ASV: "Sanctify unto me all the firstborn, whatsoever openeth the womb"
+       NET: "Set apart to me every firstborn male—the first offspring of every womb"
+       WEB: "Sanctify to me all the firstborn, whatever opens the womb"
+       Analysis: The ESV's "consecrate" and the KJV's "sanctify" are synonymous.
+       NET replaces "sanctify" with "set apart" (a functional equivalent) and adds
+       "male" as interpretive clarification. The literal translations (KJV/ASV/WEB)
+       preserve the broader Hebrew. The firstborn are set apart for God.
 
-v.4  — KJV: "Abib" / ESV: "Abib" — Hebrew "Aviv" — the month of ripening
-       grain (March/April). Both transliterate. Later called Nisan after
-       the Babylonian exile.
+v.3  — Hebrew "beit avadim" — house of slaves/servants.
+       KJV: "out of the house of bondage"
+       ESV: "out of the house of slavery"
+       ASV: "out of the house of bondage"
+       NET: "from the place where you were enslaved"
+       WEB: "out of the house of bondage"
+       Analysis: NET paraphrases the Hebrew idiom; the literal "house of bondage"
+       (KJV/ASV/WEB) is a more evocative metaphor — Egypt as a prison-house.
 
-v.9  — KJV: "a sign upon thine hand... a memorial between thine eyes" /
-       ESV: "a sign on your hand and as a memorial between your eyes" —
-       Both equivalent. Later Judaism interpreted literally as phylacteries
-       (tefillin). Original intent: God's redemption governs what you DO
-       (hand) and how you THINK (eyes).
+v.4  — Hebrew "Aviv" — the month of ripening grain (March/April).
+       KJV: "Abib"
+       ESV: "Abib"
+       ASV: "Abib"
+       NET: "Abib"
+       WEB: "Abib"
+       Analysis: All transliterate. Later called Nisan after the Babylonian exile.
 
-v.13 — KJV: "the matrix" / ESV: "the womb" — Hebrew "peter rechem" — that
-       which opens the womb. The ESV's "womb" is clearer; the KJV's
-       "matrix" is archaic for womb.
+v.9  — Hebrew "ot al yadkha... zikkaron bein einekha" — sign on your hand... memorial between your eyes.
+       KJV: "a sign upon thine hand... a memorial between thine eyes"
+       ESV: "a sign on your hand and as a memorial between your eyes"
+       ASV: "for a sign unto thee upon thy hand... that the law of Jehovah may be in thy mouth"
+       NET: "a sign for you on your hand... so that the law of the Lord may be in your mouth"
+       WEB: "for a sign to you on your hand... that Yahweh's law may be in your mouth"
+       Analysis: All preserve the purpose clause identically, with characteristic
+       divine name rendering (ASV "Jehovah," WEB "Yahweh," NET "the Lord"). Later
+       Judaism interpreted literally as phylacteries/tefillin. Original intent:
+       God's redemption governs what you DO (hand) and how you THINK (eyes).
 
-v.17 — KJV: "repent" / ESV: "change their minds" — Hebrew "nacham" — to
-       change one's mind, to regret. The ESV is clearer for modern readers;
-       the KJV's "repent" now carries theological connotations not intended
-       here. God feared Israel would regret leaving.
+v.13 — Hebrew "peter rechem" — that which opens the womb.
+       KJV: "the matrix"
+       ESV: "the womb"
+       ASV: "the womb"
+       NET: "the womb"
+       WEB: "the womb"
+       Analysis: The ESV/ASV/NET/WEB's "womb" is clearer; the KJV's "matrix" is
+       archaic for womb. All modern translations avoid the archaic term.
 
-v.18 — KJV: "harnessed" / ESV: "equipped for battle" — Hebrew "chamushim"
-       — armed, in battle array, or organized in groups of five. The ESV's
-       "equipped for battle" interprets; the KJV's "harnessed" is archaic.
-       Israel left as an organized body, not a panicked mob.
+v.16 — Hebrew "totaphot" — bands or markers (rare word, only 3 occurrences).
+       KJV: "frontlets between thine eyes"
+       ESV: "marks between your eyes"
+       ASV: "for frontlets between thine eyes"
+       NET: "for frontlets on your forehead"
+       WEB: "for symbols between your eyes"
+       Analysis: NET's "forehead" interprets the location; ASV/KJV preserve the
+       more literal "between thine eyes." The word "totaphot" is rare and debated.
 
-v.21 — KJV: "pillar of a cloud" / ESV: "pillar of cloud" — Hebrew "ammud
-       anan" — a column of cloud. Both equivalent. A visible, vertical
-       column — unmistakable divine presence.
+v.17 — Hebrew "nacham" — to change one's mind, to regret.
+       KJV: "lest peradventure the people repent when they see war"
+       ESV: "lest the people change their minds when they see war"
+       ASV: "lest peradventure the people repent when they see war"
+       NET: "lest the people repent when they experience war"
+       WEB: "lest perhaps the people change their minds when they see war"
+       Analysis: The ESV/WEB is clearer for modern readers; the KJV/ASV's "repent"
+       now carries theological connotations not intended here. God feared Israel
+       would regret leaving when they faced battle.
+
+v.18 — Hebrew "chamushim" — armed, in battle array, or organized in groups of five.
+       KJV: "harnessed"
+       ESV: "equipped for battle"
+       ASV: "armed"
+       NET: "So God brought the people around by the way of the wilderness to the Red Sea"
+       WEB: "armed"
+       Analysis: The ESV's "equipped for battle" interprets; the KJV's "harnessed"
+       is archaic. ASV/WEB's "armed" is concise and accurate. Hebrew "Yam Suph"
+       (Sea of Reeds) is rendered "Red Sea" in all translations despite the literal
+       meaning being debated. Israel left as an organized body, not a panicked mob.
+
+v.21 — Hebrew "ammud anan/esh" — column of cloud/fire.
+       KJV: "pillar of a cloud... pillar of fire"
+       ESV: "pillar of cloud... pillar of fire"
+       ASV: "Jehovah went before them by day in a pillar of cloud"
+       NET: "the Lord was going before them by day in a pillar of cloud"
+       WEB: "Yahweh went before them by day in a pillar of cloud"
+       Analysis: A visible, vertical column — unmistakable divine presence. NET uses
+       the imperfect progressive "was going" to convey the continuous nature;
+       ASV/WEB use simple past tense. Each translation renders the divine name
+       characteristically. God never leaves — "He took not away the pillar" (v.22).
 
 GLOSSARY
 ------------------------------------

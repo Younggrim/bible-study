@@ -124,6 +124,20 @@ Sign-Act     — A prophetic action performed as a living parable.
               examples: Ezekiel's siege model (Ezek 4), Jeremiah's
               yoke (Jer 27), Hosea's marriage (Hos 1).
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.2 — ASV: "Jehovah spake by Isaiah" / WEB: "Yahweh spoke by Isaiah" / NET: "the Lord announced through Isaiah" — The divine name commissioning the sign-act. NET's "announced" is less intimate than "spoke" — the Hebrew "dibber" implies direct, personal speech.
+
+- v.2 — NET: "walked around in undergarments and barefoot" vs. KJV/ASV/WEB: "walking naked and barefoot" — NET softens "naked" (arom) to "in undergarments" — an interpretive choice that assumes Isaiah wore a loin cloth. While this is likely historically accurate, the Hebrew word means "stripped/naked." NET removes the shock value that made the sign-act powerful.
+
+- v.3 — ASV: "Jehovah said, Like as my servant Isaiah" / WEB: "Yahweh said, 'As my servant Isaiah'" / NET: "the Lord explained, 'In the same way that my servant Isaiah'" — All preserve "my servant" — a title of honor for Isaiah despite his humiliation. NET adds "explained" (interpretive) and "In the same way" (wordy expansion).
+
+- v.3 — NET: "as an object lesson and omen pertaining to Egypt and Cush" vs. KJV: "for a sign and wonder upon Egypt and upon Ethiopia" / ASV: "for a sign and a wonder concerning Egypt and concerning Ethiopia" — NET's "object lesson and omen" replaces the biblical terminology "sign and wonder" (oth u-mofet) — the same phrase used for the Exodus miracles. NET domesticates the supernatural language.
+
+- v.5 — NET: "Those who put their hope in Cush and took pride in Egypt will be afraid and embarrassed" vs. ASV/WEB: "they shall be dismayed and confounded, because of Ethiopia their expectation, and of Egypt their glory" — NET makes the application explicit ("put their hope" / "took pride") while ASV/WEB preserve the Hebrew's more compressed structure. NET loses "dismayed" (Hebrew chatath = shattered/broken).
+
+- v.6 — ASV: "the inhabitant of this coast-land" / WEB: "The inhabitants of this coast land" / NET: "those who live on this coast" — Hebrew "i" (island/coastland). All three correctly identify the Palestinian coastal residents (including Judah) who relied on Egypt. The final question — "how shall we escape?" — hangs unanswered in all translations, leaving Judah with nowhere to turn except back to God.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God's servants sometimes pay extreme personal costs to deliver

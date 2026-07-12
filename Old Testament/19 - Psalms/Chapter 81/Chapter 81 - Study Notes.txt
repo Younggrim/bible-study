@@ -105,6 +105,20 @@ v.12 — KJV: "I gave them up unto their own hearts' lust" / ESV:
        ESV emphasizes stubbornness; KJV emphasizes desire. Both
        describe the same reality: self-will as divine punishment.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.6 — KJV: "his hands were delivered from the pots" / ASV: "His hands were freed from the basket" / NET: "his hands were released from holding the basket" / WEB: "His hands were freed from the basket" — KJV's "pots" is unusual; Hebrew "dud" means basket/pot used for carrying mortar in slave labor. ASV/NET/WEB all prefer "basket," giving the clearer image of brick-making slavery in Egypt.
+
+- v.7 — NET: "I answered you from a dark thundercloud" / KJV: "I answered thee in the secret place of thunder" / ASV: "I answered thee in the secret place of thunder" — NET interprets "secret place of thunder" as a "dark thundercloud," making the Sinai theophany reference explicit. KJV/ASV retain the mysterious Hebrew phrasing.
+
+- v.10 — ASV: "I am Jehovah thy God" / WEB: "I am Yahweh, your God" / KJV: "I am the LORD thy God" / NET: "I am the Lord, your God" — The divine name at the heart of the first commandment. The differences matter here — ASV/WEB use the actual name; KJV/NET use a title substitute.
+
+- v.12 — KJV: "I gave them up unto their own hearts' lust" / NET: "I gave them over to their stubborn desires; they did what seemed right to them" / ASV: "I let them go after the stubbornness of their heart" — NET adds "they did what seemed right to them" (echoing Judges 17:6), an interpretive addition not in the Hebrew. KJV's "lust" is stronger than ASV's "stubbornness."
+
+- v.15 — ASV: "The haters of Jehovah should submit themselves unto him" / WEB: "The haters of Yahweh would cringe before him" / NET: "(May those who hate the Lord cower in fear before him.)" — NET uniquely puts v.15 in parentheses as an editorial aside, treating it as a narrator's interjection rather than God's speech. WEB's "cringe" is more vivid than KJV's "submitted."
+
+- v.16 — NET: "I would feed Israel the best wheat, and would satisfy your appetite with honey from the rocky cliffs" — NET specifies "rocky cliffs" where KJV/ASV/WEB have simply "the rock." NET's "best wheat" for KJV's "finest of the wheat" is equivalent but simpler.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "Open your mouth wide and I will fill it" (v.10). God's

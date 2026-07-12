@@ -224,6 +224,20 @@ Havvoth-jair — "Villages of Jair." Small settlements in Gilead captured
                conquered cities after oneself was common in the ancient
                Near East.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — NET: "the Reubenites and the Gadites had a very large number of cattle" / ASV: "the children of Reuben and the children of Gad had a very great multitude of cattle" / WEB: "the children of Reuben and the children of Gad had a very great multitude of livestock" — NET uses "cattle"; ASV "cattle"; WEB "livestock" (Hebrew "miqneh" — livestock/possessions). Their wealth in animals drives their request for land east of Jordan.
+
+- v.5 — NET: "Do not take us across the Jordan" / ASV: "let us not pass over the Jordan" / WEB: "don't bring us over the Jordan" — A request that alarms Moses. Settling east of Jordan echoes the spies' refusal to cross (ch.13-14). Moses sees a pattern of shrinking back from God's full promise.
+
+- v.14 — NET: "you are rising up in your fathers' place, a brood of sinners" / ASV: "ye are risen up in your fathers' stead, a brood of sinful men" / WEB: "you have risen up in your fathers' place, a brood of sinful men" — NET's "brood" (Hebrew "tarbut" — increase/offspring). Moses accuses them of repeating the previous generation's faithlessness.
+
+- v.20 — NET: "if you arm yourselves before the Lord for the war" / ASV: "if ye will arm yourselves before Jehovah for the war" / WEB: "If you will arm yourselves before Yahweh for the war" — The conditional agreement. If they fight WITH their brothers, they may settle east. "Before YHWH" — accountable to God for their promise.
+
+- v.23 — NET: "your sin will find you out" / ASV: "your sin will find you out" / WEB: "your sin will find you out" — All translations preserve this proverb identically. Hebrew "chatta'tkhem asher timtsa etkhem" — sin personified as a hunter that eventually catches its prey. One of the most quoted warnings in Scripture.
+
+- v.33 — NET: "the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan" / ASV: "the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan" — The conquered territories are formally allocated. All translations agree — these names become shorthand for Israel's victories east of Jordan.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "Do not take us across the Jordan" (v.5). Are you settling for "good

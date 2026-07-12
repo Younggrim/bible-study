@@ -98,53 +98,95 @@ Charles Spurgeon:
   of a Spirit-filled man: pointing to God, not self. Every gift, every
   ability, every insight — belongs to God. Use it, but give Him the glory."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "butler" / ESV: "cupbearer" — Hebrew "mashqeh" — cupbearer.
-       ESV uses the more precise term. A high-ranking official who tasted
-       the king's wine (protecting against poison). A position of great
-       trust and access.
+v.1  — Hebrew "mashqeh" — cupbearer.
+       KJV: "butler"
+       ESV: "cupbearer"
+       ASV: "butler"
+       NET: "cupbearer"
+       WEB: "cupbearer"
+       Analysis: KJV/ASV use "butler" (archaic). ESV/NET/WEB use the more
+       precise "cupbearer." A high-ranking official who tasted the king's
+       wine (protecting against poison). A position of great trust and access.
 
-v.1  — KJV: "baker" / ESV: "baker" — Both identical. Hebrew "opheh" — baker.
-       The chief baker was also a high-ranking court official responsible for
-       the king's food.
+v.1  — Hebrew "opheh" — baker.
+       KJV: "baker"
+       ESV: "baker"
+       ASV: "baker"
+       NET: "baker"
+       WEB: "baker"
+       Analysis: All identical. The chief baker was a high-ranking court
+       official responsible for the king's food.
 
-v.8  — KJV: "Do not interpretations belong to God?" / ESV: "Do not
-       interpretations belong to God?" — Both identical. Joseph immediately
-       directs attention to God. He doesn't claim personal ability but divine
-       enablement.
+v.6  — Hebrew "zo'aphim" — troubled, dejected.
+       KJV: "sad"
+       ESV: "troubled"
+       ASV: "sad"
+       NET: "looking depressed"
+       WEB: "sad"
+       Analysis: KJV/ASV/WEB use "sad." ESV uses "troubled." NET renders
+       "depressed" — a stronger emotional state. Joseph notices their
+       condition — showing care for others even in his own suffering.
 
-v.14 — KJV: "think on me" / ESV: "remember me" — ESV is more direct.
-       Hebrew "zekartani" — remember me. Joseph asks for human help — not
-       wrong, but God has a different timeline.
+v.8  — Hebrew "halo' lE'lohim pitronim" — do not interpretations belong to God?
+       KJV: "Do not interpretations belong to God?"
+       ESV: "Do not interpretations belong to God?"
+       ASV: "Do not interpretations belong to God?"
+       NET: "Don't interpretations belong to God?"
+       WEB: "Don't interpretations belong to God?"
+       Analysis: All essentially identical. This phrase is consistent across
+       all translations. Joseph immediately directs attention to God — he
+       doesn't claim personal ability but divine enablement. A God-centered
+       approach before he even hears the dreams.
 
-v.19 — KJV: "shall lift up thy head from off thee" / ESV: "will lift up
-       your head—from you!" — Both capture the wordplay with v.13 ("lift up
-       thine head" = restore). Same phrase, opposite meaning: restoration
-       for the butler, execution for the baker. ESV's dash emphasizes the
-       grim twist.
+v.13 — Hebrew "yissa Par'oh eth roshekha" — Pharaoh will lift up your head.
+       KJV: "shall Pharaoh lift up thine head, and restore thee unto thy
+            place"
+       ESV: "Pharaoh will lift up your head and restore you to your office"
+       ASV: "shall Pharaoh lift up thy head, and restore thee unto thine
+            office"
+       NET: "Pharaoh will reinstate you and restore you to your office"
+       WEB: "Pharaoh will lift up your head, and restore you to your office"
+       Analysis: KJV/ESV/ASV/WEB preserve the Hebrew idiom "lift up your
+       head" (= restore to honor). NET uses formal language ("reinstate,"
+       "restore") without the idiom. The same phrase takes on grim meaning
+       in v.19.
 
-v.23 — KJV: "yet did not the chief butler remember Joseph, but forgat him" /
-       ESV: "Yet the chief cupbearer did not remember Joseph, but forgot
-       him" — Both equivalent (butler/cupbearer difference). Hebrew
-       "shakeach" — forgot completely. Two more years of unjust imprisonment
-       because of human forgetfulness. But God's timing is perfect.
+v.14 — Hebrew "zekartani" — remember me.
+       KJV: "think on me"
+       ESV: "remember me"
+       ASV: "remember me"
+       NET: "remember me"
+       WEB: "remember me"
+       Analysis: KJV's "think on me" is slightly less direct. ESV/ASV/NET/WEB
+       all render "remember me." Hebrew "zekartani" — remember me. Joseph
+       asks for human help — not wrong, but God has a different timeline.
 
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.6 — NET: "he saw that they were looking depressed" — renders Hebrew
-  "zo'aphim" (KJV: "sad" / ESV: "troubled") as "depressed," a stronger
-  emotional state.
-- v.8 — NET: "Don't interpretations belong to God?" — matches KJV/ESV/WEB.
-  This phrase is consistent across all translations, showing Joseph's
-  God-centered approach.
-- v.13 — NET: "Pharaoh will reinstate you and restore you to your office" —
-  uses formal language ("reinstate," "restore," "office") where KJV has
-  "lift up thine head, and restore thee unto thy place."
-- v.19 — NET: "Pharaoh will decapitate you and hang your body on a pole" —
-  strikingly explicit rendering of the baker's fate (KJV: "Pharaoh shall
-  lift up thy head from off thee, and shall hang thee on a tree"). NET
-  removes the euphemism entirely.
+v.19 — Hebrew "yissa Par'oh eth roshekha me'alekha" — Pharaoh will lift your
+       head from off you.
+       KJV: "shall lift up thy head from off thee"
+       ESV: "will lift up your head—from you!"
+       ASV: "shall lift up thy head from off thee"
+       NET: "Pharaoh will decapitate you and hang your body on a pole"
+       WEB: "Pharaoh will lift up your head from off you"
+       Analysis: KJV/ESV/ASV/WEB preserve the Hebrew wordplay with v.13 —
+       same phrase "lift up your head" but with the horrifying addition "from
+       off you." ESV's dash emphasizes the grim twist. NET removes the
+       euphemism entirely with "decapitate" — strikingly explicit. The
+       wordplay is lost in NET but the meaning is unmistakable.
+
+v.23 — Hebrew "velo zakhar... vayyishkachehu" — did not remember... forgot him.
+       KJV: "yet did not the chief butler remember Joseph, but forgat him"
+       ESV: "Yet the chief cupbearer did not remember Joseph, but forgot him"
+       ASV: "Yet did not the chief butler remember Joseph, but forgat him"
+       NET: "But the chief cupbearer did not remember Joseph — he forgot him"
+       WEB: "Yet the chief cup bearer didn't remember Joseph, but forgot him"
+       Analysis: All equivalent (butler/cupbearer difference). Hebrew
+       "shakeach" — forgot completely. The double statement (did not remember
+       + forgot) emphasizes the completeness of the neglect. Two more years
+       of unjust imprisonment because of human forgetfulness. But God's
+       timing is perfect.
 
 GLOSSARY
 ------------------------------------

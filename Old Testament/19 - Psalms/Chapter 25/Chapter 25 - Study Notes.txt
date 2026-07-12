@@ -113,6 +113,22 @@ v.16 — KJV: "I am desolate and afflicted" / ESV: "I am lonely and
        David feels isolated — not just attacked but ALONE in his
        suffering. ESV's "lonely" is poignant.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "Unto thee, O Jehovah, do I lift up my soul" / WEB: "To you, Yahweh, do I lift up my soul" — Both use the divine covenant name where KJV has "LORD." The intimacy of addressing God by His personal name in prayer heightens the relational tone of this acrostic psalm.
+
+- v.6 — ASV/WEB: "thy lovingkindness" / "your loving kindness" / KJV: "thy lovingkindnesses" / NET: "your compassionate and faithful deeds" — Hebrew "chesed" (plural in KJV). NET interprets chesed as specific acts ("deeds") rather than a character quality, losing the sense of God's enduring disposition. ASV/WEB preserve the abstract quality.
+
+- v.7 — KJV: "according to thy mercy" / ASV: "According to thy lovingkindness" / WEB: "according to your loving kindness" / NET: "Because you are faithful to me, extend to me your favor" — Four renderings of chesed: mercy, lovingkindness, loving kindness, and faithfulness+favor. NET splits one Hebrew concept into two English words, interpreting rather than translating.
+
+- v.10 — ASV: "All the paths of Jehovah are lovingkindness and truth" / WEB: "All the paths of Yahweh are loving kindness and truth" / NET: "The Lord always proves faithful and reliable" — NET removes the poetic metaphor of "paths" entirely, replacing it with a propositional statement. The Hebrew imagery of God's ways being made of chesed and emet (loving-kindness and truth) is flattened.
+
+- v.14 — KJV: "The secret of the LORD" / ASV: "The friendship of Jehovah" / WEB: "The friendship of Yahweh" / NET: "The Lord's loyal followers receive his guidance" — Hebrew "sod" = intimate counsel/friendship. ASV/WEB agree with ESV on "friendship." NET completely paraphrases, removing "sod" and replacing it with "guidance" — losing the intimacy of God's secret counsel shared with those who fear Him.
+
+- v.1 — NET: "O Lord, I come before you in prayer" — NET paraphrases "I lift up my soul" as "I come before you in prayer." The Hebrew nephesh (soul) lifted up is a vivid image of presenting one's whole being to God — not merely approaching for prayer but offering the self upward.
+
+- v.9 — KJV: "The meek will he guide in judgment" / ASV: "The meek will he guide in justice" / NET: "May he show the humble what is right" — NET turns a declarative statement into a wish ("May he..."), changing the psalm's confident assertion into a prayer. ASV's "justice" (mishpat) is more precise than KJV's "judgment" for modern readers.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. You can ask God to forget specific things (v.7). "Remember NOT

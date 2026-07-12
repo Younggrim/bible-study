@@ -226,6 +226,20 @@ Evil Spirit    — Hebrew "ruach ra'ah." A spirit of discord/hostility sent
                22:22-23). This demonstrates God's sovereignty over all
                spiritual forces.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.4 — ASV: "Abimelech hired vain and light fellows" / WEB: "Abimelech hired vain and light fellows" / NET: "Abimelech then used the silver to hire some lawless, dangerous men" — Hebrew "anashim reqim u'fochazim" = "empty/worthless and reckless men." KJV/ASV/WEB retain "vain and light" (empty and reckless). NET interprets as "lawless, dangerous" — shifting from moral emptiness to criminal threat. The Hebrew emphasizes their worthlessness as persons.
+
+- v.9 — ASV: "Should I leave my fatness, wherewith by me they honor God and man" / WEB: "Should I stop producing my oil, with which they honor God and man" / NET: "I am not going to stop producing my oil, which is used to honor gods and men" — NET changes "God" (singular) to "gods" (plural), reading Hebrew "Elohim" as plural rather than singular. In context, this may reflect the pagan setting of the fable, or it may be a generic reference to the divine. ASV/WEB/KJV retain singular "God."
+
+- v.22 — ASV: "Abimelech was prince over Israel three years" / WEB: "Abimelech was prince over Israel three years" / NET: "Abimelech commanded Israel for three years" — Hebrew "vayyasar" = ruled/exercised dominion. ASV/WEB use "prince" (avoiding "king" since Israel's true king is God). NET uses "commanded" — avoiding both "king" and "judge." The text deliberately uses a different word than the typical "judge" (shophet) because Abimelech was neither legitimate ruler nor divinely appointed deliverer.
+
+- v.23 — ASV: "God sent an evil spirit between Abimelech and the men of Shechem" / WEB: "God sent an evil spirit between Abimelech and the men of Shechem" / NET: "God sent a spirit to stir up hostility between Abimelech and the leaders of Shechem" — NET softens "evil spirit" (Hebrew "ruach ra'ah") to "a spirit to stir up hostility" — adding interpretive purpose while removing the moral descriptor "evil." This parallels 1 Samuel 16:14 where God sends an evil spirit upon Saul.
+
+- v.45 — ASV: "he beat down the city, and sowed it with salt" / WEB: "He beat down the city, and sowed it with salt" / NET: "he leveled the city and spread salt over it" — All preserve this ancient Near Eastern ritual of making conquered land permanently barren. NET's "leveled" and "spread salt" are modern equivalents. The salt-sowing was a symbolic act declaring the land cursed and uninhabitable.
+
+- v.56 — ASV: "Thus God requited the wickedness of Abimelech" / WEB: "Thus God repaid the wickedness of Abimelech" / NET: "God repaid Abimelech for the evil he did" — Hebrew "vayyashev Elohim" = God returned/repaid. ASV's archaic "requited" and WEB/NET's "repaid" both capture the lex talionis — God ensures that violence returns upon the head of the violent. Jotham's curse (v.20) is fulfilled precisely.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Power seized through violence self-destructs (vv.5,56). Abimelech

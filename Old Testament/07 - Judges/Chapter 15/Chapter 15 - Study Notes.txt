@@ -197,6 +197,20 @@ Rock of Etam   — A cliff or cave where Samson retreated after his
                territory. The Philistines invaded Judah specifically to
                capture him from this refuge.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.4 — ASV: "Samson went and caught three hundred foxes" / NET: "Samson went and captured 300 jackals" — Hebrew "shu'alim" can mean foxes or jackals. NET chooses "jackals" (more likely to be found in large numbers; jackals are pack animals, foxes are solitary). This is a legitimate zoological distinction — 300 foxes would be nearly impossible to gather, but jackals travel in groups.
+
+- v.8 — ASV: "he smote them hip and thigh with a great slaughter" / NET: "He struck them down and defeated them" — Hebrew "vayyak otam shoq al-yarekh makkah g'dolah" = he struck them leg upon thigh, a great striking. This is an idiom for thorough, devastating violence. ASV preserves the idiom "hip and thigh"; NET flattens it to generic "struck them down and defeated them," losing the vivid Hebrew expression.
+
+- v.14 — ASV: "the Spirit of Jehovah came mightily upon him, and the ropes...became as flax that was burnt with fire" / NET: "the Lord's Spirit empowered him. The ropes around his arms were like flax dissolving in fire" — Again NET uses "empowered" for "vatitslach" (rushed upon). The simile of burning flax is preserved in all versions — the supernatural strength dissolves human bonds as fire dissolves thread.
+
+- v.16 — ASV: "With the jawbone of an ass, heaps upon heaps" / NET: "With the jawbone of a donkey I have left them in heaps" — Hebrew contains a wordplay: "b'lchi hachamor, chamor chamoratayim" — "lechi" (jawbone) and "Lehi" (the place name) sound alike; "chamor" (donkey) and "chamor" (heap) are homonyms. Samson creates a victory poem with puns. This wordplay is lost in all English translations.
+
+- v.18 — ASV: "Thou hast given this great deliverance by the hand of thy servant" / NET: "You have given your servant this great victory" — Hebrew "t'shu'ah" = salvation/deliverance/victory. ASV's "deliverance" is theologically richer (connecting to God's saving acts); NET's "victory" is more military. Samson acknowledges — briefly and genuinely — that God is the source of his power.
+
+- v.19 — ASV: "God clave the hollow place that is in Lehi" / NET: "God split open the basin at Lehi" — Hebrew "vayyivqa Elohim et-hamakhtesh" = God split open the hollow/mortar-shaped place. God provides water for His servant despite Samson's deeply flawed character — grace sustains even the undeserving.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Comfortable bondage resists disruptive deliverance (v.11). Judah

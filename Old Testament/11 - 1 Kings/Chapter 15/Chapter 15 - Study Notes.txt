@@ -285,6 +285,20 @@ Qedeshim      — "Consecrated/holy ones" — a deeply ironic term for
               Baal, involving ritual sexual acts. Their removal was
               a primary mark of religious reform.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.4 — ASV: "for David's sake did Jehovah his God give him a lamp in Jerusalem" / WEB: "for David's sake, Yahweh his God gave him a lamp in Jerusalem" / NET: "for David's sake the Lord his God maintained his dynasty in Jerusalem by giving him a son to succeed him" — Hebrew "ner" (lamp) is the Davidic dynasty metaphor (see 11:36). ASV/WEB preserve "lamp"; NET replaces it with interpretive explanation ("maintained his dynasty... giving him a son"). The lamp metaphor carries temple symbolism — David's line keeps God's light burning in Jerusalem.
+
+- v.5 — ASV: "David did that which was right in the eyes of Jehovah" / WEB: "David did that which was right in Yahweh's eyes" / NET: "David had done what he approved" — The formulaic phrase "ha-yashar b'einei YHWH" (right in the eyes of the LORD) is the standard evaluation for good kings. NET replaces "right in the eyes of" with "what he approved" — a less literal rendering that loses the evaluative language unique to the Kings narrative framework.
+
+- v.3 — ASV: "his heart was not perfect with Jehovah his God" / WEB: "his heart was not perfect with Yahweh his God" / NET: "He was not wholeheartedly devoted to the Lord his God" — Hebrew "shalem" (perfect/complete) — the undivided heart theology again. ASV/WEB use "perfect"; NET paraphrases as "wholeheartedly devoted." The Hebrew idea is wholeness, not effort — a heart entirely belonging to God, not split between deities.
+
+- v.12 — ASV: "he put away the sodomites out of the land" / WEB: "He put away the sodomites out of the land" / NET: "He removed the male cultic prostitutes from the land" — Hebrew "qadeshim" (see note on 14:24). NET's "male cultic prostitutes" is more technically precise; ASV/WEB's "sodomites" follows KJV tradition but imports a later theological association (from Sodom) onto a Hebrew term meaning "holy/consecrated ones" in pagan worship.
+
+- v.14 — ASV: "the high places were not taken away" / WEB: "the high places were not taken away" / NET: "The high places were not eliminated" — Hebrew "bamot" = high places (elevated worship sites). This formula appears repeatedly in Kings to evaluate even good kings — their failure to remove unauthorized worship sites. The "high places" are the persistent test of reforming kings throughout the narrative.
+
+- v.13 — ASV: "she had made an abominable image for an Asherah" / WEB: "she had made an abominable image for an Asherah" / NET: "she had made a loathsome Asherah pole" — Hebrew "miphletseth" = horrible/terrifying thing (hapax legomenon — used only here). ASV/WEB distinguish between the "abominable image" and the Asherah; NET collapses them. The queen mother's idol was apparently a particularly offensive form of Asherah worship.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God's covenant faithfulness outlasts human failure (v.4). Abijam

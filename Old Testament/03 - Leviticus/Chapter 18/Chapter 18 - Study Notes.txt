@@ -147,55 +147,66 @@ Charles Spurgeon:
   a man do, he shall live in them.' God's boundaries are not prison walls;
   they are garden walls — keeping death out and life in."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3  — KJV: "After the doings of the land of Egypt" / ESV: "You shall not
-       do as they do in the land of Egypt" — Hebrew "k'ma'aseh eretz
-       mitzrayim... lo ta'asu" — according to the deeds of the land of
-       Egypt you shall not do. KJV preserves the Hebrew word order; ESV
-       restructures for clarity. Both convey the same prohibition.
+v.2  — Hebrew "ani YHWH elohekem" — I am the LORD your God.
+       KJV: "I am the LORD your God"
+       ASV: "I am Jehovah your God"
+       NET: "I am the Lord your God"
+       WEB: "I am Yahweh your God"
+       Analysis: The self-identification formula anchors all commands in divine identity. The personal name appears as the authority behind every prohibition in this chapter.
 
-v.5  — KJV: "he shall live in them" / ESV: "he shall live by them" —
-       Hebrew "va-chai ba-hem" — and he shall live in/by them. The
-       preposition "ba" can mean "in" or "by." Paul quotes this in Romans
-       10:5 and Galatians 3:12 to contrast law-righteousness with
-       faith-righteousness.
+v.3  — Hebrew "k'ma'aseh eretz mitzrayim... lo ta'asu" — according to the deeds of the land of Egypt you shall not do.
+       KJV: "After the doings of the land of Egypt"
+       ESV: "You shall not do as they do in the land of Egypt"
+       ASV: "After the doings of the land of Egypt... shall ye not do"
+       NET: "You must not do as they do in the land of Egypt"
+       Analysis: KJV/ASV preserve the Hebrew word order; ESV/NET restructure for clarity. Both convey the same prohibition. The command defines Israel's sexual ethics negatively (not like Egypt, not like Canaan) and positively (follow God's statutes).
 
-v.6  — KJV: "to uncover their nakedness" / ESV: "to uncover nakedness" —
-       Hebrew "l'galot ervah" — to uncover nakedness. A euphemism for
-       sexual relations. "Ervah" (nakedness/exposure) becomes the key term
-       throughout the chapter. The phrase occurs over 20 times in this
-       chapter alone.
+v.5  — Hebrew "va-chai ba-hem" — and he shall live in/by them.
+       KJV: "he shall live in them"
+       ESV: "he shall live by them"
+       ASV: "which if a man do, he shall live in them"
+       NET: "anyone who does so will live by keeping them"
+       WEB: "which if a man does, he shall live in them"
+       Analysis: The preposition "ba" can mean "in" or "by." Paul quotes this in Romans 10:5 and Galatians 3:12 to contrast law-righteousness with faith-righteousness. The promise of "life" through obedience is conditional — and impossible apart from grace.
 
-v.17 — KJV: "it is wickedness" / ESV: "it is depravity" — Hebrew "zimmah"
-       — a plan, scheme, or heinous sin. Implies deliberate, calculated
-       wickedness. ESV's "depravity" captures the intentional nature.
+v.6  — Hebrew "l'galot ervah" — to uncover nakedness.
+       KJV: "to uncover their nakedness"
+       ESV: "to uncover nakedness"
+       ASV: "to uncover their nakedness"
+       NET: "to have sexual relations with her"
+       Analysis: A euphemism for sexual relations. "Ervah" (nakedness/exposure) becomes the key term throughout the chapter — occurring over 20 times. NET renders the Hebrew euphemism explicitly as "have sexual relations." ASV/KJV preserve the Hebrew idiom.
 
-v.21 — KJV: "let any of thy seed pass through the fire to Molech" / ESV:
-       "give any of your children to offer them to Molech" — Hebrew
-       "l'ha'avir la-Molekh" — to cause to pass over to Molech. KJV adds
-       "the fire" (interpretive addition based on other passages like
-       2 Kings 23:10). ESV is more literal to this verse. Molech worship
-       involved child sacrifice by fire.
+v.17 — Hebrew "zimmah" — a plan, scheme, or heinous sin.
+       KJV: "it is wickedness"
+       ESV: "it is depravity"
+       Analysis: Implies deliberate, calculated wickedness — not a moment of weakness but a planned perversion. ESV's "depravity" captures the intentional nature.
 
-v.22 — KJV: "it is abomination" / ESV: "it is an abomination" — Hebrew
-       "to'evah" — an abomination, something detestable. A strong term of
-       moral revulsion. Used for idolatry (Deuteronomy 7:25), dishonest
-       business (Proverbs 11:1), and sexual perversion. Not merely a
-       ritual category but a moral one.
+v.21 — Hebrew "l'ha'avir la-Molekh" — to cause to pass over to Molech.
+       KJV: "let any of thy seed pass through the fire to Molech"
+       ESV: "give any of your children to offer them to Molech"
+       ASV: "thou shalt not give any of thy seed to make them pass through the fire to Molech"
+       NET: "You must not give any of your children as an offering to Molech"
+       WEB: "You shall not give any of your children to sacrifice to Molech"
+       Analysis: KJV/ASV add "the fire" (interpretive addition based on other passages like 2 Kings 23:10). ESV/NET are more literal to this verse. ASV preserves the Hebrew idiom "pass through fire"; NET and WEB interpret it as child sacrifice. Both are accurate — passing through fire WAS the sacrifice.
 
-v.23 — KJV: "it is confusion" / ESV: "it is perversion" — Hebrew "tevel"
-       — confusion, mixing, perversion. The word implies a violation of
-       created order — a mixing of what God has separated. KJV's
-       "confusion" captures the disorder; ESV's "perversion" captures the
-       moral weight.
+v.22 — Hebrew "to'evah" — an abomination, something detestable.
+       KJV: "it is abomination"
+       ESV: "it is an abomination"
+       Analysis: A strong term of moral revulsion. Used for idolatry (Deuteronomy 7:25), dishonest business (Proverbs 11:1), and sexual perversion. Not merely a ritual category but a moral one.
 
-v.25 — KJV: "the land itself vomiteth out her inhabitants" / ESV: "the
-       land vomited out its inhabitants" — Hebrew "va-taqi ha-aretz et
-       yosh'veha" — the land vomited out its inhabitants. Vivid
-       personification: the land is nauseated by moral corruption and
-       expels those who practice it. The same verb is used for physical
-       vomiting.
+v.23 — Hebrew "tevel" — confusion, mixing, perversion.
+       KJV: "it is confusion"
+       ESV: "it is perversion"
+       Analysis: The word implies a violation of created order — a mixing of what God has separated. KJV's "confusion" captures the disorder; ESV's "perversion" captures the moral weight.
+
+v.25 — Hebrew "va-taqi ha-aretz et yosh'veha" — the land vomited out its inhabitants.
+       KJV: "the land itself vomiteth out her inhabitants"
+       ESV: "the land vomited out its inhabitants"
+       ASV: "the land is defiled... the land vomiteth out her inhabitants"
+       NET: "the land has become defiled... it has vomited out its inhabitants"
+       Analysis: Vivid personification: the land is nauseated by moral corruption and expels those who practice it. The same verb is used for physical vomiting. NET's "has vomited out" shows the result; the land expels sinful peoples. This applies equally to Israel if they disobey (v.28).
 
 GLOSSARY
 ------------------------------------

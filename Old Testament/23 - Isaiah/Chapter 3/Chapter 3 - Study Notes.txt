@@ -139,6 +139,22 @@ Baldness       — Shaving the head was a sign of mourning and shame
                pride in elaborate hairstyles, forced baldness was
                maximum humiliation.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "the Lord, Jehovah of hosts" / WEB: "the Lord, Yahweh of Armies" / NET: "the Sovereign Lord of Heaven's Armies" — Triple divine title. NET renders "Adonai Yahweh Tseba'oth" with maximum interpretive expansion ("Sovereign Lord of Heaven's Armies"), while ASV/WEB preserve the distinct names. NET also paraphrases "stay and staff" as "every source of security."
+
+- v.3 — ASV: "the skilful enchanter" / WEB: "the clever enchanter" / NET: "those who know incantations" — Hebrew "nechon lachash" is debated. KJV renders "eloquent orator" (taking it positively), while ASV/WEB/NET all interpret it as sorcery/magic, reflecting the context of divination in v.2.
+
+- v.12 — NET: "Oppressors treat my people cruelly; creditors rule over them" vs. KJV "children are their oppressors, and women rule over them" — NET completely reinterprets the Hebrew. KJV/ASV/WEB follow the literal text (children/women as rulers indicating social inversion), while NET avoids the gender reference entirely, substituting "creditors."
+
+- v.15 — ASV: "saith the Lord, Jehovah of hosts" / WEB: "says the Lord, Yahweh of Armies" / NET: "The Sovereign Lord of Heaven's Armies has spoken" — God personally indicts the oppressors. The divine name emphasizes His covenant authority to judge His own people's leaders.
+
+- v.16 — NET: "They skip along and the jewelry on their ankles jingles" vs. ASV: "walking and mincing as they go, and making a tinkling with their feet" — Hebrew "ta'aknah" (mincing/tripping steps) is rendered differently. NET's "skip along" is casual; ASV's "mincing" conveys the deliberate, attention-seeking gait better.
+
+- v.17 — NET: "the Lord will make the front of their heads bald" vs. ASV: "Jehovah will lay bare their secret parts" / WEB: "Yahweh will make their scalps bald" — The Hebrew "pot" is debated (forehead? secret parts?). ASV follows the interpretation of shameful exposure; NET/WEB limit it to baldness of the scalp.
+
+- v.24 — NET: "a prisoner's brand will replace beauty" vs. KJV "burning instead of beauty" — NET makes explicit that the "burning" (Hebrew "ki") refers to branding prisoners of war, adding interpretive specificity that the literal translations leave open.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God's judgment sometimes looks like REMOVAL rather than

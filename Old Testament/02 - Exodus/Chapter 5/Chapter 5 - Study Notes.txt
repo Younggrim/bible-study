@@ -108,43 +108,83 @@ Charles Spurgeon:
   obey God and things get worse — do not conclude that God has failed. He is
   working. The darkest hour precedes the dawn."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "Let my people go" / ESV: "Let my people go" — Hebrew
-       "shallach et ammi" — send away / release my people. Both translations
-       identical. A royal command from the King of kings to an earthly king.
+v.1  — Hebrew "shallach et ammi" — send away/release my people.
+       KJV: "Let my people go, that they may hold a feast unto me"
+       ESV: "Let my people go, that they may hold a feast to me"
+       ASV: "Let my people go, that they may hold a feast unto me"
+       NET: "Release my people so that they may hold a pilgrim feast"
+       WEB: "Let my people go, that they may hold a feast to me"
+       Analysis: NET uniquely adds "pilgrim" to qualify the feast,
+       interpreting Hebrew "chag" as a pilgrimage festival. All others simply
+       say "feast." A royal command from the King of kings to an earthly king
+       — the defining phrase of the Exodus narrative.
 
-v.2  — KJV: "I know not the LORD" / ESV: "I do not know the LORD" —
-       Hebrew "lo yadati et YHWH" — I do not acknowledge/recognize YHWH.
-       Both translations equivalent. Not ignorance but defiance — Pharaoh
-       refuses to recognize YHWH's authority.
+v.2  — Hebrew "lo yadati et YHWH" — I do not acknowledge/recognize YHWH.
+       KJV: "I know not the LORD"
+       ESV: "I do not know the LORD"
+       ASV: "I know not Jehovah"
+       NET: "I do not know the LORD"
+       WEB: "Who is Yahweh, that I should listen to his voice to let Israel go? I don't know Yahweh"
+       Analysis: WEB spells out the divine name, making Pharaoh's defiance
+       more personal and confrontational — he rejects a named deity, not an
+       abstract title. Not ignorance but defiance — Pharaoh refuses to
+       recognize YHWH's authority. ASV uses "Jehovah" for the same effect.
 
-v.7  — KJV: "straw" / ESV: "straw" — Hebrew "teben" — chopped straw mixed
-       with clay to strengthen bricks. Without it, bricks crumble. Both
-       translations identical.
+v.7  — Hebrew "teben" — chopped straw mixed with clay to strengthen bricks.
+       KJV: "straw"
+       ESV: "straw"
+       ASV: "straw"
+       NET: "straw"
+       WEB: "straw"
+       Analysis: All translations identical. Without straw, bricks crumble.
+       This is Pharaoh's cruel escalation — demanding results without
+       providing necessary materials.
 
-v.8  — KJV: "the tale of the bricks" / ESV: "the number of bricks" —
-       Hebrew "matkonet hallevenim." The KJV's "tale" = tally/count (archaic
-       English). The ESV's "number" is the modern equivalent. Same meaning:
-       the production quota remains unchanged.
+v.8  — Hebrew "matkonet hallevenim" — the tally/quota of bricks; "nirpim" — idle/slack.
+       KJV: "the tale of the bricks... they be idle"
+       ESV: "the number of bricks... they are idle"
+       ASV: "the number of bricks... they are idle"
+       NET: "the same quota of bricks... they are slackers"
+       WEB: "the same number of bricks... they are idle"
+       Analysis: KJV's "tale" = tally/count (archaic English). NET's
+       "slackers" is a vivid modern idiom for "nirpim" — capturing Pharaoh's
+       contempt effectively. All others use "idle." The production quota
+       remains unchanged despite removing straw — impossible cruelty.
 
-v.21 — KJV: "made our savour to be abhorred" / ESV: "made us stink" —
-       Hebrew "hiv'ashtem et reichenu" — you have made our smell/reputation
-       stink. The ESV is more blunt and literal; the KJV is more formal.
-       Both capture the vivid metaphor: Moses has made Israel repulsive to
-       Pharaoh.
+v.21 — Hebrew "hiv'ashtem et reichenu" — you have made our smell/reputation stink.
+       KJV: "ye have made our savour to be abhorred"
+       ESV: "you have made us stink"
+       ASV: "ye have made our savor to be abhorred"
+       NET: "you have made us stink in the opinion of Pharaoh"
+       WEB: "you have made us a stench"
+       Analysis: ESV/WEB are blunt and literal. KJV/ASV are more formal.
+       NET captures the Hebrew idiom most forcefully by adding "in the
+       opinion of Pharaoh" — making the social dimension explicit. Moses has
+       made Israel repulsive to Pharaoh.
 
-v.22 — KJV: "evil entreated" / ESV: "done evil to" — Hebrew "hare'ota" —
-       to do evil to, to bring harm upon. The ESV is more direct. Moses
-       accuses God of harming His own people — raw, honest prayer.
+v.22 — Hebrew "hare'ota" — to do evil to, to bring harm upon.
+       KJV: "Lord, wherefore hast thou so evil entreated this people?"
+       ESV: "O Lord, why have you done evil to this people?"
+       ASV: "Lord, wherefore hast thou dealt ill with this people?"
+       NET: "Lord, why have you caused trouble for this people?"
+       WEB: "Lord, why have you treated this people so badly?"
+       Analysis: Moses accuses God of harming His own people — raw, honest
+       prayer. NET softens to "caused trouble." WEB paraphrases with
+       "treated badly." ESV's "done evil" is most direct. ASV's "dealt ill"
+       is archaic but forceful. God can handle our frustration.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "Release my people so that they may hold a pilgrim feast" — NET uniquely adds "pilgrim" to qualify the feast, interpreting the Hebrew "chag" as a pilgrimage festival; ASV/WEB simply say "feast."
-- v.2 — WEB: "Who is Yahweh, that I should listen to his voice to let Israel go? I don't know Yahweh" — by spelling out the divine name, WEB makes Pharaoh's defiance more personal and confrontational — he rejects a named deity, not an abstract title.
-- v.8 — NET: "they are slackers" — vivid modern idiom for Hebrew "nirpim" (idle/slack); ASV: "they are idle"; WEB: "they are idle." NET's colloquial choice captures Pharaoh's contempt effectively.
-- v.21 — NET: "you have made us stink in the opinion of Pharaoh" — captures the Hebrew idiom "hiv'ashtem et reichenu" (made our scent stink) more forcefully than ASV's formal "made our savor to be abhorred." WEB: "made us a stench."
-- v.23 — NET: "you have certainly not rescued them!" — the emphatic construction mirrors the Hebrew infinitive absolute "v'hatzel lo hitzalta"; ASV: "neither hast thou delivered thy people at all" — preserves the double negative emphasis differently.
+v.23 — Hebrew "v'hatzel lo hitzalta" — emphatic infinitive absolute construction.
+       KJV: "neither hast thou delivered thy people at all"
+       ESV: "you have not delivered your people at all"
+       ASV: "neither hast thou delivered thy people at all"
+       NET: "you have certainly not rescued them!"
+       WEB: "you haven't delivered your people at all"
+       Analysis: The Hebrew infinitive absolute creates intense emphasis.
+       NET mirrors this with "certainly not" and an exclamation mark.
+       KJV/ASV use the double negative "neither... at all" for the same
+       effect. Moses expected instant deliverance — God has a longer plan.
 
 GLOSSARY
 ------------------------------------

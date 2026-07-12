@@ -111,42 +111,119 @@ Enduring Word (David Guzik):
 
 Charles Spurgeon:
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1 — KJV: "meat offering" / ESV: "grain offering" — Hebrew "minchah" —
- The KJV "meat" is archaic English for "food" (not flesh). The ESV
- correctly renders it "grain offering" for modern readers. The minchah
- was always a non-animal, cereal/grain offering.
+v.1  — Hebrew "minchah" — grain offering, gift/tribute.
+       KJV: "meat offering"
+       ESV: "grain offering"
+       ASV: "meal-offering"
+       NET: "grain offering"
+       WEB: "meal-offering"
+       Analysis: KJV's "meat" is archaic English for "food" (not flesh).
+       ASV/WEB modernize to "meal-offering," while NET/ESV use "grain
+       offering" — the clearest rendering for modern readers. The minchah
+       was always a non-animal, cereal/grain offering.
 
-v.2 — KJV: "sweet savour" / ESV: "pleasing aroma" — Hebrew "reyach
- nichoach" — literally "a soothing/restful scent." God finds
- satisfaction in the offering. Same phrase used of Noah's sacrifice
- (Gen 8:21).
+v.1  — Hebrew "soleth" — fine flour.
+       KJV: "fine flour"
+       ESV: "fine flour"
+       ASV: "fine flour"
+       NET: "choice wheat flour"
+       WEB: "fine flour"
+       Analysis: NET specifies "choice wheat flour," emphasizing the quality
+       and type of flour. This makes explicit what the other translations
+       leave implicit.
 
-v.4 — KJV: "baken in the oven" / ESV: "baked in the oven" — Hebrew
- "tannur" — a clay oven. The three cooking methods (oven, griddle, pan)
- may represent different intensities of Christ's suffering/testing.
+v.1  — Hebrew YHWH — the divine name.
+       KJV: "unto the LORD"
+       ESV: "to the LORD"
+       ASV: "unto Jehovah"
+       NET: "to the Lord"
+       WEB: "to Yahweh"
+       Analysis: The consistent divine name difference: ASV renders YHWH as
+       "Jehovah," WEB as "Yahweh," and NET follows the conventional "the
+       Lord."
 
-v.4 — KJV: "unleavened cakes... mingled with oil, or unleavened wafers
- anointed with oil" / ESV: "unleavened loaves... mixed with oil or
- unleavened wafers smeared with oil" — Two forms: oil mixed IN (the
- Spirit's indwelling from conception) and oil applied ON (the Spirit's
- anointing for ministry).
+v.2  — Hebrew "hiqtir" — to burn as incense/offering. Hebrew "azkarah" —
+       memorial portion.
+       KJV: "sweet savour, even the memorial of it"
+       ESV: "a pleasing aroma to the LORD"
+       ASV: "burn it as the memorial"
+       NET: "offer its memorial portion up in smoke"
+       WEB: "burn its memorial"
+       Analysis: NET's "offer up in smoke" (Hebrew "hiqtir") distinguishes
+       the ritual burning from destructive burning. "Memorial portion"
+       (Hebrew "azkarah") clarifies what is being offered. KJV preserves
+       "memorial" — the portion that brings the worshipper to God's
+       remembrance. ESV omits this nuance.
 
-v.5 — KJV: "baken in a pan" / ESV: "baked on a griddle" — Hebrew
- "machabath" — a flat plate or griddle, open to view. The pan offering
- (v.7, Hebrew "marchesheth") was a deeper, covered vessel.
+v.4  — Hebrew "tannur" — a clay oven.
+       KJV: "baken in the oven"
+       ESV: "baked in the oven"
+       ASV: "baked in the oven"
+       NET: "baked in an oven"
+       WEB: "baked in the oven"
+       Analysis: All translations agree. The three cooking methods (oven,
+       griddle, pan) may represent different intensities of Christ's
+       suffering/testing.
 
-v.13 — KJV: "salt of the covenant of thy God" / ESV: "salt of the covenant
- with your God" — Hebrew "melach berith" — salt as a symbol of
- permanence and preservation. A "covenant of salt" was an unbreakable
- agreement (Num 18:19; 2 Chr 13:5).
+v.4  — Hebrew describes two forms: oil mixed IN and oil applied ON.
+       KJV: "unleavened cakes... mingled with oil, or unleavened wafers
+       anointed with oil"
+       ESV: "unleavened loaves... mixed with oil or unleavened wafers
+       smeared with oil"
+       ASV: "unleavened cakes mingled with oil, or unleavened wafers
+       anointed with oil"
+       NET: "unleavened loaves mixed with olive oil or unleavened wafers
+       smeared with olive oil"
+       WEB: "unleavened cakes mingled with oil, or unleavened wafers
+       anointed with oil"
+       Analysis: Two forms: oil mixed IN (the Spirit's indwelling from
+       conception) and oil applied ON (the Spirit's anointing for ministry).
+       NET specifies "olive oil" for clarity.
 
-v.14 — KJV: "green ears of corn dried by the fire, even corn beaten out of
- full ears" / ESV: "fresh ears, roasted with fire, crushed new grain" —
- Hebrew "karmel" (fresh/full grain) and "aviv" (young ears). The KJV
- "corn" means grain generally (not maize). The firstfruits offering
- pictures Christ as the firstfruits of resurrection (1 Cor 15:20).
+v.5  — Hebrew "machabath" — a flat plate or griddle.
+       KJV: "baken in a pan"
+       ESV: "baked on a griddle"
+       ASV: "baked on a griddle"
+       NET: "made on a griddle"
+       WEB: "on a griddle"
+       Analysis: ESV/ASV/NET/WEB are more precise; KJV's "pan" suggests
+       sides/depth. The pan offering (v.7, Hebrew "marchesheth") was a
+       deeper, covered vessel.
+
+v.9  — Hebrew "re'ach nichoach" — a soothing/restful scent.
+       KJV: "a sweet savour unto the LORD"
+       ESV: "a pleasing aroma to the LORD"
+       ASV: "a sweet savor unto Jehovah"
+       NET: "a gift of a soothing aroma to the Lord"
+       WEB: "a pleasant aroma to Yahweh"
+       Analysis: Three different renderings: NET adds "gift" (from "isheh"),
+       WEB modernizes to "pleasant," and ASV retains the archaic "sweet
+       savor." God finds satisfaction in the offering.
+
+v.13 — Hebrew "melach berith" — salt of the covenant.
+       KJV: "salt of the covenant of thy God"
+       ESV: "salt of the covenant with your God"
+       ASV: "salt of the covenant of thy God"
+       NET: "salt of the covenant of your God"
+       WEB: "salt of the covenant of your God"
+       Analysis: All translations preserve "the salt of the covenant" —
+       one of the few phrases where all versions agree almost word-for-word.
+       The universality shows the clarity of the Hebrew. Salt preserves and
+       does not decay — like God's covenant.
+
+v.14 — Hebrew "karmel" (fresh/full grain) and "aviv" (young ears).
+       KJV: "green ears of corn dried by the fire, even corn beaten out of
+       full ears"
+       ESV: "fresh ears, roasted with fire, crushed new grain"
+       ASV: "grain of the fresh ear parched with fire, bruised grain of
+       the fresh ear"
+       NET: "ripe grain roasted in fire, crushed bits of fresh grain"
+       WEB: "fresh grain parched with fire, bruised grain of the fresh ear"
+       Analysis: KJV's "corn" means grain generally (not maize). ESV/NET
+       are the clearest for modern readers. The firstfruits offering
+       pictures Christ as the firstfruits of resurrection (1 Cor 15:20).
 
 GLOSSARY
 ------------------------------------

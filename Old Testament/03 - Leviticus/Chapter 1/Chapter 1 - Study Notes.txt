@@ -96,44 +96,99 @@ Charles Spurgeon:
   your hand on HIS head — trust Him, lean on Him, transfer your guilt to
   Him — and His acceptance becomes yours."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "the tabernacle of the congregation" / ESV: "the tent of
-       meeting" — Hebrew "ohel mo'ed" — the tent of meeting/appointment.
-       ESV is more literal; KJV's "tabernacle of the congregation" conflates
-       two terms. This is where God MEETS with His people.
+v.1  — Hebrew "ohel mo'ed" — tent of meeting/appointment.
+       KJV: "the tabernacle of the congregation"
+       ESV: "the tent of meeting"
+       ASV: "the tent of meeting"
+       NET: "the Meeting Tent"
+       WEB: "the Tent of Meeting"
+       Analysis: ESV/ASV are most literal. KJV's "tabernacle of the
+       congregation" conflates two terms. NET capitalizes and reverses word
+       order to emphasize function. All except KJV avoid "tabernacle of the
+       congregation." This is where God MEETS with His people.
 
-v.2  — KJV: "If any man of you bring an offering" / ESV: "When any one of
-       you brings an offering" — Hebrew "ki yaqriv" — when he brings near.
-       ESV's "when" (not "if") suggests this is expected, not optional.
-       "Offering" — Hebrew "qorban" — from "qarab" (to draw near). An
+v.1  — Hebrew YHWH — the divine name (tetragrammaton).
+       KJV: "the LORD"
+       ESV: "the LORD"
+       ASV: "Jehovah"
+       NET: "the Lord"
+       WEB: "Yahweh"
+       Analysis: ASV uses "Jehovah" and WEB uses "Yahweh" for the divine
+       name, where KJV/ESV render "the LORD" in small caps. NET uses "the
+       Lord." Each reflects a different tradition for handling the
+       tetragrammaton.
+
+v.2  — Hebrew "ki yaqriv" — when he brings near. "Qorban" from "qarab"
+       (to draw near).
+       KJV: "If any man of you bring an offering"
+       ESV: "When any one of you brings an offering"
+       ASV: "offereth an oblation"
+       NET: "presents an offering"
+       WEB: "offers an offering"
+       Analysis: ESV's "when" (not "if") suggests this is expected, not
+       optional. ASV uses the archaic "oblation" (Hebrew "qorban"). NET's
+       "presents an offering" is the most natural modern English. An
        offering is what brings you near to God.
 
-v.3  — KJV: "a burnt sacrifice" / ESV: "a burnt offering" — Hebrew "olah"
-       — that which ascends/goes up. The entire animal ascends to God in
-       smoke. ESV's "offering" is more precise than KJV's "sacrifice"
-       (though both are valid).
+v.3  — Hebrew "olah" — that which ascends/goes up. Hebrew "tamim" —
+       without blemish, perfect.
+       KJV: "a burnt sacrifice... a male without blemish"
+       ESV: "a burnt offering... a male without blemish"
+       ASV: "a male without blemish"
+       NET: "a flawless male"
+       WEB: "a male without defect"
+       Analysis: ESV's "offering" is more precise than KJV's "sacrifice"
+       (though both are valid). NET's "flawless" and WEB's "without defect"
+       modernize KJV/ASV's "without blemish," each capturing the idea of
+       physical perfection required in sacrifice.
 
-v.3  — KJV: "of his own voluntary will" / ESV: "that he may be accepted" —
-       Hebrew "lirtsono" — for his acceptance/pleasure. Significant
-       difference: KJV reads it as the worshipper's voluntary will; ESV
-       reads it as God's acceptance of the worshipper. The Hebrew supports
-       both: the offering is voluntary AND results in acceptance.
+v.3  — Hebrew "lirtsono" — for his acceptance/pleasure.
+       KJV: "of his own voluntary will"
+       ESV: "that he may be accepted"
+       ASV: "that he may be accepted"
+       NET: "so that the Lord might accept it on his behalf"
+       WEB: "for his acceptance"
+       Analysis: Significant difference: KJV reads it as the worshipper's
+       voluntary will; ESV/ASV/NET/WEB read it as God's acceptance of the
+       worshipper. The Hebrew supports both: the offering is voluntary AND
+       results in acceptance.
 
-v.4  — KJV: "atonement" / ESV: "atonement" — Both identical. Hebrew
-       "kaphar" — to cover, to make propitiation. The animal's death covers
-       the worshipper's sin.
+v.4  — Hebrew "kaphar" — to cover, to make propitiation.
+       KJV: "atonement"
+       ESV: "atonement"
+       ASV: "atonement"
+       NET: "atonement"
+       WEB: "atonement"
+       Analysis: All translations identical. The animal's death covers the
+       worshipper's sin. Universal agreement reflects the clarity of the
+       Hebrew term.
 
-v.9  — KJV: "a sweet savour unto the LORD" / ESV: "a food offering with a
-       pleasing aroma to the LORD" — Hebrew "re'ach nichoach" — a soothing/
-       restful aroma. ESV adds "food offering" (Hebrew "isheh" — fire
-       offering). The ESV's "pleasing aroma" is more natural than KJV's
-       "sweet savour."
+v.9  — Hebrew "re'ach nichoach" — a soothing/restful aroma. Hebrew "isheh"
+       — fire offering/gift.
+       KJV: "a sweet savour unto the LORD"
+       ESV: "a food offering with a pleasing aroma to the LORD"
+       ASV: "a sweet savor unto Jehovah"
+       NET: "a gift of a soothing aroma to the Lord"
+       WEB: "a pleasant aroma to Yahweh"
+       Analysis: NET uniquely adds "gift" (translating Hebrew "isheh") and
+       uses "soothing aroma." ESV adds "food offering." WEB modernizes to
+       "pleasant." ASV retains the archaic "sweet savor." The divine name
+       difference is also visible here. NET renders "hiqtir" as "offer up
+       in smoke" rather than simply "burn," clarifying that the burning is
+       a ritual act of sending the offering heavenward, not mere
+       destruction.
 
-v.14 — KJV: "of fowls" / ESV: "of birds" — Hebrew "min ha'oph" — from the
-       birds. ESV uses modern "birds"; KJV uses archaic "fowls." The
-       provision for the poor: even those who cannot afford cattle or sheep
-       can bring turtledoves or pigeons.
+v.14 — Hebrew "min ha'oph" — from the birds.
+       KJV: "of fowls"
+       ESV: "of birds"
+       ASV: "of birds"
+       NET: "of birds"
+       WEB: "of birds"
+       Analysis: ESV/ASV/NET/WEB use modern "birds"; KJV uses archaic
+       "fowls." The provision for the poor: even those who cannot afford
+       cattle or sheep can bring turtledoves or pigeons.
 
 GLOSSARY
 ------------------------------------

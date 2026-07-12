@@ -73,6 +73,16 @@ v.8   — Isaiah 64:8 — "We are the clay, and thou our potter."
 COMMENTARY REFERENCES
 ------------------------------------
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — KJV: "before the gods will I sing praise unto thee" / NET: "before the heavenly assembly I will sing praises to you" — NET interprets "gods" (Hebrew "elohim") as the heavenly court/divine council rather than pagan deities, a significant theological choice.
+- v.2 — KJV: "for thy lovingkindness and for thy truth" / ASV: "for thy lovingkindness and for thy truth" / WEB: "for your loving kindness and for your truth" / NET: "because of your loyal love and faithfulness" — Chesed + emet pairing: KJV/ASV/WEB=lovingkindness+truth; NET=loyal love+faithfulness.
+- v.2 — KJV: "thou hast magnified thy word above all thy name" / WEB: "you have exalted your Name and your Word above all" / NET: "you have exalted your promise above the entire sky" — Three very different readings of a difficult Hebrew text. NET reads "shamayim" (sky/heavens) rather than "shem" (name).
+- v.3 — NET: "You made me bold and energized me" — Dynamic paraphrase of KJV's "strengthenedst me with strength in my soul." NET splits the concept into boldness (attitude) and energy (capacity).
+- v.6 — NET: "from far away humbles the proud" — Interprets KJV's "the proud he knoweth afar off" differently. KJV suggests God perceives the proud from a distance; NET says God humbles them from a distance.
+- v.8 — KJV: "The LORD will perfect that which concerneth me" / ASV: "Jehovah will perfect that which concerneth me" / WEB: "Yahweh will fulfill that which concerns me" / NET: "The Lord avenges me" — NET dramatically changes "perfect/fulfill" (Hebrew "gamar" = complete/accomplish) to "avenges," a very different theological emphasis.
+- v.8 — KJV: "thy mercy, O LORD, endureth for ever" / ASV: "Thy lovingkindness, O Jehovah" / WEB: "your loving kindness, Yahweh, endures forever" / NET: "your loyal love endures" — Chesed in the psalm's final prayer.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God magnifies His Word (v.2). If God values His word above

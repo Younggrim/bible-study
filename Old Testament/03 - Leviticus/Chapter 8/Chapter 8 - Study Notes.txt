@@ -168,60 +168,117 @@ Charles Spurgeon:
   consecrated — not merely the tongue on Sunday, but the ear all week, the
   hand all day, the foot every step."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.7  — KJV: "girded him with the girdle... the curious girdle of the ephod"
-       / ESV: "tied the sash around his waist... the skillfully woven band
-       of the ephod" — Hebrew "avnet" (sash) and "cheshev" (skillfully
-       woven band). KJV's "curious" means "skillfully made" (archaic).
-       ESV clarifies. KJV's "girdle" = sash/belt.
+v.7  — Hebrew "avnet" (sash) and "cheshev ha-ephod" (skillfully woven band
+       of the ephod).
+       KJV: "girded him with the girdle... the curious girdle of the ephod"
+       ESV: "tied the sash around his waist... the skillfully woven band
+       of the ephod"
+       ASV: "girded him with the girdle... the skilfully woven band of the
+       ephod"
+       NET: "wrapped the sash around him... the decorated band of the ephod"
+       WEB: "tied the sash on him... the skillfully woven band of the ephod"
+       Analysis: KJV's "curious" means "skillfully made" (archaic). KJV's
+       "girdle" = sash/belt. Three very different renderings of "cheshev
+       ha-ephod": KJV's archaic "curious girdle," ASV/WEB describe how it
+       was made, NET describes its appearance.
 
-v.8  — KJV: "the breastplate" / ESV: "the breastpiece" — Hebrew "choshen."
-       ESV's "breastpiece" is more accurate — it was a pouch/pocket
-       containing the Urim and Thummim, not armor.
+v.8  — Hebrew "choshen" — the breastpiece.
+       KJV: "the breastplate"
+       ESV: "the breastpiece"
+       ASV: "the breastplate"
+       NET: "the breastpiece"
+       WEB: "the breastplate"
+       Analysis: ESV/NET use "breastpiece" — more accurate since it was a
+       pouch/pocket containing the Urim and Thummim, not armor. KJV/ASV/
+       WEB's "breastplate" has military connotations that don't fit.
 
-v.9  — KJV: "the mitre" / ESV: "the turban" — Hebrew "mitsnepheth." A
-       wrapped head covering. ESV's "turban" is more descriptive for modern
-       readers. KJV's "mitre" (from Latin mitra) is now associated with
-       bishops' hats.
+v.9  — Hebrew "mitsnepheth" — a wrapped head covering. Hebrew "nezer
+       ha-qodesh" — the holy crown. Hebrew YHWH — the divine name.
+       KJV: "the mitre... the holy crown"
+       ESV: "the turban... the holy crown"
+       ASV: "the mitre... the holy crown"
+       NET: "the turban... the holy diadem"
+       WEB: "the turban... the holy crown"
+       Analysis: ESV/NET/WEB's "turban" is more descriptive for modern
+       readers. KJV/ASV's "mitre" (from Latin mitra) is now associated with
+       bishops' hats. ASV has "Jehovah commanded Moses," WEB "Yahweh
+       commanded Moses," NET "the Lord commanded Moses" — the ordination is
+       commanded by YHWH personally.
 
-v.9  — KJV: "the holy crown" / ESV: "the holy crown" — Hebrew "nezer
-       ha-qodesh." Both identical. The golden plate engraved "HOLINESS TO
-       THE LORD" — the priest's crown is holiness itself.
+v.10 — Hebrew "vay'qaddesh" — sanctified/consecrated.
+       KJV: "sanctified them"
+       ESV: "consecrated them"
+       ASV: "sanctified them"
+       NET: "consecrated it"
+       WEB: "sanctified them"
+       Analysis: "Sanctify" and "consecrate" translate the same Hebrew root
+       (q-d-sh): to set apart for sacred use. Both are valid.
 
-v.10 — KJV: "sanctified them" / ESV: "consecrated them" — Hebrew
-       "vay'qaddesh." Both valid. "Sanctify" and "consecrate" translate the
-       same Hebrew root (q-d-sh): to set apart for sacred use.
+v.13 — Hebrew "migba'oth" — simple head coverings.
+       KJV: "bonnets"
+       ESV: "caps"
+       ASV: "head-tires"
+       NET: "headbands"
+       WEB: "headbands"
+       Analysis: Simple head coverings for the ordinary priests (distinct
+       from the high priest's turban). KJV's "bonnets" is archaic. All
+       modern translations update the term.
 
-v.13 — KJV: "bonnets" / ESV: "caps" — Hebrew "migba'oth." Simple head
-       coverings for the ordinary priests (distinct from the high priest's
-       turban). KJV's "bonnets" is archaic; ESV's "caps" is clearer.
+v.15 — Hebrew "vay'chatte" (purified/de-sinned) and "l'khapper" (to
+       atone/cover).
+       KJV: "purified the altar... to make reconciliation upon it"
+       ESV: "purified the altar... to make atonement for it"
+       ASV: "purified it... to make atonement for it"
+       NET: "he purified it... to make atonement on it"
+       WEB: "purified it... to make atonement for it"
+       Analysis: All translations agree on "purify." Hebrew "yechatte" —
+       literally "de-sinned it" — the altar itself must be purified before
+       it can receive offerings. ESV/ASV/NET/WEB's "atonement for it" is
+       precise.
 
-v.15 — KJV: "purified the altar... to make reconciliation upon it" /
-       ESV: "purified the altar... to make atonement for it" — Hebrew
-       "vay'chatte" (purified/de-sinned) and "l'khapper" (to atone/cover).
-       The altar itself needed purification before it could function as the
-       place of atonement. ESV's "atonement for it" is precise.
+v.22 — Hebrew "eil ha-millu'im" — the ram of fillings/ordination.
+       KJV: "the ram of consecration"
+       ESV: "the ram of ordination"
+       ASV: "the ram of consecration"
+       NET: "the ram of ordination"
+       WEB: "the ram of consecration"
+       Analysis: "Ordination" (ESV/NET) and "consecration" (KJV/ASV/WEB)
+       both capture the idea. Hebrew "millu'im" — literally "fillings,"
+       referring to filling the hands with priestly authority.
 
-v.22 — KJV: "the ram of consecration" / ESV: "the ram of ordination" —
-       Hebrew "eil ha-millu'im" — the ram of "fillings" (filling the
-       hands). "Ordination" (ESV) and "consecration" (KJV) both capture
-       the idea of being set apart and empowered for priestly service.
+v.23 — Hebrew "tenukh" — the ear lobe/tip.
+       KJV: "the tip of Aaron's right ear"
+       ESV: "the lobe of Aaron's right ear"
+       ASV: "the tip of Aaron's right ear"
+       NET: "the lobe of Aaron's right ear"
+       WEB: "the tip of Aaron's right ear"
+       Analysis: NET/ESV use "lobe"; KJV/ASV/WEB say "tip." Both refer to
+       the same location. Blood applied to ear (hearing), thumb (working),
+       toe (walking) — consecrating the whole person.
 
-v.23 — KJV: "the tip of Aaron's right ear" / ESV: "the lobe of Aaron's
-       right ear" — Hebrew "tenukh" — the ear lobe. ESV specifies "lobe";
-       KJV says "tip." Both refer to the same location.
-
-v.28 — KJV: "consecrations for a sweet savour" / ESV: "an ordination
-       offering with a pleasing aroma" — Hebrew "millu'im l're'ach
-       nichoach." Same translation differences as above: consecration vs.
+v.28 — Hebrew "millu'im l're'ach nichoach" — ordination for a pleasing
+       aroma.
+       KJV: "consecrations for a sweet savour"
+       ESV: "an ordination offering with a pleasing aroma"
+       ASV: "consecrations for a sweet savor"
+       NET: "an ordination offering for a soothing aroma"
+       WEB: "a consecration for a pleasant aroma"
+       Analysis: Same translation differences as above: consecration vs.
        ordination, sweet savour vs. pleasing aroma.
 
-v.33 — KJV: "seven days shall he consecrate you" / ESV: "it will take
-       seven days to ordain you" — Hebrew "shiv'ath yamim y'malle eth
-       yedkhem" — literally "seven days he will fill your hands." The
-       Hebrew idiom for ordination is "filling the hands" — placing the
-       offering portions in the priest's hands for service.
+v.33 — Hebrew "shiv'ath yamim y'malle eth yedkhem" — seven days he will
+       fill your hands.
+       KJV: "seven days shall he consecrate you"
+       ESV: "it will take seven days to ordain you"
+       ASV: "seven days shall he consecrate you"
+       NET: "the days of your ordination"
+       WEB: "the days of your consecration"
+       Analysis: The Hebrew idiom for ordination is "filling the hands" —
+       placing the offering portions in the priest's hands for service.
+       NET uses "ordination" while ASV/WEB prefer "consecration." Both are
+       valid aspects of the ceremony.
 
 GLOSSARY
 ------------------------------------

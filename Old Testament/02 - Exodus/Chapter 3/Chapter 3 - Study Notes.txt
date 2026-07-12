@@ -118,49 +118,87 @@ Charles Spurgeon:
   understood perfectly — they took up stones. I AM is either the greatest
   truth or the greatest blasphemy. There is no middle ground."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "the backside of the desert" / ESV: "the west side of the
-       wilderness" — Hebrew "achar hamidbar" — the far side, the western
-       side of the wilderness. The ESV's "west side" is geographically
-       precise; the KJV's "backside" is archaic but evocative. Moses is as
-       far from Egypt as possible.
+v.1  — Hebrew "achar hamidbar" — the far side/western side of the wilderness.
+       KJV: "the backside of the desert"
+       ESV: "the west side of the wilderness"
+       ASV: "the back of the wilderness"
+       NET: "the far side of the desert"
+       WEB: "the back of the wilderness"
+       Analysis: ESV's "west side" is geographically precise. KJV's
+       "backside" is archaic but evocative. NET's "far side" captures the
+       remoteness without archaic language. Moses is as far from Egypt as
+       possible — God meets him at the farthest point from his calling.
 
-v.2  — KJV: "the angel of the LORD" / ESV: "the angel of the LORD" —
-       Hebrew "mal'akh YHWH" — the Angel of Yahweh. In v.4, "the LORD"
-       (YHWH) speaks from the bush. The Angel of the LORD IS the LORD — a
-       pre-incarnate appearance of Christ. Both translations are identical.
+v.2  — Hebrew "mal'akh YHWH" — the Angel of Yahweh.
+       KJV: "the angel of the LORD"
+       ESV: "the angel of the LORD"
+       ASV: "the angel of Jehovah"
+       NET: "the angel of the Lord"
+       WEB: "Yahweh's angel"
+       Analysis: ASV uniquely renders the divine name as "Jehovah"
+       throughout. WEB uses "Yahweh" — both make explicit what KJV/ESV hide
+       behind "the LORD." In v.4, "the LORD" (YHWH) speaks from the bush.
+       The Angel of the LORD IS the LORD — a pre-incarnate appearance of
+       Christ. NET capitalizes "Lord" without small caps.
 
-v.3  — KJV: "this great sight" / ESV: "this great sight" — Hebrew "mar'eh
-       hagadol" — this great vision/appearance. Moses recognizes something
-       supernatural. Both translations identical.
+v.5  — Hebrew "admat qodesh" — ground of holiness.
+       KJV: "holy ground"
+       ESV: "holy ground"
+       ASV: "holy ground"
+       NET: "holy ground"
+       WEB: "holy ground"
+       Analysis: All translations agree — one of the rare places of complete
+       unanimity. Not inherently holy — made holy by God's presence.
+       Wherever God is, is holy.
 
-v.5  — KJV: "holy ground" / ESV: "holy ground" — Hebrew "admat qodesh" —
-       ground of holiness. Not inherently holy — made holy by God's
-       presence. Wherever God is, is holy.
+v.14 — Hebrew "Ehyeh asher Ehyeh" — I AM WHO/THAT I AM.
+       KJV: "I AM THAT I AM"
+       ESV: "I AM WHO I AM"
+       ASV: "I AM THAT I AM"
+       NET: "I AM that I AM"
+       WEB: "I AM WHO I AM"
+       Analysis: KJV/ASV/NET use "THAT" — more abstract/philosophical.
+       ESV/WEB use "WHO" — more personal. The relative pronoun "asher"
+       allows all renderings. NET uses lowercase "that," subtly reducing the
+       grammatical weight. God's name declares His eternal, self-existent
+       being — uncaused, unchanging, eternal.
 
-v.14 — KJV: "I AM THAT I AM" / ESV: "I AM WHO I AM" — Hebrew "Ehyeh asher
-       Ehyeh." The KJV's "THAT" and the ESV's "WHO" both translate "asher"
-       (a relative pronoun). The ESV's "WHO" is more personal; the KJV's
-       "THAT" is more abstract/philosophical. God's name declares His
-       eternal, self-existent being — uncaused, unchanging, eternal.
+v.15 — Hebrew YHWH (the Tetragrammaton) — God's personal covenant name.
+       KJV: "the LORD"
+       ESV: "the LORD"
+       ASV: "Jehovah"
+       NET: "the LORD"
+       WEB: "Yahweh, the God of your fathers"
+       Analysis: WEB is the only major English translation to spell out the
+       Tetragrammaton as "Yahweh" in running text, making the personal name
+       explicit. ASV uses "Jehovah" — an older anglicization combining YHWH
+       consonants with Adonai vowels. KJV/ESV/NET render it "LORD" (small
+       capitals). "This is my name for ever."
 
-v.15 — KJV: "the LORD" / ESV: "the LORD" — Hebrew YHWH (the
-       Tetragrammaton) — God's personal covenant name, rendered "LORD" (all
-       capitals) in both translations. "This is my name for ever."
+v.19 — Hebrew "v'lo b'yad chazaqah" — not by a mighty hand.
+       KJV: "not by a mighty hand"
+       ESV: "unless compelled by a mighty hand"
+       ASV: "not by a mighty hand"
+       NET: "not even under force"
+       WEB: "not by a mighty hand"
+       Analysis: NET gives a unique interpretive expansion, losing the idiom
+       that foreshadows God's own "mighty hand" later in Exodus. ASV/WEB/KJV
+       preserve the Hebrew idiom literally. ESV adds "unless compelled" —
+       making the meaning explicit (Pharaoh won't let them go unless forced).
 
-v.22 — KJV: "borrow" / ESV: "ask" — Hebrew "sha'al" — to ask, to request.
-       The ESV correctly renders it "ask" (not implying return). The KJV's
-       "borrow" is misleading — the Egyptians will give willingly. This is
-       back-wages for 400 years of slavery.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — ASV: "the angel of Jehovah" / WEB: "Yahweh's angel" — ASV uniquely renders the divine name as "Jehovah" throughout; WEB uses "Yahweh" — both make explicit what KJV/ESV hide behind "the LORD." NET uses "the angel of the Lord."
-- v.14 — WEB: "I AM WHO I AM" / ASV: "I AM THAT I AM" — WEB matches ESV's "WHO"; NET also uses "I AM that I AM" (lowercase "that"), matching KJV. The relative pronoun "asher" allows all renderings.
-- v.15 — WEB: "Yahweh, the God of your fathers" — WEB is the only major English translation to spell out the Tetragrammaton as "Yahweh" in running text, making the personal name explicit where others use "the LORD."
-- v.19 — NET: "not even under force" — a unique interpretive expansion of Hebrew "v'lo b'yad chazaqah" (not by a mighty hand); ASV/WEB retain "not by a mighty hand," preserving the idiom that foreshadows God's own mighty hand.
-- v.22 — NET: "you will plunder Egypt!" — NET makes the military conquest imagery explicit; ASV: "ye shall despoil the Egyptians" — retains the archaic but forceful "despoil"; WEB also uses "plunder."
+v.22 — Hebrew "sha'al" — to ask, to request.
+       KJV: "borrow"
+       ESV: "ask"
+       ASV: "ask"
+       NET: "you will plunder Egypt!"
+       WEB: "plunder"
+       Analysis: KJV's "borrow" is misleading — implying return. ESV/ASV
+       correctly render "ask" (no return implied). NET/WEB make the military
+       conquest imagery explicit with "plunder." The Egyptians will give
+       willingly — this is back-wages for 400 years of slavery. ASV retains
+       the archaic but forceful "despoil" in related phrasing.
 
 GLOSSARY
 ------------------------------------

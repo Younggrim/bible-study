@@ -107,6 +107,56 @@ v.16 — "the poor and needy man, that he might even slay the
        enemy persecuted the vulnerable. The imprecations are not
        petty — they respond to cruelty against the helpless.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — NET: "O God whom I praise, do not ignore me" / KJV: "Hold
+  not thy peace, O God of my praise" / WEB: "God of my praise,
+  don't remain silent" — NET interprets "hold not thy peace" as
+  "do not ignore me" — shifting from God's silence to God's
+  attention. WEB's "don't remain silent" is closer to the Hebrew
+  while modernizing the language.
+
+- v.6 — KJV: "let Satan stand at his right hand" / ASV: "let an
+  adversary stand at his right hand" / WEB: "Let an adversary
+  stand at his right hand" / NET: "May an accuser stand at his
+  right side" — KJV capitalizes "Satan" as a proper name (the
+  devil). ASV/WEB/NET use lowercase "adversary/accuser," treating
+  Hebrew "satan" as a common noun (a legal prosecutor). Both
+  readings are grammatically valid.
+
+- v.8 — NET: "May another take his job" / KJV: "let another take
+  his office" / ASV: "let another take his office" — NET's "job"
+  is strikingly informal for a verse quoted in Acts 1:20 regarding
+  apostolic succession. Hebrew "pekuddah" = office, position of
+  oversight. "Job" undersells the theological weight.
+
+- v.21 — KJV: "O GOD the Lord" / ASV: "O Jehovah the Lord" / WEB:
+  "Yahweh the Lord" / NET: "O Sovereign Lord" — Hebrew "Adonai
+  YHVH" — a double divine title. NET renders it "Sovereign Lord,"
+  capturing the authority. ASV/WEB render YHVH as Jehovah/Yahweh
+  while keeping "Lord" for Adonai. KJV uses "GOD" (all caps) for
+  YHVH and "Lord" for Adonai.
+
+- v.21 — KJV: "thy mercy is good" / ASV: "thy lovingkindness is
+  good" / WEB: "your loving kindness is good" / NET: "Because your
+  loyal love is good" — The chesed variation appears in David's
+  most desperate plea. The quality of God's covenant love is what
+  David stakes his survival on.
+
+- v.26 — ASV: "Oh save me according to thy lovingkindness" / WEB:
+  "Save me according to your loving kindness" / NET: "Because you
+  are faithful to me, deliver me" — NET dramatically reinterprets
+  "save me according to thy chesed" as "because you are faithful
+  to me, deliver me" — making God's faithfulness the ground rather
+  than His lovingkindness the standard.
+
+- v.31 — NET: "because he stands at the right hand of the needy to
+  deliver him from those who threaten his life" / KJV: "to save him
+  from those that condemn his soul" — NET's "threaten his life" is
+  more concrete than KJV's "condemn his soul." Hebrew "naphsho"
+  (his soul/life) — KJV preserves the soul language; NET
+  modernizes to physical threat.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "But I — prayer" (v.4). When betrayed, when slandered, when

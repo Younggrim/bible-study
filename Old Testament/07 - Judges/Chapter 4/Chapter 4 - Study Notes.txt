@@ -219,6 +219,20 @@ Mount Tabor    — A prominent dome-shaped mountain (1,843 feet) in the
                ground gave tactical advantage and forced Sisera's chariots
                to fight uphill or wait below.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.2 — ASV: "Jehovah sold them into the hand of Jabin" / WEB: "Yahweh sold them into the hand of Jabin" / NET: "The Lord turned them over to King Jabin" — Hebrew "vayyimk'rem." KJV/ASV/WEB retain the stark "sold" metaphor; NET softens to "turned them over." The "selling" language portrays God as sovereign over Israel's fate — they become slaves because He transfers ownership as judgment.
+
+- v.3 — NET: "900 chariots with iron-rimmed wheels" / ASV/WEB/KJV: "nine hundred chariots of iron" — NET again adds interpretive detail ("iron-rimmed wheels") to Hebrew "rikbey barzel." This is the same expansion seen in 1:19. The Hebrew simply says "chariots of iron" without specifying which component was iron.
+
+- v.4 — NET: "Deborah, a prophetess, wife of Lappidoth, was leading Israel at that time" / ASV: "Deborah, a prophetess, the wife of Lappidoth, she judged Israel" / WEB: "Deborah, a prophetess, the wife of Lappidoth, judged Israel" — NET renders "shophetah" (was judging) as "was leading" — again avoiding "judge" in favor of "leader." This obscures the judicial function emphasized in v.5 where people come for "judgment" (mishpat).
+
+- v.9 — ASV: "Jehovah will sell Sisera into the hand of a woman" / WEB: "Yahweh will sell Sisera into a woman's hand" / NET: "the Lord will turn Sisera over to a woman" — NET again avoids "sell" (Hebrew "yimkor"), using "turn over." The selling language is theologically significant — it parallels God "selling" Israel to Jabin (v.2). God both sells Israel to enemies and sells enemies to Israel's deliverers.
+
+- v.15 — ASV: "Jehovah discomfited Sisera" / WEB: "Yahweh confused Sisera" / NET: "The Lord routed Sisera" — Hebrew "vayyahom" = to confuse, throw into panic, discomfit. ASV retains archaic "discomfited"; WEB uses "confused"; NET interprets as "routed" (result rather than means). The same word describes God's action at the Red Sea (Exodus 14:24) and against the Philistines (1 Samuel 7:10).
+
+- v.21 — ASV: "smote the pin into his temples, and it pierced through into the ground; for he was in a deep sleep; so he swooned and died" / WEB: "struck the pin into his temples, and it pierced through into the ground; for he was in a deep sleep; so he fainted and died" / NET: "drove the tent peg through his temple into the ground while he was asleep from exhaustion, and he died" — NET streamlines the narrative; ASV/WEB preserve the Hebrew's sequential detail. ASV's "swooned" (archaic for fainted/expired) adds pathos absent from NET's direct "he died."
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God uses women when men fail to lead (vv.4,9). Deborah's leadership

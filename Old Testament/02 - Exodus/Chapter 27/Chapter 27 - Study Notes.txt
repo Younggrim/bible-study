@@ -94,44 +94,112 @@ Charles Spurgeon:
   The altar stands at the entrance because the cross stands at the beginning
   of the Christian life. Everything starts there. Everything depends on it."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "shittim wood" / ESV: "acacia wood" — Same as chapter 25.
-       The ESV translates; the KJV transliterates. Acacia is the correct
-       identification — a hard, durable desert wood.
+v.1  — Hebrew "atzei shittim" — acacia wood.
+       KJV: "shittim wood"
+       ESV: "acacia wood"
+       ASV: "acacia wood"
+       NET: "acacia wood"
+       WEB: "acacia wood"
+       Analysis: Same as chapter 25. The KJV transliterates; all modern
+       translations correctly identify acacia — a hard, durable desert wood.
+       NET converts dimensions: "7½ feet long, and 7½ feet wide... 4½ feet"
+       instead of cubits. ASV/WEB preserve the cubit measurements and their
+       symbolic significance (the altar is a perfect 5×5 square = completeness).
 
-v.2  — KJV: "brass" / ESV: "bronze" — Hebrew "nechoshet." As noted in
-       chapter 25, the metal is bronze (copper-tin alloy), not brass
-       (copper-zinc). The ESV is metallurgically correct. Bronze represents
-       judgment — the altar where sin is judged is made of the judgment
-       metal.
+v.2  — Hebrew "nechoshet... qarnot" — bronze... horns.
+       KJV: "brass... horns"
+       ESV: "bronze... horns"
+       ASV: "brass... horns"
+       NET: "bronze... horns"
+       WEB: "brass... horns"
+       Analysis: As noted in chapter 25, the metal is bronze (copper-tin),
+       not brass (copper-zinc). ESV/NET correctly render "bronze." Bronze
+       represents judgment — the altar where sin is judged is made of the
+       judgment metal. All agree on "horns" — projections at the four
+       corners for binding sacrifices, applying blood, and providing refuge.
 
-v.2  — KJV: "horns" / ESV: "horns" — Hebrew "qarnot" — projections at the
-       four corners. Both translations are identical. The horns served
-       multiple purposes: binding sacrifices, applying blood, and providing
-       refuge for those seeking mercy (1 Kings 1:50).
+v.3  — Hebrew "mizraqot" — from "zaraq," to sprinkle/toss.
+       KJV: "his basons"
+       ESV: "its basins"
+       ASV: "its basins"
+       NET: "its tossing bowls"
+       WEB: "its basins"
+       Analysis: NET's "tossing bowls" uniquely captures the function —
+       these bowls were used to toss/dash blood against the altar. KJV/ESV/
+       ASV/WEB use the generic "basins." NET's rendering makes the
+       sacrificial ritual more vivid.
 
-v.10 — KJV: "fillets" / ESV: "fillets" — Hebrew "chashukeihem" — bands,
-       connecting rods between the pillars. Both translations use "fillets"
-       (thin connecting strips). These silver bands connected the courtyard
-       pillars, creating a unified enclosure.
+v.8  — Hebrew "ka'asher her'ah otkha bahar" — as it was shown you on the mountain.
+       KJV: "as it was shewed thee in the mount, so shall they make it"
+       ESV: "as it has been shown you on the mountain, so shall it be made"
+       ASV: "as it hath been showed thee in the mount, so shall they make it"
+       NET: "Just as it was shown you on the mountain, so they must make it"
+       WEB: "They shall make it as it has been shown you on the mountain"
+       Analysis: NET adds emphasis with "Just as" and "must," strengthening
+       the divine imperative. The pattern shown on the mountain is not a
+       suggestion — it is a command. NET's rendering makes the mandatory
+       nature more forceful.
 
-v.16 — KJV: "an hanging" / ESV: "a screen" — Hebrew "masakh" — a screen,
-       a covering. The ESV's "screen" is more precise than the KJV's
-       "hanging." This is the gate — the single entrance to the courtyard,
-       embroidered with the same colors as the Tabernacle veil.
+v.10 — Hebrew "chashukeihem" — bands, connecting rods between pillars.
+       KJV: "fillets"
+       ESV: "fillets"
+       ASV: "hooks of the pillars and their fillets shall be of silver"
+       NET: "silver hooks and bands"
+       WEB: "the hooks of the pillars and their fillets shall be of silver"
+       Analysis: KJV/ESV/ASV/WEB retain the archaic "fillets" (thin
+       decorative bands connecting pillars). NET modernizes to "bands." The
+       silver connecting rods created a unified, beautiful enclosure — silver
+       (redemption) linking the courtyard together.
 
-v.20 — KJV: "pure oil olive beaten" / ESV: "pure beaten olive oil" —
-       Hebrew "shemen zayit zakh katit." "Beaten" (katit) means crushed/
-       pressed — the first pressing, purest quality. Not ground in a mill
-       but beaten by hand — producing the clearest, finest oil. A picture
+v.16 — Hebrew "masakh" — a screen, a covering.
+       KJV: "an hanging"
+       ESV: "a screen"
+       ASV: "a screen"
+       NET: "a curtain"
+       WEB: "a screen"
+       Analysis: ESV/ASV/WEB's "screen" is more precise than KJV's
+       "hanging." NET uses "curtain." This is the gate — the single entrance
+       to the courtyard, embroidered with the same colors as the Tabernacle
+       veil.
+
+v.19 — Hebrew "yetedot" — pins, pegs.
+       KJV: "all the pins thereof"
+       ESV: "all its pegs"
+       ASV: "All the instruments of the tabernacle... and all the pins thereof"
+       NET: "All the utensils of the tabernacle... all its tent pegs"
+       WEB: "All the instruments of the tabernacle... and all its pins"
+       Analysis: NET's "utensils" and "tent pegs" are more specific than
+       ASV/WEB's "instruments" and "pins." NET also adds "used in all its
+       service" — making explicit that these bronze items are functional
+       tools for Tabernacle worship.
+
+v.20 — Hebrew "shemen zayit zakh katit" — pure olive oil, beaten/pressed.
+       KJV: "pure oil olive beaten"
+       ESV: "pure beaten olive oil"
+       ASV: "pure olive oil beaten"
+       NET: "pure oil of pressed olives"
+       WEB: "pure olive oil beaten"
+       Analysis: NET reverses the word order to "pressed olives" (emphasizing
+       the source), while ASV/WEB use "olive oil beaten" (emphasizing the
+       process). "Beaten/pressed" (katit) means the first cold pressing —
+       highest quality oil, produced by crushing without grinding. A picture
        of Christ: crushed to produce light.
 
-v.21 — KJV: "tabernacle of the congregation" / ESV: "tent of meeting" —
-       Hebrew "ohel mo'ed" — the tent of meeting/appointment. The ESV's
-       "tent of meeting" is more literal. The KJV's "tabernacle of the
-       congregation" conflates two Hebrew terms. This is where God MEETS
-       with His people.
+v.21 — Hebrew "lifnei YHWH... chuqqat olam" — before the LORD... a statute
+       forever.
+       KJV: "before the LORD... a statute for ever"
+       ESV: "before the LORD... a statute forever"
+       ASV: "before Jehovah... a statute for ever"
+       NET: "before the Lord... a lasting ordinance"
+       WEB: "before Yahweh... a statute forever"
+       Analysis: The divine name (YHWH) rendered three ways: ASV "Jehovah,"
+       WEB "Yahweh," NET/KJV/ESV "the Lord/LORD." In this context — the
+       perpetual lamp burning "before" God — the personal name emphasizes
+       intimate, ongoing relationship. NET's "lasting ordinance" softens the
+       permanence slightly compared to "statute forever" — "olam" carries
+       stronger eternal weight.
 
 GLOSSARY
 ------------------------------------

@@ -128,6 +128,20 @@ Asherim      — Wooden cult objects (poles or carved images)
               dedicated to the goddess Asherah, associated with
               fertility worship. Repeatedly condemned in Scripture.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV/WEB: "The burden of Damascus" / NET: "This is an oracle about Damascus" — The standard "massa" distinction continues through the oracles-against-nations section. ASV/WEB preserve "burden"; NET uses "oracle."
+
+- v.6 — ASV: "saith Jehovah, the God of Israel" / WEB: "says Yahweh, the God of Israel" / NET: "says the Lord God of Israel" — The combined title "Yahweh, the God of Israel" is deeply covenantal — the God who chose Israel specifically. ASV/WEB preserve both the personal name and the covenant relationship; NET collapses to a generic title.
+
+- v.7 — ASV: "men look unto their Maker, and their eyes shall have respect to the Holy One of Israel" / WEB: "people will look to their Maker, and their eyes will have respect for the Holy One of Israel" / NET: "men will trust in their Creator; they will depend on the Holy One of Israel" — NET changes "look to/have respect for" to "trust in/depend on" — a stronger theological interpretation. Hebrew "sha'ah" means to gaze upon with attention/regard. NET imports "trust" and "depend" which go beyond the text.
+
+- v.10 — NET: "you ignore the God who rescues you; you pay no attention to your strong protector" vs. KJV/ASV/WEB: "thou hast forgotten the God of thy salvation, and hast not been mindful of the rock of thy strength" — NET eliminates "Rock" (tsur) — a crucial divine title in Isaiah. "The Rock" is a major OT name for God (Deut 32:4). NET's "strong protector" loses this specific imagery. Also, "forgotten" becomes "ignore" — different sins (forgetfulness vs. deliberate disregard).
+
+- v.13 — NET: "driven before the wind like dead weeds on the hills or like dead thistles before a strong gale" vs. ASV/WEB: "chased as the chaff of the mountains before the wind, and like the whirling dust before the storm" — NET changes "chaff" to "dead weeds" and "whirling dust" to "dead thistles" — both are more specific but less evocative than the Hebrew imagery of chaff and dust being blown away effortlessly.
+
+- v.3 — ASV: "saith Jehovah of hosts" / WEB: "says Yahweh of Armies" / NET: "says the Lord of Heaven's Armies" — The divine name authenticates the prophecy. When God personally stakes His name on a prediction, its fulfillment is guaranteed. Damascus fell exactly as declared.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Alliances against God's purposes always fail (vv.1-3). Damascus

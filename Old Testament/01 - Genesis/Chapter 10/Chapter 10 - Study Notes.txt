@@ -94,86 +94,81 @@ Charles Spurgeon:
   relative — however distant. This destroys racism at its root: we are all
   one family, all bearing one image, all needing one Savior."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "these are the generations" / ESV: "These are the generations"
-       — Both identical. Hebrew "toledoth" — the fourth toledoth section in
-       Genesis. The Table of Nations.
+v.1  — Hebrew "toledoth" — generations/account.
+       KJV: "these are the generations of the sons of Noah"
+       ESV: "These are the generations of the sons of Noah"
+       ASV: "these are the generations of the sons of Noah"
+       NET: "This is the account of Noah's sons"
+       WEB: "these are the generations of the sons of Noah"
+       Analysis: NET renders "toledoth" as "account" rather than
+       "generations" — modernizing the genealogical formula. The fourth
+       toledoth section in Genesis. The Table of Nations.
 
-v.5  — KJV: "the isles of the Gentiles divided in their lands; every one
-       after his tongue, after their families, in their nations" / ESV:
-       "From these the coastland peoples spread in their lands, each with
-       his own language, by their clans, in their nations" — Hebrew "iyyey
-       haggoyim" — the coastlands of the nations. KJV's "isles of the
-       Gentiles" is more archaic; ESV's "coastland peoples" is more precise.
-       KJV's "tongue" = ESV's "language"; KJV's "families" = ESV's "clans."
-       Maritime peoples who spread across the Mediterranean.
+v.5  — Hebrew "iyyey haggoyim niphredu" — the coastlands of the nations were divided.
+       KJV: "the isles of the Gentiles divided in their lands; every one after his tongue"
+       ESV: "From these the coastland peoples spread in their lands, each with his own language"
+       ASV: "Of these were the isles of the nations divided... every one after his tongue"
+       NET: "the coastlands of the nations were separated into their lands, every one according to its language"
+       WEB: "Of these were the islands of the nations divided... everyone after his language"
+       Analysis: KJV/ASV/WEB use "isles" — archaic for coastlands. ESV uses
+       "coastland peoples." NET uses "separated" — emphasizing intentional
+       distribution. Maritime peoples who spread across the Mediterranean.
 
-v.6  — KJV: "Mizraim" / ESV: "Egypt" — Hebrew "Mitsrayim." KJV retains the
-       Hebrew name; ESV translates it to the familiar English name. Mizraim
-       is the Hebrew word for Egypt.
+v.8  — Hebrew "gibbor ba'arets" — mighty one/warrior on the earth.
+       KJV: "he began to be a mighty one in the earth"
+       ESV: "He was the first on earth to be a mighty man"
+       ASV: "he began to be a mighty one in the earth"
+       NET: "he began to be a valiant warrior on the earth"
+       WEB: "He began to be a mighty one in the earth"
+       Analysis: NET renders "gibbor" as "valiant warrior" — making Nimrod's
+       military nature explicit. ESV's "first on earth to be a mighty man"
+       emphasizes his pioneering role as the first post-flood empire-builder.
+       KJV/ASV/WEB retain the general "mighty one."
 
-v.6  — KJV: "Phut" / ESV: "Put" — Both are transliterations of the same
-       Hebrew name; ESV uses the more standard modern spelling.
+v.9  — Hebrew "gibbor-tsayid liphney Yahweh"
+       KJV: "a mighty hunter before the LORD"
+       ESV: "a mighty hunter before the LORD"
+       ASV: "a mighty hunter before Jehovah"
+       NET: "a mighty hunter before the LORD"
+       WEB: "a mighty hunter before Yahweh"
+       Analysis: All agree on the rendering. "Before the LORD" could mean
+       "in the LORD's sight" (neutral) or "in defiance of the LORD"
+       (negative). Possibly a hunter of men (conqueror). ASV uses "Jehovah";
+       WEB uses "Yahweh."
 
-v.8  — KJV: "he began to be a mighty one in the earth" / ESV: "he was the
-       first on earth to be a mighty man" — Hebrew "gibbor" — a warrior, a
-       powerful man. ESV's "first on earth to be a mighty man" emphasizes
-       Nimrod's pioneering role as the first post-flood empire-builder.
-       "Before the LORD" — could mean "in the LORD's sight" (neutral) or "in
-       defiance of the LORD" (negative).
+v.10 — Hebrew "reshith mamlakhto Bavel" — the beginning of his kingdom was Babel.
+       KJV: "the beginning of his kingdom was Babel"
+       ESV: "The beginning of his kingdom was Babel"
+       ASV: "the beginning of his kingdom was Babel"
+       NET: "The primary regions of his kingdom were Babel"
+       WEB: "The beginning of his kingdom was Babel"
+       Analysis: NET interprets "reshith" geographically ("primary regions")
+       rather than temporally ("beginning"). Babel = confusion (cf. 11:9).
+       The origin of Babylon — representing human rebellion throughout
+       Scripture.
 
-v.9  — KJV: "a mighty hunter before the LORD" / ESV: "a mighty hunter
-       before the LORD" — Both identical. Possibly a hunter of men
-       (conqueror) rather than just animals. His kingdom (Babel) suggests
-       political/military power, not just hunting skill.
+v.11 — Hebrew "min-ha'arets hahi yatsa Ashur" — from that land went forth Asshur/he went to Assyria.
+       KJV: "Out of that land went forth Asshur, and builded Nineveh"
+       ESV: "From that land he went into Assyria and built Nineveh"
+       ASV: "Out of that land he went forth into Assyria, and builded Nineveh"
+       NET: "From that land he went to Assyria, where he built Nineveh"
+       WEB: "Out of that land he went into Assyria, and built Nineveh"
+       Analysis: Significant interpretive difference. KJV reads "Asshur" as
+       a person who left and built cities. ESV/ASV/NET/WEB all make Nimrod
+       the subject who went into Assyria — making him the builder of both
+       Babel and Nineveh, a greater empire-builder.
 
-v.10 — KJV: "Babel" / ESV: "Babel" — Both identical. Hebrew "Babel" —
-       confusion (cf. 11:9). The origin of Babylon — the city that
-       represents human rebellion against God throughout Scripture.
-
-v.11 — KJV: "Out of that land went forth Asshur" / ESV: "From that land he
-       went into Assyria" — This is a significant interpretive difference.
-       KJV reads "Asshur" as the subject (a person named Asshur left and
-       built Nineveh); ESV reads Nimrod as the subject who went into Assyria
-       (the land of Asshur). ESV's reading makes Nimrod the builder of both
-       Babel and Nineveh — a greater empire-builder.
-
-v.14 — KJV: "Philistim" / ESV: "the Philistines" — Both refer to the same
-       people. ESV uses the familiar English name; KJV uses a closer
-       transliteration of the Hebrew.
-
-v.21 — KJV: "Eber" / ESV: "Eber" — Both identical. Hebrew "Ever" — from
-       which "Hebrew" (Ivri) derives. The ancestor of the Hebrew people.
-
-v.25 — KJV: "in his days was the earth divided" / ESV: "in his days the
-       earth was divided" — Both identical in meaning. Hebrew "niphlegah
-       ha'arets." Options: (1) the division of languages at Babel (ch.11),
-       (2) a geographical/continental division, (3) political division of
-       peoples.
-
-v.32 — KJV: "by these were the nations divided in the earth after the flood"
-       / ESV: "from these the nations spread abroad on the earth after the
-       flood" — Hebrew "niphredu" — were separated, spread out. ESV's
-       "spread abroad" is more neutral; KJV's "divided" emphasizes the
-       separation. Both convey that all nations trace back to Noah's family.
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.8 — NET: "he began to be a valiant warrior on the earth" — renders
-  Hebrew "gibbor" as "valiant warrior" rather than "mighty one" (KJV/ESV/
-  ASV/WEB), making Nimrod's military nature explicit from the start.
-- v.10 — NET: "The primary regions of his kingdom" — renders Hebrew
-  "reshith mamlakhto" as "primary regions" rather than "beginning of his
-  kingdom" (KJV/ESV/ASV), interpreting "reshith" geographically rather than
-  temporally.
-- v.11 — WEB/NET both clearly make Nimrod the subject who went into Assyria
-  and built Nineveh — resolving the KJV ambiguity about whether "Asshur"
-  (a person) or Nimrod went forth.
-- v.5 — NET: "the coastlands of the nations were separated into their lands"
-  — uses "separated" for the division, emphasizing intentional distribution
-  rather than mere spreading. ASV's "isles of the nations divided" retains
-  the older "isles" (coastlands) terminology.
+v.25 — Hebrew "niphlegah ha'arets" — the earth was divided.
+       KJV: "in his days was the earth divided"
+       ESV: "in his days the earth was divided"
+       ASV: "in his days was the earth divided"
+       NET: "in his days the earth was divided"
+       WEB: "in his days the earth was divided"
+       Analysis: All translations identical. Options: (1) the division of
+       languages at Babel (ch.11), (2) a geographical/continental division,
+       (3) political division of peoples. Peleg's name means "division."
 
 GLOSSARY
 ------------------------------------

@@ -106,49 +106,140 @@ Charles Spurgeon:
   law — you approach at the place of mercy. The blood is between you and the
   commandments you've broken. Come boldly to the throne of GRACE."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "offering" / ESV: "contribution" — Hebrew "terumah" — a
-       heave offering, a contribution lifted up. The KJV's "offering"
-       carries worship connotations; the ESV's "contribution" emphasizes
-       the practical giving. The Hebrew encompasses both: a gift lifted up
-       to God from a willing heart.
+v.1  — Hebrew "YHWH" — the divine name.
+       KJV: "the LORD spake unto Moses"
+       ESV: "the LORD spoke to Moses"
+       ASV: "Jehovah spake unto Moses"
+       NET: "The Lord spoke to Moses"
+       WEB: "Yahweh spoke to Moses"
+       Analysis: The divine name (Hebrew YHWH) is rendered three different
+       ways. ASV uses the traditional English "Jehovah," WEB uses the
+       scholarly reconstruction "Yahweh," and NET/KJV/ESV use "the LORD"/
+       "the Lord." The ASV and WEB preserve the personal name; NET/KJV/ESV
+       follow the Jewish practice of not speaking the name aloud.
 
-v.3  — KJV: "brass" / ESV: "bronze" — Hebrew "nechoshet." The KJV
-       consistently uses "brass" but the metal is actually bronze (a
-       copper-tin alloy). Brass (copper-zinc) was not common in the ancient
-       Near East. The ESV correctly renders it "bronze."
+v.2  — Hebrew "terumah" — a heave offering, a contribution lifted up.
+       KJV: "offering"
+       ESV: "contribution"
+       ASV: "offering"
+       NET: "contribution"
+       WEB: "offering"
+       Analysis: The KJV/ASV/WEB "offering" carries worship connotations;
+       ESV/NET "contribution" emphasizes practical giving. The Hebrew
+       encompasses both: a gift lifted up to God from a willing heart.
 
-v.5  — KJV: "badgers' skins" / ESV: "goatskins" — Hebrew "orot techashim."
-       The identity of "tachash" is uncertain. Suggestions include: badger,
-       dolphin/porpoise, dugong (sea cow), or fine leather. The ESV's
-       "goatskins" is a conservative rendering; the KJV's "badgers' skins"
-       follows older tradition. The exact animal remains debated.
+v.3  — Hebrew "nechoshet" — bronze (a copper-tin alloy).
+       KJV: "brass"
+       ESV: "bronze"
+       ASV: "brass"
+       NET: "bronze"
+       WEB: "brass"
+       Analysis: The KJV/ASV/WEB consistently use "brass" but the metal is
+       actually bronze. Brass (copper-zinc) was not common in the ancient
+       Near East. ESV/NET correctly render it "bronze."
 
-v.5  — KJV: "shittim wood" / ESV: "acacia wood" — Hebrew "atzei shittim."
-       "Shittim" IS acacia — a hard, durable desert wood resistant to
-       insects. The ESV translates the Hebrew; the KJV transliterates it.
-       Acacia is the correct identification.
+v.5  — Hebrew "orot techashim" — skins of tachash (uncertain animal).
+       KJV: "badgers' skins"
+       ESV: "goatskins"
+       ASV: "sealskins"
+       NET: "fine leather"
+       WEB: "sea cow hides"
+       Analysis: Each translation takes a different approach to this
+       uncertain term. ASV identifies seals, WEB identifies dugong/sea cow,
+       KJV suggests badger, ESV offers "goatskins," while NET abandons
+       animal identification entirely with "fine leather." The diversity
+       highlights genuine uncertainty about the Hebrew "tachash."
 
-v.17 — KJV: "mercy seat" / ESV: "mercy seat" — Hebrew "kapporet" — from
-       "kaphar" (to cover, to atone). Both translations use "mercy seat."
-       It is the lid/cover of the Ark where blood was sprinkled on the Day
-       of Atonement. The place where God's mercy meets human sin.
+v.5  — Hebrew "atzei shittim" — acacia wood.
+       KJV: "shittim wood"
+       ESV: "acacia wood"
+       ASV: "acacia wood"
+       NET: "acacia wood"
+       WEB: "acacia wood"
+       Analysis: The KJV transliterates the Hebrew; all modern translations
+       translate it correctly as "acacia" — a hard, durable desert wood
+       resistant to insects.
 
-v.30 — KJV: "shewbread" / ESV: "bread of the Presence" — Hebrew "lechem
-       panim" — literally "bread of the face/presence." The ESV translates
-       literally; the KJV uses the traditional English term "shewbread"
-       (bread set out for display). Twelve loaves, representing the twelve
-       tribes, always before God's face.
+v.17 — Hebrew "kapporet" — from "kaphar" (to cover, to atone).
+       KJV: "mercy seat"
+       ESV: "mercy seat"
+       ASV: "mercy-seat"
+       NET: "atonement lid"
+       WEB: "mercy seat"
+       Analysis: NET uniquely renders this as "atonement lid," emphasizing
+       both the physical function (a lid) and theological meaning (atonement).
+       ASV/WEB/KJV/ESV retain the traditional "mercy seat" (from Tyndale/
+       Luther). NET's rendering makes the theological connection explicit but
+       loses the traditional resonance with Hebrews 4:16's "throne of grace."
 
-v.31 — KJV: "candlestick" / ESV: "lampstand" — Hebrew "menorah" — a
-       lampstand (not a candle holder). The ESV is more accurate: it held
-       oil lamps, not candles. The KJV's "candlestick" reflects older
-       English usage where "candle" meant any light source.
+v.22 — Hebrew "dabar" — to speak, to commune, to converse.
+       KJV: "I will commune with thee"
+       ESV: "I will speak with you"
+       ASV: "I will commune with thee"
+       NET: "I will speak with you"
+       WEB: "I will tell you from above the mercy seat"
+       Analysis: ASV's "commune" captures the relational, conversational
+       nature of God speaking from the mercy seat — dialogue, not merely
+       issuing orders. NET/ESV use "speak." WEB uses "tell." ASV's rendering
+       carries richer covenantal weight.
 
-v.33 — KJV: "knops" / ESV: "calyxes" — Hebrew "kaphtor" — a knob, bulb,
-       or calyx (the cup-shaped base of a flower). The ESV's botanical term
-       "calyx" is more precise; the KJV's "knop" (knob) is archaic.
+v.29 — Hebrew utensils for the table of showbread.
+       KJV: "dishes... spoons... covers... bowls"
+       ESV: "plates... dishes... flagons... bowls"
+       ASV: "dishes... spoons... flagons... bowls"
+       NET: "its plates, its ladles, its pitchers, and its bowls, to be used in pouring out offerings"
+       WEB: "dishes... spoons... ladles... bowls"
+       Analysis: NET adds the interpretive phrase "to be used in pouring out
+       offerings," clarifying the purpose of these utensils. ASV/WEB simply
+       list the items. NET's addition is not in the Hebrew but reflects
+       scholarly understanding of the ritual function.
+
+v.30 — Hebrew "lechem panim" — bread of the face/presence.
+       KJV: "shewbread"
+       ESV: "bread of the Presence"
+       ASV: "showbread"
+       NET: "Bread of the Presence"
+       WEB: "bread of the presence"
+       Analysis: KJV/ASV follow tradition with "shewbread/showbread" (bread
+       on display). ESV/WEB/NET translate the Hebrew literally — "bread of
+       the presence/face." NET capitalizes it as a proper title. The literal
+       rendering makes the theological point clearer: bread always before
+       God's face.
+
+v.31 — Hebrew "menorah" — a lampstand.
+       KJV: "candlestick"
+       ESV: "lampstand"
+       ASV: "candlestick"
+       NET: "lampstand"
+       WEB: "lamp stand"
+       Analysis: KJV/ASV use the archaic "candlestick" (it held oil lamps,
+       not candles). ESV/NET/WEB correctly render it "lampstand"/"lamp stand."
+       NET further uses "hammered metal" instead of ASV's "beaten work" — a
+       more accessible description of the metalworking technique.
+
+v.33 — Hebrew "kaphtor" — a knob, bulb, or calyx.
+       KJV: "knops"
+       ESV: "calyxes"
+       ASV: "buds"
+       NET: "buds"
+       WEB: "buds"
+       Analysis: The ESV's botanical term "calyx" is precise; KJV's "knop"
+       (knob) is archaic. ASV/NET/WEB use "buds" — capturing the almond
+       blossom imagery.
+
+v.39 — Hebrew "kikkar zahav tahor" — a talent of pure gold.
+       KJV: "a talent of pure gold"
+       ESV: "a talent of pure gold"
+       ASV: "a talent of pure gold"
+       NET: "About 75 pounds of pure gold"
+       WEB: "a talent of pure gold"
+       Analysis: NET converts the ancient measurement into modern equivalents
+       throughout the chapter (also v.10: "45 inches" instead of "two cubits
+       and a half"). This makes the text immediately accessible but loses the
+       original terminology. ASV/WEB/KJV retain "talent" and "cubits,"
+       preserving the ancient measurement system.
 
 GLOSSARY
 ------------------------------------

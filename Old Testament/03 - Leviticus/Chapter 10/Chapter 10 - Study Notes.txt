@@ -172,69 +172,106 @@ Charles Spurgeon:
   peace. What could he say? God was right. His sons were wrong. And a
   father's grief does not change God's holiness."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "offered strange fire before the LORD" / ESV: "offered
-       unauthorized fire before the LORD" — Hebrew "esh zarah." "Zarah"
-       means strange, foreign, unauthorized. KJV's "strange" preserves the
-       Hebrew sense of alien/foreign. ESV's "unauthorized" interprets the
-       meaning: fire not authorized by God. Both are valid. The fire was
-       "strange" because it was not taken from the altar — it was their own
-       fire, not God's fire.
+v.1  — Hebrew "esh zarah" — strange/foreign/unauthorized fire. Hebrew
+       "asher lo tsivvah otam" — which he had not commanded them.
+       KJV: "offered strange fire before the LORD, which he commanded them
+       not"
+       ESV: "offered unauthorized fire before the LORD, which he had not
+       commanded them"
+       ASV: "offered strange fire before Jehovah, which he had not
+       commanded them"
+       NET: "presented strange fire before the Lord, which he had not
+       commanded them to do"
+       WEB: "offered strange fire before Yahweh, which he had not commanded
+       them"
+       Analysis: KJV/ASV/WEB's "strange" preserves the Hebrew sense of
+       alien/foreign. ESV's "unauthorized" interprets the meaning. NET uses
+       "presented" rather than "offered" — suggesting the act was
+       unauthorized rather than a legitimate offering. NET adds "to do" for
+       emphasis. The sin is defined by what God did NOT command — in divine
+       worship, silence is prohibition, not permission.
 
-v.1  — KJV: "which he commanded them not" / ESV: "which he had not
-       commanded them" — Hebrew "asher lo tsivvah otam." The critical
-       phrase. Their sin was not violating a specific prohibition but acting
-       without divine authorization. What God has not commanded is not
-       permitted in worship.
+v.2  — Hebrew "vatokhal otam" — consumed/devoured them. Same verb as 9:24.
+       KJV: "devoured them"
+       ESV: "consumed them"
+       ASV: "devoured them"
+       NET: "consumed them"
+       WEB: "devoured them"
+       Analysis: The same divine fire that accepted the sacrifice (9:24) now
+       destroys the presumptuous priests. Hebrew "tokal" — to eat, consume,
+       devour. God's holiness is both comforting and terrifying.
 
-v.2  — KJV: "devoured them" / ESV: "consumed them" — Hebrew "vatokhal
-       otam." Same verb as 9:24 where fire "consumed" the offering. The
-       same divine fire that accepted the sacrifice now destroys the
-       presumptuous priests. "Tokhal" — to eat, consume, devour.
+v.3  — Hebrew "vay'yidom Aharon" — Aaron was silent/still.
+       KJV: "Aaron held his peace"
+       ESV: "Aaron held his peace"
+       ASV: "Aaron held his peace"
+       NET: "Aaron was silent"
+       WEB: "Aaron held his peace"
+       Analysis: NET's "Among the ones close to me I will show myself holy"
+       clarifies "those who approach me" as referring to priests
+       specifically. Greater proximity to God means greater accountability.
+       "Yidom" — to be silent, to be still. Not merely that he did not
+       speak, but struck silent — stunned into submission.
 
-v.3  — KJV: "Aaron held his peace" / ESV: "Aaron held his peace" —
-       Hebrew "vay'yidom Aharon." "Yidom" — to be silent, to be still.
-       Not merely that he did not speak, but that he was struck silent —
-       stunned into submission. Both translations identical. One of the
-       most powerful silences in Scripture.
+v.6  — Hebrew "rasheikhem al tifra'u" — do not let your heads be
+       uncovered/loosened. Hebrew "u-vigdeikhem lo tifromu" — do not tear
+       your clothes.
+       KJV: "Uncover not your heads, neither rend your clothes"
+       ESV: "Do not let the hair of your heads hang loose... do not tear
+       your clothes"
+       ASV: "Let not the hair of your heads go loose"
+       NET: "Do not dishevel the hair of your heads"
+       WEB: "Don't let the hair of your heads go loose"
+       Analysis: "Para" means to let loose, to uncover. KJV interprets as
+       removing the priestly turban (mourning). ESV/ASV/WEB interpret as
+       letting hair hang loose/disheveled. NET's "dishevel" captures the
+       mourning practice. The priests must not display mourning — their
+       priestly garments are holy.
 
-v.6  — KJV: "Uncover not your heads" / ESV: "Do not let the hair of your
-       heads hang loose" — Hebrew "rasheikhem al tifra'u." "Para" means
-       to let loose, to uncover, to let hang free. KJV interprets as
-       removing the priestly turban (a sign of mourning). ESV interprets
-       as letting hair hang loose/disheveled. Both relate to mourning
-       customs. The priests must not display mourning.
+v.9  — Hebrew "yayin v'shekhar" — wine and strong drink.
+       KJV: "wine nor strong drink"
+       ESV: "wine or strong drink"
+       ASV: "Drink no wine nor strong drink"
+       NET: "Do not drink wine or strong drink"
+       WEB: "You and your sons are not to drink wine or strong drink"
+       Analysis: "Yayin" = fermented grape wine. "Shekhar" = any other
+       intoxicating drink (beer, mead, fermented fruit). All translations
+       identical in substance. WEB makes "you and your sons" explicit.
+       God speaks directly to Aaron (not through Moses). The prohibition
+       covers all intoxicants.
 
-v.6  — KJV: "neither rend your clothes" / ESV: "do not tear your clothes"
-       — Hebrew "u-vigdeikhem lo tifromu." Tearing garments was the
-       standard expression of grief (Genesis 37:34, Job 1:20). The priests
-       are forbidden this expression. Their priestly garments are holy and
-       must not be torn.
+v.10 — Hebrew "l'havdil bein ha-qodesh u-vein ha-chol" — to separate
+       between the holy and the common.
+       KJV: "put difference between holy and unholy"
+       ESV: "distinguish between the holy and the common"
+       ASV: "make a distinction between the holy and the common"
+       NET: "distinguish between the holy and the common"
+       WEB: "make a distinction between the holy and the common"
+       Analysis: KJV's "unholy" vs. ESV/ASV/NET/WEB's "common" — Hebrew
+       "chol" means common/profane (not sacred), not necessarily sinful.
+       ESV/NET are more precise: the distinction is between what is set
+       apart and what is ordinary.
 
-v.9  — KJV: "wine nor strong drink" / ESV: "wine or strong drink" —
-       Hebrew "yayin v'shekhar." "Yayin" = fermented grape wine. "Shekhar"
-       = any other intoxicating drink (beer, mead, fermented fruit). Both
-       translations identical. The prohibition covers all intoxicants.
+v.16 — Hebrew "darosh darash" — emphatic doubling of "to seek/inquire."
+       KJV: "Moses diligently sought"
+       ESV: "Moses diligently inquired"
+       ASV: "Moses diligently sought"
+       NET: "Moses carefully investigated"
+       WEB: "Moses diligently inquired"
+       Analysis: All capture the intensity of the doubled verb. Moses
+       searched thoroughly, investigated carefully.
 
-v.10 — KJV: "put difference between holy and unholy" / ESV: "distinguish
-       between the holy and the common" — Hebrew "l'havdil bein ha-qodesh
-       u-vein ha-chol." "Havdil" — to separate, distinguish (same root as
-       "havdalah" — the separation ceremony). KJV's "unholy" vs. ESV's
-       "common" — Hebrew "chol" means common/profane (not sacred), not
-       necessarily sinful. ESV is more precise: the distinction is between
-       what is set apart and what is ordinary.
-
-v.16 — KJV: "Moses diligently sought" / ESV: "Moses diligently inquired"
-       — Hebrew "darosh darash" — an emphatic doubling of the verb "to
-       seek/inquire." Moses searched thoroughly, investigated carefully.
-       Both translations capture the intensity.
-
-v.19 — KJV: "he was content" / ESV: "he approved" — Hebrew "vay'yitav
-       b'einav" — literally "it was good in his eyes." Moses found Aaron's
-       reasoning satisfactory. ESV's "approved" is slightly stronger than
-       KJV's "content" — Moses did not merely tolerate it; he recognized
-       its validity.
+v.19 — Hebrew "vay'yitav b'einav" — it was good in his eyes.
+       KJV: "he was content"
+       ESV: "he approved"
+       ASV: "it was good in his eyes"
+       NET: "it satisfied him"
+       WEB: "when Moses heard that, it was pleasing to him"
+       Analysis: ESV's "approved" is slightly stronger than KJV's "content"
+       — Moses did not merely tolerate Aaron's reasoning; he recognized its
+       validity. ASV is most literal.
 
 GLOSSARY
 ------------------------------------

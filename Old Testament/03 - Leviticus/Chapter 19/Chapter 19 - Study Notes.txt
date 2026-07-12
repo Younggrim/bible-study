@@ -193,75 +193,77 @@ Charles Spurgeon:
   of God within. But it is the standard — and Christ both commands it and
   enables it."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "Ye shall be holy: for I the LORD your God am holy" / ESV:
-       "You shall be holy, for I the LORD your God am holy" — Hebrew
-       "Q'doshim tih'yu ki qadosh ani YHWH Eloheikhem." Identical in both.
-       "Q'doshim" (holy ones) — plural, addressed to all. "Qadosh" (holy)
-       — set apart, distinct, other. God's holiness is the ground and
-       model of Israel's holiness.
+v.2  — Hebrew "Q'doshim tih'yu ki qadosh ani YHWH Eloheikhem" — You shall be holy, for I the LORD your God am holy.
+       KJV: "Ye shall be holy: for I the LORD your God am holy"
+       ESV: "You shall be holy, for I the LORD your God am holy"
+       ASV: "Ye shall be holy; for I Jehovah your God am holy"
+       NET: "You must be holy because I, the Lord your God, am holy"
+       WEB: "You shall be holy; for I Yahweh your God, am holy"
+       Analysis: Identical in both KJV and ESV. "Q'doshim" (holy ones) — plural, addressed to all. "Qadosh" (holy) — set apart, distinct, other. God's holiness is the ground and model of Israel's holiness. NET adds "because" to make the causal logic explicit.
 
-v.3  — KJV: "Ye shall fear every man his mother, and his father" / ESV:
-       "Every one of you shall revere his mother and his father" — Hebrew
-       "ish immo v'aviv tira'u" — each person his mother and his father
-       you shall fear/revere. "Yare" = fear/reverence (same word used for
-       fearing God). Mother listed FIRST — unusual in patriarchal context.
-       Perhaps because reverence for the mother is more easily neglected.
+v.3  — Hebrew "ish immo v'aviv tira'u" — each person his mother and his father you shall fear/revere.
+       KJV: "Ye shall fear every man his mother, and his father"
+       ESV: "Every one of you shall revere his mother and his father"
+       ASV: "Ye shall fear every man his mother, and his father"
+       NET: "Each of you must respect his mother and his father"
+       Analysis: "Yare" = fear/reverence (same word used for fearing God). NET softens "fear" to "respect." Mother listed FIRST — unusual in patriarchal context. Perhaps because reverence for the mother is more easily neglected.
 
-v.14 — KJV: "put a stumblingblock before the blind" / ESV: "put a
-       stumbling block before the blind" — Hebrew "lifnei iver lo titen
-       mikhshol." Literally: before a blind person do not place an
-       obstacle. Taken literally AND metaphorically in Jewish tradition:
-       do not mislead the ignorant, do not give bad advice to the naive,
-       do not enable sin in the vulnerable.
+v.9  — Hebrew "kalah" — to complete/finish.
+       KJV: "thou shalt not wholly reap the corners of thy field"
+       ESV: "you shall not reap your field right up to its edge"
+       ASV: "thou shalt not wholly reap the corners of thy field"
+       NET: "you must not harvest your field to its very edge"
+       Analysis: The farmer must intentionally leave portions unharvested for the poor and alien. NET is clearer; ASV uses the archaic "wholly reap."
 
-v.17 — KJV: "thou shalt in any wise rebuke thy neighbour, and not suffer
-       sin upon him" / ESV: "you shall reason frankly with your neighbor,
-       lest you incur sin because of him" — Hebrew "hokhe'ach tokhiach et
-       amitekha v'lo tissa alav chet." KJV: rebuke him so that sin does
-       not remain on him. ESV: reason with him lest YOU bear sin because
-       of him. The Hebrew allows both: failure to rebuke makes you
-       complicit in his sin. Honest confrontation is an act of love.
+v.14 — Hebrew "lifnei iver lo titen mikhshol" — before a blind person do not place an obstacle.
+       KJV: "put a stumblingblock before the blind"
+       ESV: "put a stumbling block before the blind"
+       Analysis: Taken literally AND metaphorically in Jewish tradition: do not mislead the ignorant, do not give bad advice to the naive, do not enable sin in the vulnerable.
 
-v.18 — KJV: "love thy neighbour as thyself" / ESV: "love your neighbor as
-       yourself" — Hebrew "v'ahavta l're'akha kamokha." "Ahav" = love
-       (the same word used in "love the LORD your God" — Deuteronomy 6:5).
-       "Re'a" = neighbor, companion, fellow. "Kamokha" = as yourself.
-       Jesus identifies this as the second greatest commandment (Matthew
-       22:39).
+v.17 — Hebrew "hokhe'ach tokhiach et amitekha v'lo tissa alav chet."
+       KJV: "thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him"
+       ESV: "you shall reason frankly with your neighbor, lest you incur sin because of him"
+       Analysis: KJV: rebuke him so that sin does not remain on him. ESV: reason with him lest YOU bear sin because of him. The Hebrew allows both: failure to rebuke makes you complicit in his sin. Honest confrontation is an act of love.
 
-v.19 — KJV: "a garment mingled of linen and woollen" / ESV: "a garment of
-       cloth made of two kinds of material" — Hebrew "sha'atnez" — a
-       technical term for mixed fabric (specifically linen and wool). KJV
-       names the specific fabrics; ESV generalizes. The prohibition is
-       specifically linen + wool (Deuteronomy 22:11). Interestingly, the
-       priestly garments DID combine linen and wool — what is forbidden to
-       the common person is prescribed for the priest.
+v.18 — Hebrew "v'ahavta l're'akha kamokha" — love your neighbor as yourself.
+       KJV: "love thy neighbour as thyself"
+       ESV: "love your neighbor as yourself"
+       ASV: "thou shalt love thy neighbor as thyself"
+       NET: "you must love your neighbor as yourself"
+       WEB: "you shall love your neighbor as yourself"
+       Analysis: All translations agree on this crucial verse. "Ahav" = love (the same word used in "love the LORD your God" — Deuteronomy 6:5). "Re'a" = neighbor, companion, fellow. "Kamokha" = as yourself. Jesus identifies this as the second greatest commandment (Matthew 22:39). The divine signature "I am the Lord" follows.
 
-v.26 — KJV: "neither shall ye use enchantment, nor observe times" / ESV:
-       "You shall not interpret omens or tell fortunes" — Hebrew "lo
-       t'nachashu v'lo t'onenu." KJV's "observe times" = divination by
-       times/seasons (astrology). ESV's "tell fortunes" captures the
-       meaning. Both forms of divination are prohibited.
+v.19 — Hebrew "sha'atnez" — a technical term for mixed fabric.
+       KJV: "a garment mingled of linen and woollen"
+       ESV: "a garment of cloth made of two kinds of material"
+       Analysis: KJV names the specific fabrics; ESV generalizes. The prohibition is specifically linen + wool (Deuteronomy 22:11). Interestingly, the priestly garments DID combine linen and wool — what is forbidden to the common person is prescribed for the priest.
 
-v.27 — KJV: "Ye shall not round the corners of your heads" / ESV: "You
-       shall not round off the hair on your temples" — Hebrew "lo takifu
-       pe'at rosh'khem." Refers to cutting the hair in a specific pattern
-       associated with pagan mourning or worship customs. Not a prohibition
-       of haircuts generally, but of pagan-associated styles.
+v.26 — Hebrew "lo t'nachashu v'lo t'onenu" — divination and fortune-telling prohibited.
+       KJV: "neither shall ye use enchantment, nor observe times"
+       ESV: "You shall not interpret omens or tell fortunes"
+       ASV: "neither shall ye use enchantments, nor practice augury"
+       NET: "You must not practice divination or soothsaying"
+       WEB: "You shall not use enchantments, nor practice sorcery"
+       Analysis: KJV's "observe times" = divination by times/seasons (astrology). ESV's "tell fortunes" captures the meaning. NET separates the blood prohibition from the divination prohibition more clearly than ASV/WEB.
 
-v.28 — KJV: "nor print any marks upon you" / ESV: "or tattoo yourselves"
-       — Hebrew "u-kh'tovet qa'aqa lo tit'nu ba-khem" — and a writing/
-       inscription of incision you shall not put on yourselves. KJV's
-       "print marks" is literal; ESV's "tattoo" uses the modern term.
-       The context is pagan mourning rituals — marking the body for the
-       dead.
+v.27 — Hebrew "lo takifu pe'at rosh'khem" — rounding the corners of the head.
+       KJV: "Ye shall not round the corners of your heads"
+       ESV: "You shall not round off the hair on your temples"
+       Analysis: Refers to cutting the hair in a specific pattern associated with pagan mourning or worship customs. Not a prohibition of haircuts generally, but of pagan-associated styles.
 
-v.35 — KJV: "in meteyard, in weight, or in measure" / ESV: "in measures
-       of length or weight or quantity" — Hebrew "ba-middah ba-mishqal
-       u-va-m'surah." KJV's "meteyard" is archaic for a measuring rod
-       (length). ESV modernizes. All forms of measurement must be honest.
+v.28 — Hebrew "u-kh'tovet qa'aqa lo tit'nu ba-khem" — a writing/inscription of incision.
+       KJV: "nor print any marks upon you"
+       ESV: "or tattoo yourselves"
+       Analysis: KJV's "print marks" is literal; ESV's "tattoo" uses the modern term. The context is pagan mourning rituals — marking the body for the dead.
+
+v.35 — Hebrew "ba-middah ba-mishqal u-va-m'surah" — in measure, weight, and quantity.
+       KJV: "in meteyard, in weight, or in measure"
+       ESV: "in measures of length or weight or quantity"
+       ASV: "in measures of length, of weight, or of quantity"
+       NET: "You must not do injustice in measurements of length, weight, or volume"
+       Analysis: KJV's "meteyard" is archaic for a measuring rod (length). ESV modernizes. NET's "injustice" replaces ASV's "unrighteousness" — same Hebrew "avel." Honest commerce is a holiness issue, not merely an ethics issue.
 
 GLOSSARY
 ------------------------------------

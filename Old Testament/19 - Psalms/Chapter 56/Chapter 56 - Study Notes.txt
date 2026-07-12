@@ -111,6 +111,20 @@ v.8 — KJV: "put thou my tears into thy bottle" / ESV: "put my
       Some scholars connect this to ancient Near Eastern practices
       of collecting tears in small flasks.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.4 — NET: "In God—I boast in his promise" vs. KJV: "In God I will praise his word" — NET interprets "praise his word" as "boast in his promise," shifting from worship language to confidence language. ASV/WEB keep KJV's "praise his word."
+
+- v.8 — NET: "You keep track of my misery. Put my tears in your leather container" — NET renders "nod" (wanderings) as "misery" (losing the fugitive imagery) and "bottle" as "leather container" (making the vessel explicit). WEB: "You count my wanderings. You put my tears into your bottle" — stays with KJV.
+
+- v.9 — NET: "I know that God is on my side" vs. KJV: "this I know; for God is for me" — NET's "on my side" is a modern idiom replacing the more theological "for me." The Hebrew simply says "God is for me" — ASV/WEB preserve this directness.
+
+- v.10 — ASV: "In Jehovah (I will praise his word)" / WEB: "In Yahweh, I will praise his word" vs. KJV: "in the LORD will I praise his word" — The divine name is explicit in ASV/WEB. The psalm pairs "God" (Elohim) with "Yahweh/Jehovah/LORD" in parallel — the general name with the covenant name.
+
+- v.12 — NET: "I am obligated to fulfill the vows I made to you, O God; I will give you the thank offerings you deserve" — NET heavily interprets, adding "obligated" and "you deserve" (neither in Hebrew). KJV/ASV/WEB simply state: "Thy vows are upon me... I will render praises/thank-offerings."
+
+- v.13 — NET: "so that I might serve God as I enjoy life" vs. KJV: "that I may walk before God in the light of the living" — NET loses the beautiful Hebrew idiom "walk before God in the light of the living" and substitutes a flat paraphrase about serving God while alive. WEB preserves: "that I may walk before God in the light of the living."
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Fear and faith can coexist (v.3). "When I am afraid" — David

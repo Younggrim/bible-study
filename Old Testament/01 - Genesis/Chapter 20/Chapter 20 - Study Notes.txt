@@ -80,41 +80,81 @@ Charles Spurgeon:
   Abraham's. Your failures cannot derail God's purposes. He protects His
   plan even from your mistakes."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "She is my sister" / ESV: "She is my sister" — Both identical.
-       The same deception as 12:13. A half-truth (v.12) used to deceive.
-       Repeated sin — Abraham's persistent weakness.
+v.2  — Hebrew "achoti hi" — she is my sister.
+       KJV: "She is my sister"
+       ESV: "She is my sister"
+       ASV: "She is my sister"
+       NET: "She is my sister"
+       WEB: "She is my sister"
+       Analysis: All five translations are identical. The same deception as 12:13.
+       A half-truth (v.12) used to deceive. Repeated sin — Abraham's persistent
+       weakness that threatened the very promise of Isaac.
 
-v.3  — KJV: "God came to Abimelech in a dream" / ESV: "God came to
-       Abimelech in a dream by night" — Both equivalent; ESV adds "by night"
-       for clarity. Hebrew "Elohim" (not Yahweh). God communicates with
-       pagans too — to protect His purposes. KJV: "thou art but a dead man"
-       / ESV: "you are a dead man" — Both equivalent.
+v.3  — Hebrew "hinneka meth" — behold you are dead / you are a dead man.
+       KJV: "thou art but a dead man"
+       ESV: "you are a dead man"
+       ASV: "thou art but a dead man"
+       NET: "You are as good as dead because of the woman you have taken"
+       WEB: "you are a dead man"
+       Analysis: KJV/ASV/ESV/WEB give the direct Hebrew statement. NET uses the
+       strikingly colloquial "as good as dead," a modern idiom that captures the
+       urgency of the divine warning. Hebrew "Elohim" (not Yahweh) — God
+       communicates with pagans too, to protect His purposes. ESV adds "by night"
+       for contextual clarity about the dream.
 
-v.7  — KJV: "he is a prophet" / ESV: "he is a prophet" — Both identical.
-       Hebrew "nabi" — first use of "prophet" in Scripture. Despite his
-       failure, Abraham retains his prophetic identity and intercessory role.
+v.4  — Hebrew "hagoy gam-tsaddiq taharog" — will you also slay a righteous nation?
+       KJV: "Lord, wilt thou slay also a righteous nation?"
+       ESV: "Lord, will you kill an innocent people?"
+       ASV: "Lord, wilt thou slay also a righteous nation?"
+       NET: "Lord, would you really slaughter an innocent nation?"
+       WEB: "Lord, will you kill even a righteous nation?"
+       Analysis: NET uses "slaughter" — stronger than "slay" or "kill" — and frames
+       it as a rhetorical question about God's justice. Abimelech's protest
+       parallels Abraham's intercession in 18:23-25 regarding divine justice.
 
-v.11 — KJV: "the fear of God is not in this place" / ESV: "There is no fear
-       of God at all in this place" — Both equivalent; ESV adds "at all" for
-       emphasis. Abraham assumed the worst about pagans. Ironically,
-       Abimelech showed more integrity than Abraham in this episode.
+v.7  — Hebrew "nabi" — prophet (first use of this term in Scripture).
+       KJV: "he is a prophet"
+       ESV: "he is a prophet"
+       ASV: "he is a prophet"
+       NET: "he is a prophet"
+       WEB: "he is a prophet"
+       Analysis: All identical. First use of "prophet" in Scripture. Despite his
+       failure, Abraham retains his prophetic identity and intercessory role. God
+       defines identity by calling, not by performance.
 
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.3 — NET: "You are as good as dead because of the woman you have taken" —
-  strikingly colloquial rendering of Hebrew "hinneka meth" (KJV: "thou art
-  but a dead man"). NET's modern idiom captures the urgency of the warning.
-- v.4 — NET: "Lord, would you really slaughter an innocent nation?" — uses
-  "slaughter" (stronger than "slay/destroy") and frames it as a rhetorical
-  question about God's justice.
-- v.13 — NET: "When God made me wander from my father's house" — uses "wander"
-  (Hebrew "hith'u"), revealing that Abraham sees his life as divinely-directed
-  wandering; KJV/ESV use "caused me to wander."
-- v.16 — NET: "This is compensation for you so that you will stand vindicated"
-  — interprets the silver payment as legal vindication for Sarah, making the
-  cultural/legal significance explicit.
+v.11 — Hebrew "en yir'ath Elohim" — there is no fear of God.
+       KJV: "the fear of God is not in this place"
+       ESV: "There is no fear of God at all in this place"
+       ASV: "Surely the fear of God is not in this place"
+       NET: "Surely no one fears God in this place"
+       WEB: "Surely the fear of God is not in this place"
+       Analysis: ESV adds "at all" for emphasis. NET personalizes it — "no one
+       fears God" — making it about people rather than an abstract quality of the
+       place. Ironically, Abimelech showed more integrity than Abraham in this
+       episode. Abraham's fear-based assumptions were wrong.
+
+v.13 — Hebrew "hith'u" — caused to wander.
+       KJV: "God caused me to wander from my father's house"
+       ESV: "God caused me to wander from my father's house"
+       ASV: "God caused me to wander from my father's house"
+       NET: "When God made me wander from my father's house"
+       WEB: "when God caused me to wander from my father's house"
+       Analysis: All use "wander" for Hebrew "hith'u." Abraham reveals that he sees
+       his entire life as divinely-directed wandering — and that this deception was
+       a pre-arranged strategy from the very beginning of his journey.
+
+v.16 — Hebrew "kesuth 'enayim" — a covering of the eyes (legal vindication).
+       KJV: "he is to thee a covering of the eyes"
+       ESV: "it is a sign of your innocence"
+       ASV: "it is for thee a covering of the eyes"
+       NET: "This is compensation for you so that you will stand vindicated"
+       WEB: "it is for you a covering of the eyes"
+       Analysis: The Hebrew idiom is difficult. KJV/ASV/WEB retain the literal
+       "covering of the eyes." ESV interprets as "sign of innocence." NET makes the
+       cultural/legal significance fully explicit — the silver payment serves as
+       legal vindication for Sarah's honor before all.
 
 GLOSSARY
 ------------------------------------

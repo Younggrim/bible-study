@@ -252,6 +252,22 @@ Brook Kidron  — A seasonal stream/wadi running through the valley
               meant leaving Jerusalem — the boundary Solomon set for
               Shimei's confinement.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.3 — ASV: "keep the charge of Jehovah thy God" / WEB: "keep the instruction of Yahweh your God" / NET: "Do the job the Lord your God has assigned you" — The divine name appears as "Jehovah" (ASV), "Yahweh" (WEB), "the LORD" (KJV). NET dramatically paraphrases the Hebrew "mishmeret" (charge/duty) as "the job... assigned you," losing the covenantal weight of the priestly term "charge" used in Torah for sacred duty.
+
+- v.6 — ASV: "let not his hoar head go down to Sheol in peace" / WEB: "don't let his gray head go down to Sheol in peace" / NET: "don't let him live long and die a peaceful death" — NET removes both "Sheol" and the Hebrew idiom entirely, replacing it with a modern paraphrase. The Hebrew "sheol" (realm of the dead) is theologically significant, and "hoar head" (gray head) emphasizes that age does not exempt from justice.
+
+- v.7 — ASV: "show kindness" / WEB: "show kindness" / NET: "Treat fairly... and provide for their needs" — Hebrew "chesed" (covenant loyalty/lovingkindness) is rendered "kindness" (ASV/WEB) but NET expands to "treat fairly... provide for their needs," interpreting rather than translating this key Hebrew covenant term.
+
+- v.26 — ASV: "thou barest the ark of the Lord Jehovah" / WEB: "you bore the Lord Yahweh's ark" / NET: "you did carry the ark of the Sovereign Lord" — A rare instance of the compound divine name "Adonai YHWH." ASV renders "Lord Jehovah," WEB has "Lord Yahweh," and NET uses "Sovereign Lord." Each translation handles this dual divine title differently.
+
+- v.33 — ASV: "there be peace for ever from Jehovah" / WEB: "there will be peace forever from Yahweh" / NET: "may the Lord give perpetual peace to David" — NET restructures David's declarative covenant pronouncement into a prayer/wish ("may the Lord give"), softening what in Hebrew is a confident prophetic declaration about the Davidic dynasty's eternal peace.
+
+- v.46 — ASV: "the kingdom was established in the hand of Solomon" / WEB: "The kingdom was established in the hand of Solomon" / NET: "So Solomon took firm control of the kingdom" — NET shifts from passive ("was established" — implying God established it) to active ("Solomon took firm control"), subtly changing the theological emphasis from divine establishment to human agency.
+
+- v.2 — NET: "I am about to die. Be strong and become a man!" / ASV: "I am going the way of all the earth: be thou strong therefore, and show thyself a man" — NET omits the poetic idiom "the way of all the earth" (derek kol ha-aretz), one of Scripture's most memorable euphemisms for death. The idiom connects David's death to Joshua 23:14, where Joshua uses identical language.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. The foundation of all leadership is obedience to God's Word

@@ -162,68 +162,89 @@ Charles Spurgeon:
   that we bring our best. Not because our best earns anything, but because
   anything less reveals a heart that does not treasure Him."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "that they separate themselves from the holy things" / ESV:
-       "that they abstain from the holy things" — Hebrew "yinnazru" from
-       "nazar" (to separate, dedicate, abstain). The priests must distance
-       themselves from holy food when unclean. KJV's "separate" and ESV's
-       "abstain" both capture the idea of deliberate withdrawal.
+v.2  — Hebrew "yinnazru" from "nazar" (to separate, dedicate, abstain).
+       KJV: "that they separate themselves from the holy things"
+       ESV: "that they abstain from the holy things"
+       ASV: "they separate themselves from the holy things"
+       NET: "they must deal respectfully with the holy offerings"
+       Analysis: Remarkably different readings. NET interprets "yinnazru" as handling with respect; KJV/ASV/ESV read it as separating (abstaining) when unclean. Both are valid: the root "nazar" (separate) implies reverent distance. The priests must distance themselves from holy food when unclean.
 
-v.2  — KJV: "which they hallow unto me" / ESV: "which they dedicate to
-       me" — Hebrew "maqdishtm" from "qadash" (to make holy, set apart).
-       KJV's "hallow" is archaic English for "make holy." ESV's "dedicate"
-       is more accessible but slightly less precise.
+v.2  — Hebrew "maqdishtm" from "qadash" (to make holy, set apart).
+       KJV: "which they hallow unto me"
+       ESV: "which they dedicate to me"
+       Analysis: KJV's "hallow" is archaic English for "make holy." ESV's "dedicate" is more accessible but slightly less precise.
 
-v.4  — KJV: "a running issue" / ESV: "a discharge" — Hebrew "zav" — a
-       bodily discharge (cf. Leviticus 15). KJV's phrasing is archaic;
-       ESV modernizes.
+v.3  — Hebrew "karet" — cut off from God's presence.
+       KJV: "that soul shall be cut off from my presence"
+       ESV: "that person shall be cut off from my presence"
+       ASV: "having his uncleanness upon him, that soul shall be cut off from before me"
+       NET: "while he is impure, that person must be cut off from before me"
+       Analysis: NET clarifies "impure" rather than ASV's more literal "uncleanness upon him." "Cut off" (Hebrew "karet") — the most severe divine penalty: excommunication from God's presence.
 
-v.8  — KJV: "That which dieth of itself, or is torn with beasts" / ESV:
-       "what dies of itself or is torn by beasts" — Hebrew "nevelah"
-       (carcass/what dies naturally) and "terefah" (torn by animals). Both
-       render accurately. These are the same categories from Leviticus 17:15.
+v.4  — Hebrew "zav" — a bodily discharge.
+       KJV: "a running issue"
+       ESV: "a discharge"
+       ASV: "is a leper"
+       NET: "who is diseased"
+       WEB: "is a leper"
+       Analysis: KJV's phrasing is archaic; ESV modernizes. NET consistently avoids "leper," using "diseased" for "tsara'at." The principle: any form of ritual impurity bars a priest from eating holy food until purification.
 
-v.10 — KJV: "There shall no stranger eat of the holy thing" / ESV: "A lay
-       person shall not eat of a holy thing" — Hebrew "zar" — one who is
-       outside, a non-priest. KJV's "stranger" can be confusing (it does
-       not mean foreigner here but non-priest). ESV's "lay person" is
-       clearer for modern readers.
+v.8  — Hebrew "nevelah" and "terefah" — carcass and torn animal.
+       KJV: "That which dieth of itself, or is torn with beasts"
+       ESV: "what dies of itself or is torn by beasts"
+       Analysis: Both render accurately. These are the same categories from Leviticus 17:15.
 
-v.11 — KJV: "if the priest buy any soul with his money" / ESV: "if a
-       priest buys a slave as his property for money" — Hebrew "qinyan
-       kaspo" — acquisition of his silver/money. KJV uses "soul" (nephesh)
-       for the person purchased. ESV makes explicit that this refers to a
-       slave. The purchased person becomes part of the household and shares
-       in priestly food.
+v.10 — Hebrew "zar" — one who is outside, a non-priest.
+       KJV: "There shall no stranger eat of the holy thing"
+       ESV: "A lay person shall not eat of a holy thing"
+       Analysis: KJV's "stranger" can be confusing (it does not mean foreigner here but non-priest). ESV's "lay person" is clearer for modern readers.
 
-v.19 — KJV: "at your own will" / ESV: "if it is to be accepted for you"
-       — Hebrew "lirtzonkhem" — for your acceptance/pleasure. KJV's "at
-       your own will" means "for your acceptance" (not "whenever you feel
-       like it"). ESV clarifies the meaning.
+v.11 — Hebrew "qinyan kaspo" — acquisition of his silver/money.
+       KJV: "if the priest buy any soul with his money"
+       ESV: "if a priest buys a slave as his property for money"
+       Analysis: KJV uses "soul" (nephesh) for the person purchased. ESV makes explicit that this refers to a slave. The purchased person becomes part of the household and shares in priestly food.
 
-v.22 — KJV: "having a wen, or scurvy, or scabbed" / ESV: "having a
-       discharge or an itch or scabs" — Hebrew "yabbelet" (wart/wen),
-       "garav" (itch/scurvy), "yallepheth" (scab). KJV uses archaic
-       medical terms; ESV modernizes. All refer to skin conditions that
-       render an animal blemished.
+v.19 — Hebrew "lirtzonkhem" — for your acceptance/pleasure.
+       KJV: "at your own will"
+       ESV: "if it is to be accepted for you"
+       Analysis: KJV's "at your own will" means "for your acceptance" (not "whenever you feel like it"). ESV clarifies the meaning.
 
-v.23 — KJV: "any thing superfluous or lacking in his parts" / ESV: "a
-       part too long or too short" — Hebrew "sarua" (stretched/extended)
-       and "qalut" (stunted/contracted). Refers to a limb deformity —
-       one part disproportionate. KJV is vague; ESV is more specific.
+v.20 — Hebrew "mum" — blemish/defect.
+       KJV: "whatsoever hath a blemish, that shall ye not offer"
+       ASV: "whatsoever hath a blemish, that shall ye not offer"
+       NET: "you must not present any animal that has a physical flaw"
+       WEB: "whatever has a defect, that you shall not offer"
+       Analysis: NET's "physical flaw," ASV's "blemish," WEB's "defect" — three renderings of Hebrew "mum." The offering must match the unblemished character of God Himself.
 
-v.24 — KJV: "bruised, or crushed, or broken, or cut" / ESV: "its
-       testicles bruised or crushed or torn or cut" — Hebrew refers
-       specifically to damage to reproductive organs. ESV makes explicit
-       what KJV leaves implicit. These are four types of castration —
-       all forbidden for sacrifice.
+v.22 — Hebrew "yabbelet," "garav," "yallepheth" — skin conditions.
+       KJV: "having a wen, or scurvy, or scabbed"
+       ESV: "having a discharge or an itch or scabs"
+       Analysis: KJV uses archaic medical terms; ESV modernizes. All refer to skin conditions that render an animal blemished.
 
-v.32 — KJV: "I will be hallowed among the children of Israel" / ESV:
-       "that I may be sanctified among the people of Israel" — Hebrew
-       "v'niqdashti" — passive of "qadash" (to be holy). Both "hallowed"
-       (KJV) and "sanctified" (ESV) translate the same Hebrew root. God
-       will be treated as holy among His people.
+v.23 — Hebrew "sarua" and "qalut" — stretched and stunted.
+       KJV: "any thing superfluous or lacking in his parts"
+       ESV: "a part too long or too short"
+       Analysis: Refers to a limb deformity — one part disproportionate. KJV is vague; ESV is more specific.
+
+v.24 — Hebrew terms for four types of castration.
+       KJV: "bruised, or crushed, or broken, or cut"
+       ESV: "its testicles bruised or crushed or torn or cut"
+       Analysis: Hebrew refers specifically to damage to reproductive organs. ESV makes explicit what KJV leaves implicit. These are four types of castration — all forbidden for sacrifice.
+
+v.27 — Hebrew "dam" — mother animal.
+       KJV: "it shall be seven days under the dam"
+       ASV: "it shall be seven days under the dam"
+       NET: "it must remain seven days with its mother"
+       Analysis: NET modernizes "dam" (archaic for mother). The seven-day rule shows God's compassion extends even to animals — a newborn must not be torn from its mother immediately.
+
+v.32 — Hebrew "v'niqdashti" — passive of "qadash" (to be holy).
+       KJV: "I will be hallowed among the children of Israel"
+       ESV: "that I may be sanctified among the people of Israel"
+       ASV: "ye shall not profane my holy name; but I will be hallowed among the children of Israel"
+       NET: "You must not profane my holy name, and I will be sanctified in the midst of the Israelites"
+       Analysis: Both "hallowed" (KJV) and "sanctified" (ESV/NET) translate the same Hebrew root. God's name must be treated as holy. Profaning His name is the opposite of sanctifying it.
 
 GLOSSARY
 ------------------------------------

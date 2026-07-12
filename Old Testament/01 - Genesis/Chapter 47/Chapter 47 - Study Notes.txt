@@ -111,44 +111,60 @@ Charles Spurgeon:
   your life may feel 'few and evil' — but you carry the blessing of the
   Almighty. You are a pilgrim, yes. But you are a pilgrim with a destination."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.9  — KJV: "pilgrimage" / ESV: "sojourning" — Hebrew "megurim" —
-       sojournings, temporary dwellings. The ESV's "sojourning" is more
-       literal; the KJV's "pilgrimage" adds theological weight. Jacob sees
-       his entire life as temporary — the pilgrim theology of Hebrews 11.
+v.9  — Hebrew "megurim" — sojournings, temporary dwellings.
+       KJV: "pilgrimage"
+       ESV: "sojourning"
+       ASV: "pilgrimage"
+       NET: "travels"
+       WEB: "pilgrimage"
+       Analysis: The ESV's "sojourning" is more literal; the KJV's
+       "pilgrimage" adds theological weight. NET's "travels" is the most
+       neutral. Jacob sees his entire life as temporary — the pilgrim
+       theology of Hebrews 11.
 
-v.9  — KJV: "few and evil" / ESV: "few and evil" — Hebrew "me'at vera'im"
-       — few and bad/difficult. Both identical. Not moral evil but hardship.
+v.9  — Hebrew "me'at vera'im" — few and bad/difficult.
+       KJV: "few and evil"
+       ESV: "few and evil"
+       ASV: "few and evil"
+       NET: "few and painful"
+       WEB: "few and evil"
+       Analysis: Most translations agree on "few and evil." NET's "painful"
+       is blunter, interpreting "ra'im" as hardship rather than retaining
+       the broader "evil." Not moral evil but the experience of suffering
+       and difficulty.
 
-v.21 — KJV: "he removed them to cities" / ESV: "he moved the people into
-       the cities" — Hebrew "he'evir" — he transferred them. Both
-       equivalent. Some manuscripts read "he made them slaves" (he'evid).
-       The relocation was administrative.
+v.21 — Hebrew "he'evir" — he transferred them.
+       KJV: "he removed them to cities"
+       ESV: "he moved the people into the cities"
+       ASV: "he removed the people to the cities"
+       NET: "Joseph acquired all the land of Egypt for Pharaoh"
+       WEB: "he moved the people to the cities"
+       Analysis: Both KJV and ESV are equivalent. Some manuscripts read "he
+       made them slaves" (he'evid). The relocation was administrative. All
+       translations show Joseph centralizing power under Pharaoh.
 
-v.29 — KJV: "put thy hand under my thigh" / ESV: "put your hand under my
-       thigh" — Both identical. An ancient oath ritual involving the seat of
-       procreation — swearing by one's descendants. Deeply solemn.
+v.29 — Hebrew "sim yadekha tachat yerekhi" — put your hand under my thigh.
+       KJV: "put thy hand under my thigh"
+       ESV: "put your hand under my thigh"
+       ASV: "put thy hand under my thigh"
+       NET: "put your hand under my thigh"
+       WEB: "please put your hand under my thigh"
+       Analysis: All translations identical. An ancient oath ritual involving
+       the seat of procreation — swearing by one's descendants. Deeply
+       solemn.
 
-v.31 — KJV: "bowed himself upon the bed's head" / ESV: "bowed himself on
-       the head of his bed" — Hebrew "rosh hamittah" — the head of the bed.
-       Both equivalent. The LXX reads "the top of his staff" (matteh vs.
-       mittah) — quoted in Hebrews 11:21. Either way: Jacob worships.
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.9 — NET: "All the years of my travels are 130. All the years of my life
-  have been few and painful" — renders Hebrew "megurai" as "travels" (vs.
-  "pilgrimage" KJV / "sojourning" ESV). NET's "painful" is blunter than
-  KJV's "few and evil." WEB: "The years of my pilgrimage are one hundred
-  thirty years. The days of the years of my life have been few and evil."
-- v.25 — NET: "Joseph acquired all the land of Egypt for Pharaoh" — the
-  economic/political narrative is rendered consistently. All translations
-  show Joseph centralizing power under Pharaoh.
-- v.31 — NET: "Israel bowed down at the head of his bed" — same as KJV.
-  WEB: "Israel bowed himself on the bed's head." The Hebrew "mittah"
-  (bed) vs. LXX "matteh" (staff, as in Hebrews 11:21) presents a textual
-  variant: the difference is only in vowel pointing.
+v.31 — Hebrew "rosh hamittah" — the head of the bed.
+       KJV: "bowed himself upon the bed's head"
+       ESV: "bowed himself on the head of his bed"
+       ASV: "bowed himself upon the bed's head"
+       NET: "bowed down at the head of his bed"
+       WEB: "bowed himself on the bed's head"
+       Analysis: All translations equivalent. The LXX reads "the top of his
+       staff" (matteh vs. mittah) — quoted in Hebrews 11:21. The Hebrew
+       "mittah" (bed) vs. LXX "matteh" (staff) presents a textual variant:
+       the difference is only in vowel pointing. Either way: Jacob worships.
 
 GLOSSARY
 ------------------------------------

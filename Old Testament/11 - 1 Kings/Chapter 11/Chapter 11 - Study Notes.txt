@@ -234,6 +234,22 @@ Ahijah        — "Brother of Yahweh" — a prophet from Shiloh who
               represents the prophetic voice that both gives and
               takes away kingdoms.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.4 — ASV: "his heart was not perfect with Jehovah his God, as was the heart of David his father" / WEB: "his heart was not perfect with Yahweh his God" / NET: "he was not wholeheartedly devoted to the Lord his God, as his father David had been" — Hebrew "shalem" = complete, whole, undivided (same root as "shalom"). ASV/WEB's "perfect" preserves the Hebrew concept of an undivided heart. NET's "wholeheartedly devoted" is accurate paraphrase but loses the specific Hebrew term that connects to Solomon's own name (Shelomoh/shalom/shalem).
+
+- v.6 — ASV: "Solomon did that which was evil in the sight of Jehovah" / WEB: "Solomon did that which was evil in Yahweh's sight" / NET: "Solomon did evil in the Lord's sight" — This is the formulaic judgment phrase used throughout Kings for wicked kings (Hebrew: "vaya'as ha-ra b'einei YHWH"). Its application to Solomon — the wisest king — is devastating. All translations preserve this formula faithfully.
+
+- v.5 — ASV: "Milcom the abomination of the Ammonites" / WEB: "Milcom the abomination of the Ammonites" / NET: "the detestable Ammonite god Milcom" — Hebrew "shiqquts" = abomination/detestable thing — a term specifically used for idols (distinct from "to'evah" used for moral abominations). ASV/WEB use "abomination" (the traditional rendering); NET uses "detestable," which is equivalent but less familiar as a technical term for idol-loathing.
+
+- v.36 — ASV: "that David my servant may have a lamp alway before me in Jerusalem" / WEB: "that David my servant may have a lamp always before me in Jerusalem" / NET: "so my servant David's dynasty may continue to serve me in Jerusalem" — Hebrew "ner" = lamp. The metaphor of a "lamp" for David's dynasty is unique covenant language (2 Samuel 21:17; 1 Kings 15:4). NET removes the metaphor entirely, replacing "lamp" with "dynasty may continue." The lamp imagery connects to the temple lampstand — David's line keeps God's light burning.
+
+- v.11 — ASV: "I will surely rend the kingdom from thee" / WEB: "I will surely tear the kingdom from you" / NET: "I will surely tear the kingdom away from you" — Hebrew "qara'" = to tear/rend (like fabric). The same verb used in v.30 when Ahijah tears his garment into twelve pieces as a prophetic sign. ASV's "rend" preserves this connection to the physical tearing of the garment.
+
+- v.14 — ASV: "Jehovah raised up an adversary unto Solomon, Hadad the Edomite" / WEB: "Yahweh raised up an adversary to Solomon" / NET: "The Lord brought against Solomon an enemy" — Hebrew "satan" = adversary (the common noun, not the proper name Satan). ASV/WEB translate as "adversary"; NET uses "enemy." The Hebrew word choice is theologically significant — God raises up "satans" (opponents) as instruments of judgment.
+
+- v.2 — ASV: "for surely they will turn away your heart after their gods: Solomon clave unto these in love" / WEB: "Solomon joined to these in love" / NET: "But Solomon was irresistibly attracted to them" — Hebrew "davaq" = to cling, cleave, hold fast — the same word used for marriage in Genesis 2:24 ("a man shall cleave unto his wife"). NET's "irresistibly attracted" implies lack of agency; the Hebrew "cleave" implies deliberate choice.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. No one is too wise to fall (vv.1-4). Solomon — supernaturally

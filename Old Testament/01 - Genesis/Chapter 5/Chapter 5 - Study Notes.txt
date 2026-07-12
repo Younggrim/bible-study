@@ -90,67 +90,73 @@ Charles Spurgeon:
   becomes the eternal presence. Start walking today — and one day, without
   interruption, you'll find yourself home."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "This is the book of the generations of Adam. In the day that
-       God created man, in the likeness of God made he him" / ESV: "This is
-       the book of the generations of Adam. When God created man, he made him
-       in the likeness of God" — Both equivalent. Hebrew "sepher toledoth" —
-       the written record of the descendants. The second "toledoth" section
-       in Genesis (the first is 2:4). ESV restructures for modern English
-       word order.
+v.1  — Hebrew "sepher toledoth Adam" — the written record of Adam's descendants.
+       KJV: "This is the book of the generations of Adam"
+       ESV: "This is the book of the generations of Adam"
+       ASV: "This is the book of the generations of Adam"
+       NET: "This is the record of the family line of Adam"
+       WEB: "This is the book of the generations of Adam"
+       Analysis: NET modernizes "sepher toledoth" to "record of the family
+       line" rather than the traditional "book of the generations." The
+       second "toledoth" section in Genesis (first is 2:4). KJV/ESV/ASV/WEB
+       all use the traditional rendering.
 
-v.2  — KJV: "called their name Adam" / ESV: "named them Man" — Hebrew
-       "Adam" means "man/mankind." ESV translates the name to show its
-       meaning; KJV retains the proper name. Both are valid — "Adam" is both
-       a name and the Hebrew word for "man."
+v.2  — Hebrew "vayyiqra eth-shemam Adam" — called their name Adam/Man.
+       KJV: "called their name Adam"
+       ESV: "named them Man"
+       ASV: "called their name Adam"
+       NET: "named them 'humankind'"
+       WEB: "called their name Adam"
+       Analysis: "Adam" means "man/mankind" in Hebrew. ESV translates as
+       "Man" to show its meaning. NET uses "humankind" — gender-inclusive,
+       emphasizing the collective sense (male and female together). KJV/ASV/
+       WEB retain the proper name.
 
-v.3  — KJV: "begat a son in his own likeness, after his image" / ESV:
-       "fathered a son in his own likeness, after his image" — Both
-       equivalent. KJV's "begat" vs. ESV's "fathered" — same Hebrew "yalad"
-       (to beget/father). Adam's son bears Adam's (fallen) image, not just
-       God's original image. The image of God continues but is now
-       transmitted through a fallen nature.
+v.3  — Hebrew "yalad... bidmuto ketsalmo" — fathered... in his likeness, after his image.
+       KJV: "begat a son in his own likeness, after his image"
+       ESV: "fathered a son in his own likeness, after his image"
+       ASV: "begat a son in his own likeness, after his image"
+       NET: "he fathered a son in his likeness, according to his image"
+       WEB: "became the father of a son in his own likeness, after his image"
+       Analysis: KJV/ASV use archaic "begat"; ESV/NET use "fathered"; WEB
+       paraphrases to "became the father of." Adam's son bears Adam's
+       (fallen) image — the image of God continues but is now transmitted
+       through a fallen nature.
 
-v.22 — KJV: "walked with God" / ESV: "walked with God" — Both identical.
-       Hebrew "hithhallek eth ha-Elohim" — walked habitually with God. The
-       hithpael (reflexive) form suggests ongoing, deliberate, intimate
-       companionship.
+v.22 — Hebrew "hithhallek Chanokh eth ha-Elohim" — Enoch walked with God.
+       KJV: "Enoch walked with God"
+       ESV: "Enoch walked with God"
+       ASV: "Enoch walked with God"
+       NET: "Enoch walked with God"
+       WEB: "Enoch walked with God"
+       Analysis: All translations identical. The hithpael (reflexive) form
+       suggests ongoing, deliberate, intimate companionship. The uniformity
+       across all translations shows the clarity of the Hebrew here.
 
-v.24 — KJV: "he was not; for God took him" / ESV: "he was not, for God took
-       him" — Both identical. Hebrew "einennu ki laqach oto Elohim" — he was
-       no more because God took/received him. Enoch was translated directly
-       to God's presence without dying.
+v.24 — Hebrew "einennu ki laqach oto Elohim" — he was no more because God took him.
+       KJV: "he was not; for God took him"
+       ESV: "he was not, for God took him"
+       ASV: "he was not; for God took him"
+       NET: "he disappeared because God took him away"
+       WEB: "he was not found, for God took him"
+       Analysis: NET uniquely renders "he was not" as "he disappeared" —
+       making the supernatural event more vivid. WEB adds "found" (not in
+       Hebrew), suggesting people looked for Enoch but couldn't locate him.
+       KJV/ESV/ASV preserve the stark Hebrew: "he was not."
 
-v.27 — Methuselah's name may mean "when he dies, it shall come" — possibly
-       prophetic of the flood. He died the year the flood came. Both KJV and
-       ESV render the name identically.
-
-v.29 — KJV: "This same shall comfort us concerning our work and toil of our
-       hands, because of the ground which the LORD hath cursed" / ESV: "Out
-       of the ground that the LORD has cursed, this one shall bring us relief
-       from our work and from the painful toil of our hands" — Hebrew
-       "yenachamenu" — shall comfort/bring relief. ESV restructures for
-       clarity and uses "relief" and "painful toil" to make the connection
-       to the curse of 3:17-19 more explicit. "Noah" — Hebrew "Noach" —
-       rest, comfort. Related to "nacham" (comfort).
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "the record of the family line of Adam" — renders Hebrew
-  "sepher toledoth" as "record of the family line" rather than "book of the
-  generations" (KJV/ESV/ASV), modernizing the genealogical formula.
-- v.2 — NET: "named them 'humankind'" — translates Hebrew "Adam" as the
-  common noun "humankind" rather than the proper name, emphasizing the
-  collective sense (male and female together named "Adam/humanity").
-- v.24 — NET: "he disappeared because God took him away" — uniquely renders
-  "he was not" as "he disappeared," making the supernatural event more vivid
-  and explicit for modern readers.
-  WEB: "he was not found, for God took him" — adds "found" (not in the
-  Hebrew), clarifying that people looked for Enoch but could not locate him.
-- v.29 — ASV brackets "[which cometh]" to show this is supplied for clarity
-  and not in the Hebrew, demonstrating ASV's practice of marking translator
-  additions. This transparency about the Hebrew text is unique to ASV.
+v.29 — Hebrew "zeh yenachamenu" — this one shall comfort/bring relief.
+       KJV: "This same shall comfort us concerning our work and toil"
+       ESV: "this one shall bring us relief from our work and from the painful toil"
+       ASV: "This same shall comfort us in our work and in the toil [which cometh]"
+       NET: "This one will bring us comfort from our labor and from the painful toil"
+       WEB: "This one will comfort us in our work and in the toil of our hands"
+       Analysis: "Noah" (Noach) = rest/comfort, related to "nacham." ESV
+       uses "relief" and "painful toil" to make the connection to the curse
+       of 3:17-19 explicit. ASV uniquely brackets "[which cometh]" to show
+       it is supplied for clarity and not in the Hebrew — demonstrating
+       ASV's transparency about translator additions.
 
 GLOSSARY
 ------------------------------------

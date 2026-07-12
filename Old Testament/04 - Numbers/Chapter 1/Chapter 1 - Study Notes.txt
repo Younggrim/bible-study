@@ -149,51 +149,133 @@ Charles Spurgeon:
   one of His redeemed? You are not lost in the crowd. You are numbered,
   named, and known."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "in the tabernacle of the congregation" / ESV: "in the tent
-       of meeting" — Hebrew "b'ohel mo'ed." The KJV's "tabernacle of the
-       congregation" emphasizes the gathering aspect; the ESV's "tent of
-       meeting" emphasizes the encounter with God. Same structure — the
-       place where God meets with Moses.
+v.1  — Hebrew "b'ohel mo'ed" — the tent/tabernacle of appointed meeting.
+       KJV: "in the tabernacle of the congregation"
+       ESV: "in the tent of meeting"
+       ASV: "in the wilderness of Sinai, in the tent of meeting"
+       NET: "in the tent of meeting in the desert of Sinai"
+       WEB: "in the wilderness of Sinai, in the Tent of Meeting"
+       Analysis: KJV's "tabernacle of the congregation" emphasizes the
+       gathering aspect; ESV/ASV/WEB's "tent of meeting" emphasizes the
+       encounter with God. NET reverses word order and uses "desert"
+       (Hebrew "midbar") where ASV/WEB use "wilderness." "Midbar" can mean
+       either — it denotes uninhabited, uncultivated land, not necessarily
+       sandy desert. Same structure — the place where God meets with Moses.
 
-v.2  — KJV: "Take ye the sum" / ESV: "Take a census" — Hebrew "s'u et
-       rosh" — literally "lift the head" (i.e., count heads). The Hebrew
-       idiom means to take a head count. KJV's "sum" and ESV's "census"
-       both capture the meaning.
+v.1  — Hebrew "YHWH" — the divine covenant name.
+       KJV: "the LORD spake unto Moses"
+       ESV: "the LORD spoke to Moses"
+       ASV: "Jehovah spake unto Moses"
+       NET: "the Lord spoke to Moses"
+       WEB: "Yahweh spoke to Moses"
+       Analysis: The characteristic divine name difference. ASV renders the
+       tetragrammaton as "Jehovah"; WEB uses "Yahweh"; KJV/ESV/NET use
+       "the LORD" (small caps convention). Numbers opens with YHWH speaking
+       — the book is framed as divine speech, not human record-keeping.
 
-v.2  — KJV: "by their polls" / ESV: "head by head" — Hebrew "l'gulg'lotam"
-       — by their skulls/heads. KJV's "polls" is archaic English for
-       "heads" (as in a "poll tax" — a per-head tax). ESV modernizes.
+v.2  — Hebrew "s'u et rosh" — literally "lift the head" (count heads).
+       KJV: "Take ye the sum of all the congregation"
+       ESV: "Take a census of all the congregation"
+       ASV: "Take ye the sum of all the congregation"
+       NET: "Take a census of the entire Israelite community"
+       WEB: "Take a census of all the congregation"
+       Analysis: The Hebrew idiom means to take a head count by lifting
+       each head — personal, individual counting. KJV/ASV's "sum" and
+       ESV/NET/WEB's "census" both capture the meaning. NET modernizes
+       with "Israelite community" for "congregation."
 
-v.16 — KJV: "the renowned of the congregation, princes of the tribes" /
+v.2  — Hebrew "l'gulg'lotam" — by their skulls/heads.
+       KJV: "by their polls"
+       ESV: "head by head"
+       ASV: "by their families, by their fathers' houses"
+       NET: "by their clans and families"
+       WEB: "by their families, by their fathers' houses"
+       Analysis: KJV's "polls" is archaic English for "heads" (as in a
+       "poll tax" — a per-head tax). ESV modernizes to "head by head."
+       Hebrew "mishpachot" (clans) and "beth avot" (fathers' houses) —
+       NET simplifies the kinship terminology; ASV/WEB preserve the
+       two-level tribal structure.
+
+v.3  — Hebrew "yotse tsava" — those going out to battle.
+       KJV: "all that are able to go forth to war in Israel"
+       ESV: "all in Israel who are able to go to war"
+       ASV: "all that are able to go forth to war in Israel"
+       NET: "all in Israel who can serve in the army"
+       WEB: "all who are able to go out to war in Israel"
+       Analysis: NET's "serve in the army" modernizes ASV/WEB/KJV's more
+       literal "go forth to war." This is a military census, not just a
+       population count. The Hebrew emphasizes active deployment — going
+       out to battle.
+
+v.16 — Hebrew "q'ri'ei ha-edah, n'si'ei mattot" — the called ones of the
+       assembly, the princes/chiefs of the tribes.
+       KJV: "the renowned of the congregation, princes of the tribes"
        ESV: "the ones chosen from the congregation, the chiefs of their
-       ancestral tribes" — Hebrew "q'ri'ei ha-edah, n'si'ei mattot" —
-       the called/summoned ones of the assembly, the princes/chiefs of the
-       tribes. KJV's "renowned" captures their fame; ESV's "chosen"
-       captures their selection.
+       ancestral tribes"
+       ASV: "the elect of the congregation, the princes of the tribes"
+       NET: "leaders of the community, heads of the clans"
+       WEB: "the chosen of the congregation, the princes of the tribes"
+       Analysis: KJV's "renowned" captures their fame; ESV's "chosen"
+       captures their selection. ASV/WEB follow the "chosen/elect" sense.
+       NET simplifies to "leaders" and "heads." All are aspects of the
+       tribal head's role.
 
-v.18 — KJV: "they declared their pedigrees" / ESV: "they registered
-       themselves" — Hebrew "yityaldu" — they had themselves registered by
-       genealogy. KJV's "declared their pedigrees" is more literal; ESV
-       simplifies.
+v.18 — Hebrew "yityaldu" — they had themselves registered by genealogy.
+       KJV: "they declared their pedigrees"
+       ESV: "they registered themselves"
+       ASV: "they declared their pedigrees"
+       NET: "they recorded their ancestry"
+       WEB: "they declared their descent"
+       Analysis: KJV/ASV's "declared their pedigrees" is more literal;
+       ESV simplifies to "registered themselves." The Hebrew emphasizes
+       genealogical self-declaration — each man publicly identified his
+       lineage.
 
-v.50 — KJV: "the tabernacle of testimony" / ESV: "the tabernacle of the
-       testimony" — Hebrew "mishkan ha-edut" — the dwelling of the
-       testimony. "Testimony" refers to the tablets of the Law inside the
+v.46 — Hebrew: the census total.
+       KJV: "six hundred thousand and three thousand and five hundred and fifty"
+       ESV: "603,550"
+       ASV: "six hundred thousand and three thousand and five hundred and fifty"
+       NET: "603,550"
+       WEB: "603,550"
+       Analysis: NET/ESV/WEB use numerals for readability; KJV/ASV spell
+       them out following the Hebrew text's written form. This total becomes
+       a standard reference point for Israel's population throughout the
+       wilderness period.
+
+v.50 — Hebrew "mishkan ha-edut" — the dwelling of the testimony.
+       KJV: "the tabernacle of testimony"
+       ESV: "the tabernacle of the testimony"
+       ASV: "the tabernacle of the testimony"
+       NET: "the tabernacle of the testimony"
+       WEB: "the tabernacle of the Testimony"
+       Analysis: "Testimony" refers to the tablets of the Law inside the
        ark. The Tabernacle is named for what it houses: God's covenant
-       testimony.
+       testimony. All translations agree here; WEB capitalizes "Testimony"
+       to emphasize its reference to the covenant documents.
 
-v.51 — KJV: "the stranger that cometh nigh" / ESV: "if any outsider comes
-       near" — Hebrew "v'ha-zar ha-qarev." "Zar" means stranger/outsider
-       — anyone not a Levite. Not a foreigner necessarily, but anyone
-       unauthorized. Approach to the holy things without authorization
-       means death.
+v.51 — Hebrew "v'ha-zar ha-qarev" — the stranger/outsider who draws near.
+       KJV: "the stranger that cometh nigh"
+       ESV: "if any outsider comes near"
+       ASV: "the stranger that cometh nigh"
+       NET: "any unauthorized person who approaches"
+       WEB: "the stranger who comes near"
+       Analysis: "Zar" means stranger/outsider — anyone not a Levite. Not
+       a foreigner necessarily, but anyone unauthorized. NET makes this
+       explicit with "unauthorized person." Approach to the holy things
+       without authorization means death.
 
-v.52 — KJV: "every man by his own standard" / ESV: "each man by his own
-       standard" — Hebrew "al diglo" — by his banner/flag. Each tribal
-       division had a standard (flag/banner) as a rallying point. Military
-       organization.
+v.52 — Hebrew "al diglo" — by his banner/flag.
+       KJV: "every man by his own standard"
+       ESV: "each man by his own standard"
+       ASV: "every man by his own camp"
+       NET: "with his own camp"
+       WEB: "every man by his own camp"
+       Analysis: Each tribal division had a standard (flag/banner) as a
+       rallying point. KJV/ESV preserve "standard"; ASV/NET/WEB use "camp"
+       — referring to the same organized military divisions identified by
+       their banners.
 
 GLOSSARY
 ------------------------------------

@@ -112,42 +112,78 @@ Charles Spurgeon:
   declarations. And not one 'you must' among them. This is grace: God does
   it all. Our part? Believe it. Receive it. Rest in it."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3  — KJV: "by my name JEHOVAH was I not known to them" / ESV: "by my
-       name the LORD I did not make myself known to them" — Hebrew "ushmi
-       YHWH lo nodati lahem." The ESV's "make myself known" captures the
-       reflexive Hebrew verb better. This does not mean the patriarchs never
+v.3  — Hebrew "ushmi YHWH lo nodati lahem" — by my name YHWH I was not known to them.
+       KJV: "by my name JEHOVAH was I not known to them"
+       ESV: "by my name the LORD I did not make myself known to them"
+       ASV: "by my name Jehovah I was not known to them"
+       NET: "by my name 'the LORD' I was not known to them"
+       WEB: "by my name Yahweh I was not known to them"
+       Analysis: ESV's "make myself known" captures the reflexive Hebrew verb
+       better than others' passive construction. ASV/WEB make God's personal
+       name explicit (Jehovah/Yahweh) — the theology is much clearer when
+       the actual name is visible. This does not mean the patriarchs never
        heard the name YHWH (Genesis 15:7 uses it), but that they did not
        EXPERIENCE its full meaning — God as covenant-keeper who acts in
        history to redeem.
 
-v.6  — KJV: "redeem" / ESV: "redeem" — Hebrew "ga'al" — to redeem as a
-       kinsman-redeemer. Both translations identical. God acts as Israel's
-       go'el — their nearest relative who pays the price to set them free.
+v.6  — Hebrew "ga'al" — to redeem as kinsman-redeemer; "zeroa netuyah" — an extended, powerful arm.
+       KJV: "I will redeem you with a stretched out arm"
+       ESV: "I will redeem you with an outstretched arm"
+       ASV: "I will redeem you with an outstretched arm"
+       NET: "I will redeem you with an outstretched arm"
+       WEB: "I will redeem you with an outstretched arm"
+       Analysis: All translations are virtually identical. God acts as
+       Israel's go'el — their nearest relative who pays the price to set
+       them free. Military imagery: God as warrior fighting for His people.
+       Fulfilled ultimately in Christ.
 
-v.6  — KJV: "stretched out arm" / ESV: "outstretched arm" — Hebrew "zeroa
-       netuyah" — an extended, powerful arm. Both translations equivalent.
-       Military imagery: God as warrior fighting for His people.
+v.8  — Hebrew "morasha" — heritage/inheritance.
+       KJV: "for an heritage"
+       ESV: "for a possession"
+       ASV: "for a heritage"
+       NET: "as a possession"
+       WEB: "for a heritage"
+       Analysis: NET/ESV render "morasha" as "possession" — a more
+       legal/concrete term. KJV/ASV/WEB retain "heritage," which carries
+       covenantal weight — it's not just property but a family inheritance
+       tied to God's promise. The land is not merely owned but bequeathed.
 
-v.9  — KJV: "anguish of spirit" / ESV: "broken spirit" — Hebrew "qotser
-       ruach" — shortness of spirit/breath. The KJV's "anguish" and the
-       ESV's "broken spirit" both capture the idea, though the Hebrew is
-       literally "shortness of breath" — spiritual suffocation from
-       oppression.
+v.9  — Hebrew "miqotser ruach" — shortness of spirit/breath.
+       KJV: "for anguish of spirit, and for cruel bondage"
+       ESV: "because of their broken spirit and harsh slavery"
+       ASV: "for anguish of spirit, and for cruel bondage"
+       NET: "because of their discouragement and hard labor"
+       WEB: "for anguish of spirit, and for cruel bondage"
+       Analysis: NET's "discouragement" is an interpretive paraphrase — less
+       emotionally vivid than the literal "shortness of breath." The Hebrew
+       captures spiritual suffocation from oppression. ASV/KJV/WEB retain
+       "anguish of spirit" — more literal. ESV's "broken spirit" interprets
+       well but loses the breath/wind imagery.
 
-v.12 — KJV: "uncircumcised lips" / ESV: "uncircumcised lips" — Hebrew
-       "aral sefatayim" — lips that are blocked, closed, unfit. Both
-       translations identical. A metaphor: as uncircumcised flesh is unfit
-       for covenant, so Moses' lips feel unfit for God's message.
+v.12 — Hebrew "aral sefatayim" — lips that are blocked, closed, unfit.
+       KJV: "uncircumcised lips"
+       ESV: "uncircumcised lips"
+       ASV: "uncircumcised lips"
+       NET: "I speak with difficulty"
+       WEB: "uncircumcised lips"
+       Analysis: NET paraphrases entirely, losing the theological resonance
+       of "uncircumcised" as a barrier metaphor — as uncircumcised flesh is
+       unfit for covenant, so Moses' lips feel unfit for God's message.
+       KJV/ESV/ASV/WEB all preserve this striking Hebrew metaphor.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.3 — ASV: "by my name Jehovah I was not known to them" / WEB: "by my name Yahweh I was not known to them" — both make God's personal name explicit where ESV/KJV hide it behind "the LORD." This verse's theology is much clearer when the actual name is visible.
-- v.9 — NET: "because of their discouragement and hard labor" — interpretive paraphrase of Hebrew "miqotser ruach" (shortness of spirit); ASV/WEB retain "anguish of spirit" — more literal and emotionally vivid.
-- v.12 — ASV/WEB: "uncircumcised lips" — preserves the striking Hebrew metaphor "aral sefatayim"; NET paraphrases to "I speak with difficulty," losing the theological resonance of "uncircumcised" as a barrier metaphor.
-- v.26 — ASV: "according to their hosts" / WEB: "according to their armies" / NET: "by their regiments" — three different renderings of Hebrew "tsiv'otam." NET's "regiments" is uniquely military; WEB's "armies" is similar; ASV's "hosts" preserves the word used in "LORD of hosts."
-- v.8 — NET: "I will give it to you as a possession" — renders Hebrew "morasha" (heritage/inheritance) as "possession," a more legal/concrete term; ASV/WEB retain "heritage," which carries covenantal weight.
+v.26 — Hebrew "tsiv'otam" — their hosts/armies.
+       KJV: "according to their armies"
+       ESV: "by their companies"
+       ASV: "according to their hosts"
+       NET: "by their regiments"
+       WEB: "according to their armies"
+       Analysis: Three different rendering approaches. NET's "regiments" is
+       uniquely military. ASV's "hosts" preserves the word used in "LORD of
+       hosts" (YHWH Tseva'ot). ESV's "companies" is neutral. KJV/WEB use
+       "armies" — Israel leaves Egypt as an organized force, not a fleeing
+       mob.
 
 GLOSSARY
 ------------------------------------

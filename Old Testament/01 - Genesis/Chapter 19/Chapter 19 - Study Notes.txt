@@ -110,52 +110,81 @@ Charles Spurgeon:
   knowing they should flee but reluctant to leave their Sodom? Don't linger.
   Judgment doesn't wait for the reluctant."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "Lot sat in the gate" / ESV: "Lot was sitting in the gate of
-       Sodom" — Both equivalent. The gate was the place of civic authority
-       and business. Lot had risen to a position of influence in Sodom —
-       fully integrated into the city.
+v.1  — Hebrew "yoshev basha'ar" — sitting in the gate (civic authority).
+       KJV: "Lot sat in the gate"
+       ESV: "Lot was sitting in the gate of Sodom"
+       ASV: "Lot sat in the gate of Sodom"
+       NET: "Lot was sitting in the gateway of Sodom"
+       WEB: "Lot sat in the gate of Sodom"
+       Analysis: All translations are equivalent. The gate was the place of civic
+       authority and business. Lot had risen to a position of influence in Sodom —
+       fully integrated into the city he once only pitched his tent "toward."
 
-v.5  — KJV: "that we may know them" / ESV: "that we may know them" — Both
-       identical. Hebrew "neda" — to know. Used here in the sexual sense. The
-       men of Sodom demanded sexual access to the visitors.
+v.5  — Hebrew "neda" — to know (used here in the sexual sense).
+       KJV: "that we may know them"
+       ESV: "that we may know them"
+       ASV: "that we may know them"
+       NET: "so we can take carnal knowledge of them"
+       WEB: "that we may know them"
+       Analysis: KJV, ESV, ASV, and WEB retain the Hebrew euphemism "know them,"
+       preserving the biblical idiom. NET renders the Hebrew with its explicit sexual
+       meaning ("carnal knowledge"), removing all ambiguity about the nature of
+       Sodom's sin. The men demanded sexual access to the visitors.
 
-v.16 — KJV: "while he lingered" / ESV: "But he lingered" — Both equivalent.
-       Hebrew "yithmahemah" — hesitated, delayed, was reluctant. Even with
-       angels urging and judgment imminent, Lot was slow to leave. His heart
-       was attached to Sodom.
+v.9  — Hebrew "wayyiggash lishpot" — and he presses close to judge.
+       KJV: "and he will needs be a judge"
+       ESV: "This fellow... would keep acting as a judge"
+       ASV: "and he will needs be a judge"
+       NET: "This man came to live here as a foreigner, and now he dares to judge us!"
+       WEB: "and he wants to be a judge"
+       Analysis: NET adds "dares to" for emphasis, capturing the mob's outrage at
+       Lot's moral authority as a newcomer. The mob resents a foreigner exercising
+       moral judgment — showing Sodom's hostility to righteousness.
 
-v.24 — KJV: "brimstone and fire from the LORD out of heaven" / ESV: "sulfur
-       and fire from the LORD out of heaven" — Hebrew "gophrith" — ESV uses
-       modern "sulfur" where KJV uses archaic "brimstone" (burning stone).
-       Same substance. "From the LORD" — divine origin, not natural disaster.
+v.16 — Hebrew "yithmahemah" — hesitated, delayed, was reluctant.
+       KJV: "while he lingered"
+       ESV: "But he lingered"
+       ASV: "But he lingered"
+       NET: "When Lot hesitated"
+       WEB: "But he lingered"
+       Analysis: All translations capture the reluctance. Even with angels urging
+       and judgment imminent, Lot was slow to leave. His heart was attached to
+       Sodom. The mercy of God physically dragged him to safety (v.16b).
 
-v.26 — KJV: "looked back" / ESV: "looked back" — Both identical. Hebrew
-       "tabbeth" — looked intently, gazed back. More than a glance — a
-       longing look. Her heart was still in Sodom. "Pillar of salt" —
-       instantaneous judgment for disobedience.
+v.24 — Hebrew "gophrith wa'esh" — sulfur/brimstone and fire.
+       KJV: "brimstone and fire from the LORD out of heaven"
+       ESV: "sulfur and fire from the LORD out of heaven"
+       ASV: "brimstone and fire from Jehovah out of heaven"
+       NET: "the Lord rained down sulfur and fire...sent down from the sky by the Lord"
+       WEB: "sulfur and fire from Yahweh out of the sky"
+       Analysis: KJV/ASV use archaic "brimstone" (burning stone); ESV/NET/WEB use
+       modern "sulfur." Same substance. Note "from the LORD" — divine origin, not
+       natural disaster. NET and WEB use "sky" for "heaven" in this context.
 
-v.29 — KJV: "God remembered Abraham" / ESV: "God remembered Abraham" —
-       Both identical. Lot was saved not because of his own righteousness but
-       because of Abraham's intercession. The power of prayer for others.
+v.26 — Hebrew "tabbeth" — looked intently, gazed back.
+       KJV: "looked back"
+       ESV: "looked back"
+       ASV: "looked back from behind him"
+       NET: "looked back longingly"
+       WEB: "looked back from behind him"
+       Analysis: KJV/ESV use the simple phrase. ASV/WEB add "from behind him,"
+       specifying her position. NET uniquely adds "longingly" — an interpretive
+       addition not in the Hebrew but capturing the emotional attachment to Sodom.
+       More than a glance — a longing look. Her heart was still in Sodom. "Pillar
+       of salt" — instantaneous judgment for disobedience.
 
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.5 — NET: "so we can take carnal knowledge of them" — renders Hebrew
-  "neda" (know) with its explicit sexual meaning where KJV/ASV retain "know
-  them" and ESV has "know them." NET removes all ambiguity about the sin.
-- v.9 — NET: "This man came to live here as a foreigner, and now he dares to
-  judge us!" — adds "dares to" for emphasis, capturing the mob's outrage at
-  Lot's moral authority as a newcomer.
-- v.24 — NET: "the Lord rained down sulfur and fire...sent down from the sky
-  by the Lord" — uses "sulfur" (modern chemistry) where KJV/ASV have
-  "brimstone" (archaic). WEB also uses "sulfur and fire."
-- v.26 — NET: "Lot's wife looked back longingly" — adds "longingly" (not in
-  the Hebrew) to interpret the backward glance as emotional attachment to
-  Sodom, not mere curiosity.
-- v.29 — NET typically renders "God remembered Abraham" (v.29) with its
-  active-intervention sense, consistent with 8:1 usage.
+v.29 — Hebrew "wayyizkor Elohim eth-Avraham" — God remembered Abraham.
+       KJV: "God remembered Abraham"
+       ESV: "God remembered Abraham"
+       ASV: "God remembered Abraham"
+       NET: "God remembered Abraham"
+       WEB: "God remembered Abraham"
+       Analysis: All five translations are identical. Lot was saved not because of
+       his own righteousness but because of Abraham's intercession. "Remembered"
+       carries the active-intervention sense — God acted on Abraham's behalf. The
+       power of a righteous person's prayer for others.
 
 GLOSSARY
 ------------------------------------

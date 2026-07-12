@@ -105,40 +105,87 @@ Charles Spurgeon:
   beholding the glory of the Lord, are changed into the same image. Our glory
   does not fade — it increases, from glory to glory."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.6 — KJV: "longsuffering, and abundant in goodness and truth" / ESV: "slow
- to anger, and abounding in steadfast love and faithfulness" — Hebrew
- "ʼerek ʼappayim verav-chesed veʼemet." "Chesed" = covenant love,
- loyal love, steadfast love. "ʼEmet" = truth, faithfulness,
- reliability. ESV's "steadfast love" captures the covenantal nature.
+v.1  — Hebrew "pesal-leka" — to cut/carve stone.
+       KJV: "Hew thee two tables of stone"
+       ESV: "Cut for yourself two tablets of stone"
+       ASV: "Hew thee two tables of stone"
+       NET: "Cut out two tablets of stone"
+       WEB: "Chisel two stone tablets"
+       Analysis: ASV/KJV retain "hew" (archaic); WEB uses "chisel" (most precise craft terminology for stonecutting); NET uses "cut out"; ESV uses "cut." The verb "pasal" means to cut/carve stone — WEB's "chisel" is the most specific English equivalent.
 
-v.7 — KJV: "that will by no means clear the guilty" / ESV: "who will by no
- means clear the guilty" — Hebrew "venaqeh loʼ yenaqqeh" — an
- emphatic double negative: "clearing, He will not clear." Absolute
- certainty that guilt will be addressed.
+v.5  — Hebrew "YHWH" — God proclaims His own name.
+       KJV: "proclaimed the name of the LORD"
+       ESV: "proclaimed the name of the LORD"
+       ASV: "proclaimed the name of Jehovah"
+       NET: "proclaimed the Lord by name"
+       WEB: "proclaimed Yahweh's name"
+       Analysis: The divine name in the theophany itself. ASV/WEB make clear that YHWH proclaimed His own covenant name; NET's "the Lord by name" is grammatically different — it could mean proclaiming the title "Lord" or proclaiming God's personal name. In context, God is revealing His character by speaking His own name aloud before Moses.
 
-v.10 — KJV: "it is a terrible thing" / ESV: "it is an awesome thing" —
- Hebrew "noraʼ" — fearsome, awe-inspiring. KJV "terrible" meant
- "inspiring terror/awe" (not "bad"). ESV's "awesome" captures the
- original sense.
+v.6  — Hebrew "ʼerek ʼappayim verav-chesed veʼemet" — the great divine proclamation.
+       KJV: "longsuffering, and abundant in goodness and truth"
+       ESV: "slow to anger, and abounding in steadfast love and faithfulness"
+       ASV: "slow to anger, and abundant in lovingkindness and truth"
+       NET: "slow to anger, and abounding in loyal love and faithfulness"
+       WEB: "slow to anger, and abundant in loving kindness and truth"
+       Analysis: The most frequently quoted OT passage within the OT itself. The doubled divine name (YHWH YHWH) is rendered "the LORD, the LORD" (KJV/ESV), "Jehovah, Jehovah" (ASV), "Yahweh! Yahweh" (WEB), "The Lord, the Lord" (NET). Hebrew "rachum" = merciful/compassionate; NET's "compassionate" is a legitimate alternative. The key divergence: "chesed" — KJV "goodness," ESV "steadfast love," ASV "lovingkindness," WEB "loving kindness," NET "loyal love." NET's "loyal love" emphasizes covenantal obligation; ASV's classic "lovingkindness" has become a beloved theological term; ESV's "steadfast love" captures the covenantal nature.
 
-v.13 — KJV: "groves" / ESV: "Asherim" — Hebrew "ʼasherim" — wooden poles
- or trees sacred to the Canaanite goddess Asherah. KJV translates
- generically; ESV transliterates the proper noun.
+v.7  — Hebrew "naqeh lo yenaqqeh" — emphatic double negative.
+       KJV: "that will by no means clear the guilty"
+       ESV: "who will by no means clear the guilty"
+       ASV: "that will by no means clear the guilty"
+       NET: "But he by no means leaves the guilty unpunished"
+       WEB: "who will by no means clear the guilty"
+       Analysis: An emphatic double negative: "clearing, He will NOT clear." Absolute certainty that guilt will be addressed. WEB uniquely renders Hebrew "peshaʻ" as "disobedience" rather than "transgression" (ASV/NET). NET paraphrases as "leaves the guilty unpunished" — more accessible but losing the emphatic Hebrew double construction.
 
-v.14 — KJV: "whose name is Jealous" / ESV: same — Hebrew "Qannaʼ" — jealous,
- zealous. God's name IS Jealous — it is not merely an attribute but
- an identity. His jealousy is holy, protective, and covenantal.
+v.9  — Hebrew "qesheh-ʻoreph" — stiff-necked.
+       KJV: "for it is a stiffnecked people"
+       ESV: "for it is a stiff-necked people"
+       ASV: "for it is a stiffnecked people"
+       NET: "for we are a stiff-necked people"
+       WEB: "although this is a stiff-necked people"
+       Analysis: A significant difference: KJV/ESV/ASV's "it is" and WEB's "this is" keep Moses at a distance; NET's "we are" makes Moses identify with the people's stubbornness — a humbler posture. The Hebrew "hu" (it/he) is ambiguous and most translations follow "it is" rather than NET's inclusive "we are."
 
-v.29 — KJV: "the skin of his face shone" / ESV: same — Hebrew "qaran" — to
- send out rays, to shine, to have horns (of light). The Vulgate
- translated this as "horned," leading to artistic depictions of Moses
- with horns. The correct meaning is "radiated light."
+v.10 — Hebrew "noraʼ" — fearsome, awe-inspiring.
+       KJV: "it is a terrible thing that I will do with thee"
+       ESV: "it is an awesome thing that I will do with you"
+       ASV: "it is a terrible thing that I do with thee"
+       NET: "it is a fearful thing that I am doing with you"
+       WEB: "it is an awesome thing that I do with you"
+       Analysis: KJV/ASV "terrible" meant "inspiring terror/awe" (not "bad"). ESV/WEB "awesome" captures the original sense for modern readers. NET's "fearful" lands between them. All attempt to convey holy dread at God's mighty acts.
 
-v.33 — KJV: "vail" / ESV: "veil" — Hebrew "masveh" — a covering, mask. Used
- only here and in v.34-35 in the OT. Moses covered the fading glory
- — Paul interprets this typologically in 2 Corinthians 3.
+v.13 — Hebrew "ʼasherim" — wooden poles sacred to Canaanite goddess Asherah.
+       KJV: "groves"
+       ESV: "Asherim"
+       ASV: "their Asherim"
+       NET: "their Asherah poles"
+       WEB: "their Asherah poles"
+       Analysis: KJV translates generically as "groves"; ESV/ASV transliterate the proper noun; NET/WEB add "poles" to clarify the physical object. These were cultic installations, not merely natural trees.
+
+v.14 — Hebrew "Qannaʼ" — jealous, zealous (as a divine name).
+       KJV: "the LORD, whose name is Jealous, is a jealous God"
+       ESV: "the LORD, whose name is Jealous, is a jealous God"
+       ASV: "for Jehovah, whose name is Jealous, is a jealous God"
+       NET: "for the Lord, whose name is Jealous, is a jealous God"
+       WEB: "for Yahweh, whose name is Jealous, is a jealous God"
+       Analysis: All five capitalize "Jealous" as a divine name (not merely an attribute). ASV/WEB make the covenant name explicit alongside "Jealous" — Jehovah/Yahweh whose name IS Jealous — a double identification of God's passionate, exclusive devotion. God's jealousy is holy, protective, and covenantal.
+
+v.29 — Hebrew "qaran" — to send out rays, to shine, to have horns (of light).
+       KJV: "the skin of his face shone"
+       ESV: "the skin of his face shone"
+       ASV: "Moses knew not that the skin of his face shone by reason of his speaking with him"
+       NET: "Moses did not know that the skin of his face shone while he talked with him"
+       WEB: "Moses didn't know that the skin of his face shone by reason of his speaking with him"
+       Analysis: The Vulgate translated "qaran" as "horned," leading to artistic depictions of Moses with horns. The correct meaning is "radiated light." ASV/WEB's "by reason of his speaking" emphasizes causation (glory resulted from communion); NET's "while he talked" merely notes timing. The Hebrew "bedabbero" supports both readings.
+
+v.33 — Hebrew "masveh" — a covering, mask.
+       KJV: "Moses put a vail on his face"
+       ESV: "Moses put a veil over his face"
+       ASV: "Moses put a veil upon his face"
+       NET: "Moses would put a veil over his face"
+       WEB: "Moses put a veil on his face"
+       Analysis: Used only here and in vv.34-35 in the OT. KJV spells "vail" (archaic); ESV/NET/WEB use "veil." Moses covered the fading glory — Paul interprets this typologically in 2 Corinthians 3. NET's "would put" reflects the habitual aspect.
 
 GLOSSARY
 ------------------------------------

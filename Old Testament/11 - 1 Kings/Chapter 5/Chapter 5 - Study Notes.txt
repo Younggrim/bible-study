@@ -215,6 +215,22 @@ Gebal         — Also known as Byblos, an ancient Phoenician city
               They assisted in cutting and preparing the Temple
               stones.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.3 — ASV: "build a house for the name of Jehovah his God" / WEB: "build a house for the name of Yahweh his God" / NET: "build a temple to honor the Lord his God" — The divine name differs (Jehovah/Yahweh/the LORD), but more significantly NET replaces "for the name of" (Heb. l'shem) with "to honor." The Hebrew temple theology is that God's Name dwells in the temple (Deuteronomy 12:5) — the building houses God's presence, not merely honors Him.
+
+- v.7 — ASV: "Blessed be Jehovah this day" / WEB: "Blessed is Yahweh today" / NET: "The Lord is worthy of praise today" — A pagan king uses the Hebrew blessing formula "baruk YHWH." ASV/WEB preserve the liturgical language; NET paraphrases to "worthy of praise," losing the fact that Hiram uses Israel's own covenant blessing formula — theologically significant as evidence of YHWH's fame reaching the nations.
+
+- v.12 — ASV: "Jehovah gave Solomon wisdom" / WEB: "Yahweh gave Solomon wisdom" / NET: "So the Lord gave Solomon wisdom" — All three retain the divine name pattern. Notably, ASV/WEB add "as he promised him" which connects to 3:12. NET adds "as he had promised him" — all agree this wisdom is gift, not achievement.
+
+- v.5 — ASV: "I purpose to build a house for the name of Jehovah" / WEB: "I intend to build a house for the name of Yahweh" / NET: "I have decided to build a temple to honor the Lord my God" — NET again replaces "house for the name" (bayit l'shem YHWH) with "temple to honor." The Hebrew word "bayit" (house) is the same word used for both temple and palace — a deliberate theological parallel. NET's "temple" removes this wordplay.
+
+- v.13 — ASV: "king Solomon raised a levy out of all Israel" / WEB: "King Solomon raised a levy out of all Israel" / NET: "King Solomon conscripted work crews from throughout Israel" — Hebrew "mas" = corvée/forced labor levy. ASV/WEB use "levy" (a technical term for conscription); NET uses "conscripted work crews." The Hebrew "mas" is the same oppressive term used of Israel's slavery in Egypt (Exodus 1:11), creating an ironic parallel — Solomon enslaves his own people as Pharaoh once enslaved them.
+
+- v.4 — ASV: "Jehovah my God hath given me rest on every side" / WEB: "Yahweh my God has given me rest on every side" / NET: "the Lord my God has made me secure on all fronts" — Hebrew "menucha" (rest) is a theologically loaded term — the promised rest of Deuteronomy 12:10, the Sabbath rest God gives His people. NET's "made me secure on all fronts" is military language that loses the Sabbatical/creation rest theology embedded in the Hebrew.
+
+- v.14 — ASV: "Adoniram was over the men subject to taskwork" / WEB: "Adoniram was over the men subject to forced labor" / NET: "Adoniram was supervisor of the work crews" — Same issue as v.13: NET neutralizes the forced-labor terminology. WEB is most transparent about the oppressive nature of Solomon's building program, which will spark Rehoboam's crisis in chapter 12.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God's work requires God's timing (vv.3-4). David wanted to build

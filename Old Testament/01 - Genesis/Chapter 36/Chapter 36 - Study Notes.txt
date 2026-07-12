@@ -74,46 +74,60 @@ Charles Spurgeon:
   would become a nation (27:39-40) — and he did. God is faithful to ALL His
   words, not just the ones we focus on."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "generations of Esau, who is Edom" / ESV: "These are the
-       generations of Esau (that is, Edom)" — Both equivalent. The eighth
-       toledoth section in Genesis. Esau's line is recorded, then the
+v.1  — Hebrew "toledoth Esav" — generations of Esau.
+       KJV: "generations of Esau, who is Edom"
+       ESV: "These are the generations of Esau (that is, Edom)"
+       ASV: "these are the generations of Esau (the same is Edom)"
+       NET: "What follows is the account of Esau (also known as Edom)"
+       WEB: "these are the generations of Esau (the same is Edom)"
+       Analysis: All equivalent. The eighth toledoth section in Genesis. NET
+       adds the parenthetical "(also known as Edom)" throughout to help
+       readers connect the names. Esau's line is recorded, then the
        narrative moves permanently to Jacob.
 
-v.6  — KJV: "went into the country from the face of his brother Jacob" /
-       ESV: "He went into a land away from his brother Jacob" — ESV
-       simplifies the idiom "from the face of" to "away from." Esau
-       voluntarily leaves Canaan — the Promised Land belongs to Jacob.
+v.6  — Hebrew "mippenei Ya'aqov" — from the face of (away from) Jacob.
+       KJV: "went into the country from the face of his brother Jacob"
+       ESV: "He went into a land away from his brother Jacob"
+       ASV: "went into a land away from his brother Jacob"
+       NET: "he went to a land some distance away from Jacob his brother"
+       WEB: "went into a land away from his brother Jacob"
+       Analysis: KJV retains the Hebrew idiom "from the face of." ESV/ASV/WEB
+       simplify to "away from." NET interprets with "some distance away,"
+       adding geographical perspective. Esau voluntarily leaves Canaan — the
+       Promised Land belongs to Jacob.
 
-v.12 — KJV: "Amalek" / ESV: "Amalek" — Both identical. Esau's grandson
-       through a concubine. The Amalekites become Israel's persistent enemy
-       (Exodus 17, 1 Samuel 15).
+v.12 — Hebrew "Amaleq" — Amalek.
+       KJV: "Amalek"
+       ESV: "Amalek"
+       ASV: "Amalek"
+       NET: "Amalek"
+       WEB: "Amalek"
+       Analysis: All identical. Esau's grandson through a concubine. The
+       Amalekites become Israel's persistent enemy (Exodus 17, 1 Samuel 15).
 
-v.15 — KJV: "dukes" / ESV: "chiefs" — Hebrew "alluphe" — chiefs, clan
-       leaders. ESV uses the more accurate "chiefs" rather than KJV's
-       archaic "dukes." Edom was organized by clans before establishing a
-       monarchy.
+v.15 — Hebrew "alluphe" — chiefs, clan leaders.
+       KJV: "dukes"
+       ESV: "chiefs"
+       ASV: "chiefs"
+       NET: "chiefs"
+       WEB: "chiefs"
+       Analysis: KJV's "dukes" is archaic for tribal leaders. ESV/ASV/NET/WEB
+       all use the more accurate "chiefs." Hebrew "alluphe" means clan
+       leaders. Edom was organized by clans before establishing a monarchy.
 
-v.31 — KJV: "before there reigned any king over the children of Israel" /
-       ESV: "before any king reigned over the Israelites" — Both equivalent.
+v.31 — Hebrew "liphnei melokh-melekh livnei Yisra'el" — before any king
+       reigned over the children of Israel.
+       KJV: "before there reigned any king over the children of Israel"
+       ESV: "before any king reigned over the Israelites"
+       ASV: "before there reigned any king over the children of Israel"
+       NET: "before any king ruled over the Israelites"
+       WEB: "before there reigned any king over the children of Israel"
+       Analysis: All essentially equivalent. NET uses "ruled" for "reigned."
        This note suggests the text was written (or edited) after Israel had
-       kings — or it's prophetic, anticipating the monarchy.
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "What follows is the account of Esau (also known as Edom)" —
-  adds the parenthetical "(also known as Edom)" throughout to help readers
-  connect the names.
-- v.6 — NET: "he went to a land some distance away from Jacob his brother"
-  — "some distance away" interprets the Hebrew with geographical perspective,
-  where KJV has "from the face of his brother Jacob."
-- v.15 — NET: "These were the chiefs among the descendants of Esau" — uses
-  "chiefs" where KJV has "dukes" (archaic for tribal leaders) and ASV has
-  "chiefs." WEB also uses "chiefs."
-- v.31 — NET typically renders the Edomite king list with "reigned" for each
-  king, same as other translations. The historical note connecting to Israel's
-  monarchy is preserved across versions.
+       kings — or it's prophetic, anticipating the monarchy. The historical
+       note connecting to Israel's monarchy is preserved across all versions.
 
 GLOSSARY
 ------------------------------------

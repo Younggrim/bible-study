@@ -99,51 +99,86 @@ Charles Spurgeon:
   receive kiss. This is the gospel: where we deserve judgment, we receive
   love."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3  — KJV: "bowed himself to the ground seven times" / ESV: "bowing himself
-       to the ground seven times" — Both equivalent. Complete submission.
-       Seven = completeness. Jacob approaches as a servant, not a rival.
+v.3  — Hebrew "vayyishtachu artsah sheva pe'amim" — bowed to the ground seven times.
+       KJV: "bowed himself to the ground seven times, until he came near to his brother"
+       ESV: "bowing himself to the ground seven times, until he came near to his brother"
+       ASV: "bowed himself to the ground seven times, until he came near to his brother"
+       NET: "bowed toward the ground seven times as he approached his brother"
+       WEB: "bowed himself to the ground seven times, until he came near to his brother"
+       Analysis: Complete submission. Seven = completeness. Jacob approaches
+       as a servant, not a rival. All translations are equivalent; NET
+       modernizes with "approached" while others retain the processional
+       "until he came near."
 
-v.4  — KJV: "Esau ran to meet him, and embraced him, and fell on his neck,
-       and kissed him" / ESV: "Esau ran to meet him and embraced him and
-       fell on his neck and kissed him" — Both equivalent. The same verb
-       used of the father in Luke 15:20. Jesus may have had this scene in
-       mind when telling the prodigal son parable.
+v.4  — Hebrew "vayyarots...vayyechabbeqehu...vayyishaqehu" — ran...embraced...kissed.
+       KJV: "Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept"
+       ESV: "Esau ran to meet him and embraced him and fell on his neck and kissed him, and they wept"
+       ASV: "Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept"
+       NET: "Esau ran to meet him, embraced him, hugged his neck, and kissed him, and they wept"
+       WEB: "Esau ran to meet him, embraced him, fell on his neck, kissed him, and they wept"
+       Analysis: The same verb sequence used of the father in Luke 15:20.
+       Jesus may have had this scene in mind when telling the prodigal son
+       parable. NET expands "fell on his neck" to "hugged his neck" for
+       modern clarity. Grace where judgment was expected.
 
-v.10 — KJV: "as though I had seen the face of God" / ESV: "which is like
-       seeing the face of God" — ESV modernizes the comparison phrasing.
-       Jacob just saw God's face at Peniel (32:30). Now he sees God's grace
-       reflected in Esau's face. Reconciliation with man mirrors
-       reconciliation with God.
+v.10 — Hebrew "ki al-ken ra'ithi paneycha kir'oth peney Elohim" — for seeing your face is like seeing God's face.
+       KJV: "for therefore I have seen thy face, as though I had seen the face of God"
+       ESV: "for I have seen your face, which is like seeing the face of God"
+       ASV: "forasmuch as I have seen thy face, as one seeth the face of God"
+       NET: "for to see your face is like seeing the face of God"
+       WEB: "for I have seen your face, like one sees the face of God"
+       Analysis: Jacob just saw God's face at Peniel (32:30). Now he sees
+       God's grace reflected in Esau's face. Reconciliation with man mirrors
+       reconciliation with God. NET's "it is as if" makes the comparison
+       accessible. All translations preserve this profound theological
+       connection.
 
-v.11 — KJV: "I have enough" / ESV: "I have enough" — Both identical.
-       Hebrew "yesh li kol" — I have everything. Jacob the grasper now says
-       "I have enough." Transformation.
+v.11 — Hebrew "yesh li kol" — I have everything / I have enough.
+       KJV: "God hath dealt graciously with me, and because I have enough"
+       ESV: "God has dealt graciously with me, and because I have enough"
+       ASV: "God hath dealt graciously with me, and because I have enough"
+       NET: "God has been generous to me and I have all I need"
+       WEB: "God has dealt graciously with me, and because I have enough"
+       Analysis: Hebrew "yesh li kol" = "I have everything." Jacob the
+       grasper now says "I have enough." Transformation. NET renders
+       "channani" as "been generous" and "yesh li kol" as "I have all I
+       need" — more idiomatic than "dealt graciously." Both brothers say "I
+       have enough" (v.9, v.11) — contentment on both sides.
 
-v.17 — KJV: "Succoth" / ESV: "Succoth" — Both identical. Hebrew "Sukkoth"
-       — booths/shelters. Jacob builds temporary structures — still a
-       sojourner.
+v.15 — Hebrew "emtsa-chen be'einey adoni" — let me find grace in the eyes of my lord.
+       KJV: "Let me find grace in the sight of my lord"
+       ESV: "Let me find favor in the sight of my lord"
+       ASV: "Let me find favor in the sight of my lord"
+       NET: "My lord has already been kind enough to me"
+       WEB: "Let me find favor in the sight of my lord"
+       Analysis: NET renders Jacob's formal deference in a culturally
+       sensitive, modern way — "kind enough to me" — while KJV/ESV/ASV/WEB
+       retain the literal "find favor/grace in the sight of." NET interprets
+       the social dynamics rather than translating word-for-word.
 
-v.20 — KJV: "El-elohe-Israel" / ESV: "El-Elohe-Israel" — Both identical
-       (minor hyphenation difference). "God, the God of Israel." Jacob uses
-       his NEW name (Israel) and claims God as HIS God. The Bethel vow
-       (28:21) is fulfilled: "the LORD shall be my God."
+v.17 — Hebrew "Sukkoth" — booths/shelters.
+       KJV: "Jacob journeyed to Succoth, and built him an house, and made booths for his cattle"
+       ESV: "Jacob journeyed to Succoth, and built himself a house and made booths for his livestock"
+       ASV: "Jacob journeyed to Succoth, and built him a house, and made booths for his cattle"
+       NET: "Jacob traveled to Succoth where he built himself a house and made shelters for his livestock"
+       WEB: "Jacob traveled to Succoth, built himself a house, and made shelters for his livestock"
+       Analysis: Hebrew "Sukkoth" — booths/tabernacles. Jacob builds
+       temporary structures — still a sojourner. NET/WEB use "shelters" for
+       the livestock structures; KJV/ESV/ASV retain "booths."
 
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.4 — NET: "Esau ran to meet him, embraced him, hugged his neck, and kissed
-  him" — expands the Hebrew verb sequence into clear modern actions. WEB: "Esau
-  ran to meet him, embraced him, fell on his neck, kissed him, and they wept."
-- v.10 — NET: "it is as if I have seen the face of God" — same profound
-  comparison across all translations. Jacob sees in Esau's grace a reflection
-  of divine grace.
-- v.11 — NET: "God has been generous to me and I have all I need" — renders
-  Hebrew "channani" as "been generous" and "yesh li kol" as "I have all I
-  need" (vs. KJV "God hath dealt graciously with me, and...I have enough").
-- v.15 — NET: "My lord has already been kind enough to me" — a culturally
-  sensitive rendering of Jacob's formal deference, where KJV/ASV have "let
-  me find grace in the sight of my lord."
+v.20 — Hebrew "El-elohe-Yisra'el" — God, the God of Israel.
+       KJV: "and he erected there an altar, and called it El-elohe-Israel"
+       ESV: "he erected there an altar and called it El-Elohe-Israel"
+       ASV: "and he erected there an altar, and called it El-elohe-Israel"
+       NET: "There he set up an altar and called it 'El-Elohe-Israel'"
+       WEB: "He erected an altar there, and called it El Elohe Israel"
+       Analysis: "God, the God of Israel." Jacob uses his NEW name (Israel)
+       and claims God as HIS God. The Bethel vow (28:21) is fulfilled: "the
+       LORD shall be my God." For the first time, Jacob's faith is personal
+       and owned — not inherited. Minor formatting differences (hyphenation)
+       across translations.
 
 GLOSSARY
 ------------------------------------

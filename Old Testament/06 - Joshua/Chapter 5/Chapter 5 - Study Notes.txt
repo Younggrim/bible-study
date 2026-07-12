@@ -234,6 +234,15 @@ Christophany   — A pre-incarnate appearance of Christ in the Old
                prerogatives (making ground holy, receiving the title
                "Lord").
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "Jehovah had dried up the waters" / WEB: "Yahweh had dried up the waters" / NET: "the Lord had dried up the water" — The divine name pattern: ASV "Jehovah," WEB "Yahweh," NET/KJV "the Lord/LORD." Each occurrence emphasizes that Israel's God acts personally in history.
+- v.1 — NET: "they lost their courage and could not even breathe for fear" / KJV: "their heart melted, neither was there spirit in them any more" / ASV: "their heart melted, neither was there spirit in them any more" — NET paraphrases dramatically ("could not even breathe"), while KJV/ASV/WEB preserve the Hebrew imagery of melting hearts and departed spirit (ruach). The literal rendering connects to the same "melting" language in 2:11.
+- v.9 — NET: "Today I have taken away the disgrace of Egypt from you" / KJV: "This day have I rolled away the reproach of Egypt" / ASV: "This day have I rolled away the reproach of Egypt" / WEB: "Today I have rolled away the reproach of Egypt" — NET loses the wordplay: "rolled away" (galal) explains the name "Gilgal" (gilgal = rolling). KJV/ASV/WEB preserve this etymological connection; NET obscures it with "taken away."
+- v.14 — ASV: "as prince of the host of Jehovah am I now come" / WEB: "I have come now as commander of Yahweh's army" / NET: "Truly I am the commander of the Lord's army. Now I have arrived!" / KJV: "as captain of the host of the LORD am I now come" — Different titles: KJV "captain," ASV "prince," WEB/NET "commander" — all render Hebrew "sar" (chief, ruler, commander). NET adds "Truly" and "Now I have arrived!" for dramatic effect not present in the Hebrew.
+- v.14 — NET: "Joshua bowed down with his face to the ground" / KJV: "Joshua fell on his face to the earth, and did worship" / ASV: "Joshua fell on his face to the earth, and did worship" / WEB: "Joshua fell on his face to the earth, and worshiped" — NET omits "worship" (Hebrew "shachah" — to prostrate in worship), reducing the encounter to mere respect. KJV/ASV/WEB preserve "worship," which identifies the figure as divine — Joshua worships, and the figure accepts it.
+- v.15 — NET: "Remove your sandals from your feet because the place where you stand is holy" / KJV: "Loose thy shoe from off thy foot; for the place whereon thou standest is holy" — All translations agree on the substance, but this verse parallels Exodus 3:5 (Moses at the burning bush). ASV/WEB/KJV make this parallel more obvious by retaining similar language to Exodus 3, confirming the figure's divine identity.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Covenant before conquest (vv.2-8). God requires circumcision BEFORE

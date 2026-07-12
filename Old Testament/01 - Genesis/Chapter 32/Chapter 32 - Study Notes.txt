@@ -106,68 +106,96 @@ Charles Spurgeon:
   are not who you were. The old name (sinner, failure, schemer) is replaced
   by the new name (child of God, overcomer, prince). What does God call you?"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "Mahanaim" / ESV: "Mahanaim" — Both identical. Hebrew
-       "Machanayim" — two camps. God's camp alongside Jacob's. He is not
-       alone.
+v.2  — Hebrew "Machanayim" — two camps.
+       KJV: "This is God's host: and he called the name of that place Mahanaim"
+       ESV: "This is God's camp! So he called the name of that place Mahanaim"
+       ASV: "This is God's host. And he called the name of that place Mahanaim"
+       NET: "'This is the camp of God!' So he named that place Mahanaim"
+       WEB: "This is God's army. He called the name of that place Mahanaim"
+       Analysis: Hebrew "Machanayim" — two camps. God's camp alongside
+       Jacob's. He is not alone. WEB's "army" emphasizes the military aspect
+       of angelic protection; others use "host" or "camp."
 
-v.10 — KJV: "I am not worthy of the least of all the mercies" / ESV: "I am
-       not worthy of the least of all the deeds of steadfast love" — Hebrew
-       "qatonti" — I am too small, too insignificant. KJV uses "mercies"; ESV
-       uses "deeds of steadfast love" (translating "chesed" more fully).
-       Jacob's first genuine expression of humility.
+v.10 — Hebrew "qatonti mikkol hachasadim" — I am too small for all the steadfast love.
+       KJV: "I am not worthy of the least of all the mercies"
+       ESV: "I am not worthy of the least of all the deeds of steadfast love"
+       ASV: "I am not worthy of the least of all the lovingkindnesses"
+       NET: "I am not worthy of all the faithful love you have shown your servant"
+       WEB: "I am not worthy of the least of all the loving kindnesses"
+       Analysis: Hebrew "qatonti" = "I am too small, too insignificant."
+       Jacob's first genuine expression of humility. The key term "chesed" is
+       rendered differently: "mercies" (KJV), "steadfast love" (ESV),
+       "lovingkindnesses" (ASV/WEB), "faithful love" (NET). NET combines
+       loyalty and affection in one phrase.
 
-v.24 — KJV: "a man" / ESV: "a man" — Both identical. Hosea 12:4 calls him
-       "the angel." Jacob says he saw "God face to face" (v.30). This is a
-       theophany — a pre-incarnate appearance of Christ.
+v.24 — Hebrew "ish" — a man.
+       KJV: "there wrestled a man with him until the breaking of the day"
+       ESV: "a man wrestled with him until the breaking of the day"
+       ASV: "there wrestled a man with him until the breaking of the day"
+       NET: "a man wrestled with him until daybreak"
+       WEB: "a man wrestled with him until the breaking of the day"
+       Analysis: Hosea 12:4 calls him "the angel." Jacob says he saw "God
+       face to face" (v.30). This is a theophany — a pre-incarnate appearance
+       of Christ. All translations maintain the mysterious "a man," preserving
+       the narrative tension before the divine identity is revealed.
 
-v.25 — KJV: "touched the hollow of his thigh" / ESV: "touched his hip
-       socket" — Hebrew "kaph yerekho." KJV's "hollow of his thigh" is
-       archaic; ESV's "hip socket" is anatomically clearer. A single touch
-       dislocated Jacob's hip. The "man" could have ended the match instantly
-       — He chose to wrestle all night.
+v.25 — Hebrew "kaph yerekho" — the socket of his hip/thigh.
+       KJV: "touched the hollow of his thigh; and the hollow of Jacob's thigh was out of joint"
+       ESV: "touched his hip socket, and Jacob's hip was put out of joint"
+       ASV: "touched the hollow of his thigh; and the hollow of Jacob's thigh was strained"
+       NET: "struck the socket of his hip so the socket of Jacob's hip was dislocated"
+       WEB: "touched the hollow of his thigh, and the hollow of Jacob's thigh was strained"
+       Analysis: KJV's "hollow of his thigh" is archaic; ESV's "hip socket"
+       is anatomically clearer. NET's "struck" and "dislocated" are most
+       medically precise. A single touch dislocated Jacob's hip. The "man"
+       could have ended the match instantly — He chose to wrestle all night.
 
-v.26 — KJV: "I will not let thee go, except thou bless me" / ESV: "I will
-       not let you go unless you bless me" — Both equivalent. Jacob's grip
-       shifts from scheming to clinging. He stops fighting FOR blessing and
-       starts clinging TO God.
+v.26 — Hebrew "lo ashallechacha ki im berachtani" — I will not let you go unless you bless me.
+       KJV: "I will not let thee go, except thou bless me"
+       ESV: "I will not let you go unless you bless me"
+       ASV: "I will not let thee go, except thou bless me"
+       NET: "I will not let you go unless you bless me"
+       WEB: "I won't let you go unless you bless me"
+       Analysis: Jacob's grip shifts from scheming to clinging. He stops
+       fighting FOR blessing and starts clinging TO God. All translations
+       preserve the desperate, persistent demand. WEB's contracted "won't"
+       adds conversational immediacy.
 
-v.28 — KJV: "Israel: for as a prince hast thou power with God" / ESV:
-       "Israel, for you have striven with God and with men, and have
-       prevailed" — Hebrew "Yisra'el" — "he struggles with God" or "God
-       struggles" or "prince with God." KJV emphasizes princely authority;
-       ESV emphasizes the striving/wrestling. Multiple meanings, all
-       significant.
+v.28 — Hebrew "Yisra'el" — he struggles with God / prince with God.
+       KJV: "Thy name shall be called no more Jacob, but Israel: for as a prince hast thou power with God and with men, and hast prevailed"
+       ESV: "Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed"
+       ASV: "Thy name shall be called no more Jacob, but Israel: for thou hast striven with God and with men, and hast prevailed"
+       NET: "Your name will no longer be Jacob but Israel, because you have fought with God and with men and have prevailed"
+       WEB: "Your name will no longer be called Jacob, but Israel; for you have fought with God and with men, and have prevailed"
+       Analysis: Hebrew "Yisra'el" carries multiple meanings: "he struggles
+       with God," "God struggles," or "prince with God." KJV emphasizes
+       princely authority ("as a prince hast thou power"); ESV emphasizes
+       striving; NET/WEB use "fought." The name change represents a new
+       identity — from supplanter to God-wrestler.
 
-v.30 — KJV: "Peniel" / ESV: "Peniel" — Both identical. Hebrew "Peni'el" —
-       "face of God." Jacob saw God's face and survived. A transformative
-       encounter.
+v.30 — Hebrew "Peni'el" — face of God.
+       KJV: "I have seen God face to face, and my life is preserved"
+       ESV: "I have seen God face to face, and yet my life has been delivered"
+       ASV: "I have seen God face to face, and my life is preserved"
+       NET: "I have seen God face to face, and my life has been preserved!"
+       WEB: "I have seen God face to face, and my life is preserved"
+       Analysis: Jacob marvels that he survived seeing God face to face (cf.
+       Exodus 33:20). All translations capture his astonishment. ESV's
+       "delivered" adds a nuance of rescue; others use "preserved" — kept
+       safe through the encounter. NET adds an exclamation mark for emphasis.
 
-v.30 — KJV: "my life is preserved" / ESV: "my life has been delivered" —
-       Both equivalent. Jacob marvels that he survived seeing God face to
-       face (cf. Exodus 33:20).
-
-v.31 — KJV: "he halted upon his thigh" / ESV: "limping because of his hip"
-       — KJV's "halted" is archaic for "limped"; ESV is clearer. Jacob limps
-       for the rest of his life. The mark of the encounter: broken strength,
-       permanent dependence. His limp is his testimony.
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.10 — NET: "I am not worthy of all the faithful love you have shown your
-  servant" — renders Hebrew "chesed" as "faithful love" (vs. "mercies" KJV /
-  "steadfast love" ESV), combining loyalty and affection.
-- v.24-30 — NET renders the wrestling narrative with interpretive clarity:
-  "a man wrestled with him until daybreak" (same as KJV/ESV). The name change
-  is rendered: "Your name will no longer be Jacob but Israel, because you have
-  fought with God and with men and have prevailed."
-- v.28 — WEB: "Your name will no longer be called Jacob, but Israel; for you
-  have fought with God and with men, and have prevailed" — using "fought with
-  God" is significant across all translations; NET adds "prince" is implied.
-- v.30 — NET: "I have seen God face to face, and my life has been preserved!"
-  WEB: "I have seen God face to face, and my life is preserved." All capture
-  Jacob's astonishment at surviving a divine encounter.
+v.31 — Hebrew "tsole'a al yerekho" — limping because of his hip/thigh.
+       KJV: "he halted upon his thigh"
+       ESV: "limping because of his hip"
+       ASV: "he halted upon his thigh"
+       NET: "limping because of his hip"
+       WEB: "he limped on his thigh"
+       Analysis: KJV/ASV's "halted" is archaic for "limped"; ESV/NET/WEB are
+       clearer in modern English. Jacob limps for the rest of his life. The
+       mark of the encounter: broken strength, permanent dependence. His limp
+       is his testimony.
 
 GLOSSARY
 ------------------------------------

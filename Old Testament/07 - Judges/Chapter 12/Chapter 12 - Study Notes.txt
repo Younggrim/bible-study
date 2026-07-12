@@ -172,6 +172,20 @@ Minor Judges   — Ibzan (7 years), Elon (10 years), Abdon (8 years).
                regional leaders of influence rather than military
                deliverers.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.4 — ASV: "Ye are fugitives of Ephraim, ye Gileadites, in the midst of Ephraim" / NET: "You Gileadites are refugees in Ephraim, living within Ephraim's and Manasseh's territory" — Hebrew "p'litey Ephrayim attem Gil'ad" is notoriously difficult. The insult implies Gilead has no independent tribal identity — they are merely Ephraim's castoffs. NET's "refugees" captures the contempt; ASV's "fugitives" implies criminality.
+
+- v.6 — ASV: "Say now Shibboleth; and he said Sibboleth; for he could not frame to pronounce it right" / NET: "Say 'Shibboleth!' If he said, 'Sibboleth' (and could not pronounce the word correctly)" — The famous linguistic test. Hebrew "shibboleth" means "ear of grain" or "stream/flood." The Ephraimites' dialect lacked the "sh" sound. NET adds parenthetical explanation; ASV's "could not frame to pronounce" is archaic but vivid.
+
+- v.6 — ASV: "they laid hold on him, and slew him" / NET: "they grabbed him and executed him right there" — NET's "executed" implies formal judicial killing; ASV's "slew" is simple killing in battle context. Hebrew "vayyishchatuhu" = they slaughtered him — a word often used for animal slaughter, intensifying the violence.
+
+- v.7 — ASV: "Jephthah judged Israel six years" / NET: "Jephthah led Israel for six years" — NET's consistent avoidance of "judged" in favor of "led." ASV/WEB retain the root "shaphat" that gives the book its name and connects each judge to the divine Shophet of 11:27.
+
+- v.14 — ASV: "forty sons and thirty sons' sons, that rode on threescore and ten ass colts" / NET: "He had 40 sons and 30 grandsons who rode on 70 donkeys" — The donkey-riding detail signifies wealth and authority (cf. 5:10, 10:4). ASV retains "ass colts"; NET modernizes to "donkeys." The number symmetry (40+30=70 riders) emphasizes dynastic prosperity.
+
+- v.3 — ASV: "I put my life in my hand" / WEB: (similar) / NET: "I risked my life" — Hebrew "va'asimah nafshi b'khappi" = "I put my soul in my palm." ASV preserves the Hebrew idiom literally; NET interprets the metaphor. The image is of holding one's life loosely, ready to lose it — a physical metaphor for mortal danger.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Diplomacy vs. force (vv.1-4). Gideon defused Ephraim's complaint with

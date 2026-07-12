@@ -108,32 +108,96 @@ Charles Spurgeon:
   Christ — every single day. You cannot store up enough grace on Sunday to
   last until next Sunday. Gather daily."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.4  — KJV: "rain bread from heaven" / ESV: "rain bread from heaven" —
-       Hebrew "mamtir lachem lechem min hashamayim" — cause to rain for you
-       bread from the heavens. Both identical. God provides supernaturally.
+v.3  — Hebrew "lu-matnu" — would that we had died.
+       KJV: "Would to God we had died by the hand of the LORD"
+       ESV: "Would that we had died by the hand of the LORD"
+       ASV: "Would that we had died by the hand of Jehovah"
+       NET: "If only we had died by the hand of the Lord"
+       WEB: "We wish that we had died by Yahweh's hand"
+       Analysis: All preserve the optative wish, with characteristic divine name
+       differences. The irony: they wished for death in Egypt while romanticizing
+       slavery — "when we sat by the flesh pots."
 
-v.15 — KJV: "It is manna" / ESV: "It is manna" — Hebrew "man hu" — "What
-       is it?" Both identical. The name "manna" comes from the question.
+v.4  — Hebrew "mamtir lachem lechem min hashamayim" — cause to rain for you bread from the heavens.
+       KJV: "rain bread from heaven"
+       ESV: "rain bread from heaven"
+       ASV: "I will rain bread from heaven for you"
+       NET: "I am going to rain bread from heaven for you"
+       WEB: "I will rain bread from the sky for you"
+       Analysis: WEB uses "sky" for Hebrew "shamayim" while others keep "heaven."
+       The distinction matters theologically: "heaven" connects to John 6:31-35
+       where Jesus is "bread from heaven." NET uses progressive "am going to rain"
+       for emphasis. God provides supernaturally.
 
-v.16 — KJV: "omer" / ESV: "omer" — A dry measure, approximately 2.3 liters
-       or about 2 quarts. Both transliterate. Enough for one person's daily
-       need.
+v.14 — Hebrew "daq mechuspas" — thin/fine and scale-like.
+       KJV: "a small round thing, as small as the hoar frost"
+       ESV: "a fine, flake-like thing, fine as frost"
+       ASV: "a small round thing, small as the hoar-frost"
+       NET: "a thin flaky substance, thin like frost on the earth"
+       WEB: "a small round thing, small as the frost"
+       Analysis: NET's "thin flaky substance" diverges — interpreting as flaky.
+       KJV/ASV/WEB say "round"; ESV/NET say "flake-like/flaky." The Hebrew supports
+       both interpretations. All capture the mysterious, frost-like appearance.
 
-v.18 — KJV: "had nothing over... had no lack" / ESV: "had nothing left
-       over... had no lack" — Hebrew "lo he'edif... lo hechsir" — did not
-       have excess... did not have deficiency. Both equivalent. Miraculous
-       equalization.
+v.15 — Hebrew "man hu" — "What is it?"
+       KJV: "It is manna"
+       ESV: "It is manna"
+       ASV: "the house of Israel called the name thereof Manna"
+       NET: "The house of Israel called its name 'manna'"
+       WEB: "The house of Israel called its name Manna"
+       Analysis: All translations preserve the name. NET puts it in quotes to signal
+       its etymological significance. The name "manna" comes from the question "What
+       is it?" — Israel's wonder at God's provision.
 
-v.23 — KJV: "sabbath" / ESV: "Sabbath" — Hebrew "shabbat" — rest,
-       cessation. The ESV capitalizes as a proper noun. This is the first
-       use of "sabbath" in Exodus — the principle predates Sinai but is now
-       formalized.
+v.16 — Hebrew "omer" — a dry measure, approximately 2.3 liters.
+       KJV: "omer"
+       ESV: "omer"
+       ASV: "omer"
+       NET: "omer"
+       WEB: "omer"
+       Analysis: All transliterate. Enough for one person's daily need — about 2
+       quarts. God's provision is measured, sufficient, not excessive.
 
-v.31 — KJV: "coriander seed" / ESV: "coriander seed" — Both identical. A
-       small, round, whitish seed. Manna was small, round, and white —
-       humble in appearance but sustaining.
+v.18 — Hebrew "lo he'edif... lo hechsir" — did not have excess... did not have deficiency.
+       KJV: "had nothing over... had no lack"
+       ESV: "had nothing left over... had no lack"
+       ASV: "had nothing over... had no lack"
+       NET: "had nothing left over... had no lack"
+       WEB: "had nothing over... had no lack"
+       Analysis: All equivalent. Miraculous equalization — God provides exactly what
+       each person needs. Paul quotes this in 2 Corinthians 8:15.
+
+v.23 — Hebrew "shabbaton" — solemn rest.
+       KJV: "a rest of the holy sabbath unto the LORD"
+       ESV: "a day of solemn rest, a holy Sabbath to the LORD"
+       ASV: "a solemn rest, a holy sabbath unto Jehovah"
+       NET: "Tomorrow is a time of cessation from work, a holy Sabbath to the Lord"
+       WEB: "a solemn rest, a holy Sabbath to Yahweh"
+       Analysis: NET's "time of cessation from work" interprets "shabbaton" (solemn
+       rest) functionally. ASV/WEB preserve the Hebrew terms more closely. This is
+       the first use of "sabbath" in Exodus — the principle predates Sinai but is
+       now formalized.
+
+v.31 — Hebrew "gad" — coriander.
+       KJV: "coriander seed"
+       ESV: "coriander seed"
+       ASV: "coriander seed"
+       NET: "coriander seed"
+       WEB: "coriander seed"
+       Analysis: All identical. A small, round, whitish seed. Manna was small,
+       round, and white — humble in appearance but sustaining.
+
+v.34 — Hebrew "lifnei ha'edut" — before the Testimony.
+       KJV: "laid it up before the Testimony, to be kept"
+       ESV: "placed it before the testimony to be kept"
+       ASV: "Aaron laid it up before the Testimony, to be kept"
+       NET: "Aaron placed it before the ark of the testimony for safekeeping"
+       WEB: "Aaron laid it up before the Testimony, to be kept"
+       Analysis: NET adds "the ark of" interpretively. Hebrew simply says "before
+       the Testimony" (edut). NET clarifies for readers unfamiliar with tabernacle
+       terminology. The manna was preserved as a memorial for future generations.
 
 GLOSSARY
 ------------------------------------

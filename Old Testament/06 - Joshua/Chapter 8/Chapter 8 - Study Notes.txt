@@ -240,6 +240,15 @@ Blessings and Curses — The covenant sanctions of Deuteronomy 28. Blessings
                Read publicly so all Israel knows the terms of the covenant
                under which they possess the land.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "Jehovah said unto Joshua, Fear not, neither be thou dismayed" / WEB: "Yahweh said to Joshua, 'Don't be afraid, and don't be dismayed'" / NET: "The Lord told Joshua, 'Don't be afraid and don't panic!'" — NET's "don't panic" is colloquial where Hebrew "al techat" (do not be dismayed/shattered) suggests deeper spiritual dissolution. KJV/ASV/WEB's "dismayed" better captures the weight of Israel's situation after defeat.
+- v.1 — NET: "I am handing over to you the king of Ai" / KJV: "I have given into thy hand the king of Ai" / ASV: "I have given into thy hand the king of Ai" — NET again uses present continuous where Hebrew uses the perfect tense (natatti — I have given). The perfect tense declares the victory already accomplished in God's decree.
+- v.18 — NET: "Hold out toward Ai the curved sword in your hand" / KJV: "Stretch out the spear that is in thy hand toward Ai" / ASV: "Stretch out the javelin that is in thy hand toward Ai" / WEB: "Stretch out the javelin that is in your hand toward Ai" — Hebrew "kidon" is debated: javelin, lance, curved sword, or scimitar. NET's "curved sword" is one interpretation; KJV "spear" and ASV/WEB "javelin" are others. The gesture parallels Moses raising his rod over the Red Sea (Exodus 14:16).
+- v.26 — ASV: "until he had utterly destroyed all the inhabitants of Ai" / WEB: "until he had utterly destroyed all the inhabitants of Ai" / NET: "until Israel had annihilated all who lived in Ai" — The Hebrew "cherem" (devoted to destruction) appears again. NET uses "annihilated" while ASV/WEB use "utterly destroyed." The "herem" concept is sacred judgment, not mere military annihilation.
+- v.28 — NET: "Joshua burned Ai and made it a permanently uninhabited mound" / KJV: "Joshua burnt Ai, and made it an heap for ever" / ASV: "Joshua burnt Ai, and made it a heap for ever, even a desolation" / WEB: "Joshua burned Ai, and made it a heap forever, even a desolation" — NET interprets "tel olam" (eternal mound/heap) as "permanently uninhabited mound." KJV/ASV/WEB preserve "heap forever" — the archaeological term "tel" (artificial mound) comes from this very Hebrew word.
+- v.31 — NET: "sacrificed tokens of peace" / KJV: "sacrificed peace offerings" / ASV: "sacrificed peace-offerings" / WEB: "sacrificed peace offerings" — NET's "tokens of peace" is an unusual rendering of "sh'lamim" (peace offerings/fellowship offerings). The standard term connects to "shalom" (wholeness/peace) and denotes communion with God, not mere diplomatic tokens.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. After failure, God restores (v.1). God does not discard Israel after

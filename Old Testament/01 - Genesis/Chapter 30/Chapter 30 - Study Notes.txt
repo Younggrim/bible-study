@@ -79,57 +79,125 @@ Charles Spurgeon:
   His timing is not ours. His 'remembering' is not that He forgot — it's
   that He now acts. Your waiting has an end. God remembers."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "or else I die" / ESV: "or I shall die!" — Both equivalent.
-       Hyperbole expressing Rachel's desperation. Barrenness in the ancient
-       world was considered a curse and social shame.
+v.1  — Hebrew "o meitah anokhi" — or else I die.
+       KJV: "Give me children, or else I die"
+       ESV: "Give me children, or I shall die!"
+       ASV: "Give me children, or else I die"
+       NET: "Give me children or I'll die!"
+       WEB: "Give me children, or else I will die"
+       Analysis: Hyperbole expressing Rachel's desperation. Barrenness in the
+       ancient world was considered a curse and social shame. All translations
+       preserve the emotional intensity; NET's contracted "I'll" adds
+       conversational urgency.
 
-v.2  — KJV: "Am I in God's stead" / ESV: "Am I in the place of God" — Both
-       equivalent. ESV is slightly more natural in modern English.
+v.2  — Hebrew "hatachat Elohim anokhi" — am I in the place of God.
+       KJV: "Am I in God's stead, who hath withheld from thee the fruit of the womb?"
+       ESV: "Am I in the place of God, who has withheld from you the fruit of the womb?"
+       ASV: "Am I in God's stead, who hath withheld from thee the fruit of the womb?"
+       NET: "Am I in the place of God, who has kept you from having children?"
+       WEB: "Am I in God's place, who has withheld from you the fruit of the womb?"
+       Analysis: Jacob's angry recognition of God's sovereignty over
+       conception. NET renders "fruit of the womb" idiomatically as "having
+       children." All translations preserve Jacob's acknowledgment that
+       fertility belongs to God alone.
 
-v.6  — KJV: "Dan" / ESV: "Dan" — Both identical. Hebrew "Dan" = "he judged."
-       Rachel felt God vindicated her.
-v.8  — KJV: "Naphtali" / ESV: "Naphtali" — Both identical. Hebrew "Naphtali"
-       = "my wrestling." KJV: "great wrestlings"; ESV: "mighty wrestlings."
-v.11 — KJV: "a troop cometh" / ESV: "Good fortune has come!" — Hebrew "Gad"
-       = "fortune/luck." KJV interprets "gad" as "troop"; ESV as "fortune."
-       ESV is closer to the Hebrew meaning.
-v.13 — KJV: "Asher" / ESV: "Asher" — Both identical. Hebrew "Asher" =
-       "happy/blessed."
-v.18 — KJV: "Issachar" / ESV: "Issachar" — Both identical. Hebrew
-       "Yissachar" = "reward/wages."
-v.20 — KJV: "Zebulun" / ESV: "Zebulun" — Both identical. Hebrew "Zebulun" =
-       "dwelling/honor."
-v.24 — KJV: "Joseph" / ESV: "Joseph" — Both identical. Hebrew "Yoseph" =
-       "may he add." Rachel's faith: God will add another son (fulfilled in
-       Benjamin, 35:18).
+v.6  — Hebrew "Dan" — he judged.
+       KJV: "Dan: and Rachel said, God hath judged me"
+       ESV: "Dan. Then Rachel said, 'God has judged me'"
+       ASV: "Dan. And Rachel said, God hath judged me"
+       NET: "Dan, saying, 'God has vindicated me'"
+       WEB: "Dan. Rachel said, 'God has judged me'"
+       Analysis: NET renders Hebrew "dananni" as "vindicated" rather than
+       "judged" (KJV/ESV/ASV/WEB), giving the name-explanation a more
+       positive legal connotation. Rachel felt God defended her cause, not
+       merely rendered a verdict.
 
-v.27 — KJV: "I have learned by experience" / ESV: "I have learned by
-       divination" — Hebrew "nichashti" — to divine, to observe signs. ESV
-       is more literal; KJV softens the pagan practice. Laban used divination
-       to discern that God blessed him because of Jacob.
+v.8  — Hebrew "naphtulei Elohim" — wrestlings of God (mighty wrestlings).
+       KJV: "With great wrestlings have I wrestled with my sister, and I have prevailed"
+       ESV: "With mighty wrestlings I have wrestled with my sister and have prevailed"
+       ASV: "With mighty wrestlings have I wrestled with my sister, and have prevailed"
+       NET: "I have fought a desperate struggle with my sister, but I have won"
+       WEB: "With mighty wrestlings have I wrestled with my sister, and have prevailed"
+       Analysis: The phrase "naphtulei Elohim" literally means "wrestlings of
+       God" — superhuman/mighty struggles. NET's "desperate struggle"
+       intensifies the personal anguish. ESV/ASV use "mighty wrestlings"
+       interpreting "Elohim" as an intensive. Naphtali = "my wrestling."
 
-v.37 — KJV: "rods" / ESV: "sticks" — Both equivalent. Jacob's rod-peeling
-       technique: ancient folk belief about prenatal influence. God blessed
-       Jacob despite the method, not because of it (31:10-12 reveals God's
-       direct intervention).
+v.11 — Hebrew "bagad" — fortune/luck (Gad).
+       KJV: "A troop cometh: and she called his name Gad"
+       ESV: "Good fortune has come! so she called his name Gad"
+       ASV: "Fortunate! And she called his name Gad"
+       NET: "'How fortunate!' So she named him Gad"
+       WEB: "How fortunate! She named him Gad"
+       Analysis: Hebrew "Gad" = "fortune/luck." KJV interprets "gad" as
+       "troop" (an alternate meaning); ESV/ASV/NET/WEB correctly render it as
+       "fortune" or "fortunate," closer to the Hebrew meaning. ESV is more
+       accurate here.
 
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "Am I in the place of God, who has kept you from having
-  children?" — Jacob's angry response is direct in all translations. NET
-  uses "Am I in the place of God" matching KJV/ESV.
-- v.6 — NET: "God has vindicated me" — renders Hebrew "dananni" (Dan =
-  "he judged") as "vindicated" rather than "judged" (KJV/ESV/ASV), giving
-  the name-explanation a more positive legal connotation.
-- v.8 — NET: "I have fought a desperate struggle with my sister, but I have
-  won" — "desperate struggle" intensifies Hebrew "naphtulei Elohim" (KJV:
-  "great wrestlings" / WEB: "wrestlings of God"). The phrase literally means
-  "wrestlings of God" — superhuman/mighty struggles.
-- v.27 — NET typically renders Laban's response about divination/omens
-  distinctively. WEB retains "I have divined that Yahweh has blessed me for
-  your sake."
+v.13 — Hebrew "Asher" — happy/blessed.
+       KJV: "Happy am I, for the daughters will call me blessed: and she called his name Asher"
+       ESV: "Happy am I! For women have called me happy. So she called his name Asher"
+       ASV: "Happy am I! for the daughters will call me happy: And she called his name Asher"
+       NET: "'How happy I am! For women will call me happy.' So she named him Asher"
+       WEB: "Happy am I, for the daughters will call me happy. She named him Asher"
+       Analysis: All translations preserve the wordplay — Asher means "happy/
+       blessed." The joy is universal across renderings.
+
+v.18 — Hebrew "Yissachar" — reward/wages.
+       KJV: "God hath given me my hire... and she called his name Issachar"
+       ESV: "God has given me my wages... So she called his name Issachar"
+       ASV: "God hath given me my hire... and she called his name Issachar"
+       NET: "'God has given me my wages'... So she named him Issachar"
+       WEB: "God has given me my hire... She named him Issachar"
+       Analysis: "Yissachar" = "reward/wages." All translations maintain the
+       connection between the name and Leah's statement about receiving wages
+       from God for giving her servant to Jacob.
+
+v.20 — Hebrew "Zebulun" — dwelling/honor.
+       KJV: "now will my husband dwell with me... and she called his name Zebulun"
+       ESV: "now my husband will honor me... and she called his name Zebulun"
+       ASV: "now will my husband dwell with me... and she called his name Zebulun"
+       NET: "'Now my husband will honor me'... So she named him Zebulun"
+       WEB: "Now my husband will live with me... She named him Zebulun"
+       Analysis: Hebrew "Zebulun" can mean "dwelling" or "honor." KJV/ASV/WEB
+       translate as "dwell" while ESV/NET use "honor" — both are valid
+       readings of the root "zabal." Leah hoped this sixth son would either
+       bring Jacob's presence or his respect.
+
+v.24 — Hebrew "Yoseph" — may he add.
+       KJV: "The LORD shall add to me another son. And she called his name Joseph"
+       ESV: "May the LORD add to me another son! And she called his name Joseph"
+       ASV: "Jehovah add to me another son. And she called his name Joseph"
+       NET: "'May the LORD give me yet another son.' So she named him Joseph"
+       WEB: "May Yahweh add another son to me. She named him Joseph"
+       Analysis: "Yoseph" = "may he add." Rachel's faith: God will add
+       another son (fulfilled in Benjamin, 35:18). Note the divine name
+       variations: LORD (KJV/ESV), Jehovah (ASV), Yahweh (WEB), LORD (NET).
+
+v.27 — Hebrew "nichashti" — to divine, to observe signs.
+       KJV: "I have learned by experience that the LORD hath blessed me for thy sake"
+       ESV: "I have learned by divination that the LORD has blessed me because of you"
+       ASV: "I have divined that Jehovah hath blessed me for thy sake"
+       NET: "I have learned by divination that the LORD has blessed me on account of you"
+       WEB: "I have divined that Yahweh has blessed me for your sake"
+       Analysis: KJV softens "nichashti" to "learned by experience,"
+       obscuring Laban's pagan practice. ESV/ASV/NET/WEB are more literal —
+       Laban used divination (occult means) to discern that God blessed him
+       because of Jacob. The pagan discerning divine blessing is richly ironic.
+
+v.37 — Hebrew "maqqeloth" — rods/sticks/branches.
+       KJV: "Jacob took him rods of green poplar"
+       ESV: "Jacob took fresh sticks of poplar"
+       ASV: "Jacob took him rods of fresh poplar"
+       NET: "Jacob then took fresh-cut branches of poplar"
+       WEB: "Jacob took to himself rods of fresh poplar"
+       Analysis: Jacob's rod-peeling technique reflects ancient folk belief
+       about prenatal influence. God blessed Jacob despite the method, not
+       because of it (31:10-12 reveals God's direct intervention). KJV/ASV
+       use "rods"; ESV uses "sticks"; NET uses "branches" — all acceptable
+       translations of "maqqeloth."
 
 GLOSSARY
 ------------------------------------

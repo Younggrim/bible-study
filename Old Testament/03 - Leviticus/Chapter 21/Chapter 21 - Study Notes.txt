@@ -160,67 +160,78 @@ Charles Spurgeon:
   perfect, and His intercession is perfect, and His salvation is perfect.
   What Aaron could only picture, Christ IS."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "There shall none be defiled for the dead among his people" /
-       ESV: "No one shall make himself unclean for the dead among his
-       people" — Hebrew "lo yitamma b'ammav" — he shall not make himself
-       unclean among his people. ESV's "make himself unclean" emphasizes
-       the voluntary nature — the priest must actively avoid defilement.
+v.1  — Hebrew "lo yitamma b'ammav" — he shall not make himself unclean among his people.
+       KJV: "There shall none be defiled for the dead among his people"
+       ESV: "No one shall make himself unclean for the dead among his people"
+       ASV: "There shall none defile himself for the dead among his people"
+       NET: "For a dead person no priest is to defile himself"
+       Analysis: ESV's "make himself unclean" emphasizes the voluntary nature — the priest must actively avoid defilement. NET's "dead person" (Hebrew "nephesh" — literally "soul/person") clarifies that defilement comes from contact with a corpse. The same word "nephesh" means both "living soul" and "dead body."
 
-v.4  — KJV: "he shall not defile himself, being a chief man among his
-       people, to profane himself" / ESV: "He shall not make himself
-       unclean as a husband among his people and so profane himself" —
-       Hebrew "lo yitamma ba'al b'ammav l'hechallo." This verse is
-       difficult. KJV reads "ba'al" as "chief/master" — his position
-       prevents defilement. ESV reads "ba'al" as "husband" — he shall not
-       defile himself for in-laws (by marriage). Both are possible
-       readings of the Hebrew.
+v.4  — Hebrew "lo yitamma ba'al b'ammav l'hechallo" — a difficult verse.
+       KJV: "he shall not defile himself, being a chief man among his people, to profane himself"
+       ESV: "He shall not make himself unclean as a husband among his people and so profane himself"
+       Analysis: KJV reads "ba'al" as "chief/master" — his position prevents defilement. ESV reads "ba'al" as "husband" — he shall not defile himself for in-laws (by marriage). Both are possible readings of the Hebrew.
 
-v.5  — KJV: "They shall not make baldness upon their head" / ESV: "They
-       shall not make bald patches on their heads" — Hebrew "lo yiqr'chu
-       qorchah b'rosham." Shaving the head was a pagan mourning custom
-       (also practiced in Egypt). Priests must not adopt pagan mourning
-       rituals — their grief must be expressed within God's boundaries.
+v.5  — Hebrew "lo yiqr'chu qorchah b'rosham" — shaving the head as pagan mourning.
+       KJV: "They shall not make baldness upon their head"
+       ESV: "They shall not make bald patches on their heads"
+       ASV: "they must not cut slashes in their body"
+       NET: "they must not cut slashes in their body"
+       Analysis: Shaving the head was a pagan mourning custom (also practiced in Egypt). NET's "slashes" specifies the mourning practice of cutting oneself for the dead — a pagan custom forbidden for all Israel (19:28) and especially for priests.
 
-v.7  — KJV: "a wife that is a whore, or profane" / ESV: "a prostitute or
-       a woman who has been defiled" — Hebrew "zonah va-chalalah." "Zonah"
-       = a prostitute/harlot. "Chalalah" = a profaned/defiled woman (one
-       who has been sexually violated or who has lost her virginal status
-       in a dishonorable way). KJV's "profane" is literal; ESV interprets
-       as "defiled."
+v.6  — Hebrew "isheh YHWH" and "lechem" — the LORD's offerings and bread/food.
+       KJV: "the offerings of the LORD made by fire, and the bread of their God"
+       ASV: "the offerings of Jehovah made by fire, the bread of their God"
+       NET: "the Lord's gifts, the food of their God"
+       Analysis: NET renders "isheh YHWH" as "the Lord's gifts" and "lechem" as "food." ASV uses "bread" (more literal). The sacrifices are called God's "food" — anthropomorphic language for offerings that satisfy/please Him.
 
-v.10 — KJV: "shall not uncover his head, nor rend his clothes" / ESV:
-       "shall not let the hair of his head hang loose nor tear his clothes"
-       — Hebrew "et rosho lo yifra v'et b'gadav lo yifrom." "Yifra" = to
-       let loose, unbind (the hair). KJV's "uncover" suggests removing a
-       head covering; ESV's "let hang loose" refers to disheveling the
-       hair as a sign of mourning. ESV is more accurate to the Hebrew.
+v.7  — Hebrew "zonah va-chalalah" — a prostitute and a profaned woman.
+       KJV: "a wife that is a whore, or profane"
+       ESV: "a prostitute or a woman who has been defiled"
+       Analysis: "Zonah" = a prostitute/harlot. "Chalalah" = a profaned/defiled woman (one who has been sexually violated or who has lost her virginal status in a dishonorable way). KJV's "profane" is literal; ESV interprets as "defiled."
 
-v.12 — KJV: "the crown of the anointing oil" / ESV: "the consecration of
-       the anointing oil" — Hebrew "nezer shemen ha-mishchah." "Nezer" =
-       crown, consecration, separation (same root as "Nazirite"). The
-       anointing oil is his "crown" — his mark of consecration. It sets
-       him apart as surely as a crown sets apart a king.
+v.10 — Hebrew "et rosho lo yifra v'et b'gadav lo yifrom" — not loosening hair or tearing clothes.
+       KJV: "shall not uncover his head, nor rend his clothes"
+       ESV: "shall not let the hair of his head hang loose nor tear his clothes"
+       ASV: "he that is the high priest among his brethren"
+       NET: "The high priest"
+       Analysis: "Yifra" = to let loose, unbind (the hair). KJV's "uncover" suggests removing a head covering; ESV's "let hang loose" refers to disheveling the hair as a sign of mourning. ESV is more accurate to the Hebrew. NET simply says "The high priest" where ASV/KJV describe "he that is the high priest among his brethren."
 
-v.18 — KJV: "a blind man, or a lame, or he that hath a flat nose, or any
-       thing superfluous" / ESV: "a man blind or lame, or one who has a
-       mutilated face or a limb too long" — Hebrew "iver o fisse'ach o
-       charum o sarua." "Charum" = flat-nosed/mutilated face (KJV: "flat
-       nose"; ESV: "mutilated face"). "Sarua" = extended/stretched (KJV:
-       "superfluous" = extra; ESV: "limb too long"). Both translations
-       attempt to render rare Hebrew terms for physical conditions.
+v.12 — Hebrew "nezer shemen ha-mishchah" — crown/consecration of anointing oil.
+       KJV: "the crown of the anointing oil"
+       ESV: "the consecration of the anointing oil"
+       Analysis: "Nezer" = crown, consecration, separation (same root as "Nazirite"). The anointing oil is his "crown" — his mark of consecration. It sets him apart as surely as a crown sets apart a king.
 
-v.20 — KJV: "crookbackt, or a dwarf" / ESV: "a hunchback or a dwarf" —
-       Hebrew "gibben o daq." "Gibben" = hunchbacked (KJV's "crookbackt"
-       is archaic for the same). "Daq" = thin/small (a dwarf or emaciated
-       person). These are rare terms, and exact identification is debated.
+v.13 — Hebrew "b'tulah" — a virgin.
+       KJV: "he shall take a wife in her virginity"
+       ESV: "He shall take a wife in her virginity"
+       ASV: "he shall take a wife in her virginity"
+       NET: "He must marry a virgin"
+       WEB: "He shall take a wife in her virginity"
+       Analysis: NET is direct; ASV follows the Hebrew idiom more closely. The high priest's bride must be a virgin — pointing to Christ and His pure bride, the Church.
 
-v.20 — KJV: "hath his stones broken" / ESV: "crushed testicles" — Hebrew
-       "m'ro'ach ashekh." KJV's "stones broken" is a euphemism; ESV is
-       direct. A man with damaged reproductive organs cannot serve at the
-       altar — the priest must represent wholeness and the capacity for
-       life.
+v.17 — Hebrew "mum" — blemish/physical flaw.
+       KJV: "Whosoever he be of thy seed throughout their generations that hath a blemish"
+       ASV: "Whosoever he be of thy seed throughout their generations that hath a blemish"
+       NET: "No man from your descendants throughout their generations who has a physical flaw is to approach to present the food of his God"
+       Analysis: NET's "physical flaw" clarifies this is not moral but physical disqualification from altar service, while still permitting them to eat priestly food (v.22).
+
+v.18 — Hebrew "iver o fisse'ach o charum o sarua" — blind, lame, mutilated, extended.
+       KJV: "a blind man, or a lame, or he that hath a flat nose, or any thing superfluous"
+       ESV: "a man blind or lame, or one who has a mutilated face or a limb too long"
+       Analysis: "Charum" = flat-nosed/mutilated face (KJV: "flat nose"; ESV: "mutilated face"). "Sarua" = extended/stretched (KJV: "superfluous" = extra; ESV: "limb too long"). Both translations attempt to render rare Hebrew terms for physical conditions.
+
+v.20 — Hebrew "gibben o daq" — hunchbacked or thin/small.
+       KJV: "crookbackt, or a dwarf"
+       ESV: "a hunchback or a dwarf"
+       Analysis: "Gibben" = hunchbacked (KJV's "crookbackt" is archaic). "Daq" = thin/small (a dwarf or emaciated person). These are rare terms, and exact identification is debated.
+
+v.20 — Hebrew "m'ro'ach ashekh" — damaged reproductive organs.
+       KJV: "hath his stones broken"
+       ESV: "crushed testicles"
+       Analysis: KJV's "stones broken" is a euphemism; ESV is direct. A man with damaged reproductive organs cannot serve at the altar — the priest must represent wholeness and the capacity for life.
 
 GLOSSARY
 ------------------------------------

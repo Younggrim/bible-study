@@ -106,32 +106,87 @@ Charles Spurgeon:
   reveals our sin provides our cleansing. Give up your vanity and gain your
   purity."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3 — KJV: "fleshhooks" / ESV: "forks" — Hebrew "mizlagot" — forks or
- flesh-hooks used to handle sacrificial meat on the altar. ESV
- modernizes the term.
+v.1  — Hebrew measurements for the Bronze Altar.
+       KJV: "five cubits... five cubits... three cubits"
+       ESV: "five cubits... five cubits... three cubits"
+       ASV: "five cubits... five cubits... three cubits"
+       NET: "7½ feet long and 7½ feet wide... and its height was 4½ feet"
+       WEB: "five cubits... five cubits... three cubits"
+       Analysis: NET converts all cubit measurements to feet, making the substantial size tangible: approximately 7½ feet square and 4½ feet tall. KJV/ESV/ASV/WEB retain the original Hebrew cubits.
 
-v.4 — KJV: "brasen grate of network" / ESV: "grating, a network of bronze"
- — Hebrew "mikbar maʻaseh reshet" — a grating of net-work. A bronze
- mesh placed inside the altar to hold the burning sacrifice.
+v.3  — Hebrew "mizlagot" — forks or flesh-hooks.
+       KJV: "fleshhooks"
+       ESV: "forks"
+       ASV: "flesh-hooks"
+       NET: "meat forks"
+       WEB: "meat forks"
+       Analysis: Used to handle sacrificial meat on the altar. KJV/ASV retain the compound "fleshhooks"; ESV modernizes to simple "forks"; NET/WEB combine both ideas as "meat forks."
 
-v.8 — KJV: "lookingglasses" / ESV: "mirrors" — Hebrew "marʼot" — mirrors
- (polished bronze). KJV "looking-glasses" reflects the older English
- term for mirrors. These were the women's personal possessions.
+v.4  — Hebrew "mikbar maʻaseh reshet" — a grating of net-work.
+       KJV: "a brasen grate of network"
+       ESV: "a grating, a network of bronze"
+       ASV: "a grating of network of brass"
+       NET: "a grating, a network of bronze"
+       WEB: "a grating of a network of bronze"
+       Analysis: A bronze mesh placed inside the altar to hold the burning sacrifice. Note ASV/WEB/KJV use "brass" in some instances while NET/ESV use "bronze" — Hebrew "nechoshet" is more accurately "bronze" (an alloy of copper and tin), though "brass" (copper and zinc) was the traditional English rendering.
 
-v.8 — KJV: "women assembling" / ESV: "ministering women who ministered" —
- Hebrew "hatsoveʼot ʼasher tsaveʼu" — the women who served/
- assembled. These women had a recognized role of service at the
- tabernacle entrance.
+v.8  — Hebrew "marʼot" — mirrors (polished bronze); "kiyyor" — laver/basin.
+       KJV: "the laver of brass, and the foot of it of brass, of the lookingglasses of the women"
+       ESV: "the basin of bronze and its stand of bronze, from the mirrors of the ministering women"
+       ASV: "he made the laver of brass, and the base thereof of brass, of the mirrors of the women"
+       NET: "He made the large basin of bronze and its pedestal of bronze from the mirrors of the women"
+       WEB: "He made the basin of brass, and its base of brass, of the mirrors of the women"
+       Analysis: KJV "lookingglasses" reflects the older English term for mirrors (polished bronze). NET uses "large basin" for "kiyyor," emphasizing its size. ASV uses the traditional "laver." NET's "pedestal" (vs. "base/stand/foot") is the most specific English term. These were the women's personal possessions sacrificed for sacred use.
 
-v.21 — KJV: "the sum of the tabernacle" / ESV: "the records of the
- tabernacle" — Hebrew "pequdey hamishkan" — the accounts/records/
- inventory of the tabernacle. A formal reckoning of materials used.
+v.8  — Hebrew "hatsoveʼot ʼasher tsaveʼu" — the women who served/assembled.
+       KJV: "the women assembling, which assembled"
+       ESV: "the ministering women who ministered"
+       ASV: "the serving women that served"
+       NET: "the women who served"
+       WEB: "the ministering women who ministered"
+       Analysis: These women had a recognized role of service at the tabernacle entrance. All translations acknowledge their official function, though the exact nature of their service is debated.
 
-v.26 — KJV: "bekah" / ESV: "beka" — Hebrew "beqaʻ" — a half-shekel
- (approximately 0.2 ounces of silver). The redemption price per
- person, establishing each Israelite's stake in the tabernacle.
+v.9  — Hebrew courtyard measurements in cubits.
+       KJV: "an hundred cubits"
+       ESV: "a hundred cubits"
+       ASV: "a hundred cubits"
+       NET: "150 feet long"
+       WEB: "one hundred cubits"
+       Analysis: NET's modern measurement conversion: the courtyard was approximately 150 × 75 feet (100 × 50 cubits), giving perspective on the tabernacle complex's substantial size.
+
+v.21 — Hebrew "pequdey hamishkan" — accounts/records/inventory.
+       KJV: "the sum of the tabernacle"
+       ESV: "the records of the tabernacle"
+       ASV: "This is the sum of the things for the tabernacle"
+       NET: "This is the inventory of the tabernacle"
+       WEB: "This is the amount of material used for the tabernacle"
+       Analysis: Three different renderings of "pequdey": KJV/ASV "sum" (a reckoning), ESV "records" (formal documentation), NET "inventory" (formal accounting), WEB "amount of material" (most interpretive). A formal reckoning of materials used, demonstrating accountability.
+
+v.22 — Hebrew "kaʼasher tsivvah YHWH ʼet-Mosheh" — as YHWH commanded Moses.
+       KJV: "all that the LORD commanded Moses"
+       ESV: "everything that the LORD had commanded Moses"
+       ASV: "all that Jehovah commanded Moses"
+       NET: "everything that the Lord had commanded Moses"
+       WEB: "all that Yahweh commanded Moses"
+       Analysis: The obedience formula using each translation's standard rendering of the divine name. This phrase of obedient completion recurs throughout chapters 36–39 like a drumbeat of faithfulness.
+
+v.26 — Hebrew "beqaʻ" — a half-shekel.
+       KJV: "a bekah for every man"
+       ESV: "a beka a head"
+       ASV: "a beka a head"
+       NET: "one beka per person"
+       WEB: "a beka a head"
+       Analysis: Approximately 0.2 ounces of silver — the redemption price per person, establishing each Israelite's stake in the tabernacle. The silver came from 603,550 men, connecting the tabernacle's foundation literally to redemption.
+
+v.27 — Hebrew "adanim" — bases/sockets for the veil.
+       KJV: "sockets of the sanctuary... sockets of the vail"
+       ESV: "bases for the sanctuary... bases for the veil"
+       ASV: "the sockets of the sanctuary, and the sockets of the veil"
+       NET: "the bases of the sanctuary... the bases of the special curtain"
+       WEB: "the sockets of the sanctuary, and the sockets of the veil"
+       Analysis: NET again uses "special curtain" instead of "veil" for Hebrew "paroket," and "bases" instead of "sockets" (ASV/WEB/KJV) for Hebrew "adanim" (the silver foundation blocks).
 
 GLOSSARY
 ------------------------------------

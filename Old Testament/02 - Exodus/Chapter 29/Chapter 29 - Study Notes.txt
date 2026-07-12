@@ -111,47 +111,120 @@ Charles Spurgeon:
   Christ. Your hands belong to Christ. Your feet belong to Christ. Every
   faculty, every action, every step — consecrated by blood."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "to hallow them" / ESV: "to consecrate them" — Hebrew
-       "leqaddesh otam" — to make them holy, to set them apart. The KJV's
-       "hallow" (make holy) and the ESV's "consecrate" (set apart for sacred
-       use) are synonymous. Both capture the idea of separation for God's
-       service.
+v.1  — Hebrew "leqaddesh otam" — to make them holy, to set them apart.
+       KJV: "to hallow them"
+       ESV: "to consecrate them"
+       ASV: "to hallow them"
+       NET: "to consecrate them"
+       WEB: "to sanctify them"
+       Analysis: KJV/ASV's "hallow" (make holy), ESV/NET's "consecrate"
+       (set apart for sacred use), and WEB's "sanctify" are all synonymous.
+       Each captures the idea of separation for God's service.
 
-v.9  — KJV: "consecrate" / ESV: "ordain" — Hebrew "mille et yad" —
-       literally "fill the hand." An idiom for ordination/installation into
-       office. The ESV's "ordain" captures the official appointment; the
-       KJV's "consecrate" emphasizes the sacred setting-apart. The Hebrew
-       idiom "fill the hand" may refer to placing the offerings in the
-       priests' hands (v.24).
+v.9  — Hebrew "mille et yad" — literally "fill the hand" (ordain).
+       KJV: "consecrate"
+       ESV: "ordain"
+       ASV: "consecrate"
+       NET: "the ministry of priesthood will belong to them by a perpetual ordinance"
+       WEB: "consecrate"
+       Analysis: The ESV "ordain" captures the official appointment; KJV/ASV/
+       WEB "consecrate" emphasizes sacred setting-apart. NET diverges by using
+       "ministry of priesthood" rather than simply "priesthood," emphasizing
+       the functional/service aspect. NET also uses "ordinance" where others
+       use "statute" (Hebrew "chuqqah"). The Hebrew idiom "fill the hand" may
+       refer to placing the offerings in the priests' hands (v.24).
 
-v.14 — KJV: "without the camp" / ESV: "outside the camp" — Hebrew
-       "michutz lamachaneh." Both are equivalent. The sin offering's flesh
-       is burned outside — foreshadowing Christ who "suffered without the
-       gate" (Hebrews 13:12). Sin is removed from God's presence.
+v.11 — Hebrew "lifnei YHWH" — before the LORD.
+       KJV: "before the LORD"
+       ESV: "before the LORD"
+       ASV: "before Jehovah"
+       NET: "before the Lord"
+       WEB: "before Yahweh"
+       Analysis: The divine name (Hebrew YHWH) rendered three different ways.
+       ASV uses the traditional English hybrid "Jehovah"; WEB restores the
+       probable Hebrew pronunciation "Yahweh"; NET follows the conventional
+       substitution "the Lord." This distinction runs throughout the chapter
+       (vv.11, 18, 23, 25, 42, 46).
 
-v.18 — KJV: "a sweet savour" / ESV: "a pleasing aroma" — Hebrew "re'ach
-       nichoach" — a soothing/restful fragrance. The ESV's "pleasing aroma"
-       is more natural in modern English. The sacrifice is pleasing to God —
-       not the smell of burning flesh but the obedience and faith it
-       represents.
+v.14 — Hebrew "chattat" — sin offering / purification offering.
+       KJV: "it is a sin offering"
+       ESV: "it is a sin offering"
+       ASV: "it is a sin offering"
+       NET: "It is the purification offering"
+       WEB: "it is a sin offering"
+       Analysis: NET renders "chattat" as "purification offering" rather than
+       "sin offering" to emphasize that the ritual purifies the altar and
+       sanctuary from contamination, not just moral guilt. This is a
+       significant interpretive choice in NET throughout Levitical texts.
+       The flesh is burned outside the camp — foreshadowing Christ who
+       "suffered without the gate" (Hebrews 13:12).
 
-v.22 — KJV: "ram of consecration" / ESV: "ram of ordination" — Hebrew
-       "eil hammilu'im" — the ram of filling (the hands). Same distinction
-       as v.9: KJV emphasizes holiness; ESV emphasizes official appointment.
+v.18 — Hebrew "re'ach nichoach" — a soothing/restful fragrance.
+       KJV: "a sweet savour"
+       ESV: "a pleasing aroma"
+       ASV: "a sweet savor"
+       NET: "a soothing aroma"
+       WEB: "a pleasant aroma"
+       Analysis: ASV retains KJV's archaic "savour"; WEB modernizes to
+       "pleasant aroma"; NET interprets as "soothing" — capturing the sense
+       that the offering brings rest/satisfaction to God. ESV's "pleasing
+       aroma" is most natural in modern English.
 
-v.33 — KJV: "a stranger shall not eat thereof" / ESV: "an outsider shall
-       not eat of them" — Hebrew "zar" — a stranger, an unauthorized person,
-       a non-priest. The ESV's "outsider" clarifies that this means anyone
-       not authorized for priestly service, not merely a foreigner.
+v.21 — Hebrew "veqadash" — and he shall be holy/consecrated.
+       KJV: "he shall be hallowed"
+       ESV: "he shall be holy"
+       ASV: "he shall be hallowed"
+       NET: "so that he may be holy"
+       WEB: "he shall be made holy"
+       Analysis: ASV/KJV retain the archaic "hallowed"; WEB uses plain
+       modern English "made holy"; NET restructures as a purpose clause
+       ("so that"), making the consecration goal-oriented rather than merely
+       declarative. ESV is most concise.
 
-v.45 — KJV: "I will dwell among the children of Israel" / ESV: "I will
-       dwell among the people of Israel" — Hebrew "veshakhanti betokh benei
-       Yisra'el" — I will tabernacle/dwell in the midst of the sons of
-       Israel. Both translations are equivalent. This is the climactic
-       promise: God's presence among His people — the purpose of the entire
-       Tabernacle system.
+v.22 — Hebrew "eil hammilu'im" — the ram of filling (the hands).
+       KJV: "ram of consecration"
+       ESV: "ram of ordination"
+       ASV: "ram of consecration"
+       NET: "the ram for consecration"
+       WEB: "the ram of consecration"
+       Analysis: Same distinction as v.9: KJV/ASV/WEB/NET emphasize holiness
+       ("consecration"); ESV emphasizes official appointment ("ordination").
+
+v.33 — Hebrew "zar" — a stranger, an unauthorized person, a non-priest.
+       KJV: "a stranger shall not eat thereof"
+       ESV: "an outsider shall not eat of them"
+       ASV: "a stranger shall not eat thereof, because they are holy"
+       NET: "no one else may eat them, for they are holy"
+       WEB: "a stranger shall not eat of them, because they are holy"
+       Analysis: NET avoids both "stranger" (KJV/ASV/WEB) and "outsider"
+       (ESV), using the more expansive "no one else" — any non-priest,
+       regardless of nationality. This removes potential confusion with
+       foreigners.
+
+v.36 — Hebrew "chattat" — sin/purification offering.
+       KJV: "thou shalt offer the bullock of sin-offering for atonement"
+       ESV: "you shall offer a bull as a sin offering for atonement"
+       ASV: "thou shalt offer the bullock of sin-offering for atonement"
+       NET: "you are to prepare a bull for a purification offering for atonement"
+       WEB: "you shall offer a bull for a sin offering for atonement"
+       Analysis: Again NET's consistent "purification offering" for "chattat."
+       Additionally, NET adds "you are to prepare" (an instructional tone)
+       where others retain the more direct "thou shalt offer" / "you shall
+       offer."
+
+v.45 — Hebrew "veshakhanti betokh benei Yisra'el" — I will tabernacle/dwell
+       in the midst of the sons of Israel.
+       KJV: "I will dwell among the children of Israel"
+       ESV: "I will dwell among the people of Israel"
+       ASV: "I will dwell among the children of Israel"
+       NET: "I will reside among the Israelites"
+       WEB: "I will dwell among the children of Israel"
+       Analysis: NET uniquely uses "reside" rather than "dwell," a less
+       theologically loaded term. KJV/ASV/WEB retain "dwell" which echoes
+       "tabernacle" (mishkan) and carries richer covenantal weight. This is
+       the climactic promise — the purpose of the entire Tabernacle system.
 
 GLOSSARY
 ------------------------------------

@@ -92,58 +92,64 @@ Charles Spurgeon:
   to her, promised her a future. If God sees a runaway slave, He sees you.
   Wherever you are, however low, however forgotten — Thou God seest me."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "obtain children by her" / ESV: "obtain children by her" —
-       Both identical. Hebrew "ibbaneh" — be built up through her. Surrogate
-       motherhood was legal in ancient Mesopotamia. The child would legally
-       be Sarai's. Culturally acceptable but not God's plan.
+v.2  — Hebrew "bo-na el-shipchati ulai ibbaneh mimmennah"
+       KJV: "go in unto my maid; it may be that I may obtain children by her"
+       ESV: "go in to my servant; it may be that I shall obtain children by her"
+       ASV: "go in unto my handmaid; it may be that I shall obtain children by her"
+       NET: "please sleep with my servant; perhaps I can have a family by her"
+       WEB: "see now... go in to my handmaid. It may be that I will obtain children by her"
+       Analysis: NET renders "bo el" (go in to) with modern directness
+       ("sleep with") where others use the euphemism. NET also interprets
+       "ibaneh" (be built up) as "have a family" — preserving the wordplay
+       on "banah" (build) and "ben" (son). Surrogate motherhood was legal in
+       Mesopotamia but not God's plan.
 
-v.7  — KJV: "the angel of the LORD" / ESV: "The angel of the LORD" — Both
-       identical. Hebrew "malak Yahweh." First appearance of this figure. In
-       many OT passages, the angel of the LORD speaks as God, is identified
-       as God, yet is distinct from God — suggesting a pre-incarnate
-       appearance of Christ.
+v.7  — Hebrew "malak Yahweh" — the angel of the LORD.
+       KJV: "the angel of the LORD found her"
+       ESV: "The angel of the LORD found her"
+       ASV: "the angel of Jehovah found her"
+       NET: "The angel of the Lord found Hagar"
+       WEB: "Yahweh's angel found her"
+       Analysis: First appearance of the "angel of the LORD" in Scripture.
+       WEB's "Yahweh's angel" preserves the Hebrew construct form. ASV uses
+       "Jehovah." NET names "Hagar" explicitly — emphasizing God actively
+       seeking the outcast. This figure speaks as God, is identified as God,
+       yet is distinct — suggesting a pre-incarnate Christ.
 
-v.11 — KJV: "Ishmael" / ESV: "Ishmael" — Both identical. Hebrew "Yishma'el"
-       — "God hears." KJV: "the LORD hath heard thy affliction" / ESV: "the
-       LORD has listened to your affliction" — Both equivalent; ESV uses
-       "listened" for Hebrew "shama."
+v.11 — Hebrew "Yishma'el... shama Yahweh el-onyekh" — Ishmael... the LORD has heard your affliction.
+       KJV: "thou shalt call his name Ishmael; because the LORD hath heard thy affliction"
+       ESV: "You shall call his name Ishmael, because the LORD has listened to your affliction"
+       ASV: "thou shalt call his name Ishmael, because Jehovah hath heard thy affliction"
+       NET: "You will name him Ishmael, for the LORD has heard your painful groans"
+       WEB: "you shall call his name Ishmael, because Yahweh has heard your affliction"
+       Analysis: "Yishma'el" = "God hears." NET interprets "affliction" as
+       "painful groans" — making Hagar's suffering more vivid and connecting
+       it to the meaning of Ishmael. ASV uses "Jehovah"; WEB uses "Yahweh."
 
-v.12 — KJV: "a wild man" / ESV: "a wild donkey of a man" — Hebrew "pere
-       adam" — a wild donkey of a man. ESV translates more literally,
-       including "donkey." The wild donkey was untameable, free-roaming,
-       independent. Ishmael's descendants (Arab peoples) would be fierce,
-       independent, and in conflict.
+v.12 — Hebrew "pere adam" — a wild donkey of a man.
+       KJV: "he will be a wild man"
+       ESV: "He shall be a wild donkey of a man"
+       ASV: "he shall be as a wild ass among men"
+       NET: "He will be a wild donkey of a man"
+       WEB: "He will be like a wild donkey among men"
+       Analysis: KJV alone omits the donkey reference — "pere" specifically
+       means wild donkey/onager. All modern translations include it. The wild
+       donkey was untameable, free-roaming, independent. Ishmael's
+       descendants would be fierce and in conflict ("his hand against every
+       man, and every man's hand against him").
 
-v.13 — KJV: "Thou God seest me" / ESV: "You are a God of seeing" — Hebrew
-       "El Roi" — the God of seeing, the God who sees me. Both capture the
-       meaning; ESV emphasizes God's attribute of seeing, KJV emphasizes the
-       personal experience of being seen. Hagar gives God a name based on her
-       experience of being seen by Him.
-
-v.14 — KJV: "Beer-lahai-roi" / ESV: "Beer-lahai-roi" — Both identical.
-       "The well of the Living One who sees me." A memorial to God's watchful
-       care over the outcast.
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "please sleep with my servant" — renders Hebrew "bo el" (go in
-  to) with modern directness where KJV/ASV use euphemistic "go in unto."
-  NET also: "Perhaps I can have a family by her" — interprets "be built up"
-  (Hebrew "ibaneh") as "have a family," preserving the wordplay on "banah"
-  (build) and "ben" (son).
-- v.7 — WEB: "Yahweh's angel" — preserves the construct form of the Hebrew.
-  NET: "The angel of the Lord found Hagar" — emphasizes God actively seeking
-  the outcast.
-- v.11 — NET: "the Lord has heard your painful groans" — interprets
-  "affliction" (KJV/ESV) as "painful groans," making Hagar's suffering
-  more vivid and connecting it to the name Ishmael ("God hears").
-- v.12 — NET: "He will be a wild donkey of a man" — vividly renders the
-  Hebrew "pere adam" as an untameable figure of independence and conflict.
-- v.13 — WEB: "You are a God who sees" — renders "El Roi" in accessible
-  English. NET: "You are the God who sees me" — adds "me" for personal
-  emphasis.
+v.13 — Hebrew "El Roi" — the God of seeing / the God who sees me.
+       KJV: "Thou God seest me"
+       ESV: "You are a God of seeing"
+       ASV: "Thou art a God that seeth"
+       NET: "You are the God who sees me"
+       WEB: "You are a God who sees"
+       Analysis: NET adds "me" for personal emphasis — capturing Hagar's
+       experience of being personally seen. ESV/WEB emphasize God's attribute
+       ("a God of seeing"). KJV/ASV focus on the action. Hagar names God
+       based on her experience of being seen by Him in her outcast state.
 
 GLOSSARY
 ------------------------------------

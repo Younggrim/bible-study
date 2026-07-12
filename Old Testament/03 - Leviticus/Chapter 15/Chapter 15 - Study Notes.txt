@@ -139,48 +139,65 @@ Charles Spurgeon:
   Christ is not contaminated by our sin; rather, His holiness cleanses our
   defilement. One touch of faith, and twelve years of uncleanness vanish."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "a running issue out of his flesh" / ESV: "a discharge from
-       his body" — Hebrew "zav mi-b'saro" — a flow/discharge from his
-       flesh. KJV's "running issue" is vivid but archaic. ESV's "discharge"
-       is clinical and clear. The Hebrew "zav" becomes a technical term for
-       this condition (a "zav" = one who has a discharge).
+v.2  — Hebrew "zav mi-b'saro" — a flow/discharge from his flesh.
+       KJV: "a running issue out of his flesh"
+       ESV: "a discharge from his body"
+       ASV: "an issue out of his flesh"
+       NET: "a discharge from his body"
+       WEB: "a discharge from his body"
+       Analysis: KJV's "running issue" is vivid but archaic. ESV/NET/WEB use clinical "discharge." ASV's "issue" is archaic. The Hebrew "zav" becomes a technical term for this condition (a "zav" = one who has a discharge). NET's "discharge" is clinically neutral; the distinction matters — the discharge renders the person ceremonially unclean.
 
-v.3  — KJV: "whether his flesh run with his issue, or his flesh be stopped
-       from his issue" / ESV: "whether his body runs with his discharge,
-       or his body is blocked up by his discharge" — Whether flowing or
-       retained, the condition renders unclean. The blockage may indicate
-       swelling or infection.
+v.3  — Hebrew "zav" — whether flowing or retained.
+       KJV: "whether his flesh run with his issue, or his flesh be stopped from his issue"
+       ESV: "whether his body runs with his discharge, or his body is blocked up by his discharge"
+       ASV: "because of his issue he is unclean"
+       NET: "his discharge is unclean"
+       WEB: "his discharge is unclean"
+       Analysis: Whether flowing or retained, the condition renders unclean. The blockage may indicate swelling or infection. ASV says the person is unclean; NET/WEB say the discharge is unclean. Both are implied, but the distinction matters: the discharge renders the person ceremonially unclean.
 
-v.13 — KJV: "running water" / ESV: "fresh water" — Hebrew "mayim chayyim"
-       — literally "living water." Water that flows (a spring or stream),
-       not stagnant water. The same phrase Jesus uses in John 4:10 and
-       7:38 — "living water." Cleansing requires living water.
+v.13 — Hebrew "mayim chayyim" — literally "living water."
+       KJV: "running water"
+       ESV: "fresh water"
+       ASV: "when he that hath an issue is cleansed of his issue"
+       NET: "when the man with the discharge becomes clean from his discharge"
+       Analysis: Water that flows (a spring or stream), not stagnant water. The same phrase Jesus uses in John 4:10 and 7:38 — "living water." Cleansing requires living water. NET's seven-day waiting period after healing mirrors quarantine principles.
 
-v.16 — KJV: "seed of copulation" / ESV: "emission of semen" — Hebrew
-       "shikbat zera" — a lying-down of seed. KJV is literal but archaic.
-       ESV is direct and modern.
+v.15 — Hebrew "chattat" and "olah" — sin offering and burnt offering.
+       KJV: "the one for a sin offering, and the other for a burnt offering"
+       ESV: "one for a sin offering and the other for a burnt offering"
+       ASV: "the one for a sin-offering, and the other for a burnt-offering"
+       NET: "one for a sin offering and one for a burnt offering"
+       Analysis: All translations agree. Two birds: one for purification (sin offering), one for consecration (burnt offering) — restoring the person to both cleanness and worship.
 
-v.19 — KJV: "she shall be put apart seven days" / ESV: "she shall be in
-       her menstrual impurity for seven days" — Hebrew "niddah" — her
-       separation/impurity. KJV's "put apart" captures the social
-       separation. ESV names the condition directly.
+v.16 — Hebrew "shikbat zera" — a lying-down of seed.
+       KJV: "seed of copulation"
+       ESV: "emission of semen"
+       Analysis: KJV is literal but archaic. ESV is direct and modern.
 
-v.24 — KJV: "her flowers be upon him" / ESV: "her menstrual impurity comes
-       upon him" — Hebrew "niddatah" — her impurity. KJV's "flowers" is an
-       archaic euphemism for menstruation (from the idea of flowing). ESV
-       is explicit.
+v.19 — Hebrew "niddah" — her separation/impurity.
+       KJV: "she shall be put apart seven days"
+       ESV: "she shall be in her menstrual impurity for seven days"
+       Analysis: KJV's "put apart" captures the social separation. ESV names the condition directly.
 
-v.29 — KJV: "two turtles" / ESV: "two turtledoves" — Hebrew "torim" —
-       turtledoves. KJV abbreviates; ESV gives the full word. These are
-       the offering of the poor (Leviticus 5:7; 12:8).
+v.24 — Hebrew "niddatah" — her impurity.
+       KJV: "her flowers be upon him"
+       ESV: "her menstrual impurity comes upon him"
+       Analysis: KJV's "flowers" is an archaic euphemism for menstruation (from the idea of flowing). ESV is explicit.
 
-v.31 — KJV: "that they die not in their uncleanness, when they defile my
-       tabernacle that is among them" / ESV: "lest they die in their
-       uncleanness by defiling my tabernacle that is in their midst" —
-       Both convey the same grave warning. God's presence among them is
-       both blessing and danger. Uncleanness + God's presence = death.
+v.29 — Hebrew "torim" — turtledoves.
+       KJV: "two turtles"
+       ESV: "two turtledoves"
+       Analysis: KJV abbreviates; ESV gives the full word. These are the offering of the poor (Leviticus 5:7; 12:8).
+
+v.31 — Hebrew "hizzartem" — to separate/set apart.
+       KJV: "that they die not in their uncleanness, when they defile my tabernacle that is among them"
+       ESV: "lest they die in their uncleanness by defiling my tabernacle that is in their midst"
+       ASV: "that they die not in their uncleanness, when they defile my tabernacle"
+       NET: "so that they do not die in their uncleanness by defiling my tabernacle"
+       WEB: "Thus you shall separate the children of Israel from their uncleanness"
+       Analysis: Both convey the same grave warning. God's presence among them is both blessing and danger. Uncleanness + God's presence = death. NET's "set apart" carries the same root as "Nazirite" — separation unto holiness. NET's "defiling my tabernacle" emphasizes God's possessive claim — it is HIS dwelling, and its holiness must be guarded.
 
 GLOSSARY
 ------------------------------------

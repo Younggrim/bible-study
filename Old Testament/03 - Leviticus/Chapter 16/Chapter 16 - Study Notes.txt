@@ -200,71 +200,73 @@ Charles Spurgeon:
   away forever. 'As far as the east is from the west' — that is how far
   your sins have gone. They shall never be found again."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "the holy place within the vail" / ESV: "the Holy Place inside
-       the veil" — Hebrew "ha-qodesh mi-beit la-parokhet" — the holy
-       [place] from within the curtain. This is the Most Holy Place (Holy
-       of Holies), the inner sanctum where the ark resides. The "veil"
-       (parokhet) is the curtain separating the Holy Place from the Most
-       Holy Place — the same veil torn at Christ's death (Matthew 27:51).
+v.2  — Hebrew "ha-qodesh mi-beit la-parokhet" — the holy place from within the curtain.
+       KJV: "the holy place within the vail"
+       ESV: "the Holy Place inside the veil"
+       ASV: "the holy place within the veil"
+       NET: "the Holy Place inside the special curtain"
+       WEB: "the Holy Place within the veil"
+       Analysis: This is the Most Holy Place (Holy of Holies), the inner sanctum where the ark resides. The "veil" (parokhet) is the curtain separating the Holy Place from the Most Holy Place — the same veil torn at Christ's death (Matthew 27:51). NET's "special curtain" distinguishes the inner curtain from ordinary tent coverings.
 
-v.2  — KJV: "the mercy seat" / ESV: "the mercy seat" — Hebrew "kapporet"
-       — from "kaphar" (to cover/atone). The gold lid of the ark where
-       God's presence dwells and where blood is sprinkled. It is literally
-       the "place of atonement" or "covering." Both translations use
-       "mercy seat" (following Tyndale/Luther's "Gnadenstuhl").
+v.2  — Hebrew "kapporet" — from "kaphar" (to cover/atone).
+       KJV: "the mercy seat"
+       ESV: "the mercy seat"
+       ASV: "the mercy-seat which is upon the ark"
+       NET: "the atonement lid that is on the ark"
+       WEB: "the mercy seat which is on the ark"
+       Analysis: A major translation difference. NET renders "kapporeth" as "atonement lid" (emphasizing its function and form), while KJV/ESV/ASV/WEB use "mercy seat" (from Tyndale's translation, emphasizing God's mercy). The gold lid of the ark where God's presence dwells and where blood is sprinkled — literally the "place of atonement" or "covering."
 
-v.4  — KJV: "linen breeches" / ESV: "linen undergarment" — Hebrew
-       "mikn'sei bad" — linen undergarments. KJV's "breeches" is archaic
-       English for undergarments covering the lower body. ESV modernizes.
+v.4  — Hebrew "mikn'sei bad" — linen undergarments.
+       KJV: "linen breeches"
+       ESV: "linen undergarment"
+       Analysis: KJV's "breeches" is archaic English for undergarments covering the lower body. ESV modernizes. The key point: ALL garments are white linen — no gold, no blue, no scarlet. Humility and purity, not glory.
 
-v.4  — KJV: "linen girdle... linen mitre" / ESV: "linen sash... linen
-       turban" — Hebrew "avnet bad... mitznefet bad." KJV uses older
-       English terms; ESV uses modern equivalents. The key point: ALL
-       garments are white linen — no gold, no blue, no scarlet. Humility
-       and purity, not glory.
+v.4  — Hebrew "avnet bad... mitznefet bad" — linen sash and turban.
+       KJV: "linen girdle... linen mitre"
+       ESV: "linen sash... linen turban"
+       Analysis: KJV uses older English terms; ESV uses modern equivalents.
 
-v.8  — KJV: "the scapegoat" / ESV: "Azazel" — Hebrew "la-azazel." This
-       is one of the most debated terms in Leviticus. Three main views:
-       (1) "Scapegoat" — the goat that escapes (KJV follows Tyndale, who
-       coined the word "scapegoat"). (2) "Azazel" — a proper name, perhaps
-       a desert demon to whom the sin is symbolically sent (ESV
-       transliterates). (3) "Complete removal" — from "azal" (to go away)
-       + "el" (completely). The KJV interpretation emphasizes the goat's
-       function; the ESV preserves the Hebrew mystery. In either case, the
-       meaning is clear: sin is sent away permanently.
+v.8  — Hebrew "la-azazel" — one of the most debated terms in Leviticus.
+       KJV: "the scapegoat"
+       ESV: "Azazel"
+       ASV: "Azazel"
+       NET: "Azazel"
+       WEB: "the scapegoat"
+       Analysis: Three main views: (1) "Scapegoat" — the goat that escapes (KJV/WEB follow Tyndale, who coined the word "scapegoat"). (2) "Azazel" — a proper name, perhaps a desert demon to whom the sin is symbolically sent (ESV/ASV/NET transliterate). (3) "Complete removal" — from "azal" (to go away) + "el" (completely). The KJV interpretation emphasizes the goat's function; ESV preserves the Hebrew mystery. In either case, the meaning is clear: sin is sent away permanently.
 
-v.10 — KJV: "to let him go for a scapegoat into the wilderness" / ESV:
-       "that it may be sent away into the wilderness to Azazel" — Same
-       Hebrew term. The wilderness represents the place of desolation,
-       separation, and no return. Sin is banished to where it cannot
-       return.
+v.10 — Hebrew "la-azazel" — to/for Azazel.
+       KJV: "to let him go for a scapegoat into the wilderness"
+       ESV: "that it may be sent away into the wilderness to Azazel"
+       ASV: "to make atonement for it, to send it away for Azazel"
+       NET: "to make atonement on it by sending it away to Azazel"
+       WEB: "to make atonement for it, to send it away for the scapegoat into the wilderness"
+       Analysis: The live goat bears Israel's sins away into the wilderness — a vivid picture of sin removed completely (Psalm 103:12). The wilderness represents the place of desolation, separation, and no return.
 
-v.16 — KJV: "because of the uncleanness of the children of Israel, and
-       because of their transgressions in all their sins" / ESV: "because
-       of the uncleannesses of the people of Israel and because of their
-       transgressions, all their sins" — Three terms: uncleanness (tumah),
-       transgressions (pesha — rebellion), sins (chattat — missing the
-       mark). Comprehensive: ritual impurity, willful rebellion, and
-       unintentional failure are ALL covered.
+v.16 — Hebrew "tumah," "pesha," "chattat" — uncleanness, transgressions, sins.
+       KJV: "because of the uncleanness of the children of Israel, and because of their transgressions in all their sins"
+       ESV: "because of the uncleannesses of the people of Israel and because of their transgressions, all their sins"
+       ASV: "because of the uncleannesses of the children of Israel"
+       NET: "make atonement for the sanctuary from the impurities of the Israelites"
+       Analysis: Three comprehensive terms cover everything: uncleanness (tumah — ritual impurity), transgressions (pesha — rebellion), sins (chattat — missing the mark). Sin contaminates even sacred space. The Day of Atonement cleanses not just people but the tabernacle itself from accumulated defilement.
 
-v.21 — KJV: "a fit man" / ESV: "a man who is in readiness" — Hebrew "ish
-       itti" — a man of the appointed time, or a man standing ready. KJV's
-       "fit" means prepared/appointed. A designated person for this task.
+v.21 — Hebrew "ish itti" — a man of the appointed time.
+       KJV: "a fit man"
+       ESV: "a man who is in readiness"
+       ASV: "confess over him all the iniquities of the children of Israel"
+       NET: "confess over it all the iniquities of the Israelites and all their transgressions in regard to all their sins"
+       Analysis: KJV's "fit" means prepared/appointed. A designated person for this task. Three comprehensive terms for sin: "iniquities" (avonot — twisted/perverted acts), "transgressions" (pesha'im — rebellions), "sins" (chatta'ot — failures/missed marks). Nothing is omitted.
 
-v.29 — KJV: "ye shall afflict your souls" / ESV: "you shall afflict
-       yourselves" — Hebrew "t'annu et nafshoteikhem" — afflict your
-       souls/selves. Traditionally understood as fasting. The only
-       commanded fast in the Torah. Self-denial accompanies atonement —
-       the people participate through humility and contrition.
+v.29 — Hebrew "t'annu et nafshoteikhem" — afflict your souls/selves.
+       KJV: "ye shall afflict your souls"
+       ESV: "you shall afflict yourselves"
+       Analysis: Traditionally understood as fasting. The only commanded fast in the Torah. Self-denial accompanies atonement — the people participate through humility and contrition.
 
-v.34 — KJV: "once a year" / ESV: "once in the year" — Hebrew "achat
-       ba-shanah." The annual repetition both provides regular cleansing
-       AND demonstrates the insufficiency of animal sacrifice. "For it is
-       not possible that the blood of bulls and of goats should take away
-       sins" (Hebrews 10:4). The repetition points to the need for a
-       better, final sacrifice.
+v.34 — Hebrew "achat ba-shanah" — once in the year.
+       KJV: "once a year"
+       ESV: "once in the year"
+       Analysis: The annual repetition both provides regular cleansing AND demonstrates the insufficiency of animal sacrifice. "For it is not possible that the blood of bulls and of goats should take away sins" (Hebrews 10:4). The repetition points to the need for a better, final sacrifice.
 
 GLOSSARY
 ------------------------------------

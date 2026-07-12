@@ -110,45 +110,99 @@ Charles Spurgeon:
   doubt the kingdom of God is come upon you' (Luke 11:20). The finger is
   enough."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "frogs" / ESV: "frogs" — Hebrew "tsefarde'im." Both
-       translations identical. The frog was sacred in Egypt — the goddess
-       Heqet (fertility, depicted with a frog's head). God turns their
-       sacred animal into a plague.
+v.1  — Hebrew chapter/verse note: Hebrew Bible starts chapter 8 at what English Bibles call 7:26.
+       KJV: "let my people go"
+       ESV: "Let my people go"
+       ASV: "Let my people go"
+       NET: "Release my people" (with Hebrew verse reference 7:26)
+       WEB: "Let my people go"
+       Analysis: NET uniquely preserves the Hebrew verse numbering in
+       parentheses — a distinctive feature showing awareness of the Masoretic
+       text divisions. All translations convey the same demand.
 
-v.16 — KJV: "lice" / ESV: "gnats" — Hebrew "kinnim" — possibly lice,
-       gnats, or mosquitoes. The KJV chooses "lice"; the ESV chooses
-       "gnats." The exact insect is debated, but the point is clear: the
-       very dust of Egypt becomes a plague.
+v.2  — Hebrew "tsefarde'im" — frogs.
+       KJV: "frogs"
+       ESV: "frogs"
+       ASV: "frogs"
+       NET: "frogs"
+       WEB: "frogs"
+       Analysis: All translations identical. The frog was sacred in Egypt —
+       the goddess Heqet (fertility, depicted with a frog's head). God turns
+       their sacred animal into a plague — their goddess becomes their
+       torment.
 
-v.19 — KJV: "the finger of God" / ESV: "the finger of God" — Hebrew
-       "etzba Elohim" — the finger of God. Both translations identical.
-       The magicians use "Elohim" (not YHWH) — they acknowledge divine
-       power but not necessarily YHWH specifically.
+v.16 — Hebrew "kinnim" — possibly lice, gnats, or mosquitoes.
+       KJV: "lice"
+       ESV: "gnats"
+       ASV: "lice"
+       NET: "gnats"
+       WEB: "lice"
+       Analysis: A significant translation difference. ASV/WEB follow KJV's
+       "lice," while NET/ESV follow the LXX (Septuagint) tradition of
+       "gnats." The creature is uncertain — the Hebrew word is rare. The
+       theological point is clear regardless: the very dust of Egypt becomes
+       a plague, and the magicians cannot replicate it.
 
-v.21 — KJV: "swarms of flies" / ESV: "swarms of flies" — Hebrew "arob" —
-       a swarm (the word "flies" is not in the Hebrew). Both translations
-       add "flies" for clarity. Could be flies, beetles, or a mixture of
-       insects. Possibly targeting Khepri, the scarab beetle god.
+v.19 — Hebrew "etzba Elohim" — the finger of God.
+       KJV: "This is the finger of God"
+       ESV: "This is the finger of God"
+       ASV: "This is the finger of God"
+       NET: "It is the finger of God!"
+       WEB: "This is God's finger"
+       Analysis: WEB's phrasing with "God's" rather than "of God" is
+       slightly more possessive, emphasizing divine ownership of the power.
+       NET adds an exclamation mark for emphasis. The magicians use "Elohim"
+       (not YHWH) — they acknowledge divine power but not necessarily YHWH
+       specifically.
 
-v.22 — KJV: "sever" / ESV: "set apart" — Hebrew "hifleiti" — to set apart,
-       to make distinct. The ESV's "set apart" is more literal; the KJV's
-       "sever" emphasizes the division. God makes a visible distinction
-       between His people and Egypt.
+v.21 — Hebrew "arob" — a swarm (the word "flies" is not in the Hebrew).
+       KJV: "swarms of flies"
+       ESV: "swarms of flies"
+       ASV: "swarms of flies"
+       NET: "swarms of flies"
+       WEB: "swarms of flies"
+       Analysis: All translations add "flies" for clarity — the Hebrew says
+       only "swarm." Could be flies, beetles, or a mixture of insects.
+       Possibly targeting Khepri, the scarab beetle god. The ambiguity in
+       Hebrew may be intentional — a mixed swarm of every biting, stinging
+       thing.
 
-v.23 — KJV: "division" / ESV: "distinction" — Hebrew "pedut" — redemption,
-       ransom, distinction. The ESV's "distinction" is clearer; the KJV's
-       "division" is also valid. The same root as "redemption" — God's
-       separation of His people IS their redemption.
+v.22 — Hebrew "hifleiti" — to set apart, to make distinct.
+       KJV: "I will sever in that day the land of Goshen"
+       ESV: "I will set apart the land of Goshen"
+       ASV: "I will set apart the land of Goshen"
+       NET: "I will mark off the land of Goshen"
+       WEB: "I will set apart the land of Goshen in that day"
+       Analysis: KJV's "sever" emphasizes the division. ESV/ASV/WEB use "set
+       apart." NET uniquely uses "mark off" — suggesting a visible boundary.
+       WEB also adds "I am Yahweh on the earth" — by using the actual name,
+       it makes God's claim of sovereignty over Pharaoh's territory more
+       personal and direct.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "(7:26)" — NET preserves the Hebrew verse numbering in parentheses, where the Hebrew Bible starts chapter 8 at what English Bibles call 7:26. This is a distinctive NET feature showing awareness of the Masoretic text divisions.
-- v.16 — ASV/WEB: "lice" / NET: "gnats" — a significant translation difference. Hebrew "kinnim" is debated: ASV/WEB follow KJV's "lice," while NET follows the LXX tradition of "gnats" (also ESV's choice). The creature is uncertain.
-- v.19 — WEB: "This is God's finger" / ASV: "This is the finger of God" / NET: "It is the finger of God!" — WEB's phrasing with "God's" rather than "of God" is slightly more possessive, emphasizing divine ownership of the power.
-- v.22 — WEB: "I am Yahweh on the earth" — by using the actual name, WEB makes God's claim of sovereignty over Pharaoh's territory more personal and direct than "the LORD in the midst of this land" (NET).
-- v.26 — NET: "the sacrifices we make to the Lord our God would be an abomination to the Egyptians" — NET restructures and clarifies the confusing Hebrew; ASV/WEB retain "we shall sacrifice the abomination of the Egyptians" — more literal but requires the reader to understand that Israel's sacrificial animals were sacred to Egypt.
+v.23 — Hebrew "pedut" — redemption, ransom, distinction.
+       KJV: "I will put a division between my people and thy people"
+       ESV: "I will put a distinction between my people and your people"
+       ASV: "I will put a division between my people and thy people"
+       NET: "I will put a distinction between my people and your people"
+       WEB: "I will put a division between my people and your people"
+       Analysis: ESV/NET use "distinction"; KJV/ASV/WEB use "division." The
+       same Hebrew root as "redemption" — God's separation of His people
+       from judgment IS their redemption. This is a turning point: from
+       plague 4 onward, Israel in Goshen is protected.
+
+v.26 — Hebrew: Moses explains why they cannot sacrifice in Egypt.
+       KJV: "we shall sacrifice the abomination of the Egyptians"
+       ESV: "we shall sacrifice to the LORD our God the abomination of the Egyptians"
+       ASV: "we shall sacrifice the abomination of the Egyptians"
+       NET: "the sacrifices we make to the Lord our God would be an abomination to the Egyptians"
+       WEB: "we shall sacrifice the abomination of the Egyptians"
+       Analysis: NET restructures and clarifies the confusing Hebrew —
+       Israel's sacrificial animals (cattle, sheep) were sacred to Egypt.
+       KJV/ASV/WEB are more literal but require the reader to understand
+       this cultural context. NET makes it explicit that Egyptians would
+       find Israel's sacrifices abominable.
 
 GLOSSARY
 ------------------------------------

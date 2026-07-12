@@ -297,6 +297,20 @@ Baal          — "Lord/Master" — the Canaanite storm and fertility
               sacrifice, and self-mutilation (1 Kings 18:28). Ahab
               built him a temple in Samaria with state sponsorship.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.2 — ASV: "I exalted thee out of the dust, and made thee prince over my people Israel" / WEB: "I exalted you out of the dust, and made you prince over my people Israel" / NET: "I raised you up from the dust and made you ruler over my people Israel" — Hebrew "nagid" = prince/appointed leader (see 14:7). Same divine claim: God elevates; the king merely stewards. ASV/WEB's "prince" retains the subordinate status; NET's "ruler" implies more autonomous authority.
+
+- v.13 — ASV: "to provoke Jehovah, the God of Israel, to anger with their vanities" / WEB: "to provoke Yahweh, the God of Israel, to anger with their vanities" / NET: "They angered the Lord God of Israel with their worthless idols" — Hebrew "havalim" = vanities/empty things/breath. This term (used extensively in Ecclesiastes — "vanity of vanities") emphasizes the nothingness of idols — they are literally "breath." ASV/WEB preserve "vanities"; NET interprets as "worthless idols," which is correct but loses the contemptuous Hebrew wordplay.
+
+- v.31 — ASV: "as if it had been a light thing for him to walk in the sins of Jeroboam" / WEB: "As if it had been a light thing for him to walk in the sins of Jeroboam" / NET: "As if following in the sinful footsteps of Jeroboam son of Nebat were not bad enough" — Hebrew "ha-naqel" = was it a light/trivial thing? A rhetorical question expressing the author's horror. ASV/WEB preserve the Hebrew construction; NET paraphrases colloquially, losing the literary form.
+
+- v.33 — ASV: "Ahab made the Asherah" / WEB: "Ahab made the Asherah" / NET: "Ahab also made an Asherah pole" — The definite article "the Asherah" (ha-'asherah) may indicate a specific, official cult object — perhaps the chief Asherah in Samaria's Baal temple. NET's "an Asherah pole" treats it as one among many; ASV/WEB's "the Asherah" suggests THE primary cult image.
+
+- v.34 — ASV: "he laid the foundation thereof with the loss of Abiram his first-born" / WEB: "He laid its foundation with the loss of Abiram his firstborn" / NET: "Abiram, his firstborn son, died when he laid the foundation" — All versions convey the fulfillment of Joshua's curse (Joshua 6:26). The Hebrew "b'" (with/at the cost of) is ambiguous — was this human sacrifice, or divine judgment? The translations preserve this ambiguity, though NET's restructuring makes it sound more like coincidental death.
+
+- v.7 — ASV: "the word of Jehovah against Baasha, and against his house" / WEB: "Yahweh's word... against Baasha and against his house" / NET: "the Lord's message came through the prophet... against Baasha and his family" — NET consistently uses "family" for Hebrew "bayit" (house). In Kings, "house" carries dynastic meaning — the entire political-family unit and its future generations. "Family" narrows this to personal relations.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Being God's instrument does not guarantee God's approval

@@ -101,47 +101,85 @@ Charles Spurgeon:
   Jacob sinned in HOW he obtained the blessing — but the blessing itself was
   God's will. God's sovereignty works through (not because of) human sin."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "his eyes were dim" / ESV: "his eyes were dim so that he could
-       not see" — ESV adds explanatory clause. Isaac was likely around 137
-       (he lived to 180, 35:28). He thought death was near but lived 43 more
-       years.
+v.1  — Hebrew "vatikheyna eynav" — his eyes were dim/weak.
+       KJV: "his eyes were dim, so that he could not see"
+       ESV: "his eyes were dim so that he could not see"
+       ASV: "his eyes were dim, so that he could not see"
+       NET: "his eyesight was so poor he was unable to see"
+       WEB: "his eyes were dim, so that he could not see"
+       Analysis: NET uses modern phrasing ("eyesight was so poor"). ESV adds
+       the explanatory clause. Isaac was likely around 137 (he lived to 180,
+       35:28). He thought death was near but lived 43 more years.
 
-v.12 — KJV: "a deceiver" / ESV: "mocking him" — Hebrew "meta'tea" — a
-       mocker, one who deceives. KJV focuses on the deception; ESV on the
-       mockery. Jacob's concern was getting caught, not the morality of lying.
+v.12 — Hebrew "meta'tea" — a mocker, one who deceives.
+       KJV: "I shall seem to him as a deceiver"
+       ESV: "Perhaps my father will feel me, and I shall seem to be mocking him"
+       ASV: "I shall seem to him as a deceiver"
+       NET: "My father may touch me! Then he'll think I'm mocking him"
+       WEB: "What if my father touches me? I will seem to him as a deceiver"
+       Analysis: KJV/ASV/WEB focus on the deception aspect; ESV/NET focus on
+       the mockery. NET captures Jacob's fear of being caught and shamed.
+       Jacob's concern was getting caught, not the morality of lying — a
+       revealing detail about his character.
 
-v.33 — KJV: "trembled very exceedingly" / ESV: "trembled very violently" —
-       Hebrew "charad charadah gedolah ad meod" — trembled with a great
-       trembling exceedingly. Both capture the intensity. Isaac realized he
-       had been fighting God's will — and God won.
+v.20 — Hebrew "hiqrah YHWH" — the LORD caused it to happen.
+       KJV: "Because the LORD thy God brought it to me"
+       ESV: "Because the LORD your God granted me success"
+       ASV: "Because Jehovah thy God sent me good speed"
+       NET: "How in the world did you find it so quickly, my son?"
+       WEB: "Because Yahweh, your God, gave me success"
+       Analysis: For Isaac's question, NET adds "How in the world" to convey
+       his surprise/suspicion, not literally in the Hebrew but implied by
+       context. Jacob's answer uses God's name in a lie — a grave
+       transgression of the Third Commandment (Exodus 20:7).
 
-v.36 — KJV: "supplanted me" / ESV: "cheated me" — Hebrew "Ya'aqob" —
-       supplanter. KJV preserves the wordplay with Jacob's name; ESV uses
-       the more accessible "cheated." Esau makes the connection: his name
-       means what he does.
+v.27 — Hebrew "re'ach sadeh asher berako YHWH" — the smell of a field the
+       LORD has blessed.
+       KJV: "the smell of a field which the LORD hath blessed"
+       ESV: "the smell of a field that the LORD has blessed"
+       ASV: "the smell of a field which Jehovah hath blessed"
+       NET: "the smell of a field that the Lord has blessed"
+       WEB: "the smell of a field which Yahweh has blessed"
+       Analysis: All translations agree. WEB uses the divine name "Yahweh" in
+       the patriarchal blessing. The smell of Esau's clothes evoked the
+       outdoors — connecting Isaac to the son he thought he was blessing.
 
-v.39 — KJV: "thy dwelling shall be the fatness of the earth" / ESV: "away
-       from the fatness of the earth shall your dwelling be" — Hebrew "min"
-       can mean "from" or "of." ESV reads "away from" (privative); KJV reads
-       "of" (partitive). Edom's territory was largely arid, supporting ESV's
-       reading.
+v.33 — Hebrew "charad charadah gedolah ad meod" — trembled with a great
+       trembling exceedingly.
+       KJV: "Isaac trembled very exceedingly"
+       ESV: "Isaac trembled very violently"
+       ASV: "Isaac trembled very exceedingly"
+       NET: "Isaac began to shake violently"
+       WEB: "Isaac trembled violently"
+       Analysis: All capture the intensity of the Hebrew construction (cognate
+       accusative + intensifiers). NET's "began to shake" adds the progressive
+       onset. Isaac realized he had been fighting God's will — and God won.
+       The trembling was recognition, not just surprise.
 
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.12 — NET: "My father may touch me! Then he'll think I'm mocking him" —
-  renders Hebrew "meta'tea" as "mocking" where KJV has "a deceiver" and ESV
-  "mocking." NET captures Jacob's fear of being caught and shamed.
-- v.20 — NET: "How in the world did you find it so quickly, my son?" — adds
-  "How in the world" to convey Isaac's surprise/suspicion, not literally in
-  the Hebrew but implied by the context.
-- v.36 — NET typically renders Esau's bitter lament: "He has tripped me up
-  two times!" — "tripped me up" vividly renders the wordplay on Jacob's name
-  (ya'aqob/heel-grabber → supplanter → tripper).
-- v.27 — NET: "the smell of a field that the Lord has blessed" — same as
-  KJV/ESV. WEB: "the smell of a field which Yahweh has blessed" — using the
-  divine name in the patriarchal blessing.
+v.36 — Hebrew "vaya'aqveni" — he Jacob-ed me / he supplanted me.
+       KJV: "he hath supplanted me these two times"
+       ESV: "he has cheated me these two times"
+       ASV: "he hath supplanted me these two times"
+       NET: "He has tripped me up two times!"
+       WEB: "he has supplanted me these two times"
+       Analysis: KJV/ASV/WEB preserve the wordplay with Jacob's name
+       (ya'aqob/supplanter). ESV uses the more accessible "cheated." NET
+       vividly renders the heel-grabber connection as "tripped me up." Esau
+       makes the connection: his brother's name means what he does.
+
+v.39 — Hebrew "min" — can mean "from" (partitive) or "away from" (privative).
+       KJV: "thy dwelling shall be the fatness of the earth"
+       ESV: "away from the fatness of the earth shall your dwelling be"
+       ASV: "of the fatness of the earth shall be thy dwelling"
+       NET: "your home will be away from the richness of the earth"
+       WEB: "of the fatness of the earth will be your dwelling"
+       Analysis: ESV/NET read "min" as "away from" (privative — denied the
+       blessing); KJV/ASV/WEB read it as "of" (partitive — sharing in the
+       blessing). Edom's territory was largely arid, supporting ESV/NET's
+       reading. This ambiguity may be intentional — Esau's blessing is
+       deliberately lesser and more ambiguous than Jacob's.
 
 GLOSSARY
 ------------------------------------

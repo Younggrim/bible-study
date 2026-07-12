@@ -98,94 +98,94 @@ Charles Spurgeon:
   destroy again. Every rainbow is a sermon — preaching God's faithfulness,
   God's mercy, God's covenant-keeping character."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "replenish the earth" / ESV: "fill the earth" — Hebrew "mil'u"
-       — to fill. Same word and same issue as 1:28. ESV's "fill" is more
-       accurate; KJV's "replenish" in 1611 meant "fill" but modern readers
-       may misread it as "refill."
+v.1  — Hebrew "mil'u eth-ha'arets" — fill the earth.
+       KJV: "Be fruitful, and multiply, and replenish the earth"
+       ESV: "Be fruitful and multiply and fill the earth"
+       ASV: "Be fruitful, and multiply, and replenish the earth"
+       NET: "Be fruitful and multiply and fill the earth"
+       WEB: "Be fruitful, multiply, and fill the earth"
+       Analysis: Same issue as 1:28. KJV/ASV's "replenish" in 1611 meant
+       "fill" but modern readers may misread it as "refill." ESV/NET/WEB
+       correctly use "fill" for the Hebrew "mil'u."
 
-v.3  — KJV: "every moving thing that liveth shall be meat for you" / ESV:
-       "Every moving thing that lives shall be food for you" — Hebrew
-       "oklah" — food. KJV's "meat" meant "food" in 1611 (not specifically
-       animal flesh). ESV's "food" avoids confusion. Before the flood,
-       humanity was apparently vegetarian (1:29). Now meat is permitted —
-       but not blood.
+v.2  — Hebrew "beyedkhem nittanu" — into your hand they are delivered.
+       KJV: "into your hand are they delivered"
+       ESV: "into your hand they are delivered"
+       ASV: "into your hand are they delivered"
+       NET: "they are under your authority"
+       WEB: "they are delivered into your hand"
+       Analysis: NET interprets physical "hand" imagery as "authority/
+       dominion" — making the governance concept explicit. All others retain
+       the concrete Hebrew imagery.
 
-v.4  — KJV: "flesh with the life thereof, which is the blood thereof, shall
-       ye not eat" / ESV: "But you shall not eat flesh with its life, that
-       is, its blood" — Both equivalent. Blood represents life. Consuming
-       blood is prohibited because life belongs to God. This prohibition
-       predates and transcends the Mosaic Law.
-
-v.5  — KJV: "at the hand of every man's brother will I require the life of
-       man" / ESV: "From his fellow man I will require a reckoning for the
-       life of man" — Hebrew "darash" — to seek, require, demand an
-       accounting. ESV's "require a reckoning" makes the judicial sense
-       clearer.
-
-v.6  — KJV: "Whoso sheddeth man's blood, by man shall his blood be shed" /
+v.6  — Hebrew "shophekh dam ha'adam ba'adam damo yishaphekh"
+       KJV: "Whoso sheddeth man's blood, by man shall his blood be shed"
        ESV: "Whoever sheds the blood of man, by man shall his blood be shed"
-       — Both equivalent. The institution of capital punishment. The basis:
-       the image of God. To murder a human is to assault God's image.
+       ASV: "Whoso sheddeth man's blood, by man shall his blood be shed"
+       NET: "Whoever sheds human blood, by other humans will his blood be shed"
+       WEB: "Whoever sheds man's blood, his blood will be shed by man"
+       Analysis: All essentially identical — the institution of capital
+       punishment. NET uses "human/humans" for the generic "adam." The basis:
+       "for God made man in his own image" — to murder is to assault God's
+       image. The poetic chiastic structure (A-B-B-A) is preserved in all.
 
-v.9  — KJV: "with your seed after you" / ESV: "your offspring after you" —
-       Hebrew "zera" — seed, offspring. ESV's "offspring" is clearer for
-       modern readers.
+v.12 — Hebrew "oth habberith" — the sign of the covenant.
+       KJV: "the token of the covenant"
+       ESV: "the sign of the covenant"
+       ASV: "the token of the covenant"
+       NET: "the guarantee of the covenant"
+       WEB: "the sign of the covenant"
+       Analysis: NET uniquely renders "oth" as "guarantee" — emphasizing the
+       legal/binding nature of the covenant sign rather than merely visual.
+       KJV/ASV's "token" is slightly archaic; ESV/WEB's "sign" is standard.
 
-v.12 — KJV: "the token of the covenant" / ESV: "the sign of the covenant"
-       — Hebrew "oth" — sign, token, mark. ESV's "sign" is more natural
-       modern English; KJV's "token" is slightly archaic.
+v.13 — Hebrew "qashti natatti be'anan" — my bow I have set in the cloud.
+       KJV: "I do set my bow in the cloud"
+       ESV: "I have set my bow in the cloud"
+       ASV: "I do set my bow in the cloud"
+       NET: "I will place my rainbow in the clouds"
+       WEB: "I set my rainbow in the cloud"
+       Analysis: WEB/NET use "rainbow" explicitly where KJV/ESV/ASV have
+       simply "bow." Hebrew "qesheth" = a war bow. God sets His weapon in
+       the sky as a sign of peace — the bow points upward (toward God), not
+       downward (toward earth). WEB/NET make the referent immediately clear.
 
-v.13 — KJV: "I do set my bow in the cloud" / ESV: "I have set my bow in
-       the cloud" — Both equivalent. Hebrew "qesheth" — a war bow. God sets
-       His weapon in the sky as a sign of peace. The bow points upward
-       (toward God), not downward (toward earth).
+v.25 — Hebrew "arur Kena'an eved avadim yihyeh le'echav"
+       KJV: "Cursed be Canaan; a servant of servants shall he be unto his brethren"
+       ESV: "Cursed be Canaan; a servant of servants shall he be to his brothers"
+       ASV: "Cursed be Canaan; A servant of servants shall he be unto his brethren"
+       NET: "Cursed be Canaan! The lowest of slaves he will be to his brothers"
+       WEB: "Canaan is cursed. He will be a servant of servants to his brothers"
+       Analysis: NET renders "eved avadim" (servant of servants) as "lowest
+       of slaves" — a superlative interpretation. WEB restructures as a
+       statement rather than a curse formula. Noah curses Canaan (Ham's son),
+       not Ham directly. This is NOT a justification for racial slavery — it
+       refers to specific nations.
 
-v.20 — KJV: "Noah began to be an husbandman" / ESV: "Noah began to be a man
-       of the soil" — Hebrew "ish ha'adamah" — a man of the ground/soil.
-       ESV is more literal; KJV's "husbandman" (farmer) is archaic English.
+v.26 — Hebrew "barukh Yahweh Elohey Shem"
+       KJV: "Blessed be the LORD God of Shem"
+       ESV: "Blessed be the LORD, the God of Shem"
+       ASV: "Blessed be Jehovah, the God of Shem"
+       NET: "Worthy of praise is the Lord, the God of Shem!"
+       WEB: "Blessed be Yahweh, the God of Shem"
+       Analysis: NET's "Worthy of praise" is an interpretive expansion —
+       rendering the blessing formula as a declaration of praiseworthiness.
+       ASV uses "Jehovah"; WEB uses "Yahweh." God is identified specifically
+       with Shem's line — the messianic line.
 
-v.22 — KJV: "saw the nakedness of his father" / ESV: "saw the nakedness of
-       his father" — Both identical. Hebrew "ra'ah eth ervath" — the exact
-       nature of Ham's sin is debated. At minimum: disrespect and
-       exploitation of his father's vulnerability. He publicized what should
-       have been covered.
-
-v.25 — KJV: "Cursed be Canaan; a servant of servants" / ESV: "Cursed be
-       Canaan; a servant of servants shall he be to his brothers" — Both
-       equivalent. Noah curses Canaan (Ham's son), not Ham directly. This
-       prophecy is fulfilled when Israel conquers Canaan. It is NOT a
-       justification for racial slavery — it refers to specific nations, not
-       races.
-
-v.27 — KJV: "God shall enlarge Japheth, and he shall dwell in the tents of
-       Shem" / ESV: "May God enlarge Japheth, and let him dwell in the tents
-       of Shem" — Hebrew "yapht" — a wordplay on Japheth's name (enlarge/
-       make spacious). ESV renders it as a wish/prayer ("May God..."); KJV
-       as a declaration ("God shall..."). Both are valid readings of the
-       Hebrew jussive form. Japheth's descendants will share in Shem's
-       spiritual blessings — fulfilled as Gentiles are included in the
-       Abrahamic covenant through Christ.
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "are under your authority" — interprets "into your hand are they
-  delivered" (ASV) as a statement of authority/dominion, making the governance
-  concept explicit where KJV/ESV use physical "hand" imagery.
-- v.12 — NET: "This is the guarantee of the covenant" — uniquely renders
-  Hebrew "oth" (sign/token) as "guarantee," emphasizing the legal/binding
-  nature of the covenant sign rather than merely visual.
-- v.13 — WEB: "I set my rainbow in the cloud" — uses "rainbow" explicitly
-  where KJV/ASV have simply "bow" and ESV "my bow." WEB makes the referent
-  immediately clear for modern readers.
-- v.26 — NET: "Worthy of praise is the Lord, the God of Shem!" — an
-  interpretive expansion of "Blessed be the LORD God of Shem" (KJV/ESV),
-  rendering the Hebrew blessing formula as a declaration of God's
-  praiseworthiness rather than a wish for God to be blessed.
-- v.27 — NET: "May God enlarge Japheth's territory and numbers!" — adds
-  "territory and numbers" to make explicit what the enlargement entails,
-  going beyond the Hebrew text which simply says "enlarge Japheth."
+v.27 — Hebrew "yapht Elohim leYepheth" — God enlarge Japheth (wordplay on name).
+       KJV: "God shall enlarge Japheth, and he shall dwell in the tents of Shem"
+       ESV: "May God enlarge Japheth, and let him dwell in the tents of Shem"
+       ASV: "God enlarge Japheth, And let him dwell in the tents of Shem"
+       NET: "May God enlarge Japheth's territory and numbers! May he live in the tents of Shem"
+       WEB: "May God enlarge Japheth. Let him dwell in the tents of Shem"
+       Analysis: "Yapht" is a wordplay on Japheth's name (enlarge/make
+       spacious). NET adds "territory and numbers" — going beyond the Hebrew.
+       ESV renders as wish/prayer ("May..."); KJV as declaration ("shall").
+       Japheth's descendants share in Shem's spiritual blessings — Gentiles
+       included through Christ.
 
 GLOSSARY
 ------------------------------------

@@ -236,6 +236,20 @@ Apprenticeship (ages 25-30) — The period between beginning service (age 25,
                training and lighter duties before assuming the heavy
                responsibility of carrying the holy things.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.2 — NET: "When you set up the lamps" / ASV: "When thou lightest the lamps" / WEB: "When you light the lamps" / KJV: "When thou lightest the lamps" — NET uses "set up" while ASV/WEB/KJV use "light" (Hebrew "he'alot" — literally "cause to ascend/go up"). The flame goes UP — the same verb used for offerings ascending to God.
+
+- v.4 — NET: "the lampstand" / ASV: "the candlestick" / WEB: "the lampstand" / KJV: "the candlestick" — NET and WEB correctly use "lampstand" (Hebrew "menorah"); ASV/KJV use the anachronistic "candlestick" (there are no candles — only oil lamps).
+
+- v.6 — NET: "purify them" / ASV: "cleanse them" / WEB: "cleanse them" — NET uses "purify" (Hebrew "taher") while ASV/WEB use "cleanse." The distinction matters: this is ritual purification, not physical cleaning. The Levites are made ceremonially fit for sacred service.
+
+- v.11 — NET: "Aaron is to offer the Levites before the Lord as a wave offering" / ASV: "Aaron shall offer the Levites before Jehovah for a wave-offering" / WEB: "Aaron shall offer the Levites before Yahweh for a wave offering" — The Levites ARE the offering — presented to God like a sacrifice. The divine name marks who receives this living gift.
+
+- v.16 — NET: "they are entirely given to me from among the Israelites" / ASV: "for they are wholly given unto me from among the children of Israel" / WEB: "for they are wholly given to me from among the children of Israel" — Hebrew "nethunim nethunim" — an emphatic doubling: "given, given" — completely given. The Levites belong entirely to YHWH.
+
+- v.25 — NET: "at the age of fifty years they must retire from the work" / ASV: "from the age of fifty years they shall cease waiting upon the work" / KJV: "from the age of fifty years they shall cease waiting upon the service" — NET's "retire" modernizes ASV/KJV's "cease waiting upon." Levites retire from heavy labor at 50 but can still assist (v.26).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Living sacrifices (v.11). The Levites are offered to God — not dead but

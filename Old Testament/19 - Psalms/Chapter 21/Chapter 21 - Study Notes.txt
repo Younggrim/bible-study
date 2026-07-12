@@ -105,6 +105,22 @@ v.9 — KJV: "a fiery oven" / ESV: "a blazing oven" — The image of
       consumed like fuel in an oven. Intense, thorough, complete
       destruction.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "O Jehovah" / WEB: "Yahweh" / KJV: "O LORD" — The divine name rendered differently across translations. ASV/WEB make the personal covenant name explicit where KJV uses the traditional substitution "LORD" (all caps indicating YHWH in the Hebrew).
+
+- v.3 — NET: "For you bring him rich blessings" — NET simplifies KJV's archaic "thou preventest him with the blessings of goodness." ASV retains "meetest him" while NET drops the imagery of God arriving first, losing the theological nuance of prevenient grace.
+
+- v.6 — NET: "you give him great joy by allowing him into your presence" / KJV: "thou hast made him exceeding glad with thy countenance" — NET interprets "countenance" (panim = face) as "allowing him into your presence," making explicit what the Hebrew implies. WEB: "glad with joy in thy presence" bridges the two approaches.
+
+- v.7 — KJV: "through the mercy of the most High" / ASV: "through the lovingkindness of the Most High" / WEB: "Through the loving kindness of the Most High" / NET: "because of the Most High's faithfulness" — Hebrew "chesed" rendered four ways: mercy (KJV), lovingkindness (ASV), loving kindness (WEB), faithfulness (NET). NET's "faithfulness" emphasizes God's covenant reliability; the others emphasize His tender disposition.
+
+- v.9 — WEB: "You will make them as a fiery furnace" / NET: "You burn them up like a fiery furnace when you appear" — NET adds "when you appear," interpreting the Hebrew "in the time of thine anger" (KJV) as a theophany — God's visible appearing in judgment. This adds an eschatological dimension.
+
+- v.11 — NET: "they dream up a scheme, but they do not succeed" / KJV: "they imagined a mischievous device, which they are not able to perform" — NET modernizes the language. ASV's "conceived a device" and WEB's "plotted evil" offer middle grounds between KJV's archaic phrasing and NET's casual paraphrase.
+
+- v.13 — ASV: "Be thou exalted, O Jehovah, in thy strength" / WEB: "Be exalted, Yahweh, in your strength" — Both preserve the prayer form with the divine name. NET restructures as "Rise up, O Lord, in strength!" — changing "be exalted" (passive/reflective) to "rise up" (active command), subtly shifting the theology from acknowledging God's inherent exaltation to calling for divine action.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Answered prayer deserves public celebration (vv.1-5). What you

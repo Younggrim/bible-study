@@ -143,6 +143,22 @@ Every Knee Shall Bow — Universal confession of God's lordship.
               — one of the NT's strongest deity Christological
               claims.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "Jehovah" / WEB: "Yahweh" / NET: "the Lord" — The divine name YHWH rendered three different ways. ASV and WEB preserve the personal name; NET follows the traditional substitution. This chapter uses the divine name repeatedly (vv.1,3,5,6,7,8) to emphasize God's unique identity.
+
+- v.1 — NET: "his chosen one" / KJV/ASV/WEB: "his anointed" — NET softens the Hebrew "mashiach" (anointed one/messiah) to "chosen one," obscuring the remarkable fact that a pagan king receives the same title as Israel's kings and ultimately Christ.
+
+- v.7 — WEB: "create calamity" / NET: "creates calamity" / KJV: "create evil" — WEB and NET both clarify that Hebrew "ra" means calamity/disaster rather than moral evil. ASV retains KJV's "create evil." The NET rendering best communicates the intended meaning to modern readers.
+
+- v.8 — NET: "Let the clouds send down showers of deliverance!" / KJV: "let the skies pour down righteousness" — NET translates Hebrew "tsedeq" as "deliverance" rather than "righteousness," capturing the salvation-oriented meaning of the term in Deutero-Isaiah, where righteousness and deliverance overlap.
+
+- v.13 — WEB: "Yahweh of Armies" / KJV: "the LORD of hosts" / NET: "the Lord of Heaven's Armies" — Three renderings of "YHWH Tseba'ot." NET expands for clarity; WEB preserves the divine name with literal "Armies"; KJV retains the archaic "hosts."
+
+- v.17 — NET: "Israel will be delivered once and for all by the Lord" / KJV: "Israel shall be saved in the LORD with an everlasting salvation" — NET makes the permanence emphatic ("once and for all") while losing the preposition "in" (Hebrew "be") — saved IN the Lord, indicating union with God as the location of salvation.
+
+- v.25 — ASV: "shall all the seed of Israel be justified" / NET: "All the descendants of Israel will be vindicated" / WEB: "will be justified" — NET uses "vindicated" rather than "justified" (Hebrew "tsadaq"), shifting from forensic/legal language (declared righteous) to more general validation. This is theologically significant since Paul builds his justification theology from this Hebrew word family.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God uses people who don't know Him (vv.4-5). Cyrus was a

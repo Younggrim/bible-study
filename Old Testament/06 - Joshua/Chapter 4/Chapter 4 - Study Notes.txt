@@ -230,6 +230,15 @@ Magnified/Exalted — Hebrew "gadal." God elevated Joshua's authority and
                Moses through the Red Sea. Divine validation of leadership
                — not self-promotion but God-promotion.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "Jehovah spake unto Joshua" / WEB: "Yahweh spoke to Joshua" / NET: "the Lord told Joshua" / KJV: "the LORD spake unto Joshua" — The divine name pattern continues throughout. ASV "Jehovah" and WEB "Yahweh" make the personal name of God explicit; KJV/ESV use "the LORD" (small caps); NET uses "the Lord" without distinction.
+- v.6 — NET: "The stones will be a reminder to you. When your children ask someday, 'Why are these stones important to you?'" / KJV: "What mean ye by these stones?" / ASV: "What mean ye by these stones?" — NET interprets the question loosely; KJV/ASV preserve the literal Hebrew "mah ha'avanim ha'eleh lakhem" (what are these stones to you?). The literal form is more open-ended and invites fuller explanation.
+- v.7 — WEB: "a memorial to the children of Israel forever" / NET: "a lasting memorial for the Israelites" / KJV: "a memorial unto the children of Israel for ever" — NET's "lasting memorial" is adequate, but WEB/KJV's "forever" (Hebrew "ad olam") carries the weight of eternity. The memorial is not merely "lasting" but perpetual — tying Israel's identity to this crossing.
+- v.14 — NET: "That day the Lord brought honor to Joshua before all Israel" / KJV: "the LORD magnified Joshua" / ASV: "Jehovah magnified Joshua" / WEB: "Yahweh magnified Joshua" — NET's "brought honor" is weaker than "magnified" (Hebrew "gadal" — to make great, enlarge). God did not merely honor Joshua; He made him visibly great in Israel's eyes, confirming his authority as Moses' equal.
+- v.16 — ASV/WEB/KJV: "the ark of the testimony" / NET: "the ark of the covenantal laws" — NET interprets "edut" (testimony) as "covenantal laws," narrowing the meaning. "Testimony" encompasses God's witness to Himself — the tablets inside testify to His character and covenant, not merely to legal stipulations.
+- v.24 — ASV: "that all the peoples of the earth may know the hand of Jehovah, that it is mighty; that ye may fear Jehovah your God for ever" / NET: "He has done this so all the nations of the earth might recognize the Lord's power and so you might always obey the Lord your God" — NET renders "fear" (Hebrew "yara") as "obey," losing the worship dimension. Biblical "fear of the Lord" includes reverent awe, not merely compliance.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Build memorials (vv.6-7). God commands physical reminders because He

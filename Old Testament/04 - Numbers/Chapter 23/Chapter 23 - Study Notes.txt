@@ -237,6 +237,20 @@ Seven Altars — Balaam's attempt to manipulate God through elaborate
                ritual effort. But God cannot be bribed or manipulated —
                He speaks what He wills regardless of the offerings.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.7 — NET: "he took up his oracle and said" / ASV: "he took up his parable, and said" / WEB: "he took up his parable, and said" / KJV: "he took up his parable, and said" — NET uses "oracle" where ASV/WEB/KJV use "parable" (Hebrew "mashal" — a prophetic utterance/saying/oracle). Balaam's speeches are poetic oracles, not parables in the NT sense.
+
+- v.8 — NET: "How can I curse one whom God has not cursed?" / ASV: "How shall I curse, whom God hath not cursed?" / WEB: "How shall I curse, whom God has not cursed?" — All translations agree on this key rhetorical question. No human divination can override divine blessing. The oracle structure is poetic parallelism.
+
+- v.10 — NET: "Who has counted the dust of Jacob?" / ASV: "Who can count the dust of Jacob?" / WEB: "Who can count the dust of Jacob?" — An allusion to God's promise to Abraham (Gen 13:16). NET changes "can" to "has" — implying the number is already beyond counting. Balaam's blessing echoes the Abrahamic covenant.
+
+- v.19 — NET: "God is not a man, that he should lie, nor a human being, that he should change his mind" / ASV: "God is not a man, that he should lie, neither the son of man, that he should repent" / WEB: "God is not a man, that he should lie, nor the son of man, that he should repent" — NET uses "human being" and "change his mind" where ASV/WEB use "son of man" and "repent" (Hebrew "yinnachem"). NET clarifies that God's "repenting" in other passages must be understood through this lens.
+
+- v.21 — NET: "He has not looked on iniquity in Jacob, nor has he seen trouble in Israel" / ASV: "He hath not beheld iniquity in Jacob; neither hath he seen perverseness in Israel" / WEB: "He has not seen iniquity in Jacob. Neither has he seen perverseness in Israel" — NET uses "trouble" where ASV/WEB use "perverseness" (Hebrew "amal"). God does not see Israel through the lens of their failures but through His covenant grace.
+
+- v.21 — NET: "the Lord their God is with them; the shout of their king is among them" / ASV: "Jehovah his God is with him, and the shout of a king is among them" / WEB: "Yahweh his God is with him. The shout of a king is among them" — "The shout of a king" (Hebrew "teru'at melek") — God is Israel's king, and His royal presence among them is what makes them unconquerable. The divine name difference is vivid here.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "God is not a man, that he should lie" (v.19). When you doubt God's

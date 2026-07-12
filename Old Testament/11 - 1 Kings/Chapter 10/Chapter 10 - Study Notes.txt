@@ -209,6 +209,20 @@ Ivory throne  — Solomon's throne was made of ivory (elephant tusk)
               symbolized royal authority. Nothing like it existed
               in any other kingdom (v.20).
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "the queen of Sheba heard of the fame of Solomon concerning the name of Jehovah" / WEB: "heard of the fame of Solomon concerning Yahweh's name" / NET: "the queen of Sheba heard about Solomon" — ASV/WEB specify that Solomon's fame was connected to "the name of YHWH" — his wisdom was known to come from God. NET omits "concerning the name of the LORD" entirely, removing the theological cause of Solomon's fame and making it a generic reputation.
+
+- v.9 — ASV: "Blessed be Jehovah thy God, who delighted in thee, to set thee on the throne of Israel: because Jehovah loved Israel for ever" / WEB: "Blessed is Yahweh your God, who delighted in you... Because Yahweh loved Israel forever" / NET: "May the Lord your God be praised because he favored you... Because of the Lord's eternal love for Israel" — The Hebrew "chaphets" (delight/pleasure) and "'ahavah" (love) are personal, intimate terms. NET's "favored" is cooler than "delighted." The queen's blessing explicitly names YHWH — a foreign queen acknowledging Israel's God.
+
+- v.5 — ASV: "his ascent by which he went up unto the house of Jehovah; there was no more spirit in her" / WEB: "his ascent by which he went up to Yahweh's house; there was no more spirit in her" / NET: "his burnt offerings which he presented in the Lord's temple, she was amazed" — Hebrew "olato" is debated: "his ascent/stairway" (ASV/WEB) or "his burnt offerings" (NET). The Hebrew can mean either. ASV/WEB read it as the grand processional staircase to the temple; NET as his offerings. "No more spirit in her" (ASV/WEB — breathless/overwhelmed) becomes simply "amazed" (NET).
+
+- v.24 — ASV: "all the earth sought the presence of Solomon, to hear his wisdom, which God had put in his heart" / WEB: same / NET: "Everyone in the world wanted to visit Solomon to see him display his God-given wisdom" — NET adds interpretive language: "display his... wisdom" implies performance. The Hebrew simply says people came "to hear his wisdom which God had put in his heart." The "heart" (lev) — seat of wisdom in Hebrew thought — is lost in NET's rendering.
+
+- v.9 — ASV: "to do justice and righteousness" / WEB: "to do justice and righteousness" / NET: "so you could make just and right decisions" — Hebrew "mishpat u-tsedaqah" (justice and righteousness) is a major prophetic pair (Isaiah 5:7; Amos 5:24). ASV/WEB preserve these as abstract ideals; NET narrows to "decisions," losing the broader social/covenantal dimension of these paired terms.
+
+- v.22 — ASV: "a navy of Tarshish" / WEB: "a fleet of Tarshish" / NET: "a fleet of large merchant ships" — "Ships of Tarshish" (Hebrew: 'oniyot tarshish) is likely a class of large ocean-going vessel (named for Tarshish/Tartessos, the farthest known western port). ASV/WEB preserve the name; NET interprets as "large merchant ships," which is likely correct but loses the geographical/historical reference.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "The half was not told me" (v.7). The Queen of Sheba heard

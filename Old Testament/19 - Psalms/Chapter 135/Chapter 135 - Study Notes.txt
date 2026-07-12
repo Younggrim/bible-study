@@ -72,6 +72,16 @@ v.14  — Deuteronomy 32:36 — Source text quoted here.
 COMMENTARY REFERENCES
 ------------------------------------
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — WEB: "Praise Yah! Praise Yahweh's name!" — WEB distinguishes the short "Yah" (Hallelujah) from the full "Yahweh," while ASV uses "Jehovah" uniformly throughout this psalm's many divine name occurrences.
+- v.4 — KJV: "Israel for his peculiar treasure" / ASV: "Israel for his own possession" / WEB: "Israel for his own possession" / NET: "Israel to be his special possession" — KJV's "peculiar treasure" (Hebrew "segullah") is archaic; it means treasured possession, not strange. Modern translations clarify.
+- v.7 — KJV: "vapours" / ASV: "vapors" / WEB: "clouds" / NET: "clouds" — Hebrew "nesi'im" can mean clouds or vapors/mists. WEB/NET use the more common "clouds"; KJV/ASV preserve the older rendering suggesting rising mist.
+- v.13 — KJV: "thy memorial, O LORD" / ASV: "Thy memorial name, O Jehovah" / WEB: "your renown, Yahweh" / NET: "your reputation, O Lord" — Hebrew "zikrekha" (your remembrance/memorial). NET's "reputation" is notably secular-sounding for this divine attribute.
+- v.14 — KJV: "he will repent himself concerning his servants" / ASV: "repent himself" / WEB: "have compassion on his servants" / NET: "has compassion on his servants" — Same Hebrew "nacham" issue as Psalm 132. WEB/NET avoid attributing "repentance" to God, using "compassion" instead.
+- v.15 — KJV: "The idols of the heathen" / ASV: "The idols of the nations" / NET: "The nations' idols" — KJV's "heathen" has pejorative tone; ASV/WEB/NET neutralize to "nations" (Hebrew "goyim").
+- v.21 — NET: "The Lord deserves praise in Zion" — Paraphrases KJV's "Blessed be the LORD out of Zion." NET turns worship ("blessed be") into a statement of desert ("deserves praise").
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God does whatever He pleases (v.6). There is no domain beyond

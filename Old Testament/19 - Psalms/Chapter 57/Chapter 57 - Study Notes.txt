@@ -112,6 +112,20 @@ v.8 — KJV: "Awake up, my glory" / ESV: "Awake, my glory!" —
       and worship. "I myself will awake early" / "I will awake the
       dawn" — David's praise is so eager it precedes sunrise.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.3 — ASV: "God will send forth his lovingkindness and his truth" / WEB: "God will send out his loving kindness and his truth" vs. KJV: "God shall send forth his mercy and his truth" — The "chesed" difference: KJV uses "mercy," ASV/WEB use "lovingkindness/loving kindness." NET: "May God send his loyal love and faithfulness" — renders "emet" (truth) as "faithfulness."
+
+- v.2 — NET: "to the God who vindicates me" vs. KJV: "unto God that performeth all things for me" — NET drastically narrows the Hebrew "gomer alay" (completes/performs for me) to specifically "vindicates me." WEB: "to God who accomplishes my requests for me" — adds "requests" (not in Hebrew).
+
+- v.7 — NET: "I am determined, O God. I am determined" vs. KJV: "My heart is fixed, O God, my heart is fixed" — NET translates the Hebrew "nachon" (established/firm) as "determined," shifting from the state of being firm to the act of deciding. WEB: "My heart is steadfast."
+
+- v.8 — NET: "Awake, my soul!" vs. KJV: "Awake up, my glory" — NET interprets "kebodi" (my glory) as "my soul," a common interpretive choice. WEB: "Wake up, my glory!" preserves the more enigmatic KJV reading. The original likely refers to the soul as the glory of man (Psalm 16:9).
+
+- v.10 — ASV: "thy lovingkindness is great unto the heavens" / WEB: "your great loving kindness reaches to the heavens" / NET: "your loyal love extends beyond the sky" vs. KJV: "thy mercy is great unto the heavens" — Three different "chesed" renderings in one verse. NET's "beyond the sky" may overstate the Hebrew "unto" (ad — reaching to, not beyond).
+
+- v.5,11 — NET: "Rise up above the sky, O God. May your splendor cover the whole earth" vs. KJV: "Be thou exalted, O God, above the heavens; let thy glory be above all the earth" — NET changes "exalted" (a prayer for God's reputation) to "Rise up" (a prayer for God's action). "Splendor" for "glory" (kavod) slightly diminishes the theological weight.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God's wings are a refuge until storms pass (v.1). The storms

@@ -220,6 +220,22 @@ Nave          — The main hall of the Temple (Hebrew "hekal"), 40
               altar of incense, the table of showbread, and the
               golden lampstands stood.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "he began to build the house of Jehovah" / WEB: "he began to build Yahweh's house" / NET: "he began building the Lord's temple" — The Hebrew "bayit YHWH" (house of the LORD) is consistently rendered "house of Jehovah/Yahweh" in ASV/WEB but "temple" in NET. The Hebrew deliberately uses "house" (bayit) — the same word for a home — emphasizing that God chooses to dwell with His people. "Temple" adds formality the Hebrew does not require.
+
+- v.5 — ASV: "the oracle" / WEB: "the inner sanctuary" / NET: "Holy Place" — Hebrew "devir" (the innermost room where the ark resided) is rendered "oracle" (ASV, from Latin oraculum = place of speaking, since God spoke from between the cherubim), "inner sanctuary" (WEB), or varying terms by NET. ASV's archaic "oracle" preserves the idea that this room was where God communicated with Israel.
+
+- v.12 — ASV: "if thou wilt walk in my statutes, and execute mine ordinances" / WEB: "if you will walk in my statutes, and execute my ordinances" / NET: "if you follow my rules, observe my regulations" — NET uses modern administrative language ("rules," "regulations") for Hebrew covenantal terms (chuqqim = statutes, mishpatim = ordinances). The Hebrew carries the weight of the Sinai covenant; "rules and regulations" sounds institutional rather than relational.
+
+- v.13 — ASV: "I will dwell among the children of Israel, and will not forsake my people Israel" / WEB: "I will dwell among the children of Israel, and will not forsake my people Israel" / NET: "I will live among the Israelites and will not abandon my people Israel" — Hebrew "shakan" (to dwell/tabernacle) is the root of "Shekinah" — God's glorious presence. ASV/WEB preserve "dwell" which connects to the tabernacle theology (mishkan); NET's "live among" is adequate but loses this linguistic connection.
+
+- v.16 — ASV: "for an oracle, even for the most holy place" / WEB: "for an inner sanctuary, even for the most holy place" / NET: "a partition for an inner sanctuary that would be the Most Holy Place" — Hebrew "qodesh ha-qodashim" = "holy of holies" (superlative construction). All translations convey the meaning, but ASV's use of "oracle" for "devir" provides a unique insight into the room's function as the place where God speaks.
+
+- v.2 — ASV: "threescore cubits... twenty cubits... thirty cubits" / WEB: "sixty cubits... twenty cubits... thirty cubits" / NET: "90 feet long, 30 feet wide, and 45 feet high" — NET converts cubits to modern feet (using ~18 inches per cubit). ASV/WEB retain the original cubit measurements. The cubit was based on the human forearm — retaining cubits preserves the ancient measurement system and the proportional ratios (6:2:3) that mirror the tabernacle's proportions (doubled).
+
+- v.7 — ASV: "neither hammer nor axe nor any tool of iron heard in the house" / WEB: "no hammer or ax or any tool of iron was heard in the house" / NET: "the sound of hammers, pickaxes, or any other iron tool was not heard at the temple" — NET uses "pickaxes" for Hebrew "garzen" (axe), a minor interpretive difference. The theological point — God's house built in silence, all preparation done away from the holy site — is preserved across all translations.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God's house was built in silence (v.7). The shaping happened at

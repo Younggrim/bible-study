@@ -127,39 +127,119 @@ Charles Spurgeon:
   that made it necessary. God does the fighting. God parts the sea. God
   destroys the enemy. We walk through on dry ground — and then we sing."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "Pi-hahiroth" / ESV: "Pi-hahiroth" — Hebrew: possibly "mouth
-       of the gorges." Both transliterate. The exact location is debated,
-       but the point is clear: God leads Israel to a place with no human
-       escape route.
+v.2  — Hebrew "Pi-hachiroth" — possibly "mouth of the gorges."
+       KJV: "Pi-hahiroth"
+       ESV: "Pi-hahiroth"
+       ASV: "Pi-hahiroth"
+       NET: "Pi-hahiroth"
+       WEB: "Pi-hahiroth"
+       Analysis: All transliterate. The exact location is debated, but the point
+       is clear: God leads Israel to a place with no human escape route.
 
-v.13 — KJV: "stand still" / ESV: "stand firm" — Hebrew "hityatzvu" — take
-       your stand, station yourselves. The ESV's "stand firm" emphasizes
-       resolve; the KJV's "stand still" emphasizes cessation of panic. Both
-       capture active, deliberate positioning in faith.
+v.4  — Hebrew "ve'ikkavdah" — from "kavod" (glory/honor).
+       KJV: "I will be honoured upon Pharaoh"
+       ESV: "I will get glory over Pharaoh"
+       ASV: "I will get me honor upon Pharaoh"
+       NET: "I will gain honor because of Pharaoh"
+       WEB: "I will get honor over Pharaoh"
+       Analysis: ASV's reflexive "get me honor" is closest to the Hebrew hithpael
+       form. God glorifies Himself through Pharaoh's defeat. NET's "because of"
+       softens the preposition; KJV/ESV/WEB use "upon/over" preserving the force.
 
-v.13 — KJV: "salvation" / ESV: "salvation" — Hebrew "yeshu'at" —
-       deliverance, rescue, salvation. Both identical. The root of "Joshua"
-       and "Jesus" (Yeshua). God's salvation is visible, physical, complete.
+v.8  — Hebrew "beyad ramah" — with a raised/high hand.
+       KJV: "with an high hand"
+       ESV: "defiantly"
+       ASV: "the children of Israel went out with a high hand"
+       NET: "the Israelites were going out defiantly"
+       WEB: "the children of Israel went out with a high hand"
+       Analysis: ASV/WEB preserve the vivid Hebrew idiom of a raised hand — a bold,
+       triumphant departure, not a cowering escape. ESV/NET interpret it as
+       "defiantly" — capturing the meaning but losing the physical imagery.
 
-v.15 — KJV: "go forward" / ESV: "go forward" — Hebrew "veyissa'u" — break
-       camp and march. Both identical. There's a time to stand still (v.13)
-       and a time to move (v.15). Both require faith.
+v.13 — Hebrew "hityatzvu... yeshu'at YHWH" — take your stand... salvation of the LORD.
+       KJV: "stand still, and see the salvation of the LORD"
+       ESV: "stand firm, and see the salvation of the LORD"
+       ASV: "stand still, and see the salvation of Jehovah"
+       NET: "stand firm, and see the salvation of the Lord"
+       WEB: "stand still, and see the salvation of Yahweh"
+       Analysis: The ESV/NET "stand firm" emphasizes resolve; the KJV/ASV/WEB
+       "stand still" emphasizes cessation of panic. Both capture active, deliberate
+       positioning in faith. The divine name attached to "yeshua" (salvation) — the
+       root of "Joshua" and "Jesus." Each translation renders the divine name
+       characteristically.
 
-v.21 — KJV: "the Red sea" / ESV: "the sea" — Hebrew "yam suph" — the Sea
-       of Reeds. The KJV adds "Red" (following tradition); the ESV simply
-       says "the sea" here. Whether this is the modern Red Sea, the Gulf of
+v.14 — Hebrew "tacharishun" — to be silent/still.
+       KJV: "ye shall hold your peace"
+       ESV: "you have only to be silent"
+       ASV: "ye shall hold your peace"
+       NET: "The Lord will fight for you, and you can be still"
+       WEB: "you shall be still"
+       Analysis: NET's "can be still" suggests permission; KJV/ASV's "hold your
+       peace" conveys commanded silence. Hebrew means to be silent/still — both
+       restraint from panic and trust in God's action. ESV's "you have only to be
+       silent" emphasizes the minimal requirement: do nothing but trust.
+
+v.15 — Hebrew "veyissa'u" — break camp and march.
+       KJV: "go forward"
+       ESV: "go forward"
+       ASV: "go forward"
+       NET: "go forward"
+       WEB: "go forward"
+       Analysis: All identical. There's a time to stand still (v.13) and a time to
+       move (v.15). Both require faith.
+
+v.21 — Hebrew "yam suph" — the Sea of Reeds.
+       KJV: "the Red sea"
+       ESV: "the sea"
+       ASV: "the sea"
+       NET: "the sea"
+       WEB: "the sea"
+       Analysis: The KJV adds "Red" (following tradition); the ESV/ASV/NET/WEB
+       simply say "the sea" here. Whether this is the modern Red Sea, the Gulf of
        Suez, or a marshy lake is debated — but the miracle is clear.
 
-v.24 — KJV: "the morning watch" / ESV: "the morning watch" — Hebrew
-       "ashmoret haboqer" — the last watch of the night (approximately 2-6
-       AM). Both identical. God acts in the darkest hours before dawn.
+v.24 — Hebrew "ashmoret haboqer... vayaham" — the morning watch... and He confused/panicked them.
+       KJV: "in the morning watch... troubled the host of the Egyptians"
+       ESV: "in the morning watch... threw the Egyptian forces into a panic"
+       ASV: "Jehovah looked forth upon the host of the Egyptians... and discomfited the host"
+       NET: "the Lord looked down on the Egyptian army... and he threw the Egyptian army into a panic"
+       WEB: "Yahweh looked out on the Egyptian army... and confused the Egyptian army"
+       Analysis: Hebrew "vayaham" — to confuse, throw into panic, discomfit. NET's
+       "threw into a panic" is most dynamic; ASV's archaic "discomfited" is precise
+       but unfamiliar to modern readers; WEB's "confused" is neutral.
 
-v.25 — KJV: "took off their chariot wheels" / ESV: "clogged their chariot
-       wheels" — Hebrew "vayasar" — removed, turned aside. The KJV says
-       "took off"; the ESV says "clogged." The Hebrew supports either: God
-       disabled Egypt's greatest military advantage.
+v.25 — Hebrew "vayasar" — removed, turned aside.
+       KJV: "took off their chariot wheels"
+       ESV: "clogged their chariot wheels"
+       ASV: "he took off their chariot wheels"
+       NET: "He jammed the wheels of their chariots"
+       WEB: "He took off their chariot wheels"
+       Analysis: KJV/ASV/WEB say "took off" (wheels removed); ESV says "clogged";
+       NET interprets as "jammed." The Septuagint supports "bound/clogged." All
+       convey the same result: God disabled Egypt's greatest military advantage.
+
+v.27 — Hebrew "le'etano" — to its permanence/strength.
+       KJV: "the sea returned to his strength"
+       ESV: "the sea returned to its normal course"
+       ASV: "the sea returned to its strength"
+       NET: "the sea returned to its normal state"
+       WEB: "the sea returned to its strength"
+       Analysis: ASV/WEB/KJV preserve the personifying Hebrew image — the sea has
+       "strength." ESV/NET neutralize to "normal course/state," losing the poetic
+       force.
+
+v.31 — Hebrew "hayad hagedolah" — the great hand.
+       KJV: "that great work which the LORD did"
+       ESV: "the great power that the LORD used"
+       ASV: "Israel saw the great work which Jehovah did upon the Egyptians"
+       NET: "the great power that the Lord had exercised over the Egyptians"
+       WEB: "the great work which Yahweh did to the Egyptians"
+       Analysis: The literal Hebrew is "the great hand" — connecting to the repeated
+       "strong hand" theme throughout Exodus. NET/ESV interpret as "power";
+       ASV/WEB/KJV render as "work." The "hand" imagery links God's redemptive acts
+       throughout the Exodus narrative.
 
 GLOSSARY
 ------------------------------------

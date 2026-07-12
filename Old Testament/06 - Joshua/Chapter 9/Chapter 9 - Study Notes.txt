@@ -234,6 +234,15 @@ Mouth of the LORD — Hebrew "pi Adonai." God's spoken guidance, accessed
                Israel's failure was not consulting this source before
                making their decision.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.8 — NET: "We are willing to be your subjects" / KJV: "We are thy servants" / ASV: "We are thy servants" / WEB: "We are your servants" — NET interprets "avadekha" (your servants) as "willing to be your subjects," adding political nuance. KJV/ASV/WEB preserve the simple declaration of servitude, which is both a diplomatic formula and an expression of submission.
+- v.9 — ASV: "because of the name of Jehovah thy God" / WEB: "because of the name of Yahweh your God" / NET: "because of the reputation of the Lord your God" — NET renders "shem" (name) as "reputation," which captures one aspect but loses the Hebrew theology of "the Name" (ha-Shem) as representing God's character, authority, and presence.
+- v.14 — ASV: "asked not counsel at the mouth of Jehovah" / WEB: "didn't ask counsel from Yahweh's mouth" / NET: "they failed to ask the Lord's advice" / KJV: "asked not counsel at the mouth of the LORD" — NET's "failed to ask the Lord's advice" is mild; KJV/ASV/WEB's "at the mouth of" preserves the Hebrew "peh" (mouth), implying direct, verbal, revelatory communication — not just general "advice" but prophetic inquiry.
+- v.15 — NET: "Joshua made a peace treaty with them and agreed to let them live" / KJV: "Joshua made peace with them, and made a league with them" / ASV: "Joshua made peace with them, and made a covenant with them" — NET's "peace treaty" and KJV's "league" both render Hebrew "b'rit" (covenant), but "covenant" (ASV/WEB) better captures the binding, sacred nature of the agreement — broken at Israel's peril (2 Samuel 21:1-6).
+- v.23 — NET: "Now you are condemned to perpetual servitude as woodcutters and water carriers for the house of my God" / KJV: "ye are cursed, and there shall none of you be freed from being bondmen" / ASV: "Now therefore ye are cursed" / WEB: "Now therefore you are cursed" — NET softens "cursed" (Hebrew "arar") to "condemned to servitude." KJV/ASV/WEB preserve the stronger "cursed," connecting to the covenant curses of Deuteronomy.
+- v.24 — NET: "we were terrified we would lose our lives" / KJV: "we were sore afraid for our lives because of you" / ASV: "we were sore afraid for our lives because of you" / WEB: "we were very afraid for our lives" — NET's "terrified" is stronger than "sore afraid" but both capture the sense. The key difference is NET's omission of the theological context: the Gibeonites feared because of God's command to Moses (cherem — total destruction), not merely human military threat.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "Asked not counsel at the mouth of the LORD" (v.14). The most

@@ -112,105 +112,116 @@ Charles Spurgeon:
   However fallen, however marred — the image remains. Every human being
   carries divine dignity."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "the heaven" / ESV: "the heavens" — Hebrew "hashamayim" — the
-       Hebrew is plural ("shamayim"), so ESV's "heavens" is more literal.
-       KJV uses singular "heaven" as a collective. Both convey the same
-       meaning: the entire expanse above.
+v.1  — Hebrew "bereshith bara Elohim et hashamayim ve'et ha'arets"
+       KJV: "In the beginning God created the heaven and the earth"
+       ESV: "In the beginning, God created the heavens and the earth"
+       ASV: "In the beginning God created the heavens and the earth"
+       NET: "In the beginning God created the heavens and the earth"
+       WEB: "In the beginning, God created the heavens and the earth"
+       Analysis: KJV alone uses singular "heaven"; all others use plural
+       "heavens" — the Hebrew "shamayim" is plural. "Elohim" is plural in
+       form with a singular verb "bara" (created from nothing, used only of
+       God). Plurality in unity — early hint of the Trinity.
 
-v.1  — KJV: "In the beginning" / ESV: "In the beginning" — Both identical.
-       Hebrew "bereshith" — in the beginning of, at the start of. The
-       absolute beginning of created time and space. "God" — Hebrew "Elohim"
-       — plural form (more than two) with singular verb ("created" = "bara"
-       singular). Plurality in unity — early hint of the Trinity.
+v.2  — Hebrew "tohu wabohu" — formless and empty.
+       KJV: "without form, and void"
+       ESV: "without form and void"
+       ASV: "waste and void"
+       NET: "without shape and empty"
+       WEB: "formless and empty"
+       Analysis: ASV's "waste" is more stark, capturing "tohu" as barren
+       wasteland rather than mere shapelessness. NET's "without shape" is
+       functional. WEB is the most concise. Not chaotic evil but unformed
+       and unfilled — ready to be shaped and populated in the six days.
 
-v.1  — KJV: "created" / ESV: "created" — Both identical. Hebrew "bara" — to
-       create from nothing (ex nihilo). Used only of God in the OT.
-       Distinguished from "asah" (to make/form from existing material) and
-       "yatsar" (to shape/fashion).
+v.2  — Hebrew "merachephet al-peney hammayim" — hovering over the face of the waters.
+       KJV: "the Spirit of God moved upon the face of the waters"
+       ESV: "the Spirit of God was hovering over the face of the waters"
+       ASV: "the Spirit of God moved upon the face of the waters"
+       NET: "the Spirit of God was moving over the surface of the water"
+       WEB: "God's Spirit was hovering over the surface of the waters"
+       Analysis: ESV/WEB use "hovering" — capturing the Hebrew participle
+       "merachephet" (brooding, like a bird over its nest) more precisely
+       than KJV/ASV's "moved." NET uses "moving" — less specific. NET also
+       renders "tehom" earlier in the verse as "the watery deep," emphasizing
+       the aquatic nature of the primordial chaos.
 
-v.2  — KJV: "without form, and void" / ESV: "without form and void" — Both
-       equivalent. Hebrew "tohu wabohu" — formless and empty. Not chaotic
-       evil but unformed and unfilled — ready to be shaped and populated in
-       the six days.
+v.5  — Hebrew "vayehi-erev vayehi-voqer yom echad"
+       KJV: "the evening and the morning were the first day"
+       ESV: "there was evening and there was morning, the first day"
+       ASV: "And there was evening and there was morning, one day"
+       NET: "There was evening, and there was morning, marking the first day"
+       WEB: "There was evening and there was morning, one day"
+       Analysis: Hebrew days begin at sunset. ASV/WEB use "one day" (literal
+       Hebrew "yom echad") rather than "first day." NET adds "marking" —
+       interpretive clarity that evening and morning together constitute a
+       complete day. ESV renders the Hebrew construction most literally.
 
-v.2  — KJV: "moved upon the face of the waters" / ESV: "was hovering over
-       the face of the waters" — Hebrew "merachephet" — hovered, brooded
-       (like a bird over its nest). ESV's "hovering" captures the Hebrew
-       participle more precisely than KJV's "moved." The Spirit actively
-       present, nurturing creation.
+v.6  — Hebrew "raqia" — something spread out or stretched.
+       KJV: "firmament"
+       ESV: "expanse"
+       ASV: "firmament"
+       NET: "expanse"
+       WEB: "expanse"
+       Analysis: KJV/ASV retain "firmament" (from Latin Vulgate
+       "firmamentum"), which can imply a solid dome. ESV/NET/WEB use
+       "expanse" — better conveying the Hebrew sense of an open,
+       stretched-out space separating the waters.
 
-v.5  — KJV: "the evening and the morning were the first day" / ESV: "there
-       was evening and there was morning, the first day" — Hebrew days begin
-       at sunset. ESV renders the Hebrew construction more literally ("there
-       was evening and there was morning"). Both convey the same meaning:
-       each day = evening (darkness) then morning (light) = one complete day.
+v.21 — Hebrew "tanninim gedolim" — large sea creatures.
+       KJV: "great whales"
+       ESV: "great sea creatures"
+       ASV: "great sea-monsters"
+       NET: "great sea creatures"
+       WEB: "large sea creatures"
+       Analysis: KJV's "whales" is too specific. ASV's "sea-monsters" is
+       more vivid and captures the mythic resonance of "tanninim." ESV/NET/WEB
+       use the broader "sea creatures" — more accurate since "tanninim"
+       refers to large marine animals generally.
 
-v.6  — KJV: "firmament" / ESV: "expanse" — Hebrew "raqia" — something
-       spread out or stretched. KJV's "firmament" (from Latin Vulgate
-       "firmamentum") can imply a solid dome; ESV's "expanse" better conveys
-       the Hebrew sense of an open, stretched-out space.
+v.26 — Hebrew "na'aseh adam betsalmenu kidmutenu"
+       KJV: "Let us make man in our image, after our likeness"
+       ESV: "Let us make man in our image, after our likeness"
+       ASV: "Let us make man in our image, after our likeness"
+       NET: "Let us make humankind in our image, after our likeness"
+       WEB: "Let's make man in our image, after our likeness"
+       Analysis: NET uses "humankind" — gender-inclusive, reflecting the
+       collective meaning of Hebrew "adam" (male and female together, v.27).
+       WEB uses informal "Let's." All retain "image" (tselem = representation)
+       and "likeness" (demuth = resemblance). God speaks within Himself —
+       the Trinity in consultation using first person plural "na'aseh."
 
-v.11 — KJV: "bring forth grass, the herb yielding seed" / ESV: "sprout
-       vegetation, plants yielding seed" — Hebrew "deshe" (vegetation/grass)
-       and "eseb" (herb/plant). ESV uses "sprout" for the verb (more vivid)
-       and "vegetation" / "plants" for modern clarity. KJV's "grass" and
-       "herb" are older English equivalents.
+v.28 — Hebrew "mil'u et-ha'arets" — fill the earth.
+       KJV: "replenish the earth"
+       ESV: "fill the earth"
+       ASV: "replenish the earth"
+       NET: "fill the earth"
+       WEB: "fill the earth"
+       Analysis: KJV/ASV's "replenish" in older English meant "fill" (not
+       "refill"), but modern readers may misunderstand it as implying a
+       previous filling. ESV/NET/WEB correctly use "fill" for the Hebrew.
 
-v.20 — KJV: "bring forth abundantly the moving creature that hath life, and
-       fowl" / ESV: "swarm with swarms of living creatures, and let birds
-       fly" — Hebrew "yishretsu sherets" (swarm with swarms) and "oph"
-       (birds/fowl). ESV captures the Hebrew wordplay of "swarm with swarms"
-       and uses "birds" instead of archaic "fowl."
+v.29 — Hebrew "oklah" — food.
+       KJV: "to you it shall be for meat"
+       ESV: "You shall have them for food"
+       ASV: "to you it shall be for food"
+       NET: "They will be yours for food"
+       WEB: "it will be your food"
+       Analysis: KJV's "meat" in 1611 English meant "food" generally, not
+       specifically animal flesh. All modern translations correctly use
+       "food," avoiding confusion.
 
-v.21 — KJV: "great whales" / ESV: "great sea creatures" — Hebrew "tanninim
-       gedolim" — large sea creatures. ESV's "sea creatures" is broader and
-       more accurate; "tanninim" refers to large marine animals generally,
-       not specifically whales.
-
-v.26 — KJV: "Let us make man in our image, after our likeness" / ESV: "Let
-       us make man in our image, after our likeness" — Both identical.
-       Hebrew "na'aseh" — first person plural. God speaks within Himself —
-       the Trinity in consultation. "Image" (tselem) = representation,
-       likeness. "Likeness" (demuth) = resemblance, similarity.
-
-v.27 — KJV: "male and female created he them" / ESV: "male and female he
-       created them" — Both equivalent. Hebrew "zakar unqebah" — both
-       genders equally bear God's image. Neither is more "image" than the
-       other. Minor word order difference only.
-
-v.28 — KJV: "replenish the earth" / ESV: "fill the earth" — Hebrew "mil'u"
-       — to fill. ESV's "fill" is more accurate to the Hebrew. KJV's
-       "replenish" in 1611 English meant "fill" (not "refill"), but modern
-       readers may misunderstand it as implying a previous filling.
-
-v.29 — KJV: "every herb bearing seed... to you it shall be for meat" / ESV:
-       "every plant yielding seed... You shall have them for food" — Hebrew
-       "oklah" = food. KJV's "meat" in 1611 English meant "food" generally,
-       not specifically animal flesh. ESV's "food" avoids confusion.
-
-v.31 — KJV: "very good" / ESV: "very good" — Both identical. Hebrew "tob
-       meod" — exceedingly good. The only day rated "very good" — because
-       humanity completes creation.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — ASV: "waste and void" — more stark than KJV/ESV's "without form and
-  void." The word "waste" emphasizes desolation, capturing the Hebrew "tohu"
-  as barren wasteland rather than mere shapelessness.
-- v.2 — NET: "without shape and empty...the watery deep" — NET uniquely
-  renders "tehom" as "the watery deep" (rather than simply "the deep"),
-  emphasizing the aquatic nature of the primordial chaos.
-- v.5 — NET: "marking the first day" — adds interpretive clarity that evening
-  and morning together "mark" a complete day, making the day-structure
-  explicit where KJV/ESV leave it implicit.
-- v.21 — ASV: "great sea-monsters" — more vivid than KJV's "great whales" or
-  ESV's "great sea creatures." Translates Hebrew "tanninim" with a term that
-  captures the mythic resonance of the original.
-- v.26 — NET: "Let us make humankind" — uses gender-inclusive "humankind"
-  rather than "man" (KJV/ESV/ASV), reflecting the collective meaning of
-  Hebrew "adam" in this context (male and female together, v.27).
+v.31 — Hebrew "tob meod" — exceedingly good.
+       KJV: "very good"
+       ESV: "very good"
+       ASV: "very good"
+       NET: "very good"
+       WEB: "very good"
+       Analysis: All translations identical. The only day rated "very good"
+       — because humanity completes creation. "Tob meod" is an emphatic
+       superlative — God's creation fully realized and fully approved.
 
 GLOSSARY
 ------------------------------------

@@ -96,51 +96,71 @@ Charles Spurgeon:
   his superiority. In this mysterious figure, we see Christ: king and priest,
   eternal, blessing His people, receiving their worship."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.13 — KJV: "Abram the Hebrew" / ESV: "Abram the Hebrew" — Both identical.
-       Hebrew "ha-Ivri" — the one from beyond (the river). First use of
-       "Hebrew" in Scripture. Identifies Abram as a foreigner — from beyond
-       the Euphrates.
+v.13 — Hebrew "Avram ha-Ivri" — Abram the Hebrew/one from beyond.
+       KJV: "Abram the Hebrew"
+       ESV: "Abram the Hebrew"
+       ASV: "Abram the Hebrew"
+       NET: "Abram the Hebrew"
+       WEB: "Abram, the Hebrew"
+       Analysis: All identical. "Ha-Ivri" = the one from beyond (the river).
+       First use of "Hebrew" in Scripture. Identifies Abram as a foreigner —
+       from beyond the Euphrates.
 
-v.18 — KJV: "Melchizedek" / ESV: "Melchizedek" — Both identical. Hebrew
-       "Malki-tsedeq" — "my king is righteousness" or "king of
-       righteousness." "Salem" — Hebrew "Shalem" — peace. Later identified
-       with Jerusalem (Psalm 76:2).
+v.13 — Hebrew "ba'aley berith Avram" — lords/partners of Abram's covenant.
+       KJV: "these were confederate with Abram"
+       ESV: "these were allies of Abram"
+       ASV: "these were confederate with Abram"
+       NET: "these were allied by treaty with Abram"
+       WEB: "These were allies of Abram"
+       Analysis: NET specifies "by treaty" — making the formal political
+       arrangement explicit. KJV/ASV's "confederate" is archaic. ESV/WEB's
+       "allies" is clear and modern. Hebrew "ba'aley berith" = covenant
+       partners.
 
-v.18 — KJV: "priest of the most high God" / ESV: "priest of God Most High"
-       — Both equivalent; ESV capitalizes "Most High" as a title. Hebrew "El
-       Elyon" — God Most High. The supreme God above all. Melchizedek served
-       the true God before Israel existed.
+v.14 — Hebrew "vayyareq eth-chanikav" — he armed/mobilized his trained men.
+       KJV: "he armed his trained servants, born in his own house, three hundred and eighteen"
+       ESV: "he led out his trained men, born in his house, 318 of them"
+       ASV: "he led forth his trained men, born in his house, three hundred and eighteen"
+       NET: "he mobilized his 318 trained men who had been born in his household"
+       WEB: "he led out his trained men, born in his house, three hundred eighteen"
+       Analysis: NET's "mobilized" captures military urgency better than
+       "armed" (KJV) or "led out" (ESV/ASV/WEB). Hebrew "chanikav" =
+       trained/dedicated ones — a private militia of considerable size.
 
-v.19 — KJV: "possessor of heaven and earth" / ESV: "Possessor of heaven and
-       earth" — Both identical. Hebrew "qoneh shamayim va'arets" — creator/
-       owner of heaven and earth. God owns everything — the basis for Abram's
-       refusal of Sodom's goods.
+v.18 — Hebrew "Malki-tsedeq melekh Shalem kohen le-El Elyon"
+       KJV: "Melchizedek king of Salem... the priest of the most high God"
+       ESV: "Melchizedek king of Salem... priest of God Most High"
+       ASV: "Melchizedek king of Salem... priest of God Most High"
+       NET: "Melchizedek king of Salem... priest of the Most High God"
+       WEB: "Melchizedek king of Salem... priest of God Most High"
+       Analysis: All essentially equivalent. "Malki-tsedeq" = "my king is
+       righteousness." "Salem" (Shalem) = peace. Later = Jerusalem (Psalm
+       76:2). "El Elyon" = God Most High. Melchizedek served the true God
+       before Israel existed. A type of Christ: king-priest without recorded
+       genealogy (Hebrews 7).
 
-v.20 — KJV: "tithes" / ESV: "a tenth of everything" — Both equivalent.
-       Hebrew "ma'aser" — a tenth. ESV makes the meaning explicit. Abram
-       voluntarily gives a tenth to Melchizedek — predating the Mosaic tithe
-       law by centuries.
+v.19 — Hebrew "qoneh shamayim va'arets" — possessor/creator of heaven and earth.
+       KJV: "the most high God, the possessor of heaven and earth"
+       ESV: "God Most High, Possessor of heaven and earth"
+       ASV: "God Most High, possessor of heaven and earth"
+       NET: "the Most High God, Creator of heaven and earth"
+       WEB: "God Most High, possessor of heaven and earth"
+       Analysis: NET boldly interprets "qoneh" as "Creator" where all others
+       use "possessor/Possessor." The Hebrew can mean either — "to acquire,
+       possess, create." NET's choice emphasizes God's creative sovereignty.
+       God owns everything — the basis for Abram's refusal of Sodom's goods.
 
-v.22 — KJV: "I have lift up mine hand" / ESV: "I have lifted my hand" —
-       Both equivalent. A gesture of oath-taking. Abram swore to God that he
-       would take nothing from Sodom.
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — WEB: "Tidal, king of Goiim" — retains Hebrew "Goiim" (nations)
-  where NET renders it as "nations" directly. ASV also has "Goiim."
-- v.13 — NET: "allied by treaty with Abram" — interprets "ba'aley berith"
-  (KJV: "confederate with Abram" / ASV: same) as a formal treaty alliance,
-  making the political arrangement explicit.
-- v.14 — NET: "mobilized his 318 trained men" — "mobilized" captures the
-  military urgency better than "armed" (KJV) or "led out" (WEB/ASV).
-- v.18 — WEB: "priest of God Most High" — uses "God Most High" (El Elyon)
-  throughout, keeping the Hebrew divine title transparent.
-- v.19 — NET: "Creator of heaven and earth" — boldly interprets Hebrew
-  "qoneh" as "Creator" where KJV/ASV have "possessor" and WEB has
-  "possessor." The Hebrew can mean either "possessor/owner" or "creator."
+v.20 — Hebrew "ma'aser mikkol" — a tenth of everything.
+       KJV: "he gave him tithes of all"
+       ESV: "Abram gave him a tenth of everything"
+       ASV: "he gave him a tenth of all"
+       NET: "Abram gave Melchizedek a tenth of everything"
+       WEB: "Abram gave him a tenth of all"
+       Analysis: ESV/NET make explicit who gave and who received. KJV/ASV/WEB
+       use pronoun "him." All convey the voluntary tithe — predating the
+       Mosaic law by centuries. Abram acknowledges Melchizedek's superiority.
 
 GLOSSARY
 ------------------------------------

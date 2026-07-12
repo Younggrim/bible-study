@@ -137,54 +137,91 @@ Charles Spurgeon:
   The poor woman's substitute offering points to the ultimate Substitute:
   the Lamb of God who takes away the sin of the world."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "If a woman have conceived seed, and born a man child" / ESV:
-       "If a woman conceives and bears a male child" — Hebrew "ishah ki
-       tazria v'yaldah zakhar." "Tazria" = conceives (literally "produces
-       seed"). "Zakhar" = male. Both translations equivalent. The Hebrew
-       "tazria" (from "zera" = seed) is the source of the Hebrew name for
-       this Torah portion: "Tazria."
+v.2  — Hebrew "ishah ki tazria v'yaldah zakhar" — when a woman conceives
+       and bears a male child. Hebrew "ki-mei niddat d'votah" — as the
+       days of her menstrual separation.
+       KJV: "If a woman have conceived seed, and born a man child... 
+       according to the days of the separation for her infirmity"
+       ESV: "If a woman conceives and bears a male child... As at the time
+       of her menstruation"
+       ASV: "If a woman conceive seed, and bear a man-child... as in the
+       days of the impurity of her sickness"
+       NET: "When a woman produces offspring and bears a male child... as
+       she is unclean during the days of her menstruation"
+       WEB: "If a woman conceives, and bears a male child... as in the days
+       of her monthly period"
+       Analysis: "Tazria" = conceives (literally "produces seed") — NET's
+       "produces offspring" is formal; ASV's "conceive seed" is more
+       literal. The Hebrew links reproduction to agricultural imagery.
+       "Niddah" refers to menstrual impurity — ritual, not moral. NET
+       directly names "menstruation" where KJV/ASV use euphemisms
+       ("infirmity," "sickness"). ESV simplifies.
 
-v.2  — KJV: "according to the days of the separation for her infirmity" /
-       ESV: "As at the time of her menstruation" — Hebrew "ki-mei niddat
-       d'votah." "Niddah" = separation/impurity (menstrual). "D'votah" =
-       her illness/infirmity. KJV preserves both concepts (separation +
-       infirmity). ESV simplifies to "menstruation." The point: postpartum
-       uncleanness follows the same rules as menstrual uncleanness (Lev
-       15:19-24).
+v.4  — Hebrew "bi-d'mei tahorah" — in the bloods of her purification.
+       KJV: "the blood of her purifying three and thirty days"
+       ESV: "thirty-three days in the blood of her purifying"
+       ASV: "in the blood of her purifying three and thirty days"
+       NET: "she will remain thirty-three days in blood purity"
+       WEB: "she shall continue thirty-three days in the blood of
+       purification"
+       Analysis: NET's "blood purity" (Hebrew "demei tohorah") is
+       paradoxical: she is in a state of purifying blood. During these 33
+       days she is transitional — not fully unclean but not yet fully
+       clean. She cannot touch holy things or enter the sanctuary.
 
-v.4  — KJV: "the blood of her purifying three and thirty days" / ESV:
-       "thirty-three days in the blood of her purifying" — Hebrew "bi-d'mei
-       tahorah" — literally "in the bloods of her purification." "Tahorah"
-       = purification/cleansing. During these 33 days she is in a
-       transitional state — not fully unclean (as the first 7 days) but
-       not yet fully clean. She cannot touch holy things or enter the
-       sanctuary.
+v.5  — Hebrew "n'qevah" = female. "Threescore and six" = 66 days.
+       KJV: "a maid child... threescore and six days"
+       ESV: "a female child... sixty-six days"
+       ASV: "a female child... sixty and six days"
+       NET: "a female child... sixty-six days"
+       WEB: "a female child... sixty-six days"
+       Analysis: KJV's "maid" is archaic for "girl." "Threescore" = 60
+       (archaic English). Total for female: 14 + 66 = 80 days (double the
+       male's 7 + 33 = 40 days). All modern translations use
+       straightforward numbers.
 
-v.5  — KJV: "a maid child" / ESV: "a female child" — Hebrew "n'qevah" =
-       female. KJV's "maid" is archaic for "girl." ESV is straightforward.
+v.6  — Hebrew "petach ohel moed" — the entrance of the tent of meeting.
+       KJV: "the door of the tabernacle of the congregation"
+       ESV: "the entrance of the tent of meeting"
+       ASV: "unto the door of the tent of meeting, unto the priest"
+       NET: "to the entrance of the Meeting Tent, to the priest"
+       WEB: "to the door of the Tent of Meeting, to the priest"
+       Analysis: The consistent pattern: NET "Meeting Tent," ASV "tent of
+       meeting," WEB "Tent of Meeting," KJV "tabernacle of the
+       congregation."
 
-v.5  — KJV: "threescore and six days" / ESV: "sixty-six days" — Both
-       render the Hebrew number identically. "Threescore" = 60 (archaic
-       English). Total for female: 14 + 66 = 80 days (double the male's
-       7 + 33 = 40 days).
+v.6  — Hebrew "keves ben sh'nato" — a lamb, son of its year.
+       KJV: "a lamb of the first year"
+       ESV: "a lamb a year old"
+       ASV: "a lamb a year old"
+       NET: "a yearling lamb"
+       WEB: "a year old lamb"
+       Analysis: All translations equivalent. NET's "yearling" is concise.
 
-v.6  — KJV: "a lamb of the first year" / ESV: "a lamb a year old" —
-       Hebrew "keves ben sh'nato" — literally "a lamb, son of its year"
-       (i.e., in its first year). Both translations equivalent.
+v.7  — Hebrew "m'qor dameiha" — the fountain/source of her bloods.
+       KJV: "the issue of her blood"
+       ESV: "the flow of her blood"
+       ASV: "she shall be cleansed from the fountain of her blood"
+       NET: "she will be clean from her flow of blood"
+       WEB: "she shall be cleansed from the fountain of her blood"
+       Analysis: ASV/WEB's "fountain" (Hebrew "maqor") is more vivid and
+       literal — the source/spring of blood. NET/ESV simplify to "flow."
+       The imagery is of a flowing spring of blood.
 
-v.8  — KJV: "two turtles, or two young pigeons" / ESV: "two turtledoves
-       or two pigeons" — Hebrew "sh'tei torim o sh'nei b'nei yonah." KJV's
-       "turtles" is short for "turtledoves" (not the reptile). "B'nei
-       yonah" = sons of the dove (young pigeons). Both translations
-       equivalent. This is the offering of the poor — and the offering Mary
-       brought (Luke 2:24).
-
-v.7  — KJV: "the issue of her blood" / ESV: "the flow of her blood" —
-       Hebrew "m'qor dameiha" — literally "the fountain/source of her
-       bloods." "M'qor" = spring, fountain, source. The imagery is of a
-       flowing spring of blood. Both translations capture the meaning.
+v.8  — Hebrew "sh'tei torim o sh'nei b'nei yonah" — two turtledoves or
+       two young pigeons.
+       KJV: "two turtles, or two young pigeons"
+       ESV: "two turtledoves or two pigeons"
+       ASV: "two turtle-doves, or two young pigeons"
+       NET: "two turtledoves or two young pigeons"
+       WEB: "two turtledoves, or two young pigeons"
+       Analysis: KJV's "turtles" is short for "turtledoves" (not the
+       reptile). "B'nei yonah" = sons of the dove (young pigeons). NET/WEB
+       use natural modern English for poverty. Luke 2:24 records Mary
+       offering birds — indicating the holy family's poverty. This is the
+       offering of the poor — and the offering Mary brought.
 
 GLOSSARY
 ------------------------------------

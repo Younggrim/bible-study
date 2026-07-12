@@ -134,44 +134,117 @@ Charles Spurgeon:
   — God at the center, everything else arranged around His presence. When
   God is displaced from the center, all falls into disorder."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "by his own standard, with the ensign of their father's house"
-       / ESV: "by his own standard, with the banners of their fathers'
-       houses" — Hebrew "al diglo b'otot l'veit avotam." Two terms: "degel"
-       (standard/banner for the larger division) and "ot" (sign/ensign for
-       the individual family). KJV uses "standard" and "ensign"; ESV uses
-       "standard" and "banners." Each tribal group had a large banner, and
-       each family had its own identifying sign.
+v.2  — Hebrew "al diglo b'otot l'veit avotam" — by his standard, with the
+       signs of their fathers' houses.
+       KJV: "by his own standard, with the ensign of their father's house"
+       ESV: "by his own standard, with the banners of their fathers' houses"
+       ASV: "every man by his own standard, with the ensigns of their fathers' houses"
+       NET: "under his standard with the emblems of his family"
+       WEB: "every man by his own standard, with the banners of their fathers' houses"
+       Analysis: Two Hebrew terms — "degel" (standard/banner for the larger
+       division) and "ot" (sign/ensign for the individual family). KJV uses
+       "standard" and "ensign"; ESV/WEB use "standard" and "banners"; ASV
+       uses "standard" and "ensigns"; NET uses "standard" and "emblems."
+       Hebrew "oth" means sign/signal. Each tribal group had a large banner,
+       and each family had its own identifying sign — tradition assigns
+       specific colors and symbols.
 
-v.2  — KJV: "far off about the tabernacle" / ESV: "facing the tent of
-       meeting on every side" — Hebrew "minneged" — at a distance, opposite,
-       facing. The tribes camp at a respectful distance from the Tabernacle
+v.2  — Hebrew "minneged" — at a distance, opposite, facing.
+       KJV: "far off about the tabernacle"
+       ESV: "facing the tent of meeting on every side"
+       ASV: "over against the tent of meeting shall they encamp round about"
+       NET: "at some distance around the tent of meeting"
+       WEB: "at a distance from the Tent of Meeting"
+       Analysis: The tribes camp at a respectful distance from the Tabernacle
        (with the Levites between them and it), yet facing toward it. KJV
-       emphasizes the distance; ESV emphasizes the orientation.
+       emphasizes the distance; ESV emphasizes the orientation; NET/WEB
+       specify the gap. Levites filled this buffer zone (ch.3), protecting
+       both holiness and access.
 
-v.9  — KJV: "These shall first set forth" / ESV: "They shall set out first
-       on the march" — Hebrew "rishonah yissa'u" — first they shall journey.
-       Judah breaks camp first and leads the entire procession.
+v.3  — Hebrew "degel machaneh Yehudah" — the standard of the camp of Judah.
+       KJV: "the standard of the camp of Judah"
+       ESV: "the standard of the camp of Judah"
+       ASV: "the standard of the camp of Judah"
+       NET: "the divisions of the camp of Judah"
+       WEB: "the standard of the camp of Judah"
+       Analysis: NET uses "divisions" where all others use "standard"
+       (Hebrew "degel"). Judah leads on the east — the direction of sunrise
+       and the entrance to the Tabernacle. The tribe of the Messiah has
+       the preeminent position.
 
-v.14 — KJV: "Reuel" / ESV: "Reuel" — Note: In 1:14, the KJV has "Deuel."
-       The Hebrew letters Resh (R) and Daleth (D) are very similar and
-       easily confused in manuscripts. Most scholars consider "Deuel" the
-       correct reading (as in 1:14; 7:42; 10:20).
+v.3  — Hebrew "nasi" — a lifted-up one, prince, chieftain.
+       KJV: "the captain of the children of Judah"
+       ESV: "the chief of the people of Judah"
+       ASV: "the prince of the children of Judah"
+       NET: "The leader of the people of Judah"
+       WEB: "the prince of the children of Judah"
+       Analysis: NET's "leader" is neutral; ASV/WEB's "prince" conveys
+       inherited status; KJV's "captain" suggests military command; ESV's
+       "chief" denotes authority. All are aspects of the tribal head's role.
 
-v.17 — KJV: "the tabernacle of the congregation shall set forward" / ESV:
-       "the tent of meeting shall set out" — The Tabernacle moves in the
-       middle of the formation. When disassembled for travel, the Levites
-       carry it between the second and third divisions.
+v.9  — Hebrew "rishonah yissa'u" — first they shall journey.
+       KJV: "These shall first set forth"
+       ESV: "They shall set out first on the march"
+       ASV: "They shall set forth first"
+       NET: "They will set out first"
+       WEB: "They shall set out first"
+       Analysis: Judah breaks camp first and leads the entire procession.
+       All translations agree on the meaning; variations are stylistic.
 
-v.31 — KJV: "They shall go hindmost" / ESV: "They shall set out last" —
-       Hebrew "la-acharonah yissa'u" — last they shall journey. Dan's camp
-       forms the rear guard, protecting the back of the procession.
+v.14 — Hebrew manuscript variation: Resh (R) vs. Daleth (D).
+       KJV: "Reuel" (but "Deuel" in 1:14)
+       ESV: "Reuel"
+       ASV: "Reuel"
+       NET: "Deuel"
+       WEB: "Reuel"
+       Analysis: The Hebrew letters Resh (R) and Daleth (D) are very similar
+       and easily confused in manuscripts. Most scholars consider "Deuel"
+       the correct reading (as in 1:14; 7:42; 10:20).
 
-v.34 — KJV: "so they pitched by their standards, and so they set forward"
-       / ESV: "so they camped by their standards, and so they set out" —
-       The same order applies to both camping and marching. God's
-       arrangement is consistent whether at rest or in motion.
+v.17 — Hebrew "ohel mo'ed" — tent of meeting/appointed place.
+       KJV: "the tabernacle of the congregation shall set forward"
+       ESV: "the tent of meeting shall set out"
+       ASV: "the tent of meeting, with the camp of the Levites"
+       NET: "the tent of meeting with the camp of the Levites"
+       WEB: "the Tent of Meeting, with the camp of the Levites"
+       Analysis: The Tabernacle moves in the middle of the formation. When
+       disassembled for travel, the Levites carry it between the second and
+       third divisions. The Levites march in the center of the column,
+       surrounding the Tabernacle — God's presence moves at Israel's heart,
+       protected on all sides.
+
+v.31 — Hebrew "la-acharonah yissa'u" — last they shall journey.
+       KJV: "They shall go hindmost"
+       ESV: "They shall set out last"
+       ASV: "They shall set forth hindmost"
+       NET: "They will set out last"
+       WEB: "They shall set out last"
+       Analysis: Dan's camp forms the rear guard, protecting the back of
+       the procession. KJV/ASV's "hindmost" is archaic but vivid; modern
+       translations use "last."
+
+v.32 — Hebrew: the census total.
+       KJV: "six hundred thousand and three thousand and five hundred and fifty"
+       ESV: "603,550"
+       ASV: "six hundred thousand and three thousand and five hundred and fifty"
+       NET: "603,550"
+       WEB: "603,550"
+       Analysis: NET/ESV/WEB consistently use numerals for large numbers,
+       improving readability. KJV/ASV spell them out following the Hebrew
+       text's written form. The total matches the census in chapter 1 —
+       confirming the count.
+
+v.34 — Hebrew: obedience formula.
+       KJV: "so they pitched by their standards, and so they set forward"
+       ESV: "so they camped by their standards, and so they set out"
+       ASV: "so they encamped by their standards, and so they set forward"
+       NET: "so they camped by their standards, and so they set out"
+       WEB: "so they encamped by their standards, and so they set out"
+       Analysis: The same order applies to both camping and marching. God's
+       arrangement is consistent whether at rest or in motion. All
+       translations convey the same meaning with minor stylistic variation.
 
 GLOSSARY
 ------------------------------------

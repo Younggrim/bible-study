@@ -175,6 +175,24 @@ Intercession — (v.12) The Servant pleads for transgressors —
               to make intercession" (Hebrews 7:25). He prays for
               you NOW.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "the arm of Jehovah" / WEB: "the arm of Yahweh" / NET: "the Lord's power" — NET abstracts the concrete Hebrew image of God's "arm" (zero'a = strength made visible through action) into generic "power." The arm metaphor connects to 52:10 where God "bares His holy arm."
+
+- v.3 — KJV: "a man of sorrows, and acquainted with grief" / WEB: "a man of suffering, and acquainted with disease" / NET: "one who experienced pain and was acquainted with illness" — Hebrew "makh'ovot" can mean sorrows OR pains/sickness, and "choli" means sickness/disease. WEB/NET preserve the illness dimension (Matthew 8:17 applies this to Jesus's healing ministry); KJV focuses on emotional suffering.
+
+- v.4 — NET: "he lifted up our illnesses, he carried our pain" / KJV: "Surely he hath borne our griefs, and carried our sorrows" / WEB: "he has borne our sickness, and carried our suffering" — This is theologically significant: Hebrew "nasa" (bore/lifted) and "sabal" (carried) indicate substitutionary bearing. NET's "illnesses/pain" matches Matthew 8:17's application to physical healing.
+
+- v.5 — WEB: "he was pierced for our transgressions" / KJV: "he was wounded for our transgressions" / NET: "He was wounded because of our rebellious deeds" — WEB uses "pierced" for Hebrew "chalal" (pierced through/fatally wounded), which is more precise than KJV's "wounded." NET adds "rebellious deeds" for "pesha" (transgression/rebellion). The piercing language directly anticipates crucifixion (John 19:34,37; Zechariah 12:10).
+
+- v.6 — NET: "the Lord caused the sin of all of us to attack him" / KJV: "the LORD hath laid on him the iniquity of us all" / ASV: "Jehovah hath laid on him the iniquity of us all" — NET's "caused... to attack" is highly interpretive. Hebrew "paga" = to cause to meet/encounter/strike against. The image is God directing our sin to collide with the Servant — imputation theology in one verb.
+
+- v.10 — NET: "once restitution is made" / KJV: "when thou shalt make his soul an offering for sin" / WEB: "When you make his soul an offering for sin" / ASV: "when thou shalt make his soul an offering for sin" — NET renders Hebrew "asham" (guilt offering — the specific Levitical sacrifice of Leviticus 5-7) as merely "restitution," completely removing the sacrificial/Levitical framework. The Servant IS the guilt offering — His soul is the sacrifice. This is the clearest OT statement of penal substitutionary atonement.
+
+- v.11 — NET: "My servant will acquit many, for he carried their sins" / KJV: "by his knowledge shall my righteous servant justify many; for he shall bear their iniquities" / WEB: "My righteous servant will justify many by the knowledge of himself" — NET uses "acquit" (legal verdict) for "tsadaq" (justify/declare righteous), which is valid but loses the Pauline "justification" connection. NET also drops "righteous" (tsaddiq) as a descriptor of the Servant, and removes "by his knowledge" (unclear whose knowledge).
+
+- v.12 — NET: "he willingly submitted to death" / KJV: "he hath poured out his soul unto death" / ASV: "he poured out his soul unto death" / WEB: "he poured out his soul to death" — NET interprets "he'erah" (poured out/made naked/emptied) as "willingly submitted." The Hebrew image is more visceral — life-blood being poured out, emptying oneself completely. This connects to Philippians 2:7 ("emptied himself") and the kenosis theology.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "He was wounded for OUR transgressions" (v.5). The pronouns

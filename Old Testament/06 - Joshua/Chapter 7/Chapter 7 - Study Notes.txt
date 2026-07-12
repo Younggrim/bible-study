@@ -254,6 +254,16 @@ Corporate Responsibility — The biblical principle that in covenant
                "Israel" with sin though only Achan acted. The community
                shares in both blessing and judgment.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "committed a trespass in the devoted thing" / WEB: "committed a trespass in the devoted things" / NET: "disobeyed the command about the city's riches" / KJV: "committed a trespass in the accursed thing" — NET replaces the "cherem" (devoted thing) concept with "the city's riches," losing the theological weight. The sin was not about stealing "riches" but violating what was under the ban — devoted to God's exclusive claim. ASV/WEB preserve "devoted thing."
+- v.1 — ASV: "the anger of Jehovah was kindled against the children of Israel" / WEB: "Yahweh's anger burned against the children of Israel" / NET: "The Lord was furious with the Israelites" — WEB's "burned" and ASV's "kindled" preserve the Hebrew fire metaphor (charah — to burn hot). NET's "furious" is accurate but loses the imagery.
+- v.7 — ASV: "Alas, O Lord Jehovah" / WEB: "Alas, Lord Yahweh" / NET: "O, Sovereign Lord!" — ASV/WEB preserve the Hebrew "Adonai YHWH" (Lord + divine name). NET renders this as "Sovereign Lord," interpreting "Adonai" as sovereign. KJV uses "O Lord GOD" (LORD in caps for YHWH).
+- v.12 — NET: "they have become subject to annihilation" / KJV: "they were accursed" / ASV: "they are become accursed" / WEB: "they have become devoted for destruction" — WEB gives the fullest rendering of "cherem" — "devoted for destruction" captures both the consecration and judgment aspects. NET's "subject to annihilation" is clinical; KJV's "accursed" is traditional but ambiguous.
+- v.13 — NET: "Ritually consecrate the people...You are contaminated, O Israel!" / KJV: "Sanctify the people...There is an accursed thing in the midst of thee" / WEB: "Sanctify the people...There is a devoted thing among you" — NET interprets "cherem" as "contamination" and adds "ritually" before "consecrate." KJV/ASV/WEB preserve the connection between the "devoted thing" and the need for sanctification.
+- v.25 — ASV: "Jehovah shall trouble thee this day" / WEB: "Yahweh will trouble you today" / NET: "The Lord will bring disaster on you today!" — The wordplay "troubled" (achar) → "Achor" (valley of trouble) is preserved in KJV/ASV/WEB but obscured in NET, which uses "disaster" rather than "trouble." The valley name (Achor) comes directly from the verb Joshua uses.
+- v.26 — ASV: "Jehovah turned from the fierceness of his anger" / WEB: "Yahweh turned from the fierceness of his anger" / NET: "the Lord's anger subsided" — NET's "subsided" is bland where the Hebrew pictures God actively turning away from fierce wrath (charon af). KJV/ASV/WEB preserve the dramatic anthropomorphic language.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. One person's sin affects the whole community (v.1). Achan sinned alone,

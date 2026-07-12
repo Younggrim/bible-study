@@ -178,6 +178,15 @@ Inheritance (nachalah) — Hebrew term for a permanent, hereditary
                a divine gift tied to covenant promises. It could not be
                permanently sold (Leviticus 25:23).
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — ASV: "Jehovah said unto him, Thou art old and well stricken in years, and there remaineth yet very much land to be possessed" / NET: "the Lord told him, 'You are very old, and a great deal of land remains to be conquered'" — NET uses "conquered" where ASV/KJV use "possessed" (Hebrew "yarash"). "Possessed" preserves the inheritance theology — the land is to be owned as a divine inheritance, not merely militarily subdued.
+- v.6 — NET: "you be sure to parcel it out to Israel as I instructed you" / KJV: "only divide thou it by lot unto the Israelites for an inheritance" / ASV: "only allot thou it unto Israel for an inheritance" — NET's "parcel it out" is casual; KJV/ASV's "inheritance" (nachalah) preserves the covenant concept of divinely granted possession.
+- v.14 — ASV: "the offerings of Jehovah...made by fire are his inheritance" / NET: "their inheritance is the sacrificial offerings made to the Lord God of Israel" — The Levites' inheritance is God Himself and His offerings. NET reverses the word order, making the offerings primary. KJV/ASV/WEB preserve the Hebrew emphasis: Jehovah's fire-offerings (isheh YHWH) are what constitute the Levites' inheritance.
+- v.22 — ASV: "Balaam also the son of Beor, the soothsayer" / NET: "Balaam son of Beor, the omen reader" — Hebrew "qosem" (diviner/soothsayer) is rendered differently. KJV "soothsayer" and NET "omen reader" both identify Balaam's pagan practice. ASV preserves the traditional English term.
+- v.33 — ASV: "Jehovah, the God of Israel, is their inheritance" / WEB: "Yahweh, the God of Israel, is their inheritance" / NET: "their inheritance is the Lord God of Israel" — The most significant theological statement: God Himself is the Levites' inheritance. WEB/ASV foreground the divine name; NET buries it in the predicate. The personal God — YHWH — is what the Levites possess.
+- v.1 — NET: "a great deal of land remains to be conquered" / WEB: "there remains yet very much land to be possessed" — WEB closely follows the Hebrew "eretz harbeh m'od nish'arah l'rishtah," preserving both "very much" and "to possess." NET simplifies and shifts from possession to conquest.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "There remaineth yet very much land to be possessed" (v.1). Even after

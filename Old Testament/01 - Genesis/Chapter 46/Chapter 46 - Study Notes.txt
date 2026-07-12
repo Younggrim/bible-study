@@ -111,52 +111,83 @@ Charles Spurgeon:
   whatever trial you face — is not safe. But God is with you in it. And He
   will surely bring you up again."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "offered sacrifices" / ESV: "offered sacrifices" — Hebrew
-       "zabach zebachim" — slaughtered sacrifices. Both identical. Plural —
-       multiple offerings. Jacob worships before the journey.
+v.1  — Hebrew "zabach zebachim" — slaughtered sacrifices.
+       KJV: "offered sacrifices"
+       ESV: "offered sacrifices"
+       ASV: "offered sacrifices"
+       NET: "offered sacrifices"
+       WEB: "offered sacrifices"
+       Analysis: All identical. Plural — multiple offerings. Jacob worships
+       before the journey at Beer-sheba, where both Abraham and Isaac
+       worshipped.
 
-v.2  — KJV: "visions of the night" / ESV: "visions of the night" — Hebrew
-       "mar'ot halaylah" — night visions. Both identical. Not a dream but a
-       vision — God speaks directly. This is the last recorded theophany to
-       a patriarch in Genesis.
+v.2  — Hebrew "mar'ot halaylah" — night visions.
+       KJV: "visions of the night"
+       ESV: "visions of the night"
+       ASV: "visions of the night"
+       NET: "visions during the night"
+       WEB: "visions of the night"
+       Analysis: All identical in meaning. Not a dream but a vision — God
+       speaks directly. This is the last recorded theophany to a patriarch
+       in Genesis.
 
-v.3  — KJV: "fear not" / ESV: "do not be afraid" — Hebrew "al tira" — do
-       not be afraid. The ESV is more natural in modern English; the KJV is
-       more concise. The same command given to Abraham (15:1), Isaac (26:24),
+v.3  — Hebrew "al tira" — do not be afraid.
+       KJV: "fear not to go down into Egypt"
+       ESV: "Do not be afraid to go down to Egypt"
+       ASV: "fear not to go down into Egypt"
+       NET: "Do not be afraid to go down to Egypt, for I will make you into a great nation there"
+       WEB: "Don't be afraid to go down into Egypt"
+       Analysis: ESV/NET/WEB are more natural in modern English; KJV is more
+       concise. God's reassurance to Jacob uses the patriarchal promise
+       language — the same command given to Abraham (15:1), Isaac (26:24),
        and now Jacob.
 
-v.4  — KJV: "Joseph shall put his hand upon thine eyes" / ESV: "Joseph's
-       hand shall close your eyes" — Both describe the custom of closing the
-       eyes of the dead. The ESV is more explicit about the action. God
-       promises Jacob a peaceful death with Joseph present.
+v.4  — Hebrew "Yosef yashith yado al einekha" — Joseph shall put his hand
+       upon your eyes.
+       KJV: "Joseph shall put his hand upon thine eyes"
+       ESV: "Joseph's hand shall close your eyes"
+       ASV: "Joseph shall put his hand upon thine eyes"
+       NET: "I will go down with you to Egypt and I myself will certainly bring you back from there. Joseph will close your eyes"
+       WEB: "Joseph will close your eyes"
+       Analysis: ESV/WEB/NET are more explicit about the action (closing the
+       eyes of the dead). KJV/ASV preserve the literal Hebrew. "Joseph will
+       close your eyes" is a tender promise of dying with his son present —
+       rendered consistently across all translations.
 
-v.26 — KJV: "threescore and six" / ESV: "sixty-six" — Both mean 66. The
-       KJV uses archaic "threescore" (3 x 20); the ESV uses the numeral.
-       Adding Jacob, Joseph, and Joseph's two sons = 70. Stephen says 75
-       (Acts 7:14), following the LXX.
+v.26 — Hebrew "shishim vashesh" — sixty-six.
+       KJV: "threescore and six"
+       ESV: "sixty-six"
+       ASV: "threescore and six"
+       NET: "sixty-six persons"
+       WEB: "sixty-six"
+       Analysis: KJV/ASV use archaic "threescore" (3 x 20); ESV/NET/WEB use
+       the numeral. Adding Jacob, Joseph, and Joseph's two sons = 70. Stephen
+       says 75 (Acts 7:14), following the LXX which includes additional
+       descendants.
 
-v.34 — KJV: "every shepherd is an abomination unto the Egyptians" / ESV:
-       "every shepherd is an abomination to the Egyptians" — Both identical.
-       The Egyptians despised shepherds. This cultural prejudice
-       providentially keeps Israel separate in Goshen.
+v.27 — Hebrew "shiv'im nefesh" — seventy souls.
+       KJV: "all the souls of the house of Jacob...were threescore and ten"
+       ESV: "All the persons of the house of Jacob who came into Egypt were seventy"
+       ASV: "all the souls of the house of Jacob, that came into Egypt, were threescore and ten"
+       NET: "All those who went to Egypt with Jacob—his direct descendants, not counting the wives of Jacob's sons—numbered sixty-six persons"
+       WEB: "All the souls of the house of Jacob, who came into Egypt, were seventy"
+       Analysis: NET adds a clarifying parenthetical about which persons are
+       counted, distinguishing the 66 direct descendants from the total of
+       70. The number 70 is significant — 70 nations in Genesis 10, 70
+       elders later appointed (Exodus 24:1).
 
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.3 — NET: "Do not be afraid to go down to Egypt, for I will make you into
-  a great nation there" — same across translations. God's reassurance to
-  Jacob uses the patriarchal promise language.
-- v.4 — NET: "I will go down with you to Egypt and I myself will certainly
-  bring you back from there. Joseph will close your eyes" — "Joseph will
-  close your eyes" is a tender promise of dying with his son present, same
-  across all translations.
-- v.27 — NET: "All those who went to Egypt with Jacob—his direct descendants,
-  not counting the wives of Jacob's sons—numbered sixty-six persons" — NET
-  adds clarifying parenthetical about which persons are counted.
-- v.34 — NET's rendering of the shepherds' social status in Egypt: "all
-  shepherds are disgusting to the Egyptians" — blunter than KJV's "every
-  shepherd is an abomination unto the Egyptians."
+v.34 — Hebrew "to'avat Mitsrayim" — an abomination to the Egyptians.
+       KJV: "every shepherd is an abomination unto the Egyptians"
+       ESV: "every shepherd is an abomination to the Egyptians"
+       ASV: "every shepherd is an abomination unto the Egyptians"
+       NET: "all shepherds are disgusting to the Egyptians"
+       WEB: "every shepherd is an abomination to the Egyptians"
+       Analysis: NET's "disgusting" is blunter than KJV/ESV/ASV/WEB's
+       "abomination." The Egyptians despised shepherds. This cultural
+       prejudice providentially keeps Israel separate in Goshen — preserving
+       their distinct identity and faith.
 
 GLOSSARY
 ------------------------------------

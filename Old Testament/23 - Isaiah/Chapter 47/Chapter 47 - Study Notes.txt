@@ -124,6 +124,20 @@ Astrologers/Stargazers — Babylon's famous diviners who charted
               accumulated astrological knowledge, they couldn't
               predict Babylon's fall.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.4 — ASV: "Our Redeemer, Jehovah of hosts is his name" / WEB: "Our Redeemer, Yahweh of Armies is his name" / NET: "says our Protector—the Lord of Heaven's Armies is his name" — NET translates Hebrew "go'el" (kinsman-redeemer) as "Protector," losing the rich legal/familial concept of the kinsman who redeems. ASV/WEB preserve "Redeemer." The divine name differs characteristically across all three.
+
+- v.3 — NET: "I will get revenge; I will not have pity on anyone" / KJV: "I will take vengeance, and I will not meet thee as a man" — The KJV rendering is obscure; NET clarifies the sense but the Hebrew is genuinely difficult. ASV: "will spare no man." WEB: "will spare no one."
+
+- v.5 — NET: "Queen of kingdoms" / KJV: "The lady of kingdoms" / ASV/WEB: "The mistress of kingdoms" — Three different English words for Hebrew "geveret." NET's "Queen" is the most elevated; "mistress" (ASV/WEB) captures the dominion aspect.
+
+- v.8 — NET: "I am unique! No one can compare to me!" / KJV: "I am, and none else beside me" / WEB: "I am, and there is no one else besides me" — NET completely paraphrases Babylon's self-deification. The Hebrew "ani ve'afsi od" echoes God's own declaration (45:5-6). KJV/ASV/WEB preserve this blasphemous echo; NET obscures it.
+
+- v.9 — NET: "despite your many incantations and your numerous amulets" / KJV: "for the multitude of thy sorceries, and for the great abundance of thine enchantments" — NET renders Hebrew "keshaph" as "incantations" and "cheber" as "amulets" (physical objects), while KJV uses the broader "sorceries" and "enchantments."
+
+- v.11 — NET: "you will not know how to charm it away... you will not be able to appease it" / KJV: "thou shalt not know from whence it riseth... thou shalt not be able to put it off" — NET interprets the Hebrew verbs as magical terminology (charm, appease), making explicit the connection to Babylon's occult reliance.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "I shall be a lady forever" (v.7). Every empire, institution,

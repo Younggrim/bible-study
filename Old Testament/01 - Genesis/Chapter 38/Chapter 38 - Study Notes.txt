@@ -85,46 +85,82 @@ Charles Spurgeon:
   sold Joseph to the brother who will offer himself for Benjamin (44:33).
   Confession is the doorway to change."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.8  — KJV: "raise up seed to thy brother" / ESV: "raise up offspring for
-       your brother" — ESV modernizes "seed" to "offspring." The levirate
-       duty: a brother marries his deceased brother's widow to produce an
-       heir in the dead brother's name. Later codified in Deuteronomy 25:5-6.
+v.2  — Hebrew "vayyiqqach... vayyavo eleha" — he took her... and went in to her.
+       KJV: "he took her, and went in unto her"
+       ESV: "he took her and went in to her"
+       ASV: "took her, and went in unto her"
+       NET: "Judah acquired her as a wife and slept with her"
+       WEB: "He took her, and went in to her"
+       Analysis: KJV/ESV/ASV/WEB retain the Hebrew euphemism "went in to."
+       NET renders it directly with "slept with her" for modern clarity.
 
-v.18 — KJV: "signet, bracelets, and staff" / ESV: "your signet and your
-       cord and your staff" — KJV "bracelets" vs. ESV "cord" — Hebrew
-       "pathil" means cord or thread (used to hang the signet). ESV is more
-       precise. Personal identification items — unmistakable proof of
-       identity.
+v.8  — Hebrew "yabbem" — perform levirate duty.
+       KJV: "raise up seed to thy brother"
+       ESV: "raise up offspring for your brother"
+       ASV: "raise up seed to thy brother"
+       NET: "fulfill the duty of a brother-in-law to her"
+       WEB: "raise up seed to your brother"
+       Analysis: ESV modernizes KJV/ASV's "seed" to "offspring." NET explains
+       the levirate obligation directly rather than using the Hebrew idiom.
+       The levirate duty: a brother marries his deceased brother's widow to
+       produce an heir in the dead brother's name. Later codified in
+       Deuteronomy 25:5-6.
 
-v.24 — KJV: "let her be burnt" / ESV: "let her be burned" — Both equivalent.
-       Judah demands the harshest punishment for Tamar while guilty of the
-       same sin himself. The height of hypocrisy.
+v.9  — Hebrew "shichet artsah" — wasted/spilled on the ground.
+       KJV: "spilled it on the ground"
+       ESV: "would waste the semen on the ground"
+       ASV: "spilled it on the ground"
+       NET: "he wasted his emission on the ground so as not to give his
+            brother a descendant"
+       WEB: "spilled it on the ground"
+       Analysis: KJV/ASV/WEB use the euphemistic "spilled it." ESV is more
+       explicit with "semen." NET is clinically direct and adds the motive
+       clause explicitly. Onan's refusal was deliberate defiance of his
+       obligation to his dead brother.
 
-v.26 — KJV: "She hath been more righteous than I" / ESV: "She is more
-       righteous than I" — Both equivalent. Hebrew "tsadqah mimmenni."
+v.18 — Hebrew "chotham, pethilim, matteh" — signet, cord, staff.
+       KJV: "signet, bracelets, and staff"
+       ESV: "your signet and your cord and your staff"
+       ASV: "thy signet and thy cord, and thy staff"
+       NET: "your seal, your cord, and your staff"
+       WEB: "your signet and your cord and your staff"
+       Analysis: KJV "bracelets" is inaccurate — Hebrew "pathil" means cord
+       or thread (used to hang the signet). ESV/ASV/NET/WEB correctly render
+       "cord." NET uses "seal" for "signet." Personal identification items —
+       unmistakable proof of identity.
+
+v.24 — Hebrew "hotsi'uha vetissareph" — bring her out and let her be burned.
+       KJV: "let her be burnt"
+       ESV: "let her be burned"
+       ASV: "let her be burnt"
+       NET: "bring her out and let her be burned"
+       WEB: "let her be burned"
+       Analysis: All equivalent. Judah demands the harshest punishment for
+       Tamar while guilty of the same sin himself. The height of hypocrisy.
+
+v.26 — Hebrew "tsadqah mimmenni" — she is more righteous than I.
+       KJV: "She hath been more righteous than I"
+       ESV: "She is more righteous than I"
+       ASV: "She is more righteous than I"
+       NET: "She is more upright than I am"
+       WEB: "She is more righteous than I"
+       Analysis: KJV/ESV/ASV/WEB all use "righteous." NET renders "upright"
+       — conveying moral standing without full "righteousness" connotations.
        Tamar acted to secure her legal rights (denied by Judah); Judah acted
        from lust. Neither is blameless, but Tamar had more justification.
 
-v.29 — KJV: "Pharez" / ESV: "Perez" — ESV uses the Hebrew form directly.
-       Hebrew "Perets" — breach, breaking through. He "broke through" ahead
-       of his twin. Through Perez: Boaz → David → Christ.
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "Judah acquired her as a wife and slept with her" — direct
-  modern rendering. WEB: "He took her, and went in to her." ASV: "took her,
-  and went in unto her" — retaining the Hebrew euphemism.
-- v.8 — NET: "fulfill the duty of a brother-in-law to her" — explains the
-  levirate obligation directly, where KJV uses "perform the duty of an
-  husband's brother" and ASV similarly.
-- v.9 — NET: "he wasted his emission on the ground so as not to give his
-  brother a descendant" — clinically explicit where KJV uses "spilled it on
-  the ground" and ESV "would waste the semen on the ground."
-- v.26 — NET: "She is more upright than I am" — renders Judah's confession
-  about Tamar (KJV: "She hath been more righteous than I"). NET's "upright"
-  conveys moral standing without full "righteousness" connotations.
+v.29 — Hebrew "Perets" — breach, breaking through.
+       KJV: "Pharez"
+       ESV: "Perez"
+       ASV: "Perez"
+       NET: "Perez"
+       WEB: "Perez"
+       Analysis: KJV uses the Anglicized form "Pharez"; ESV/ASV/NET/WEB use
+       the Hebrew form "Perez" directly. Hebrew "Perets" — breach, breaking
+       through. He "broke through" ahead of his twin. Through Perez:
+       Boaz → David → Christ.
 
 GLOSSARY
 ------------------------------------

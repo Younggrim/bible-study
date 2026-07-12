@@ -207,79 +207,85 @@ Charles Spurgeon:
   every claim. But because GOD is faithful. 'For I am the LORD their God.'
   That is enough. His character guarantees their survival."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "no idols nor graven image, neither rear you up a standing
-       image, neither shall ye set up any image of stone" / ESV: "no idols
-       for yourselves or erect an image or pillar, and you shall not set
-       up a figured stone" — Hebrew uses four terms: "elilim" (worthless
-       things/idols), "pesel" (carved image), "matzevah" (standing stone/
-       pillar), "even maskit" (figured/carved stone). Four terms cover
-       every possible form of idol — carved, erected, or engraved.
+v.1  — Hebrew "elilim," "pesel," "matzevah," "even maskit" — four terms for idols.
+       KJV: "no idols nor graven image, neither rear you up a standing image, neither shall ye set up any image of stone"
+       ESV: "no idols for yourselves or erect an image or pillar, and you shall not set up a figured stone"
+       ASV: "a figured stone in your land, to bow down unto it"
+       NET: "a sculpted stone in your land to bow down before it"
+       Analysis: Four terms cover every possible form of idol — carved, erected, or engraved. NET's "sculpted stone" (Hebrew "even maskit") clarifies this is a stone with carved images used for worship, not just any carved stone. Different from the "graven image" ("pesel") also mentioned.
 
-v.6  — KJV: "I will rid evil beasts out of the land" / ESV: "I will
-       remove harmful beasts from the land" — Hebrew "v'hishbatti chayyah
-       ra'ah" — I will cause evil/harmful beasts to cease. Some interpret
-       this as removal; others as making them harmless. Either way, the
-       land is safe.
+v.6  — Hebrew "v'hishbatti chayyah ra'ah" — I will cause evil beasts to cease.
+       KJV: "I will rid evil beasts out of the land"
+       ESV: "I will remove harmful beasts from the land"
+       ASV: "I will give peace in the land"
+       NET: "I will grant peace in the land"
+       WEB: "I will give peace in the land"
+       Analysis: Some interpret this as removal; others as making them harmless. Either way, the land is safe. Hebrew "shalom" — wholeness, completeness, well-being, not merely absence of war. NET uses "grant" to emphasize this is a divine gift, not a natural state.
 
-v.11 — KJV: "I will set my tabernacle among you" / ESV: "I will make my
-       dwelling among you" — Hebrew "v'natatti mishkani b'tokhekhem" — I
-       will give/place my dwelling in your midst. "Mishkan" (dwelling/
-       tabernacle) is from "shakan" (to dwell) — the same root as
-       "Shekinah" (God's dwelling presence). This is the supreme blessing:
-       not things FROM God but God HIMSELF.
+v.11 — Hebrew "v'natatti mishkani b'tokhekhem" — I will give/place my dwelling in your midst.
+       KJV: "I will set my tabernacle among you"
+       ESV: "I will make my dwelling among you"
+       Analysis: "Mishkan" (dwelling/tabernacle) is from "shakan" (to dwell) — the same root as "Shekinah" (God's dwelling presence). This is the supreme blessing: not things FROM God but God HIMSELF.
 
-v.13 — KJV: "made you go upright" / ESV: "made you walk erect" — Hebrew
-       "va'olekh etkhem qomemiyyut" — I caused you to walk in uprightness/
-       erectness. The image: slaves walk bent under their burden; free
-       people walk tall. God broke the yoke and restored their dignity.
+v.12 — Hebrew covenant formula — "I will be your God and you shall be my people."
+       KJV: "I will walk among you, and will be your God, and ye shall be my people"
+       ESV: "And I will walk among you and will be your God, and you shall be my people"
+       ASV: "I will walk among you, and will be your God, and ye shall be my people"
+       NET: "I will walk among you, and I will be your God and you will be my people"
+       Analysis: All translations preserve this covenant formula verbatim. The promise of divine presence is the summit of covenant blessing — quoted in 2 Corinthians 6:16 and Revelation 21:3.
 
-v.16 — KJV: "terror, consumption, and the burning ague" / ESV: "panic,
-       with wasting disease and fever" — Hebrew "behalah" (sudden terror/
-       panic), "shachepheth" (consumption/wasting), "qaddachat" (burning
-       fever). KJV's "ague" is archaic for fever with chills. ESV
-       modernizes all three terms.
+v.13 — Hebrew "va'olekh etkhem qomemiyyut" — I caused you to walk in uprightness.
+       KJV: "made you go upright"
+       ESV: "made you walk erect"
+       Analysis: The image: slaves walk bent under their burden; free people walk tall. God broke the yoke and restored their dignity.
 
-v.19 — KJV: "I will make your heaven as iron, and your earth as brass" /
+v.16 — Hebrew "behalah," "shachepheth," "qaddachat" — terror, wasting, fever.
+       KJV: "terror, consumption, and the burning ague"
+       ESV: "panic, with wasting disease and fever"
+       NET: "I will set my face against you"
+       Analysis: KJV's "ague" is archaic for fever with chills. ESV modernizes all three terms. NET's "set my face against" (Hebrew "panai bakhem") is the opposite of the priestly blessing "the LORD lift up His face upon you" (Num 6:26). God's face can be blessing or judgment.
+
+v.19 — Hebrew metaphor — iron sky and bronze earth.
+       KJV: "I will make your heaven as iron, and your earth as brass"
        ESV: "I will make your heavens like iron and your earth like bronze"
-       — Powerful metaphor: iron sky = no rain falls through it; bronze
-       earth = nothing grows from it. Complete agricultural failure. The
-       reversal of the blessing in v.4.
+       Analysis: Powerful metaphor: iron sky = no rain falls through it; bronze earth = nothing grows from it. Complete agricultural failure. The reversal of the blessing in v.4.
 
-v.25 — KJV: "that shall avenge the quarrel of my covenant" / ESV: "that
-       shall execute vengeance for the covenant" — Hebrew "noqemet neqam
-       berit" — avenging the vengeance of the covenant. KJV's "quarrel"
-       is archaic for "cause" or "dispute." The sword comes because the
-       covenant has been violated — God's justice demands satisfaction.
+v.25 — Hebrew "noqemet neqam berit" — avenging the vengeance of the covenant.
+       KJV: "that shall avenge the quarrel of my covenant"
+       ESV: "that shall execute vengeance for the covenant"
+       Analysis: KJV's "quarrel" is archaic for "cause" or "dispute." The sword comes because the covenant has been violated — God's justice demands satisfaction.
 
-v.34 — KJV: "Then shall the land enjoy her sabbaths" / ESV: "Then the
-       land shall enjoy its Sabbaths" — Hebrew "az tirtzeh ha-aretz et
-       shabtoteha" — then the land shall be pleased with/enjoy its
-       sabbaths. The land is personified as finally receiving the rest it
-       was denied. 2 Chronicles 36:21 explicitly connects the 70-year
-       Babylonian exile to this verse.
+v.34 — Hebrew "az tirtzeh ha-aretz et shabtoteha" — then the land shall enjoy its sabbaths.
+       KJV: "Then shall the land enjoy her sabbaths"
+       ESV: "Then the land shall enjoy its Sabbaths"
+       ASV: "Then shall the land enjoy its sabbaths"
+       NET: "Then the land will make up for its Sabbaths"
+       WEB: "Then the land will enjoy its Sabbaths"
+       Analysis: The land is personified as finally receiving the rest it was denied. NET's "make up for" captures the compensatory nature: the land will recover the Sabbath years Israel refused to give it. 2 Chronicles 36:21 explicitly connects the 70-year Babylonian exile to this verse.
 
-v.40 — KJV: "If they shall confess their iniquity" / ESV: "But if they
-       confess their iniquity" — Hebrew "v'hitvaddu et avonam" — and they
-       shall confess their iniquity. "Hitvaddu" is from "yadah" (to
-       confess, acknowledge, praise). Confession is the first step of
-       restoration — acknowledging the truth about their sin.
+v.40 — Hebrew "v'hitvaddu et avonam" — and they shall confess their iniquity.
+       KJV: "If they shall confess their iniquity"
+       ESV: "But if they confess their iniquity"
+       Analysis: "Hitvaddu" is from "yadah" (to confess, acknowledge, praise). Confession is the first step of restoration — acknowledging the truth about their sin.
 
-v.41 — KJV: "their uncircumcised hearts be humbled" / ESV: "their
-       uncircumcised heart is humbled" — Hebrew "levavam he-arel" — their
-       foreskinned/uncircumcised heart. The physical sign of the covenant
-       (circumcision) has an inward reality: the heart must be "circumcised"
-       — stripped of its hardness and resistance to God (Deuteronomy 10:16;
-       30:6; Jeremiah 4:4; Romans 2:28-29).
+v.41 — Hebrew "levavam he-arel" — their uncircumcised heart.
+       KJV: "their uncircumcised hearts be humbled"
+       ESV: "their uncircumcised heart is humbled"
+       Analysis: The physical sign of the covenant (circumcision) has an inward reality: the heart must be "circumcised" — stripped of its hardness and resistance to God (Deuteronomy 10:16; 30:6; Jeremiah 4:4; Romans 2:28-29).
 
-v.44 — KJV: "I will not cast them away, neither will I abhor them, to
-       destroy them utterly, and to break my covenant" / ESV: "I will not
-       spurn them, neither will I abhor them so as to destroy them utterly
-       and break my covenant" — Hebrew "lo m'astim v'lo g'altim l'khalotam
-       l'hafer briti." Four negatives: not reject, not abhor, not destroy
-       utterly, not break covenant. Emphatic and absolute. God's covenant
-       faithfulness is unconditional even when Israel's obedience is not.
+v.42 — Hebrew patriarchs listed in reverse order — Jacob, Isaac, Abraham.
+       KJV: "I will remember my covenant with Jacob, and also my covenant with Isaac, and also my covenant with Abraham"
+       ESV: "then I will remember my covenant with Jacob, and I will remember my covenant with Isaac and my covenant with Abraham"
+       ASV: "then will I remember my covenant with Jacob; and also my covenant with Isaac, and also my covenant with Abraham will I remember"
+       NET: "I will remember my covenant with Jacob, my covenant with Isaac, and my covenant with Abraham"
+       Analysis: The patriarchs are listed in reverse chronological order — moving backward through history to the original promises. God's memory of covenant is His commitment to act on it.
+
+v.44 — Hebrew four negatives — emphatic and absolute.
+       KJV: "I will not cast them away, neither will I abhor them, to destroy them utterly, and to break my covenant"
+       ESV: "I will not spurn them, neither will I abhor them so as to destroy them utterly and break my covenant"
+       Analysis: "Lo m'astim v'lo g'altim l'khalotam l'hafer briti." Four negatives: not reject, not abhor, not destroy utterly, not break covenant. Emphatic and absolute. God's covenant faithfulness is unconditional even when Israel's obedience is not.
 
 GLOSSARY
 ------------------------------------

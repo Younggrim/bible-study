@@ -306,6 +306,20 @@ Rock of Rimmon — The stronghold where 600 Benjamite survivors hid for
                tribe — God's providence ensuring that no tribe is
                permanently lost, despite human excess.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.2 — ASV: "the people came to Beth-el, and sat there till even before God, and lifted up their voices, and wept sore" / NET: "So the people came to Bethel and sat there before God until evening, weeping loudly and uncontrollably" — NET adds "uncontrollably" (not in Hebrew). Hebrew "vayyis'u qolam vayyivku b'khi gadol" = they lifted their voice and wept a great weeping. The corporate grief is genuine but ironic — they weep over consequences they created through their own excessive violence.
+
+- v.6 — ASV: "the children of Israel repented them for Benjamin" / WEB: "The children of Israel grieved for Benjamin their brother" / NET: "The Israelites regretted what had happened to their brother Benjamin" — Hebrew "vayyinnachamu" (from nacham = to be sorry, repent, console oneself). ASV's "repented" implies deeper moral reflection; NET's "regretted" and WEB's "grieved" suggest emotional response without moral change. The same root describes God's compassion in 2:18.
+
+- v.11 — ASV: "ye shall utterly destroy every male, and every woman that hath lain by man" / NET: "Exterminate every male, as well as every woman who has experienced a man's bed. But spare the lives of any virgins" — Hebrew "herem" language — "hacharim." This is the vocabulary of holy war (devoted destruction) applied to a fellow Israelite city. NET adds "But spare the lives of any virgins" — not in the Hebrew at this point (it's implied from v.12). The application of cherem against fellow Israelites marks the complete moral collapse of the period.
+
+- v.21 — ASV: "come ye out of the vineyards, and catch you every man his wife of the daughters of Shiloh" / NET: "jump out from the vineyards. Each one of you, catch yourself a wife from among the daughters of Shiloh" — Hebrew "vachataphtem" = seize/snatch/carry off. NET's "catch yourself a wife" is more colloquial. The institutional sanctioning of bride-kidnapping from a religious festival reveals how far Israel has fallen — they solve one injustice (oath-breaking) with another (abduction).
+
+- v.25 — ASV: "In those days there was no king in Israel: every man did that which was right in his own eyes" / NET: "In those days Israel had no king. Each man did what he considered to be right" — The book's final and most devastating statement. ASV/WEB/KJV preserve the iconic phrasing "right in his own eyes." NET's "what he considered to be right" loses the visual/moral metaphor. This refrain frames the entire book (17:6, 18:1, 19:1, 21:25) and points forward to the monarchy — and ultimately to Christ as the righteous King.
+
+- v.15 — ASV: "Jehovah had made a breach in the tribes of Israel" / WEB: "Yahweh had made a breach in the tribes of Israel" / NET: "the Lord had weakened the Israelite tribes" — Hebrew "parets" = breach/gap. ASV/WEB retain the architectural metaphor — God made a breach (gap) in the tribal structure. NET's "weakened" loses the imagery. The "breach" acknowledges divine sovereignty even in civil war — God permitted the near-annihilation of Benjamin as judgment.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Rash oaths create impossible situations (vv.1,7). Israel swore in

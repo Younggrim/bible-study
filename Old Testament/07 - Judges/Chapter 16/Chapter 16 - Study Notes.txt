@@ -210,6 +210,20 @@ Nazirite Hair  — The uncut hair was the visible sign of Samson's
                relationship. When the symbol was removed, it revealed
                that the relationship had already been compromised.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.7 — ASV: "seven green withes that were never dried" / NET: "seven fresh bowstrings that have not been dried" / WEB: "seven green withes that were never dried" — Hebrew "y'tarim lachim" = fresh/moist cords (likely from animal sinew or plant fiber). ASV/WEB retain archaic "withes" (flexible twigs/cords); NET specifies "bowstrings." The exact material is uncertain — but the point is that fresh (undried) cords are stronger than dried ones.
+
+- v.17 — ASV: "I have been a Nazirite unto God from my mother's womb" / NET: "I have been dedicated to God from the time I was conceived" — NET again replaces "Nazirite" with "dedicated to God" (as in 13:5), losing the specific vow terminology. The Nazirite identity — with its specific prohibitions — is the framework for understanding Samson's entire life of violation.
+
+- v.20 — ASV: "he knew not that Jehovah was departed from him" / WEB: "he didn't know that Yahweh had departed from him" / NET: "he did not realize that the Lord had left him" — All translations preserve this devastating statement. The divine name is used — it is specifically the covenant God (Jehovah/Yahweh/the LORD) who departs. Not merely "power" but the Person leaves.
+
+- v.25 — ASV: "he made sport before them" / WEB: "he entertained them" / NET: "he entertained them" — Hebrew "vay'tsacheg liph'neyhem" = he performed/played before them. ASV's "made sport" retains the humiliation — the mighty judge reduced to a performing fool for Philistine entertainment. The verb "tsachaq" (play/laugh/make sport) carries overtones of mockery.
+
+- v.28 — ASV: "O Lord Jehovah, remember me, I pray thee, and strengthen me, I pray thee, only this once, O God" / NET: "O Sovereign Lord, remember me! Strengthen me just one more time, O God" — Samson's final prayer uses three divine titles: "Adonai" (Lord/Sovereign), "Yahweh/Jehovah" (covenant name), and "Elohim" (God). This accumulation suggests desperate intensity. NET's "Sovereign Lord" for "Adonai Yahweh" is interpretive but captures the plea for divine authority.
+
+- v.23 — ASV: "to offer a great sacrifice unto Dagon their god" / NET: "to offer a great sacrifice to Dagon their god" — "Dagon" — the chief Philistine deity (grain/fish god). The Philistines attribute Samson's capture to Dagon rather than to the LORD's departure (v.20). The theological irony: it was YHWH who left Samson, not Dagon who defeated him.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "He wist not that the LORD was departed" (v.20). The most dangerous

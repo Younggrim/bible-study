@@ -115,51 +115,71 @@ Charles Spurgeon:
   hands? They picture the cross itself — where God's blessing comes not by
   human arrangement but by divine reversal."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "Israel strengthened himself" / ESV: "Israel summoned his
-       strength" — Hebrew "vayitchazzeq" — he gathered his strength. The
-       ESV's "summoned his strength" is more vivid. A dying man rallying
-       for a final, crucial act.
+v.2  — Hebrew "vayitchazzeq" — he gathered his strength.
+       KJV: "Israel strengthened himself"
+       ESV: "Israel summoned his strength"
+       ASV: "Israel strengthened himself"
+       NET: "Israel regained strength"
+       WEB: "Israel strengthened himself"
+       Analysis: The ESV's "summoned his strength" is the most vivid. A
+       dying man rallying for a final, crucial act. All convey the same
+       deliberate effort.
 
-v.14 — KJV: "guiding his hands wittingly" / ESV: "crossing his hands" —
-       Hebrew "sikkel" — to act prudently, with insight, deliberately. The
-       ESV describes the physical action ("crossing"); the KJV describes the
-       intent ("wittingly" = deliberately). This is not a mistake — Jacob
-       knows exactly what he is doing.
+v.3  — Hebrew "El Shaddai" — God Almighty / the All-Sufficient God.
+       KJV: "God Almighty"
+       ESV: "God Almighty"
+       ASV: "God Almighty"
+       NET: "The Sovereign God"
+       WEB: "God Almighty"
+       Analysis: NET renders "El Shaddai" as "Sovereign God" (consistent
+       throughout NET's Genesis), emphasizing authority. All others retain
+       "God Almighty," the traditional rendering. Both capture God's
+       all-sufficient power in making promises.
 
-v.15 — KJV: "the God which fed me" / ESV: "the God who has been my
-       shepherd" — Hebrew "haro'eh oti" — literally "the God who shepherded
-       me." The ESV captures the shepherd metaphor directly; the KJV's "fed"
-       is one aspect of shepherding. God as personal caretaker.
+v.14 — Hebrew "sikkel" — to act prudently, with insight, deliberately.
+       KJV: "guiding his hands wittingly"
+       ESV: "crossing his hands"
+       ASV: "guiding his hands wittingly"
+       NET: "Israel stretched out his right hand and placed it on Ephraim's head"
+       WEB: "Israel stretched out his right hand, and laid it on Ephraim's head"
+       Analysis: The ESV describes the physical action ("crossing"); the KJV
+       describes the intent ("wittingly" = deliberately). NET and WEB describe
+       the result without using the Hebrew "sikkel" directly. This is not a
+       mistake — Jacob knows exactly what he is doing.
 
-v.16 — KJV: "The Angel which redeemed me" / ESV: "the angel who has
-       redeemed me" — Hebrew "hammal'akh haggo'el" — the Angel, the
-       Redeemer. Both equivalent. "Go'el" = kinsman-redeemer. Jacob equates
-       this Angel with God — the pre-incarnate Christ.
+v.15 — Hebrew "haro'eh oti" — literally "the God who shepherded me."
+       KJV: "the God which fed me"
+       ESV: "the God who has been my shepherd"
+       ASV: "the God who hath fed me"
+       NET: "the God who has been my shepherd"
+       WEB: "the God who has fed me"
+       Analysis: The ESV and NET capture the shepherd metaphor directly; the
+       KJV, ASV, and WEB render it as "fed" — one aspect of shepherding. God
+       as personal caretaker throughout all of Jacob's life.
 
-v.22 — KJV: "one portion above thy brethren" / ESV: "one mountain slope...
-       over your brothers" — Hebrew "shechem echad" — one "shechem." The KJV
-       translates as "portion"; the ESV translates as "mountain slope"
-       (shechem can mean shoulder/slope). Both also see a wordplay with the
-       city of Shechem.
+v.16 — Hebrew "hammal'akh haggo'el" — the Angel, the Redeemer.
+       KJV: "The Angel which redeemed me from all evil"
+       ESV: "the angel who has redeemed me from all evil"
+       ASV: "the angel who hath redeemed me from all evil"
+       NET: "the angel who has protected me from all harm"
+       WEB: "the angel who has redeemed me from all evil"
+       Analysis: NET alone renders "haggo'el" (the kinsman-redeemer) as
+       "protected" rather than "redeemed," softening the theological force.
+       KJV, ESV, ASV, and WEB preserve "redeemed" — the go'el concept. Jacob
+       equates this Angel with God — the pre-incarnate Christ.
 
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.3 — NET: "The Sovereign God appeared to me at Luz" — renders "El Shaddai"
-  as "Sovereign God" (consistent throughout NET's Genesis). WEB: "God
-  Almighty appeared to me."
-- v.5 — NET: "they will be mine. Ephraim and Manasseh will be mine just as
-  Reuben and Simeon are" — all translations agree on the adoption language.
-  Jacob elevates Joseph's sons to tribal status.
-- v.14 — NET: "Israel stretched out his right hand and placed it on Ephraim's
-  head" — the crossing of hands is rendered identically across translations.
-  ASV: "Israel stretched out his right hand, and laid it upon Ephraim's
-  head, who was the younger."
-- v.16 — NET: "the angel who has protected me from all harm" — renders Hebrew
-  "ha-mal'ak ha-go'el" (the angel who redeems/delivers) as "has protected
-  from all harm." KJV: "the Angel which redeemed me from all evil." WEB:
-  "the angel who has redeemed me from all evil."
+v.22 — Hebrew "shechem echad" — one "shechem."
+       KJV: "one portion above thy brethren"
+       ESV: "one mountain slope... over your brothers"
+       ASV: "one portion above thy brethren"
+       NET: "one portion more than your brothers"
+       WEB: "one portion above your brothers"
+       Analysis: The KJV, ASV, NET, and WEB translate "shechem" as "portion";
+       the ESV translates as "mountain slope" (shechem can mean shoulder/
+       slope). All also see a wordplay with the city of Shechem. The double
+       meaning is intentional.
 
 GLOSSARY
 ------------------------------------

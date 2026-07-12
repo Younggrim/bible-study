@@ -91,54 +91,97 @@ Charles Spurgeon:
   And through Leah (not Rachel) came Judah, and through Judah came Christ.
   God's greatest work often comes through the least loved."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.17 — KJV: "tender eyed" / ESV: "Leah's eyes were weak" — Hebrew "rakkoth"
-       — soft, delicate. KJV's "tender" is ambiguous (could be positive);
-       ESV's "weak" interprets it as a deficiency contrasted with Rachel's
-       beauty. Could mean weak/dull eyes (less attractive) or gentle/lovely
-       eyes.
+v.14 — Hebrew "atsmi ubesari" — my bone and my flesh (kinship expression).
+       KJV: "thou art my bone and my flesh"
+       ESV: "you are my bone and my flesh"
+       ASV: "thou art my bone and my flesh"
+       NET: "You are indeed my own flesh and blood"
+       WEB: "Surely you are my bone and my flesh"
+       Analysis: NET renders the Hebrew idiomatically as "flesh and blood,"
+       making the kinship connection immediate in modern English. KJV/ESV/ASV
+       retain the literal Hebrew pair "bone and flesh."
 
-v.20 — KJV: "but a few days" / ESV: "but a few days" — Both identical. Seven
-       years felt like days because of love. The power of love to transform
-       the experience of time.
+v.17 — Hebrew "rakkoth" — soft, delicate, tender.
+       KJV: "Leah was tender eyed"
+       ESV: "Leah's eyes were weak"
+       ASV: "Leah's eyes were tender"
+       NET: "Leah's eyes were tender"
+       WEB: "Leah's eyes were weak"
+       Analysis: The meaning of "rakkoth" is debated: soft/gentle (positive)
+       or weak/dull (negative contrast with Rachel's beauty). KJV's "tender"
+       is ambiguous (could be attractive); ESV/WEB's "weak" interprets it as
+       a deficiency. NET/ASV retain the ambiguity with "tender." The word
+       could mean delicate/lovely eyes or dull/unremarkable eyes.
 
-v.25 — KJV: "behold, it was Leah" / ESV: "behold, it was Leah!" — Both
-       equivalent. The morning-after shock. In the dark, under a veil, Jacob
+v.20 — Hebrew "yamim achadim" — a few days.
+       KJV: "they seemed unto him but a few days, for the love he had to her"
+       ESV: "they seemed to him but a few days because of the love he had for her"
+       ASV: "they seemed unto him but a few days, for the love he had to her"
+       NET: "they seemed like only a few days to him because his love for her was so great"
+       WEB: "they seemed to him but a few days, for the love he had for her"
+       Analysis: All translations convey the same beautiful truth — love
+       transforms the experience of time. Seven years felt like days. NET
+       adds interpretive emphasis ("so great") while others let the statement
+       stand simply.
+
+v.25 — Hebrew "vehineh hi Le'ah" — and behold, she was Leah.
+       KJV: "behold, it was Leah"
+       ESV: "behold, it was Leah!"
+       ASV: "behold, it was Leah"
+       NET: "it was Leah!" / "Laban, why have you tricked me?"
+       WEB: "behold, it was Leah"
+       Analysis: The morning-after shock. In the dark, under a veil, Jacob
        couldn't tell. The deceiver deceived by the same method — disguise and
-       darkness.
+       darkness. NET uses "tricked" where KJV/ASV have "beguiled" and ESV has
+       "deceived." The irony is powerful: Jacob who tricked Isaac is now
+       tricked by Laban.
 
-v.31 — KJV: "hated" / ESV: "hated" — Both identical. Hebrew "senuah" —
-       unloved, less loved. Not active hatred but comparative neglect. Leah
-       was the unwanted wife.
+v.31 — Hebrew "senuah" — hated, unloved.
+       KJV: "Leah was hated"
+       ESV: "Leah was hated"
+       ASV: "Leah was hated"
+       NET: "the LORD saw that Leah was unloved"
+       WEB: "Leah was hated"
+       Analysis: Hebrew "senuah" means unloved or less loved — not active
+       hatred but comparative neglect. Most translations retain "hated" for
+       its emotional force. NET softens to "unloved," which captures the
+       comparative sense. Leah was the unwanted wife, yet God saw and opened
+       her womb.
 
-v.32 — KJV: "Reuben" / ESV: "Reuben" — Both identical. Hebrew "Re'uben" —
-       "see, a son" or "he has seen my affliction." Each name reflects Leah's
-       emotional state.
+v.32 — Hebrew "Re'uben" — see, a son / he has seen my affliction.
+       KJV: "Reuben: for she said, Surely the LORD hath looked upon my affliction"
+       ESV: "Reuben, for she said, 'Because the LORD has looked upon my affliction'"
+       ASV: "Reuben; for she said, Because Jehovah hath looked upon my affliction"
+       NET: "Reuben, for she said, 'The LORD has looked with compassion upon my misery'"
+       WEB: "Reuben. For she said, 'Because Yahweh has looked at my affliction'"
+       Analysis: Each name reflects Leah's emotional state. NET's "looked
+       with compassion upon my misery" is more interpretive, adding emotional
+       depth. The divine names differ: KJV/ESV use "LORD," ASV uses
+       "Jehovah," WEB uses "Yahweh."
 
-v.34 — KJV: "joined unto me" / ESV: "attached to me" — Hebrew "lavah" — to
-       join, be attached. ESV's "attached" is more natural in modern English.
-       Leah hoped a third son would bond Jacob to her.
+v.34 — Hebrew "lavah" — to join, be attached.
+       KJV: "now this time will my husband be joined unto me"
+       ESV: "now this time my husband will be attached to me"
+       ASV: "now this time will my husband be joined unto me"
+       NET: "Now this time my husband will show me affection"
+       WEB: "Now this time my husband will be joined to me"
+       Analysis: ESV's "attached" and NET's "show me affection" are more
+       natural in modern English than KJV's "joined unto." Leah hoped a third
+       son would bond Jacob to her. NET interprets the joining as emotional
+       connection rather than merely physical/legal attachment.
 
-v.35 — KJV: "Judah" / ESV: "Judah" — Both identical. Hebrew "Yehudah" —
-       "praise." Leah's fourth son marks a turning point: she stops seeking
+v.35 — Hebrew "Yehudah" — praise.
+       KJV: "Judah; and she said, Now will I praise the LORD"
+       ESV: "Judah, for she said, 'This time I will praise the LORD'"
+       ASV: "Judah; and she said, This time will I praise Jehovah"
+       NET: "Judah, for she said, 'This time I will praise the LORD'"
+       WEB: "Judah. She said, 'This time I will praise Yahweh'"
+       Analysis: Leah's fourth son marks a turning point: she stops seeking
        Jacob's love and starts praising God. Through Judah comes David and
-       Christ.
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.14 — NET: "You are indeed my own flesh and blood" — renders Hebrew
-  "atsmi ubesari" (KJV: "my bone and my flesh") idiomatically as a kinship
-  expression, making the family connection immediate.
-- v.17 — NET: "Leah's eyes were tender, but Rachel had a lovely figure and
-  beautiful appearance" — "tender" for Hebrew "rakkoth" (KJV: "tender" / ESV:
-  "weak"). The meaning is debated: soft/gentle (positive) or weak/dull
-  (negative). NET retains the ambiguity.
-- v.20 — NET: "they seemed like only a few days to him because his love for
-  her was so great" — same beautiful rendering found across translations.
-- v.25 — NET: "Laban, why have you tricked me?" — uses "tricked" where
-  KJV/ASV have "beguiled" and ESV has "deceived." The irony: the deceiver
-  Jacob is now deceived.
+       Christ. The shift from seeking human validation to divine praise is
+       theologically profound. All translations capture this turning point.
 
 GLOSSARY
 ------------------------------------

@@ -240,6 +240,15 @@ Terebinth (elah) — A large, long-lived tree common in Canaan. Often
                was likely ancient and well-known — a landmark for
                covenant ceremonies.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.14 — ASV: "Now therefore fear Jehovah, and serve him in sincerity and in truth" / WEB: "Now therefore fear Yahweh, and serve him in sincerity and in truth" / NET: "Now obey the Lord and worship him with integrity and loyalty" — NET renders "fear" (yara) as "obey" and "serve" (avad) as "worship," losing both the reverent awe of "fear" and the active service of "avad." NET also replaces "sincerity and truth" (tamim ve-emet) with "integrity and loyalty."
+- v.15 — ASV: "choose you this day whom ye will serve...but as for me and my house, we will serve Jehovah" / WEB: "choose today whom you will serve...But as for me and my house, we will serve Yahweh" / NET: "choose today whom you will worship...But I and my family will worship the Lord" — NET replaces "serve" (avad) with "worship." The Hebrew "avad" means to serve/work for — it encompasses all of life, not just acts of worship. Joshua's declaration is about total life-service, not just religious observance.
+- v.19 — ASV: "Ye cannot serve Jehovah; for he is a holy God; he is a jealous God; he will not forgive your transgression nor your sins" / NET: "You will not keep worshiping the Lord, for he is a holy God. He is a jealous God who will not forgive your rebellion or your sins" — NET softens "ye cannot serve" (lo tukh'lu — you are unable) to "you will not keep worshiping" (future prediction). Joshua's statement is stronger: you are incapable without divine grace. Also, NET changes "transgression" (pesha — rebellion) to "rebellion" — actually accurate here.
+- v.23 — ASV: "put away the foreign gods which are among you, and incline your heart unto Jehovah, the God of Israel" / NET: "Now put aside the foreign gods that are among you and submit to the Lord God of Israel" — ASV's "incline your heart" (Hebrew "natah" — to stretch, bend, incline) is a beautiful image of the will being drawn toward God. NET's "submit" captures obedience but loses the internal, voluntary drawing of the heart.
+- v.25 — ASV: "So Joshua made a covenant with the people that day, and set them a statute and an ordinance" / NET: "That day Joshua drew up an agreement for the people, and he established rules and regulations" — NET's "agreement, rules and regulations" is modern and contractual. ASV/KJV's "covenant, statute, and ordinance" preserves the sacred-legal vocabulary of Israel's relationship with God (b'rit, choq, mishpat).
+- v.29 — ASV: "Joshua the son of Nun, the servant of Jehovah, died" / WEB: "Joshua the son of Nun, the servant of Yahweh, died" / NET: "Joshua son of Nun, the Lord's servant, died" — Joshua's final title matches Moses' ("servant of YHWH"). The divine name in ASV/WEB makes this honorific more personal and weighty than NET's "the Lord's servant."
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "Choose you this day whom ye will serve" (v.15). The most urgent

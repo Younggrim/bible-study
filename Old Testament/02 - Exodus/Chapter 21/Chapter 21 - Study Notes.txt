@@ -102,46 +102,119 @@ Charles Spurgeon:
   as the willing Servant. 'Lo, I come to do thy will, O God' (Hebrews 10:9).
   He serves us forever — not by compulsion but by love."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "judgments" / ESV: "rules" — Hebrew "mishpatim" — judicial
-       decisions, case laws, ordinances. The KJV "judgments" captures the
-       legal/judicial sense; the ESV "rules" is more accessible but loses
-       the courtroom connotation. These are legal precedents for specific
-       situations.
+v.1  — Hebrew "mishpatim" — judicial decisions, case laws, ordinances.
+       KJV: "judgments"
+       ESV: "rules"
+       ASV: "ordinances"
+       NET: "ordinances"
+       WEB: "ordinances"
+       Analysis: The KJV "judgments" captures the legal/judicial sense. The
+       ESV "rules" is more accessible but loses the courtroom connotation.
+       ASV/WEB/NET all use "ordinances," preserving the formal, judicial
+       character of these case laws better than the ESV's more casual "rules."
+       These are legal precedents for specific situations.
 
-v.2  — KJV: "Hebrew servant" / ESV: "Hebrew slave" — Hebrew "eved ivri."
-       The KJV uses "servant" throughout; the ESV uses "slave." The Hebrew
-       "eved" covers a range from household servant to chattel slave. Hebrew
-       servitude was debt-bondage with protections and a built-in expiration
-       — fundamentally different from chattel slavery.
+v.2  — Hebrew "eved ivri" — a Hebrew bond-servant/slave.
+       KJV: "Hebrew servant"
+       ESV: "Hebrew slave"
+       ASV: "Hebrew servant"
+       NET: "Hebrew slave"
+       WEB: "Hebrew servant"
+       Analysis: The KJV/ASV/WEB use "servant"; ESV/NET use "slave." The
+       Hebrew "eved" covers a range from household servant to chattel slave.
+       Hebrew servitude was debt-bondage with protections and a built-in
+       expiration — fundamentally different from chattel slavery.
 
-v.6  — KJV: "unto the judges" / ESV: "to God" — Hebrew "el ha'elohim."
-       "Elohim" can mean "God" or "judges/authorities" (as God's
-       representatives). The ESV takes it as "God" (the ceremony is sacred);
-       the KJV takes it as "judges" (the ceremony is legal). Both are valid.
+v.6  — Hebrew "el ha'elohim" — to God / to the judges.
+       KJV: "unto the judges"
+       ESV: "to God"
+       ASV: "bring him unto God"
+       NET: "bring him to the judges"
+       WEB: "bring him to God"
+       Analysis: "Elohim" can mean "God" or "judges/authorities" (as God's
+       representatives). The ESV/ASV/WEB take it as "God" (the ceremony is
+       sacred); the KJV/NET take it as "judges" (the ceremony is legal). The
+       NET emphasizes the legal process; ASV/WEB emphasize the sacred
+       ceremony. Both interpretations are valid.
 
-v.6  — KJV: "aul" / ESV: "awl" — A pointed tool for piercing. The KJV
-       spelling is archaic; the ESV uses the modern spelling.
+v.13 — Hebrew "lo tsadah... ha'elohim innah leyado" — did not lie in wait...
+       God delivered into his hand.
+       KJV: "if a man lie not in wait, but God deliver him into his hand"
+       ESV: "if he did not lie in wait for him, but God let him fall into his hand"
+       ASV: "if a man lie not in wait, but God deliver him into his hand"
+       NET: "if he does not do it with premeditation, but it happens by accident"
+       WEB: "not if it is unintentional, but God allows it to happen"
+       Analysis: The NET paraphrases dynamically, removing the theological
+       element ("God deliver him") in favor of a purely legal distinction
+       ("by accident"). WEB retains God's providential role. ASV follows KJV
+       closely. The NET's rendering loses the profound theological concept
+       that even accidental death is under God's sovereignty.
 
-v.22 — KJV: "her fruit depart from her" / ESV: "her children come out" —
-       Hebrew "veyatze'u yeladeha." KJV's "fruit depart" is euphemistic;
-       ESV's "children come out" is more literal. The key interpretive
-       question: does this describe premature birth (child survives) or
-       miscarriage? The Hebrew "yeled" (child) and the "no harm" clause
-       suggest premature birth with the child surviving.
+v.16 — Hebrew "gonev ish" — one who steals a man (kidnaps).
+       KJV: "he that stealeth a man"
+       ESV: "whoever steals a man"
+       ASV: "he that stealeth a man"
+       NET: "Whoever kidnaps someone"
+       WEB: "Anyone who kidnaps someone"
+       Analysis: NET and WEB modernize with "kidnaps," making the crime
+       immediately recognizable. KJV/ASV retain the literal "stealeth a man,"
+       closer to the Hebrew. All convey the same capital offense.
 
-v.23 — KJV: "mischief" / ESV: "harm" — Hebrew "ason" — serious injury,
-       calamity, fatal harm. The ESV's "harm" is clearer to modern readers
-       than the KJV's archaic "mischief" (which now implies minor trouble).
+v.21 — Hebrew "kaspo hu" — he is his silver/money.
+       KJV: "for he is his money"
+       ESV: "for the slave is his money"
+       ASV: "for he is his money"
+       NET: "for he has suffered the loss"
+       WEB: "for he is his property"
+       Analysis: A theologically sensitive verse. ASV is most literal (Hebrew
+       "kaspo hu" = "he is his silver/money"). WEB softens to "property."
+       NET diverges most, interpreting the loss as the master's financial
+       loss rather than describing the servant as property — a significant
+       interpretive shift.
 
-v.24 — KJV: "Eye for eye" / ESV: "eye for eye" — Hebrew "ayin tachat ayin"
-       — eye in place of eye. The lex talionis (law of retaliation). Both
-       translations are identical. This LIMITS punishment to proportional
-       response — it does not demand literal mutilation but establishes that
-       the penalty must match the crime.
+v.22 — Hebrew "veyatze'u yeladeha" — and her children come out.
+       KJV: "her fruit depart from her"
+       ESV: "her children come out"
+       ASV: "her fruit depart"
+       NET: "her child is born prematurely"
+       WEB: "she gives birth prematurely"
+       Analysis: KJV/ASV use the euphemistic "fruit depart." ESV is more
+       literal ("children come out"). NET and WEB explicitly interpret this
+       as premature birth (child survives). The Hebrew "yeled" (child) and
+       the "no harm" clause suggest premature birth — a major exegetical
+       decision affecting the verse's application to the sanctity of
+       unborn life.
 
-v.32 — KJV/ESV: "thirty shekels of silver" — The standard price of a slave.
+v.23 — Hebrew "ason" — serious injury, calamity, fatal harm.
+       KJV: "mischief"
+       ESV: "harm"
+       ASV: "mischief"
+       NET: "serious injury"
+       WEB: "harm"
+       Analysis: The ESV/WEB "harm" and NET's "serious injury" are clearer to
+       modern readers than the KJV/ASV's archaic "mischief" (which now implies
+       minor trouble rather than the grave harm the Hebrew intends).
+
+v.24 — Hebrew "ayin tachat ayin" — eye in place of eye.
+       KJV: "Eye for eye"
+       ESV: "eye for eye"
+       ASV: "eye for eye"
+       NET: "eye for eye"
+       WEB: "eye for eye"
+       Analysis: All translations are identical. The lex talionis (law of
+       retaliation) LIMITS punishment to proportional response — it does not
+       demand literal mutilation but establishes that the penalty must match
+       the crime.
+
+v.32 — Hebrew "sheloshim sheqalim kesef" — thirty shekels of silver.
+       KJV: "thirty shekels of silver"
+       ESV: "thirty shekels of silver"
+       ASV: "thirty shekels of silver"
+       NET: "thirty shekels of silver"
+       WEB: "thirty shekels of silver"
+       Analysis: All translations agree. The standard price of a slave.
        Prophetically significant: Zechariah 11:12-13 and Matthew 26:15 —
        the price paid for Christ, valuing Him as a slave.
 

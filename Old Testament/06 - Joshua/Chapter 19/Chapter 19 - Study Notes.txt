@@ -158,6 +158,14 @@ Naphtali       — Sixth son of Jacob (by Bilhah). His tribe received
                of the Sea of Galilee. Like Zebulun, associated with
                Christ's ministry in Isaiah 9:1 and Matthew 4:13-16.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — NET: "The second lot belonged to the tribe of Simeon by its clans. Their assigned land was in the middle of Judah's assigned land" / ASV: "the second lot came out for Simeon...their inheritance was in the midst of the inheritance of the children of Judah" — NET uses "assigned land" consistently; ASV/KJV preserve "inheritance" (nachalah). The sacred lot determined God's will for each tribe's inheritance.
+- v.47 — NET: "The Danites failed to conquer their territory, so they went up and fought with Leshem" / KJV: "the coast of the children of Dan went out too little for them...the children of Dan went up to fight against Leshem" / ASV: "the border of the children of Dan went out beyond them" — NET interprets Dan's migration as failure to "conquer"; the Hebrew suggests the territory "went out from them" (was too small). KJV's reading implies Dan's allotment was insufficient, prompting expansion northward.
+- v.49 — NET: "When they finished dividing the land into its regions" / ASV: "when they had made an end of distributing the land for inheritance by their borders" / KJV: "when they had made an end of dividing the land for inheritance" — NET's "regions" vs. KJV/ASV's "inheritance by their borders" — the inheritance language permeates these chapters.
+- v.50 — NET: "As the Lord had instructed, they gave him the city he requested" / ASV: "according to the commandment of Jehovah they gave him the city which he asked" / WEB: "according to Yahweh's commandment they gave him the city which he asked" — The divine name distinction (Jehovah/Yahweh/"the Lord") appears even in recording Joshua's personal inheritance, emphasizing divine authority over all land distribution.
+- v.51 — NET: "These are the land assignments that Eleazar the priest, Joshua son of Nun, and the Israelite tribal leaders made by drawing lots" / ASV: "These are the inheritances, which Eleazar the priest, and Joshua the son of Nun...distributed for inheritance by lot" — NET's "land assignments" vs. ASV/KJV's "inheritances...distributed for inheritance" — the summation verse uses "nachalah" twice in Hebrew, emphasizing that all land is divine inheritance.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Joshua takes last (vv.49-50). The leader who could have claimed first

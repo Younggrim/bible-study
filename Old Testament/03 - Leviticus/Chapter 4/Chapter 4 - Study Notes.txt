@@ -122,46 +122,111 @@ Enduring Word (David Guzik):
 
 Charles Spurgeon:
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2 — KJV: "sin through ignorance" / ESV: "sins unintentionally" — Hebrew
- "bishgagah" — from "shagag" (to go astray, to err). Not deliberate
- rebellion but inadvertent transgression. The sin is real even though
- unintended.
+v.2  — Hebrew "bishgagah" — from "shagag" (to go astray, to err).
+       KJV: "sin through ignorance"
+       ESV: "sins unintentionally"
+       ASV: "sin unwittingly"
+       NET: "sins by straying unintentionally"
+       WEB: "sins unintentionally"
+       Analysis: NET's "straying unintentionally" captures both the
+       accidental nature and the wandering imagery. KJV's "ignorance" is
+       slightly misleading — the sin is unintentional, not necessarily
+       unknown. Not deliberate rebellion but inadvertent transgression.
 
-v.3 — KJV: "the priest that is anointed" / ESV: "the anointed priest" —
- Hebrew "ha-kohen ha-mashiach" — literally "the priest, the anointed
- one." The same root as "Messiah." The anointed priest foreshadows
- Christ, yet unlike Christ, this priest must offer for his own sins.
+v.2  — Hebrew YHWH — in context of commandments broken.
+       KJV: "the LORD"
+       ESV: "the LORD"
+       ASV: "Jehovah hath commanded"
+       NET: "the Lord's commandments"
+       WEB: "Yahweh has commanded"
+       Analysis: The divine name difference is theologically significant
+       here: the commandments broken are personally issued by YHWH Himself,
+       not abstract rules.
 
-v.7 — KJV: "altar of sweet incense" / ESV: "altar of fragrant incense" —
- Hebrew "mizbach qetoreth ha-sammim" — the golden altar inside the Holy
- Place. Blood on this altar signified that sin had penetrated to the
- place of prayer and worship.
+v.3  — Hebrew "ha-kohen ha-mashiach" — the priest, the anointed one.
+       Hebrew "chattath" — sin offering.
+       KJV: "the priest that is anointed... sin offering"
+       ESV: "the anointed priest... sin offering"
+       ASV: "the anointed priest... sin-offering"
+       NET: "the high priest... sin offering"
+       WEB: "the anointed priest... sin offering"
+       Analysis: NET interprets "ha-kohen ha-mashiach" as "the high priest"
+       for clarity. ASV/WEB/ESV translate more literally. The anointed
+       priest IS the high priest, but the Hebrew emphasizes his anointing.
+       The same root as "Messiah." Some scholars prefer "purification
+       offering" since the offering purifies from sin's contamination.
 
-v.12 — KJV: "without the camp" / ESV: "outside the camp" — Hebrew
- "mi-chutz la-machaneh" — beyond the boundaries of the Israelite
- encampment. A place of separation and rejection. Christ was crucified
- outside Jerusalem's walls (Heb 13:12).
+v.6  — Hebrew "paroketh" — the veil/curtain.
+       KJV: "the vail of the sanctuary"
+       ESV: "the veil of the sanctuary"
+       ASV: "before the veil of the sanctuary"
+       NET: "toward the front of the special curtain of the sanctuary"
+       WEB: "before the veil of the sanctuary"
+       Analysis: NET's "special curtain" interprets the Hebrew "paroketh"
+       to distinguish it from ordinary curtains. KJV/ASV/WEB all use "veil"
+       — the curtain separating the Holy Place from the Most Holy.
 
-v.20 — KJV: "make an atonement" / ESV: "make atonement" — Hebrew "kipper"
- — to cover, to make propitiation. The root idea is covering sin so
- that God's wrath is turned away. Christ is our "propitiation"
- (hilasmos, 1 John 2:2).
+v.7  — Hebrew "mizbach qetoreth ha-sammim" — the altar of fragrant incense.
+       KJV: "altar of sweet incense"
+       ESV: "altar of fragrant incense"
+       ASV: "altar of sweet incense"
+       NET: "altar of fragrant incense"
+       WEB: "altar of sweet incense"
+       Analysis: The golden altar inside the Holy Place. Blood on this altar
+       signified that sin had penetrated to the place of prayer and worship.
 
-v.22 — KJV: "When a ruler hath sinned" / ESV: "When a leader sins" —
- Hebrew "nasi" — a prince, chief, or leader. The ruler's offering is a
- male goat (more costly than the common person's female goat/lamb),
- reflecting greater accountability.
+v.12 — Hebrew "mi-chutz la-machaneh" — outside the camp. Hebrew "shephek
+       ha-deshen" — the ash/fat-ash dump.
+       KJV: "without the camp... where the ashes are poured out"
+       ESV: "outside the camp... the ash heap"
+       ASV: "without the camp... where the ashes are poured out"
+       NET: "outside the camp... to the fatty-ash pile"
+       WEB: "outside the camp... where the ashes are poured out"
+       Analysis: NET's "fatty-ash pile" is a technical rendering of the
+       designated dump site for altar ashes mixed with sacrificial fat.
+       More specific than the generic "ashes" of other versions. A place of
+       separation and rejection. Christ was crucified outside Jerusalem's
+       walls (Heb 13:12).
 
-v.27 — KJV: "any one of the common people" / ESV: "anyone of the common
- people" — Hebrew "am ha-aretz" — literally "people of the land." The
- ordinary citizen, as distinct from priest, congregation, or ruler.
+v.20 — Hebrew "kipper" — to cover, to make propitiation.
+       KJV: "make an atonement"
+       ESV: "make atonement"
+       ASV: "make atonement"
+       NET: "make atonement"
+       WEB: "make atonement"
+       Analysis: All translations agree. The root idea is covering sin so
+       that God's wrath is turned away. Christ is our "propitiation"
+       (hilasmos, 1 John 2:2).
 
-v.35 — KJV: "offerings made by fire unto the LORD" / ESV: "the LORD's food
- offerings" — Hebrew "isheh YHWH" — The sin offering's fat is burned
- on the altar just like the peace offering's fat. Even in dealing with
- sin, God finds satisfaction in the atoning sacrifice.
+v.22 — Hebrew "nasi" — a prince, chief, or leader.
+       KJV: "When a ruler hath sinned"
+       ESV: "When a leader sins"
+       ASV: "When a ruler sinneth"
+       NET: "Whenever a leader sins"
+       WEB: "When a ruler sins"
+       Analysis: The ruler's offering is a male goat (more costly than the
+       common person's female goat/lamb), reflecting greater accountability.
+
+v.27 — Hebrew "am ha-aretz" — people of the land.
+       KJV: "any one of the common people"
+       ESV: "anyone of the common people"
+       ASV: "any one of the common people"
+       NET: "an ordinary individual"
+       WEB: "anyone of the common people"
+       Analysis: The ordinary citizen, as distinct from priest, congregation,
+       or ruler. NET's "ordinary individual" modernizes the phrase.
+
+v.35 — Hebrew "isheh YHWH" — fire offerings of the LORD.
+       KJV: "offerings made by fire unto the LORD"
+       ESV: "the LORD's food offerings"
+       ASV: "the offerings of Jehovah made by fire"
+       NET: "the gifts of the Lord"
+       WEB: "the offerings of Yahweh made by fire"
+       Analysis: The sin offering's fat is burned on the altar just like
+       the peace offering's fat. Even in dealing with sin, God finds
+       satisfaction in the atoning sacrifice.
 
 GLOSSARY
 ------------------------------------

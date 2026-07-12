@@ -98,35 +98,95 @@ Charles Spurgeon:
   stirring of the heart is itself a gift of grace. Thank God for the desire
   to give as much as for the ability to give."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2 — KJV: "a sabbath of rest" / ESV: "a Sabbath of solemn rest" — Hebrew
- "shabbat shabbaton" — intensified form: a sabbath of complete
- sabbath-rest. The doubling emphasizes absolute cessation.
+v.1  — Hebrew "YHWH" — the divine covenant name.
+       KJV: "the LORD hath commanded"
+       ESV: "the LORD has commanded"
+       ASV: "Jehovah hath commanded"
+       NET: "the Lord has commanded"
+       WEB: "Yahweh has commanded"
+       Analysis: Three approaches to the divine name (YHWH): ASV transliterates as "Jehovah," WEB uses the scholarly reconstruction "Yahweh," and KJV/ESV/NET follow the tradition of "the Lord" (small caps in print).
 
-v.3 — KJV: "Ye shall kindle no fire" / ESV: "You shall kindle no fire" —
- This specific prohibition (unique to this passage) likely relates to
- the work of smelting and metalwork for tabernacle construction.
+v.2  — Hebrew "shabbat shabbaton" — intensified form.
+       KJV: "a sabbath of rest"
+       ESV: "a Sabbath of solemn rest"
+       ASV: "a sabbath of solemn rest"
+       NET: "a Sabbath of complete rest"
+       WEB: "a Sabbath of solemn rest"
+       Analysis: The doubling emphasizes absolute cessation. KJV understates with simple "rest"; ESV/ASV/WEB add "solemn" (gravity/reverence); NET's "complete rest" interprets the intensification most directly.
 
-v.5 — KJV: "willing heart" / ESV: "generous heart" — Hebrew "nediv lev" —
- a heart that is noble, willing, generous, freely moved. The
- motivation must come from within, not from external pressure.
+v.3  — Hebrew prohibition: no fire on Sabbath.
+       KJV: "Ye shall kindle no fire throughout your habitations"
+       ESV: "You shall kindle no fire in all your dwelling places"
+       ASV: "Ye shall kindle no fire throughout your habitations"
+       NET: "You must not kindle a fire in any of your homes"
+       WEB: "You shall kindle no fire throughout your habitations"
+       Analysis: This specific prohibition (unique to this passage) likely relates to the work of smelting and metalwork for tabernacle construction. NET uses "must not" (stronger obligation) vs. "shall not" (command) in others.
 
-v.7 — KJV: "badgers' skins" / ESV: "goatskins" — Hebrew "tachash" — an
- uncertain term. Possibly dugong (sea cow), porpoise, or fine
- leather. The exact animal remains debated among scholars.
+v.5  — Hebrew "nediv lev" — a heart that is noble, willing, generous.
+       KJV: "whosoever is of a willing heart"
+       ESV: "Whoever is of a generous heart"
+       ASV: "whosoever is of a willing heart"
+       NET: "everyone who has a willing heart"
+       WEB: "whoever is of a willing heart"
+       Analysis: KJV/ASV/WEB/NET retain "willing heart" — emphasizing internal motivation. ESV shifts to "generous heart" — emphasizing the outward result. The Hebrew "nediv" encompasses both: a heart freely moved to noble action.
 
-v.22 — KJV: "tablets" / ESV: "armlets" — Hebrew "kumaz" — a gold ornament,
- possibly an armlet or pendant. The exact form is uncertain; both
- translations offer reasonable interpretations.
+v.7  — Hebrew "tachash" — an uncertain animal skin.
+       KJV: "badgers' skins"
+       ESV: "goatskins"
+       ASV: "sealskins"
+       NET: "fine leather"
+       WEB: "sea cow hides"
+       Analysis: One of the most debated terms in Exodus. Each translation offers a different interpretation: KJV guesses "badger"; ESV guesses "goat"; ASV guesses "seal"; WEB guesses "sea cow" (dugong); NET avoids specifying with neutral "fine leather." The exact animal remains unknown.
 
-v.31 — KJV: "spirit of God" / ESV: "Spirit of God" — Hebrew "ruach ʼelohim"
- — ESV capitalizes "Spirit" to indicate the Holy Spirit. The Hebrew
- does not distinguish; context determines the reference.
+v.12 — Hebrew "kapporet" — from "kaphar" (to cover/atone).
+       KJV: "the mercy seat"
+       ESV: "the mercy seat"
+       ASV: "the mercy-seat"
+       NET: "the atonement lid"
+       WEB: "the mercy seat"
+       Analysis: NET consistently renders "kapporet" as "atonement lid" (emphasizing function), while all others retain the traditional "mercy seat" following Tyndale's influential rendering via Luther's "Gnadenstuhl."
 
-v.35 — KJV: "cunning work" / ESV: "skilled craft" — Hebrew "machashevet" —
- creative design, inventive work. KJV "cunning" = skillful (archaic
- usage, not deceptive).
+v.13 — Hebrew "lechem hapanim" — bread of the face/presence.
+       KJV: "the shewbread"
+       ESV: "the bread of the Presence"
+       ASV: "the showbread"
+       NET: "the Bread of the Presence"
+       WEB: "the show bread"
+       Analysis: NET/ESV use the more literal translation "Bread of the Presence" (bread set before God's face), while KJV/ASV/WEB retain the traditional "showbread" — bread displayed/shown before God.
+
+v.14 — Hebrew "menorah" — a lampstand (not candle holder).
+       KJV: "the candlestick"
+       ESV: "the lampstand"
+       ASV: "the candlestick"
+       NET: "the lampstand"
+       WEB: "the lamp stand"
+       Analysis: ASV/KJV retain the archaic "candlestick" (it burned oil, not candles). ESV/WEB/NET correctly update to "lampstand," reflecting the Hebrew "menorah" more accurately.
+
+v.22 — Hebrew "kumaz" — a gold ornament (uncertain form).
+       KJV: "tablets"
+       ESV: "armlets"
+       ASV: "brooches"
+       NET: "brooches"
+       WEB: "brooches"
+       Analysis: The exact form is uncertain. KJV's "tablets" (ornamental plates), ESV's "armlets," and ASV/NET/WEB's "brooches" all offer reasonable interpretations of this gold ornament.
+
+v.31 — Hebrew "ruach ʼelohim" — Spirit of God.
+       KJV: "the spirit of God"
+       ESV: "the Spirit of God"
+       ASV: "the Spirit of God"
+       NET: "the Spirit of God"
+       WEB: "the Spirit of God"
+       Analysis: KJV's lowercase "spirit" treats it as a general divine influence; all modern translations capitalize "Spirit" to indicate the Holy Spirit as a person. The Hebrew does not distinguish; context determines the reference.
+
+v.35 — Hebrew "machashevet" — creative design, inventive work.
+       KJV: "cunning work"
+       ESV: "skilled craft"
+       ASV: "them that do any workmanship, and of those that devise skilful works"
+       NET: "They are craftsmen in all the work and artistic designers"
+       WEB: "every sort of work done by a workman"
+       Analysis: KJV "cunning" = skillful (archaic usage, not deceptive). NET uses modern occupational language ("craftsmen," "designers," "embroiderers") while ASV retains more archaic phrasing. Both translate Hebrew "charashim" (skilled workers) and "choshvey machashavot" (devisers of designs).
 
 GLOSSARY
 ------------------------------------

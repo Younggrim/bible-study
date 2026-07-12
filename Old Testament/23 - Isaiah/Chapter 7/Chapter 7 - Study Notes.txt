@@ -155,6 +155,22 @@ Smoking firebrands — Stubs of torches almost burned out. Isaiah's
                but they're spent — smoking, not burning. Their power
                is nearly exhausted.
 
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.14 — NET: "this young woman is about to conceive" vs. KJV/ASV/WEB: "a virgin shall conceive" — The most theologically significant translation difference in Isaiah. NET renders Hebrew "almah" as "young woman" rather than "virgin," and adds "is about to" (suggesting imminence). WEB retains "virgin." This choice affects whether the passage is directly messianic or requires a dual-fulfillment framework.
+
+- v.7 — ASV: "thus saith the Lord Jehovah" / WEB: "This is what the Lord Yahweh says" / NET: "the Sovereign Lord says" — ASV/WEB preserve both divine titles (Adonai + YHWH) while NET collapses them into "Sovereign Lord," losing the double-name emphasis of God's authority AND covenant identity.
+
+- v.11 — ASV: "Ask thee a sign of Jehovah thy God" / WEB: "Ask a sign of Yahweh your God" / NET: "Ask for a confirming sign from the Lord your God. You can even ask for something miraculous" — NET adds an entire interpretive sentence ("You can even ask for something miraculous") not in the Hebrew. The literal text says "ask in the depth or in the height" — NET replaces this with a summary.
+
+- v.14 — NET: "You, young woman, will name him Immanuel" — NET addresses the woman directly ("You, young woman") — an interpretive choice. KJV/ASV/WEB have "shall call his name Immanuel" without specifying who is being addressed. NET's rendering emphasizes the near fulfillment over the messianic.
+
+- v.18 — ASV: "Jehovah will hiss for the fly" / WEB: "Yahweh will whistle for the fly" / NET: "the Lord will whistle for flies" — The divine name is used for this striking image of God summoning Egypt and Assyria like insects. ASV's "hiss" retains the onomatopoeia of Hebrew "sharaq." NET pluralizes "flies" where the Hebrew has the singular collective.
+
+- v.20 — NET: "the hair off the head and private parts" vs. KJV: "the head and the hair of the feet" / ASV: "the head and the hair of the feet" — "Feet" is a Hebrew euphemism for genitals. NET makes explicit what the Hebrew veils; KJV/ASV preserve the euphemism. WEB also retains "the hair of the feet." This illustrates the total humiliation of Assyria's invasion.
+
+- v.9 — NET: "If your faith does not remain firm, then you will not remain secure" vs. KJV/ASV: "If ye will not believe, surely ye shall not be established" — The Hebrew wordplay (ta'aminu/te'amenu) is untranslatable. NET's "firm/secure" attempts the parallel, while KJV's "believe/established" preserves the theological link between faith and stability.
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "If ye will not believe, ye shall not be established" (v.9).

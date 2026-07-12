@@ -162,9 +162,23 @@ v.9 — "whose mouth must be held in with bit and bridle, lest they
 come near unto thee" (KJV) / "which must be curbed with bit and
 bridle, or it will not stay near you" (ESV): The KJV and ESV
 offer opposite interpretations — KJV suggests the bit keeps the
-animal from approaching, while ESV suggests the bit keeps it near.
+animal from approaching, while ESV suggests the bit near.
 The Hebrew is genuinely ambiguous; the point is that God desires
 willing obedience rather than forced compliance.
+
+ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+------------------------------------
+- v.1 — NET: "How blessed is the one whose rebellious acts are forgiven, whose sin is pardoned" — NET renders "pesha" as "rebellious acts" (plural, making the rebellion concrete) and "covered" (kasah) as "pardoned." Hebrew "kasah" = literally covered/concealed — the sin is hidden from sight. NET's "pardoned" loses this covering imagery central to atonement theology.
+
+- v.2 — ASV: "Blessed is the man unto whom Jehovah imputeth not iniquity" / WEB: "Blessed is the man to whom Yahweh doesn't impute iniquity" / NET: "whose wrongdoing the Lord does not punish" — NET replaces "impute" (chashab = reckon, count) with "punish," which changes the theology. Not imputing is an accounting action (not charging to the ledger); not punishing is a judicial action. Paul builds Romans 4 on the imputation concept, not punishment.
+
+- v.4 — NET: "you tormented me; you tried to destroy me in the intense heat of summer" — NET adds dramatic intensity ("tormented," "tried to destroy") where KJV has "thy hand was heavy upon me." The Hebrew describes pressure and drying — divine discipline, not attempted destruction. NET's rendering risks making God seem malicious.
+
+- v.5 — WEB: "I will confess my transgressions to Yahweh" / ASV: "I will confess my transgressions unto Jehovah" — Both use the divine name in the confession itself — David confesses specifically to YHWH by name, not to a generic deity. The personal address heightens the relational intimacy of confession.
+
+- v.6 — NET: "while there is a window of opportunity" — NET paraphrases "in a time when thou mayest be found" (KJV) as a "window of opportunity." This captures urgency but sounds commercial rather than spiritual. The Hebrew "et metso" = time of finding — when God makes Himself findable.
+
+- v.10 — KJV: "mercy shall compass him about" / ASV: "lovingkindness shall compass him about" / WEB: "loving kindness shall surround him" / NET: "the Lord's faithfulness overwhelms the one who trusts in him" — Hebrew chesed "surrounds" (sabab) the trusting person. NET's "overwhelms" suggests being overpowered; KJV/ASV/WEB's "compass about/surround" suggests protective encirclement — chesed as a shield on every side.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

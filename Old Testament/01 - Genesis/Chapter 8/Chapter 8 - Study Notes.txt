@@ -98,84 +98,75 @@ Charles Spurgeon:
   in your waiting, in your darkness. He has not forgotten. He remembers — and
   when He remembers, He acts."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "God remembered Noah" / ESV: "God remembered Noah" — Both
-       identical. Hebrew "zakar" — to remember, to act on behalf of. Not
-       recollection (God doesn't forget) but action. When God "remembers,"
-       He intervenes.
+v.1  — Hebrew "zakar Elohim eth-Noach... ruach" — God remembered Noah... wind/spirit.
+       KJV: "God remembered Noah... God made a wind to pass over the earth, and the waters asswaged"
+       ESV: "God remembered Noah... God made a wind blow over the earth, and the waters subsided"
+       ASV: "God remembered Noah... God made a wind to pass over the earth, and the waters assuaged"
+       NET: "God remembered Noah... God caused a wind to blow over the earth and the waters receded"
+       WEB: "God remembered Noah... God made a wind to pass over the earth, and the waters subsided"
+       Analysis: "Zakar" = to act on behalf of — not recollection but
+       intervention. "Ruach" (wind/spirit/breath) — same word as Genesis 1:2.
+       The re-creation parallel is intentional. KJV/ASV's "asswaged/assuaged"
+       is archaic; ESV/WEB's "subsided" and NET's "receded" are modern
+       equivalents.
 
-v.1  — KJV: "God made a wind to pass over the earth, and the waters
-       asswaged" / ESV: "God made a wind blow over the earth, and the waters
-       subsided" — Hebrew "ruach" — wind/spirit/breath. Same word as Genesis
-       1:2 ("Spirit of God"). The re-creation parallel is intentional. KJV's
-       archaic "asswaged" = ESV's "subsided" — both mean the waters receded.
+v.4  — Hebrew "tanach hattevah... al harey Ararat" — the ark rested on the mountains of Ararat.
+       KJV: "the ark rested... upon the mountains of Ararat"
+       ESV: "the ark came to rest on the mountains of Ararat"
+       ASV: "the ark rested... upon the mountains of Ararat"
+       NET: "the ark came to rest on one of the mountains of Ararat"
+       WEB: "the ship rested... on Ararat's mountains"
+       Analysis: "Nuach" (rested) — same root as "Noah." NET adds "one of"
+       to clarify the Hebrew plural refers to a range, not a single peak.
+       WEB uses "ship" for "tevah." Ararat is a mountain range in modern
+       eastern Turkey.
 
-v.4  — KJV: "the ark rested... upon the mountains of Ararat" / ESV: "the
-       ark came to rest on the mountains of Ararat" — Both equivalent.
-       Hebrew "nuach" — same root as "Noah." Noah rests on the mountain.
-       Ararat is a mountain range in modern eastern Turkey (not a single
-       peak).
+v.11 — Hebrew "aleh-zayith taraph bepiha" — an olive leaf freshly plucked in its mouth.
+       KJV: "in her mouth was an olive leaf pluckt off"
+       ESV: "in her mouth was a freshly plucked olive leaf"
+       ASV: "and lo, in her mouth an olive-leaf plucked off"
+       NET: "in its beak was a freshly plucked olive leaf"
+       WEB: "and behold, in its mouth was a freshly plucked olive leaf"
+       Analysis: ESV/NET/WEB add "freshly" — clarifying active growth. NET
+       uses "beak" (ornithologically precise) instead of "mouth." The olive
+       tree can survive flooding and sprout quickly — a sign of receding
+       waters and new life.
 
-v.9  — KJV: "the dove found no rest for the sole of her foot" / ESV: "the
-       dove found no place to set her foot" — Hebrew "manoach" — resting
-       place. KJV is more literal ("rest for the sole of her foot"); ESV
-       paraphrases for clarity ("no place to set her foot"). Same meaning.
+v.20 — Hebrew "oloth" — whole burnt offerings.
+       KJV: "offered burnt offerings on the altar"
+       ESV: "offered burnt offerings on the altar"
+       ASV: "offered burnt-offerings on the altar"
+       NET: "offered burnt offerings on the altar"
+       WEB: "offered burnt offerings on the altar"
+       Analysis: All translations identical. The first altar and first formal
+       sacrifice recorded. "Oloth" = completely consumed by fire — total
+       dedication to God. Noah's first act after deliverance: worship.
 
-v.11 — KJV: "an olive leaf pluckt off" / ESV: "a freshly plucked olive
-       leaf" — Both equivalent. ESV adds "freshly" to clarify the leaf was
-       newly plucked (indicating active growth). The olive tree can survive
-       flooding and sprout quickly.
+v.21 — Hebrew "reach nichoach... yetser lev ha'adam ra mine'urav"
+       KJV: "the LORD smelled a sweet savour... the imagination of man's heart is evil from his youth"
+       ESV: "the LORD smelled the pleasing aroma... the intention of man's heart is evil from his youth"
+       ASV: "Jehovah smelled the sweet savor... the imagination of man's heart is evil from his youth"
+       NET: "the LORD smelled the soothing aroma... the inclination of their minds is evil from childhood on"
+       WEB: "Yahweh smelled the pleasant aroma... the imagination of man's heart is evil from his youth"
+       Analysis: "Reach nichoach" = soothing/restful aroma (picture of
+       Christ's sacrifice satisfying God, Eph 5:2). NET renders "yetser" as
+       "inclination of their minds" and "from his youth" as "from childhood
+       on" — more psychologically explicit. Same diagnosis as 6:5, but now
+       the basis for mercy rather than judgment. ASV uses "Jehovah"; WEB
+       uses "Yahweh."
 
-v.17 — KJV: "that they may breed abundantly in the earth, and be fruitful,
-       and multiply" / ESV: "that they may swarm on the earth, and be
-       fruitful and multiply" — Hebrew "sharats" — to swarm, teem. ESV's
-       "swarm" is more literal; KJV's "breed abundantly" interprets the
-       result.
-
-v.20 — KJV: "burnt offerings" / ESV: "burnt offerings" — Both identical.
-       Hebrew "oloth" — whole burnt offerings. Completely consumed by fire —
-       total dedication to God. The first altar and first formal sacrifice
-       recorded.
-
-v.21 — KJV: "a sweet savour" / ESV: "the pleasing aroma" — Hebrew "reach
-       nichoach" — a soothing/restful aroma. ESV's "pleasing aroma" is more
-       natural modern English; KJV's "sweet savour" is archaic but evocative.
-       God is "satisfied" by the sacrifice — a picture of Christ's sacrifice
-       satisfying God (Eph 5:2).
-
-v.21 — KJV: "I will not again curse the ground any more for man's sake" /
-       ESV: "I will never again curse the ground because of man" — Both
-       equivalent. KJV's "for man's sake" could be misread as "for man's
-       benefit"; ESV's "because of man" is clearer.
-
-v.21 — KJV: "the imagination of man's heart is evil from his youth" / ESV:
-       "the intention of man's heart is evil from his youth" — Hebrew
-       "yetser" — imagination, inclination, intention. Same word as 6:5.
-       The same diagnosis as before, but now the basis for mercy rather than
-       judgment. God knows our nature and chooses grace.
-
-v.22 — KJV: "While the earth remaineth, seedtime and harvest, and cold and
-       heat, and summer and winter, and day and night shall not cease" / ESV:
-       "While the earth remains, seedtime and harvest, cold and heat, summer
-       and winter, day and night, shall not cease" — Both essentially
-       identical. God's guarantee of creation's stability.
-
-TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.4 — NET: "the ark came to rest on one of the mountains of Ararat" —
-  adds "one of" to clarify the Hebrew plural "mountains of Ararat" refers to
-  a range, not a single peak. Other translations leave this ambiguous.
-- v.21 — NET: "the inclination of their minds is evil from childhood on" —
-  renders Hebrew "yetser" as "inclination of their minds" (vs. "imagination
-  of man's heart" KJV) and "from his youth" as "from childhood on," making
-  the doctrine of innate depravity more psychologically explicit.
-- v.21 — NET: "said to himself" — renders Hebrew "said in his heart" as
-  "said to himself," a more natural English idiom for internal resolve.
-  ASV/WEB retain the more literal "said in his heart."
-- v.22 — NET: "While the earth continues to exist" — a more dynamic rendering
-  than "While the earth remaineth" (KJV/ASV), subtly acknowledging the earth
-  has a future end point.
+v.22 — Hebrew "lo yishbotu" — shall not cease.
+       KJV: "While the earth remaineth, seedtime and harvest... shall not cease"
+       ESV: "While the earth remains, seedtime and harvest... shall not cease"
+       ASV: "While the earth remaineth, seedtime and harvest... shall not cease"
+       NET: "While the earth continues to exist, planting time and harvest... will not cease"
+       WEB: "While the earth remains, seed time and harvest... will not cease"
+       Analysis: NET uses "continues to exist" — subtly acknowledging the
+       earth has a future end point. NET also uses "planting time" instead
+       of "seedtime." God's guarantee of creation's stability until He
+       determines otherwise.
 
 GLOSSARY
 ------------------------------------

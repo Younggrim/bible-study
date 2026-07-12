@@ -103,33 +103,90 @@ Charles Spurgeon:
   that you reject practical wisdom. Don't be so busy serving God that you
   burn out serving God. Delegation is not laziness — it is wisdom."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3  — KJV: "Gershom" / ESV: "Gershom" — Hebrew "ger sham" — "stranger
-       there." Both transliterate. Moses named his first son after his exile.
+v.1  — Hebrew "YHWH" — the covenant name of God.
+       KJV: "the LORD had brought Israel out of Egypt"
+       ESV: "the LORD had done for Moses and for Israel"
+       ASV: "Jehovah had brought Israel out of Egypt"
+       NET: "the Lord had brought Israel out of Egypt"
+       WEB: "Yahweh had brought Israel out of Egypt"
+       Analysis: The consistent divine name pattern continues. Note v.1 uses "God"
+       (Elohim) for Jethro's initial hearing, then switches to YHWH — Jethro comes
+       to recognize the covenant name. ASV "Jehovah," WEB "Yahweh," NET/KJV/ESV
+       "the LORD/Lord."
 
-v.4  — KJV: "Eliezer" / ESV: "Eliezer" — Hebrew "eli ezer" — "my God is
-       help." Both transliterate. Named after God's deliverance from Pharaoh.
+v.3  — Hebrew "ger sham" — "stranger there."
+       KJV: "Gershom"
+       ESV: "Gershom"
+       ASV: "Gershom"
+       NET: "Gershom"
+       WEB: "Gershom"
+       Analysis: All transliterate. Moses named his first son after his exile —
+       "stranger there." The name testifies to Moses' displacement from home.
 
-v.11 — KJV: "in the thing wherein they dealt proudly he was above them" /
-       ESV: "because in the affair in which they dealt arrogantly with the
-       people, he was above them" — Hebrew "badavar asher zadu aleihem." The
-       ESV is more explicit; the KJV is more compact. God defeated Egypt
+v.4  — Hebrew "eli ezer" — "my God is help."
+       KJV: "Eliezer"
+       ESV: "Eliezer"
+       ASV: "Eliezer"
+       NET: "Eliezer"
+       WEB: "Eliezer"
+       Analysis: All transliterate. Named after God's deliverance from Pharaoh —
+       a testimony embedded in a name.
+
+v.10 — Hebrew "barukh YHWH" — Blessed be the LORD.
+       KJV: "Blessed be the LORD"
+       ESV: "Blessed be the LORD"
+       ASV: "Blessed be Jehovah"
+       NET: "Blessed be the Lord"
+       WEB: "Blessed be Yahweh"
+       Analysis: Jethro's confession of YHWH's supremacy. A Midianite priest
+       recognizes Israel's God as supreme — a significant interfaith moment rendered
+       with each translation's characteristic divine name.
+
+v.11 — Hebrew "badavar asher zadu aleihem" — in the matter where they dealt proudly against them.
+       KJV: "in the thing wherein they dealt proudly he was above them"
+       ESV: "because in the affair in which they dealt arrogantly with the people, he was above them"
+       ASV: "in the thing wherein they dealt proudly against them"
+       NET: "for in the thing in which they dealt proudly against them he has destroyed them"
+       WEB: "in the matter where they dealt arrogantly against them"
+       Analysis: All translations struggle with this verse's abrupt ending. The
+       Hebrew is elliptical — NET adds "he has destroyed them" to complete the
+       thought; ASV leaves it incomplete as the Hebrew does. God defeated Egypt
        precisely in the areas of their pride.
 
-v.18 — KJV: "wear away" / ESV: "wear yourselves out" — Hebrew "navol
-       tibbol" — wither, fade, wear out completely. Both capture the
-       emphatic doubling. Burnout is real — even for God's servants.
+v.18 — Hebrew "navol tibbol" — wither, fade, wear out completely.
+       KJV: "wear away"
+       ESV: "wear yourselves out"
+       ASV: "Thou wilt surely wear away"
+       NET: "You will surely wear out, both you and these people"
+       WEB: "You will surely wear away"
+       Analysis: An emphatic infinitive absolute meaning to completely wither/fade.
+       NET's "wear out" is contemporary; ASV/WEB's "wear away" captures the gradual
+       decay more precisely. Both capture the emphatic doubling. Burnout is real —
+       even for God's servants.
 
-v.21 — KJV: "able men" / ESV: "men who are trustworthy" — Hebrew "anshei
-       chayil" — men of strength/valor/capability. The KJV emphasizes
-       ability; the ESV emphasizes character. The Hebrew encompasses both:
-       competent AND trustworthy.
+v.21 — Hebrew "anshei chayil... yir'ei Elohim... anshei emet... son'ei batza'" — men of strength, God-fearers, men of truth, haters of unjust gain.
+       KJV: "able men, such as fear God, men of truth, hating covetousness"
+       ESV: "men who are trustworthy and who fear God, are trustworthy and hate a bribe"
+       ASV: "able men, such as fear God, men of truth, hating unjust gain"
+       NET: "capable men, God-fearing men, men of truth, those who hate bribes"
+       WEB: "able men, such as fear God, men of truth, hating unjust gain"
+       Analysis: Four qualifications for leaders: (1) capable/competent ("anshei
+       chayil"); (2) God-fearing ("yir'ei Elohim"); (3) truthful/trustworthy
+       ("anshei emet"); (4) free from greed ("son'ei batza'"). KJV emphasizes
+       ability; ESV emphasizes character. NET's "hate bribes" narrows "batza'"
+       (covetousness/unjust gain) to only bribery. ASV/WEB are most balanced.
 
-v.21 — KJV: "hating covetousness" / ESV: "who hate a bribe" — Hebrew
-       "son'ei batza" — hating unjust gain. The ESV's "hate a bribe" is
-       more specific; the KJV's "hating covetousness" is broader. Leaders
-       must be free from financial corruption.
+v.23 — Hebrew "beshalom" — in peace/wholeness.
+       KJV: "shall also go to their place in peace"
+       ESV: "will also go to their place in peace"
+       ASV: "shall go to their place in peace"
+       NET: "all these people will be able to go home satisfied"
+       WEB: "shall also go to their place in peace"
+       Analysis: NET's "satisfied" is more interpretive; "in peace" (KJV/ESV/ASV/WEB)
+       captures the Hebrew shalom better — justice brings communal well-being, not
+       just personal satisfaction. Good leadership structure benefits everyone.
 
 GLOSSARY
 ------------------------------------
