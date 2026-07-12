@@ -150,54 +150,115 @@ Charles Spurgeon:
   soul: God is not a man. His word is as certain as His nature. And His
   nature is eternal, unchangeable, and true."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3  — KJV: "he went to an high place" / ESV: "he went to a bare height"
-       — Hebrew "vayyeelekh shefi." "Shefi" = a bare, windswept height.
-       Balaam goes to an elevated, exposed place to meet God — a common
-       practice for diviners seeking revelation.
+v.3  — Hebrew "vayyeelekh shefi" — he went to a bare height.
+       KJV: "he went to an high place"
+       ESV: "he went to a bare height"
+       ASV: "he went to a bare height"
+       NET: "he went to a deserted height"
+       WEB: "he went to a bare height"
+       Analysis: "Shefi" = a bare, windswept height. KJV generalizes to
+       "high place"; ESV/ASV/WEB use "bare height"; NET uses "deserted
+       height." Balaam goes to an elevated, exposed place to meet God — a
+       common practice for diviners seeking revelation.
 
-v.7  — KJV: "he took up his parable" / ESV: "Balaam took up his
-       discourse" — Hebrew "vayyissa m'shalo." "Mashal" = a proverb,
-       oracle, parable, or prophetic discourse. KJV's "parable" and ESV's
-       "discourse" both capture aspects of this poetic, prophetic speech.
+v.7  — Hebrew "vayyissa m'shalo" — he took up his mashal (oracle/parable).
+       KJV: "he took up his parable"
+       ESV: "Balaam took up his discourse"
+       ASV: "he took up his parable, and said"
+       NET: "he took up his oracle and said"
+       WEB: "he took up his parable, and said"
+       Analysis: "Mashal" = a proverb, oracle, parable, or prophetic
+       discourse. NET uses "oracle" where KJV/ASV/WEB use "parable"; ESV
+       uses "discourse." Balaam's speeches are poetic oracles — structured
+       Hebrew poetry with parallel lines and vivid imagery.
 
-v.10 — KJV: "the death of the righteous" / ESV: "the death of the
-       upright" — Hebrew "mot y'sharim." "Yesharim" = the upright, the
-       straight ones. Balaam recognizes Israel's blessed state and wishes
-       for their end — but will not live their life. He wants heaven
-       without holiness.
+v.8  — Hebrew "mah eqqov lo qabbo El" — how shall I curse whom God has
+       not cursed?
+       KJV: "How shall I curse, whom God hath not cursed?"
+       ESV: "How can I curse whom God has not cursed?"
+       ASV: "How shall I curse, whom God hath not cursed?"
+       NET: "How can I curse one whom God has not cursed?"
+       WEB: "How shall I curse, whom God has not cursed?"
+       Analysis: All translations agree on this key rhetorical question.
+       No human divination can override divine blessing. The oracle
+       structure is poetic parallelism — the impossibility of cursing what
+       God has blessed.
 
-v.19 — KJV: "that he should repent" / ESV: "that he should change his
-       mind" — Hebrew "v'yitnecham." "Nacham" = to be sorry, to relent,
-       to change one's mind. KJV's "repent" can confuse modern readers
-       (God does not repent of sin); ESV's "change his mind" is clearer.
-       The point: God does not vacillate or reverse His declared purposes.
+v.10 — Hebrew "mot y'sharim" — the death of the upright/righteous.
+       KJV: "Let me die the death of the righteous"
+       ESV: "Let me die the death of the upright"
+       ASV: "Let me die the death of the righteous"
+       NET: "Let me die the death of the upright"
+       WEB: "Let me die the death of the righteous"
+       Analysis: "Yesharim" = the upright, the straight ones. KJV/ASV/WEB
+       use "righteous"; ESV/NET use "upright." Balaam recognizes Israel's
+       blessed state and wishes for their end — but will not live their
+       life. He wants heaven without holiness.
 
-v.21 — KJV: "He hath not beheld iniquity in Jacob, neither hath he seen
-       perverseness in Israel" / ESV: "He has not beheld misfortune in
-       Jacob, nor has he seen trouble in Israel" — Hebrew "lo hibit aven
-       b'Ya'aqov v'lo ra'ah amal b'Yisra'el." This verse is debated:
-       "aven" can mean "iniquity" or "misfortune/trouble"; "amal" can
-       mean "perverseness" or "trouble/toil." KJV reads it as God not
-       imputing sin; ESV reads it as God not allowing trouble/misfortune.
-       Both are theologically valid; the KJV reading connects more
-       directly to justification theology.
+v.19 — Hebrew "v'yitnecham" — that He should repent/change His mind.
+       KJV: "God is not a man, that he should lie; neither the son of man, that he should repent"
+       ESV: "God is not man, that he should lie, or a son of man, that he should change his mind"
+       ASV: "God is not a man, that he should lie, neither the son of man, that he should repent"
+       NET: "God is not a man, that he should lie, nor a human being, that he should change his mind"
+       WEB: "God is not a man, that he should lie, nor the son of man, that he should repent"
+       Analysis: "Nacham" = to be sorry, to relent, to change one's mind.
+       KJV/ASV/WEB's "repent" can confuse modern readers (God does not
+       repent of sin); ESV's "change his mind" is clearer. NET uses "human
+       being" instead of "son of man." The point: God does not vacillate
+       or reverse His declared purposes.
 
-v.22 — KJV: "the strength of an unicorn" / ESV: "the horns of the wild
-       ox" — Hebrew "k'to'afot r'em." "Re'em" is an extinct wild ox
-       (aurochs), not a mythical unicorn. KJV followed the Septuagint's
-       "monokeros" (one-horned); ESV correctly identifies the animal. The
-       point: God's strength for Israel is like the unstoppable power of
-       a wild ox.
+v.21 — Hebrew "lo hibit aven b'Ya'aqov v'lo ra'ah amal b'Yisra'el" — He
+       has not beheld iniquity/misfortune in Jacob, nor seen perverseness/
+       trouble in Israel.
+       KJV: "He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel"
+       ESV: "He has not beheld misfortune in Jacob, nor has he seen trouble in Israel"
+       ASV: "He hath not beheld iniquity in Jacob; neither hath he seen perverseness in Israel"
+       NET: "He has not looked on iniquity in Jacob, nor has he seen trouble in Israel"
+       WEB: "He has not seen iniquity in Jacob. Neither has he seen perverseness in Israel"
+       Analysis: This verse is debated: "aven" can mean "iniquity" or
+       "misfortune/trouble"; "amal" can mean "perverseness" or
+       "trouble/toil." KJV/ASV/WEB read it as God not imputing sin; ESV
+       reads it as God not allowing trouble/misfortune. NET blends both.
+       The KJV reading connects more directly to justification theology.
+       God looks at Israel through covenant grace.
 
-v.23 — KJV: "there is no enchantment against Jacob, neither is there any
-       divination against Israel" / ESV: "there is no enchantment against
-       Jacob, no divination against Israel" — Hebrew "lo nachash
-       b'Ya'aqov v'lo qesem b'Yisra'el." "Nachash" = enchantment,
-       sorcery, snake-charming. "Qesem" = divination. No form of occult
-       power can touch God's people. This is spoken by a diviner — who
-       admits his own craft is powerless against Israel.
+v.21b — Hebrew "teru'at melek" — the shout of a king.
+       KJV: "the shout of a king is among them"
+       ESV: "the shout of a king is among them"
+       ASV: "Jehovah his God is with him, and the shout of a king is among them"
+       NET: "the shout of their king is among them"
+       WEB: "Yahweh his God is with him. The shout of a king is among them"
+       Analysis: God is Israel's king, and His royal presence among them
+       is what makes them unconquerable. The divine name difference is
+       vivid: ASV uses "Jehovah," WEB uses "Yahweh." NET specifies "their
+       king" — making the identification with God explicit.
+
+v.22 — Hebrew "k'to'afot r'em" — like the horns of the wild ox.
+       KJV: "the strength of an unicorn"
+       ESV: "the horns of the wild ox"
+       ASV: "the strength of the wild ox"
+       NET: "the strength of a wild bull"
+       WEB: "the strength of the wild ox"
+       Analysis: "Re'em" is an extinct wild ox (aurochs), not a mythical
+       unicorn. KJV followed the Septuagint's "monokeros" (one-horned);
+       ESV/ASV/WEB correctly identify the animal. NET uses "wild bull."
+       The point: God's strength for Israel is like the unstoppable power
+       of a wild ox.
+
+v.23 — Hebrew "lo nachash b'Ya'aqov v'lo qesem b'Yisra'el" — there is no
+       enchantment against Jacob, no divination against Israel.
+       KJV: "there is no enchantment against Jacob, neither is there any divination against Israel"
+       ESV: "there is no enchantment against Jacob, no divination against Israel"
+       ASV: "Surely there is no enchantment with Jacob; neither is there any divination with Israel"
+       NET: "there is no spell against Jacob, nor is there any divination against Israel"
+       WEB: "Surely there is no enchantment with Jacob; neither is there any divination with Israel"
+       Analysis: "Nachash" = enchantment, sorcery, snake-charming. "Qesem"
+       = divination. NET uses "spell." ASV/WEB use "with" instead of
+       "against" — possibly meaning divination is not practiced IN Israel
+       rather than against them. No form of occult power can touch God's
+       people — spoken by a diviner who admits his own craft is powerless.
 
 GLOSSARY
 ------------------------------------
@@ -236,20 +297,6 @@ Seven Altars — Balaam's attempt to manipulate God through elaborate
                altars with seven bulls and seven rams represents maximum
                ritual effort. But God cannot be bribed or manipulated —
                He speaks what He wills regardless of the offerings.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.7 — NET: "he took up his oracle and said" / ASV: "he took up his parable, and said" / WEB: "he took up his parable, and said" / KJV: "he took up his parable, and said" — NET uses "oracle" where ASV/WEB/KJV use "parable" (Hebrew "mashal" — a prophetic utterance/saying/oracle). Balaam's speeches are poetic oracles, not parables in the NT sense.
-
-- v.8 — NET: "How can I curse one whom God has not cursed?" / ASV: "How shall I curse, whom God hath not cursed?" / WEB: "How shall I curse, whom God has not cursed?" — All translations agree on this key rhetorical question. No human divination can override divine blessing. The oracle structure is poetic parallelism.
-
-- v.10 — NET: "Who has counted the dust of Jacob?" / ASV: "Who can count the dust of Jacob?" / WEB: "Who can count the dust of Jacob?" — An allusion to God's promise to Abraham (Gen 13:16). NET changes "can" to "has" — implying the number is already beyond counting. Balaam's blessing echoes the Abrahamic covenant.
-
-- v.19 — NET: "God is not a man, that he should lie, nor a human being, that he should change his mind" / ASV: "God is not a man, that he should lie, neither the son of man, that he should repent" / WEB: "God is not a man, that he should lie, nor the son of man, that he should repent" — NET uses "human being" and "change his mind" where ASV/WEB use "son of man" and "repent" (Hebrew "yinnachem"). NET clarifies that God's "repenting" in other passages must be understood through this lens.
-
-- v.21 — NET: "He has not looked on iniquity in Jacob, nor has he seen trouble in Israel" / ASV: "He hath not beheld iniquity in Jacob; neither hath he seen perverseness in Israel" / WEB: "He has not seen iniquity in Jacob. Neither has he seen perverseness in Israel" — NET uses "trouble" where ASV/WEB use "perverseness" (Hebrew "amal"). God does not see Israel through the lens of their failures but through His covenant grace.
-
-- v.21 — NET: "the Lord their God is with them; the shout of their king is among them" / ASV: "Jehovah his God is with him, and the shout of a king is among them" / WEB: "Yahweh his God is with him. The shout of a king is among them" — "The shout of a king" (Hebrew "teru'at melek") — God is Israel's king, and His royal presence among them is what makes them unconquerable. The divine name difference is vivid here.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -291,12 +338,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

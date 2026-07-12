@@ -139,46 +139,87 @@ Charles Spurgeon:
   now stands as overseer of the distribution. Faith is never wasted. What
   you trusted God for in your youth, you will see fulfilled in your age."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "the land that shall fall unto you for an inheritance" / ESV:
-       "the land that shall fall to you for an inheritance" — Hebrew
-       "ha-aretz asher tippol lakhem b'nachalah." "Tippol" (from "naphal"
-       — to fall) is used for the casting of lots — the land "falls" to
-       them by divine allotment. Both translations preserve this idiom.
+v.2  — Hebrew "ha-aretz asher tippol lakhem b'nachalah" — the land "falls" to them by divine allotment.
+       KJV: "the land that shall fall unto you for an inheritance"
+       ESV: "the land that shall fall to you for an inheritance"
+       ASV: (not separately noted)
+       NET: "the Lord spoke to Moses"
+       WEB: "Yahweh spoke to Moses"
+       Analysis: "Tippol" (from "naphal" — to fall) is used for the casting of lots — the land "falls" to them by divine allotment. Both KJV and ESV preserve this idiom. NET/ASV/WEB note the divine name marking this as covenant land — the land is not taken by human ambition but received within divinely established limits.
 
-v.3  — KJV: "your south quarter" / ESV: "your south side" — Hebrew
-       "pe'at negev." "Pe'ah" means side, corner, edge. KJV's "quarter"
-       and ESV's "side" both work — it refers to the entire southern
-       boundary region.
+v.3  — Hebrew "pe'at negev" — the southern boundary region.
+       KJV: "your south quarter"
+       ESV: "your south side"
+       ASV: "Then your south quarter shall be from the wilderness of Zin"
+       NET: "Your southern border will extend from the wilderness of Zin"
+       WEB: "Then your south quarter shall be from the wilderness of Zin"
+       Analysis: "Pe'ah" means side, corner, edge. KJV's "quarter" and ESV's "side" both work. NET uses "southern border" which is more explicit. ASV/WEB retain KJV's "south quarter." Precise geographic boundaries from Zin to the Brook of Egypt.
 
-v.5  — KJV: "the border shall fetch a compass from Azmon unto the river
-       of Egypt" / ESV: "the border shall turn from Azmon to the Brook of
-       Egypt" — Hebrew "v'nasav ha-g'vul." "Nasav" means to turn, go
-       around. KJV's archaic "fetch a compass" means "make a turn" — ESV's
-       "turn" is clearer. Also: KJV "river of Egypt" vs. ESV "Brook of
-       Egypt" — Hebrew "nachal Mitzrayim." "Nachal" is a wadi (seasonal
-       stream), not a river (nahar). ESV's "Brook" is more accurate — this
-       is Wadi el-Arish, not the Nile.
+v.5  — Hebrew "v'nasav ha-g'vul" / "nachal Mitzrayim" — to turn; wadi of Egypt.
+       KJV: "the border shall fetch a compass from Azmon unto the river of Egypt"
+       ESV: "the border shall turn from Azmon to the Brook of Egypt"
+       ASV: (not separately noted)
+       NET: (not separately noted)
+       WEB: (not separately noted)
+       Analysis: "Nasav" means to turn, go around. KJV's archaic "fetch a compass" means "make a turn" — ESV's "turn" is clearer. Also: KJV "river of Egypt" vs. ESV "Brook of Egypt" — Hebrew "nachal" is a wadi (seasonal stream), not a river (nahar). ESV's "Brook" is more accurate — this is Wadi el-Arish, not the Nile.
 
-v.7  — KJV: "ye shall point out for you mount Hor" / ESV: "you shall draw
-       a line to Mount Hor" — Hebrew "teta'u lakhem." "Ta'ah" here means
-       to mark out, designate. ESV's "draw a line" is clearer. This Mount
-       Hor is in the north (Lebanon region), not the southern Mount Hor
-       where Aaron died.
+v.6  — Hebrew "ha-yam ha-gadol" — the Great Sea (Mediterranean).
+       KJV: (implied: "ye shall even have the great sea for a border")
+       ESV: (implied in border description)
+       ASV: "as for the western border, ye shall have the great sea"
+       NET: "the Great Sea will be your western border"
+       WEB: "For the western border, you shall have the great sea"
+       Analysis: All translations agree — "The Great Sea" = the Mediterranean. Israel's western boundary is the coastline itself.
 
-v.11 — KJV: "the side of the sea of Chinnereth" / ESV: "the shoulder of
-       the Sea of Chinnereth" — Hebrew "katef yam Kinneret." "Katef" means
-       shoulder — used geographically for a ridge or slope beside a body
-       of water. The Sea of Chinnereth is the Sea of Galilee (from
-       "kinnor" — harp, describing its shape).
+v.7  — Hebrew "teta'u lakhem" — to mark out, designate.
+       KJV: "ye shall point out for you mount Hor"
+       ESV: "you shall draw a line to Mount Hor"
+       ASV: (not separately noted)
+       NET: (not separately noted)
+       WEB: (not separately noted)
+       Analysis: "Ta'ah" here means to mark out, designate. ESV's "draw a line" is clearer. This Mount Hor is in the north (Lebanon region), not the southern Mount Hor where Aaron died.
 
-v.18 — KJV: "ye shall take one prince of every tribe" / ESV: "You shall
-       take one chief from every tribe" — Hebrew "nasi echad." "Nasi"
-       means prince, chief, leader. ESV's "chief" is more accessible;
-       KJV's "prince" carries more formal authority. These are tribal
-       representatives with authority to make binding decisions about
-       land allocation.
+v.11 — Hebrew "katef yam Kinneret" — shoulder of the Sea of Chinnereth.
+       KJV: "the side of the sea of Chinnereth"
+       ESV: "the shoulder of the Sea of Chinnereth"
+       ASV: (not separately noted)
+       NET: (not separately noted)
+       WEB: (not separately noted)
+       Analysis: "Katef" means shoulder — used geographically for a ridge or slope beside a body of water. The Sea of Chinnereth is the Sea of Galilee (from "kinnor" — harp, describing its shape).
+
+v.13 — Hebrew "tinchlah" — to inherit by lot.
+       KJV: (implied in context)
+       ESV: (implied in context)
+       ASV: "This is the land which ye shall inherit by lot"
+       NET: "This is the land which you will receive by lot as an inheritance"
+       WEB: "This is the land which you shall inherit by lot"
+       Analysis: Inheritance by lot means God controls the distribution. Human planning is secondary to divine sovereignty in land allocation.
+
+v.17 — Hebrew "yinchalu" — to divide/allocate as inheritance.
+       KJV: (not separately noted)
+       ESV: (not separately noted)
+       ASV: "These are the names of the men that shall divide the land unto you"
+       NET: "these are the names of the men who are to allocate the land to you"
+       WEB: "These are the names of the men who shall divide the land to you for inheritance"
+       Analysis: NET's "allocate" modernizes ASV/WEB's "divide" (Hebrew "yinchalu"). Named administrators ensure fair and accountable distribution.
+
+v.18 — Hebrew "nasi echad" — one prince/chief.
+       KJV: "ye shall take one prince of every tribe"
+       ESV: "You shall take one chief from every tribe"
+       ASV: (not separately noted)
+       NET: (not separately noted)
+       WEB: (not separately noted)
+       Analysis: "Nasi" means prince, chief, leader. ESV's "chief" is more accessible; KJV's "prince" carries more formal authority. These are tribal representatives with authority to make binding decisions about land allocation.
+
+v.29 — Hebrew (concluding verse on divine authorization).
+       KJV: (not separately noted)
+       ESV: (not separately noted)
+       ASV: "These are they whom Jehovah commanded to divide the inheritance"
+       NET: "These are the ones whom the Lord commanded to allocate inheritance"
+       WEB: "These are they whom Yahweh commanded to divide the inheritance"
+       Analysis: The chapter ends with divine authorization. Land division is not secular governance but sacred assignment — commanded by YHWH.
 
 GLOSSARY
 ------------------------------------
@@ -211,19 +252,6 @@ Ascent of Akrabbim — "Scorpion Pass." A steep ascent in the southern Negev,
                marking part of the southern boundary. Named for the
                scorpions found in the area.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "the Lord spoke to Moses" / ASV: "Jehovah spake unto Moses" / WEB: "Yahweh spoke to Moses" — God defines Israel's borders. The land is not taken by human ambition but received within divinely established limits. The divine name marks this as covenant land.
-
-- v.3 — NET: "Your southern border will extend from the wilderness of Zin" / ASV: "Then your south quarter shall be from the wilderness of Zin" / WEB: "Then your south quarter shall be from the wilderness of Zin" — NET uses "southern border" where ASV/WEB use "south quarter" (Hebrew "pe'at negev"). Precise geographic boundaries from Zin to the Brook of Egypt.
-
-- v.6 — NET: "the Great Sea will be your western border" / ASV: "as for the western border, ye shall have the great sea" / WEB: "For the western border, you shall have the great sea" — "The Great Sea" = the Mediterranean. All translations agree. Israel's western boundary is the coastline itself.
-
-- v.13 — NET: "This is the land which you will receive by lot as an inheritance" / ASV: "This is the land which ye shall inherit by lot" / WEB: "This is the land which you shall inherit by lot" — Inheritance by lot means God controls the distribution. Human planning is secondary to divine sovereignty in land allocation.
-
-- v.17 — NET: "these are the names of the men who are to allocate the land to you" / ASV: "These are the names of the men that shall divide the land unto you" / WEB: "These are the names of the men who shall divide the land to you for inheritance" — NET's "allocate" modernizes ASV/WEB's "divide" (Hebrew "yinchalu"). Named administrators ensure fair and accountable distribution.
-
-- v.29 — NET: "These are the ones whom the Lord commanded to allocate inheritance" / ASV: "These are they whom Jehovah commanded to divide the inheritance" / WEB: "These are they whom Yahweh commanded to divide the inheritance" — The chapter ends with divine authorization. Land division is not secular governance but sacred assignment — commanded by YHWH.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -259,12 +287,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

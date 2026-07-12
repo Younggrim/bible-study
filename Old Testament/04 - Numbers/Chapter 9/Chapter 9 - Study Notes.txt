@@ -139,51 +139,116 @@ Charles Spurgeon:
   for the map cannot change, but the cloud is the living God who adapts
   His leading to every circumstance."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "in the first month of the second year" / ESV: "in the first
-       month of the second year" — This is chronologically BEFORE Chapter
-       1 (which is the second month). The chapter is placed here
-       thematically, not chronologically.
+v.1  — Hebrew "midbar Sinai" — wilderness/desert of Sinai.
+       KJV: "in the first month of the second year... in the wilderness of Sinai"
+       ESV: "in the first month of the second year... in the wilderness of Sinai"
+       ASV: "in the wilderness of Sinai"
+       NET: "in the desert of Sinai"
+       WEB: "in the wilderness of Sinai"
+       Analysis: This is chronologically BEFORE Chapter 1 (which is the
+       second month). The chapter is placed here thematically, not
+       chronologically. NET consistently uses "desert" for Hebrew "midbar"
+       where ASV/WEB use "wilderness." The Passover is observed in the
+       wilderness — even in desolate places, God commands celebration.
 
-v.3  — KJV: "at even" / ESV: "at twilight" — Hebrew "bein ha-arbayim" —
-       literally "between the evenings." This phrase is debated: either
-       between noon and sunset (when the sun declines) or between sunset
-       and dark. The Passover lamb is killed in this window. KJV's "even"
-       and ESV's "twilight" both approximate.
+v.2  — Hebrew "ya'asu" — to do/perform/observe.
+       KJV: "Let the children of Israel also keep the passover"
+       ESV: "Let the people of Israel keep the Passover"
+       ASV: "Let the children of Israel also keep the passover in its appointed season"
+       NET: "The Israelites are to observe the Passover at its appointed time"
+       WEB: "Let the children of Israel keep the Passover in its appointed season"
+       Analysis: NET's "observe" and KJV/ASV/WEB's "keep" translate Hebrew
+       "ya'asu" (do/perform). The Passover must be done, not merely
+       remembered. It is active participation, not passive memory.
 
-v.7  — KJV: "wherefore are we kept back" / ESV: "why are we kept from
-       bringing" — Hebrew "lamah nigara" — why are we diminished/held back?
-       The men feel deprived, not relieved. They want to participate in
-       worship, not be excused from it.
+v.3  — Hebrew "bein ha-arbayim" — literally "between the evenings."
+       KJV: "at even"
+       ESV: "at twilight"
+       ASV: "at even"
+       NET: "at twilight"
+       WEB: "at evening"
+       Analysis: This phrase is debated: either between noon and sunset
+       (when the sun declines) or between sunset and dark. The Passover
+       lamb is killed in this window. KJV/ASV's "even/evening" and ESV/
+       NET's "twilight" both approximate.
 
-v.12 — KJV: "nor break any bone of it" / ESV: "nor break any of its
-       bones" — Hebrew "v'etzem lo yishb'ru vo" — a bone they shall not
-       break in it. This detail points to Christ: "A bone of him shall not
-       be broken" (John 19:36; Psalm 34:20). The Passover lamb's
-       unbroken bones foreshadow the crucified Christ.
+v.6  — Hebrew "tame l'nefesh adam" — unclean by a soul/body of man.
+       KJV: "defiled by the dead body of a man"
+       ESV: "unclean through touching a dead body"
+       ASV: "unclean by reason of the dead body of a man"
+       NET: "ceremonially defiled by the dead body of a man"
+       WEB: "unclean by reason of the dead body of a man"
+       Analysis: NET adds "ceremonially" to distinguish ritual from moral
+       defilement. Contact with a corpse creates ceremonial uncleanness
+       lasting seven days — too long to participate in Passover.
 
-v.13 — KJV: "shall be cut off from among his people" / ESV: "shall be cut
-       off from his people" — Hebrew "v'nikhretah ha-nefesh ha-hi
-       me-ammeha" — that soul shall be cut off from its people. "Cut off"
-       (karet) may mean execution, excommunication, or divine judgment
-       (premature death). The penalty is severe — Passover is not optional.
+v.7  — Hebrew "lamah nigara" — why are we diminished/held back?
+       KJV: "wherefore are we kept back"
+       ESV: "why are we kept from bringing"
+       ASV: "wherefore are we kept back"
+       NET: "why are we being kept back"
+       WEB: "why are we kept back"
+       Analysis: The men feel deprived, not relieved. They want to
+       participate in worship, not be excused from it. All translations
+       convey the sense of unwanted exclusion.
 
-v.15 — KJV: "the tent of the testimony" / ESV: "the tent of the
-       testimony" — Hebrew "ohel ha-edut" — the tent of the testimony
-       (the tablets of the Law). The cloud covers the structure that houses
-       God's covenant words.
+v.12 — Hebrew "v'etzem lo yishb'ru vo" — a bone they shall not break in
+       it.
+       KJV: "nor break any bone of it"
+       ESV: "nor break any of its bones"
+       ASV: "nor break a bone of it"
+       NET: "nor break any of its bones"
+       WEB: "nor break any of its bones"
+       Analysis: This detail points to Christ: "A bone of him shall not be
+       broken" (John 19:36; Psalm 34:20). The Passover lamb's unbroken
+       bones foreshadow the crucified Christ. The second Passover follows
+       the same rules — grace within law.
 
-v.22 — KJV: "or a year" / ESV: "or a longer time" — Hebrew "o yamim" —
-       or days (an indefinite period). KJV interprets "yamim" as "a year"
-       (which it can mean — cf. Leviticus 25:29); ESV renders it more
-       generally as "a longer time." The point: whether short or long, they
-       waited.
+v.13 — Hebrew "v'nikhretah ha-nefesh ha-hi me-ammeha" — that soul shall
+       be cut off from its people.
+       KJV: "shall be cut off from among his people"
+       ESV: "shall be cut off from his people"
+       ASV: "shall be cut off from his people"
+       NET: "will be cut off from his people"
+       WEB: "shall be cut off from his people"
+       Analysis: "Cut off" (karet) may mean execution, excommunication, or
+       divine judgment (premature death). The penalty is severe — Passover
+       is not optional for those who are clean and present.
 
-v.23 — KJV: "at the commandment of the LORD" / ESV: "at the command of
-       the LORD" — Hebrew "al pi Yahweh" — literally "at the mouth of the
-       LORD." God's command is His spoken word — His "mouth." The cloud is
-       the visible expression of God's verbal command.
+v.15 — Hebrew "ohel ha-edut" — the tent of the testimony.
+       KJV: "the tent of the testimony"
+       ESV: "the tent of the testimony"
+       ASV: "the tent of the testimony"
+       NET: "the tabernacle—the tent of the testimony"
+       WEB: "the Tent of the Testimony"
+       Analysis: The cloud covers the structure that houses God's covenant
+       words (the tablets of the Law). NET uses a dash to clarify that
+       "tabernacle" and "tent of testimony" are the same structure. WEB
+       capitalizes both words.
+
+v.22 — Hebrew "o yamim" — or days (an indefinite period).
+       KJV: "or a year"
+       ESV: "or a longer time"
+       ASV: "or a year"
+       NET: "or a year"
+       WEB: "or a year"
+       Analysis: KJV/ASV/NET/WEB interpret "yamim" as "a year" (which it
+       can mean — cf. Leviticus 25:29); ESV renders it more generally as
+       "a longer time." The point: whether short or long, they waited for
+       God's leading.
+
+v.23 — Hebrew "al pi Yahweh" — literally "at the mouth of the LORD."
+       KJV: "at the commandment of the LORD"
+       ESV: "at the command of the LORD"
+       ASV: "At the commandment of Jehovah they encamped, and at the commandment of Jehovah they journeyed"
+       NET: "At the commandment of the Lord they camped, and at the commandment of the Lord they traveled"
+       WEB: "At the commandment of Yahweh they encamped, and at the commandment of Yahweh they traveled"
+       Analysis: God's command is His spoken word — His "mouth." The cloud
+       is the visible expression of God's verbal command. The refrain of
+       divine guidance. Israel's movements are determined entirely by God's
+       direction through the cloud.
 
 GLOSSARY
 ------------------------------------
@@ -219,20 +284,6 @@ Sojourner/Stranger (Hebrew: "ger") — A non-Israelite living among Israel.
                applies. God's redemption is not ethnically exclusive.
                Foreshadows Gentile inclusion in Christ.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "in the desert of Sinai" / ASV: "in the wilderness of Sinai" / WEB: "in the wilderness of Sinai" — NET consistently uses "desert" for Hebrew "midbar" where ASV/WEB use "wilderness." The Passover is observed in the wilderness — a reminder that even in desolate places, God commands celebration.
-
-- v.2 — NET: "The Israelites are to observe the Passover at its appointed time" / ASV: "Let the children of Israel also keep the passover in its appointed season" / WEB: "Let the children of Israel keep the Passover in its appointed season" — NET's "observe" and ASV/KJV's "keep" translate Hebrew "ya'asu" (do/perform). The Passover must be done, not merely remembered.
-
-- v.6 — NET: "ceremonially defiled by the dead body of a man" / ASV: "unclean by reason of the dead body of a man" / WEB: "unclean by reason of the dead body of a man" — NET adds "ceremonially" to distinguish ritual from moral defilement. Contact with a corpse creates ceremonial uncleanness lasting seven days — too long to participate in Passover.
-
-- v.12 — NET: "according to all the statutes of the Passover" / ASV: "according to all the statute of the passover" / WEB: "according to all the statute of the Passover" — The second Passover (month later) follows the same rules. God provides a second chance for those legitimately prevented — grace within law.
-
-- v.15 — NET: "the cloud covered the tabernacle—the tent of the testimony" / ASV: "the cloud covered the tabernacle, even the tent of the testimony" — Both clarify that "tabernacle" and "tent of testimony" are the same structure. NET uses a dash for apposition; ASV uses "even." The cloud represents God's visible presence.
-
-- v.23 — NET: "At the commandment of the Lord they camped, and at the commandment of the Lord they traveled" / ASV: "At the commandment of Jehovah they encamped, and at the commandment of Jehovah they journeyed" — The refrain of divine guidance. WEB uses "Yahweh" in both places. Israel's movements are determined entirely by God's direction through the cloud.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Hunger for worship (v.7). These men did not want to be excused — they
@@ -264,12 +315,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

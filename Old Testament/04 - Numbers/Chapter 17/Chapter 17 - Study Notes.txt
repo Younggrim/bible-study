@@ -144,46 +144,63 @@ Charles Spurgeon:
   believer: 'Ye have not chosen me, but I have chosen you, and ordained
   you, that ye should go and bring forth fruit' (John 15:16)."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "a rod according to the house of their fathers" / ESV:
-       "staffs, one for each fathers' house" — Hebrew "matteh" means both
-       "rod/staff" and "tribe" (a tribe being the "staff" or branch of a
-       family). The double meaning is significant: the tribal staff
-       represents the tribe's authority and identity.
+v.2  — Hebrew "matteh" — rod/staff/tribe.
+       KJV: "a rod according to the house of their fathers"
+       ESV: "staffs, one for each fathers' house"
+       ASV: "take of them rods, one for each fathers' house"
+       NET: "Get twelve staffs from them, one from each tribal leader"
+       WEB: "Take rods from them, one for each fathers' house"
+       Analysis: Hebrew "matteh" means both "rod/staff" and "tribe" (a tribe being the "staff" or branch of a family). The double meaning is significant: the tribal staff represents the tribe's authority and identity. NET uses "staffs" and makes explicit "twelve" and "tribal leader." The wordplay connecting the leader's authority rod with his tribal identity is central to the test.
 
-v.5  — KJV: "shall blossom" / ESV: "shall sprout" — Hebrew "yifrach" —
-       to sprout, bud, blossom. The word encompasses the entire process
-       of coming to life. KJV emphasizes the flowering; ESV emphasizes
-       the initial sprouting.
+v.5  — Hebrew "yifrach" — to sprout, bud, blossom.
+       KJV: "shall blossom"
+       ESV: "shall sprout"
+       ASV: "the man's rod, whom I shall choose, shall bud"
+       NET: "the staff of the man whom I choose will blossom"
+       WEB: "the rod of the man whom I shall choose shall bud"
+       Analysis: The word encompasses the entire process of coming to life. KJV/NET emphasize the flowering ("blossom"); ESV emphasizes the initial sprouting; ASV/WEB use "bud." God will supernaturally confirm His chosen priest by making a dead stick come alive.
 
-v.8  — KJV: "was budded, and brought forth buds, and bloomed blossoms,
-       and yielded almonds" / ESV: "had sprouted and put forth buds and
-       produced blossoms, and it bore ripe almonds" — Hebrew uses four
-       distinct verbs showing progressive stages of life. Both translations
-       capture the miraculous progression from death to full fruitfulness
-       in a single night.
+v.8  — Hebrew uses four distinct verbs showing progressive stages of life.
+       KJV: "was budded, and brought forth buds, and bloomed blossoms, and yielded almonds"
+       ESV: "had sprouted and put forth buds and produced blossoms, and it bore ripe almonds"
+       ASV: "had budded, and put forth buds, and produced blossoms, and bare ripe almonds"
+       NET: "had budded, put forth shoots, and produced ripe almonds"
+       WEB: "had sprouted, produced buds, produced blossoms, and bore ripe almonds"
+       Analysis: Four stages of life in one night: (1) sprouted, (2) budded, (3) blossomed, (4) bore ripe fruit. A dead stick produces what takes a living tree months to accomplish. NET compresses slightly; ASV/WEB/KJV detail each stage. Supernatural acceleration of the entire growth cycle — resurrection power.
 
-v.10 — KJV: "for a token against the rebels" / ESV: "as a sign for the
-       rebels" — Hebrew "l'ot" — a sign, token, or marker. The rod is
-       both evidence (God chose Aaron) and warning (do not challenge His
-       choice again).
+v.10 — Hebrew "l'ot" — a sign, token, or marker; "t'khaleh" — to finish, complete.
+       KJV: "for a token against the rebels... thou shalt quite take away their murmurings"
+       ESV: "as a sign for the rebels... you may make an end of their grumblings"
+       ASV: "Put back the rod of Aaron before the testimony, to be kept"
+       NET: "put Aaron's staff back before the testimony for safekeeping"
+       WEB: "Put back the rod of Aaron before the Testimony, to be kept"
+       Analysis: The rod is both evidence (God chose Aaron) and warning (do not challenge His choice again). The budding rod is stored in the Most Holy Place alongside the tablets and manna (Hebrews 9:4). Three signs of God's authority preserved together: Law, provision, and chosen priesthood. Hebrew "t'khaleh" means to finish/complete — the rod is meant to settle the matter permanently.
 
-v.10 — KJV: "thou shalt quite take away their murmurings" / ESV: "you
-       may make an end of their grumblings" — Hebrew "t'khaleh" — to
-       finish, complete, bring to an end. The rod is meant to settle the
-       matter permanently — no more debate about who God has chosen.
+v.12 — Hebrew "gavanu avadnu kullanu avadnu" — three expressions of despair escalating.
+       KJV: "we die, we perish, we all perish"
+       ESV: "we perish, we are undone, we are all undone"
+       ASV: "Behold, we perish, we are undone, we are all undone"
+       NET: "We are about to perish! We are destroyed! All of us are about to be destroyed!"
+       WEB: "Behold, we perish! We are undone! We are all undone!"
+       Analysis: Three exclamations of despair: we expire, we are lost, all of us are lost. The repetition conveys panic. The people now fear approaching God at all — the opposite extreme from Korah's presumption. Chapter 18 answers by establishing the Levitical buffer.
 
-v.12 — KJV: "we die, we perish, we all perish" / ESV: "we perish, we are
-       undone, we are all undone" — Hebrew "gavanu avadnu kullanu avadnu"
-       — three expressions of despair escalating: we expire, we are lost,
-       all of us are lost. The repetition conveys panic.
+v.13 — Hebrew "ha-im tamnu ligvo'a" — have we finished dying? / shall we be completely consumed?
+       KJV: "shall we be consumed with dying?"
+       ESV: "Are we all to perish?"
+       ASV: "Shall we perish all of us?"
+       NET: "Are we all going to die?"
+       WEB: "Will we all perish?"
+       Analysis: The question expects the answer "yes" — they see no hope. But God's answer (chapter 18) is: no, because I give you priests. The terror drives them to need a mediator — which God graciously provides.
 
-v.13 — KJV: "shall we be consumed with dying?" / ESV: "Are we all to
-       perish?" — Hebrew "ha-im tamnu ligvo'a" — have we finished dying?
-       / shall we be completely consumed? The question expects the answer
-       "yes" — they see no hope. But God's answer (chapter 18) is: no,
-       because I give you priests.
+v.2  — Hebrew "YHWH" — the divine name (before whom the rods are placed).
+       KJV: "before the LORD"
+       ESV: "before the LORD"
+       ASV: "before Jehovah"
+       NET: "before the Lord"
+       WEB: "before Yahweh"
+       Analysis: The rods are placed "before YHWH" — in His presence. The divine name marks this as a direct appeal to God's personal judgment. ASV renders it "Jehovah," WEB uses "Yahweh," while KJV/ESV/NET use "the LORD/Lord."
 
 GLOSSARY
 ------------------------------------
@@ -211,20 +228,6 @@ Token / Sign (Hebrew: "ot") — A visible marker or proof. The rod is kept
                as permanent evidence — not for God (who knows His choice)
                but for the people (who keep forgetting). Signs are God's
                accommodation to human weakness and forgetfulness.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "Get twelve staffs from them, one from each tribal leader" / ASV: "take of them rods, one for each fathers' house" / WEB: "Take rods from them, one for each fathers' house" — NET uses "staffs" (Hebrew "matteh" — rod/staff/tribe). The same word means both "staff" and "tribe" — a wordplay connecting the leader's authority rod with his tribal identity.
-
-- v.5 — NET: "the staff of the man whom I choose will blossom" / ASV: "the man's rod, whom I shall choose, shall bud" / WEB: "the rod of the man whom I shall choose shall bud" — NET uses "blossom"; ASV/WEB use "bud" (Hebrew "yiphrach" — sprout/blossom). God will supernaturally confirm His chosen priest by making a dead stick come alive.
-
-- v.8 — NET: "had budded, put forth shoots, and produced ripe almonds" / ASV: "had budded, and put forth buds, and produced blossoms, and bare ripe almonds" / WEB: "had sprouted, produced buds, produced blossoms, and bore ripe almonds" — Three stages of growth in one night: buds, blossoms, fruit. NET compresses slightly; ASV/WEB detail each stage. Supernatural acceleration of the entire growth cycle.
-
-- v.10 — NET: "put Aaron's staff back before the testimony for safekeeping" / ASV: "Put back the rod of Aaron before the testimony, to be kept" / WEB: "Put back the rod of Aaron before the Testimony, to be kept" — The budding rod is stored in the Most Holy Place alongside the tablets and manna (Heb 9:4). Three signs of God's authority: Law, provision, and chosen priesthood.
-
-- v.12 — NET: "We are about to perish! We are destroyed! All of us are about to be destroyed!" / ASV: "Behold, we perish, we are undone, we are all undone" / WEB: "Behold, we perish! We are undone! We are all undone!" — Three exclamations of despair. The people now fear approaching God at all — the opposite extreme from Korah's presumption. Chapter 18 answers by establishing the Levitical buffer.
-
-- v.2 — ASV: "before Jehovah" / WEB: "before Yahweh" / NET: "before the Lord" — The rods are placed "before YHWH" — in His presence. The divine name marks this as a direct appeal to God's personal judgment.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -265,12 +268,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

@@ -149,42 +149,63 @@ Charles Spurgeon:
   not want.' He who has God has everything. He who has everything but God
   has nothing."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "bear the iniquity of the sanctuary" / ESV: "bear iniquity
-       connected with the sanctuary" — Hebrew "tiss'u et avon ha-miqdash."
-       "Bear the iniquity" means to carry the responsibility for any
-       violations — if something goes wrong in the sanctuary, the priests
-       are accountable. It is both privilege and burden.
+v.1  — Hebrew "tiss'u et avon ha-miqdash" — bear the iniquity of the sanctuary.
+       KJV: "bear the iniquity of the sanctuary"
+       ESV: "bear iniquity connected with the sanctuary"
+       ASV: "Thou and thy sons and thy fathers' house with thee shall bear the iniquity of the sanctuary"
+       NET: "You and your sons and your tribe with you must bear the iniquity of the sanctuary"
+       WEB: "You and your sons and your fathers' house with you shall bear the iniquity of the sanctuary"
+       Analysis: "Bear the iniquity" means to carry the responsibility for any violations — if something goes wrong in the sanctuary, the priests are accountable. It is both privilege and burden. The priests are liable if unauthorized persons approach. ESV adds "connected with" for clarity.
 
-v.7  — KJV: "a service of gift" / ESV: "I give your priesthood as a gift"
-       — Hebrew "avodat mattanah." The priesthood is literally "a service
-       that is a gift" — given by God, not earned by man. KJV preserves
-       the Hebrew construction; ESV clarifies the meaning.
+v.7  — Hebrew "avodat mattanah" — a service that is a gift.
+       KJV: "a service of gift"
+       ESV: "I give your priesthood as a gift"
+       ASV: "I give you the priesthood as a service of gift"
+       NET: "I give you the priesthood as a gift of service"
+       WEB: "I give you the priesthood as a service of gift"
+       Analysis: The priesthood is literally "a service that is a gift" — given by God, not earned by man. KJV preserves the Hebrew construction; ESV clarifies the meaning. NET emphasizes priesthood as GIFT; ASV/WEB's wording preserves the ambiguity. The priesthood is not earned but given by God — what Korah failed to understand.
 
-v.8  — KJV: "mine heave offerings" / ESV: "the contributions made to me"
-       — Hebrew "t'rumotai" — my lifted-up offerings, my contributions.
-       KJV retains the technical term; ESV uses the more accessible
-       "contributions."
+v.8  — Hebrew "t'rumotai" — my lifted-up offerings/contributions.
+       KJV: "mine heave offerings"
+       ESV: "the contributions made to me"
+       ASV: "mine heave-offerings"
+       NET: (God speaks directly to Aaron here — rare)
+       WEB: "my wave offerings"
+       Analysis: KJV/ASV retain the technical term "heave offerings"; ESV uses the more accessible "contributions." God speaks directly to Aaron here, not through Moses — this is rare and emphasizes the personal nature of priestly appointment and provision.
 
-v.19 — KJV: "a covenant of salt" / ESV: "a covenant of salt" — Hebrew
-       "b'rit melach." Salt preserves food from corruption; a "salt
-       covenant" is one that will never decay or be broken. In the ancient
-       Near East, sharing salt sealed agreements. God's provision for His
-       priests is permanent and incorruptible.
+v.19 — Hebrew "b'rit melach" — covenant of salt.
+       KJV: "it is a covenant of salt for ever before the LORD"
+       ESV: "It is a covenant of salt forever before the LORD"
+       ASV: "it is a covenant of salt for ever"
+       NET: "It is a covenant of salt forever"
+       WEB: "It is a covenant of salt forever"
+       Analysis: Salt preserves food from corruption; a "salt covenant" is one that will never decay or be broken. In the ancient Near East, sharing salt sealed agreements. All translations agree on "covenant of salt" (Hebrew "berith melach"). God's provision for His priests is permanent and inviolable — as enduring as His own nature.
 
-v.20 — KJV: "I am thy part and thine inheritance" / ESV: "I am your
-       portion and your inheritance" — Hebrew "ani chelq'kha v'nachalat'kha."
-       "Cheleq" = portion, share, allotment. "Nachalah" = inheritance,
-       permanent possession. Both words emphasize: God is not a
-       consolation prize for lacking land — He IS the inheritance, greater
-       than any territory.
+v.20 — Hebrew "ani chelq'kha v'nachalat'kha" — I am your portion and your inheritance.
+       KJV: "I am thy part and thine inheritance"
+       ESV: "I am your portion and your inheritance"
+       ASV: "I am thy portion and thine inheritance"
+       NET: "I am your portion and your inheritance"
+       WEB: "I am your portion and your inheritance"
+       Analysis: "Cheleq" = portion, share, allotment. "Nachalah" = inheritance, permanent possession. Both words emphasize: God is not a consolation prize for lacking land — He IS the inheritance, greater than any territory. The divine name differences (ASV/WEB) make this personal: "I, Jehovah/Yahweh, am your portion." They receive no tribal land because they possess something greater — YHWH Himself.
 
-v.26 — KJV: "a tenth part of the tithe" / ESV: "a tithe of the tithe" —
-       Hebrew "ma'aser min ha-ma'aser." The Levites receive the people's
-       tithe (10%) and then give a tithe of that (1% of the total) to the
-       priests. Everyone participates in giving — even those who live by
-       receiving.
+v.21 — Hebrew "ma'aser" — a tenth/tithe.
+       KJV: "I have given the children of Levi all the tenth in Israel for an inheritance"
+       ESV: "To the Levites I have given every tithe in Israel for an inheritance"
+       ASV: "unto the children of Levi, behold, I have given all the tithe in Israel for an inheritance"
+       NET: "I have given to the Levites all the tithes in Israel for an inheritance"
+       WEB: "to the children of Levi, behold, I have given all the tithe in Israel for an inheritance"
+       Analysis: The tithe system is not a tax but God's provision for those who serve Him full-time. Tithes replace land. The Levites serve the Tabernacle and bear the responsibility of mediating between God and the people.
+
+v.26 — Hebrew "ma'aser min ha-ma'aser" — a tithe of the tithe.
+       KJV: "a tenth part of the tithe"
+       ESV: "a tithe of the tithe"
+       ASV: "a tithe of the tithe"
+       NET: "a tithe of the tithe"
+       WEB: "a tithe of the tithe"
+       Analysis: The Levites receive the people's tithe (10%) and then give a tithe of that (1% of the total) to the priests. Everyone participates in giving — even those who live by receiving. No one is exempt from generosity toward God.
 
 GLOSSARY
 ------------------------------------
@@ -220,20 +241,6 @@ Five Shekels — The redemption price for a firstborn son (approximately
                2 ounces of silver). A modest sum — redemption is
                accessible to all. The price acknowledges God's ownership
                without being burdensome.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "You and your sons and your tribe with you must bear the iniquity of the sanctuary" / ASV: "Thou and thy sons and thy fathers' house with thee shall bear the iniquity of the sanctuary" / WEB: "You and your sons and your fathers' house with you shall bear the iniquity of the sanctuary" — "Bear the iniquity" means taking responsibility for any violations of sacred space. The priests are liable if unauthorized persons approach.
-
-- v.7 — NET: "I give you the priesthood as a gift of service" / ASV: "I give you the priesthood as a service of gift" / WEB: "I give you the priesthood as a service of gift" — NET emphasizes priesthood as GIFT; ASV/WEB's wording is more ambiguous. Hebrew "avodat mattanah" — service that is a gift. The priesthood is not earned but given by God.
-
-- v.8 — NET: "the Lord spoke to Aaron" — Note: God speaks directly to Aaron here, not through Moses. This is rare and emphasizes the personal nature of priestly appointment.
-
-- v.19 — NET: "It is a covenant of salt forever" / ASV: "it is a covenant of salt for ever" / WEB: "It is a covenant of salt forever" / KJV: "it is a covenant of salt for ever" — All agree on "covenant of salt" (Hebrew "berith melach"). Salt preserves and does not decay — this covenant with priests is permanent and inviolable.
-
-- v.20 — NET: "I am your portion and your inheritance" / ASV: "I am thy portion and thine inheritance" / WEB: "I am your portion and your inheritance" — God Himself is the Levites' inheritance. They receive no tribal land because they possess something greater — YHWH Himself. The divine name differences (ASV/WEB) make this personal: "I, Jehovah/Yahweh, am your portion."
-
-- v.21 — NET: "I have given to the Levites all the tithes in Israel for an inheritance" / ASV: "unto the children of Levi, behold, I have given all the tithe in Israel for an inheritance" / WEB: "to the children of Levi, behold, I have given all the tithe in Israel for an inheritance" — The tithe system is not a tax but God's provision for those who serve Him full-time. Tithes replace land.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -271,12 +278,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

@@ -147,51 +147,101 @@ Charles Spurgeon:
   rash words and broken promises — He who had authority to void our
   condemnation chose instead to bear it Himself."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "bind his soul with a bond" / ESV: "bind himself by a pledge"
-       — Hebrew "le'sor issar al nafsho." "Issar" means a binding
-       obligation, a restrictive pledge. "Nefesh" (soul/self) emphasizes
-       that the whole person is bound. KJV's "bind his soul" is more
-       literal; ESV's "bind himself" is clearer in modern English.
+v.2  — Hebrew "le'sor issar al nafsho" — "Issar" means a binding obligation, a restrictive
+       pledge. "Nefesh" (soul/self) emphasizes that the whole person is bound.
+       KJV: "bind his soul with a bond"
+       ESV: "bind himself by a pledge"
+       ASV: "When a man voweth a vow unto Jehovah, or sweareth an oath to bind his soul with a bond, he shall not break his word"
+       NET: "If a man makes a vow to the Lord or takes an oath of binding obligation on himself, he must not break his word"
+       WEB: "When a man vows a vow to Yahweh, or swears an oath to bind his soul with a bond, he shall not break his word"
+       Analysis: KJV's "bind his soul" is more literal; ESV's "bind himself" is clearer in
+       modern English. NET compresses "vow a vow" and "oath to bind his soul." Hebrew "neder"
+       (vow) and "issar" (bond/restriction) are two categories: positive promises and self-
+       imposed restrictions.
 
-v.3  — KJV: "being in her father's house in her youth" / ESV: "while
-       within her father's house in her youth" — The condition is twofold:
-       (1) she is young (unmarried), and (2) she is under her father's
-       roof/authority. Both conditions must apply for the father's
-       annulment right to exist.
+v.2  — Hebrew "lo yachel devaro" — he shall not profane/desecrate his word.
+       KJV: "he shall not break his word"
+       ESV: "He shall not break his word"
+       ASV: "he shall not break his word"
+       NET: "he must not break his word"
+       WEB: "he shall not break his word"
+       Analysis: Words to God are sacred; breaking them is profanation. All translations agree
+       closely here. Jesus intensifies this: "Let your 'yes' be 'yes'" (Matt 5:37).
 
-v.5  — KJV: "if her father disallow her" / ESV: "if her father opposes
-       her" — Hebrew "im heni aviha otah." "Heni" (from "nu") means to
-       hinder, restrain, forbid. KJV's "disallow" and ESV's "opposes"
-       both capture the sense of active prohibition. The father must
-       explicitly speak against the vow — mere disapproval is not enough.
+v.3  — Hebrew construction describing a young woman in her father's house.
+       KJV: "being in her father's house in her youth"
+       ESV: "while within her father's house in her youth"
+       ASV: "Also when a woman voweth a vow unto Jehovah, and bindeth herself by a bond, being in her father's house, in her youth"
+       NET: "If a young woman who is still living in her father's house"
+       WEB: "Also, when a woman vows a vow to Yahweh and binds herself by a bond, being in her father's house, in her youth"
+       Analysis: The condition is twofold: (1) she is young (unmarried), and (2) she is under
+       her father's roof/authority. Both conditions must apply for the father's annulment right
+       to exist. NET simplifies the complex Hebrew construction.
 
-v.6  — KJV: "uttered ought out of her lips, wherewith she bound her soul"
-       / ESV: "any thoughtless utterance of her lips by which she has
-       bound herself" — Hebrew "mivta sefateha." "Mivta" means an
-       utterance, something blurted out. ESV's "thoughtless utterance"
-       interprets the word as impulsive speech — a legitimate reading that
-       highlights the protective purpose of the husband's authority.
+v.5  — Hebrew "im heni aviha otah" — "Heni" (from "nu") means to hinder, restrain, forbid.
+       KJV: "if her father disallow her"
+       ESV: "if her father opposes her"
+       ASV: "if her father disallow her in the day that he heareth"
+       NET: "if her father overrules her on the day he hears about it"
+       WEB: "if her father disallow her in the day that he hears"
+       Analysis: KJV's "disallow" and ESV's "opposes" both capture the sense of active
+       prohibition. NET uses "overrules." The father must explicitly speak against the vow —
+       mere disapproval is not enough. The authority must be exercised immediately — silence
+       equals consent.
 
-v.8  — KJV: "he shall make her vow... of none effect" / ESV: "he makes
-       void her vow" — Hebrew "hefer." "Hefer" means to break, annul,
-       make void, frustrate. Both translations capture the complete
-       nullification — the vow ceases to exist as a binding obligation.
+v.6  — Hebrew "mivta sefateha" — "Mivta" means an utterance, something blurted out.
+       KJV: "uttered ought out of her lips, wherewith she bound her soul"
+       ESV: "any thoughtless utterance of her lips by which she has bound herself"
+       ASV: "uttered aught out of her lips, wherewith she bound her soul"
+       NET: "her rash promise by which she has bound herself"
+       WEB: "uttered anything out of her lips, with which she bound her soul"
+       Analysis: ESV's "thoughtless utterance" interprets the word as impulsive speech — a
+       legitimate reading that highlights the protective purpose of the husband's authority.
+       NET uses "rash promise" to capture the same nuance.
 
-v.13 — KJV: "every binding oath to afflict the soul" / ESV: "any binding
-       oath to afflict herself" — Hebrew "kol shevuat issar l'annot
-       nafesh." This specifically addresses vows of self-denial (fasting,
-       abstinence). The husband has authority over vows that affect the
-       household's well-being — a wife's extreme asceticism affects the
-       whole family.
+v.8  — Hebrew "hefer" — to break, annul, make void, frustrate.
+       KJV: "he shall make her vow... of none effect"
+       ESV: "he makes void her vow"
+       ASV: "he shall make void her vow"
+       NET: "her husband overrules her"
+       WEB: "he shall make void her vow"
+       Analysis: Both KJV and ESV capture the complete nullification — the vow ceases to exist
+       as a binding obligation. NET uses "overrules" to describe the action from the husband's
+       perspective rather than the vow's status.
 
-v.15 — KJV: "he shall bear her iniquity" / ESV: "he shall bear her
-       iniquity" — Hebrew "v'nasa et avonah." Identical in both
-       translations. "Nasa avon" — to bear guilt/punishment. The same
-       phrase used of Christ in Isaiah 53:11: "He shall bear their
-       iniquities." The authority who fails in his duty absorbs the
-       consequences meant for the one under his care.
+v.9  — Hebrew "kol neder almanah u'gerushah" — every vow of a widow or divorced woman.
+       KJV: "every vow of a widow, and of her that is divorced"
+       ESV: "any vow of a widow or of a divorced woman"
+       ASV: "every vow of a widow, and of her that is put away"
+       NET: "every vow of a widow or of a divorced woman"
+       WEB: "every vow of a widow, and of her who is divorced"
+       Analysis: Women without a male authority head (widows, divorcees) are fully responsible
+       for their own vows — no one can annul them. This recognizes their independent legal
+       standing. ASV's "put away" is an archaic term for divorce.
+
+v.13 — Hebrew "kol shevuat issar l'annot nafesh" — binding oath to afflict the soul.
+       KJV: "every binding oath to afflict the soul"
+       ESV: "any binding oath to afflict herself"
+       ASV: "every binding oath to afflict the soul"
+       NET: "every binding oath to humble herself"
+       WEB: "every binding oath to afflict the soul"
+       Analysis: This specifically addresses vows of self-denial (fasting, abstinence). The
+       husband has authority over vows that affect the household's well-being — a wife's
+       extreme asceticism affects the whole family. NET uses "humble" instead of "afflict."
+
+v.15 — Hebrew "v'nasa et avonah" — to bear guilt/punishment.
+       KJV: "he shall bear her iniquity"
+       ESV: "he shall bear her iniquity"
+       ASV: "he shall bear her iniquity"
+       NET: "he will bear her iniquity"
+       WEB: "he shall bear her iniquity"
+       Analysis: Identical across all translations. "Nasa avon" — to bear guilt/punishment.
+       The same phrase used of Christ in Isaiah 53:11: "He shall bear their iniquities." The
+       authority who fails in his duty absorbs the consequences meant for the one under his
+       care. If a husband nullifies his wife's vow AFTER the day he heard it (too late), HE
+       bears the guilt of the broken vow. Authority misused becomes liability.
 
 GLOSSARY
 ------------------------------------
@@ -220,20 +270,6 @@ Bear Her Iniquity — To absorb the guilt and consequences of a broken vow.
                When a husband annuls a vow after his silence has confirmed
                it, the resulting guilt falls on him, not on his wife. He
                caused the breach; he bears the penalty.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "If a man makes a vow to the Lord or takes an oath of binding obligation on himself, he must not break his word" / ASV: "When a man voweth a vow unto Jehovah, or sweareth an oath to bind his soul with a bond, he shall not break his word" / WEB: "When a man vows a vow to Yahweh, or swears an oath to bind his soul with a bond, he shall not break his word" — NET compresses "vow a vow" and "oath to bind his soul." Hebrew "neder" (vow) and "issar" (bond/restriction) are two categories: positive promises and self-imposed restrictions.
-
-- v.2 — NET: "he must not break his word" / ASV: "he shall not break his word" / WEB: "he shall not break his word" / KJV: "he shall not break his word" — Hebrew "lo yachel devaro" — he shall not profane/desecrate his word. Words to God are sacred; breaking them is profanation. Jesus intensifies this: "Let your 'yes' be 'yes'" (Matt 5:37).
-
-- v.3 — NET: "If a young woman who is still living in her father's house" / ASV: "Also when a woman voweth a vow unto Jehovah, and bindeth herself by a bond, being in her father's house, in her youth" / WEB: "Also, when a woman vows a vow to Yahweh and binds herself by a bond, being in her father's house, in her youth" — NET simplifies the complex Hebrew construction. The principle: a father's authority can annul his daughter's vow if exercised on the day he hears it.
-
-- v.5 — NET: "if her father overrules her on the day he hears about it" / ASV: "if her father disallow her in the day that he heareth" / WEB: "if her father disallow her in the day that he hears" — NET uses "overrules" where ASV/WEB use "disallow" (Hebrew "heni" — to hinder/forbid). The authority must be exercised immediately — silence equals consent.
-
-- v.9 — NET: "every vow of a widow or of a divorced woman" / ASV: "every vow of a widow, and of her that is put away" / WEB: "every vow of a widow, and of her who is divorced" — Women without a male authority head (widows, divorcees) are fully responsible for their own vows — no one can annul them. This recognizes their independent legal standing.
-
-- v.15 — NET: "he will bear her iniquity" / ASV: "he shall bear her iniquity" / WEB: "he shall bear her iniquity" — If a husband nullifies his wife's vow AFTER the day he heard it (too late), HE bears the guilt of the broken vow. Authority misused becomes liability.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -271,12 +307,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

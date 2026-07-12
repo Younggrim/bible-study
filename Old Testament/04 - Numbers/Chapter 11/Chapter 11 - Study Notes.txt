@@ -163,59 +163,116 @@ Charles Spurgeon:
   Beware the sin of Kibroth-hattaavah. Those who despise God's provision
   and crave the world's meat will find graves instead of satisfaction."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "the people complained" / ESV: "the people complained...
-       about their misfortunes" — Hebrew "ha-am k'mit'on'nim ra" — the
-       people were like those complaining of evil/hardship. The ESV adds
-       "about their misfortunes" to clarify; KJV leaves it general. The
-       Hebrew suggests habitual, self-pitying murmuring.
+v.1  — Hebrew "ha-am k'mit'on'nim ra" — the people were like those
+       complaining of evil/hardship.
+       KJV: "the people complained"
+       ESV: "the people complained... about their misfortunes"
+       ASV: "the people were as murmurers, speaking evil in the ears of Jehovah"
+       NET: "the people complained badly in the ears of the Lord"
+       WEB: "the people were complaining in the ears of Yahweh"
+       Analysis: ESV adds "about their misfortunes" to clarify; KJV leaves
+       it general. ASV's "murmurers, speaking evil" is the most expansive
+       rendering. Hebrew "mit'onenim" suggests habitual complaining — a
+       pattern, not a single outburst.
 
-v.1  — KJV: "consumed them that were in the uttermost parts of the camp"
-       / ESV: "consumed some outlying parts of the camp" — Hebrew "vatokhal
-       bi-qtzeh ha-machaneh" — consumed at the edge of the camp. The fire
-       strikes the periphery — a warning before total destruction.
+v.1  — Hebrew "vatokhal bi-qtzeh ha-machaneh" — consumed at the edge of
+       the camp.
+       KJV: "consumed them that were in the uttermost parts of the camp"
+       ESV: "consumed some outlying parts of the camp"
+       ASV: "consumed in the uttermost part of the camp"
+       NET: "consumed some part of the camp"
+       WEB: "burned among them in the outskirts of the camp"
+       Analysis: The fire strikes the periphery — a warning before total
+       destruction. KJV/ASV retain "uttermost parts"; ESV/NET simplify to
+       "outlying/some part."
 
-v.4  — KJV: "the mixt multitude" / ESV: "the rabble" — Hebrew
-       "ha-asafsuf" — the gathered ones, the riffraff. These are non-
-       Israelites who joined the Exodus (Exodus 12:38). KJV's "mixt
-       multitude" identifies their origin; ESV's "rabble" characterizes
-       their behavior.
+v.4  — Hebrew "ha-asafsuf" — the gathered ones, the riffraff.
+       KJV: "the mixt multitude"
+       ESV: "the rabble"
+       ASV: "the mixed multitude that was among them"
+       NET: "the mixed multitude who were among them"
+       WEB: "the mixed multitude that was among them"
+       Analysis: These are non-Israelites who joined the Exodus (Exodus
+       12:38). KJV/ASV/NET/WEB's "mixed multitude" identifies their origin;
+       ESV's "rabble" characterizes their behavior. Their craving spreads
+       to Israel — bad company corrupts.
 
-v.4  — KJV: "fell a lusting" / ESV: "had a strong craving" — Hebrew
-       "hit'avu ta'avah" — craved a craving (emphatic). Intense,
-       consuming desire. Not mere hunger but obsessive lust for what they
-       do not have.
+v.4  — Hebrew "hit'avu ta'avah" — craved a craving (emphatic).
+       KJV: "fell a lusting"
+       ESV: "had a strong craving"
+       ASV: "lusted exceedingly"
+       NET: "craved other food"
+       WEB: "lusted exceedingly"
+       Analysis: Intense, consuming desire. Not mere hunger but obsessive
+       lust for what they do not have. KJV/ASV/WEB retain the "lust"
+       language; ESV/NET soften to "craving."
 
-v.12 — KJV: "as a nursing father beareth the sucking child" / ESV: "as a
-       nurse carries a nursing child" — Hebrew "k'asher yissa ha-omen et
-       ha-yoneq." Moses uses the image of a nursemaid carrying an infant
-       — he feels burdened with a helpless, crying people.
+v.5  — Hebrew "zakharnu et ha-dagah" — we remember the fish.
+       KJV: "We remember the fish, which we did eat in Egypt freely"
+       ESV: "We remember the fish we ate in Egypt that cost nothing"
+       ASV: "We remember the fish, which we did eat in Egypt freely"
+       NET: "We remember the fish we used to eat freely"
+       WEB: "We remember the fish, which we ate in Egypt for nothing"
+       Analysis: NET's "used to eat freely" captures the nostalgia. They
+       romanticize slavery while despising God's provision — a persistent
+       human pattern.
 
-v.17 — KJV: "I will take of the spirit which is upon thee" / ESV: "I will
-       take some of the Spirit that is on you" — Hebrew "v'atzalti min
-       ha-ruach asher alekha." God takes FROM Moses' Spirit-portion and
-       distributes it. This does not diminish Moses — the Spirit is not a
-       finite resource. It is shared, not divided.
+v.12 — Hebrew "k'asher yissa ha-omen et ha-yoneq" — as a nurse carries
+       a nursing child.
+       KJV: "as a nursing father beareth the sucking child"
+       ESV: "as a nurse carries a nursing child"
+       ASV: "as a nursing-father carrieth the sucking child"
+       NET: "as a foster father bears a nursing child"
+       WEB: "as a nurse carries a nursing infant"
+       Analysis: Moses uses the image of a nursemaid/foster parent carrying
+       an infant — he feels burdened with a helpless, crying people.
+       KJV/ASV use "nursing father"; NET uses "foster father."
 
-v.25 — KJV: "they prophesied, and did not cease" / ESV: "they prophesied.
-       But they did not continue doing it" — Hebrew "v'lo yasafu." This
-       phrase is ambiguous: "yasaf" can mean "to add/continue" or "to
-       cease." KJV reads "did not cease" (they kept prophesying); ESV reads
-       "did not continue" (it was a one-time event). Most scholars favor
-       the ESV reading: the prophesying was a sign of the Spirit's coming,
-       not a permanent gift.
+v.17 — Hebrew "v'atzalti min ha-ruach asher alekha" — I will take from
+       the Spirit that is upon you.
+       KJV: "I will take of the spirit which is upon thee"
+       ESV: "I will take some of the Spirit that is on you"
+       ASV: "I will take of the Spirit which is upon thee, and will put it upon them"
+       NET: "I will take part of the Spirit that is on you, and will put it on them"
+       WEB: "I will take of the Spirit which is on you, and will put it on them"
+       Analysis: God takes FROM Moses' Spirit-portion and distributes it.
+       This does not diminish Moses — the Spirit is not a finite resource.
+       It is shared, not divided — like lighting many candles from one flame.
 
-v.31 — KJV: "two cubits high upon the face of the earth" / ESV: "about
-       two cubits above the ground" — Hebrew "k'amatayim al p'nei
-       ha-aretz." Two cubits (about 3 feet) — either the depth of quail
-       on the ground or (more likely) the height at which they flew,
-       making them easy to catch.
+v.25 — Hebrew "v'lo yasafu" — and they did not add/continue.
+       KJV: "they prophesied, and did not cease"
+       ESV: "they prophesied. But they did not continue doing it"
+       ASV: "they prophesied, but they did so no more"
+       NET: "they prophesied, but did not continue"
+       WEB: "they prophesied, but they did so no more"
+       Analysis: This phrase is ambiguous: "yasaf" can mean "to add/
+       continue" or "to cease." KJV reads "did not cease" (they kept
+       prophesying); ESV/ASV/NET/WEB read "did not continue" (a one-time
+       event). Most scholars favor the latter: the prophesying was a sign
+       of the Spirit's coming, not a permanent gift.
 
-v.33 — KJV: "ere it was chewed" / ESV: "before it was consumed" — Hebrew
-       "terem yikaret" — before it was cut off/finished. The plague strikes
-       while they are still eating — immediate judgment on greedy
-       indulgence.
+v.31 — Hebrew "k'amatayim al p'nei ha-aretz" — about two cubits above
+       the face of the earth.
+       KJV: "two cubits high upon the face of the earth"
+       ESV: "about two cubits above the ground"
+       ASV: "about two cubits above the face of the earth"
+       NET: "about three feet deep on the surface of the ground"
+       WEB: "about two cubits above the surface of the earth"
+       Analysis: Two cubits (about 3 feet) — either the depth of quail on
+       the ground or (more likely) the height at which they flew, making
+       them easy to catch. NET converts to modern measurement for clarity.
+
+v.33 — Hebrew "terem yikaret" — before it was cut off/finished.
+       KJV: "ere it was chewed"
+       ESV: "before it was consumed"
+       ASV: "ere it was chewed"
+       NET: "before they could chew it"
+       WEB: "before it was chewed"
+       Analysis: The plague strikes while they are still eating — immediate
+       judgment on greedy indulgence. KJV/ASV/WEB use "chewed"; ESV uses
+       "consumed"; NET rephrases actively.
 
 GLOSSARY
 ------------------------------------
@@ -250,20 +307,6 @@ Seventy Elders — Leaders chosen to share Moses' burden of governing the
 Homer — A dry measure of approximately 6 bushels (220 liters). Ten homers
                = approximately 60 bushels. The "least" anyone gathered was
                an enormous quantity — revealing the excess of their greed.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "the people complained badly in the ears of the Lord" / ASV: "the people were as murmurers, speaking evil in the ears of Jehovah" / WEB: "the people were complaining in the ears of Yahweh" / KJV: "the people complained... in the ears of the LORD" — NET's "complained badly" and KJV's "complained" are simpler than ASV's "murmurers, speaking evil." Hebrew "mit'onenim" suggests habitual complaining — a pattern, not a single outburst.
-
-- v.4 — NET: "the mixed multitude who were among them" / ASV: "the mixed multitude that was among them" / WEB: "the mixed multitude that was among them" / KJV: "the mixt multitude" — Hebrew "asaphsuph" (rabble/riff-raff). These are the non-Israelites who joined the Exodus (Exodus 12:38). Their craving spreads to Israel — bad company corrupts.
-
-- v.5 — NET: "We remember the fish we used to eat freely" / ASV: "We remember the fish, which we did eat in Egypt freely" — NET's "used to eat freely" captures the nostalgia. They romanticize slavery while despising God's provision — a persistent human pattern.
-
-- v.17 — NET: "I will take part of the Spirit that is on you, and will put it on them" / ASV: "I will take of the Spirit which is upon thee, and will put it upon them" / WEB: "I will take of the Spirit which is on you, and will put it on them" — The Spirit is distributed but not diminished — like lighting many candles from one flame. Moses' burden is shared through the Spirit.
-
-- v.25 — NET: "they prophesied, but did not continue" / ASV: "they prophesied, but they did so no more" / WEB: "they prophesied, but they did so no more" — The Spirit's work on the seventy is temporary and confirmatory — validating their authority. Prophecy here means Spirit-empowered speech, not necessarily prediction.
-
-- v.31 — NET: "about three feet deep on the surface of the ground" / ASV: "about two cubits above the face of the earth" / WEB: "about two cubits above the surface of the earth" — NET converts "two cubits" to modern measurement ("about three feet"). The quail cover the ground knee-deep — an enormous quantity revealing excess.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -300,12 +343,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

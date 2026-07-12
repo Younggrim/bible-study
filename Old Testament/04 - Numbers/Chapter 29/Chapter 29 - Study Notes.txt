@@ -146,44 +146,84 @@ Charles Spurgeon:
   God and His people dwell together, and the sacrifices cease because the
   Lamb Himself is the temple's light."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "it is a day of blowing the trumpets unto you" / ESV: "It is
-       a day for you to blow the trumpets" — Hebrew "yom teru'ah yihyeh
-       lakhem." "Teru'ah" means a shout, blast, or alarm — specifically
-       the staccato blasts of the shofar (ram's horn). KJV and ESV both
-       capture the meaning; the Hebrew emphasizes the sound itself rather
-       than the instrument.
+v.1  — Hebrew "yom teru'ah yihyeh lakhem" — "Teru'ah" means a shout, blast, or alarm —
+       specifically the staccato blasts of the shofar (ram's horn).
+       KJV: "it is a day of blowing the trumpets unto you"
+       ESV: "It is a day for you to blow the trumpets"
+       ASV: "And in the seventh month, on the first day of the month"
+       NET: "On the first day of the seventh month"
+       WEB: "In the seventh month, on the first day of the month"
+       Analysis: KJV and ESV both capture the meaning; the Hebrew emphasizes the sound itself
+       rather than the instrument. The Feast of Trumpets (Rosh Hashanah). NET restructures for
+       clarity; ASV/WEB follow Hebrew word order. The seventh month begins the most sacred
+       period in Israel's calendar.
 
-v.7  — KJV: "ye shall afflict your souls" / ESV: "afflict yourselves" —
-       Hebrew "v'innitem et nafshoteikhem." "Innah" means to humble, deny,
-       afflict. "Nefesh" (soul) here means the whole self — body and soul.
-       Traditionally understood as fasting, but includes all forms of
-       self-denial. ESV's "yourselves" is simpler; KJV's "your souls"
-       preserves the Hebrew "nefesh."
+v.1  — Hebrew "melekhet avodah" — work of labor/service.
+       KJV: "ye shall do no servile work"
+       ESV: "You shall not do any ordinary work"
+       ASV: "ye shall do no servile work"
+       NET: "you must not do any ordinary work"
+       WEB: "you shall do no servile work"
+       Analysis: NET/ESV modernize "servile work" to "ordinary work." Sacred time requires
+       cessation of common activity.
 
-v.11 — KJV: "beside the sin offering of atonement" / ESV: "besides the
-       sin offering of atonement" — This refers to the special Yom Kippur
-       goat of Leviticus 16 (the scapegoat ritual). The offerings listed
-       here in Numbers 29 are additional public offerings on the same day.
+v.7  — Hebrew "v'innitem et nafshoteikhem" — "Innah" means to humble, deny, afflict.
+       "Nefesh" (soul) here means the whole self — body and soul.
+       KJV: "ye shall afflict your souls"
+       ESV: "afflict yourselves"
+       ASV: "ye shall afflict your souls"
+       NET: "you must humble yourselves"
+       WEB: "you shall afflict your souls"
+       Analysis: Traditionally understood as fasting, but includes all forms of self-denial.
+       ESV's "yourselves" is simpler; KJV's "your souls" preserves the Hebrew "nefesh." NET
+       interprets "te'annu et-nafshotekem" as "humble yourselves." The primary expression is
+       fasting, but it encompasses all self-denial before God.
 
-v.12 — KJV: "ye shall keep a feast unto the LORD seven days" / ESV: "you
-       shall keep a feast to the LORD seven days" — Hebrew "v'chagotem chag
-       la-YHWH shiv'at yamim." "Chag" (feast/festival) comes from a root
-       meaning "to dance, to make a pilgrimage." This is the most joyous
-       festival — pure celebration after the solemnity of Atonement.
+v.11 — Hebrew "millevad chattat ha-kippurim" — besides the sin offering of atonement.
+       KJV: "beside the sin offering of atonement"
+       ESV: "besides the sin offering of atonement"
+       ASV: "besides the sin-offering of atonement"
+       NET: "besides the sin offering for atonement"
+       WEB: "besides the sin offering of atonement"
+       Analysis: This refers to the special Yom Kippur goat of Leviticus 16 (the scapegoat
+       ritual). The offerings listed here in Numbers 29 are additional public offerings on
+       the same day.
 
-v.35 — KJV: "ye shall have a solemn assembly" / ESV: "you shall have a
-       solemn assembly" — Hebrew "atzeret tihyeh lakhem." "Atzeret" comes
-       from "atzar" — to restrain, hold back, close. It is a closing
-       ceremony — the conclusion of the festival season. The word suggests
-       being held back in God's presence — lingering rather than rushing
-       away.
+v.12 — Hebrew "v'chagotem chag la-YHWH shiv'at yamim" — "Chag" (feast/festival) comes from
+       a root meaning "to dance, to make a pilgrimage."
+       KJV: "ye shall keep a feast unto the LORD seven days"
+       ESV: "you shall keep a feast to the LORD seven days"
+       ASV: "ye shall keep a feast unto Jehovah seven days"
+       NET: "you must celebrate a festival to the Lord for seven days"
+       WEB: "you shall keep a feast to Yahweh seven days"
+       Analysis: This is the most joyous festival — pure celebration after the solemnity of
+       Atonement. NET's "celebrate a festival" (Hebrew "chag") — the joyous harvest festival
+       requiring 71 bulls over seven days (a staggering amount).
 
-v.39 — KJV: "in your set feasts" / ESV: "at your appointed feasts" —
-       Hebrew "b'mo'adeikhem." "Mo'ed" means appointed time, fixed season,
-       meeting. These are not arbitrary celebrations but divinely scheduled
-       appointments with God. ESV's "appointed" captures the intentionality.
+v.35 — Hebrew "atzeret tihyeh lakhem" — "Atzeret" comes from "atzar" — to restrain, hold
+       back, close.
+       KJV: "ye shall have a solemn assembly"
+       ESV: "you shall have a solemn assembly"
+       ASV: "On the eighth day ye shall have a solemn assembly"
+       NET: "On the eighth day you are to have a holy assembly"
+       WEB: "On the eighth day you shall have a solemn assembly"
+       Analysis: It is a closing ceremony — the conclusion of the festival season. The word
+       suggests being held back in God's presence — lingering rather than rushing away. After
+       the grandeur of Tabernacles, this intimate eighth day is restrained and personal. Jesus
+       stood and cried out on this day (John 7:37).
+
+v.39 — Hebrew "b'mo'adeikhem" — "Mo'ed" means appointed time, fixed season, meeting.
+       KJV: "in your set feasts"
+       ESV: "at your appointed feasts"
+       ASV: "These ye shall offer unto Jehovah"
+       NET: "These things you must present to the Lord"
+       WEB: "You shall offer these to Yahweh"
+       Analysis: These are not arbitrary celebrations but divinely scheduled appointments with
+       God. ESV's "appointed" captures the intentionality. The chapter ends with the divine
+       name — all sacrifices are presented TO YHWH — worship is directed to a Person, not
+       performed for a principle.
 
 GLOSSARY
 ------------------------------------
@@ -215,20 +255,6 @@ Seventy Bulls — The total bulls offered during the seven days of
                Tabernacles (13+12+11+10+9+8+7=70). Possibly representing
                the 70 nations of Genesis 10 — Israel as priestly nation
                interceding for the world.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "On the first day of the seventh month" / ASV: "And in the seventh month, on the first day of the month" / WEB: "In the seventh month, on the first day of the month" — The Feast of Trumpets (Rosh Hashanah). NET restructures for clarity; ASV/WEB follow Hebrew word order. The seventh month begins the most sacred period in Israel's calendar.
-
-- v.1 — NET: "you must not do any ordinary work" / ASV: "ye shall do no servile work" / WEB: "you shall do no servile work" / KJV: "ye shall do no servile work" — NET modernizes "servile work" (Hebrew "melekhet avodah" — work of labor/service) to "ordinary work." Sacred time requires cessation of common activity.
-
-- v.7 — NET: "you must humble yourselves" / ASV: "ye shall afflict your souls" / WEB: "you shall afflict your souls" / KJV: "ye shall afflict your souls" — The Day of Atonement command. NET interprets "te'annu et-nafshotekem" (afflict your souls/selves) as "humble yourselves." The primary expression is fasting, but it encompasses all self-denial before God.
-
-- v.12 — NET: "you must celebrate a festival to the Lord for seven days" / ASV: "ye shall keep a feast unto Jehovah seven days" / WEB: "you shall keep a feast to Yahweh seven days" — The Feast of Tabernacles (Sukkot). "Celebrate a festival" (Hebrew "chag") — the joyous harvest festival requiring 71 bulls over seven days (a staggering amount).
-
-- v.35 — NET: "On the eighth day you are to have a holy assembly" / ASV: "On the eighth day ye shall have a solemn assembly" / WEB: "On the eighth day you shall have a solemn assembly" — Hebrew "atzeret" — a closing assembly. After the grandeur of Tabernacles, this intimate eighth day is restrained and personal. Jesus stood and cried out on this day (John 7:37).
-
-- v.39 — NET: "These things you must present to the Lord" / ASV: "These ye shall offer unto Jehovah" / WEB: "You shall offer these to Yahweh" — The chapter ends with the divine name. All sacrifices are presented TO YHWH — worship is directed to a Person, not performed for a principle.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -266,12 +292,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

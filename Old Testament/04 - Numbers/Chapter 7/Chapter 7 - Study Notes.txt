@@ -139,44 +139,104 @@ Charles Spurgeon:
   look the same as another's, but God sees the heart behind it. He records
   it individually. You are not lost in the crowd of worshippers."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "had fully set up the tabernacle" / ESV: "had finished
-       setting up the tabernacle" — Hebrew "kalot Mosheh l'haqim" — Moses
-       finishing to erect. Both convey completion.
+v.1  — Hebrew "kalot Mosheh l'haqim" — Moses finishing to erect.
+       KJV: "had fully set up the tabernacle" / "rearing up the tabernacle"
+       ESV: "had finished setting up the tabernacle"
+       ASV: "setting up the tabernacle"
+       NET: "setting up the tabernacle"
+       WEB: "had finished setting up the tabernacle"
+       Analysis: KJV uses the archaic "rearing up" (Hebrew "haqim" — to
+       cause to stand/erect). NET and ASV use "setting up"; ESV/WEB say
+       "finished setting up." All convey that the tabernacle is erected
+       and immediately consecrated.
 
-v.3  — KJV: "six covered wagons" / ESV: "six wagons" — Hebrew "shesh
-       eglot tsav." "Tsav" may mean "covered" (KJV) or simply be a type
-       of wagon. The ESV omits "covered"; KJV includes it. These are
-       transport wagons for Tabernacle materials.
+v.2  — Hebrew "nesi'im" — princes, leaders, tribal heads.
+       KJV: "the princes of Israel, heads of the house of their fathers"
+       ESV: "the chiefs of Israel, heads of their fathers' houses"
+       ASV: "the princes of Israel, the heads of their fathers' houses"
+       NET: "the leaders of Israel, the heads of their clans"
+       WEB: "the princes of Israel, the heads of their fathers' houses"
+       Analysis: NET uses "leaders"; KJV/ASV/WEB use "princes"; ESV uses
+       "chiefs." These are the same tribal heads from the census (ch.1).
+       ASV includes "before Jehovah"; WEB "before Yahweh"; NET "before
+       the Lord" — the offerings are presented to YHWH personally.
 
-v.9  — KJV: "they should bear upon their shoulders" / ESV: "had to be
-       carried on the shoulder" — Hebrew "ba-katef yissa'u" — on the
-       shoulder they shall carry. The holy objects have poles/bars for
-       shoulder-carrying. No mechanical transport for the most sacred
-       items.
+v.3  — Hebrew "agalot tsav" — covered/enclosed wagons.
+       KJV: "six covered wagons"
+       ESV: "six wagons"
+       ASV: "six covered wagons"
+       NET: "six covered carts"
+       WEB: "six covered wagons"
+       Analysis: "Tsav" may mean "covered" (KJV/ASV/NET/WEB) or simply be
+       a type of wagon. ESV omits "covered." NET uses "carts" where others
+       use "wagons." These are transport vehicles for Tabernacle materials
+       during Israel's wilderness travels.
 
-v.13 — KJV: "one silver charger" / ESV: "one silver plate" — Hebrew
-       "qa'arat kesef achat" — one silver dish/plate. KJV's "charger" is
-       archaic English for a large flat dish or platter. ESV modernizes to
-       "plate." A large vessel for presenting the grain offering.
+v.9  — Hebrew "ba-katef yissa'u" — on the shoulder they shall carry.
+       KJV: "they should bear upon their shoulders"
+       ESV: "had to be carried on the shoulder"
+       ASV: "they should bear upon their shoulders"
+       NET: "they must carry on their shoulders"
+       WEB: "they should carry on their shoulders"
+       Analysis: The holy objects have poles/bars for shoulder-carrying. No
+       mechanical transport for the most sacred items. This ensures human
+       reverence and direct responsibility.
 
-v.14 — KJV: "one spoon of ten shekels of gold" / ESV: "one golden dish
-       of 10 shekels" — Hebrew "kaf achat asarah zahav" — one palm/ladle
-       of ten [shekels] gold. "Kaf" literally means "palm" — a small
-       bowl shaped like a cupped hand. KJV's "spoon" and ESV's "dish"
-       both approximate. Used for incense.
+v.10 — Hebrew "chanukat ha-mizbeach" — dedication of the altar.
+       KJV: "offering of the altar... for the dedicating of it"
+       ESV: "offerings for the dedication of the altar"
+       ASV: "the princes offered for the dedication of the altar"
+       NET: "the leaders presented the dedication offering for the altar"
+       WEB: "The leaders offered offerings for the dedication of the altar"
+       Analysis: NET specifies "dedication offering." This is the root of
+       "Hanukkah" — dedication/consecration. The same word gives us the
+       later festival of Hanukkah (rededication of the Temple in 165 BC).
 
-v.13 — KJV: "meat offering" / ESV: "grain offering" — Hebrew "minchah."
-       KJV uses "meat" in the archaic sense of "food" (not flesh). ESV
-       correctly renders "grain offering" for modern readers. This is a
-       flour-and-oil offering, not an animal sacrifice.
+v.13 — Hebrew "qa'arat kesef achat" — one silver dish/plate.
+       KJV: "one silver charger"
+       ESV: "one silver plate"
+       ASV: "one silver plate"
+       NET: "one silver platter"
+       WEB: "one silver platter"
+       Analysis: KJV's "charger" is archaic English for a large flat dish
+       or platter. ESV/ASV modernize to "plate"; NET/WEB use "platter."
+       A large vessel for presenting the grain offering.
 
-v.89 — KJV: "he heard the voice of one speaking unto him" / ESV: "he
-       heard the voice speaking to him" — Hebrew "yishma et ha-qol
-       middaber elav" — he heard the voice speaking to him. The voice
-       comes from the mercy seat, between the cherubim. God speaks
-       audibly to Moses — direct, personal communication.
+v.13 — Hebrew "minchah" — grain/food offering.
+       KJV: "meat offering"
+       ESV: "grain offering"
+       ASV: "meal-offering"
+       NET: "grain offering"
+       WEB: "meal offering"
+       Analysis: KJV uses "meat" in the archaic sense of "food" (not flesh).
+       ESV/NET correctly render "grain offering" for modern readers. ASV/WEB
+       use "meal-offering/meal offering." This is a flour-and-oil offering,
+       not an animal sacrifice.
+
+v.14 — Hebrew "kaf achat asarah zahav" — one palm/ladle of ten shekels
+       gold.
+       KJV: "one spoon of ten shekels of gold"
+       ESV: "one golden dish of 10 shekels"
+       ASV: "one golden spoon of ten shekels"
+       NET: "one gold pan of 10 shekels"
+       WEB: "one golden ladle of ten shekels"
+       Analysis: "Kaf" literally means "palm" — a small bowl shaped like a
+       cupped hand. Used for incense. KJV/ASV "spoon"; ESV "dish"; NET
+       "pan"; WEB "ladle" — all approximate the palm-shaped vessel.
+
+v.89 — Hebrew "yishma et ha-qol middaber elav" — he heard the voice
+       speaking to him.
+       KJV: "he heard the voice of one speaking unto him"
+       ESV: "he heard the voice speaking to him"
+       ASV: "he heard the Voice speaking unto him from above the mercy-seat"
+       NET: "he heard the voice speaking to him from above the atonement lid"
+       WEB: "he heard his voice speaking to him from above the mercy seat"
+       Analysis: The voice comes from the mercy seat, between the cherubim.
+       NET's "atonement lid" vs. ASV/WEB's "mercy seat" — the same
+       distinction seen in Leviticus 16. God speaks audibly to Moses —
+       direct, personal communication.
 
 GLOSSARY
 ------------------------------------
@@ -209,20 +269,6 @@ Mercy Seat (Hebrew: "kapporet") — The gold lid of the Ark of the Covenant
                This ensures human reverence and direct responsibility —
                no impersonal mechanical transport for sacred things.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "setting up the tabernacle" / ASV: "setting up the tabernacle" / KJV: "rearing up the tabernacle" — NET and ASV agree on "setting up" while KJV uses the archaic "rearing up" (Hebrew "haqim" — to cause to stand/erect). The tabernacle is erected and immediately consecrated.
-
-- v.2 — NET: "the leaders of Israel, the heads of their clans" / ASV: "the princes of Israel, the heads of their fathers' houses" / KJV: "the princes of Israel, heads of the house of their fathers" — NET uses "leaders"; ASV/KJV use "princes" (Hebrew "nesi'im"). These are the same tribal heads from the census (ch.1).
-
-- v.3 — NET: "six covered carts" / ASV: "six covered wagons" / WEB: "six covered wagons" / KJV: "six covered wagons" — NET uses "carts" where others use "wagons" (Hebrew "agalot tsav" — covered/enclosed wagons). These are for transporting tabernacle components during Israel's wilderness travels.
-
-- v.10 — NET: "the leaders presented the dedication offering for the altar" / ASV: "the princes offered for the dedication of the altar" / WEB: "The leaders offered offerings for the dedication of the altar" — NET specifies "dedication offering" (Hebrew "chanukat ha-mizbeach"). This is the root of "Hanukkah" — dedication/consecration.
-
-- v.89 — NET: "he heard the voice speaking to him from above the atonement lid" / ASV: "he heard the Voice speaking unto him from above the mercy-seat" / WEB: "he heard his voice speaking to him from above the mercy seat" — The chapter ends with God speaking from the mercy seat/atonement lid. NET's "atonement lid" vs. ASV/WEB's "mercy seat" — the same distinction seen in Leviticus 16.
-
-- v.2 — ASV: "before Jehovah" / WEB: "before Yahweh" / NET: "before the Lord" — The divine name distinction marks the offerings as presented to YHWH personally — not to an abstract deity but to the God who has revealed His name to Israel.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Identical offerings, individual recognition (vv.12-83). God records
@@ -254,12 +300,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

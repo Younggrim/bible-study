@@ -157,48 +157,71 @@ Charles Spurgeon:
   death into full inheritance. The avenger has no claim on those for whom
   the High Priest has died."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "suburbs for the cities" / ESV: "pasturelands around the
-       cities" — Hebrew "migrash." "Migrash" means an open area, common
-       land, pastureland surrounding a city. KJV's "suburbs" is misleading
-       to modern readers (suggesting residential neighborhoods). ESV's
-       "pasturelands" accurately describes the purpose: grazing land for
-       Levitical livestock.
+v.2  — Hebrew "migrash" — an open area, common land, pastureland surrounding a city.
+       KJV: "suburbs for the cities"
+       ESV: "pasturelands around the cities"
+       ASV: (not separately noted)
+       NET: (not separately noted)
+       WEB: (not separately noted)
+       Analysis: KJV's "suburbs" is misleading to modern readers (suggesting residential neighborhoods). ESV's "pasturelands" accurately describes the purpose: grazing land for Levitical livestock.
 
-v.11 — KJV: "which killeth any person at unawares" / ESV: "who kills any
-       person without intent" — Hebrew "makkeh nefesh bi-shgagah."
-       "Bi-shgagah" means inadvertently, unintentionally, by mistake.
-       KJV's "at unawares" (unknowingly) and ESV's "without intent" both
-       capture the meaning — the killing was accidental, not planned.
+v.6  — Hebrew "natenu" — to give/designate.
+       KJV: (implied in context)
+       ESV: (implied in context)
+       ASV: "ye shall give six cities for refuge"
+       NET: "you must select for yourselves cities of refuge"
+       WEB: "you shall give six cities for refuge"
+       Analysis: NET uses "select" emphasizing deliberate choice; ASV/WEB use "give." Six cities (3 east, 3 west of Jordan) provide accessible refuge throughout the land.
 
-v.12 — KJV: "the avenger" / ESV: "the avenger" — Hebrew "go'el ha-dam"
-       (literally "redeemer of blood"). The "go'el" is the nearest male
-       kinsman with the duty to avenge, redeem, or restore. The same word
-       is used for the kinsman-redeemer (Ruth 3:9) and for God as
-       Redeemer (Isaiah 41:14). The avenger of blood is a redeemer —
-       restoring justice for the slain.
+v.11 — Hebrew "makkeh nefesh bi-shgagah" — inadvertently, unintentionally, by mistake.
+       KJV: "which killeth any person at unawares"
+       ESV: "who kills any person without intent"
+       ASV: "that the manslayer that killeth any person unwittingly may flee thither"
+       NET: "you must select for yourselves towns to be cities of refuge for you, to which a person who kills someone unintentionally may flee"
+       WEB: (not separately noted)
+       Analysis: "Bi-shgagah" means inadvertently, unintentionally, by mistake. KJV's "at unawares" (unknowingly) and ESV's "without intent" both capture the meaning — the killing was accidental, not planned. NET's "person who kills someone unintentionally" is clearer than ASV's "manslayer that killeth... unwittingly." The distinction between murder (intentional) and manslaughter (unintentional) is foundational.
 
-v.19 — KJV: "The revenger of blood" / ESV: "The avenger of blood" —
-       Hebrew "go'el ha-dam." KJV uses "revenger"; ESV uses "avenger."
-       Both translate the same Hebrew. "Avenger" is more standard in
-       modern English; "revenger" is archaic but carries the same meaning.
+v.12 — Hebrew "go'el ha-dam" — literally "redeemer of blood."
+       KJV: "the avenger"
+       ESV: "the avenger"
+       ASV: "for refuge from the avenger"
+       NET: "a place of refuge from the avenger"
+       WEB: "for refuge from the avenger"
+       Analysis: The "go'el" is the nearest male kinsman with the duty to avenge, redeem, or restore. The same word is used for the kinsman-redeemer (Ruth 3:9) and for God as Redeemer (Isaiah 41:14). The avenger of blood is a redeemer — restoring justice for the slain. The city of refuge protects the unintentional killer from this legitimate but potentially unjust vengeance.
 
-v.25 — KJV: "the high priest, which was anointed with the holy oil" /
-       ESV: "the high priest who was anointed with the holy oil" — The
-       specification "anointed with the holy oil" emphasizes the high
-       priest's sacred status. His death is not ordinary — it carries
-       atoning significance because of his anointed office.
+v.19 — Hebrew "go'el ha-dam" — avenger/redeemer of blood.
+       KJV: "The revenger of blood"
+       ESV: "The avenger of blood"
+       ASV: (not separately noted)
+       NET: (not separately noted)
+       WEB: (not separately noted)
+       Analysis: KJV uses "revenger"; ESV uses "avenger." Both translate the same Hebrew. "Avenger" is more standard in modern English; "revenger" is archaic but carries the same meaning.
 
-v.33 — KJV: "the land cannot be cleansed of the blood that is shed
-       therein, but by the blood of him that shed it" / ESV: "no atonement
-       can be made for the land for the blood that is shed in it, except
-       by the blood of the one who shed it" — Hebrew "v'la-aretz lo
-       y'khuppar la-dam asher shuppakh bah ki im b'dam shofkho." ESV's
-       "no atonement can be made" uses the technical term (kipper =
-       atone/cover). KJV's "cannot be cleansed" interprets the result.
-       The Hebrew is specifically about atonement — covering/purging the
-       land's defilement.
+v.25 — Hebrew (concerning the high priest anointed with holy oil).
+       KJV: "the high priest, which was anointed with the holy oil"
+       ESV: "the high priest who was anointed with the holy oil"
+       ASV: "the congregation shall deliver the manslayer out of the hand of the avenger of blood"
+       NET: "the community must deliver the accidental killer from the hand of the avenger of blood"
+       WEB: "the congregation shall deliver the man slayer out of the hand of the avenger of blood"
+       Analysis: The specification "anointed with the holy oil" emphasizes the high priest's sacred status. His death is not ordinary — it carries atoning significance because of his anointed office. The community (through its judges) has the responsibility to protect the innocent from vengeance. Justice requires discernment, not automatic retribution.
+
+v.30 — Hebrew (concerning the requirement of multiple witnesses).
+       KJV: (implied: "One witness shall not testify against any person to cause him to die")
+       ESV: (implied in judicial safeguards)
+       ASV: "one witness shall not testify against any person that he die"
+       NET: "one witness is not enough"
+       WEB: "one witness shall not testify against any person that he die"
+       Analysis: A fundamental legal principle: capital punishment requires multiple witnesses. This prevents false accusation and ensures due process — cited in Deuteronomy 19:15 and Matthew 18:16.
+
+v.33 — Hebrew "v'la-aretz lo y'khuppar la-dam asher shuppakh bah ki im b'dam shofkho" / "chaneph" — to pollute/profane.
+       KJV: "the land cannot be cleansed of the blood that is shed therein, but by the blood of him that shed it"
+       ESV: "no atonement can be made for the land for the blood that is shed in it, except by the blood of the one who shed it"
+       ASV: "ye shall not pollute the land wherein ye are"
+       NET: "you must not pollute the land where you are"
+       WEB: "you shall not pollute the land in which you are"
+       Analysis: ESV's "no atonement can be made" uses the technical term (kipper = atone/cover). KJV's "cannot be cleansed" interprets the result. The Hebrew is specifically about atonement — covering/purging the land's defilement. Unpunished bloodshed defiles the land itself (not just the people). Only the blood of the murderer can purify land defiled by murder.
 
 GLOSSARY
 ------------------------------------
@@ -236,19 +259,6 @@ Pastureland (Hebrew: "migrash") — Open land surrounding the Levitical
                for grazing livestock. Not to be sold or built upon —
                permanently attached to the Levitical cities.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.6 — NET: "you must select for yourselves cities of refuge" / ASV: "ye shall give six cities for refuge" / WEB: "you shall give six cities for refuge" — NET uses "select" emphasizing deliberate choice; ASV/WEB use "give." Hebrew "natenu" — to give/designate. Six cities (3 east, 3 west of Jordan) provide accessible refuge throughout the land.
-
-- v.11 — NET: "you must select for yourselves towns to be cities of refuge for you, to which a person who kills someone unintentionally may flee" / ASV: "then ye shall appoint you cities to be cities of refuge for you, that the manslayer that killeth any person unwittingly may flee thither" — NET's "person who kills someone unintentionally" is clearer than ASV's "manslayer that killeth... unwittingly." The distinction between murder (intentional) and manslaughter (unintentional) is foundational.
-
-- v.12 — NET: "a place of refuge from the avenger" / ASV: "for refuge from the avenger" / WEB: "for refuge from the avenger" — Hebrew "go'el ha-dam" — the avenger/redeemer of blood. The kinsman whose duty is to execute justice for murdered relatives. The city of refuge protects the unintentional killer from this legitimate but potentially unjust vengeance.
-
-- v.25 — NET: "the community must deliver the accidental killer from the hand of the avenger of blood" / ASV: "the congregation shall deliver the manslayer out of the hand of the avenger of blood" / WEB: "the congregation shall deliver the man slayer out of the hand of the avenger of blood" — The community (through its judges) has the responsibility to protect the innocent from vengeance. Justice requires discernment, not automatic retribution.
-
-- v.30 — NET: "one witness is not enough" / ASV: "one witness shall not testify against any person that he die" / WEB: "one witness shall not testify against any person that he die" — A fundamental legal principle: capital punishment requires multiple witnesses. This prevents false accusation and ensures due process — cited in Deuteronomy 19:15 and Matthew 18:16.
-
-- v.33 — NET: "you must not pollute the land where you are" / ASV: "ye shall not pollute the land wherein ye are" / WEB: "you shall not pollute the land in which you are" — Hebrew "chaneph" — to pollute/profane. Unpunished bloodshed defiles the land itself (not just the people). Only the blood of the murderer can purify land defiled by murder.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -286,12 +296,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

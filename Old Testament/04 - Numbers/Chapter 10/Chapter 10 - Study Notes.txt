@@ -148,60 +148,115 @@ Charles Spurgeon:
   God going before and God dwelling among. This is the whole Christian
   life: God with us in the fight and God with us in the peace."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "of a whole piece shalt thou make them" / ESV: "of hammered
-       work you shall make them" — Hebrew "miqshah ta'aseh otam" — of
-       hammered work you shall make them. Like the lampstand — beaten from
-       a single piece of silver, not cast or assembled. Craftsmanship and
-       integrity in sacred instruments.
+v.2  — Hebrew "miqshah ta'aseh otam" — of hammered work you shall make
+       them; "chatsotsrot" — trumpets.
+       KJV: "of a whole piece shalt thou make them"
+       ESV: "of hammered work you shall make them"
+       ASV: "Make thee two trumpets of silver"
+       NET: "Make two trumpets of silver"
+       WEB: "Make two trumpets of silver"
+       Analysis: Like the lampstand — beaten from a single piece of silver,
+       not cast or assembled. Hebrew "chatsotsrot" — these are long,
+       straight silver trumpets (not the curved shofar/ram's horn). Used
+       for assembly, alarm, and worship — communication instruments for a
+       large nation on the move.
 
-v.5  — KJV: "blow an alarm" / ESV: "blow an alarm" — Hebrew "t'qa'tem
-       t'ru'ah" — blow a blast/shout. The "t'ru'ah" is a staccato,
-       broken blast (alarm signal) as opposed to the "t'qi'ah" (long,
-       sustained blast for assembly). Different sounds for different
-       purposes.
+v.5  — Hebrew "t'qa'tem t'ru'ah" — blow a blast/shout.
+       KJV: "blow an alarm"
+       ESV: "blow an alarm"
+       ASV: "blow an alarm"
+       NET: "sound an alarm"
+       WEB: "sound an alarm"
+       Analysis: The "t'ru'ah" is a staccato, broken blast (alarm signal)
+       as opposed to the "t'qi'ah" (long, sustained blast for assembly).
+       Different sounds for different purposes.
 
-v.21 — KJV: "bearing the sanctuary" / ESV: "carrying the holy things" —
-       Hebrew "nos'ei ha-miqdash" — carrying the holy/sanctuary. The
-       Kohathites carry the sacred objects (ark, table, lampstand, altars).
-       KJV's "sanctuary" and ESV's "holy things" both refer to the sacred
-       furnishings.
+v.9  — Hebrew "nizkartem" — you shall be remembered.
+       KJV: "ye shall be remembered before the LORD your God"
+       ESV: "you shall be remembered before the LORD your God"
+       ASV: "ye shall be remembered before Jehovah your God"
+       NET: "you will be remembered before the Lord your God"
+       WEB: "you will be remembered before Yahweh your God"
+       Analysis: "Remembered" — not that God forgets, but that the trumpet
+       sound brings Israel's need before God's active attention. The divine
+       name personalizes the relationship.
 
-v.21 — KJV: "the other did set up the tabernacle against they came" / ESV:
-       "the tabernacle was set up before their arrival" — The Gershonites
-       and Merarites (who left earlier with the structure) erect the
-       Tabernacle framework so it is ready when the Kohathites arrive with
-       the holy objects. Brilliant logistics.
+v.10 — Hebrew "zikaron" — a memorial, reminder.
+       KJV: "they shall be to you for a memorial before your God"
+       ESV: "they shall serve you for a memorial before your God"
+       ASV: "they shall be to you for a memorial before your God"
+       NET: "they will be a memorial for you before your God"
+       WEB: "they shall be to you for a memorial before your God"
+       Analysis: The trumpet becomes a "memorial" — a reminder-mechanism
+       that activates divine attention. The same principle behind memorial
+       offerings.
 
-v.25 — KJV: "the rereward of all the camps" / ESV: "acting as the rear
-       guard of all the camps" — Hebrew "m'asef l'khol ha-machanot" — the
-       gatherer/collector of all the camps. Dan's division protects the
-       rear, gathering any stragglers. KJV's "rereward" is archaic for
-       "rear guard."
+v.21 — Hebrew "nos'ei ha-miqdash" — carrying the holy/sanctuary.
+       KJV: "bearing the sanctuary"
+       ESV: "carrying the holy things"
+       ASV: "bearing the sanctuary"
+       NET: "carrying the holy things"
+       WEB: "bearing the sanctuary"
+       Analysis: The Kohathites carry the sacred objects (ark, table,
+       lampstand, altars). KJV/ASV/WEB's "sanctuary" and ESV/NET's "holy
+       things" both refer to the sacred furnishings.
 
-v.29 — KJV: "Hobab, the son of Raguel the Midianite, Moses' father in
-       law" / ESV: "Hobab the son of Reuel the Midianite, Moses' father-
-       in-law" — The relationship is debated: is Hobab Moses' father-in-law
-       or brother-in-law? "Choten" can mean either. Raguel/Reuel = Jethro
-       (different names for the same person, or father and son). The ESV
-       and KJV both render "father-in-law."
+v.25 — Hebrew "m'asef l'khol ha-machanot" — the gatherer/collector of all
+       the camps.
+       KJV: "the rereward of all the camps"
+       ESV: "acting as the rear guard of all the camps"
+       ASV: "the rearward of all the camps"
+       NET: "the rear guard of all the camps"
+       WEB: "the rear guard of all the camps"
+       Analysis: Dan's division protects the rear, gathering any stragglers.
+       KJV's "rereward" is archaic for "rear guard." All modern
+       translations use "rear guard."
 
-v.31 — KJV: "thou mayest be to us instead of eyes" / ESV: "you will serve
-       as eyes for us" — Hebrew "v'hayita lanu l'einayim" — you shall be
-       to us for eyes. Hobab's desert knowledge would help them navigate
-       practical challenges. God's supernatural guidance (the cloud) does
-       not eliminate the value of human wisdom and experience.
+v.29 — Hebrew "choten" — father-in-law or relative by marriage.
+       KJV: "Hobab, the son of Raguel the Midianite, Moses' father in law"
+       ESV: "Hobab the son of Reuel the Midianite, Moses' father-in-law"
+       ASV: "Hobab, the son of Reuel the Midianite, Moses' father-in-law"
+       NET: "Hobab son of Reuel the Midianite, Moses' father-in-law"
+       WEB: "Hobab, the son of Reuel the Midianite, Moses' father-in-law"
+       Analysis: The relationship is debated: is Hobab Moses' father-in-law
+       or brother-in-law? "Choten" can mean either. Raguel/Reuel = Jethro.
+       The invitation shows Moses valued human wisdom alongside divine
+       guidance.
 
-v.35 — KJV: "Rise up, LORD" / ESV: "Arise, O LORD" — Hebrew "qumah
-       Yahweh" — Rise, O LORD! A battle cry invoking God's active
-       intervention. Quoted in Psalm 68:1.
+v.31 — Hebrew "v'hayita lanu l'einayim" — you shall be to us for eyes.
+       KJV: "thou mayest be to us instead of eyes"
+       ESV: "you will serve as eyes for us"
+       ASV: "thou shalt be to us instead of eyes"
+       NET: "you will be our guide"
+       WEB: "you shall be to us instead of eyes"
+       Analysis: Hobab's desert knowledge would help them navigate practical
+       challenges. NET simplifies the metaphor to "guide." God's
+       supernatural guidance (the cloud) does not eliminate the value of
+       human wisdom and experience.
 
-v.36 — KJV: "the many thousands of Israel" / ESV: "the ten thousand
-       thousands of Israel" — Hebrew "riv'vot alfei Yisrael" — the
-       myriads of thousands of Israel. A poetic expression for the vast
-       multitude. God's presence returns to dwell among His countless
-       people.
+v.35 — Hebrew "qumah Yahweh" — Rise, O LORD!
+       KJV: "Rise up, LORD"
+       ESV: "Arise, O LORD"
+       ASV: "Rise up, O Jehovah"
+       NET: "Arise, O Lord!"
+       WEB: "Rise up, Yahweh"
+       Analysis: A battle cry invoking God's active intervention. Quoted in
+       Psalm 68:1. The divine name marks this as a personal appeal. God
+       "rises" to scatter His enemies — anthropomorphic language for divine
+       action.
+
+v.36 — Hebrew "shuvah Yahweh riv'vot alfei Yisrael" — Return, O LORD, to
+       the myriads of thousands of Israel.
+       KJV: "Return, O LORD, unto the many thousands of Israel"
+       ESV: "Return, O LORD, to the ten thousand thousands of Israel"
+       ASV: "Return, O Jehovah, unto the ten thousands of the thousands of Israel"
+       NET: "Return, O Lord, to the many thousands of Israel"
+       WEB: "Return, Yahweh, to the ten thousands of the thousands of Israel"
+       Analysis: A poetic expression for the vast multitude. These two
+       prayers (vv.35-36) frame every movement of the ark — God leads in
+       battle and returns to dwell among His people.
 
 GLOSSARY
 ------------------------------------
@@ -236,20 +291,6 @@ Ark of the Covenant — The gold-covered chest containing the tablets of the
                It goes BEFORE the people (v.33) — God leads from the front,
                not from behind.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "Make two trumpets of silver" / ASV: "Make thee two trumpets of silver" / WEB: "Make two trumpets of silver" — Hebrew "chatsotsrot" — these are long, straight silver trumpets (not the curved shofar/ram's horn). Used for assembly, alarm, and worship — communication instruments for a large nation on the move.
-
-- v.9 — NET: "you must sound an alarm with the trumpets, and you will be remembered before the Lord your God" / ASV: "ye shall sound an alarm with the trumpets; and ye shall be remembered before Jehovah your God" / WEB: "you shall sound an alarm with the trumpets; and you will be remembered before Yahweh your God" — "Remembered" (Hebrew "nizkartem") — not that God forgets, but that the trumpet sound brings Israel's need before God's active attention.
-
-- v.10 — NET: "they will be a memorial for you before your God" / ASV: "they shall be to you for a memorial before your God" / WEB: "they shall be to you for a memorial before your God" — The trumpet becomes a "memorial" (zikaron) — a reminder-mechanism that activates divine attention. The same principle behind memorial offerings.
-
-- v.29 — NET: "Hobab son of Reuel the Midianite, Moses' father-in-law" / ASV: "Hobab, the son of Reuel the Midianite, Moses' father-in-law" — All agree. The invitation to Hobab shows Moses valued human wisdom alongside divine guidance. God uses both the cloud and practical knowledge.
-
-- v.35 — NET: "Arise, O Lord!" / ASV: "Rise up, O Jehovah" / WEB: "Rise up, Yahweh" / KJV: "Rise up, LORD" — Moses' prayer when the ark set forward. The divine name marks this as a personal appeal. God "rises" to scatter His enemies — anthropomorphic language for divine action.
-
-- v.36 — NET: "Return, O Lord" / ASV: "Return, O Jehovah" / WEB: "Return, Yahweh" — When the ark rested. These two prayers (vv.35-36) frame every movement of the ark — God leads in battle and returns to dwell among His people.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. The trumpets — hearing God's voice (vv.2-10). Israel needed clear
@@ -278,12 +319,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

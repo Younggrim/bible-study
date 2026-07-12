@@ -152,44 +152,127 @@ Charles Spurgeon:
   indeed. What giants stand between you and God's promise? They are bread
   for us — we shall consume them — if only we believe."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "Send thou men, that they may search the land" / ESV: "Send
-       men to spy out the land" — Hebrew "shelach lekha anashim v'yaturu
-       et eretz." "Yaturu" means to explore, reconnoiter, spy out. Both
-       translations are accurate; ESV uses the more specific "spy out."
+v.2  — Hebrew "shelach lekha anashim v'yaturu et eretz" — send for
+       yourself men that they may spy out the land.
+       KJV: "Send thou men, that they may search the land"
+       ESV: "Send men to spy out the land"
+       ASV: "Send thou men, that they may spy out the land of Canaan"
+       NET: "Send out men to investigate the land of Canaan"
+       WEB: "Send men, that they may spy out the land of Canaan"
+       Analysis: "Yaturu" means to explore, reconnoiter, spy out. NET uses
+       "investigate" which avoids espionage connotations — this is
+       reconnaissance, not deception. KJV's "search" is the broadest;
+       ESV/ASV/WEB use the more specific "spy out."
 
-v.16 — KJV: "Oshea... Jehoshua" / ESV: "Hoshea... Joshua" — Hebrew:
-       "Hoshea" (הושע, "salvation") becomes "Yehoshua" (יהושע, "the LORD
-       is salvation"). KJV uses the fuller "Jehoshua"; ESV uses the
+v.2  — Hebrew "asher ani noten" — which I am giving.
+       KJV: "which I give unto the children of Israel"
+       ESV: "which I am giving to the people of Israel"
+       ASV: "which I give unto the children of Israel"
+       NET: "which I am about to give to the Israelites"
+       WEB: "which I give to the children of Israel"
+       Analysis: NET adds "about to" — the gift is imminent. ASV/WEB/KJV
+       use simple present tense. The land is already given in God's decree;
+       their entry is about timing, not uncertainty.
+
+v.16 — Hebrew "Hoshea" becomes "Yehoshua" — salvation becomes "the LORD
+       is salvation."
+       KJV: "Oshea... Jehoshua"
+       ESV: "Hoshea... Joshua"
+       ASV: "Hoshea... Joshua"
+       NET: "Hoshea... Joshua"
+       WEB: "Hoshea... Joshua"
+       Analysis: KJV uses the fuller "Jehoshua"; ESV/ASV/NET/WEB use the
        shortened "Joshua." The name change adds God's name (Yah) to
        Hoshea's name — declaring that salvation belongs to the LORD.
 
-v.17 — KJV: "Get you up this way southward" / ESV: "Go up into the Negeb"
-       — Hebrew "ha-Negev." The Negeb/Negev is the dry southern region of
-       Canaan. KJV translates the word ("southward"); ESV transliterates
-       the proper noun ("Negeb"). The ESV is more geographically precise.
+v.17 — Hebrew "ha-Negev" — the Negev/south.
+       KJV: "Get you up this way southward"
+       ESV: "Go up into the Negeb"
+       ASV: "Get you up this way by the South"
+       NET: "Go up through the Negev"
+       WEB: "Go up by the South"
+       Analysis: The Negeb/Negev is the dry southern region of Canaan.
+       KJV translates the word ("southward"); ESV/NET transliterate the
+       proper noun ("Negeb/Negev"). The ESV/NET are more geographically
+       precise; ASV/WEB capitalize "South" as a region name.
 
-v.22 — KJV: "the children of Anak" / ESV: "the descendants of Anak" —
-       Hebrew "y'lidei ha-Anak." The Anakim were a race of unusually tall
-       people. "Anak" may mean "long-necked" or "giant." They are
-       associated with the pre-flood Nephilim (v.33).
+v.20 — Hebrew "shamen" — fat/rich (of soil).
+       KJV: "whether it be fat or lean"
+       ESV: "whether the land is rich or poor"
+       ASV: "whether it is fat or lean"
+       NET: "Is the land fertile or barren?"
+       WEB: "whether it is fat or lean"
+       Analysis: NET modernizes "fat/lean" to "fertile/barren." Agricultural
+       language for soil quality — does the land produce abundantly or
+       poorly? ESV uses "rich or poor" as a middle ground.
 
-v.30 — KJV: "stilled the people" / ESV: "quieted the people" — Hebrew
-       "vayyahas Kalev et ha-am." Caleb silences the crowd — an act of
-       bold leadership. He speaks against the majority with authority.
+v.22 — Hebrew "y'lidei ha-Anak" — the children/descendants of Anak.
+       KJV: "the children of Anak"
+       ESV: "the descendants of Anak"
+       ASV: "the children of Anak"
+       NET: "the descendants of Anak"
+       WEB: "the children of Anak"
+       Analysis: The Anakim were a race of unusually tall people. "Anak"
+       may mean "long-necked" or "giant." They are associated with the
+       pre-flood Nephilim (v.33). ESV/NET use "descendants"; KJV/ASV/WEB
+       retain "children."
 
-v.32 — KJV: "an evil report" / ESV: "a bad report" — Hebrew "dibbat
-       ha-aretz." "Dibbah" carries the sense of slander, defamation — not
+v.27 — Hebrew "zavat chalav u-devash" — flowing with milk and honey.
+       KJV: "Surely it floweth with milk and honey"
+       ESV: "It flows with milk and honey"
+       ASV: "surely it floweth with milk and honey"
+       NET: "a land flowing with milk and honey"
+       WEB: "it flows with milk and honey"
+       Analysis: All preserve this iconic phrase. Even the faithless spies
+       cannot deny the land's abundance — the evidence confirms God's
+       promise.
+
+v.30 — Hebrew "vayyahas Kalev et ha-am" — Caleb silenced the people.
+       KJV: "stilled the people"
+       ESV: "quieted the people"
+       ASV: "Caleb stilled the people before Moses"
+       NET: "Caleb silenced the people before Moses"
+       WEB: "Caleb stilled the people before Moses"
+       Analysis: Hebrew "yahas" — to hush/silence. Caleb's faith interrupts
+       the fear. His voice stands against the majority — one man of faith
+       can shift the narrative. An act of bold leadership.
+
+v.32 — Hebrew "dibbat ha-aretz" — slander of the land.
+       KJV: "an evil report"
+       ESV: "a bad report"
+       ASV: "an evil report"
+       NET: "a discouraging report"
+       WEB: "an evil report"
+       Analysis: "Dibbah" carries the sense of slander, defamation — not
        merely a negative assessment but a malicious misrepresentation. They
-       slander the land God promised.
+       slander the land God promised. NET's "discouraging" captures the
+       effect; KJV/ASV/WEB's "evil" captures the moral quality.
 
-v.33 — KJV: "the giants, the sons of Anak, which come of the giants" /
+v.33 — Hebrew "ha-Nephilim b'nei Anak min ha-Nephilim" — the Nephilim,
+       sons of Anak, from the Nephilim.
+       KJV: "the giants, the sons of Anak, which come of the giants"
        ESV: "the Nephilim (the sons of Anak, who come from the Nephilim)"
-       — Hebrew "ha-Nephilim b'nei Anak min ha-Nephilim." KJV translates
-       "Nephilim" as "giants"; ESV retains the Hebrew term. The Nephilim
-       are mentioned in Genesis 6:4. Whether these are literal descendants
-       or the term is used loosely for "mighty/fearsome ones" is debated.
+       ASV: "the Nephilim, the sons of Anak, who come of the Nephilim"
+       NET: "the Nephilim (the descendants of Anak came from the Nephilim)"
+       WEB: "the Nephilim, the sons of Anak, who come from the Nephilim"
+       Analysis: KJV translates "Nephilim" as "giants"; ESV/ASV/NET/WEB
+       retain the Hebrew term. The Nephilim are mentioned in Genesis 6:4.
+       Whether these are literal descendants or the term is used loosely
+       for "mighty/fearsome ones" is debated.
+
+v.33 — Hebrew "vannehi v'eineinu ka-chagavim" — we were in our own eyes
+       as grasshoppers.
+       KJV: "we were in our own sight as grasshoppers, and so we were in their sight"
+       ESV: "we seemed to ourselves like grasshoppers, and so we seemed to them"
+       ASV: "we were in our own sight as grasshoppers, and so we were in their sight"
+       NET: "we seemed like grasshoppers both to ourselves and to them"
+       WEB: "we were in our own sight as grasshoppers, and so we were in their sight"
+       Analysis: The spies' self-perception became their reality. NET's
+       "both... and" compresses the Hebrew parallelism. Fear distorts
+       self-perception and projects that distortion onto others — they
+       decided how the giants saw them.
 
 GLOSSARY
 ------------------------------------
@@ -224,20 +307,6 @@ Evil Report / Bad Report (Hebrew: "dibbah") — Slander, defamation. More
                than a negative assessment — a deliberate misrepresentation
                designed to discourage. The ten spies do not merely report
                facts; they distort them to prevent Israel from obeying God.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "Send out men to investigate the land of Canaan" / ASV: "Send thou men, that they may spy out the land of Canaan" / WEB: "Send men, that they may spy out the land of Canaan" / KJV: "Send thou men, that they may search the land of Canaan" — NET uses "investigate" where ASV/WEB use "spy out" and KJV uses "search" (Hebrew "tur" — to explore/scout). NET's word avoids espionage connotations — this is reconnaissance, not deception.
-
-- v.2 — NET: "which I am about to give to the Israelites" / ASV: "which I give unto the children of Israel" / WEB: "which I give to the children of Israel" — NET adds "about to" — the gift is imminent. ASV/WEB use simple present tense. The land is already given in God's decree; their entry is about timing, not uncertainty.
-
-- v.20 — NET: "Is the land fertile or barren?" / ASV: "whether it is fat or lean" / KJV: "whether it be fat or lean" — NET modernizes "fat/lean" to "fertile/barren" (Hebrew "shamen" — fat/rich). Agricultural language for soil quality — does the land produce abundantly or poorly?
-
-- v.27 — NET: "a land flowing with milk and honey" / ASV: "a land that floweth with milk and honey" / WEB: "it flows with milk and honey" — All preserve this iconic phrase (Hebrew "zavat chalav u-devash"). Even the faithless spies cannot deny the land's abundance — the evidence confirms God's promise.
-
-- v.33 — NET: "we seemed like grasshoppers both to ourselves and to them" / ASV: "we were in our own sight as grasshoppers, and so we were in their sight" / WEB: "we were in our own sight as grasshoppers, and so we were in their sight" — The spies' self-perception became their reality. NET's "both... and" compresses the Hebrew parallelism.
-
-- v.30 — NET: "Caleb silenced the people before Moses" / ASV: "Caleb stilled the people before Moses" / WEB: "Caleb stilled the people before Moses" — Hebrew "yahas" — to hush/silence. Caleb's faith interrupts the fear. His voice stands against the majority — one man of faith can shift the narrative.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -275,12 +344,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

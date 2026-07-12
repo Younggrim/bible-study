@@ -151,56 +151,118 @@ Charles Spurgeon:
   LIVE for God — every day, every hour, offered up, set apart, wholly His.
   The Levite's life was not his own. Neither is yours, believer."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "over against the candlestick" / ESV: "in front of the
-       lampstand" — Hebrew "el mul p'nei ha-menorah" — toward the face/
-       front of the lampstand. The lamps are positioned to cast light
-       forward (toward the table of showbread on the north side). KJV's
-       "over against" means "facing toward"; ESV's "in front of" is
-       clearer.
+v.2  — Hebrew "el mul p'nei ha-menorah" — toward the face/front of the
+       lampstand; "he'alot" — to cause to ascend/go up.
+       KJV: "When thou lightest the lamps... over against the candlestick"
+       ESV: "When you set up the lamps... in front of the lampstand"
+       ASV: "When thou lightest the lamps"
+       NET: "When you set up the lamps"
+       WEB: "When you light the lamps"
+       Analysis: The lamps are positioned to cast light forward (toward
+       the table of showbread). KJV's "over against" means "facing toward";
+       ESV's "in front of" is clearer. NET uses "set up" while ASV/WEB/KJV
+       use "light" (Hebrew "he'alot" — literally "cause to ascend/go up").
+       The flame goes UP — the same verb used for offerings ascending to
+       God. NET/WEB correctly use "lampstand" (Hebrew "menorah"); ASV/KJV
+       use the anachronistic "candlestick" (there are no candles — only
+       oil lamps).
 
-v.4  — KJV: "beaten gold, unto the shaft thereof, unto the flowers
-       thereof" / ESV: "hammered work of gold. From its base to its
-       flowers" — Hebrew "miqshah zahav ad y'rekhah ad pirchah." The
-       entire lampstand is hammered from a single piece of gold — base,
-       shaft, branches, and decorative flowers. One piece, not assembled.
+v.4  — Hebrew "miqshah zahav ad y'rekhah ad pirchah" — hammered gold,
+       from its base to its flowers.
+       KJV: "beaten gold, unto the shaft thereof, unto the flowers thereof"
+       ESV: "hammered work of gold. From its base to its flowers"
+       ASV: "beaten work of gold; from its base to its flowers"
+       NET: "hammered gold; from its base to its flowers"
+       WEB: "beaten work of gold. From its base to its flowers"
+       Analysis: The entire lampstand is hammered from a single piece of
+       gold — base, shaft, branches, and decorative flowers. One piece,
+       not assembled. KJV/ASV/WEB use "beaten"; ESV/NET use "hammered."
 
-v.7  — KJV: "water of purifying" / ESV: "water of purification" — Hebrew
-       "mei chattat" — literally "water of sin [offering]." This is water
-       mixed with the ashes of the red heifer (Numbers 19). It purifies
-       from defilement. Both translations capture the function.
+v.6  — Hebrew "taher" — to purify, make ceremonially clean.
+       KJV: "cleanse them"
+       ESV: "take the Levites... and cleanse them"
+       ASV: "cleanse them"
+       NET: "purify them"
+       WEB: "cleanse them"
+       Analysis: NET uses "purify" while others use "cleanse." The
+       distinction matters: this is ritual purification, not physical
+       cleaning. The Levites are made ceremonially fit for sacred service.
 
-v.7  — KJV: "let them shave all their flesh" / ESV: "let them go with a
-       razor over all their body" — Hebrew "v'he'eviru ta'ar al kol
-       b'saram" — pass a razor over all their flesh. Complete shaving of
-       the body — a dramatic act of purification and new beginning.
-       Similar to the leper's cleansing (Leviticus 14:8-9).
+v.7  — Hebrew "mei chattat" — literally "water of sin [offering]."
+       KJV: "water of purifying"
+       ESV: "water of purification"
+       ASV: "water of expiation"
+       NET: "water of purification"
+       WEB: "water for purification"
+       Analysis: This is water mixed with the ashes of the red heifer
+       (Numbers 19). It purifies from defilement. ASV's "expiation"
+       emphasizes atonement; others emphasize cleansing.
 
-v.11 — KJV: "for an offering" / ESV: "as a wave offering" — Hebrew
-       "t'nufah" — a wave offering. The Levites are literally "waved"
-       before the LORD — presented with the same gesture used for animal
-       offerings. They are living sacrifices, offered to God by the
-       community.
+v.7  — Hebrew "v'he'eviru ta'ar al kol b'saram" — pass a razor over all
+       their flesh.
+       KJV: "let them shave all their flesh"
+       ESV: "let them go with a razor over all their body"
+       ASV: "let them shave all their flesh"
+       NET: "they must shave their entire body"
+       WEB: "let them shave their whole bodies"
+       Analysis: Complete shaving of the body — a dramatic act of
+       purification and new beginning. Similar to the leper's cleansing
+       (Leviticus 14:8-9). All translations agree on the totality.
 
-v.19 — KJV: "that there be no plague" / ESV: "that there may be no
-       plague" — Hebrew "v'lo yihyeh... negef" — and there shall not be
-       a plague/striking. Without the Levites as intermediaries, the
-       people's approach to the sanctuary would bring divine judgment.
-       The Levites absorb the danger.
+v.11 — Hebrew "t'nufah" — a wave offering.
+       KJV: "for an offering"
+       ESV: "as a wave offering"
+       ASV: "for a wave-offering... before Jehovah"
+       NET: "as a wave offering... before the Lord"
+       WEB: "for a wave offering... before Yahweh"
+       Analysis: The Levites are literally "waved" before the LORD —
+       presented with the same gesture used for animal offerings. They are
+       living sacrifices, offered to God by the community. The divine name
+       marks who receives this living gift.
 
-v.24 — KJV: "from twenty and five years old" / ESV: "from twenty-five
-       years old" — Hebrew "mi-ben chamesh v'esrim shanah." Age 25 for
-       beginning service. This differs from the age 30 in 4:3. The
-       reconciliation: age 25-30 is apprenticeship/training; age 30-50 is
-       full active service (especially the heavy transport work).
+v.16 — Hebrew "nethunim nethunim" — given, given (emphatic doubling).
+       KJV: "they are wholly given unto me"
+       ESV: "they are wholly given to me"
+       ASV: "they are wholly given unto me from among the children of Israel"
+       NET: "they are entirely given to me from among the Israelites"
+       WEB: "they are wholly given to me from among the children of Israel"
+       Analysis: The emphatic doubling means "completely given." The
+       Levites belong entirely to YHWH. No divided loyalty, no partial
+       commitment. NET uses "entirely"; others use "wholly."
 
-v.26 — KJV: "shall minister with their brethren... to keep the charge,
-       and shall do no service" / ESV: "they minister to their brothers...
-       by keeping guard, but they shall do no service" — Hebrew "v'sheret
-       et echav... lishmor mishmeret, va-avodah lo ya'avod." After 50,
-       Levites assist and guard but do not perform the primary labor.
-       Retirement from heavy duty, not from all usefulness.
+v.19 — Hebrew "v'lo yihyeh... negef" — and there shall not be a plague.
+       KJV: "that there be no plague"
+       ESV: "that there may be no plague"
+       ASV: "that there be no plague"
+       NET: "so there will be no plague"
+       WEB: "that there be no plague"
+       Analysis: Without the Levites as intermediaries, the people's
+       approach to the sanctuary would bring divine judgment. The Levites
+       absorb the danger. All translations agree.
+
+v.24 — Hebrew "mi-ben chamesh v'esrim shanah" — from the age of twenty-
+       five years.
+       KJV: "from twenty and five years old"
+       ESV: "from twenty-five years old"
+       ASV: "from twenty-five years old"
+       NET: "from twenty-five years old"
+       WEB: "from twenty-five years old"
+       Analysis: Age 25 for beginning service. This differs from age 30
+       in 4:3. The reconciliation: age 25-30 is apprenticeship/training;
+       age 30-50 is full active service (especially the heavy transport
+       work).
+
+v.25-26 — Hebrew "va-avodah lo ya'avod" — and service he shall not serve.
+       KJV: "from the age of fifty years they shall cease waiting upon the service... shall do no service"
+       ESV: "from the age of fifty years they shall withdraw... they shall do no service"
+       ASV: "from the age of fifty years they shall cease waiting upon the work"
+       NET: "at the age of fifty years they must retire from the work"
+       WEB: "from the age of fifty years they shall cease from doing the work"
+       Analysis: NET's "retire" modernizes ASV/KJV's "cease waiting upon."
+       After 50, Levites assist and guard but do not perform the primary
+       labor. Retirement from heavy duty, not from all usefulness.
 
 GLOSSARY
 ------------------------------------
@@ -236,20 +298,6 @@ Apprenticeship (ages 25-30) — The period between beginning service (age 25,
                training and lighter duties before assuming the heavy
                responsibility of carrying the holy things.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "When you set up the lamps" / ASV: "When thou lightest the lamps" / WEB: "When you light the lamps" / KJV: "When thou lightest the lamps" — NET uses "set up" while ASV/WEB/KJV use "light" (Hebrew "he'alot" — literally "cause to ascend/go up"). The flame goes UP — the same verb used for offerings ascending to God.
-
-- v.4 — NET: "the lampstand" / ASV: "the candlestick" / WEB: "the lampstand" / KJV: "the candlestick" — NET and WEB correctly use "lampstand" (Hebrew "menorah"); ASV/KJV use the anachronistic "candlestick" (there are no candles — only oil lamps).
-
-- v.6 — NET: "purify them" / ASV: "cleanse them" / WEB: "cleanse them" — NET uses "purify" (Hebrew "taher") while ASV/WEB use "cleanse." The distinction matters: this is ritual purification, not physical cleaning. The Levites are made ceremonially fit for sacred service.
-
-- v.11 — NET: "Aaron is to offer the Levites before the Lord as a wave offering" / ASV: "Aaron shall offer the Levites before Jehovah for a wave-offering" / WEB: "Aaron shall offer the Levites before Yahweh for a wave offering" — The Levites ARE the offering — presented to God like a sacrifice. The divine name marks who receives this living gift.
-
-- v.16 — NET: "they are entirely given to me from among the Israelites" / ASV: "for they are wholly given unto me from among the children of Israel" / WEB: "for they are wholly given to me from among the children of Israel" — Hebrew "nethunim nethunim" — an emphatic doubling: "given, given" — completely given. The Levites belong entirely to YHWH.
-
-- v.25 — NET: "at the age of fifty years they must retire from the work" / ASV: "from the age of fifty years they shall cease waiting upon the work" / KJV: "from the age of fifty years they shall cease waiting upon the service" — NET's "retire" modernizes ASV/KJV's "cease waiting upon." Levites retire from heavy labor at 50 but can still assist (v.26).
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Living sacrifices (v.11). The Levites are offered to God — not dead but
@@ -281,12 +329,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

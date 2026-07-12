@@ -160,49 +160,115 @@ Charles Spurgeon:
   and live. Do not look to yourself — you are bitten. Do not look to
   Moses — he cannot save. Look to the One lifted up, and you shall live."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.4  — KJV: "the soul of the people was much discouraged because of the
-       way" / ESV: "the people became impatient on the way" — Hebrew
-       "vatiqtzar nefesh ha-am ba-derekh." "Qatzar nefesh" = short of
-       soul/spirit — impatient, frustrated, discouraged. The long detour
-       around Edom wears them down emotionally.
+v.4  — Hebrew "vatiqtzar nefesh ha-am ba-derekh" — the soul of the people
+       was shortened/discouraged because of the way.
+       KJV: "the soul of the people was much discouraged because of the way"
+       ESV: "the people became impatient on the way"
+       ASV: "the soul of the people was much discouraged because of the way"
+       NET: "the people became impatient on the way"
+       WEB: "the soul of the people was much discouraged because of the way"
+       Analysis: "Qatzar nefesh" = short of soul/spirit — impatient,
+       frustrated, discouraged. The long detour around Edom wears them
+       down emotionally. KJV/ASV/WEB preserve the literal "soul...
+       discouraged" while ESV/NET simplify to "became impatient."
 
-v.5  — KJV: "this light bread" / ESV: "this worthless food" — Hebrew
-       "ha-lechem ha-q'loqel." "Q'loqel" = light, worthless, contemptible.
-       They call God's miraculous daily provision "worthless." KJV's "light"
-       (insubstantial) and ESV's "worthless" both capture the contempt.
+v.5  — Hebrew "ha-lechem ha-q'loqel" — the light/worthless bread.
+       KJV: "this light bread"
+       ESV: "this worthless food"
+       ASV: "this light bread"
+       NET: "this worthless food"
+       WEB: "this light bread"
+       Analysis: "Q'loqel" = light, worthless, contemptible. They call
+       God's miraculous daily provision "worthless." KJV/ASV/WEB's "light"
+       (insubstantial) and ESV/NET's "worthless" both capture the contempt.
+       They simultaneously claim there's no food AND despise what they
+       have — contradictory complaining.
 
-v.6  — KJV: "fiery serpents" / ESV: "fiery serpents" — Hebrew "ha-n'chashim
-       ha-s'rafim." "Seraphim" = burning ones. The same word used for the
+v.6  — Hebrew "ha-n'chashim ha-s'rafim" — the serpents, the burning ones.
+       KJV: "fiery serpents"
+       ESV: "fiery serpents"
+       ASV: "fiery serpents"
+       NET: "poisonous snakes"
+       WEB: "venomous serpents"
+       Analysis: "Seraphim" = burning ones. The same word used for the
        angelic beings in Isaiah 6:2. Here it describes the burning
-       sensation of the venom. These may be a species of venomous snake
-       native to the Sinai/Negev region.
+       sensation of the venom. KJV/ESV/ASV translate "seraphim" literally
+       as "fiery"; NET interprets the effect as "poisonous"; WEB
+       compromises with "venomous." These may be a species of venomous
+       snake native to the Sinai/Negev region.
 
-v.8  — KJV: "set it upon a pole" / ESV: "set it on a pole" — Hebrew
-       "sim oto al nes." "Nes" = pole, standard, banner, signal. The same
-       word used for a military banner or signal flag. The serpent is
-       lifted high so all can see it — visibility is essential. Christ
-       must be "lifted up" (John 3:14; 12:32) so all can look to Him.
+v.8  — Hebrew "sim oto al nes" — set it upon a pole/standard/banner.
+       KJV: "set it upon a pole"
+       ESV: "set it on a pole"
+       ASV: "set it upon a standard"
+       NET: "set it on a pole"
+       WEB: "set it on a pole"
+       Analysis: "Nes" = pole, standard, banner, signal. The same word
+       used for a military banner or signal flag. ASV uses "standard."
+       The serpent is lifted high so all can see it — visibility is
+       essential. Christ must be "lifted up" (John 3:14; 12:32) so all
+       can look to Him.
 
-v.9  — KJV: "a serpent of brass" / ESV: "a bronze serpent" — Hebrew
-       "n'chash n'choshet." A wordplay: "nachash" (serpent) and "n'choshet"
-       (bronze/copper). The bronze serpent is named "Nehushtan" when
-       Hezekiah destroys it (2 Kings 18:4). Bronze is associated with
-       judgment in Scripture (the bronze altar, bronze laver).
+v.9  — Hebrew "n'chash n'choshet" — a serpent of bronze/copper.
+       KJV: "a serpent of brass"
+       ESV: "a bronze serpent"
+       ASV: "a serpent of brass"
+       NET: "a bronze snake"
+       WEB: "a serpent of bronze"
+       Analysis: A wordplay: "nachash" (serpent) and "n'choshet"
+       (bronze/copper). KJV/ASV use "brass" (archaic for bronze); ESV/WEB
+       use "bronze"; NET uses "bronze snake." The bronze serpent is later
+       named "Nehushtan" when Hezekiah destroys it (2 Kings 18:4). Bronze
+       is associated with judgment in Scripture (the bronze altar, bronze
+       laver).
 
-v.14 — KJV: "the book of the wars of the LORD" / ESV: "the Book of the
-       Wars of the LORD" — A lost historical document recording Israel's
-       battles. Its existence shows that other written records existed
-       alongside the Pentateuch. Not all inspired history was preserved
-       in the canon.
+v.14 — Hebrew "sefer milchamot YHWH" — the book of the wars of the LORD.
+       KJV: "the book of the wars of the LORD"
+       ESV: "the Book of the Wars of the LORD"
+       ASV: "the book of the Wars of Jehovah"
+       NET: "the Book of the Wars of the Lord"
+       WEB: "the book of the Wars of Yahweh"
+       Analysis: A lost historical document recording Israel's battles. The
+       divine name differences: NET/ESV "the LORD," ASV "Jehovah," WEB
+       "Yahweh." Its existence shows that Moses had access to earlier
+       written sources, and not all inspired history was preserved in the
+       canon.
 
-v.18 — KJV: "by the direction of the lawgiver, with their staves" / ESV:
-       "with the scepter and with their staffs" — Hebrew "bim'choqeq
-       b'mish'notam." "M'choqeq" can mean "lawgiver," "commander," or
+v.17 — Hebrew "ali v'er" — spring up, O well.
+       KJV: "Spring up, O well"
+       ESV: "Spring up, O well!"
+       ASV: "Spring up, O well"
+       NET: "Spring up, O well"
+       WEB: "Spring up, O well"
+       Analysis: One of Israel's rare songs of praise in Numbers. All
+       translations preserve the poetic direct address to the well —
+       personifying God's provision. A song of faith and joy replacing
+       the complaining of v.5.
+
+v.18 — Hebrew "bim'choqeq b'mish'notam" — by the commander/lawgiver/
+       scepter, with their staffs.
+       KJV: "by the direction of the lawgiver, with their staves"
+       ESV: "with the scepter and with their staffs"
+       ASV: "with the sceptre, with their staves"
+       NET: "with their authority, with their staffs"
+       WEB: "with the scepter, with their poles"
+       Analysis: "M'choqeq" can mean "lawgiver," "commander," or
        "scepter/staff of command." KJV interprets it as a person
-       (lawgiver = Moses); ESV as an instrument (scepter). The ambiguity
-       is in the Hebrew.
+       (lawgiver = Moses); ESV/ASV/WEB as an instrument (scepter); NET
+       abstracts to "authority." The ambiguity is in the Hebrew.
+
+v.34 — Hebrew "al-tira oto" — do not fear him.
+       KJV: "Fear him not"
+       ESV: "Do not fear him"
+       ASV: "Fear him not"
+       NET: "Do not fear him"
+       WEB: "Don't fear him"
+       Analysis: God encourages Moses before battle against Og of Bashan.
+       The divine assurance formula: "Do not fear" (Hebrew "al-tira") —
+       God's standard word before victory. Past tense follows: "I have
+       given him into your hand" — it is already done.
 
 GLOSSARY
 ------------------------------------
@@ -243,20 +309,6 @@ Book of the Wars of the LORD — A lost historical document quoted in v.14.
                demonstrates that multiple written records existed in
                Moses' time, though not all were preserved in Scripture.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.5 — NET: "There is no food and there is no water, and we detest this worthless food" / ASV: "there is no bread, and there is no water; and our soul loatheth this light bread" / WEB: "There is no bread, and there is no water; and our soul loathes this light bread" — NET's "worthless food" (Hebrew "lechem ha-qeloqel" — bread of lightness/insubstantiality) is stronger than ASV/WEB's "light bread." They simultaneously claim there's no food AND despise what they have — contradictory complaining.
-
-- v.6 — NET: "poisonous snakes" / ASV: "fiery serpents" / WEB: "venomous serpents" / KJV: "fiery serpents" — Hebrew "nachashim ha-seraphim" — literally "serpents, the burning ones." KJV/ASV translate "seraphim" literally as "fiery"; NET interprets the effect as "poisonous"; WEB compromises with "venomous." The burning sensation is from their venom.
-
-- v.8 — NET: "Make a poisonous snake and set it on a pole" / ASV: "Make thee a fiery serpent, and set it upon a standard" / WEB: "Make a venomous serpent, and set it on a pole" — NET/WEB use "pole" (Hebrew "nes" — a standard/banner). ASV uses "standard." The same word means "banner" — the serpent is lifted up like a flag. Jesus applies this to His crucifixion (John 3:14).
-
-- v.14 — NET: "the Book of the Wars of the Lord" / ASV: "the book of the Wars of Jehovah" / WEB: "the book of the Wars of Yahweh" — A lost book cited as a historical source. The divine name differences are clear: NET "the Lord," ASV "Jehovah," WEB "Yahweh." This demonstrates that Moses had access to earlier written sources.
-
-- v.17 — NET: "Spring up, O well" / ASV: "Spring up, O well" / WEB: "Spring up, O well" — One of Israel's rare songs of praise in Numbers (cf. the Song of the Sea, Exodus 15). All translations preserve the poetic direct address to the well — personifying God's provision.
-
-- v.34 — NET: "Do not fear him" / ASV: "Fear him not" / WEB: "Don't fear him" — God encourages Moses before battle against Og of Bashan. The divine assurance formula: "Do not fear" (Hebrew "al-tira") — God's standard word before victory.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "Look and live" (vv.8-9). The bronze serpent is the gospel in miniature.
@@ -296,12 +348,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

@@ -147,38 +147,95 @@ Charles Spurgeon:
   if you submit to the sprinkling — on the third day, the resurrection
   day — you shall be clean."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "a red heifer without spot, wherein is no blemish" / ESV: "a
-       red heifer without defect, in which there is no blemish" — Hebrew
-       "parah adummah t'mimah asher ein bah mum." "Adummah" = red.
-       "T'mimah" = complete, perfect, without defect. "Mum" = blemish,
-       physical flaw. The double description emphasizes absolute perfection.
+v.2  — Hebrew "parah adummah t'mimah asher ein bah mum" — a red heifer,
+       complete/perfect, without physical flaw.
+       KJV: "a red heifer without spot, wherein is no blemish"
+       ESV: "a red heifer without defect, in which there is no blemish"
+       ASV: "a red heifer without spot"
+       NET: "a flawless red heifer"
+       WEB: "a red heifer without spot"
+       Analysis: "Adummah" = red. "T'mimah" = complete, perfect, without
+       defect. "Mum" = blemish, physical flaw. NET uses "flawless" where
+       others use "without spot." The double description emphasizes
+       absolute perfection. An extremely rare animal — per rabbinic
+       tradition, not even two non-red hairs. Three requirements: red,
+       flawless, never yoked — a picture of Christ's unblemished,
+       voluntary sacrifice.
 
-v.9  — KJV: "a water of separation: it is a purification for sin" / ESV:
-       "the water for impurity... it is a sin offering" — Hebrew "mei
-       niddah... chattat hi." "Mei niddah" = waters of separation/
-       impurity/removal. "Chattat" = sin offering / purification offering.
-       KJV's "purification for sin" and ESV's "sin offering" both capture
-       aspects of "chattat" — it is both the means of purification and a
-       sacrifice for sin.
+v.6  — Hebrew "etz erez v'ezov ush'ni tola'at" — cedar wood, hyssop, and
+       scarlet.
+       KJV: "cedar wood, and hyssop, and scarlet"
+       ESV: "cedar wood and hyssop and scarlet yarn"
+       ASV: "cedar wood, and hyssop, and scarlet"
+       NET: "cedar wood, hyssop, and scarlet yarn"
+       WEB: "cedar wood, hyssop, and scarlet"
+       Analysis: NET and ESV specify "scarlet yarn" (Hebrew "sheni
+       tola'at"). The same materials used in the cleansing of the leper
+       (Lev 14:4) — cedar (durability), hyssop (humility/purging), scarlet
+       (blood/atonement).
 
-v.13 — KJV: "the water of separation was not sprinkled upon him" / ESV:
-       "the water for impurity was not thrown on him" — Hebrew "mei niddah
-       lo zorak alav." "Zorak" = sprinkled/thrown/dashed. The water must
-       be actively applied — it does not work passively or at a distance.
+v.9  — Hebrew "mei niddah... chattat hi" — waters of separation/impurity;
+       a sin/purification offering.
+       KJV: "a water of separation: it is a purification for sin"
+       ESV: "the water for impurity... it is a sin offering"
+       ASV: "for a water of separation"
+       NET: "for the water for impurity"
+       WEB: "for the water for impurity"
+       Analysis: "Mei niddah" = waters of separation/impurity/removal.
+       "Chattat" = sin offering / purification offering. KJV's
+       "purification for sin" and ESV's "sin offering" both capture aspects
+       of "chattat." NET and WEB emphasize it removes impurity; ASV/KJV
+       emphasize separation from defilement. It is both the means of
+       purification and a sacrifice for sin.
 
-v.17 — KJV: "running water shall be put thereto" / ESV: "fresh water
-       shall be added" — Hebrew "mayim chayyim" — literally "living water."
-       Not stagnant but flowing, fresh, alive. The same phrase Jesus uses
-       in John 4:10 and 7:38. The ashes of death mixed with living water
-       — death and life combined for purification.
+v.12 — Hebrew "yitchatte" — he shall purify/de-sin himself.
+       KJV: "He shall purify himself with it on the third day"
+       ESV: "He shall cleanse himself with the water on the third day"
+       ASV: "he shall purify himself therewith"
+       NET: "he must purify himself with it"
+       WEB: "he shall purify himself with it"
+       Analysis: The reflexive form "yitchatte" means "de-sin himself." The
+       person actively participates in cleansing. The third and seventh day
+       purification ritual — the third day pointing to resurrection.
 
-v.20 — KJV: "he hath defiled the sanctuary of the LORD" / ESV: "he has
-       defiled the sanctuary of the LORD" — Even though the unclean person
-       may not physically enter the sanctuary, their unaddressed defilement
-       is considered a contamination of God's dwelling. Sin affects the
-       whole community's relationship with God.
+v.13 — Hebrew "mei niddah lo zorak alav" — the water of separation was
+       not sprinkled upon him.
+       KJV: "the water of separation was not sprinkled upon him"
+       ESV: "the water for impurity was not thrown on him"
+       ASV: "the water for impurity was not sprinkled upon him"
+       NET: "the water of purification was not sprinkled on him"
+       WEB: "the water for impurity was not sprinkled on him"
+       Analysis: "Zorak" = sprinkled/thrown/dashed. The water must be
+       actively applied — it does not work passively or at a distance.
+       Purification requires deliberate application.
+
+v.17 — Hebrew "mayim chayyim" — living water.
+       KJV: "running water shall be put thereto"
+       ESV: "fresh water shall be added"
+       ASV: "running water"
+       NET: "fresh water"
+       WEB: "running water"
+       Analysis: "Mayim chayyim" literally means "living water" — not
+       stagnant but flowing, fresh, alive. The same phrase Jesus uses in
+       John 4:10 and 7:38. KJV/ASV/WEB preserve the sense of "running"
+       (flowing); ESV/NET use "fresh." The ashes of death mixed with living
+       water — death and life combined for purification. Christ offers
+       "living water" connecting to this purification symbolism.
+
+v.20 — Hebrew "tame et miqdash YHWH" — he has defiled the sanctuary of
+       the LORD.
+       KJV: "he hath defiled the sanctuary of the LORD"
+       ESV: "he has defiled the sanctuary of the LORD"
+       ASV: "he hath defiled the sanctuary of Jehovah"
+       NET: "he has polluted the sanctuary of the LORD"
+       WEB: "he has defiled the sanctuary of Yahweh"
+       Analysis: Even though the unclean person may not physically enter
+       the sanctuary, their unaddressed defilement is considered a
+       contamination of God's dwelling. NET uses "polluted" for stronger
+       emphasis. ASV uses "Jehovah" and WEB uses "Yahweh" for the divine
+       name. Sin affects the whole community's relationship with God.
 
 GLOSSARY
 ------------------------------------
@@ -222,20 +279,6 @@ Living Water (Hebrew: "mayim chayyim") — Running, flowing water as opposed
                offers "living water" (John 4:10; 7:38) — the Holy Spirit
                who applies His death to our defilement.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "a flawless red heifer" / ASV: "a red heifer without spot" / WEB: "a red heifer without spot" / KJV: "a red heifer without spot" — NET uses "flawless" where ASV/WEB/KJV use "without spot" (Hebrew "temimah" — complete/perfect). "Red" (Hebrew "adumah") — entirely red, with not even two non-red hairs (per rabbinic tradition). An extremely rare animal.
-
-- v.2 — NET: "which has no defect and has never carried a yoke" / ASV: "wherein is no blemish, and upon which never came yoke" / WEB: "in which is no blemish, and which was never yoked" — Three requirements: red, flawless, never yoked. The heifer must be unblemished and unworked — never subjected to human purpose. A picture of Christ's unblemished, voluntary sacrifice.
-
-- v.6 — NET: "cedar wood, hyssop, and scarlet yarn" / ASV: "cedar wood, and hyssop, and scarlet" / WEB: "cedar wood, hyssop, and scarlet" — NET specifies "scarlet yarn" (Hebrew "sheni tola'at"). The same materials used in the cleansing of the leper (Lev 14:4) — cedar (durability), hyssop (humility/purging), scarlet (blood/atonement).
-
-- v.9 — NET: "for the water for impurity" / ASV: "for a water of separation" / WEB: "for the water for impurity" / KJV: "for a water of separation" — Hebrew "mei niddah" — waters of impurity/removal. NET and WEB emphasize it removes impurity; ASV/KJV emphasize separation from defilement.
-
-- v.12 — NET: "he must purify himself with it" / ASV: "he shall purify himself therewith" / WEB: "he shall purify himself with it" — The third and seventh day purification ritual. "Purify himself" (Hebrew "yitchatte") — the same reflexive form as "de-sin himself." The person actively participates in cleansing.
-
-- v.17 — NET: "fresh water" / ASV: "running water" / WEB: "running water" / KJV: "running water" — Hebrew "mayim chayyim" (living water). The ashes mixed with "living water" create the purification mixture. Jesus claims to give "living water" (John 4:10) — connecting to this purification symbolism.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Death defiles (vv.11-16). In God's economy, death is not natural — it
@@ -273,12 +316,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

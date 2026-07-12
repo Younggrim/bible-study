@@ -146,53 +146,87 @@ Charles Spurgeon:
   marry whom they think best — only within the tribe.' Choose freely,
   but choose within God's will. That is not bondage — that is wisdom."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "the chief fathers of the families" / ESV: "The heads of the
-       fathers' houses of the clan" — Hebrew "rashei ha-avot l'mishp'chot."
-       Both translations describe the senior male leaders of the extended
-       family units within the tribe of Manasseh. These are the clan
-       elders responsible for tribal land management.
+v.1  — Hebrew "rashei ha-avot l'mishp'chot" — heads of the fathers' houses.
+       KJV: "the chief fathers of the families"
+       ESV: "The heads of the fathers' houses of the clan"
+       ASV: (not separately noted)
+       NET: (not separately noted)
+       WEB: (not separately noted)
+       Analysis: Both translations describe the senior male leaders of the extended family units within the tribe of Manasseh. These are the clan elders responsible for tribal land management.
 
-v.3  — KJV: "shall be put to the inheritance of the tribe whereunto they
-       are received" / ESV: "added to the inheritance of the tribe into
-       which they marry" — Hebrew "v'nosaf al nachalat ha-matteh asher
-       tihyenah lahem." Both describe the same concern: land following
-       the woman into her husband's tribe. ESV's "into which they marry"
-       is more direct than KJV's "whereunto they are received."
+v.2  — Hebrew (concerning the LORD's prior command).
+       KJV: (implied in context)
+       ESV: (implied in context)
+       ASV: "Jehovah doth command"
+       NET: "the Lord has commanded"
+       WEB: "Yahweh does command"
+       Analysis: The tribal leaders appeal to God's own prior command (ch.27) as their basis. Their concern is legitimate: women marrying outside their tribe could transfer inherited land permanently.
 
-v.4  — KJV: "when the jubile of the children of Israel shall be" / ESV:
-       "when the jubilee of the people of Israel comes" — Hebrew
-       "ba-yovel." The Jubilee (every 50th year) normally returns land to
-       its original tribal owner (Leviticus 25). But if the daughters'
-       land is now "owned" by another tribe through marriage, the Jubilee
-       would confirm it there — not return it to Manasseh. This is the
-       crux of the problem.
+v.3  — Hebrew "v'nosaf al nachalat ha-matteh asher tihyenah lahem" — added to the inheritance of the tribe.
+       KJV: "shall be put to the inheritance of the tribe whereunto they are received"
+       ESV: "added to the inheritance of the tribe into which they marry"
+       ASV: (not separately noted)
+       NET: (not separately noted)
+       WEB: (not separately noted)
+       Analysis: Both describe the same concern: land following the woman into her husband's tribe. ESV's "into which they marry" is more direct than KJV's "whereunto they are received."
 
-v.5  — KJV: "hath said well" / ESV: "is right" — Hebrew "ken." The same
-       word God used for the daughters in 27:7 — "right, correct, true."
-       God validates both parties: the daughters were right to ask, and
-       the tribal leaders are right to raise this concern.
+v.4  — Hebrew "ba-yovel" — the Jubilee.
+       KJV: "when the jubile of the children of Israel shall be"
+       ESV: "when the jubilee of the people of Israel comes"
+       ASV: (not separately noted)
+       NET: (not separately noted)
+       WEB: (not separately noted)
+       Analysis: The Jubilee (every 50th year) normally returns land to its original tribal owner (Leviticus 25). But if the daughters' land is now "owned" by another tribe through marriage, the Jubilee would confirm it there — not return it to Manasseh. This is the crux of the problem.
 
-v.6  — KJV: "Let them marry to whom they think best" / ESV: "Let them
-       marry whom they think best" — Hebrew "la-tov b'eineihem tihyenah
-       l'nashim." Literally "to the good in their eyes let them become
-       wives." The freedom is genuine — they choose their own husbands.
-       The restriction ("only within the tribe") limits the pool but not
-       the choice within that pool.
+v.5  — Hebrew "ken" — right, correct, true.
+       KJV: "hath said well"
+       ESV: "is right"
+       ASV: "Moses commanded the children of Israel according to the word of Jehovah"
+       NET: "Moses commanded the Israelites by the word of the Lord"
+       WEB: "Moses commanded the children of Israel according to Yahweh's word"
+       Analysis: The same word God used for the daughters in 27:7 — "right, correct, true." God validates both parties: the daughters were right to ask, and the tribal leaders are right to raise this concern. Moses speaks "by/according to the word of YHWH" — this is divine ruling, not human compromise. Both the daughters' right and the tribal integrity are upheld.
 
-v.11 — KJV: "were married unto their father's brothers' sons" / ESV:
-       "were married to sons of their father's brothers" — Hebrew
-       "li-vnei dodeihen." "Dod" means uncle (father's brother). They
-       married their paternal cousins — the closest eligible men within
-       their clan. This was common and acceptable in ancient Israel.
+v.6  — Hebrew "la-tov b'eineihem tihyenah l'nashim" — to the good in their eyes let them become wives.
+       KJV: "Let them marry to whom they think best"
+       ESV: "Let them marry whom they think best"
+       ASV: "Let them be married to whom they think best; only into the family of the tribe of their father shall they be married"
+       NET: "They may marry whomever they think best, only they must marry within the family of their father's tribe"
+       WEB: (not separately noted)
+       Analysis: The freedom is genuine — they choose their own husbands. The restriction ("only within the tribe") limits the pool but not the choice within that pool. Liberty within covenant structure.
 
-v.13 — KJV: "the commandments and the judgments" / ESV: "the commandments
-       and the rules" — Hebrew "ha-mitzvot v'ha-mishpatim." "Mitzvot" =
-       commandments (direct divine orders). "Mishpatim" = judgments, rules,
-       case law (legal rulings applied to specific situations). Together
-       they encompass all of God's instruction: both absolute commands and
-       situational applications.
+v.7  — Hebrew (concerning tribal inheritance permanence).
+       KJV: "So shall not the inheritance of the children of Israel remove from tribe to tribe"
+       ESV: (implied in ruling)
+       ASV: "the inheritance of the children of Israel shall not remove from tribe to tribe"
+       NET: "the inheritance of the Israelites will not be transferred from tribe to tribe"
+       WEB: "the inheritance of the children of Israel shall not transfer from tribe to tribe"
+       Analysis: The theological principle: each tribe's inheritance is permanently assigned by God. Land belongs to tribes in perpetuity. No tribe gains at another's expense.
+
+v.10 — Hebrew (concerning the daughters' obedience).
+       KJV: "Even as the LORD commanded Moses, so did the daughters of Zelophehad"
+       ESV: (implied in narrative)
+       ASV: "Even as Jehovah commanded Moses, so did the daughters of Zelophehad"
+       NET: "As the Lord had commanded Moses, so the daughters of Zelophehad did"
+       WEB: "The daughters of Zelophehad did as Yahweh commanded Moses"
+       Analysis: Obedience concludes the story. The daughters who boldly asked now faithfully obey — faith and submission work together.
+
+v.11 — Hebrew "li-vnei dodeihen" — to the sons of their father's brothers (paternal cousins).
+       KJV: "were married unto their father's brothers' sons"
+       ESV: "were married to sons of their father's brothers"
+       ASV: (not separately noted)
+       NET: (not separately noted)
+       WEB: (not separately noted)
+       Analysis: "Dod" means uncle (father's brother). They married their paternal cousins — the closest eligible men within their clan. This was common and acceptable in ancient Israel.
+
+v.13 — Hebrew "ha-mitzvot v'ha-mishpatim" — the commandments and the rules.
+       KJV: "the commandments and the judgments"
+       ESV: "the commandments and the rules"
+       ASV: "These are the commandments and the ordinances which Jehovah commanded by Moses unto the children of Israel in the plains of Moab by the Jordan at Jericho"
+       NET: "These are the commandments and the decisions that the Lord commanded the Israelites through Moses on the plains of Moab by the Jordan River opposite Jericho"
+       WEB: (not separately noted)
+       Analysis: "Mitzvot" = commandments (direct divine orders). "Mishpatim" = judgments, rules, case law (legal rulings applied to specific situations). Together they encompass all of God's instruction: both absolute commands and situational applications. The final verse of Numbers — all translations agree on the location: plains of Moab, ready to cross the Jordan. The book ends where Deuteronomy begins.
 
 GLOSSARY
 ------------------------------------
@@ -231,19 +265,6 @@ Colophon — A concluding statement identifying the content, author, or
                the Moab legislation section and for the book of Numbers
                as a whole.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "the Lord has commanded" / ASV: "Jehovah doth command" / WEB: "Yahweh does command" — The tribal leaders appeal to God's own prior command (ch.27) as their basis. Their concern is legitimate: women marrying outside their tribe could transfer inherited land permanently.
-
-- v.5 — NET: "Moses commanded the Israelites by the word of the Lord" / ASV: "Moses commanded the children of Israel according to the word of Jehovah" / WEB: "Moses commanded the children of Israel according to Yahweh's word" — Moses speaks "by/according to the word of YHWH" — this is divine ruling, not human compromise. Both the daughters' right and the tribal integrity are upheld.
-
-- v.6 — NET: "They may marry whomever they think best, only they must marry within the family of their father's tribe" / ASV: "Let them be married to whom they think best; only into the family of the tribe of their father shall they be married" — NET's "whomever they think best" shows freedom within boundaries — they choose their husbands, but from within their tribe. Liberty within covenant structure.
-
-- v.7 — NET: "the inheritance of the Israelites will not be transferred from tribe to tribe" / ASV: "the inheritance of the children of Israel shall not remove from tribe to tribe" / WEB: "the inheritance of the children of Israel shall not transfer from tribe to tribe" — The theological principle: each tribe's inheritance is permanently assigned by God. Land belongs to tribes in perpetuity.
-
-- v.10 — NET: "As the Lord had commanded Moses, so the daughters of Zelophehad did" / ASV: "Even as Jehovah commanded Moses, so did the daughters of Zelophehad" / WEB: "The daughters of Zelophehad did as Yahweh commanded Moses" — Obedience concludes the story. The daughters who boldly asked now faithfully obey — faith and submission work together.
-
-- v.13 — NET: "These are the commandments and the decisions that the Lord commanded the Israelites through Moses on the plains of Moab by the Jordan River opposite Jericho" / ASV: "These are the commandments and the ordinances which Jehovah commanded by Moses unto the children of Israel in the plains of Moab by the Jordan at Jericho" — The final verse of Numbers. All translations agree on the location: plains of Moab, ready to cross the Jordan. The book ends where Deuteronomy begins.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -282,12 +303,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

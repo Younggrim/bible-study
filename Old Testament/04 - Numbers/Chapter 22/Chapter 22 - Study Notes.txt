@@ -171,44 +171,110 @@ Charles Spurgeon:
   God's word and love God's enemy. Balaam is the most terrifying figure in
   Scripture: a man who knew the truth and sold it for gold."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.5  — KJV: "by the river of the land of the children of his people" /
-       ESV: "near the River in the land of the people of Amaw" — Hebrew
-       text is difficult here. "The River" (ha-nahar) typically refers to
-       the Euphrates. Pethor was in Mesopotamia — Balaam traveled
-       approximately 400 miles to reach Moab. KJV and ESV differ on "his
-       people" vs. "Amaw" — a textual variant.
+v.5  — Hebrew text difficult — "by the river of the land of his people."
+       KJV: "by the river of the land of the children of his people"
+       ESV: "near the River in the land of the people of Amaw"
+       ASV: "to Pethor, which is by the River"
+       NET: "Balaam son of Beor"
+       WEB: "Balaam the son of Beor"
+       Analysis: "The River" (ha-nahar) typically refers to the Euphrates.
+       Pethor was in Mesopotamia — Balaam traveled approximately 400 miles
+       to reach Moab. KJV and ESV differ on "his people" vs. "Amaw" — a
+       textual variant. Balaam is a non-Israelite diviner yet God speaks
+       through him.
 
-v.7  — KJV: "the rewards of divination" / ESV: "the fees for divination"
-       — Hebrew "q'samim b'yadam" — divination fees in their hand. Balaam
-       is a professional — he charges for his services. This is not a
-       prophet of the LORD serving freely but a diviner for hire.
+v.7  — Hebrew "q'samim b'yadam" — divination fees in their hand.
+       KJV: "the rewards of divination"
+       ESV: "the fees for divination"
+       ASV: "the rewards of divination"
+       NET: "the fee for divination"
+       WEB: "the wages of divination"
+       Analysis: Balaam is a professional — he charges for his services.
+       This is not a prophet of the LORD serving freely but a diviner for
+       hire. KJV/ASV use "rewards," ESV/NET use "fees," WEB uses "wages."
 
-v.22 — KJV: "the angel of the LORD stood in the way for an adversary
-       against him" / ESV: "the angel of the LORD took his stand in the
-       way as his adversary" — Hebrew "l'satan lo" — as a satan/adversary
-       to him. The word "satan" here means "opponent/adversary" — the
+v.12 — Hebrew "baruk hu" — blessed is he (they are blessed).
+       KJV: "Thou shalt not go with them; thou shalt not curse the people: for they are blessed"
+       ESV: "You shall not go with them. You shall not curse the people, for they are blessed"
+       ASV: "Thou shalt not go with them; thou shalt not curse the people; for they are blessed"
+       NET: "You must not go with them; you must not curse the people, for they are blessed"
+       WEB: "You shall not go with them. You shall not curse the people, for they are blessed"
+       Analysis: God's absolute declaration. "They are blessed" — a state
+       of divine favor that no human magic can reverse. Three prohibitions
+       from God: do not go, do not curse, because they are blessed. Clear,
+       absolute, final.
+
+v.18 — Hebrew "lo uchal la'avor et pi YHWH Elohai" — I cannot transgress
+       the mouth/word of the LORD my God.
+       KJV: "I cannot go beyond the word of the LORD my God"
+       ESV: "I could not go beyond the command of the LORD my God"
+       ASV: "I cannot go beyond the word of Jehovah my God"
+       NET: "I could not do anything small or great that would go against the commandment of the Lord my God"
+       WEB: "I can't go beyond the word of Yahweh my God"
+       Analysis: Balaam acknowledges YHWH's sovereignty even while desiring
+       Balak's reward. ASV uses "Jehovah," WEB uses "Yahweh." His
+       confession is correct theology without genuine submission — he
+       sounds pious but his heart wants the gold.
+
+v.22 — Hebrew "l'satan lo" — as a satan/adversary to him.
+       KJV: "the angel of the LORD stood in the way for an adversary against him"
+       ESV: "the angel of the LORD took his stand in the way as his adversary"
+       ASV: "the angel of Jehovah stood in the way for an adversary against him"
+       NET: "the angel of the Lord stood in the road to oppose him"
+       WEB: "Yahweh's angel stood in the way as an adversary against him"
+       Analysis: The word "satan" here means "opponent/adversary" — the
        Angel opposes Balaam's perverse journey. God Himself stands against
-       those whose way is crooked.
+       those whose way is crooked. Note WEB's unique "Yahweh's angel" —
+       possessive rather than construct state.
 
-v.28 — KJV: "the LORD opened the mouth of the ass" / ESV: "the LORD
-       opened the mouth of the donkey" — Hebrew "vayyiftach YHWH et pi
-       ha-aton." A supernatural miracle — God gives speech to an animal.
+v.28 — Hebrew "vayyiftach YHWH et pi ha-aton" — the LORD opened the mouth
+       of the donkey.
+       KJV: "the LORD opened the mouth of the ass"
+       ESV: "the LORD opened the mouth of the donkey"
+       ASV: "Jehovah opened the mouth of the ass"
+       NET: "Then the Lord opened the mouth of the donkey"
+       WEB: "Yahweh opened the mouth of the donkey"
+       Analysis: A supernatural miracle — God gives speech to an animal.
        Peter treats this as literal history (2 Peter 2:16). The God who
-       created speech can grant it to any creature.
+       created speech can grant it to any creature. God gives speech to a
+       beast while the professional prophet cannot see what the donkey sees.
 
-v.32 — KJV: "thy way is perverse before me" / ESV: "your way is perverse
-       before me" — Hebrew "ki yarat ha-derekh l'negdi." "Yarat" = to be
-       precipitous, reckless, perverse. Balaam's path is crooked in God's
-       sight — he goes with permission but with corrupt motivation.
+v.32 — Hebrew "ki yarat ha-derekh l'negdi" — because the way is perverse/
+       reckless before me.
+       KJV: "thy way is perverse before me"
+       ESV: "your way is perverse before me"
+       ASV: "thy way is perverse before me"
+       NET: "your way is reckless before me"
+       WEB: "your way is perverse before me"
+       Analysis: "Yarat" = to be precipitous, reckless, perverse. NET uses
+       "reckless" where others use "perverse." Balaam's path is crooked in
+       God's sight — he goes with permission but with corrupt motivation.
 
-v.41 — KJV: "the high places of Baal" / ESV: "Bamoth-baal" — Hebrew
-       "Bamot Ba'al." KJV translates ("high places of Baal"); ESV
-       transliterates as a place name. These were elevated worship sites
-       dedicated to the Canaanite deity Baal. Balak brings Balaam to a
-       pagan worship site to curse Israel — the wrong god, the wrong
-       place, the wrong purpose.
+v.38 — Hebrew "ha-davar asher yasim Elohim b'fi oto adabber" — the word
+       that God puts in my mouth, that I shall speak.
+       KJV: "the word that God putteth in my mouth, that shall I speak"
+       ESV: "the word that God puts in my mouth, that must I speak"
+       ASV: "The word that God putteth in my mouth, that shall I speak"
+       NET: "The word that God puts in my mouth, that is what I must speak"
+       WEB: "The word that God puts in my mouth, that shall I speak"
+       Analysis: Balaam is controlled by God's word despite his own
+       desires. True prophecy is not the prophet's word but God's. He is
+       constrained by God's sovereignty — even a corrupt prophet cannot
+       speak beyond what God allows.
+
+v.41 — Hebrew "Bamot Ba'al" — high places of Baal.
+       KJV: "the high places of Baal"
+       ESV: "Bamoth-baal"
+       ASV: "the high places of Baal"
+       NET: "the high places of Baal"
+       WEB: "the high places of Baal"
+       Analysis: KJV/ASV/NET/WEB translate the term ("high places of
+       Baal"); ESV transliterates as a place name (Bamoth-baal). These
+       were elevated worship sites dedicated to the Canaanite deity Baal.
+       Balak brings Balaam to a pagan worship site to curse Israel — the
+       wrong god, the wrong place, the wrong purpose.
 
 GLOSSARY
 ------------------------------------
@@ -251,20 +317,6 @@ Pethor — Balaam's home city, located near the Euphrates River in
                covenant blessing on Abraham's seed cannot be reversed by
                any external curse. This is the foundation of chapters 23-24.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.5 — NET: "Balaam son of Beor" / ASV: "Balaam the son of Beor" / WEB: "Balaam the son of Beor" — All agree on the name. Balaam is a non-Israelite diviner from Pethor in Mesopotamia — yet God speaks through him. His oracles become some of the most beautiful messianic prophecy in the Torah.
-
-- v.12 — NET: "You must not go with them; you must not curse the people, for they are blessed" / ASV: "Thou shalt not go with them; thou shalt not curse the people; for they are blessed" / WEB: "You shall not go with them. You shall not curse the people, for they are blessed" — Three prohibitions from God. "They are blessed" (Hebrew "baruk hu") — a state of divine favor that no human magic can reverse.
-
-- v.18 — NET: "I could not do anything small or great that would go against the commandment of the Lord my God" / ASV: "I cannot go beyond the word of Jehovah my God" / WEB: "I can't go beyond the word of Yahweh my God" — Balaam acknowledges YHWH's sovereignty even while desiring Balak's reward. His confession is correct theology without genuine submission.
-
-- v.22 — NET: "the angel of the Lord" / ASV: "the angel of Jehovah" / WEB: "Yahweh's angel" — The "malak YHWH" (angel/messenger of YHWH) stands as adversary. Note WEB's unique construction "Yahweh's angel" — possessive rather than construct state.
-
-- v.28 — NET: "Then the Lord opened the mouth of the donkey" / ASV: "Jehovah opened the mouth of the ass" / WEB: "Yahweh opened the mouth of the donkey" — A supernatural miracle. "Opened the mouth" (Hebrew "vayiphach YHWH et-pi") — God gives speech to a beast while the professional prophet cannot see what the donkey sees.
-
-- v.38 — NET: "The word that God puts in my mouth, that is what I must speak" / ASV: "The word that God putteth in my mouth, that shall I speak" / WEB: "The word that God puts in my mouth, that shall I speak" — Balaam is controlled by God's word despite his own desires. True prophecy is not the prophet's word but God's.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "They are blessed" (v.12). No curse can reverse what God has blessed.
@@ -303,12 +355,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

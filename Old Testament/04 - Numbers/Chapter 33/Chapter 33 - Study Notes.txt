@@ -141,45 +141,63 @@ Charles Spurgeon:
   bring you through every trial to your inheritance. The journey is long,
   but the Guide is faithful, and the destination is certain."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "the journeys of the children of Israel" / ESV: "the stages
-       of the people of Israel" — Hebrew "mas'ei b'nei Yisrael." "Mas'ei"
-       (from "nasa" — to pull up, journey) means departures, stages,
-       marches. ESV's "stages" is more precise — each entry marks a
-       departure point. KJV's "journeys" is broader but accurate.
+v.1  — Hebrew "mas'ei b'nei Yisrael" — departures, stages, marches (from "nasa" — to pull up, journey).
+       KJV: "the journeys of the children of Israel"
+       ESV: "the stages of the people of Israel"
+       ASV: "These are the journeys of the children of Israel"
+       NET: "These are the journeys of the Israelites"
+       WEB: "These are the journeys of the children of Israel"
+       Analysis: ESV's "stages" is more precise — each entry marks a departure point. KJV's "journeys" is broader but accurate. The chapter title in Hebrew is "Mas'ei" — cataloging 42 camping stops from Egypt to Moab. A divine travel log of 40 years.
 
-v.2  — KJV: "Moses wrote their goings out according to their journeys" /
-       ESV: "Moses wrote down their starting places, stage by stage" —
-       Hebrew "motza'eihem l'mas'eihem." "Motza" means going forth,
-       starting point. ESV's "starting places, stage by stage" is clearer
-       — Moses recorded each departure point in sequence.
+v.2  — Hebrew "motza'eihem l'mas'eihem" — their starting places, stage by stage.
+       KJV: "Moses wrote their goings out according to their journeys by the commandment of the LORD"
+       ESV: "Moses wrote down their starting places, stage by stage, by command of the LORD"
+       ASV: "Moses wrote their goings out according to their journeys by the commandment of Jehovah"
+       NET: "Moses recorded their departures stage by stage at the command of the Lord"
+       WEB: "Moses wrote their goings out according to their journeys by the commandment of Yahweh"
+       Analysis: "Motza" means going forth, starting point. ESV's "starting places, stage by stage" is clearer — Moses recorded each departure point in sequence. God commands the written record. This is not mere historical interest — it is divinely mandated documentation. Moses writes under divine authority.
 
-v.3  — KJV: "went out with an high hand" / ESV: "went out triumphantly"
-       — Hebrew "b'yad ramah." Literally "with a raised/exalted hand" —
-       a gesture of power, confidence, and victory. KJV preserves the
-       Hebrew idiom; ESV interprets it. The image: Israel leaves Egypt
-       not as fleeing slaves but as a victorious army with raised fists.
+v.3  — Hebrew "b'yad ramah" — with a raised/exalted hand.
+       KJV: "went out with an high hand"
+       ESV: "went out triumphantly"
+       ASV: (similar to KJV)
+       NET: (similar to ESV)
+       WEB: (similar to KJV)
+       Analysis: Literally "with a raised/exalted hand" — a gesture of power, confidence, and victory. KJV preserves the Hebrew idiom; ESV interprets it. The image: Israel leaves Egypt not as fleeing slaves but as a victorious army with raised fists.
 
-v.52 — KJV: "destroy all their pictures" / ESV: "destroy all their
-       figured stones" — Hebrew "maskiyotam." "Maskit" means a carved
-       image, figured stone, or idol relief. KJV's "pictures" is
-       misleading to modern readers (suggesting paintings). ESV's "figured
-       stones" is more accurate — these are carved stone idols or relief
-       sculptures used in Canaanite worship.
+v.52 — Hebrew "maskiyotam" — carved images, figured stones, idol reliefs.
+       KJV: "destroy all their pictures"
+       ESV: "destroy all their figured stones"
+       ASV: "destroy all their figured stones"
+       NET: "destroy all their carved images, and destroy all their molten images, and demolish all their high places"
+       WEB: (similar to ASV)
+       Analysis: "Maskit" means a carved image, figured stone, or idol relief. KJV's "pictures" is misleading to modern readers (suggesting paintings). ESV/ASV's "figured stones" is more accurate — these are carved stone idols or relief sculptures used in Canaanite worship. NET uses "carved images" for "maskiyyot." Idolatry must be physically removed — not just avoided but destroyed.
 
-v.52 — KJV: "quite pluck down all their high places" / ESV: "demolish
-       all their high places" — Hebrew "v'et kol bamotam t'shammedu."
-       "Bamot" (high places) are elevated worship sites, often on hilltops.
-       "Shamad" means to destroy, annihilate. Both translations convey
-       total destruction — no Canaanite worship site is to survive.
+v.52 — Hebrew "v'et kol bamotam t'shammedu" — destroy all their high places.
+       KJV: "quite pluck down all their high places"
+       ESV: "demolish all their high places"
+       ASV: "demolish all their high places"
+       NET: "demolish all their high places"
+       WEB: (similar to ESV)
+       Analysis: "Bamot" (high places) are elevated worship sites, often on hilltops. "Shamad" means to destroy, annihilate. Both translations convey total destruction — no Canaanite worship site is to survive. The command to completely displace the Canaanites — NET's "you must" conveys obligation more strongly than ASV/WEB's "ye shall."
 
-v.55 — KJV: "pricks in your eyes, and thorns in your sides" / ESV: "barbs
-       in your eyes and thorns in your sides" — Hebrew "l'sikkim
-       b'eineikhem v'litznenim b'tziddeikhem." "Sikkim" means thorns or
-       barbs; "tzninim" means thorns or prickles. Both translations use
-       vivid imagery: constant irritation, pain, and impaired vision.
-       ESV's "barbs" is slightly more precise than KJV's "pricks."
+v.55 — Hebrew "l'sikkim b'eineikhem v'litznenim b'tziddeikhem" — thorns/barbs in your eyes and sides.
+       KJV: "pricks in your eyes, and thorns in your sides"
+       ESV: "barbs in your eyes and thorns in your sides"
+       ASV: "those that ye let remain of them shall be as pricks in your eyes, and as thorns in your sides"
+       NET: "those whom you allow to remain will become irritants in your eyes and thorns in your side"
+       WEB: (similar to ASV)
+       Analysis: "Sikkim" means thorns or barbs; "tzninim" means thorns or prickles. Both translations use vivid imagery: constant irritation, pain, and impaired vision. ESV's "barbs" is slightly more precise than KJV's "pricks." NET modernizes "pricks" to "irritants." The metaphor is vivid: incomplete obedience produces ongoing pain and hindrance.
+
+v.56 — Hebrew "ka'asher dimiti la'asot lahem" — as I intended/thought to do to them.
+       KJV: "I will do to you as I thought to do to them"
+       ESV: "I will do to you as I thought to do to them"
+       ASV: "as I thought to do unto them, so shall I do unto you"
+       NET: "I will do to you as I intended to do to them"
+       WEB: (similar to ESV)
+       Analysis: A sobering warning: God's judgment on Canaan will fall on Israel if they adopt Canaanite practices. The standard applies equally — there is no ethnic exemption from holiness. All translations preserve the gravity of this threat.
 
 GLOSSARY
 ------------------------------------
@@ -211,19 +229,6 @@ Mount Hor — The mountain on the border of Edom where Aaron died and was
                buried. His priestly garments were transferred to his son
                Eleazar. Traditional identification: Jebel Harun near Petra.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "These are the journeys of the Israelites" / ASV: "These are the journeys of the children of Israel" / WEB: "These are the journeys of the children of Israel" — Hebrew "mas'ei" (journeys/stages). The chapter title in Hebrew is "Mas'ei" — cataloging 42 camping stops from Egypt to Moab. A divine travel log of 40 years.
-
-- v.2 — NET: "Moses recorded their departures stage by stage at the command of the Lord" / ASV: "Moses wrote their goings out according to their journeys by the commandment of Jehovah" / WEB: "Moses wrote their goings out according to their journeys by the commandment of Yahweh" — God commands the written record. This is not mere historical interest — it is divinely mandated documentation. Moses writes under divine authority.
-
-- v.52 — NET: "you must drive out all the inhabitants of the land before you" / ASV: "ye shall drive out all the inhabitants of the land from before you" / WEB: "you shall drive out all the inhabitants of the land from before you" — The command to completely displace the Canaanites. NET's "you must" conveys obligation more strongly than ASV/WEB's "ye shall."
-
-- v.52 — NET: "destroy all their carved images, and destroy all their molten images, and demolish all their high places" / ASV: "destroy all their figured stones, and destroy all their molten images, and demolish all their high places" — NET uses "carved images" for "maskiyyot" (figured/carved stones); ASV has "figured stones." Idolatry must be physically removed — not just avoided but destroyed.
-
-- v.55 — NET: "those whom you allow to remain will become irritants in your eyes and thorns in your side" / ASV: "those that ye let remain of them shall be as pricks in your eyes, and as thorns in your sides" — NET modernizes "pricks" to "irritants." The metaphor is vivid: incomplete obedience produces ongoing pain and hindrance.
-
-- v.56 — NET: "I will do to you as I intended to do to them" / ASV: "as I thought to do unto them, so shall I do unto you" — A sobering warning: God's judgment on Canaan will fall on Israel if they adopt Canaanite practices. The standard applies equally — there is no ethnic exemption from holiness.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -262,12 +267,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

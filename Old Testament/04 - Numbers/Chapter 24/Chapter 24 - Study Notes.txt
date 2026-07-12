@@ -169,58 +169,125 @@ Charles Spurgeon:
   It is not seeing the Star that saves — it is following it. It is not
   knowing the Sceptre that redeems — it is bowing to it."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "to seek for enchantments" / ESV: "to look for omens" —
-       Hebrew "liqrat n'chashim." "Nechashim" = enchantments, omens,
-       divination signs. Previously Balaam used divination techniques;
-       now he abandons them and receives direct revelation from God's
-       Spirit. A significant shift in method, though not in heart.
+v.1  — Hebrew "liqrat n'chashim" — to seek for enchantments/omens.
+       KJV: "to seek for enchantments"
+       ESV: "to look for omens"
+       ASV: "to meet with enchantments"
+       NET: "to seek for omens"
+       WEB: "to meet with enchantments"
+       Analysis: "Nechashim" = enchantments, omens, divination signs.
+       NET/ESV use "omens" where KJV/ASV/WEB use "enchantments." Previously
+       Balaam used divination techniques; now he abandons them and receives
+       direct revelation from God's Spirit. A significant shift in method.
 
-v.3  — KJV: "the man whose eyes are open" / ESV: "the man whose eye is
-       opened" — Hebrew "sh'tum ha-ayin." "Shetum" is debated: it may
-       mean "opened" (seeing clearly) or "closed" (in trance, with inner
-       eyes opened). Most translations favor "opened" — Balaam claims
-       spiritual sight. The irony: the man whose donkey saw more than he
-       did now claims open eyes.
+v.2  — Hebrew "vattehi alav ruach Elohim" — the Spirit of God came upon
+       him.
+       KJV: "the spirit of God came upon him"
+       ESV: "the Spirit of God came upon him"
+       ASV: "the Spirit of God came upon him"
+       NET: "the Spirit of God came upon him"
+       WEB: "God's Spirit came on him"
+       Analysis: All agree that the Spirit comes on Balaam. WEB uses
+       possessive "God's Spirit." The Spirit empowers even a pagan diviner
+       for God's purposes — God's sovereignty over all human instruments.
 
-v.4  — KJV: "falling into a trance, but having his eyes open" / ESV:
-       "falling down with his eyes uncovered" — Hebrew "nofel u-g'luy
-       einayim." Balaam falls prostrate (overwhelmed by the vision) but
-       his eyes remain open — he sees the vision while conscious. This
+v.3  — Hebrew "sh'tum ha-ayin" — the man whose eye is opened/closed.
+       KJV: "the man whose eyes are open"
+       ESV: "the man whose eye is opened"
+       ASV: "the oracle of the man whose eye was opened"
+       NET: "the oracle of the man whose eyes are open"
+       WEB: "the oracle of the man whose eye was opened"
+       Analysis: "Shetum" is debated: it may mean "opened" (seeing clearly)
+       or "closed" (in trance, with inner eyes opened). NET pluralizes
+       "eyes"; ASV/WEB/ESV keep singular. Most favor "opened" — Balaam
+       claims spiritual sight. The irony: the man whose donkey saw more
+       than he did now claims open eyes.
+
+v.4  — Hebrew "nofel u-g'luy einayim" — falling down with eyes uncovered.
+       KJV: "falling into a trance, but having his eyes open"
+       ESV: "falling down with his eyes uncovered"
+       ASV: "falling down, and having his eyes open"
+       NET: "with his eyes open"
+       WEB: "falling down, and having his eyes open"
+       Analysis: Balaam falls prostrate (overwhelmed by the vision) but
+       his eyes remain open — he sees the vision while conscious. KJV adds
+       "trance" interpretively; ESV/ASV/WEB are more literal. This
        describes ecstatic prophetic experience.
 
-v.7  — KJV: "his king shall be higher than Agag" / ESV: "his king shall
-       be higher than Agag" — "Agag" was a title (like Pharaoh) for
-       Amalekite kings. Israel's future king will surpass even the
-       greatest of the Amalekite rulers. Fulfilled when Saul defeats Agag
-       (1 Samuel 15).
+v.7  — Hebrew "v'yarum mi-Agag malko" — his king shall be higher than
+       Agag.
+       KJV: "his king shall be higher than Agag"
+       ESV: "his king shall be higher than Agag"
+       ASV: "his king shall be higher than Agag"
+       NET: "their king will be greater than Agag"
+       WEB: "his king shall be higher than Agag"
+       Analysis: "Agag" was a title (like Pharaoh) for Amalekite kings.
+       NET uses "greater" where others use "higher." Israel's future king
+       will surpass even the greatest pagan ruler. Fulfilled when Saul
+       defeats Agag (1 Samuel 15).
 
-v.17 — KJV: "a Star out of Jacob, and a Sceptre shall rise out of Israel"
-       / ESV: "a star shall come out of Jacob, and a scepter shall rise
-       out of Israel" — Hebrew "darakh kokhav mi-Ya'aqov v'qam shevet
-       mi-Yisra'el." "Kokhav" = star. "Shevet" = sceptre, rod, tribe.
-       The Star and Sceptre are parallel — both refer to the same royal
-       figure. "Darakh" = to tread, march forth — the Star actively comes.
+v.17 — Hebrew "darakh kokhav mi-Ya'aqov v'qam shevet mi-Yisra'el" — a
+       star shall march forth from Jacob, and a scepter shall rise from
+       Israel.
+       KJV: "there shall come a Star out of Jacob, and a Sceptre shall rise out of Israel"
+       ESV: "a star shall come out of Jacob, and a scepter shall rise out of Israel"
+       ASV: "There shall come forth a star out of Jacob, and a sceptre shall rise out of Israel"
+       NET: "A star will march forth out of Jacob, and a scepter will rise out of Israel"
+       WEB: "A star will come out of Jacob. A scepter will rise out of Israel"
+       Analysis: "Kokhav" = star. "Shevet" = sceptre, rod, tribe. The Star
+       and Sceptre are parallel — both refer to the same royal figure.
+       NET's "march forth" (Hebrew "darak" — to tread/march) is more
+       dynamic than others' "come forth." This is the most significant
+       messianic prophecy in Numbers.
 
-v.17 — KJV: "shall smite the corners of Moab" / ESV: "shall crush the
-       forehead of Moab" — Hebrew "u-machatz pa'atei Mo'av." "Pa'atei"
-       can mean "corners/borders" or "temples/forehead" (sides of the
-       head). KJV reads geographically (borders of Moab); ESV reads
-       physically (crushing the skull). Both convey total defeat.
+v.17b — Hebrew "u-machatz pa'atei Mo'av" — shall crush the corners/
+       forehead of Moab.
+       KJV: "shall smite the corners of Moab"
+       ESV: "shall crush the forehead of Moab"
+       ASV: "shall smite through the corners of Moab"
+       NET: "He will crush the skulls of Moab"
+       WEB: "shall strike through the corners of Moab"
+       Analysis: "Pa'atei" can mean "corners/borders" or "temples/forehead"
+       (sides of the head). KJV/ASV/WEB read geographically (borders);
+       ESV reads physically (forehead); NET intensifies to "skulls." Both
+       convey total defeat.
 
-v.17 — KJV: "destroy all the children of Sheth" / ESV: "break down all
-       the sons of Sheth" — Hebrew "v'qarqar kol b'nei Sheth." "Sheth"
-       may refer to Seth (all humanity as descendants of Seth) or to a
-       Moabite people/place. If "all the sons of Seth" = all humanity,
-       this is a prophecy of universal dominion — the Messiah rules all.
+v.17c — Hebrew "v'qarqar kol b'nei Sheth" — and destroy all the sons of
+       Sheth.
+       KJV: "destroy all the children of Sheth"
+       ESV: "break down all the sons of Sheth"
+       ASV: "break down all the sons of tumult"
+       NET: "and demolish all the sons of Sheth"
+       WEB: "and break down all the sons of Sheth"
+       Analysis: "Sheth" may refer to Seth (all humanity as descendants of
+       Seth) or to a Moabite people/place. ASV interprets "Sheth" as
+       "tumult." If "all the sons of Seth" = all humanity, this is a
+       prophecy of universal dominion — the Messiah rules all.
 
-v.24 — KJV: "ships... from the coast of Chittim" / ESV: "ships... from
-       Kittim" — "Kittim" originally referred to Cyprus, then broadly to
+v.23 — Hebrew "mi yichyeh mi-sumo El" — alas, who shall live when God
+       does this?
+       KJV: "Alas, who shall live when God doeth this!"
+       ESV: "Alas, who can live when God does this?"
+       ASV: "Alas, who shall live when God doeth this?"
+       NET: "Who can survive when God does this?"
+       WEB: "Alas, who shall live when God does this?"
+       Analysis: Balaam's final oracle ends in awe — the power of God's
+       future actions is overwhelming. NET's "Who can survive" captures
+       the rhetorical force most directly.
+
+v.24 — Hebrew "tziyyim mi-yad Kittim" — ships from the coast of Kittim.
+       KJV: "ships... from the coast of Chittim"
+       ESV: "ships... from Kittim"
+       ASV: "ships... from the coast of Kittim"
+       NET: "Ships will come from the coast of Kittim"
+       WEB: "ships shall come from the coast of Kittim"
+       Analysis: "Kittim" originally referred to Cyprus, then broadly to
        the western Mediterranean coastlands (Greece, Rome). This prophecy
        looks far into the future: western naval powers will afflict
-       Assyria and the descendants of Eber (Hebrews/Semites). Possibly
-       fulfilled by Alexander the Great or Rome.
+       Assyria and the descendants of Eber. Possibly fulfilled by
+       Alexander the Great or Rome.
 
 GLOSSARY
 ------------------------------------
@@ -261,20 +328,6 @@ Children of Sheth / Sons of Sheth — Debated: either a Moabite clan/place,
                all the sons of men. This supports the messianic
                interpretation pointing to Christ's universal kingship.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "he did not go as at the other times to seek for omens" / ASV: "he went not, as at the other times, to meet with enchantments" / WEB: "he didn't go, as at the other times, to meet with enchantments" / KJV: "he went not, as at other times, to seek for enchantments" — NET uses "omens" where ASV/WEB/KJV use "enchantments" (Hebrew "nechashim"). Balaam abandons divination techniques — he now simply opens himself to God's Spirit.
-
-- v.2 — NET: "the Spirit of God came upon him" / ASV: "the Spirit of God came upon him" / WEB: "God's Spirit came on him" — All agree that the Spirit comes on Balaam. The Spirit empowers even a pagan diviner for God's purposes — God's sovereignty over all human instruments.
-
-- v.3 — NET: "the oracle of Balaam son of Beor; the oracle of the man whose eyes are open" / ASV: "the oracle of Balaam the son of Beor, and the oracle of the man whose eye was opened" / WEB: "the oracle of Balaam the son of Beor, the oracle of the man whose eye was opened" — Hebrew "shethum ha'ayin" — whose eye is opened/uncovered. NET pluralizes "eyes"; ASV/WEB keep singular. The seer's spiritual perception is activated by God.
-
-- v.17 — NET: "I see him, but not now; I behold him, but not close" / ASV: "I see him, but not now; I behold him, but not nigh" / WEB: "I see him, but not now. I behold him, but not near" — The messianic prophecy looks into the distant future. NET uses "close"; ASV "nigh"; WEB "near" — all translating Hebrew "qarov." The Star and Sceptre are future realities.
-
-- v.17 — NET: "A star will march forth out of Jacob, and a scepter will rise out of Israel" / ASV: "There shall come forth a star out of Jacob, and a sceptre shall rise out of Israel" / WEB: "A star will come out of Jacob. A scepter will rise out of Israel" — The most significant messianic prophecy in Numbers. NET's "march forth" (Hebrew "darak" — to tread/march) is more dynamic than ASV/WEB's "come forth."
-
-- v.23 — NET: "Who can survive when God does this?" / ASV: "Alas, who shall live when God doeth this?" / WEB: "Alas, who shall live when God does this?" — Balaam's final oracle ends in awe — the power of God's future actions is overwhelming. NET's "Who can survive" captures the rhetorical force.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "A Star out of Jacob, and a Sceptre out of Israel" (v.17). The Messiah
@@ -314,12 +367,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

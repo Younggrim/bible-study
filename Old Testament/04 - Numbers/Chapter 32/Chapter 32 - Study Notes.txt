@@ -147,51 +147,71 @@ Charles Spurgeon:
   escape is not concealment but confession: 'If we confess our sins, He
   is faithful and just to forgive us.'"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "a very great multitude of cattle" / ESV: "a very great
-       number of livestock" — Hebrew "miqneh rav." "Miqneh" includes all
-       livestock (cattle, sheep, goats). ESV's "livestock" is more
-       accurate than KJV's "cattle" (which in modern English suggests
-       only bovines).
+v.1  — Hebrew "miqneh rav" — a great number of livestock/possessions.
+       KJV: "a very great multitude of cattle"
+       ESV: "a very great number of livestock"
+       ASV: "a very great multitude of cattle"
+       NET: "a very large number of cattle"
+       WEB: "a very great multitude of livestock"
+       Analysis: "Miqneh" includes all livestock (cattle, sheep, goats). ESV and WEB's "livestock" is more accurate than KJV/ASV/NET's "cattle" (which in modern English suggests only bovines). Their wealth in animals drives their request for land east of Jordan.
 
-v.5  — KJV: "bring us not over Jordan" / ESV: "Do not take us across the
-       Jordan" — Hebrew "al ta'avirenu et ha-Yarden." The request is
-       direct and blunt. Both translations capture the force of the
-       negative imperative — they are asking to be exempted from crossing.
+v.5  — Hebrew "al ta'avirenu et ha-Yarden" — do not cause us to cross the Jordan.
+       KJV: "bring us not over Jordan"
+       ESV: "Do not take us across the Jordan"
+       ASV: "let us not pass over the Jordan"
+       NET: "Do not take us across the Jordan"
+       WEB: "don't bring us over the Jordan"
+       Analysis: The request is direct and blunt. Both KJV and ESV capture the force of the negative imperative — they are asking to be exempted from crossing. A request that alarms Moses — settling east of Jordan echoes the spies' refusal to cross (ch.13-14). Moses sees a pattern of shrinking back from God's full promise.
 
-v.14 — KJV: "an increase of sinful men" / ESV: "a brood of sinful men" —
-       Hebrew "tarbut anashim chatta'im." "Tarbut" means increase,
-       offspring, brood. ESV's "brood" is more vivid and carries a
-       pejorative tone (like "brood of vipers" in Matthew 3:7). KJV's
-       "increase" is more neutral but still negative in context.
+v.14 — Hebrew "tarbut anashim chatta'im" — increase/offspring/brood of sinful men.
+       KJV: "an increase of sinful men"
+       ESV: "a brood of sinful men"
+       ASV: "a brood of sinful men"
+       NET: "a brood of sinners"
+       WEB: "a brood of sinful men"
+       Analysis: "Tarbut" means increase, offspring, brood. ESV/ASV/NET/WEB's "brood" is more vivid and carries a pejorative tone (like "brood of vipers" in Matthew 3:7). KJV's "increase" is more neutral but still negative in context. Moses accuses them of repeating the previous generation's faithlessness.
 
-v.17 — KJV: "we ourselves will go ready armed before the children of
-       Israel" / ESV: "we will take up arms, ready to go before the
-       people of Israel" — Hebrew "nachnu nechalets chushim lifnei b'nei
-       Yisrael." "Chalets" means equipped, armed, ready for battle.
-       "Chushim" means quickly, hastily. They will arm quickly and go
-       first — as the vanguard, not the rear guard.
+v.17 — Hebrew "nachnu nechalets chushim lifnei b'nei Yisrael" — we will arm ourselves quickly before the children of Israel.
+       KJV: "we ourselves will go ready armed before the children of Israel"
+       ESV: "we will take up arms, ready to go before the people of Israel"
+       ASV: "we ourselves will be ready armed to go before the children of Israel"
+       NET: "we will arm ourselves"
+       WEB: "we ourselves will be ready armed to go before the children of Israel"
+       Analysis: "Chalets" means equipped, armed, ready for battle. "Chushim" means quickly, hastily. They will arm quickly and go first — as the vanguard, not the rear guard.
 
-v.22 — KJV: "ye shall return, and be guiltless before the LORD, and
-       before Israel" / ESV: "you shall return and be free of obligation
-       to the LORD and to Israel" — Hebrew "v'heyitem n'qiyim me-YHWH
-       u-me-Yisrael." "Naqiy" means clean, free, innocent. KJV's
-       "guiltless" emphasizes moral innocence; ESV's "free of obligation"
-       emphasizes release from duty. Both are valid — fulfilling the
-       promise clears them both morally and contractually.
+v.20 — Hebrew "im te'asu lifnei YHWH la-milchamah" — if you will arm yourselves before the LORD for the war.
+       KJV: "if ye will go armed before the LORD to war"
+       ESV: "if you will take up arms to go before the LORD for the war"
+       ASV: "if ye will arm yourselves before Jehovah for the war"
+       NET: "if you arm yourselves before the Lord for the war"
+       WEB: "If you will arm yourselves before Yahweh for the war"
+       Analysis: The conditional agreement. If they fight WITH their brothers, they may settle east. "Before YHWH" — accountable to God for their promise. The divine name in ASV/WEB emphasizes divine witness to the covenant.
 
-v.23 — KJV: "be sure your sin will find you out" / ESV: "be sure your
-       sin will find you out" — Hebrew "u-d'u chattat'khem asher timtza
-       etkhem." Identical in both translations. The Hebrew is vivid: sin
-       is personified as a hunter that will "find" (matza) you. You cannot
-       outrun your own sin.
+v.22 — Hebrew "v'heyitem n'qiyim me-YHWH u-me-Yisrael" — you shall be clean/free before the LORD and before Israel.
+       KJV: "ye shall return, and be guiltless before the LORD, and before Israel"
+       ESV: "you shall return and be free of obligation to the LORD and to Israel"
+       ASV: "ye shall be guiltless before Jehovah, and before Israel"
+       NET: "you will be free of your obligation to the Lord and to Israel"
+       WEB: "you shall be guiltless before Yahweh, and before Israel"
+       Analysis: "Naqiy" means clean, free, innocent. KJV's "guiltless" emphasizes moral innocence; ESV's "free of obligation" emphasizes release from duty. Both are valid — fulfilling the promise clears them both morally and contractually.
 
-v.33 — KJV: "half the tribe of Manasseh" / ESV: "the half-tribe of
-       Manasseh" — The half-tribe of Manasseh appears here without prior
-       mention in the negotiation. They may have joined the request later,
-       or their inclusion reflects the military conquest of Gilead by
-       Machir's clan (vv.39-42).
+v.23 — Hebrew "u-d'u chattat'khem asher timtza etkhem" — know that your sin will find you.
+       KJV: "be sure your sin will find you out"
+       ESV: "be sure your sin will find you out"
+       ASV: "your sin will find you out"
+       NET: "your sin will find you out"
+       WEB: "your sin will find you out"
+       Analysis: All translations preserve this proverb identically. Sin is personified as a hunter that will "find" (matza) you. You cannot outrun your own sin. One of the most quoted warnings in Scripture.
+
+v.33 — Hebrew "chatzi shevet ha-Menasheh" — half the tribe of Manasseh.
+       KJV: "half the tribe of Manasseh"
+       ESV: "the half-tribe of Manasseh"
+       ASV: "the half-tribe of Manasseh"
+       NET: "the half-tribe of Manasseh"
+       WEB: "the half-tribe of Manasseh"
+       Analysis: The half-tribe of Manasseh appears here without prior mention in the negotiation. They may have joined the request later, or their inclusion reflects the military conquest of Gilead by Machir's clan (vv.39-42). All translations agree on "the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan" — the conquered territories formally allocated. These names become shorthand for Israel's victories east of Jordan.
 
 GLOSSARY
 ------------------------------------
@@ -224,19 +244,6 @@ Havvoth-jair — "Villages of Jair." Small settlements in Gilead captured
                conquered cities after oneself was common in the ancient
                Near East.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "the Reubenites and the Gadites had a very large number of cattle" / ASV: "the children of Reuben and the children of Gad had a very great multitude of cattle" / WEB: "the children of Reuben and the children of Gad had a very great multitude of livestock" — NET uses "cattle"; ASV "cattle"; WEB "livestock" (Hebrew "miqneh" — livestock/possessions). Their wealth in animals drives their request for land east of Jordan.
-
-- v.5 — NET: "Do not take us across the Jordan" / ASV: "let us not pass over the Jordan" / WEB: "don't bring us over the Jordan" — A request that alarms Moses. Settling east of Jordan echoes the spies' refusal to cross (ch.13-14). Moses sees a pattern of shrinking back from God's full promise.
-
-- v.14 — NET: "you are rising up in your fathers' place, a brood of sinners" / ASV: "ye are risen up in your fathers' stead, a brood of sinful men" / WEB: "you have risen up in your fathers' place, a brood of sinful men" — NET's "brood" (Hebrew "tarbut" — increase/offspring). Moses accuses them of repeating the previous generation's faithlessness.
-
-- v.20 — NET: "if you arm yourselves before the Lord for the war" / ASV: "if ye will arm yourselves before Jehovah for the war" / WEB: "If you will arm yourselves before Yahweh for the war" — The conditional agreement. If they fight WITH their brothers, they may settle east. "Before YHWH" — accountable to God for their promise.
-
-- v.23 — NET: "your sin will find you out" / ASV: "your sin will find you out" / WEB: "your sin will find you out" — All translations preserve this proverb identically. Hebrew "chatta'tkhem asher timtsa etkhem" — sin personified as a hunter that eventually catches its prey. One of the most quoted warnings in Scripture.
-
-- v.33 — NET: "the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan" / ASV: "the kingdom of Sihon king of the Amorites, and the kingdom of Og king of Bashan" — The conquered territories are formally allocated. All translations agree — these names become shorthand for Israel's victories east of Jordan.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -275,12 +282,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

@@ -164,65 +164,126 @@ Charles Spurgeon:
   say, 'She deserved it.' He said, 'Heal her.' This is the spirit of
   Christ. This is grace."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "the Ethiopian woman" / ESV: "the Cushite woman" — Hebrew
-       "ha-ishah ha-kushit." "Cush" in the Old Testament can refer to
-       Ethiopia/Nubia (south of Egypt) or to a region in Midian/Arabia.
-       KJV translates geographically ("Ethiopian"); ESV transliterates
-       ("Cushite"). The identity of this woman is debated — she may be
-       Zipporah or a second wife.
+v.1  — Hebrew "ha-ishah ha-kushit" — the Cushite/Ethiopian woman.
+       KJV: "the Ethiopian woman"
+       ESV: "the Cushite woman"
+       ASV: "the Cushite woman whom he had married"
+       NET: "the Cushite woman he had married"
+       WEB: "the Cushite woman whom he had married"
+       Analysis: "Cush" in the Old Testament can refer to Ethiopia/Nubia
+       (south of Egypt) or to a region in Midian/Arabia. KJV translates
+       geographically ("Ethiopian"); ESV/ASV/NET/WEB transliterate
+       ("Cushite"). All retain the Hebrew term. The racial element may
+       underlie the complaint, though the text focuses on authority. The
+       identity of this woman is debated — she may be Zipporah or a
+       second wife.
 
-v.3  — KJV: "very meek" / ESV: "very meek" — Hebrew "anav me'od." "Anav"
-       means humble, lowly, gentle, afflicted. Not weakness but strength
-       under control — power that does not assert itself. Both translations
-       use "meek." The word describes one who does not grasp for rights or
-       retaliate when wronged.
+v.3  — Hebrew "anav me'od" — very humble/meek.
+       KJV: "very meek"
+       ESV: "very meek"
+       ASV: "very meek, above all the men that were upon the face of the earth"
+       NET: "very humble, more so than any man on the face of the earth"
+       WEB: "very humble, more than all the men who were on the surface of the earth"
+       Analysis: "Anav" means humble, lowly, gentle, afflicted. Not weakness
+       but strength under control — power that does not assert itself.
+       NET/WEB use "humble" while KJV/ESV/ASV use "meek." Both capture a
+       man who does not defend his own position — God defends him.
 
-v.6  — KJV: "I the LORD will make myself known unto him in a vision" / ESV:
-       "I the LORD make myself known to him in a vision" — Hebrew
-       "b'mar'ah elav etvadda" — in a vision to him I make myself known.
-       God communicates with ordinary prophets through visions and dreams
-       — indirect, symbolic, requiring interpretation.
+v.6  — Hebrew "b'mar'ah elav etvadda" — in a vision to him I make myself
+       known.
+       KJV: "I the LORD will make myself known unto him in a vision"
+       ESV: "I the LORD make myself known to him in a vision"
+       ASV: "I will make myself known unto him in a vision, I will speak with him in a dream"
+       NET: "I make myself known to him in a vision; I speak with him in a dream"
+       WEB: "I will make myself known to him in a vision. I will speak with him in a dream"
+       Analysis: God communicates with ordinary prophets through visions and
+       dreams — indirect, symbolic, requiring interpretation. But with Moses
+       it is different (v.8). ASV/NET/WEB include the parallel "dream"
+       clause that KJV/ESV abbreviate.
 
-v.7  — KJV: "faithful in all mine house" / ESV: "faithful in all my
-       house" — Hebrew "ne'eman b'khol beiti" — trusted/faithful in all
-       my house. "House" = God's household (Israel) or God's dwelling
-       (the Tabernacle). Moses is entrusted with the whole — not just a
-       portion. Hebrews 3:5 quotes this directly.
+v.7  — Hebrew "ne'eman b'khol beiti" — trusted/faithful in all my house.
+       KJV: "faithful in all mine house"
+       ESV: "faithful in all my house"
+       ASV: "he is faithful in all my house"
+       NET: "he is faithful in all my house"
+       WEB: "he is faithful in all my house"
+       Analysis: "House" = God's household (Israel) or God's dwelling (the
+       Tabernacle). Moses is entrusted with the whole — not just a portion.
+       Hebrews 3:5 quotes this directly. All translations are virtually
+       identical.
 
-v.8  — KJV: "mouth to mouth, even apparently" / ESV: "mouth to mouth,
-       clearly" — Hebrew "peh el peh... u-mar'eh" — mouth to mouth...
-       and appearance/clearly. "Apparently" (KJV) means "openly, visually"
-       (archaic). ESV's "clearly" captures the meaning: God speaks to
-       Moses directly, without obscurity.
+v.8  — Hebrew "peh el peh... u-mar'eh" — mouth to mouth... and
+       appearance/clearly.
+       KJV: "mouth to mouth, even apparently"
+       ESV: "mouth to mouth, clearly"
+       ASV: "with him will I speak mouth to mouth"
+       NET: "mouth to mouth I speak with him"
+       WEB: "I will speak with him mouth to mouth"
+       Analysis: "Apparently" (KJV) means "openly, visually" (archaic).
+       ESV's "clearly" captures the meaning: God speaks to Moses directly,
+       without obscurity. Hebrew "peh el-peh" — literally face to face,
+       without the veiling of visions or symbols. The intimacy of God's
+       relationship with Moses: direct, clear, unmediated.
 
-v.8  — KJV: "not in dark speeches" / ESV: "not in riddles" — Hebrew
-       "v'lo b'chidot" — not in riddles/enigmas. God does not speak to
-       Moses in parables or puzzles. His communication is plain and direct.
+v.8  — Hebrew "v'lo b'chidot" — not in riddles/enigmas.
+       KJV: "not in dark speeches"
+       ESV: "not in riddles"
+       ASV: "not in dark speeches"
+       NET: "not in riddles"
+       WEB: "not in riddles"
+       Analysis: God does not speak to Moses in parables or puzzles. His
+       communication is plain and direct. KJV/ASV retain the older "dark
+       speeches"; ESV/NET/WEB use the more precise "riddles."
 
-v.8  — KJV: "the similitude of the LORD shall he behold" / ESV: "he
-       beholds the form of the LORD" — Hebrew "u-t'munat Yahweh yabit" —
-       the form/likeness of the LORD he gazes upon. Moses sees God's
-       "form" — not His full glory (Exodus 33:20) but a visible
-       manifestation. An extraordinary privilege.
+v.8  — Hebrew "u-t'munat Yahweh yabit" — the form/likeness of the LORD
+       he gazes upon.
+       KJV: "the similitude of the LORD shall he behold"
+       ESV: "he beholds the form of the LORD"
+       ASV: "and the form of Jehovah shall he behold"
+       NET: "he will see the form of the Lord"
+       WEB: "and he shall see Yahweh's form"
+       Analysis: Moses sees God's "temunah" (form/likeness) — not His full
+       glory (Exodus 33:20) but a visible manifestation. An extraordinary
+       privilege. The divine name differences across translations are clear:
+       KJV/ESV use "LORD," ASV uses "Jehovah," NET uses "Lord," WEB uses
+       "Yahweh."
 
-v.12 — KJV: "as one dead, of whom the flesh is half consumed" / ESV: "as
-       one dead, whose flesh is half eaten away" — Hebrew "k'met asher
-       b'tzeito me-rechem immo va-ye'akhel chatzi b'saro." Aaron compares
-       Miriam's leprous state to a stillborn child whose flesh is already
-       decaying. A graphic, desperate plea.
+v.12 — Hebrew "k'met asher b'tzeito me-rechem immo va-ye'akhel chatzi
+       b'saro" — like one dead whose flesh is half consumed.
+       KJV: "as one dead, of whom the flesh is half consumed"
+       ESV: "as one dead, whose flesh is half eaten away"
+       ASV: "as one dead, of whom the flesh is half consumed"
+       NET: "like one who is stillborn, whose flesh is half consumed"
+       WEB: "as one dead, of whom the flesh is half consumed"
+       Analysis: Aaron compares Miriam's leprous state to a stillborn child
+       whose flesh is already decaying. A graphic, desperate plea. NET
+       makes "stillborn" explicit; others leave it implicit.
 
-v.13 — KJV: "Heal her now, O God, I beseech thee" / ESV: "O God, please
-       heal her—please" — Hebrew "el na r'fa na lah" — God, please, heal,
-       please, her. Five words. Two "please" (na). The shortest prayer in
-       the Torah. Urgent, compassionate, selfless.
+v.13 — Hebrew "el na r'fa na lah" — God, please, heal, please, her.
+       KJV: "Heal her now, O God, I beseech thee"
+       ESV: "O God, please heal her—please"
+       ASV: "Heal her, O God, I beseech thee"
+       NET: "Heal her now, O God"
+       WEB: "Heal her, God, I beg you"
+       Analysis: Five Hebrew words. Two "please" (na). The shortest prayer
+       in the Torah. Urgent, compassionate, selfless. ESV captures both
+       "na" particles; NET/ASV omit one.
 
-v.14 — KJV: "If her father had but spit in her face" / ESV: "If her
-       father had but spit in her face" — Hebrew "v'aviha yaroq yaraq
-       b'faneha." Spitting in the face = extreme paternal rebuke/shame.
-       If a human father's rebuke brings seven days of shame, God's rebuke
-       requires at least the same.
+v.14 — Hebrew "v'aviha yaroq yaraq b'faneha" — if her father had but
+       spit in her face.
+       KJV: "If her father had but spit in her face"
+       ESV: "If her father had but spit in her face"
+       ASV: "if her father had but spit in her face"
+       NET: "If her father had only spit in her face"
+       WEB: "If her father had but spit in her face"
+       Analysis: Spitting in the face = extreme paternal rebuke/shame. If
+       a human father's rebuke brings seven days of shame, God's rebuke
+       requires at least the same. NET/ASV/WEB add the seven-day exclusion
+       explicitly. Miriam's exclusion mirrors the purification period for
+       skin disease (Lev 13). Even punishment has a terminus — grace limits
+       discipline.
 
 GLOSSARY
 ------------------------------------
@@ -261,20 +322,6 @@ Seven Days — The period of Miriam's exclusion. Corresponds to the standard
                God heals her but requires the full period of shame and
                separation. Grace includes discipline.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "Then Miriam and Aaron spoke against Moses because of the Cushite woman he had married" / ASV: "And Miriam and Aaron spake against Moses because of the Cushite woman whom he had married" / WEB: "Miriam and Aaron spoke against Moses because of the Cushite woman whom he had married" — All retain "Cushite" (Hebrew "Kushith" — from Cush/Ethiopia). The racial element may underlie the complaint, though the text focuses on authority.
-
-- v.3 — NET: "Now the man Moses was very humble, more so than any man on the face of the earth" / ASV: "Now the man Moses was very meek, above all the men that were upon the face of the earth" / WEB: "Now the man Moses was very humble, more than all the men who were on the surface of the earth" — NET/WEB use "humble" while ASV uses "meek" (Hebrew "anav"). Both capture a man who does not defend his own position — God defends him.
-
-- v.6 — NET: "I make myself known to him in a vision; I speak with him in a dream" / ASV: "I will make myself known unto him in a vision, I will speak with him in a dream" / WEB: "I will make myself known to him in a vision. I will speak with him in a dream" — God's normal mode of revelation: visions and dreams. But with Moses it is different (v.8).
-
-- v.8 — NET: "mouth to mouth I speak with him" / ASV: "with him will I speak mouth to mouth" / WEB: "I will speak with him mouth to mouth" / KJV: "With him will I speak mouth to mouth" — The intimacy of God's relationship with Moses: direct, clear, unmediated. Hebrew "peh el-peh" — literally face to face, without the veiling of visions or symbols.
-
-- v.8 — NET: "he will see the form of the Lord" / ASV: "and the form of Jehovah shall he behold" / WEB: "and he shall see Yahweh's form" — Moses sees God's "temunah" (form/likeness). Not the full glory (Exodus 33:20) but a visible manifestation. The divine name differences are clear across all three.
-
-- v.14 — NET: "let her be shut out from the camp seven days" / ASV: "let her be shut up without the camp seven days" / WEB: "Let her be shut up outside of the camp seven days" — Miriam's seven-day exclusion mirrors the purification period for those with skin disease (Lev 13). Even punishment has a terminus — grace limits discipline.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Jealousy disguised as concern (vv.1-2). The Cushite wife is the excuse;
@@ -306,12 +353,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

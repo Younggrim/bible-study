@@ -145,51 +145,100 @@ Charles Spurgeon:
   — the Good Shepherd who lays down His life for the sheep, who will never
   be 'gathered to His people' and leave them orphaned."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3  — KJV: "died in his own sin" / ESV: "died for his own sin" — Hebrew
-       "b'chet'o met." Both translations are valid. The point: Zelophehad
-       died as part of the general wilderness judgment (the generation that
-       would not enter), not as a specific rebel against God's authority.
-       His daughters clarify this to show their father was not uniquely
-       wicked.
+v.1  — Hebrew "vattiqqravna b'not Tzelophchad" — the daughters of
+       Zelophehad came near/forward.
+       KJV: "Then came the daughters of Zelophehad"
+       ESV: "Then drew near the daughters of Zelophehad"
+       ASV: "Then came near the daughters of Zelophehad"
+       NET: "Then the daughters of Zelophehad... came forward"
+       WEB: "Then the daughters of Zelophehad... came near"
+       Analysis: NET's "came forward" implies boldness and initiative.
+       These five women approach Moses, Eleazar, the princes, and the
+       whole congregation — an extraordinary act of courage in the ancient
+       world.
 
-v.7  — KJV: "The daughters of Zelophehad speak right" / ESV: "The
-       daughters of Zelophehad are right" — Hebrew "ken b'not Tzelophchad
-       doverot." "Ken" means "right, correct, true." God validates their
-       claim with a single word of affirmation before establishing the law.
+v.3  — Hebrew "b'chet'o met" — he died in/for his own sin.
+       KJV: "died in his own sin"
+       ESV: "died for his own sin"
+       ASV: "died in his own sin"
+       NET: "he was not among the company of those who gathered themselves together against the Lord"
+       WEB: "he was not in the company of them that gathered themselves together against Yahweh"
+       Analysis: Both KJV/ESV readings are valid. The point: Zelophehad
+       died as part of the general wilderness judgment, not as a specific
+       rebel. The daughters clarify he didn't die in Korah's rebellion —
+       important for their claim. ASV uses "Jehovah," WEB uses "Yahweh."
 
-v.14 — KJV: "ye rebelled against my commandment... to sanctify me at the
-       water before their eyes" / ESV: "you rebelled against my word...
-       failing to uphold me as holy at the waters before their eyes" —
-       Hebrew "m'ritem pi... l'haqdisheni." ESV's "failing to uphold me
-       as holy" captures the essence: Moses' sin was misrepresenting God's
-       character before the people. He made God look angry when God wanted
-       to look gracious.
+v.7  — Hebrew "ken b'not Tzelophchad doverot" — right/correct do the
+       daughters of Zelophehad speak.
+       KJV: "The daughters of Zelophehad speak right"
+       ESV: "The daughters of Zelophehad are right"
+       ASV: "The daughters of Zelophehad speak right"
+       NET: "The daughters of Zelophehad have a valid claim"
+       WEB: "The daughters of Zelophehad speak right"
+       Analysis: "Ken" means "right, correct, true." NET interprets as
+       "valid claim." God validates their petition with a single word of
+       affirmation before establishing the law — their request is just
+       and becomes law for all Israel.
 
-v.16 — KJV: "the God of the spirits of all flesh" / ESV: "the God of the
-       spirits of all flesh" — Hebrew "Elohei ha-ruchot l'khol basar."
-       Identical in both translations. A rare divine title emphasizing
-       God's sovereignty over every living soul — He knows who is fit to
-       lead because He knows every spirit.
+v.14 — Hebrew "m'ritem pi... l'haqdisheni" — you rebelled against My
+       word... to sanctify Me.
+       KJV: "ye rebelled against my commandment... to sanctify me at the water before their eyes"
+       ESV: "you rebelled against my word... failing to uphold me as holy at the waters before their eyes"
+       ASV: "ye rebelled against my word... to sanctify me at the waters before their eyes"
+       NET: "you rebelled against my command... to show me as holy before their eyes"
+       WEB: "you rebelled against my word... to sanctify me at the waters before their eyes"
+       Analysis: ESV's "failing to uphold me as holy" captures the essence:
+       Moses' sin was misrepresenting God's character before the people.
+       He made God look angry when God wanted to look gracious. NET uses
+       "to show me as holy."
 
-v.18 — KJV: "a man in whom is the spirit" / ESV: "a man in whom is the
-       Spirit" — Hebrew "ish asher ruach bo." ESV capitalizes "Spirit"
-       (referring to the Holy Spirit); KJV uses lowercase "spirit" (which
-       could mean human spirit/character or divine Spirit). The context
-       and Deuteronomy 34:9 ("full of the spirit of wisdom") support the
-       ESV's interpretation — this is the Spirit of God.
+v.16 — Hebrew "Elohei ha-ruchot l'khol basar" — the God of the spirits
+       of all flesh.
+       KJV: "the God of the spirits of all flesh"
+       ESV: "the God of the spirits of all flesh"
+       ASV: "the God of the spirits of all flesh"
+       NET: "the God of the spirits of all humanity"
+       WEB: "the God of the spirits of all flesh"
+       Analysis: NET modernizes "flesh" to "humanity." A rare divine title
+       emphasizing God's sovereignty over every living soul — He knows who
+       is fit to lead because He knows every spirit. Moses wants the right
+       man for the people — God's choice, not his own sons.
 
-v.20 — KJV: "thou shalt put some of thine honour upon him" / ESV: "You
-       shall invest him with some of your authority" — Hebrew "v'natattah
-       me-hodekha alav." "Hod" means splendor, majesty, authority, honor.
-       ESV's "authority" is functional; KJV's "honour" is more literal.
-       The key word is "some" (me- = "from/part of") — Joshua receives a
-       portion, not the fullness, of Moses' role.
+v.18 — Hebrew "ish asher ruach bo" — a man in whom is spirit/the Spirit.
+       KJV: "a man in whom is the spirit"
+       ESV: "a man in whom is the Spirit"
+       ASV: "a man in whom is the spirit"
+       NET: "a man in whom is the Spirit"
+       WEB: "a man in whom is the Spirit"
+       Analysis: ESV/NET/WEB capitalize "Spirit" (referring to the Holy
+       Spirit); KJV/ASV use lowercase "spirit." The context and
+       Deuteronomy 34:9 ("full of the spirit of wisdom") support the
+       capitalized reading — this is the Spirit of God qualifying Joshua
+       for leadership.
 
-v.21 — KJV: "the judgment of Urim" / ESV: "the judgment of the Urim" —
-       The Urim (and Thummim) were objects in the high priest's breastplate
-       used to discern God's will. Joshua, unlike Moses, will not speak
+v.20 — Hebrew "v'natattah me-hodekha alav" — you shall give from your
+       splendor/authority upon him.
+       KJV: "thou shalt put some of thine honour upon him"
+       ESV: "You shall invest him with some of your authority"
+       ASV: "thou shalt put of thine honor upon him"
+       NET: "you must put some of your authority on him"
+       WEB: "you shall put of your honor on him"
+       Analysis: "Hod" means splendor, majesty, authority, honor. ESV/NET
+       use "authority" (functional); KJV/ASV/WEB use "honour/honor"
+       (literal). The key word is "some" (me- = "from/part of") — Joshua
+       receives a portion, not the fullness, of Moses' role.
+
+v.21 — Hebrew "mishpat ha-Urim" — the judgment of the Urim.
+       KJV: "the judgment of Urim"
+       ESV: "the judgment of the Urim"
+       ASV: "the judgment of the Urim"
+       NET: "the decision of the Urim"
+       WEB: "the judgment of the Urim"
+       Analysis: The Urim (and Thummim) were objects in the high priest's
+       breastplate used to discern God's will. NET uses "decision" where
+       others use "judgment." Joshua, unlike Moses, will not speak
        face-to-face with God but must seek guidance through the priestly
        oracle — a significant limitation.
 
@@ -228,20 +277,6 @@ Laying on of Hands — The act of transferring authority, blessing, or
                transfer leadership. The practice continues in the NT
                (Acts 6:6; 1 Timothy 4:14; 2 Timothy 1:6).
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "Then the daughters of Zelophehad... came forward" / ASV: "Then came near the daughters of Zelophehad" / WEB: "Then the daughters of Zelophehad... came near" — NET's "came forward" (Hebrew "tiqqravna") implies boldness and initiative. These five women approach Moses, Eleazar, the princes, and the whole congregation — an extraordinary act of courage.
-
-- v.3 — NET: "he was not among the company of those who gathered themselves together against the Lord" / ASV: "he was not among the company of them that gathered themselves together against Jehovah" / WEB: "he was not in the company of them that gathered themselves together against Yahweh" — The daughters clarify their father didn't die in Korah's rebellion — important for their claim. The divine name differences are visible across all three.
-
-- v.7 — NET: "The daughters of Zelophehad have a valid claim" / ASV: "The daughters of Zelophehad speak right" / WEB: "The daughters of Zelophehad speak right" / KJV: "The daughters of Zelophehad speak right" — NET interprets "ken" (right/correct) as "valid claim." God vindicates their petition — their request is just and becomes law for all Israel.
-
-- v.16 — NET: "the God of the spirits of all humanity" / ASV: "the God of the spirits of all flesh" / WEB: "the God of the spirits of all flesh" — Moses appeals to God as the one who knows every person's spirit when requesting a successor. He wants the right man for the people — not his own sons but God's choice.
-
-- v.18 — NET: "a man in whom is the Spirit" / ASV: "a man in whom is the spirit" / WEB: "a man in whom is the Spirit" — Joshua is identified by the Spirit's presence in him. NET/WEB capitalize "Spirit" (Holy Spirit); ASV uses lowercase. The Spirit qualifies for leadership — not heredity, experience, or popularity.
-
-- v.20 — NET: "you must put some of your authority on him" / ASV: "thou shalt put of thine honor upon him" / WEB: "you shall put of your honor on him" — NET uses "authority" where ASV/WEB use "honor" (Hebrew "hod" — splendor/majesty/authority). Moses transfers a portion of his leadership gravitas to Joshua through the laying on of hands.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Bold faith claims the promise (vv.1-4). The daughters of Zelophehad
@@ -279,12 +314,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):

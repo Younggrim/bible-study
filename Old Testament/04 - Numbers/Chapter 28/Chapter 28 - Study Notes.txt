@@ -131,51 +131,117 @@ Charles Spurgeon:
   continual offering has found its end in the one offering that continues
   forever."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "My offering, and my bread for my sacrifices made by fire,
-       for a sweet savour unto me" / ESV: "My offering, my food for my
-       food offerings, my pleasing aroma" — Hebrew "qorbani lachmi
-       l'ishai re'ach nichochi." "Lechem" (bread/food) is used
-       metaphorically — God does not eat (Psalm 50:12-13). KJV's "bread"
-       is more literal; ESV's "food" is clearer for modern readers. Both
-       "sweet savour" (KJV) and "pleasing aroma" (ESV) translate "re'ach
-       nichoach" — the scent of satisfaction/acceptance.
+v.2  — Hebrew "qorbani lachmi l'ishai re'ach nichochi" — "Lechem" (bread/food) is used
+       metaphorically — God does not eat (Psalm 50:12-13). "Re'ach nichoach" — the scent
+       of satisfaction/acceptance.
+       KJV: "My offering, and my bread for my sacrifices made by fire, for a sweet savour unto me"
+       ESV: "My offering, my food for my food offerings, my pleasing aroma"
+       ASV: "My oblation, my food for my offerings made by fire, for a sweet savor"
+       NET: "My offering, my food for my gifts, of a soothing aroma"
+       WEB: "My offering, my food for my offerings made by fire, for a pleasant aroma"
+       Analysis: KJV's "bread" is more literal; ESV's "food" is clearer for modern readers.
+       NET compresses the Hebrew with "my food for my gifts." The aroma phrase shows variety:
+       "sweet savour" (KJV), "pleasing aroma" (ESV), "sweet savor" (ASV), "soothing aroma"
+       (NET), "pleasant aroma" (WEB). Each captures one aspect of the Hebrew: calming, sweet,
+       pleasing. "Food" (Hebrew "lechem") does not mean God eats — it is His appointed portion
+       that satisfies/pleases Him, like food satisfies a person.
 
-v.4  — KJV: "at even" / ESV: "at twilight" — Hebrew "bein ha-arbayim"
-       (literally "between the two evenings"). This phrase is debated:
-       either between noon and sunset, or between sunset and dark. ESV's
-       "twilight" captures the general sense; KJV's "even" (evening) is
-       traditional.
+v.3  — Hebrew "kevasim benei shanah temimim" — the daily offering (tamid).
+       KJV: "Two lambs of the first year without spot day by day, for a continual burnt offering"
+       ESV: "two lambs a year old without blemish, day by day, for a regular burnt offering"
+       ASV: "two he-lambs a year old without blemish, day by day, for a continual burnt-offering"
+       NET: "two lambs of the first year without blemish each day for a continual burnt offering"
+       WEB: "two male lambs a year old without defect, day by day, for a continual burnt offering"
+       Analysis: Morning and evening without interruption. NET specifies "without blemish"; WEB
+       says "without defect"; ASV "without blemish"; KJV "without spot." All convey the Hebrew
+       "tamim" — wholeness, completeness, no deficiency.
 
-v.5  — KJV: "a meat offering" / ESV: "a grain offering" — Hebrew "minchah."
-       In KJV English, "meat" meant "food" generally (not flesh). The
-       minchah is a grain/flour offering. ESV's "grain offering" prevents
-       confusion for modern readers. This is a significant KJV archaism.
+v.4  — Hebrew "bein ha-arbayim" — literally "between the two evenings."
+       KJV: "at even"
+       ESV: "at twilight"
+       ASV: "at even"
+       NET: "in the late afternoon"
+       WEB: "at evening"
+       Analysis: This phrase is debated: either between noon and sunset, or between sunset and
+       dark. ESV's "twilight" captures the general sense; KJV's "even" (evening) is traditional.
 
-v.7  — KJV: "the strong wine" / ESV: "a drink offering of strong drink" —
-       Hebrew "shekhar." Shekhar is fermented drink (beer, strong wine, or
-       other intoxicant). It is poured out to God, not consumed by the
-       worshiper. The drink offering symbolizes life poured out completely.
+v.5  — Hebrew "minchah" — grain/flour offering.
+       KJV: "a meat offering"
+       ESV: "a grain offering"
+       ASV: "a meal-offering"
+       NET: "a grain offering"
+       WEB: "a meal offering"
+       Analysis: In KJV English, "meat" meant "food" generally (not flesh). The minchah is a
+       grain/flour offering. ESV's "grain offering" prevents confusion for modern readers. This
+       is a significant KJV archaism. ASV/WEB use "meal offering" as an intermediate option.
 
-v.14 — KJV: "half an hin of wine unto a bullock" / ESV: "half a hin of
-       wine for a bull" — A hin is approximately 6 quarts/liters. The
-       drink offerings are proportional to the animal's size: 1/2 hin for
-       a bull, 1/3 for a ram, 1/4 for a lamb.
+v.6  — Hebrew "olat tamid ha-asuyah b'har sinai" — continual offering ordained at Sinai.
+       KJV: "It is a continual burnt offering, which was ordained in mount Sinai"
+       ESV: "It is a regular burnt offering, which was ordained at Mount Sinai"
+       ASV: "which was ordained in mount Sinai for a sweet savor"
+       NET: "which was established on Mount Sinai as a soothing aroma"
+       WEB: "which was ordained in Mount Sinai for a pleasant aroma"
+       Analysis: The daily sacrifice was established at Sinai — showing continuity from
+       revelation to practice. It runs from Moses until the temple's destruction in AD 70.
 
-v.18 — KJV: "ye shall do no manner of servile work" / ESV: "You shall not
-       do any ordinary work" — Hebrew "kol m'lekhet avodah lo ta'asu."
-       "Servile work" (KJV) means laborious/occupational work. ESV's
-       "ordinary work" is clearer — regular daily labor ceases, but
-       festival preparation (cooking, etc.) is permitted.
+v.7  — Hebrew "shekhar" — fermented drink.
+       KJV: "the strong wine"
+       ESV: "a drink offering of strong drink"
+       ASV: "strong drink"
+       NET: "strong drink"
+       WEB: "strong drink"
+       Analysis: Shekhar is fermented drink (beer, strong wine, or other intoxicant). It is
+       poured out to God, not consumed by the worshiper. The drink offering symbolizes life
+       poured out completely.
 
-v.26 — KJV: "in the day of the firstfruits, when ye bring a new meat
-       offering unto the LORD, after your weeks be out" / ESV: "On the
-       day of the firstfruits, when you offer a grain offering of new
-       grain to the LORD at your Feast of Weeks" — ESV explicitly names
-       the festival ("Feast of Weeks"); KJV describes it ("after your
-       weeks be out"). Both refer to Shavuot/Pentecost — 50 days after
-       the wave sheaf of Firstfruits.
+v.9  — Hebrew "u'v'yom ha-shabbat" — and on the Sabbath day.
+       KJV: "on the sabbath day"
+       ESV: "On the Sabbath day"
+       ASV: "on the sabbath day"
+       NET: "on the Sabbath day"
+       WEB: "On the Sabbath day"
+       Analysis: Sabbath doubles the daily offering (4 lambs instead of 2). Greater holiness
+       requires greater sacrifice — a principle running through the entire calendar.
+
+v.11 — Hebrew "roshei chodshekem" — the heads/beginnings of your months.
+       KJV: "in the beginnings of your months"
+       ESV: "At the beginnings of your months"
+       ASV: "And in the beginnings of your months"
+       NET: "On the first of each month"
+       WEB: "In the beginnings of your months"
+       Analysis: NET modernizes with "On the first of each month." New Moon celebrations
+       marked time's passage and renewal.
+
+v.14 — Hebrew "chatzi ha-hin yayin la-par" — half a hin of wine for a bull.
+       KJV: "half an hin of wine unto a bullock"
+       ESV: "half a hin of wine for a bull"
+       ASV: "half a hin of wine for a bullock"
+       NET: "half a hin for each bull"
+       WEB: "half a hin of wine for a bull"
+       Analysis: A hin is approximately 6 quarts/liters. The drink offerings are proportional
+       to the animal's size: 1/2 hin for a bull, 1/3 for a ram, 1/4 for a lamb.
+
+v.18 — Hebrew "kol m'lekhet avodah lo ta'asu" — no laborious/occupational work.
+       KJV: "ye shall do no manner of servile work"
+       ESV: "You shall not do any ordinary work"
+       ASV: "ye shall do no servile work"
+       NET: "you must not do any ordinary work"
+       WEB: "you shall do no servile work"
+       Analysis: "Servile work" (KJV/ASV/WEB) means laborious/occupational work. ESV/NET's
+       "ordinary work" is clearer — regular daily labor ceases, but festival preparation
+       (cooking, etc.) is permitted.
+
+v.26 — Hebrew "yom ha-bikkurim" — day of firstfruits (Feast of Weeks/Shavuot/Pentecost).
+       KJV: "in the day of the firstfruits, when ye bring a new meat offering unto the LORD, after your weeks be out"
+       ESV: "On the day of the firstfruits, when you offer a grain offering of new grain to the LORD at your Feast of Weeks"
+       ASV: "Also in the day of the first-fruits, when ye offer a new meal-offering unto Jehovah in your feast of weeks"
+       NET: "On the day of the firstfruits, when you bring a new grain offering to the Lord"
+       WEB: "Also in the day of the first fruits, when you offer a new meal offering to Yahweh in your feast of weeks"
+       Analysis: ESV explicitly names the festival ("Feast of Weeks"); KJV describes it ("after
+       your weeks be out"). Both refer to Shavuot/Pentecost — 50 days after the wave sheaf of
+       Firstfruits.
 
 GLOSSARY
 ------------------------------------
@@ -215,20 +281,6 @@ Holy Convocation (Hebrew: "miqra qodesh") — A sacred assembly; a called
                gathering for worship. Work ceases and the community
                assembles before God.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "My offering, my food for my gifts" / ASV: "My oblation, my food for my offerings made by fire" / WEB: "My offering, my food for my offerings made by fire" / KJV: "My offering, and my bread for my sacrifices" — NET's "my food for my gifts" compresses the Hebrew. "Food" (Hebrew "lechem") does not mean God eats — it is His appointed portion that satisfies/pleases Him, like food satisfies a person.
-
-- v.2 — NET: "of a soothing aroma" / ASV: "for a sweet savor" / WEB: "for a pleasant aroma" — The familiar triad: "re'ach nichoach" rendered as "soothing aroma" (NET), "sweet savor" (ASV), "pleasant aroma" (WEB). Each captures one aspect of the Hebrew: calming, sweet, pleasing.
-
-- v.3 — NET: "two lambs of the first year without blemish each day for a continual burnt offering" / ASV: "two he-lambs a year old without blemish, day by day, for a continual burnt-offering" / WEB: "two male lambs a year old without defect, day by day, for a continual burnt offering" — The daily offering (tamid) — morning and evening without interruption. NET specifies "without blemish"; WEB says "without defect"; ASV "without blemish."
-
-- v.6 — NET: "which was established on Mount Sinai as a soothing aroma" / ASV: "which was ordained in mount Sinai for a sweet savor" / WEB: "which was ordained in Mount Sinai for a pleasant aroma" — The daily sacrifice was established at Sinai — showing continuity from revelation to practice. It runs from Moses until the temple's destruction in AD 70.
-
-- v.9 — NET: "on the Sabbath day" / ASV: "on the sabbath day" / WEB: "On the Sabbath day" — Sabbath doubles the daily offering (4 lambs instead of 2). Greater holiness requires greater sacrifice — a principle running through the entire calendar.
-
-- v.11 — NET: "On the first of each month" / ASV: "And in the beginnings of your months" / WEB: "In the beginnings of your months" — Hebrew "roshei chodshekem" — the heads/beginnings of your months. New Moon celebrations marked time's passage and renewal.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "My offering... in their due season" (v.2). God prescribes both the
@@ -265,12 +317,6 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Numbers Overview:
   https://bibleproject.com/explore/video/numbers/
-
-
-David Guzik — Enduring Word Teaching Series (Numbers):
-  https://enduringword.com/sermons/numbers/numbers/
-  Verse-by-verse audio/video teaching through Numbers.
-
 PODCAST RESOURCES
 ------------------------------------
 David Guzik — Enduring Word Podcast (Numbers Series):
