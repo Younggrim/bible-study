@@ -273,6 +273,33 @@ LOCATION_WIKI_LINKS = {
 }
 
 
+def render_authorship(text):
+    """Render authorship & historical background as clean bullet points by paragraph."""
+    paragraphs = re.split(r'\n\s*\n', text.strip())
+    items = []
+
+    for para in paragraphs:
+        if not para.strip():
+            continue
+        # Join multi-line paragraphs into single lines
+        joined = " ".join(line.strip() for line in para.strip().split("\n") if line.strip())
+        if not joined:
+            continue
+
+        # Check if paragraph has a label like "Author:", "Historical Context:", etc.
+        label_match = re.match(r'^([A-Za-z][^:]{2,40}):\s*(.+)', joined)
+        if label_match:
+            label = label_match.group(1).strip()
+            content = label_match.group(2).strip()
+            items.append(f'                    <li><strong>{escape(label)}:</strong> {escape(content)}</li>')
+        else:
+            items.append(f'                    <li>{escape(joined)}</li>')
+
+    if items:
+        return "<ul>\n" + "\n".join(items) + "\n                </ul>"
+    return "<p>No authorship information available for this chapter.</p>"
+
+
 def render_map_geography(text):
     """Render map & geography notes as a list with Wikipedia links for locations."""
     lines = text.strip().split("\n")
@@ -507,7 +534,7 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
         elif tid == "keyverses":
             content = render_key_verses(key_verses)
         elif tid == "authorship":
-            content = f"<p>{escape(authorship).replace(chr(10), '<br>')}</p>"
+            content = render_authorship(authorship)
         elif tid == "mapgeo":
             content = render_map_geography(map_geo)
         elif tid == "glossary":

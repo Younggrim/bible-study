@@ -174,53 +174,71 @@ Charles Spurgeon:
   lies just ahead? Unbelief does not merely delay blessing — it can cost
   you a lifetime."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "on this side Jordan" / ESV: "beyond the Jordan" — Hebrew
-       "b'ever ha-Yarden." The phrase means "on the other side of the
-       Jordan" — from the writer's perspective. Since Moses is east of the
-       Jordan, and the land of promise is west, both translations are
-       valid depending on perspective. KJV translates from Moses' location;
-       ESV from the land's perspective.
+v.1  — Hebrew "b'ever ha-Yarden." — Hebrew "b'ever ha-Yarden." The phrase means "on the other side of the Jordan".
+       KJV: "on this side Jordan"
+       ESV: "beyond the Jordan"
+       ASV: "beyond the Jordan in the wilderness, in the Arabah"
+       NET: "the Transjordanian wilderness, the arid rift valley"
+       WEB: "beyond the Jordan in the wilderness, in the Arabah"
+       Analysis: Hebrew "b'ever ha-Yarden." The phrase means "on the other side of the Jordan" — from the writer's perspective. Since Moses is east of the Jordan, and the land of promise is west, both translations are valid depending on perspective. KJV translates from Moses' location; ESV from the land's perspective. a specific, identifiable location.
 
-v.1  — KJV: "in the plain over against the Red sea" / ESV: "in the Arabah
-       opposite Suph" — Hebrew "ba-Arabah mul Suph." KJV interprets "Suph"
-       as the Red Sea (Yam Suph); ESV transliterates the place name. The
-       Arabah is the rift valley running from the Sea of Galilee to the
-       Gulf of Aqaba.
+v.1  — Hebrew "ba-Arabah mul Suph." — Hebrew "ba-Arabah mul Suph." KJV interprets "Suph" as the Red Sea (Yam Suph);
+       KJV: "in the plain over against the Red sea"
+       ESV: "in the Arabah opposite Suph"
+       ASV: "These are the words which Moses spake unto all Israel"
+       NET: "This is what Moses said to all of Israel"
+       WEB: "These are the words which Moses spoke to all Israel"
+       Analysis: Hebrew "ba-Arabah mul Suph." KJV interprets "Suph" as the Red Sea (Yam Suph); ESV transliterates the place name. The Arabah is the rift valley running from the Sea of Galilee to the Gulf of Aqaba. the entire nation assembled for his farewell address. Deuteronomy's title in Hebrew is "Devarim" (Words).
 
-v.5  — KJV: "began Moses to declare this law" / ESV: "Moses undertook to
-       explain this law" — Hebrew "ho'il Moshe be'er et ha-Torah." "Be'er"
-       means to make plain, to expound, to dig into. Moses is not merely
-       repeating the law but explaining and applying it for the new
-       generation.
+v.2  — NET notes the temporal contrast: "eleven days" vs. forty years (v.3). The geographical par...
+       Analysis: NET notes the temporal contrast: "eleven days" vs. forty years (v.3). The geographical parenthesis exposes how brief the journey should have been — and how catastrophically unbelief extended it. NET makes this contrast especially clear through sentence structure.
 
-v.12 — KJV: "your cumbrance, and your burden, and your strife" / ESV:
-       "the weight and burden of you and your strife" — Hebrew "torchachem
-       u-masa'achem v'rivchem." "Torach" = trouble/encumbrance; "masa" =
-       burden/load; "riv" = strife/contention. Three words for the weight
-       of leadership.
+v.3  — Deuteronomy is not merely Moses' reminiscence but divinely authorized instruction.
+       ASV: "according unto all that Jehovah had given him in commandment"
+       NET: "just as the Lord had instructed him"
+       WEB: "according to all that Yahweh had given him in commandment"
+       Analysis: Deuteronomy is not merely Moses' reminiscence but divinely authorized instruction.
 
-v.17 — KJV: "Ye shall not respect persons in judgment" / ESV: "You shall
-       not be partial in judgment" — Hebrew "lo takiru panim" — literally
-       "do not recognize faces." Justice must be blind to status. The
-       Hebrew idiom means to show favoritism based on who someone is.
+v.5  — Hebrew "ho'il Moshe be'er et ha-Torah." — Hebrew "ho'il Moshe be'er et ha-Torah." "Be'er" means to make plain, to expound, to dig into.
+       KJV: "began Moses to declare this law"
+       ESV: "Moses undertook to explain this law"
+       Analysis: Hebrew "ho'il Moshe be'er et ha-Torah." "Be'er" means to make plain, to expound, to dig into. Moses is not merely repeating the law but explaining and applying it for the new generation.
 
-v.28 — KJV: "the sons of the Anakims" / ESV: "the sons of the Anakim" —
-       Hebrew "b'nei ha-Anaqim." The Anakim were a race of giants
-       descended from Anak. KJV adds the English plural "-s" to the
-       already-plural Hebrew form.
+v.6  — enough for you! God moves His people forward when they've lingered too long.
+       ASV: "Ye have dwelt long enough in this mountain"
+       NET: "You have stayed long enough at this mountain"
+       WEB: "You have lived long enough by this mountain"
+       Analysis: enough for you! God moves His people forward when they've lingered too long.
 
-v.31 — KJV: "bare thee, as a man doth bear his son" / ESV: "carried you,
-       as a man carries his son" — Hebrew "n'sa'acha... ka'asher yisa ish
-       et b'no." The image is of a father carrying a small child. God bore
-       Israel through the wilderness with paternal tenderness.
+v.12  — Hebrew "torchachem u-masa'achem v'rivchem." — Hebrew "torchachem u-masa'achem v'rivchem." "Torach" = trouble/encumbrance;
+       KJV: "your cumbrance, and your burden, and your strife"
+       ESV: "the weight and burden of you and your strife"
+       Analysis: Hebrew "torchachem u-masa'achem v'rivchem." "Torach" = trouble/encumbrance; "masa" = burden/load; "riv" = strife/contention. Three words for the weight of leadership.
 
-v.41 — KJV: "ye were ready to go up into the hill" / ESV: "thought it
-       easy to go up into the hill country" — Hebrew "va-tahinu la'alot
-       ha-harah." The verb "hun" suggests presuming something to be easy,
-       treating it lightly. They presumed the battle would be simple —
-       without God, it was catastrophic.
+v.17  — Hebrew "lo takiru panim" — Hebrew "lo takiru panim" — literally "do not recognize faces." Justice must be blind to status.
+       KJV: "Ye shall not respect persons in judgment"
+       ESV: "You shall not be partial in judgment"
+       Analysis: Hebrew "lo takiru panim" — literally "do not recognize faces." Justice must be blind to status. The Hebrew idiom means to show favoritism based on who someone is.
+
+v.28  — Hebrew "b'nei ha-Anaqim." — Hebrew "b'nei ha-Anaqim." The Anakim were a race of giants descended from Anak.
+       KJV: "the sons of the Anakims"
+       ESV: "the sons of the Anakim"
+       Analysis: Hebrew "b'nei ha-Anaqim." The Anakim were a race of giants descended from Anak. KJV adds the English plural "-s" to the already-plural Hebrew form.
+
+v.31  — Hebrew "n'sa'acha... ka'asher yisa ish et b'no." — Hebrew "n'sa'acha... ka'asher yisa ish et b'no." The image is of a father carrying a small child.
+       KJV: "bare thee, as a man doth bear his son"
+       ESV: "carried you, as a man carries his son"
+       ASV: "Jehovah thy God bare thee, as a man doth bear his son"
+       NET: "the Lord your God carried you, just as a man carries his son"
+       WEB: "Yahweh your God carried you, as a man carries his son"
+       Analysis: Hebrew "n'sa'acha... ka'asher yisa ish et b'no." The image is of a father carrying a small child. God bore Israel through the wilderness with paternal tenderness. YHWH personally bears Israel.
+
+v.41  — Hebrew "va-tahinu la'alot ha-harah." — Hebrew "va-tahinu la'alot ha-harah." The verb "hun" suggests presuming something to be eas...
+       KJV: "ye were ready to go up into the hill"
+       ESV: "thought it easy to go up into the hill country"
+       Analysis: Hebrew "va-tahinu la'alot ha-harah." The verb "hun" suggests presuming something to be easy, treating it lightly. They presumed the battle would be simple — without God, it was catastrophic.
 
 GLOSSARY
 ------------------------------------
@@ -252,19 +270,6 @@ Declare/Explain — Hebrew "be'er" — to dig into, to make plain, to
                expound. Moses does not merely repeat the law but explains
                and applies it. Deuteronomy is exposition, not recitation.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "the Transjordanian wilderness, the arid rift valley" / ASV: "beyond the Jordan in the wilderness, in the Arabah" / WEB: "beyond the Jordan in the wilderness, in the Arabah" — NET interprets "Arabah" as "arid rift valley" and "be-'ever ha-Yarden" as "Transjordanian." ASV/WEB preserve the Hebrew geographic terms. "Arabah" is the Jordan Rift Valley — a specific, identifiable location.
-
-- v.1 — NET: "This is what Moses said to all of Israel" / ASV: "These are the words which Moses spake unto all Israel" / WEB: "These are the words which Moses spoke to all Israel" — The book opens as Moses' sermon to "ALL Israel" — the entire nation assembled for his farewell address. Deuteronomy's title in Hebrew is "Devarim" (Words).
-
-- v.3 — NET: "just as the Lord had instructed him" / ASV: "according unto all that Jehovah had given him in commandment" / WEB: "according to all that Yahweh had given him in commandment" — The divine name difference. Moses speaks what YHWH commanded — Deuteronomy is not merely Moses' reminiscence but divinely authorized instruction.
-
-- v.6 — NET: "You have stayed long enough at this mountain" / ASV: "Ye have dwelt long enough in this mountain" / WEB: "You have lived long enough by this mountain" — NET's "long enough" captures God's divine impatience. Hebrew "rav lakhem" — enough for you! God moves His people forward when they've lingered too long.
-
-- v.31 — NET: "the Lord your God carried you, just as a man carries his son" / ASV: "Jehovah thy God bare thee, as a man doth bear his son" / WEB: "Yahweh your God carried you, as a man carries his son" — God as father carrying His child through the wilderness. The divine name with the fatherhood metaphor creates powerful intimacy — YHWH personally bears Israel.
-
-- v.2 — NET notes the temporal contrast: "eleven days" vs. forty years (v.3). The geographical parenthesis exposes how brief the journey should have been — and how catastrophically unbelief extended it. NET makes this contrast especially clear through sentence structure.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

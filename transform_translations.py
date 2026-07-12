@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """
-Transform TRANSLATION NOTES and ADDITIONAL TRANSLATION NOTES sections
-into a unified TRANSLATION COMPARISON section for Deuteronomy Study Notes.
+Transform TRANSLATION NOTES + ADDITIONAL TRANSLATION NOTES into unified TRANSLATION COMPARISON.
 
-Strategy:
-- Parse each entry from TRANSLATION NOTES (KJV/ESV focused)
-- Parse each entry from ADDITIONAL TRANSLATION NOTES (ASV/NET/WEB focused)
-- Match entries by verse number (sequential matching for same-verse duplicates)
-- For each KJV/ESV entry, extract: Hebrew word, KJV quote, ESV quote, analysis
-- For each additional entry, extract: ASV quote, NET quote, WEB quote, analysis
-- Merge into unified format with all 5 translations + combined analysis
+The output format for each verse:
+v.X  — Hebrew "word" — meaning.
+       KJV: "quote"
+       ESV: "quote"
+       ASV: "quote"
+       NET: "quote"
+       WEB: "quote"
+       Analysis: explanation of differences and theological significance.
 """
 
 import re
@@ -18,126 +18,131 @@ import os
 BASE_PATH = "/Users/jeremymcadoo/Desktop/Kiro Projects/Bible Study/Old Testament/05 - Deuteronomy"
 
 
-def find_section(content, header):
-    """Find a section's header start position and its body text."""
-    marker = header + "\n" + "-" * 36
-    start = content.find(marker)
-    if start == -1:
-        return -1, -1, ""
+def find_section_bounds(content, header_text):
+    """
+    Returns (section_start, section_end) where section_start is the beginning of
+    the header line, and section_end is where the next section begins.
+    """
+    pattern = header_text + "\n" + "-" * 36
+    idx = content.find(pattern)
+    if idx == -1:
+        return -1, -1
     
-    body_start = start + len(marker) + 1  # +1 for newline after dashes
+    body_start = idx + len(pattern) + 1  # skip past the newline after dashes
     
-    # Find end: next section header (UPPERCASE TITLE\n----)
+    # Find next section: a line of ALL CAPS (with spaces/punctuation) followed by dashes
     rest = content[body_start:]
-    next_match = re.search(r'\n([A-Z][A-Z &/(),]+)\n-{4,}', rest)
-    if next_match:
-        body_end = body_start + next_match.start()
+    m = re.search(r'\n([A-Z][A-Z &/(),\u2019]+)\n-{4,}', rest)
+    if m:
+        section_end = body_start + m.start()
     else:
-        body_end = len(content)
+        section_end = len(content)
     
-    body = content[body_start:body_end]
-    return start, body_end, body
+    return idx, section_end
 
 
-def parse_tn_entries(body):
-    """Parse TRANSLATION NOTES body into list of (verse, raw_text) tuples."""
+def split_tn_entries(body):
+    """
+    Split TRANSLATION NOTES section body into individual entries.
+    Each entry starts with 'v.XX  —' at the start of a line.
+    Returns list of (verse_str, full_raw_text_of_entry).
+    """
     entries = []
-    lines = body.split('\n')
-    current_verse = None
-    current_lines = []
-    
-    for line in lines:
-        m = re.match(r'^(v\.\d+)\s+—\s+(.*)', line)
-        if m:
-            if current_verse:
-                entries.append((current_verse, '\n'.join(current_lines)))
-            current_verse = m.group(1)
-            current_lines = [m.group(2)]
-        elif current_verse is not None:
-            current_lines.append(line)
-    
-    if current_verse:
-        entries.append((current_verse, '\n'.join(current_lines)))
-    
+    # Split on lines that begin with v.\d+
+    parts = re.split(r'^(v\.\d+)\s+—\s+', body, flags=re.MULTILINE)
+    # parts[0] is empty/preamble, then alternating: verse, content, verse, content...
+    i = 1
+    while i < len(parts) - 1:
+        verse = parts[i]
+        text = parts[i + 1].strip()
+        entries.append((verse, text))
+        i += 2
     return entries
 
 
-def parse_atn_entries(body):
-    """Parse ADDITIONAL TRANSLATION NOTES body into list of (verse, raw_text) tuples."""
+def split_atn_entries(body):
+    """
+    Split ADDITIONAL TRANSLATION NOTES section body into individual entries.
+    Each entry starts with '- v.XX —' at the start of a line.
+    Returns list of (verse_str, full_raw_text_of_entry).
+    """
     entries = []
-    lines = body.split('\n')
-    current_verse = None
-    current_lines = []
-    
-    for line in lines:
-        m = re.match(r'^-\s+(v\.\d+)\s+—\s+(.*)', line)
-        if m:
-            if current_verse:
-                entries.append((current_verse, '\n'.join(current_lines)))
-            current_verse = m.group(1)
-            current_lines = [m.group(2)]
-        elif current_verse is not None:
-            current_lines.append(line)
-    
-    if current_verse:
-        entries.append((current_verse, '\n'.join(current_lines)))
-    
+    parts = re.split(r'^-\s+(v\.\d+)\s+—\s+', body, flags=re.MULTILINE)
+    i = 1
+    while i < len(parts) - 1:
+        verse = parts[i]
+        text = parts[i + 1].strip()
+        entries.append((verse, text))
+        i += 2
     return entries
 
 
-def flatten(text):
-    """Flatten multiline text into single line, normalized spaces."""
+def flatten_text(text):
+    """Flatten multiline text to single line with normalized spaces."""
     return re.sub(r'\s+', ' ', text).strip()
 
 
-def extract_from_tn(raw):
-    """Extract KJV, ESV, Hebrew word, and analysis from a TN entry."""
-    flat = flatten(raw)
+def extract_kjv_esv(flat_text):
+    """
+    From a flattened TN entry, extract:
+    - KJV quote
+    - ESV quote  
+    - Hebrew word/phrase
+    - Analysis text (the explanation)
+    """
+    kjv = esv = hebrew = ""
     
-    kjv = ""
-    esv = ""
-    hebrew = ""
+    # Pattern: KJV: "..." / ESV: "..." — Hebrew "...". Analysis...
+    kjv_m = re.search(r'KJV:\s*"([^"]+)"', flat_text)
+    esv_m = re.search(r'ESV:\s*"([^"]+)"', flat_text)
     
-    # KJV/ESV pattern: KJV: "..." / ESV: "..."
-    kjv_m = re.search(r'KJV:\s*"([^"]+)"', flat)
-    esv_m = re.search(r'ESV:\s*"([^"]+)"', flat)
     if kjv_m:
         kjv = kjv_m.group(1)
     if esv_m:
         esv = esv_m.group(1)
     
-    # Hebrew word: Hebrew "..."
-    heb_m = re.search(r'Hebrew\s+"([^"]+)"', flat)
-    if not heb_m:
-        heb_m = re.search(r'Hebrew\s+\u201c([^\u201d]+)\u201d', flat)
+    # Hebrew word - appears after " — Hebrew " 
+    heb_m = re.search(r'Hebrew\s+"([^"]+)"', flat_text)
     if heb_m:
         hebrew = heb_m.group(1)
     
-    # Analysis: everything after "— Hebrew ..." or after the KJV/ESV intro
-    # The format is typically: KJV: "x" / ESV: "y" — Hebrew "z." Analysis...
-    # Find everything after the initial "KJV.../ESV..." pattern
-    # Split on the " — " that separates the quote comparison from the analysis
-    analysis = flat
+    # Analysis: everything after the "Hebrew 'word.'" explanation
+    # The typical format is:
+    # KJV: "x" / ESV: "y" — Hebrew "z." Explanation of the term...
+    # So analysis starts after " — " that follows the ESV quote
     
-    # The full entry text IS the analysis - it contains the Hebrew and explanation
-    # Let's just use the whole flat text as the analysis
+    # Find the " — " after the ESV quote (or KJV if no ESV)
+    analysis = ""
+    if esv_m:
+        after_esv = flat_text[esv_m.end():]
+        # Strip leading " — " 
+        after_esv = re.sub(r'^\s*—\s*', '', after_esv)
+        analysis = after_esv.strip()
+    elif kjv_m:
+        after_kjv = flat_text[kjv_m.end():]
+        after_kjv = re.sub(r'^\s*—\s*', '', after_kjv)
+        analysis = after_kjv.strip()
+    else:
+        analysis = flat_text
     
     return kjv, esv, hebrew, analysis
 
 
-def extract_from_atn(raw):
-    """Extract NET, ASV, WEB quotes and analysis from an ATN entry."""
-    flat = flatten(raw)
+def extract_asv_net_web(flat_text):
+    """
+    From a flattened ATN entry, extract:
+    - NET quote
+    - ASV quote
+    - WEB quote
+    - KJV quote (sometimes included in additional)
+    - Analysis text
+    """
+    net = asv = web = kjv = ""
     
-    net = ""
-    asv = ""
-    web = ""
-    kjv = ""
-    
-    net_m = re.search(r'NET:\s*"([^"]+)"', flat)
-    asv_m = re.search(r'ASV:\s*"([^"]+)"', flat)
-    web_m = re.search(r'WEB:\s*"([^"]+)"', flat)
-    kjv_m = re.search(r'KJV:\s*"([^"]+)"', flat)
+    net_m = re.search(r'NET:\s*"([^"]+)"', flat_text)
+    asv_m = re.search(r'ASV:\s*"([^"]+)"', flat_text)
+    web_m = re.search(r'WEB:\s*"([^"]+)"', flat_text)
+    kjv_m = re.search(r'KJV:\s*"([^"]+)"', flat_text)
     
     if net_m:
         net = net_m.group(1)
@@ -148,68 +153,79 @@ def extract_from_atn(raw):
     if kjv_m:
         kjv = kjv_m.group(1)
     
-    # Analysis: text after the last " — " separator
-    parts = flat.split(' — ')
-    if len(parts) > 1:
-        analysis = parts[-1].strip()
+    # Analysis: text after " — " that follows the last quote
+    # Find the last translation quote end
+    last_pos = 0
+    for m in [net_m, asv_m, web_m, kjv_m]:
+        if m and m.end() > last_pos:
+            last_pos = m.end()
+    
+    if last_pos > 0:
+        after_quotes = flat_text[last_pos:]
+        # Strip leading " / " or " — " separators  
+        after_quotes = re.sub(r'^\s*[/—]\s*', '', after_quotes)
+        # If there's still a " — " separator, take what's after it
+        if ' — ' in after_quotes:
+            analysis = after_quotes.split(' — ', 1)[1].strip()
+        else:
+            analysis = after_quotes.strip()
     else:
-        analysis = flat
+        analysis = flat_text
     
     return net, asv, web, kjv, analysis
 
 
-def build_header(hebrew, analysis):
-    """Build the header line: v.X  — Hebrew "word" — meaning."""
-    # Get a short meaning from the analysis
-    # The analysis often starts with: Hebrew "word." followed by explanation
-    # Or it starts with the explanation directly
-    meaning = get_meaning(analysis)
-    
-    if hebrew:
-        return f'Hebrew "{hebrew}" — {meaning}'
-    else:
-        return meaning
-
-
-def get_meaning(analysis):
-    """Extract a concise meaning/description for the header line."""
+def get_meaning_line(hebrew, analysis):
+    """
+    Create a concise meaning description for the header line.
+    Should be a short phrase describing what the Hebrew word means.
+    """
     if not analysis:
-        return "translation comparison."
+        return "translation differences."
     
-    text = analysis.strip()
+    # The analysis often starts with the Hebrew transliteration in quotes
+    # e.g.: "b'ever ha-Yarden." The phrase means "on the other side..."
+    # Skip past any leading quoted Hebrew
+    text = analysis
     
-    # If it starts with a Hebrew transliteration in quotes, skip past it
+    # Skip leading Hebrew transliteration if it matches the hebrew param
     if text.startswith('"'):
         end_q = text.find('"', 1)
-        if end_q > 0 and end_q < 80:
+        if end_q > 0 and end_q < 60:
             text = text[end_q+1:].strip('. ')
     
-    # Also skip patterns like: Hebrew "word." or  "word" = meaning
-    # Get the first complete sentence that's a good description
-    sentences = re.split(r'(?<=[.!])\s+', text)
+    # Get the first meaningful sentence
+    # Split on periods, but be careful about abbreviations
+    sentences = re.split(r'(?<=[a-z])\.\s+(?=[A-Z])', text, maxsplit=1)
     if sentences:
-        first = sentences[0].strip()
-        if len(first) <= 120:
-            return first
-        # Too long, try to cut at a natural point
-        cut = first.find(';')
-        if cut > 30 and cut < 100:
+        first = sentences[0].strip().rstrip('.')
+        if len(first) <= 100:
+            return first + '.'
+        # Too long - find a break
+        cut = first.find(';', 30)
+        if 30 < cut < 100:
             return first[:cut+1]
-        cut = first.find(',', 50)
-        if cut > 0 and cut < 100:
-            return first[:cut] + "..."
-        return first[:100] + "..."
+        cut = first.find(' — ', 30)
+        if 30 < cut < 90:
+            return first[:cut] + '.'
+        return first[:90] + '...'
     
-    return text[:100] + ("..." if len(text) > 100 else "")
+    return text[:90] + ('...' if len(text) > 90 else '.')
 
 
-def format_entry(verse, kjv, esv, asv, net, web, tn_analysis, atn_analysis, hebrew):
-    """Format a single unified entry."""
-    # Build header
-    header_content = build_header(hebrew, tn_analysis if tn_analysis else atn_analysis)
+def format_unified_entry(verse, kjv, esv, asv, net, web, hebrew, tn_analysis, atn_analysis):
+    """Format a single unified TRANSLATION COMPARISON entry."""
+    # Build header line
+    meaning = get_meaning_line(hebrew, tn_analysis if tn_analysis else atn_analysis)
     
-    lines = [f'{verse}  — {header_content}']
+    if hebrew:
+        header = f'{verse}  — Hebrew "{hebrew}" — {meaning}'
+    else:
+        header = f'{verse}  — {meaning}'
     
+    lines = [header]
+    
+    # Add translation quotes
     if kjv:
         lines.append(f'       KJV: "{kjv}"')
     if esv:
@@ -221,157 +237,161 @@ def format_entry(verse, kjv, esv, asv, net, web, tn_analysis, atn_analysis, hebr
     if web:
         lines.append(f'       WEB: "{web}"')
     
-    # Combined analysis
+    # Build combined analysis
     combined = ""
     if tn_analysis:
-        combined = tn_analysis
+        combined = tn_analysis.rstrip('. ')
     if atn_analysis:
         if combined:
-            # Only append if it adds new information
-            # Check if the additional analysis is substantially different
-            if atn_analysis not in combined and len(atn_analysis) > 20:
-                combined = combined.rstrip('. ') + '. ' + atn_analysis
+            # Add additional analysis if it's substantively different
+            # Don't add if it's essentially the same content
+            if len(atn_analysis) > 15 and atn_analysis[:30] not in combined:
+                combined += '. ' + atn_analysis.rstrip('. ')
         else:
-            combined = atn_analysis
+            combined = atn_analysis.rstrip('. ')
     
     if combined:
+        combined = combined.strip() + '.'
         lines.append(f'       Analysis: {combined}')
     
     return '\n'.join(lines)
 
 
-def verse_num(v):
-    """Extract numeric verse number for sorting."""
-    m = re.search(r'(\d+)', v)
+def verse_sort_key(entry_text):
+    """Extract verse number for sorting."""
+    m = re.match(r'v\.(\d+)', entry_text)
     return int(m.group(1)) if m else 999
 
 
 def process_file(filepath):
     """Process a single study notes file."""
     fname = os.path.basename(filepath)
-    dirname = os.path.basename(os.path.dirname(filepath))
-    print(f"\nProcessing: {dirname}/{fname}")
+    dname = os.path.basename(os.path.dirname(filepath))
+    print(f"\nProcessing: {dname}/{fname}")
     
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
     
     # Find both sections
-    tn_start, tn_end, tn_body = find_section(content, "TRANSLATION NOTES")
-    atn_start, atn_end, atn_body = find_section(content, "ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)")
+    tn_start, tn_end = find_section_bounds(content, "TRANSLATION NOTES")
+    atn_start, atn_end = find_section_bounds(content, "ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)")
     
     if tn_start == -1:
         print("  ERROR: No TRANSLATION NOTES section found!")
         return False
     
+    # Get TRANSLATION NOTES body
+    tn_header_len = len("TRANSLATION NOTES\n" + "-" * 36 + "\n")
+    tn_body = content[tn_start + tn_header_len:tn_end]
+    
+    # Check for GLOSSARY between them
+    gloss_start, gloss_end = find_section_bounds(content, "GLOSSARY")
+    glossary_between = gloss_start > tn_start and (atn_start == -1 or gloss_start < atn_start)
+    
+    if glossary_between:
+        # TN body ends at GLOSSARY
+        tn_body = content[tn_start + tn_header_len:gloss_start]
+    
+    # Parse TN entries
+    tn_entries = split_tn_entries(tn_body)
+    
     if atn_start == -1:
-        print("  WARNING: No ADDITIONAL TRANSLATION NOTES section found.")
-        print("  Converting TRANSLATION NOTES only...")
-        # Just rename the section header
-        tn_entries = parse_tn_entries(tn_body)
+        print("  No ADDITIONAL section — converting TRANSLATION NOTES only...")
+        # Just convert TN entries to new format
         unified = []
         for verse, raw in tn_entries:
-            kjv, esv, hebrew, analysis = extract_from_tn(raw)
-            entry = format_entry(verse, kjv, esv, "", "", "", analysis, "", hebrew)
+            flat = flatten_text(raw)
+            kjv, esv, hebrew, analysis = extract_kjv_esv(flat)
+            entry = format_unified_entry(verse, kjv, esv, "", "", "", hebrew, analysis, "")
             unified.append(entry)
         
-        # Replace just the TRANSLATION NOTES header
-        new_header = "TRANSLATION COMPARISON\n" + "-" * 36
-        old_header = "TRANSLATION NOTES\n" + "-" * 36
-        new_section = new_header + "\n" + '\n\n'.join(unified) + '\n'
+        # Build new section
+        new_section = "TRANSLATION COMPARISON\n" + "-" * 36 + "\n"
+        new_section += '\n\n'.join(unified) + '\n'
         
-        # Replace old section
-        old_section = content[tn_start:tn_end]
-        new_content = content[:tn_start] + new_section + content[tn_end:]
+        # Replace TN section only
+        if glossary_between:
+            new_content = content[:tn_start] + new_section + '\n' + content[gloss_start:]
+        else:
+            new_content = content[:tn_start] + new_section + content[tn_end:]
         
         with open(filepath, 'w', encoding='utf-8') as f:
             f.write(new_content)
-        print(f"  Done (TN only): {len(unified)} entries.")
+        print(f"  Done: {len(unified)} entries.")
         return True
     
-    # Both sections exist
-    # Check if there's a GLOSSARY between them
-    gloss_start, gloss_end, gloss_body = find_section(content, "GLOSSARY")
-    glossary_between = (gloss_start > tn_start and gloss_start < atn_start)
+    # Both sections exist — get ATN body
+    atn_header_len = len("ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)\n" + "-" * 36 + "\n")
+    atn_body = content[atn_start + atn_header_len:atn_end]
     
-    # Parse entries
-    tn_entries = parse_tn_entries(tn_body if not glossary_between else content[tn_start + len("TRANSLATION NOTES\n" + "-"*36) + 1:gloss_start])
-    atn_entries = parse_atn_entries(atn_body)
+    # Parse ATN entries
+    atn_entries = split_atn_entries(atn_body)
     
     print(f"  Found {len(tn_entries)} KJV/ESV entries, {len(atn_entries)} additional entries")
     
-    # Match entries: pair up by verse number sequentially
-    # Build a dict: verse -> list of additional entries
-    atn_dict = {}
+    # Build lookup for ATN by verse (preserving order for same-verse)
+    atn_by_verse = {}
     for verse, raw in atn_entries:
-        atn_dict.setdefault(verse, []).append(raw)
-    
-    # Track used additional entries
-    atn_used = {v: 0 for v in atn_dict}
+        atn_by_verse.setdefault(verse, []).append(raw)
+    atn_consumed = {v: 0 for v in atn_by_verse}
     
     unified = []
     
-    # Process each TN entry
+    # Process each TN entry, try to match with ATN
     for verse, tn_raw in tn_entries:
-        kjv, esv, hebrew, tn_analysis = extract_from_tn(tn_raw)
+        flat_tn = flatten_text(tn_raw)
+        kjv, esv, hebrew, tn_analysis = extract_kjv_esv(flat_tn)
         
-        # Try to match with an additional entry for the same verse
-        net = ""
-        asv = ""
-        web = ""
+        # Try to find matching ATN entry
+        net = asv = web = ""
         atn_analysis = ""
-        atn_kjv = ""
         
-        if verse in atn_dict and atn_used[verse] < len(atn_dict[verse]):
-            atn_raw = atn_dict[verse][atn_used[verse]]
-            atn_used[verse] += 1
-            net, asv, web, atn_kjv, atn_analysis = extract_from_atn(atn_raw)
+        if verse in atn_by_verse and atn_consumed[verse] < len(atn_by_verse[verse]):
+            atn_raw = atn_by_verse[verse][atn_consumed[verse]]
+            atn_consumed[verse] += 1
+            flat_atn = flatten_text(atn_raw)
+            net, asv, web, atn_kjv, atn_analysis = extract_asv_net_web(flat_atn)
         
-        entry = format_entry(verse, kjv, esv, asv, net, web, tn_analysis, atn_analysis, hebrew)
+        entry = format_unified_entry(verse, kjv, esv, asv, net, web, hebrew, tn_analysis, atn_analysis)
         unified.append(entry)
     
-    # Add any unmatched additional entries
-    for verse, entries_list in atn_dict.items():
-        start_idx = atn_used.get(verse, 0)
-        for i in range(start_idx, len(entries_list)):
-            atn_raw = entries_list[i]
-            net, asv, web, atn_kjv, atn_analysis = extract_from_atn(atn_raw)
-            entry = format_entry(verse, atn_kjv, "", asv, net, web, "", atn_analysis, "")
+    # Handle remaining unmatched ATN entries
+    for verse, raw_list in atn_by_verse.items():
+        start_idx = atn_consumed.get(verse, 0)
+        for i in range(start_idx, len(raw_list)):
+            flat_atn = flatten_text(raw_list[i])
+            net, asv, web, atn_kjv, atn_analysis = extract_asv_net_web(flat_atn)
+            entry = format_unified_entry(verse, atn_kjv, "", asv, net, web, "", "", atn_analysis)
             unified.append(entry)
     
     # Sort by verse number
-    unified.sort(key=lambda e: verse_num(e))
+    unified.sort(key=verse_sort_key)
     
-    # Build new section text
+    # Build new section
     new_section = "TRANSLATION COMPARISON\n" + "-" * 36 + "\n"
     new_section += '\n\n'.join(unified) + '\n'
     
-    # Determine replacement boundaries
-    # We need to replace from TRANSLATION NOTES start through ADDITIONAL end
-    # But keep GLOSSARY if it's between them
+    # Determine replacement range
+    # Replace from TN start through ATN end, preserving GLOSSARY if between
     if glossary_between:
-        # Keep glossary: replace TN...GLOSSARY boundary, then skip glossary, then replace ATN
-        # Actually simpler: replace from TN_start to ATN_end, and insert new section + glossary
-        glossary_full = content[gloss_start:gloss_end]
-        replacement = new_section + '\n' + glossary_full + '\n'
+        glossary_text = content[gloss_start:gloss_end]
+        replacement = new_section + '\n' + glossary_text + '\n'
         new_content = content[:tn_start] + replacement + content[atn_end:]
     else:
-        # No glossary between them - just replace both sections
-        # The replacement area is from tn_start to atn_end
         new_content = content[:tn_start] + new_section + content[atn_end:]
     
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(new_content)
     
-    print(f"  SUCCESS: Written unified section with {len(unified)} entries.")
+    print(f"  SUCCESS: {len(unified)} unified entries.")
     return True
 
 
 def main():
-    chapters = list(range(1, 18))
     success = 0
     failed = 0
     
-    for ch in chapters:
+    for ch in range(1, 18):
         filepath = os.path.join(BASE_PATH, f"Chapter {ch}", f"Chapter {ch} - Study Notes.txt")
         if os.path.exists(filepath):
             if process_file(filepath):
@@ -383,7 +403,7 @@ def main():
             failed += 1
     
     print(f"\n{'='*50}")
-    print(f"Complete: {success} succeeded, {failed} failed out of {len(chapters)} files.")
+    print(f"Complete: {success}/{success+failed} files processed successfully.")
 
 
 if __name__ == "__main__":
