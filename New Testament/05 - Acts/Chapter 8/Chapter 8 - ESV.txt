@@ -38,6 +38,7 @@ Translation: English Standard Version (ESV)
 34. And the eunuch said to Philip, “About whom, I ask you, does the prophet say this, about himself or about someone else?”
 35. Then Philip opened his mouth, and beginning with this Scripture he told him the good news about Jesus.
 36. And as they were going along the road they came to some water, and the eunuch said, “See, here is water! What prevents me from being baptized?”
+37. [This verse is not included in the ESV; see KJV/ASV for the traditional rendering.]
 38. And he commanded the chariot to stop, and they both went down into the water, Philip and the eunuch, and he baptized him.
 39. And when they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch saw him no more, and went on his way rejoicing.
 40. But Philip found himself at Azotus, and as he passed through he preached the gospel to all the towns until he came to Caesarea.

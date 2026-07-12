@@ -30,5 +30,6 @@ Translation: English Standard Version (ESV)
 26. “‘Go to this people, and say, “You will indeed hear but never understand, and you will indeed see but never perceive.”
 27. For this people’s heart has grown dull, and with their ears they can barely hear, and their eyes they have closed; lest they should see with their eyes and hear with their ears and understand with their heart and turn, and I would heal them.’
 28. Therefore let it be known to you that this salvation of God has been sent to the Gentiles; they will listen.”
+29. [This verse is not included in the ESV; see KJV/ASV for the traditional rendering.]
 30. He lived there two whole years at his own expense, and welcomed all who came to him,
 31. proclaiming the kingdom of God and teaching about the Lord Jesus Christ with all boldness and without hindrance.

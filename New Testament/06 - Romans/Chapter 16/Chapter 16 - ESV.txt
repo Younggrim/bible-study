@@ -25,6 +25,7 @@ Translation: English Standard Version (ESV)
 21. Timothy, my fellow worker, greets you; so do Lucius and Jason and Sosipater, my kinsmen.
 22. I Tertius, who wrote this letter, greet you in the Lord.
 23. Gaius, who is host to me and to the whole church, greets you. Erastus, the city treasurer, and our brother Quartus, greet you.
+24. [This verse is not included in the ESV; see KJV/ASV for the traditional rendering.]
 25. Now to him who is able to strengthen you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery that was kept secret for long ages
 26. but has now been disclosed and through the prophetic writings has been made known to all nations, according to the command of the eternal God, to bring about the obedience of faith—
 27. to the only wise God be glory forevermore through Jesus Christ! Amen.

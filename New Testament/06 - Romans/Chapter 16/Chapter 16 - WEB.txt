@@ -26,4 +26,6 @@ Translation: World English Bible (WEB)
 22. I, Tertius, who write the letter, greet you in the Lord.
 23. Gaius, my host and host of the whole assembly, greets you. Erastus, the treasurer of the city, greets you, as does Quartus, the brother.
 24. The grace of our Lord Jesus Christ be with you all! Amen.
-25. 
+25. Now to him who is able to establish you according to my Good News and the preaching of Jesus Christ, according to the revelation of the mystery which has been kept secret through long ages,
+26. but now is revealed, and by the Scriptures of the prophets, according to the commandment of the eternal God, is made known for obedience of faith to all the nations;
+27. to the only wise God, through Jesus Christ, to whom be the glory forever! Amen.

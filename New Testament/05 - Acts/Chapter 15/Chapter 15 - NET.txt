@@ -35,6 +35,7 @@ Translation: NET Bible (NET)
 31. When they read it aloud, the people rejoiced at its encouragement.
 32. Both Judas and Silas, who were prophets themselves, encouraged and strengthened the brothers with a long speech.
 33. After they had spent some time there, they were sent off in peace by the brothers to those who had sent them.
+34. [This verse is not included in the NET; see KJV/ASV for the traditional rendering.]
 35. But Paul and Barnabas remained in Antioch, teaching and proclaiming (along with many others) the word of the Lord.
 36. After some days Paul said to Barnabas, “Let’s return and visit the brothers in every town where we proclaimed the word of the Lord to see how they are doing.”
 37. Barnabas wanted to bring John called Mark along with them too,

@@ -29,6 +29,7 @@ Translation: English Standard Version (ESV)
 25. And it was the third hour when they crucified him.
 26. And the inscription of the charge against him read, “The King of the Jews.”
 27. And with him they crucified two robbers, one on his right and one on his left.
+28. [This verse is not included in the ESV; see KJV/ASV for the traditional rendering.]
 29. And those who passed by derided him, wagging their heads and saying, “Aha! You who would destroy the temple and rebuild it in three days,
 30. save yourself, and come down from the cross!”
 31. So also the chief priests with the scribes mocked him to one another, saying, “He saved others; he cannot save himself.

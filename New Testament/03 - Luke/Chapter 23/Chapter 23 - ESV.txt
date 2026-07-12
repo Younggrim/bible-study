@@ -18,6 +18,7 @@ Translation: English Standard Version (ESV)
 14. and said to them, “You brought me this man as one who was misleading the people. And after examining him before you, behold, I did not find this man guilty of any of your charges against him.
 15. Neither did Herod, for he sent him back to us. Look, nothing deserving death has been done by him.
 16. I will therefore punish and release him.”
+17. [This verse is not included in the ESV; see KJV/ASV for the traditional rendering.]
 18. But they all cried out together, “Away with this man, and release to us Barabbas”—
 19. a man who had been thrown into prison for an insurrection started in the city and for murder.
 20. Pilate addressed them once more, desiring to release Jesus,

@@ -5,6 +5,7 @@ Translation: English Standard Version (ESV)
 1. After this there was a feast of the Jews, and Jesus went up to Jerusalem.
 2. Now there is in Jerusalem by the Sheep Gate a pool, in Aramaic called Bethesda, which has five roofed colonnades.
 3. In these lay a multitude of invalids—blind, lame, and paralyzed.
+4. [This verse is not included in the ESV; see KJV/ASV for the traditional rendering.]
 5. One man was there who had been an invalid for thirty-eight years.
 6. When Jesus saw him lying there and knew that he had already been there a long time, he said to him, “Do you want to be healed?”
 7. The sick man answered him, “Sir, I have no one to put me into the pool when the water is stirred up, and while I am going another steps down before me.”

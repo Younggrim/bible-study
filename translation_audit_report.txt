@@ -1,0 +1,57 @@
+======================================================================
+BIBLE TRANSLATION AUDIT REPORT
+Generated: 2026-07-12 17:47:36
+======================================================================
+
+SUMMARY
+----------------------------------------
+Total chapters scanned:    1189
+Total files checked:       5945
+Translations checked:      ESV, KJV, ASV, NET, WEB
+
+Total problems found:      4
+  - Missing files:         0
+  - Incomplete files:      4
+  - Empty files:           0
+
+======================================================================
+MISSING FILES (0)
+======================================================================
+  None - all translation files are present!
+
+======================================================================
+EMPTY FILES (0)
+======================================================================
+  None - no empty translation files found!
+
+======================================================================
+INCOMPLETE FILES (4)
+======================================================================
+  [ESV] New Testament/06 - Romans/Chapter 14
+         File: Chapter 14 - ESV.txt
+         Has 23 verses (expected 26)
+
+  [KJV] New Testament/06 - Romans/Chapter 14
+         File: Chapter 14 - KJV.txt
+         Has 23 verses (expected 26)
+
+  [ASV] New Testament/06 - Romans/Chapter 14
+         File: Chapter 14 - ASV.txt
+         Has 23 verses (expected 26)
+
+  [NET] New Testament/06 - Romans/Chapter 14
+         File: Chapter 14 - NET.txt
+         Has 23 verses (expected 26)
+
+======================================================================
+PER-TRANSLATION BREAKDOWN
+======================================================================
+  ESV  :    1 issues  (Missing: 0, Empty: 0, Incomplete: 1)
+  KJV  :    1 issues  (Missing: 0, Empty: 0, Incomplete: 1)
+  ASV  :    1 issues  (Missing: 0, Empty: 0, Incomplete: 1)
+  NET  :    1 issues  (Missing: 0, Empty: 0, Incomplete: 1)
+  WEB  :    0 issues  (Missing: 0, Empty: 0, Incomplete: 0)
+
+======================================================================
+END OF REPORT
+======================================================================

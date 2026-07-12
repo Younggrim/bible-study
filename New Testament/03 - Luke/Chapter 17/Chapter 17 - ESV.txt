@@ -37,4 +37,5 @@ Translation: English Standard Version (ESV)
 33. Whoever seeks to preserve his life will lose it, but whoever loses his life will keep it.
 34. I tell you, in that night there will be two in one bed. One will be taken and the other left.
 35. There will be two women grinding together. One will be taken and the other left.”
+36. [This verse is not included in the ESV; see KJV/ASV for the traditional rendering.]
 37. And they said to him, “Where, Lord?” He said to them, “Where the corpse is, there the vultures will gather.”

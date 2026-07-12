@@ -37,4 +37,5 @@ Translation: NET Bible (NET)
 33. Whoever tries to keep his life will lose it, but whoever loses his life will preserve it.
 34. I tell you, in that night there will be two people in one bed; one will be taken and the other left.
 35. There will be two women grinding grain together; one will be taken and the other left.”
+36. [This verse is not included in the NET; see KJV/ASV for the traditional rendering.]
 37. Then the disciples said to him, “Where, Lord?” He replied to them, “Where the dead body is, there the vultures will gather.”

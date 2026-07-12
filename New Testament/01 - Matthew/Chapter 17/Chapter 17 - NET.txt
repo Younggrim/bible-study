@@ -22,6 +22,7 @@ Translation: NET Bible (NET)
 18. Then Jesus rebuked the demon and it came out of him, and the boy was healed from that moment.
 19. Then the disciples came to Jesus privately and said, “Why couldn’t we cast it out?”
 20. He told them, “It was because of your little faith. I tell you the truth, if you have faith the size of a mustard seed, you will say to this mountain, ‘Move from here to there,’ and it will move; nothing will be impossible for you.”
+21. [This verse is not included in the NET; see KJV/ASV for the traditional rendering.]
 22. When they gathered together in Galilee, Jesus told them, “The Son of Man is going to be betrayed into the hands of men.
 23. They will kill him, and on the third day he will be raised.” And they became greatly distressed.
 24. After they arrived in Capernaum, the collectors of the temple tax came to Peter and said, “Your teacher pays the double drachma tax, doesn’t he?”

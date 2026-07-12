@@ -45,7 +45,9 @@ Translation: NET Bible (NET)
 41. For I tell you the truth, whoever gives you a cup of water because you bear Christ’s name will never lose his reward.
 42. “If anyone causes one of these little ones who believe in me to sin, it would be better for him to have a huge millstone tied around his neck and to be thrown into the sea.
 43. If your hand causes you to sin, cut it off! It is better for you to enter into life crippled than to have two hands and go into hell, to the unquenchable fire.
+44. [This verse is not included in the NET; see KJV/ASV for the traditional rendering.]
 45. If your foot causes you to sin, cut it off! It is better to enter life lame than to have two feet and be thrown into hell.
+46. [This verse is not included in the NET; see KJV/ASV for the traditional rendering.]
 47. If your eye causes you to sin, tear it out! It is better to enter into the kingdom of God with one eye than to have two eyes and be thrown into hell,
 48. where their worm never dies and the fire is never quenched.
 49. Everyone will be salted with fire.

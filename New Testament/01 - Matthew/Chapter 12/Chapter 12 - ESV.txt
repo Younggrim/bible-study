@@ -48,6 +48,7 @@ Translation: English Standard Version (ESV)
 44. Then it says, ‘I will return to my house from which I came.’ And when it comes, it finds the house empty, swept, and put in order.
 45. Then it goes and brings with it seven other spirits more evil than itself, and they enter and dwell there, and the last state of that person is worse than the first. So also will it be with this evil generation.”
 46. While he was still speaking to the people, behold, his mother and his brothers stood outside, asking to speak to him.
+47. [This verse is not included in the ESV; see KJV/ASV for the traditional rendering.]
 48. But he replied to the man who told him, “Who is my mother, and who are my brothers?”
 49. And stretching out his hand toward his disciples, he said, “Here are my mother and my brothers!
 50. For whoever does the will of my Father in heaven is my brother and sister and mother.”

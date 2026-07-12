@@ -5,6 +5,7 @@ Translation: NET Bible (NET)
 1. After this there was a Jewish feast, and Jesus went up to Jerusalem.
 2. Now there is in Jerusalem by the Sheep Gate a pool called Bethzatha in Aramaic, which has five covered walkways.
 3. A great number of sick, blind, lame, and paralyzed people were lying in these walkways.
+4. [This verse is not included in the NET; see KJV/ASV for the traditional rendering.]
 5. Now a man was there who had been disabled for 38 years.
 6. When Jesus saw him lying there and when he realized that the man had been disabled a long time already, he said to him, “Do you want to become well?”
 7. The sick man answered him, “Sir, I have no one to put me into the pool when the water is stirred up. While I am trying to get into the water, someone else goes down there before me.”

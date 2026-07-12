@@ -35,6 +35,7 @@ Translation: English Standard Version (ESV)
 31. And when they had read it, they rejoiced because of its encouragement.
 32. And Judas and Silas, who were themselves prophets, encouraged and strengthened the brothers with many words.
 33. And after they had spent some time, they were sent off in peace by the brothers to those who had sent them.
+34. [This verse is not included in the ESV; see KJV/ASV for the traditional rendering.]
 35. But Paul and Barnabas remained in Antioch, teaching and preaching the word of the Lord, with many others also.
 36. And after some days Paul said to Barnabas, “Let us return and visit the brothers in every city where we proclaimed the word of the Lord, and see how they are.”
 37. Now Barnabas wanted to take with them John called Mark.

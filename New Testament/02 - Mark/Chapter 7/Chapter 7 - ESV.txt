@@ -17,6 +17,7 @@ Translation: English Standard Version (ESV)
 13. thus making void the word of God by your tradition that you have handed down. And many such things you do.”
 14. And he called the people to him again and said to them, “Hear me, all of you, and understand:
 15. There is nothing outside a person that by going into him can defile him, but the things that come out of a person are what defile him.”
+16. [This verse is not included in the ESV; see KJV/ASV for the traditional rendering.]
 17. And when he had entered the house and left the people, his disciples asked him about the parable.
 18. And he said to them, “Then are you also without understanding? Do you not see that whatever goes into a person from outside cannot defile him,
 19. since it enters not his heart but his stomach, and is expelled?” (Thus he declared all foods clean.)

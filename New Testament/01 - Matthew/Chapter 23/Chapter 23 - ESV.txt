@@ -15,6 +15,7 @@ Translation: English Standard Version (ESV)
 11. The greatest among you shall be your servant.
 12. Whoever exalts himself will be humbled, and whoever humbles himself will be exalted.
 13. “But woe to you, scribes and Pharisees, hypocrites! For you shut the kingdom of heaven in people’s faces. For you neither enter yourselves nor allow those who would enter to go in.
+14. [This verse is not included in the ESV; see KJV/ASV for the traditional rendering.]
 15. Woe to you, scribes and Pharisees, hypocrites! For you travel across sea and land to make a single proselyte, and when he becomes a proselyte, you make him twice as much a child of hell as yourselves.
 16. “Woe to you, blind guides, who say, ‘If anyone swears by the temple, it is nothing, but if anyone swears by the gold of the temple, he is bound by his oath.’
 17. You blind fools! For which is greater, the gold or the temple that has made the gold sacred?
