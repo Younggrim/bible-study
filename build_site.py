@@ -148,8 +148,8 @@ def render_section_as_list(text):
     return "\n".join(html_items)
 
 
-def render_video_cards(text):
-    """Render video resources as styled cards."""
+def render_video_cards(text, chapter_num=None):
+    """Render video resources as styled cards, filtering by chapter range when applicable."""
     cards = []
     entries = re.split(r'\n(?=\S)', text.strip())
     for entry in entries:
@@ -159,13 +159,41 @@ def render_video_cards(text):
         title = lines[0].rstrip(":")
         url = ""
         desc_lines = []
+        candidate_urls = []  # list of (url, range_start, range_end) tuples
+
         for line in lines[1:]:
             line = line.strip()
             url_match = re.match(r'(https?://\S+)', line)
-            if url_match and not url:
-                url = url_match.group(1)
+            if url_match:
+                found_url = url_match.group(1)
+                # Check if there's a chapter range indicator like (Chapters 1-11)
+                range_match = re.search(r'\(Chapters?\s*(\d+)\s*[-–]\s*(\d+)\)', line)
+                if range_match:
+                    range_start = int(range_match.group(1))
+                    range_end = int(range_match.group(2))
+                    candidate_urls.append((found_url, range_start, range_end))
+                else:
+                    candidate_urls.append((found_url, None, None))
             elif line and not line.startswith("http"):
                 desc_lines.append(line)
+
+        # If we have chapter-range URLs, pick the one matching the current chapter
+        if candidate_urls and chapter_num is not None:
+            # Filter to matching range, or fall back to non-ranged URLs
+            matching = [(u, s, e) for u, s, e in candidate_urls
+                       if s is not None and s <= chapter_num <= e]
+            non_ranged = [(u, s, e) for u, s, e in candidate_urls if s is None]
+
+            if matching:
+                url = matching[0][0]
+            elif non_ranged:
+                url = non_ranged[0][0]
+            else:
+                # No matching range for this chapter — skip this video entry
+                continue
+        elif candidate_urls:
+            url = candidate_urls[0][0]
+
         desc = " ".join(desc_lines)
         if title:
             link = f'<a href="{url}" target="_blank">{escape(title)}</a>' if url else escape(title)
@@ -782,7 +810,7 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
         elif tid == "translations":
             content = f"<ul>\n{render_section_as_list(translation)}\n                </ul>"
         elif tid == "videos":
-            content = render_video_cards(videos)
+            content = render_video_cards(videos, chapter_num)
         elif tid == "reflection":
             content = f"<ul>\n{render_section_as_list(all_reflection)}\n                </ul>"
         else:
