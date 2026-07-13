@@ -8,7 +8,7 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
     <title>Bible Study</title>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-    <link rel="stylesheet" href="site/style.css?v=9">
+    <link rel="stylesheet" href="site/style.css?v=10">
     <style>
         .home-content {{ margin-top: 56px; padding: 0; max-width: 900px; margin-left: auto; margin-right: auto; padding-bottom: 60px; }}
         .scroll-section {{ margin: 32px 32px 0; }}

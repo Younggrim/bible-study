@@ -419,7 +419,7 @@ body {
     .main-content { margin-left: 0; margin-right: 0; padding: 20px 16px; }
     .hamburger { display: block; }
     .nav-home-btn { display: block; }
-    .nav-brand { font-size: 1rem; }
+    .nav-brand { display: none; }
     .top-nav { padding: 0 10px; height: auto; min-height: 56px; flex-wrap: wrap; padding-top: 6px; padding-bottom: 6px; }
     .nav-center { gap: 4px; justify-content: flex-start; flex-wrap: wrap; }
     .nav-book-select, .nav-chapter-select { font-size: 0.8rem; padding: 5px 6px; max-width: 110px; }
