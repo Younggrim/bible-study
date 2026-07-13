@@ -300,6 +300,7 @@ body {
     -webkit-overflow-scrolling: auto;
     user-select: none;
     -webkit-user-select: none;
+    position: relative;
 }
 
 .study-tab {
@@ -410,9 +411,9 @@ body {
     .scripture-container { padding: 20px 18px; }
     .verse { font-size: 0.95rem; line-height: 1.85; }
     .book-header h1 { font-size: 1.5rem; }
-    .study-tabs { gap: 0; }
-    .study-tab { padding: 8px 12px; font-size: 0.8rem; }
-    .tab-content { padding: 20px 18px; }
+    .study-tabs { gap: 0; overflow-x: hidden; flex-wrap: wrap; touch-action: manipulation; }
+    .study-tab { padding: 8px 12px; font-size: 0.8rem; touch-action: manipulation; }
+    .tab-content { padding: 20px 18px; touch-action: pan-y; -webkit-overflow-scrolling: auto; }
 }
 
 .sidebar-overlay {
