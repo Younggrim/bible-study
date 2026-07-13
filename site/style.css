@@ -318,12 +318,7 @@ body {
     border-bottom: 2px solid var(--border-light);
     margin-bottom: 24px;
     overflow-x: auto;
-    touch-action: pan-x;
-    overscroll-behavior: contain;
-    -webkit-overflow-scrolling: auto;
-    user-select: none;
-    -webkit-user-select: none;
-    position: relative;
+    -webkit-overflow-scrolling: touch;
 }
 
 .study-tab {
@@ -337,7 +332,7 @@ body {
     white-space: nowrap;
     transition: color 0.2s, border-color 0.2s, background 0.2s;
     border-radius: var(--radius-sm) var(--radius-sm) 0 0;
-    touch-action: manipulation;
+    flex-shrink: 0;
 }
 
 .study-tab:hover { color: #3d2b1f; background: rgba(139,105,20,0.06); }
@@ -355,8 +350,6 @@ body {
     border-radius: var(--radius-lg);
     padding: 28px 32px;
     box-shadow: var(--shadow-sm);
-    touch-action: pan-y;
-    overscroll-behavior: contain;
 }
 
 .tab-content.active { display: block; }
@@ -439,9 +432,9 @@ body {
     .scripture-container { padding: 20px 18px; }
     .verse { font-size: 0.95rem; line-height: 1.85; }
     .book-header h1 { font-size: 1.5rem; }
-    .study-tabs { gap: 2px; overflow-x: auto; flex-wrap: nowrap; -webkit-overflow-scrolling: touch; }
+    .study-tabs { gap: 2px; }
     .study-tab { padding: 8px 10px; font-size: 0.75rem; }
-    .tab-content { padding: 20px 18px; touch-action: pan-y; -webkit-overflow-scrolling: auto; }
+    .tab-content { padding: 20px 18px; }
 }
 
 .sidebar-overlay {
