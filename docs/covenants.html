@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Covenants of the Bible — Bible Study</title>
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="site/style.css">
+    <style>
+        .topic-hero {
+            background: linear-gradient(135deg, #f5ebe0 0%, #faf3e0 100%);
+            border: 1px solid var(--border-light);
+            border-radius: var(--radius-lg);
+            padding: 36px;
+            text-align: center;
+            margin-bottom: 32px;
+            box-shadow: var(--shadow-sm);
+        }
+        .topic-hero h1 {
+            font-family: 'Cinzel', serif;
+            font-size: 2.2rem;
+            color: #4a5a8a;
+            margin-bottom: 8px;
+        }
+        .topic-hero .key-passage {
+            font-family: 'Merriweather', serif;
+            font-size: 1.05rem;
+            font-style: italic;
+            color: var(--text-secondary);
+            max-width: 700px;
+            margin: 16px auto 8px;
+            line-height: 1.8;
+        }
+        .topic-hero .ref {
+            font-family: 'Inter', sans-serif;
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #4a5a8a;
+        }
+        .fruit-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 20px;
+            margin-bottom: 32px;
+        }
+        .fruit-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-light);
+            border-radius: var(--radius-lg);
+            padding: 24px;
+            box-shadow: var(--shadow-sm);
+            transition: box-shadow 0.2s, transform 0.15s;
+            border-top: 4px solid #4a5a8a;
+        }
+        .fruit-card:hover {
+            box-shadow: var(--shadow-md);
+            transform: translateY(-2px);
+        }
+        .fruit-card h3 {
+            font-family: 'Cinzel', serif;
+            font-size: 1.1rem;
+            color: #4a5a8a;
+            margin-bottom: 6px;
+        }
+        .fruit-card .greek {
+            font-size: 0.78rem;
+            color: var(--text-muted);
+            font-style: italic;
+            margin-bottom: 10px;
+        }
+        .fruit-card .definition {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            line-height: 1.6;
+            margin-bottom: 12px;
+        }
+        .fruit-card .scriptures {
+            font-size: 0.8rem;
+            color: var(--text-muted);
+            line-height: 1.5;
+        }
+        .fruit-card .scriptures strong {
+            color: var(--accent-brown);
+        }
+        .section-block {
+            background: var(--bg-card);
+            border: 1px solid var(--border-light);
+            border-radius: var(--radius-lg);
+            padding: 28px 32px;
+            box-shadow: var(--shadow-sm);
+            margin-bottom: 24px;
+        }
+        .section-block h2 {
+            font-family: 'Cinzel', serif;
+            font-size: 1.2rem;
+            color: var(--accent-brown);
+            margin-bottom: 16px;
+        }
+        .section-block ul { list-style: none; padding-left: 0; }
+        .section-block li {
+            font-size: 0.9rem;
+            color: var(--text-secondary);
+            line-height: 1.7;
+            margin-bottom: 8px;
+            padding-left: 20px;
+            position: relative;
+        }
+        .section-block li::before {
+            content: "✦";
+            position: absolute;
+            left: 0;
+            color: #4a5a8a;
+        }
+        @media (max-width: 768px) {
+            .fruit-grid { grid-template-columns: 1fr; }
+            .topic-hero h1 { font-size: 1.6rem; }
+            .topic-hero { padding: 24px 16px; }
+        }
+    </style>
+</head>
+<body>
+    <nav class="top-nav">
+        <button class="hamburger" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>
+        <a href="index.html" class="nav-brand">Bible Study</a>
+        <div class="nav-center">
+            <span style="font-size:0.9rem;color:var(--text-secondary);">Topical Study &bull; Covenants of the Bible</span>
+        </div>
+    </nav>
+
+    <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
+
+    <main class="main-content" style="margin-left:0; max-width:960px; margin-left:auto; margin-right:auto;">
+
+        <div class="topic-hero">
+            <h1><i class="fas fa-handshake" style="margin-right:10px;"></i>Covenants of the Bible</h1>
+            <p class="key-passage">"But as it is, Christ has obtained a ministry that is as much more excellent than the old as the covenant he mediates is better, since it is enacted on better promises."</p>
+            <span class="ref">— Hebrews 8:6 (ESV)</span>
+        </div>
+
+        <div class="fruit-grid">
+            <div class="fruit-card">
+                <h3>1. The Adamic Covenant</h3>
+                <div class="greek">Genesis 1:26-28; 2:15-17</div>
+                <div class="definition"><strong>Parties:</strong> God and Adam (representing all humanity).<br><br><strong>Conditions:</strong> Be fruitful, multiply, exercise dominion over creation, tend the garden. Do not eat from the tree of the knowledge of good and evil.<br><br><strong>Promises:</strong> Life, fellowship with God, dominion over the earth, provision of all needs.<br><br><strong>Sign:</strong> The Tree of Life — access to God's presence and eternal life.<br><br><strong>Fulfillment in Christ:</strong> Jesus is the "last Adam" (1 Corinthians 15:45) who succeeded where the first Adam failed, restoring what was lost.</div>
+                <div class="scriptures"><strong>Cross-References:</strong> Romans 5:12-21 • 1 Corinthians 15:22, 45 • Hosea 6:7 • Genesis 3:15</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>2. The Noahic Covenant</h3>
+                <div class="greek">Genesis 9:8-17</div>
+                <div class="definition"><strong>Parties:</strong> God and Noah (and all living creatures — a universal covenant).<br><br><strong>Conditions:</strong> Unconditional — God's unilateral promise requiring nothing from Noah.<br><br><strong>Promises:</strong> Never again destroy all life by flood; seedtime and harvest will continue; the earth will endure until God's final judgment.<br><br><strong>Sign:</strong> The rainbow — a visible reminder of God's faithfulness to His promise.<br><br><strong>Fulfillment in Christ:</strong> Points to God's patience and mercy (2 Peter 3:9), preserving the world until the final salvation is accomplished.</div>
+                <div class="scriptures"><strong>Cross-References:</strong> Isaiah 54:9-10 • 2 Peter 3:5-7 • Genesis 8:21-22 • Matthew 24:37-39</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>3. The Abrahamic Covenant</h3>
+                <div class="greek">Genesis 12:1-3; 15:1-21; 17:1-14</div>
+                <div class="definition"><strong>Parties:</strong> God and Abraham (and his descendants).<br><br><strong>Conditions:</strong> Unconditional in its ultimate fulfillment — God alone passed through the covenant pieces (Genesis 15:17). Circumcision was the sign of participation, not a condition.<br><br><strong>Promises:</strong> A great nation, a promised land, blessing to all nations, innumerable descendants, kings coming from his line.<br><br><strong>Sign:</strong> Circumcision — a mark in the flesh signifying belonging to God's covenant people.<br><br><strong>Fulfillment in Christ:</strong> Jesus is the "seed of Abraham" through whom all nations are blessed (Galatians 3:16). Believers are Abraham's spiritual offspring (Galatians 3:29).</div>
+                <div class="scriptures"><strong>Cross-References:</strong> Galatians 3:6-9, 16, 29 • Romans 4:1-25 • Hebrews 6:13-18 • Acts 3:25</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>4. The Mosaic Covenant</h3>
+                <div class="greek">Exodus 19-24</div>
+                <div class="definition"><strong>Parties:</strong> God and the nation of Israel.<br><br><strong>Conditions:</strong> Conditional — "If you will obey my voice and keep my covenant" (Exodus 19:5). Blessings for obedience, curses for disobedience (Deuteronomy 28).<br><br><strong>Promises:</strong> Israel would be God's treasured possession, a kingdom of priests, a holy nation. The land, prosperity, and God's presence among them.<br><br><strong>Sign:</strong> The Sabbath — a weekly reminder of God's creative and redemptive work (Exodus 31:13).<br><br><strong>Fulfillment in Christ:</strong> Christ fulfilled the law perfectly (Matthew 5:17) and bore the curse for our disobedience (Galatians 3:13).</div>
+                <div class="scriptures"><strong>Cross-References:</strong> Galatians 3:19-25 • Romans 10:4 • Hebrews 8:7-13 • 2 Corinthians 3:6-11</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>5. The Davidic Covenant</h3>
+                <div class="greek">2 Samuel 7:8-16</div>
+                <div class="definition"><strong>Parties:</strong> God and David (and his royal line).<br><br><strong>Conditions:</strong> Unconditional in its ultimate fulfillment — "Your house and your kingdom shall be made sure forever" (2 Samuel 7:16). Individual kings could be disciplined, but the line would never be cut off.<br><br><strong>Promises:</strong> An eternal throne, an eternal kingdom, a descendant who would reign forever, a father-son relationship between God and David's heir.<br><br><strong>Sign:</strong> The throne itself — the perpetual reign of David's line.<br><br><strong>Fulfillment in Christ:</strong> Jesus is the "Son of David" (Matthew 1:1), born of David's line, who sits on an eternal throne (Luke 1:32-33).</div>
+                <div class="scriptures"><strong>Cross-References:</strong> Luke 1:32-33 • Acts 2:29-36 • Revelation 22:16 • Isaiah 9:6-7 • Jeremiah 23:5</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>6. The New Covenant</h3>
+                <div class="greek">Jeremiah 31:31-34; Luke 22:20</div>
+                <div class="definition"><strong>Parties:</strong> God and all who believe — Jew and Gentile alike through faith in Christ.<br><br><strong>Conditions:</strong> Unconditional — established entirely on God's grace through Christ's sacrifice. Entered by faith alone.<br><br><strong>Promises:</strong> The law written on hearts, direct knowledge of God, complete forgiveness of sins, the indwelling Holy Spirit, eternal life.<br><br><strong>Sign:</strong> The Lord's Supper — "This cup is the new covenant in my blood" (Luke 22:20).<br><br><strong>Fulfillment in Christ:</strong> Jesus is the mediator of the New Covenant (Hebrews 9:15), ratified by His blood, making the old covenant obsolete (Hebrews 8:13).</div>
+                <div class="scriptures"><strong>Cross-References:</strong> Hebrews 8:6-13 • Hebrews 9:15 • 2 Corinthians 3:6 • Ezekiel 36:26-27 • Romans 11:27</div>
+            </div>
+        </div>
+
+        <div class="section-block">
+            <h2>Context & Background</h2>
+            <ul>
+                <li>A covenant (Hebrew: berith) is a solemn, binding agreement between two parties. In the ancient Near East, covenants were ratified with blood sacrifice — foreshadowing Christ's ultimate covenant sacrifice.</li>
+                <li>Biblical covenants are progressive — each builds on the previous, revealing more of God's redemptive plan. They form the backbone of biblical theology and the storyline of Scripture.</li>
+                <li>Unconditional covenants (Noahic, Abrahamic, Davidic, New) depend entirely on God's faithfulness. Conditional covenants (Mosaic) depended on human obedience — which humanity failed, showing the need for grace.</li>
+                <li>All covenants find their "Yes" in Christ (2 Corinthians 1:20). He is the last Adam, the seed of Abraham, the perfect law-keeper, the Son of David, and the mediator of the New Covenant.</li>
+                <li>The New Covenant is "better" (Hebrews 8:6) not because God improved His plan, but because it accomplishes internally what the law could only demand externally — transformation of the heart by the Spirit.</li>
+            </ul>
+        </div>
+
+        <div class="section-block">
+            <h2>Cross-References</h2>
+            <ul>
+                <li><strong>Hebrews 8:6-13</strong> — The New Covenant is "better" with "better promises," making the old covenant obsolete.</li>
+                <li><strong>2 Corinthians 1:20</strong> — "All the promises of God find their Yes in him" — Christ fulfills every covenant promise.</li>
+                <li><strong>Galatians 3:15-29</strong> — The law does not nullify the Abrahamic promise; it was added until the Seed (Christ) came.</li>
+                <li><strong>Romans 9:4-5</strong> — "To them belong the covenants, the giving of the law, the worship..." — Israel's covenant privilege.</li>
+                <li><strong>Ephesians 2:12-13</strong> — Gentiles were "strangers to the covenants of promise" but are now brought near through Christ's blood.</li>
+                <li><strong>Hebrews 9:15-22</strong> — A covenant requires the death of the one who made it — Christ's death ratifies the New Covenant.</li>
+            </ul>
+        </div>
+
+        <div class="section-block">
+            <h2>Reflection Questions</h2>
+            <ul>
+                <li>How does understanding the progressive nature of God's covenants help you see the Bible as one unified story rather than disconnected books?</li>
+                <li>The Mosaic covenant was conditional and Israel failed. How does this failure reveal our need for the unconditional New Covenant in Christ?</li>
+                <li>God is a covenant-making and covenant-keeping God. How does His faithfulness to ancient promises strengthen your confidence in His promises to you?</li>
+                <li>The New Covenant promises God's law written on your heart. In what areas do you sense the Spirit transforming your desires to align with God's will?</li>
+                <li>Every covenant has a sign. As you take the Lord's Supper, how does it remind you of the New Covenant's promises — forgiveness, the Spirit, and knowing God personally?</li>
+            </ul>
+        </div>
+
+    </main>
+
+    <script src="site/script.js"></script>
+</body>
+</html>
