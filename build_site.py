@@ -245,15 +245,27 @@ def render_translation_comparison(text):
             f'<p>{display_text}</p></div>'
         )
 
-    # Build the filter checkboxes
-    filter_html = '''                    <div class="trans-filter">
-                        <span class="trans-filter-label">Show translations:</span>
-                        <label class="trans-check trans-check-kjv"><input type="checkbox" value="KJV" checked onchange="filterTranslations()"><span class="trans-badge trans-kjv">KJV</span></label>
-                        <label class="trans-check trans-check-esv"><input type="checkbox" value="ESV" checked onchange="filterTranslations()"><span class="trans-badge trans-esv">ESV</span></label>
-                        <label class="trans-check trans-check-asv"><input type="checkbox" value="ASV" checked onchange="filterTranslations()"><span class="trans-badge trans-asv">ASV</span></label>
-                        <label class="trans-check trans-check-net"><input type="checkbox" value="NET" checked onchange="filterTranslations()"><span class="trans-badge trans-net">NET</span></label>
-                        <label class="trans-check trans-check-web"><input type="checkbox" value="WEB" checked onchange="filterTranslations()"><span class="trans-badge trans-web">WEB</span></label>
-                    </div>'''
+    # Build the filter checkboxes — only show translations that appear in the content
+    all_trans_in_content = set()
+    for _, entry_text in entries:
+        for abbr in trans_colors:
+            if re.search(r'\b' + abbr + r'\b', entry_text):
+                all_trans_in_content.add(abbr)
+
+    checkbox_items = []
+    for abbr in ['KJV', 'ESV', 'ASV', 'NET', 'WEB']:
+        if abbr in all_trans_in_content:
+            cls = trans_colors[abbr]
+            checkbox_items.append(
+                f'<label class="trans-check trans-check-{cls}">'
+                f'<input type="checkbox" value="{abbr}" checked onchange="filterTranslations()">'
+                f'<span class="trans-badge trans-{cls}">{abbr}</span></label>'
+            )
+
+    filter_html = '                    <div class="trans-filter">\n'
+    filter_html += '                        <span class="trans-filter-label">Show translations:</span>\n'
+    filter_html += '                        ' + '\n                        '.join(checkbox_items) + '\n'
+    filter_html += '                    </div>'
 
     return filter_html + "\n" + "\n".join(html_parts)
 
