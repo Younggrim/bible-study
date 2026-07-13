@@ -103,4 +103,19 @@ function filterTranslations() {
             }
         }
     });
+
+    // Dim/hide individual translation labels that are unchecked
+    var allTrans = ['KJV', 'ESV', 'ASV', 'NET', 'WEB'];
+    allTrans.forEach(function(t) {
+        var cls = 'trans-' + t.toLowerCase();
+        var labels = document.querySelectorAll('.trans-label.' + cls);
+        var isSelected = selected.indexOf(t) !== -1;
+        labels.forEach(function(label) {
+            if (isSelected) {
+                label.classList.remove('trans-deselected');
+            } else {
+                label.classList.add('trans-deselected');
+            }
+        });
+    });
 }

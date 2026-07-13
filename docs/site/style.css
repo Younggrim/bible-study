@@ -566,3 +566,10 @@ body {
         padding: 10px 14px;
     }
 }
+
+/* Deselected translation labels — struck through and dimmed */
+.trans-label.trans-deselected {
+    opacity: 0.3;
+    text-decoration: line-through;
+    filter: grayscale(1);
+}
