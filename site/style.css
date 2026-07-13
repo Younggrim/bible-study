@@ -295,6 +295,11 @@ body {
     border-bottom: 2px solid var(--border-light);
     margin-bottom: 24px;
     overflow-x: auto;
+    touch-action: pan-x;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: auto;
+    user-select: none;
+    -webkit-user-select: none;
 }
 
 .study-tab {
@@ -308,6 +313,7 @@ body {
     white-space: nowrap;
     transition: color 0.2s, border-color 0.2s, background 0.2s;
     border-radius: var(--radius-sm) var(--radius-sm) 0 0;
+    touch-action: manipulation;
 }
 
 .study-tab:hover { color: #3d2b1f; background: rgba(139,105,20,0.06); }
@@ -325,6 +331,8 @@ body {
     border-radius: var(--radius-lg);
     padding: 28px 32px;
     box-shadow: var(--shadow-sm);
+    touch-action: pan-y;
+    overscroll-behavior: contain;
 }
 
 .tab-content.active { display: block; }
