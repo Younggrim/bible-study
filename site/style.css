@@ -94,6 +94,27 @@ body {
     padding: 8px;
 }
 
+.nav-home-btn {
+    display: none;
+    font-size: 1.1rem;
+    color: var(--accent-brown);
+    padding: 8px;
+    text-decoration: none;
+    transition: color 0.2s;
+}
+
+.nav-home-btn:hover {
+    color: var(--accent-gold);
+}
+
+.sidebar-home {
+    font-weight: 600;
+    color: var(--accent-brown);
+    border-bottom: 1px solid var(--border-light);
+    padding-bottom: 12px;
+    margin-bottom: 4px;
+}
+
 /* LEFT SIDEBAR */
 .left-sidebar {
     position: fixed;
@@ -409,6 +430,7 @@ body {
     .right-panel { display: none; }
     .main-content { margin-left: 0; margin-right: 0; padding: 20px 16px; }
     .hamburger { display: block; }
+    .nav-home-btn { display: block; }
     .nav-brand { display: none; }
     .top-nav { padding: 0 10px; height: auto; min-height: 56px; flex-wrap: wrap; padding-top: 6px; padding-bottom: 6px; }
     .nav-center { gap: 4px; justify-content: flex-start; flex-wrap: wrap; }

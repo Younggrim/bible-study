@@ -11,6 +11,7 @@
 <body>
     <nav class="top-nav">
         <button class="hamburger" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>
+        <a href="index.html" class="nav-home-btn" title="Home"><i class="fas fa-home"></i></a>
         <a href="index.html" class="nav-brand">Bible Study</a>
         <div class="nav-center">
             <select class="nav-book-select" id="bookSelect" onchange="updateChapters()">
@@ -114,6 +115,9 @@
     <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
 
     <aside class="left-sidebar">
+        <div class="sidebar-section">
+            <a class="sidebar-item sidebar-home" href="index.html"><i class="fas fa-home"></i> Home</a>
+        </div>
         <div class="sidebar-section">
             <div class="sidebar-section-title">Old Testament</div>
             <a class="sidebar-item" href="genesis1.html"><i class="fas fa-book"></i> Genesis</a>

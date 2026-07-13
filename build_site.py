@@ -467,6 +467,9 @@ def build_left_sidebar(testament, book_name, chapter_num, total_chapters):
 
     return f'''    <aside class="left-sidebar">
         <div class="sidebar-section">
+            <a class="sidebar-item sidebar-home" href="index.html"><i class="fas fa-home"></i> Home</a>
+        </div>
+        <div class="sidebar-section">
             <div class="sidebar-section-title">Old Testament</div>
 {chr(10).join(ot_items)}
         </div>
@@ -582,6 +585,7 @@ def build_html_page(book_name, chapter_num, total_chapters, verses_html, tab_bar
 <body>
     <nav class="top-nav">
         <button class="hamburger" onclick="toggleSidebar()"><i class="fas fa-bars"></i></button>
+        <a href="index.html" class="nav-home-btn" title="Home"><i class="fas fa-home"></i></a>
         <a href="index.html" class="nav-brand">Bible Study</a>
         <div class="nav-center">
             <select class="nav-book-select" id="bookSelect" onchange="updateChapters()">
@@ -681,13 +685,14 @@ def build_index():
 
     ot_cards = ""
     for i, (_, name, _) in enumerate(OT_BOOKS):
-        ot_cards += f'                <a class="book-link" href="{book_slug(name)}1.html">{name}</a>\n'
+        ot_cards += f'                        <a class="book-link" href="{book_slug(name)}1.html">{name}</a>\n'
 
     nt_cards = ""
     for i, (_, name, _) in enumerate(NT_BOOKS):
-        nt_cards += f'                <a class="book-link" href="{book_slug(name)}1.html">{name}</a>\n'
+        nt_cards += f'                        <a class="book-link" href="{book_slug(name)}1.html">{name}</a>\n'
 
-    return '''<!DOCTYPE html>
+    from homepage_template import HOMEPAGE_TEMPLATE
+    return HOMEPAGE_TEMPLATE.format(ot_cards=ot_cards, nt_cards=nt_cards)
 <html lang="en">
 <head>
     <meta charset="UTF-8">
