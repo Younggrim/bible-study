@@ -711,8 +711,8 @@ def build_index():
         .testament-title.ot { color: #6b4c3b; border-bottom: 2px solid #6b4c3b; }
         .testament-title.nt { color: #2c5a6b; border-bottom: 2px solid #2c5a6b; }
         .testament-title.topical { color: #5c3d6e; border-bottom: 2px solid #5c3d6e; }
-        .book-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 10px; }
-        .book-link { display: block; padding: 12px 16px; background: #fdf9f4; border: 1px solid #e0d6c8; border-left: 4px solid #6b4c3b; border-radius: var(--radius-md); text-decoration: none; font-size: 0.9rem; font-weight: 600; color: #3d2b1f; transition: box-shadow 0.2s, transform 0.15s, background 0.2s, color 0.2s; }
+        .book-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+        .book-link { display: block; padding: 12px 16px; background: #fdf9f4; border: 1px solid #e0d6c8; border-left: 4px solid #6b4c3b; border-radius: var(--radius-md); text-decoration: none; font-size: 0.85rem; font-weight: 600; color: #3d2b1f; transition: box-shadow 0.2s, transform 0.15s, background 0.2s, color 0.2s; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
         .book-link:hover { box-shadow: 0 6px 16px rgba(0,0,0,0.12); transform: translateY(-3px); background: #8b3a2a; color: #fff; border-left-color: #8b3a2a; }
         .topic-link { border-left-color: #5c3d6e !important; }
         .topic-link:hover { background: #5c3d6e !important; border-left-color: #5c3d6e !important; }
