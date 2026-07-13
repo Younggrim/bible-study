@@ -42,13 +42,11 @@ Structure:
 
 CROSS-REFERENCES
 ------------------------------------
-v.2   — Psalm 56:4 — "In God I will praise his word."
-v.3   — Psalm 18:32 — "God... strengthened me with strength."
-v.6   — James 4:6 — "God resisteth the proud, but giveth grace
-         unto the humble."
-v.8   — Philippians 1:6 — "He which hath begun a good work in
-         you will perform it until the day of Jesus Christ."
-v.8   — Isaiah 64:8 — "We are the clay, and thou our potter."
+v.2 — Psalm 56:4 — In God I will praise his word
+v.3 — Psalm 18:32 — God strengthened me with strength
+v.6 — James 4:6 — God resisteth the proud, but giveth grace unto the humble
+v.8 — Philippians 1:6 — He which hath begun a good work in you will perform it...
+v.8 — Isaiah 64:8 — We are the clay, and thou our potter
 
 COMMENTARY REFERENCES
 ------------------------------------

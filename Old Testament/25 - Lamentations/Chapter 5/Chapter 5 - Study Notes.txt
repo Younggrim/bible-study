@@ -56,21 +56,14 @@ Structure:
 
 CROSS-REFERENCES
 ------------------------------------
-v.1   — Psalm 74:2 — "Remember thy congregation, which thou hast
-         purchased of old."
-v.7   — Exodus 20:5 — "visiting the iniquity of the fathers upon
-         the children unto the third and fourth generation."
-v.7   — Ezekiel 18:2 — "The fathers have eaten sour grapes, and
-         the children's teeth are set on edge."
-v.16  — Job 19:9 — "He hath stripped me of my glory, and taken
-         the crown from my head."
-v.19  — Psalm 102:12 — "But thou, O LORD, shalt endure for ever;
-         and thy remembrance unto all generations."
-v.19  — Hebrews 1:11-12 — "They shall perish; but thou remainest."
-v.21  — Jeremiah 31:18 — "Turn thou me, and I shall be turned;
-         for thou art the LORD my God."
-v.21  — Psalm 80:3 — "Turn us again, O God, and cause thy face
-         to shine; and we shall be saved."
+v.1 — Psalm 74:2 — Remember thy congregation, which thou hast purchased of old
+v.7 — Exodus 20:5 — visiting the iniquity of the fathers upon the children...
+v.7 — Ezekiel 18:2 — The fathers have eaten sour grapes
+v.16 — Job 19:9 — He hath stripped me of my glory
+v.19 — Psalm 102:12 — But thou, O LORD, shalt endure for ever
+v.19 — Hebrews 1:11-12 — They shall perish; but thou remainest
+v.21 — Jeremiah 31:18 — Turn thou me, and I shall be turned
+v.21 — Psalm 80:3 — Turn us again, O God, and cause thy face to shine
 
 COMMENTARY REFERENCES
 ------------------------------------

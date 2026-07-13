@@ -44,17 +44,12 @@ Structure:
 
 CROSS-REFERENCES
 ------------------------------------
-v.2   — Romans 3:20 — "By the deeds of the law there shall no
-         flesh be justified in his sight."
-v.2   — Galatians 2:16 — "A man is not justified by the works of
-         the law, but by the faith of Jesus Christ."
-v.5   — Psalm 77:5 — "I have considered the days of old, the
-         years of ancient times."
-v.6   — Psalm 63:1 — "My soul thirsteth for thee, my flesh
-         longeth for thee in a dry and thirsty land."
-v.10  — Nehemiah 9:20 — "Thou gavest also thy good spirit to
-         instruct them."
-v.10  — Romans 8:14 — "As many as are led by the Spirit of God."
+v.2 — Romans 3:20 — By the deeds of the law there shall no flesh be...
+v.2 — Galatians 2:16 — A man is not justified by the works of the law
+v.5 — Psalm 77:5 — I have considered the days of old
+v.6 — Psalm 63:1 — My soul thirsteth for thee
+v.10 — Nehemiah 9:20 — Thou gavest also thy good spirit to instruct them
+v.10 — Romans 8:14 — As many as are led by the Spirit of God
 
 COMMENTARY REFERENCES
 ------------------------------------
