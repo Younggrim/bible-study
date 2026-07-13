@@ -476,18 +476,23 @@ def render_map_geography(text):
         if not item:
             continue
         escaped_item = escape(item)
-        # Try to link known locations - case insensitive matching
+        # Try to link known locations - case insensitive matching with word boundaries
         for location, wiki_url in sorted(LOCATION_WIKI_LINKS.items(), key=lambda x: -len(x[0])):
+            # Skip very short location names (3 chars or less) to avoid false matches
+            if len(location) <= 3:
+                continue
             # Use word boundary matching on the escaped text
-            pattern = re.compile(re.escape(escape(location)), re.IGNORECASE)
+            pattern = re.compile(r'\b' + re.escape(escape(location)) + r'\b', re.IGNORECASE)
             match = pattern.search(escaped_item)
             if match:
                 matched_text = match.group(0)
-                escaped_item = escaped_item.replace(
-                    matched_text,
-                    f'<a href="{wiki_url}" target="_blank" style="color:#8b3a2a;text-decoration:none;border-bottom:1px dotted #8b3a2a;">{matched_text}</a>',
-                    1  # Only replace first occurrence
-                )
+                # Don't link if already inside an <a> tag
+                before = escaped_item[:match.start()]
+                if '<a ' in before and before.count('<a ') > before.count('</a>'):
+                    continue
+                escaped_item = escaped_item[:match.start()] + \
+                    f'<a href="{wiki_url}" target="_blank" style="color:#8b3a2a;text-decoration:none;border-bottom:1px dotted #8b3a2a;">{matched_text}</a>' + \
+                    escaped_item[match.end():]
         html_items.append(f"                    <li>{escaped_item}</li>")
 
     if html_items:
