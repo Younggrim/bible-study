@@ -209,52 +209,112 @@ Charles Spurgeon:
   entertain but to horrify — to show us what we are without God, and to
   make us cry out for the King who alone can restrain the wickedness of
   the human heart."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "played the whore against him" / ESV: "was unfaithful to
-       him" — Hebrew "vattizneh alav." "Zanah" = to commit fornication/
-       adultery. The KJV translates literally. The ESV softens slightly.
-       Some scholars (following LXX and Josephus) read "was angry with
-       him" (from a different root), suggesting she left due to a quarrel
-       rather than adultery. The Hebrew Masoretic text clearly reads
-       "zanah" (sexual unfaithfulness), though the exact nature of her
-       unfaithfulness is debated.
+v.2  — Hebrew "vattizneh alav" — she committed fornication against him.
+       KJV: "played the whore against him"
+       ESV: "was unfaithful to him"
+       ASV: "his concubine played the harlot against him"
+       NET: "she got angry at him"
+       WEB: "His concubine played the prostitute against him"
+       Analysis: A major textual dispute. Hebrew Masoretic text reads
+       "vattizneh alav" = she played the harlot against him. The LXX
+       (Septuagint) reads "she became angry with him." NET follows the
+       LXX reading; ASV/WEB/KJV follow the Hebrew. ESV softens slightly
+       with "unfaithful." This significantly affects how we understand the
+       woman — was she unfaithful or merely angry? The Hebrew "zanah" =
+       to commit fornication/adultery.
 
-v.3  — KJV: "to speak friendly unto her" / ESV: "to speak kindly to
-       her" — Hebrew "l'dabber al-libbah." Literally "to speak upon/to
-       her heart." This idiom means to speak tenderly, persuasively,
-       comfortingly (cf. Genesis 34:3; Ruth 2:13; Isaiah 40:2). It
-       implies wooing her back, not commanding her return.
+v.3  — Hebrew "l'dabber al-libbah" — to speak upon/to her heart.
+       KJV: "to speak friendly unto her"
+       ESV: "to speak kindly to her"
+       ASV: "to speak kindly unto her, to bring her again"
+       NET: "to speak romantically to her and to convince her to return"
+       WEB: "to speak kindly to her, to bring her again"
+       Analysis: Literally "to speak upon/to her heart." This idiom means
+       to speak tenderly, persuasively, comfortingly (cf. Genesis 34:3;
+       Ruth 2:13; Isaiah 40:2). It implies wooing her back, not commanding
+       her return. NET makes the romantic/persuasive intent most explicit.
 
-v.22 — KJV: "certain sons of Belial" / ESV: "worthless fellows" —
-       Hebrew "b'nei v'liyya'al." "Belial" = worthlessness, wickedness,
-       destruction. Not a proper name here but a characterization: "sons
-       of worthlessness/wickedness." Later Jewish and Christian tradition
-       personified Belial as a name for Satan (2 Corinthians 6:15). The
-       KJV preserves the Hebrew term; the ESV translates its meaning.
+v.18 — Hebrew "beit-Adonai" or "beiti" — house of the LORD / my house.
+       KJV: "I am going to the house of the LORD"
+       ESV: "I am going to my home"
+       ASV: "I am now going to the house of Jehovah"
+       NET: "now I'm heading home"
+       WEB: "I am going to Yahweh's house"
+       Analysis: A significant textual variant. Some Hebrew manuscripts
+       read "house of the LORD" (Shiloh); others read "my house." NET/ESV
+       follow "my house"; ASV/WEB follow "house of the LORD." If the
+       Levite was traveling to Shiloh (God's tabernacle), his religious
+       devotion contrasts sharply with what happens to him. The variant
+       affects our understanding of his journey's purpose.
 
-v.24 — KJV: "humble ye them" / ESV: "Violate them" — Hebrew "annu
-       otam." "Anah" in the Piel = to afflict, humble, violate. The word
-       is used for sexual violence (cf. Genesis 34:2 — Shechem and
-       Dinah; 2 Samuel 13:14 — Amnon and Tamar). ESV's "violate" is more
-       explicit; KJV's "humble" uses the older English sense of
-       "humiliate/debase."
+v.22 — Hebrew "b'nei v'liyya'al" — sons of Belial/worthlessness.
+       KJV: "certain sons of Belial"
+       ESV: "worthless fellows"
+       ASV: "certain base fellows"
+       NET: "some men of the city, some good-for-nothings"
+       WEB: "some wicked men of the city"
+       Analysis: "Belial" = worthlessness, wickedness, destruction. Not a
+       proper name here but a characterization: "sons of worthlessness/
+       wickedness." Later Jewish and Christian tradition personified Belial
+       as a name for Satan (2 Corinthians 6:15). KJV preserves the Hebrew
+       term; ESV translates its meaning. NET's "good-for-nothings"
+       trivializes what are actually violent sexual predators. WEB's
+       "wicked men" is most appropriate to the context.
 
-v.25 — KJV: "abused her" / ESV: "abused her" — Hebrew "vayit'all'lu
-       bah." From "alal" = to act wantonly, deal ruthlessly, abuse. The
-       word implies repeated, sustained cruelty — not a single act but
-       prolonged torture. Both translations use "abused" but the Hebrew
-       conveys systematic, all-night brutality.
+v.22 — Hebrew "v'ned'ah oto" — that we may know him.
+       KJV: "that we may know him"
+       ESV: "that we may know him"
+       ASV: "that we may know him"
+       NET: "so we can take carnal knowledge of him"
+       WEB: "that we may know him"
+       Analysis: "Know" (yada) is the biblical euphemism for sexual
+       intercourse (Genesis 4:1). KJV/ASV/ESV/WEB retain the euphemism;
+       NET makes the sexual violence explicit ("take carnal knowledge").
+       The parallel with Genesis 19:5 (Sodom) is exact and intentional.
 
-v.29 — KJV: "divided her, together with her bones, into twelve pieces" /
-       ESV: "divided her, limb by limb, into twelve pieces" — Hebrew
-       "vay'natt'cheha la'atsameyha." "Nattach" = to cut in pieces
-       (used of sacrificial animals in Leviticus 1:6,12). "La'atsameyha"
-       = "according to/by her bones" (i.e., at the joints). The
-       sacrificial language is deliberate and disturbing — she is treated
-       like an animal offering. ESV's "limb by limb" captures the
-       anatomical precision; KJV's "together with her bones" is more
-       literal.
+v.24 — Hebrew "annu otam" — humble/afflict them.
+       KJV: "humble ye them"
+       ESV: "Violate them"
+       ASV: "humble ye them"
+       NET: "you can abuse them"
+       WEB: "humble them"
+       Analysis: "Anah" in the Piel = to afflict, humble, violate. The
+       word is used for sexual violence (cf. Genesis 34:2 — Shechem and
+       Dinah; 2 Samuel 13:14 — Amnon and Tamar; Deuteronomy 22:29).
+       ESV's "violate" is most explicit; KJV/ASV/WEB's "humble" uses the
+       older sense of "humiliate/debase." NET's "abuse" falls between.
+       The host's offer is morally monstrous — offering women to be raped
+       to protect his male guest.
+
+v.25 — Hebrew "vayit'all'lu bah" — they abused her / dealt ruthlessly with her.
+       KJV: "abused her"
+       ESV: "abused her"
+       ASV: "abused her"
+       NET: "raped her and abused her"
+       WEB: "abused her"
+       Analysis: From "alal" = to act wantonly, deal ruthlessly, abuse.
+       The word implies repeated, sustained cruelty — not a single act but
+       prolonged torture. NET makes "raped" explicit alongside "abused."
+       The Hebrew conveys systematic, all-night brutality. Both KJV and
+       ESV use "abused" but the Hebrew communicates far more than the
+       English word suggests.
+
+v.29 — Hebrew "vay'natt'cheha la'atsameyha" — he cut her according to her bones.
+       KJV: "divided her, together with her bones, into twelve pieces"
+       ESV: "divided her, limb by limb, into twelve pieces"
+       ASV: "divided her, limb by limb, into twelve pieces"
+       NET: "carved her up into twelve pieces"
+       WEB: "divided her, together with her bones, into twelve pieces"
+       Analysis: "Nattach" = to cut in pieces (used of sacrificial animals
+       in Leviticus 1:6,12). "La'atsameyha" = "according to/by her bones"
+       (i.e., at the joints). The sacrificial language is deliberate and
+       disturbing — she is treated like an animal offering. ESV/ASV's
+       "limb by limb" captures the anatomical precision; KJV/WEB's
+       "together with her bones" is more literal. NET's "carved her up"
+       is colloquial but captures the horror. The twelve pieces sent to
+       twelve tribes is a call to assembly (cf. 1 Samuel 11:7).
 
 GLOSSARY
 ------------------------------------
@@ -286,20 +346,6 @@ Threshold      — Hebrew "miphtan." The doorstep or entrance sill. The
                concubine's hands on the threshold (v.27) is a haunting
                image — she reached the boundary of safety but could not
                cross it. She died reaching for refuge that was denied her.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — ASV: "his concubine played the harlot against him" / NET: "she got angry at him" / WEB: "His concubine played the prostitute against him" — A major textual dispute. Hebrew Masoretic text reads "vattizneh alav" = she played the harlot against him. The LXX (Septuagint) reads "she became angry with him." NET follows the LXX reading; ASV/WEB follow the Hebrew. This significantly affects how we understand the woman — was she unfaithful or merely angry?
-
-- v.22 — ASV: "certain base fellows" / WEB: "some wicked men of the city" / NET: "some men of the city, some good-for-nothings" — Hebrew "b'ney b'liyya'al" = sons of Belial/worthlessness. This same term appears in the Sodom narrative parallel (Genesis 19). ASV's "base fellows" is archaic; NET's "good-for-nothings" trivializes what are actually violent sexual predators. WEB's "wicked men" is most appropriate to the context.
-
-- v.22 — ASV: "that we may know him" / NET: "so we can take carnal knowledge of him" / WEB: "that we may know him" — Hebrew "v'ned'ah oto" = that we may know him. "Know" (yada) is the biblical euphemism for sexual intercourse (Genesis 4:1). ASV/WEB retain the euphemism; NET makes the sexual violence explicit ("take carnal knowledge"). The parallel with Genesis 19:5 (Sodom) is exact and intentional.
-
-- v.24 — ASV: "humble ye them" / NET: "you can abuse them" / WEB: "humble them" — Hebrew "annu otam" = humble/afflict/rape them. ASV/WEB use the ambiguous "humble"; NET makes explicit with "abuse." The Hebrew verb "anah" is used elsewhere for sexual violence (Genesis 34:2; Deuteronomy 22:29). The host's offer is morally monstrous — offering women to be raped to protect his male guest.
-
-- v.18 — ASV: "I am now going to the house of Jehovah" / NET: "now I'm heading home" / WEB: "I am going to Yahweh's house" — A significant textual variant. Some Hebrew manuscripts read "house of the LORD" (Shiloh); others read "my house." NET follows "my house"; ASV/WEB follow "house of the LORD." If the Levite was traveling to Shiloh (God's tabernacle), his religious devotion contrasts sharply with what happens to him.
-
-- v.29 — ASV: "divided her, limb by limb, into twelve pieces" / NET: "carved her up into twelve pieces" / WEB: "divided her, together with her bones, into twelve pieces" — Hebrew "vay'nattacheha la'atsameha" = he cut her according to her bones/limbs into twelve pieces. The gruesome detail is preserved across all versions. The twelve pieces sent to twelve tribes is a call to assembly — a horrifying summons to corporate action (cf. 1 Samuel 11:7).
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

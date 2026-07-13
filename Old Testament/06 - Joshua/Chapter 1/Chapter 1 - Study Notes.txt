@@ -149,54 +149,95 @@ Charles Spurgeon:
   now arise and go forward. And what is his equipment? Not military
   training, not political cunning, but the Book of the Law in his mouth
   and the presence of God at his side. That is enough for any man."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "Moses' minister" / ESV: "Moses' assistant" — Hebrew
-       "mesharet Mosheh." "Mesharet" = one who serves, ministers, attends.
-       It denotes a personal attendant of high rank — not a menial servant
-       (which would be "eved") but a trusted aide. Joshua served Moses as
-       a disciple serves a master.
+v.1  — Hebrew "mesharet" — one who serves, ministers, attends; a personal attendant of high rank (not "eved"/menial servant) but a trusted aide.
+       KJV: "Moses' minister"
+       ESV: "Moses' assistant"
+       ASV: "Moses' minister"
+       NET: "the Lord's servant"
+       WEB: "Moses' servant"
+       Analysis: KJV/ASV retain the older English "minister" which captures the dignity of the role. ESV's "assistant" is accessible but slightly diminishes the rank. NET shifts the reference to "the Lord's servant" for Moses himself. WEB uses "servant" which loses the distinction between mesharet (high attendant) and eved (common servant). The Hebrew denotes a disciple-master relationship — Joshua served Moses as an apprentice in leadership.
 
-v.2  — KJV: "which I do give to them" / ESV: "that I am giving to them"
-       — Hebrew "asher ani noten lahem." The participle "noten" (giving)
-       indicates ongoing, present action — God is actively giving the land
-       NOW. It is both a completed act (v.3 "I have given") and a present
-       reality being unfolded.
+v.1  — Hebrew "YHWH" — the divine covenant name of God.
+       KJV: "the LORD"
+       ESV: "the LORD"
+       ASV: "Jehovah"
+       NET: "the Lord"
+       WEB: "Yahweh"
+       Analysis: ASV uses "Jehovah" and WEB uses "Yahweh" to render the divine name directly, while KJV/ESV follow the convention of substituting "the LORD" (small caps). NET drops the small-caps convention entirely, using "Lord" in standard case, making the divine name indistinguishable from the title "Adonai." This distinction appears throughout Joshua.
 
-v.4  — KJV: "shall be your coast" / ESV: "shall be your territory" —
-       Hebrew "g'vulkhem" = your border/territory. KJV's "coast" is
-       archaic English for "border" or "boundary," not a seashore. ESV's
-       "territory" is clearer for modern readers.
+v.2  — Hebrew "asher ani noten lahem" — the participle "noten" (giving) indicates ongoing, present action.
+       KJV: "which I do give to them"
+       ESV: "that I am giving to them"
+       ASV: "which I do give to them"
+       NET: "Get ready! Cross the Jordan River"
+       WEB: "which I am giving to them"
+       Analysis: KJV/ASV/ESV/WEB all preserve the participial form showing God actively giving the land NOW — both a completed act (v.3 "I have given") and a present reality being unfolded. NET uses dynamic equivalence ("Get ready!"), making God's command sound urgent and contemporary but losing the literal Hebrew "arise" (qum) and the theological emphasis on the ongoing nature of divine giving.
 
-v.5  — KJV: "I will not fail thee, nor forsake thee" / ESV: "I will not
-       leave you or forsake you" — Hebrew "lo arpe'ka v'lo e'ezavka."
-       "Raphah" = to let go, relax the grip, abandon. "Azav" = to leave,
-       forsake. Two different words for abandonment — God will neither
-       loosen His hold nor walk away. Hebrews 13:5 quotes this with five
-       negatives in Greek for emphasis.
+v.4  — Hebrew "g'vulkhem" — your border/territory.
+       KJV: "shall be your coast"
+       ESV: "shall be your territory"
+       ASV: "shall be your border"
+       NET: "will be your territory"
+       WEB: "shall be your border"
+       Analysis: KJV's "coast" is archaic English for "border" or "boundary," not a seashore. ESV/NET "territory" is clearest for modern readers. ASV/WEB "border" is literal and accurate. All convey the same meaning — the full extent of the Promised Land.
 
-v.7  — KJV: "that thou mayest prosper" / ESV: "that you may have good
-       success" — Hebrew "l'ma'an taskil." "Sakal" = to be prudent, act
-       wisely, prosper, have insight. It implies both wisdom in action and
-       the success that follows from wise action. True prosperity is the
-       fruit of obedience.
+v.5  — Hebrew "lo arpe'ka v'lo e'ezavka" — two different words for abandonment: "raphah" (to let go, relax the grip) and "azav" (to leave, forsake).
+       KJV: "I will not fail thee, nor forsake thee"
+       ESV: "I will not leave you or forsake you"
+       ASV: "I will not fail thee, nor forsake thee"
+       NET: "I will not abandon you or leave you alone"
+       WEB: "I will not fail you nor forsake you"
+       Analysis: God will neither loosen His hold (raphah) nor walk away (azav). KJV/ASV/WEB "fail...forsake" captures both Hebrew words distinctly. ESV "leave...forsake" is slightly redundant. NET "abandon...leave alone" conveys the meaning but loses the grip-releasing imagery of raphah. Hebrews 13:5 quotes this with five negatives in Greek for emphasis.
 
-v.8  — KJV: "thou shalt have good success" / ESV: "you will have good
-       success" — Hebrew "tatsliach." From "tsalach" = to rush, advance,
-       prosper, succeed. This is a different word from "sakal" in v.7.
-       Together they paint a full picture: wisdom (sakal) and advancement
-       (tsalach) — both come from meditating on God's Word.
+v.6  — Hebrew "nachalah" — inheritance, possession given by covenant promise.
+       KJV: "unto this people shalt thou divide for an inheritance the land"
+       ESV: "you shall cause this people to inherit the land"
+       ASV: "thou shalt cause this people to inherit the land"
+       NET: "You must lead these people in the conquest of this land"
+       WEB: "you shall cause this people to inherit the land"
+       Analysis: NET interprets "inherit" as "conquest," adding military connotation not present in the Hebrew. KJV/ASV/ESV/WEB preserve the inheritance (nachalah) language, which connects to God's covenant promise to the fathers. The land is a gift to be received, not merely a territory to be conquered.
 
-v.11 — KJV: "Prepare you victuals" / ESV: "Prepare your provisions" —
-       Hebrew "hakinu lakhem tsedah." "Tsedah" = provisions, food for a
-       journey. The manna would soon cease (Joshua 5:12); they must now
-       prepare natural food. The transition from miraculous provision to
-       normal means.
+v.7  — Hebrew "l'ma'an taskil" — "sakal" = to be prudent, act wisely, prosper, have insight.
+       KJV: "that thou mayest prosper"
+       ESV: "that you may have good success"
+       ASV: "that thou mayest have good success"
+       NET: "Then you will prosper"
+       WEB: "that you may deal wisely"
+       Analysis: "Sakal" implies both wisdom in action and the success that follows from wise action. WEB uniquely captures the wisdom dimension ("deal wisely"). KJV/NET focus on the prosperity outcome. ESV/ASV balance both with "good success." True prosperity is the fruit of obedience — all translations capture part of this rich word.
 
-v.14 — KJV: "all the mighty men of valour" / ESV: "all the men of valor"
-       — Hebrew "kol gibborey hachayil." "Gibbor" = mighty man, warrior.
-       "Chayil" = strength, valor, army. These are the fighting men — the
-       Transjordan tribes must send their warriors, not just token forces.
+v.8  — Hebrew "hagah" — to murmur, mutter, speak quietly to oneself; Hebrew "tatsliach" from "tsalach" = to rush, advance, prosper, succeed.
+       KJV: "thou shalt meditate therein day and night... thou shalt have good success"
+       ESV: "you shall meditate on it day and night... you will have good success"
+       ASV: "thou shalt meditate therein day and night... thou shalt have good success"
+       NET: "You must memorize it day and night... Then you will be successful"
+       WEB: "you shall meditate on it day and night... you shall deal wisely"
+       Analysis: NET renders "hagah" (meditate/murmur) as "memorize," losing the Hebrew concept of vocal, repetitive meditation. Hebrew meditation is not silent emptying of the mind but active, verbal repetition and reflection on God's Word. KJV/ASV/ESV/WEB preserve "meditate," which implies speaking and pondering. "Tsalach" (success/advancement) is a different word from "sakal" in v.7 — together they paint a full picture: wisdom (sakal) and advancement (tsalach), both from meditating on God's Word.
+
+v.9  — Hebrew "al techat" — do not be shattered/dismayed.
+       KJV: "be not afraid, neither be thou dismayed"
+       ESV: "Do not be frightened, and do not be dismayed"
+       ASV: "be not affrighted, neither be thou dismayed"
+       NET: "Don't be afraid and don't panic"
+       WEB: "Don't be afraid. Don't be dismayed"
+       Analysis: NET uses colloquial "don't panic" for "al techat" (dismayed/shattered). ASV's archaic "affrighted" is less accessible but dignified. KJV/ESV/WEB preserve the formal weight of the divine command. The basis for courage: "the LORD your God is with you wherever you go" — God's presence is the answer to every fear.
+
+v.11 — Hebrew "hakinu lakhem tsedah" — "tsedah" = provisions, food for a journey.
+       KJV: "Prepare you victuals"
+       ESV: "Prepare your provisions"
+       ASV: "Prepare you victuals"
+       NET: "Pack your supplies"
+       WEB: "Prepare food"
+       Analysis: KJV/ASV's "victuals" is archaic but precise. ESV "provisions" and NET "supplies" are modern and clear. WEB's "food" is simplest. NET again inserts "begin the conquest of the land" where the Hebrew uses "yarash" (to possess/inherit). WEB and KJV preserve the theological concept that the land is an inheritance to be possessed, not merely a military objective. The manna would soon cease (Joshua 5:12) — the transition from miraculous provision to normal means.
+
+v.14 — Hebrew "kol gibborey hachayil" — "gibbor" = mighty man, warrior; "chayil" = strength, valor, army.
+       KJV: "all the mighty men of valour"
+       ESV: "all the men of valor"
+       ASV: "all the mighty men of valor"
+       NET: "all the warriors"
+       WEB: "all the mighty men of valor"
+       Analysis: KJV/ASV/WEB preserve both Hebrew words (gibbor + chayil) with "mighty men of valor." ESV drops "mighty" but retains "valor." NET simplifies to "warriors," losing the emphasis on both personal strength (gibbor) and martial excellence (chayil). These are elite fighting men — the Transjordan tribes must send their best warriors, not just token forces.
 
 GLOSSARY
 ------------------------------------
@@ -230,16 +271,6 @@ Meditate       — Hebrew "hagah." To murmur, mutter, speak quietly to
                oneself. Hebrew meditation is not silent emptying of the
                mind but active, verbal repetition and reflection on
                God's Word. Cf. Psalm 1:2.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV/WEB: "Jehovah"/"Yahweh" vs. KJV/ESV: "the LORD" — ASV uses "Jehovah" and WEB uses "Yahweh" to render the divine name (YHWH) directly, while KJV/ESV follow the convention of substituting "the LORD" (small caps). This distinction appears throughout Joshua.
-- v.1 — NET: "the Lord's servant" / ASV: "the servant of Jehovah" / KJV: "the servant of the LORD" — NET drops the small-caps convention entirely, using "Lord" in standard case, making the divine name indistinguishable from the title "Adonai."
-- v.2 — NET: "Get ready! Cross the Jordan River" / KJV: "arise, go over this Jordan" — NET uses dynamic equivalence, making God's command sound urgent and contemporary ("Get ready!"), while KJV/ASV/WEB retain the literal Hebrew "arise" (qum), preserving the imagery of standing up to take action.
-- v.6 — NET: "You must lead these people in the conquest of this land" / KJV: "unto this people shalt thou divide for an inheritance the land" / ASV: "thou shalt cause this people to inherit the land" — NET interprets "inherit" as "conquest," adding military connotation. KJV/ASV/WEB preserve the inheritance (nachalah) language, which connects to God's covenant promise to the fathers.
-- v.8 — NET: "This law scroll must not leave your lips. You must memorize it day and night" / KJV: "thou shalt meditate therein day and night" / WEB: "you shall meditate on it day and night" — NET renders "hagah" (meditate/murmur) as "memorize," losing the Hebrew concept of vocal, repetitive meditation. ASV/WEB/KJV preserve "meditate," which implies speaking and pondering, not mere mental recall.
-- v.9 — NET: "Don't be afraid and don't panic" / KJV: "be not afraid, neither be thou dismayed" / ASV: "be not affrighted, neither be thou dismayed" — NET uses colloquial "don't panic" for Hebrew "al techat" (dismayed/shattered). ASV's archaic "affrighted" and KJV's "afraid" are more literal but less accessible.
-- v.11 — NET: "begin the conquest of the land" / WEB: "to go in to possess the land" / KJV: "to go in to possess the land" — NET again inserts "conquest" language where the Hebrew uses "yarash" (to possess/inherit). WEB and KJV preserve the theological concept that the land is an inheritance to be possessed, not merely a military objective.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

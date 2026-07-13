@@ -148,54 +148,144 @@ Charles Spurgeon:
   we can manage them, use them, profit from them — but they will manage
   us. Every sin left alive in the heart will grow stronger while we grow
   weaker. Drive them out utterly, or they will drive you out."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "the children of Israel asked the LORD" / ESV: "the people
-       of Israel inquired of the LORD" — Hebrew "vayish'alu b'nei-Yisrael
-       ba'Adonai." "Sha'al" = to ask, inquire. This likely involved the
-       Urim and Thummim through the high priest — the appointed means of
-       divine inquiry.
+v.1  — Hebrew "vayish'alu b'nei-Yisrael ba'Adonai" — to ask, inquire.
+       KJV: "the children of Israel asked the LORD"
+       ESV: "the people of Israel inquired of the LORD"
+       ASV: "the children of Israel asked of Jehovah"
+       NET: "the Israelites asked the Lord"
+       WEB: "the children of Israel asked of Yahweh"
+       Analysis: "Sha'al" = to ask, inquire — likely involved the Urim
+       and Thummim through the high priest. ASV uses "Jehovah," WEB uses
+       "Yahweh" (closest to Hebrew pronunciation), NET/KJV use "the
+       LORD/Lord." This distinction recurs throughout Judges wherever the
+       covenant name appears.
 
-v.7  — KJV: "Threescore and ten kings" / ESV: "Seventy kings" — Same
-       Hebrew number. KJV uses the archaic English counting system.
-       "Requited" (KJV) vs. "repaid" (ESV) — Hebrew "shillem" = to
-       repay, recompense. Both translations capture the lex talionis
-       (law of retribution) that Adoni-bezek acknowledges.
+v.7  — Hebrew "shillem" — to repay, recompense.
+       KJV: "Threescore and ten kings... as I have done, so God hath requited me"
+       ESV: "Seventy kings... as I have done, so God has repaid me"
+       ASV: "Threescore and ten kings... as I have done, so God hath requited me"
+       NET: "Seventy kings... God has repaid me for what I did to them"
+       WEB: "Seventy kings... as I have done, so God has repaid me"
+       Analysis: Same Hebrew number; KJV/ASV use archaic "threescore and
+       ten." "Requited" (KJV/ASV) vs. "repaid" (ESV/WEB/NET) — Hebrew
+       "shillem" = to repay, recompense. All capture the lex talionis
+       (law of retribution) that Adoni-bezek acknowledges. NET adds
+       explanatory expansion.
 
-v.14 — KJV: "she lighted from off her ass" / ESV: "she dismounted from
-       her donkey" — Hebrew "vatitsnach me'al hachamor." "Tsanach" = to
-       alight, dismount. The action signals she has a request — a gesture
-       of respect and petition before her father.
+v.14 — Hebrew "vatitsnach me'al hachamor" — to alight, dismount.
+       KJV: "she lighted from off her ass"
+       ESV: "she dismounted from her donkey"
+       ASV: "she lighted from off her ass"
+       NET: "she charmed her father so she could ask him for some land"
+       WEB: "she alighted from off her donkey"
+       Analysis: "Tsanach" = to alight, dismount. The action signals she
+       has a request — a gesture of respect and petition before her father.
+       NET interprets "vatesithehu" differently — reading Achsah as
+       persuading her father directly rather than dismounting. KJV/ASV
+       retain archaic "lighted" and "ass"; ESV/WEB modernize the language.
+       The subject and object of persuasion differ significantly in NET.
 
-v.15 — KJV: "the nether springs" / ESV: "the lower springs" — Hebrew
-       "gullot tachtiyyot." "Nether" is archaic English for "lower."
-       Caleb gives generously — both upper and lower springs, ensuring
-       adequate water in the arid Negeb.
+v.15 — Hebrew "gullot tachtiyyot" — lower springs.
+       KJV: "the upper springs, and the nether springs"
+       ESV: "the upper springs and the lower springs"
+       ASV: "the upper springs and the nether springs"
+       NET: "the upper and lower springs"
+       WEB: "the upper springs and the lower springs"
+       Analysis: "Nether" (KJV/ASV) is archaic English for "lower." All
+       translations agree on the meaning. Caleb gives generously — both
+       upper and lower springs, ensuring adequate water in the arid Negeb.
 
-v.19 — KJV: "could not drive out" / ESV: "could not drive out" — Hebrew
-       "lo horishh." The Hiphil of "yarash" = to dispossess. The text
-       says Judah could not — but the theological question is whether
-       this was inability or unwillingness. Given that God promised the
-       entire land (v.2), the failure was in faith, not in God's power.
-       Iron chariots are nothing to the God who parted the Red Sea.
+v.17 — Hebrew "hecharim" — devoted to destruction (cherem/herem).
+       KJV: "they utterly destroyed it"
+       ESV: "they devoted it to destruction"
+       ASV: "they utterly destroyed it"
+       NET: "they wiped out Zephath"
+       WEB: "they utterly destroyed it"
+       Analysis: NET uses dynamic equivalence ("wiped out") losing the
+       covenantal warfare concept of devoting a city to God through total
+       destruction. The term herem is central to Judges' theology of holy
+       war. KJV/ASV/WEB retain the emphatic "utterly destroyed"; ESV
+       preserves the technical theological term "devoted to destruction."
 
-v.27 — KJV: "the Canaanites would dwell in that land" / ESV: "the
-       Canaanites persisted in dwelling in that land" — Hebrew "vayo'el
-       haK'na'ani lashevet." "Ya'al" = to be determined, to persist.
-       The Canaanites were determined to stay — and Israel lacked the
-       determination to remove them.
+v.19 — Hebrew "lo horishh... rikbey barzel" — could not dispossess...
+       chariots of iron.
+       KJV: "could not drive out the inhabitants of the valley, because they had chariots of iron"
+       ESV: "he could not drive out the inhabitants of the plain because they had chariots of iron"
+       ASV: "could not drive out the inhabitants of the valley, for they had chariots of iron"
+       NET: "he could not conquer the occupants of the valley because they had chariots with iron-rimmed wheels"
+       WEB: "could not drive out the inhabitants of the valley, because they had chariots of iron"
+       Analysis: The Hiphil of "yarash" = to dispossess. NET adds
+       interpretive detail ("iron-rimmed wheels") not explicit in Hebrew
+       "rikbey barzel" — the Hebrew simply says "chariots of iron." The
+       theological question is whether this was inability or unwillingness.
+       Given God's promise of the entire land (v.2), the failure was in
+       faith, not in God's power. Iron chariots are nothing to the God
+       who parted the Red Sea.
 
-v.28 — KJV: "did not utterly drive them out" / ESV: "did not drive them
-       out completely" — Hebrew "v'horeysh lo horisho." The emphatic
-       construction (infinitive absolute + finite verb) stresses the
-       completeness of the failure. They did NOT completely dispossess.
+v.24 — Hebrew "shomerim" — watchers/guards.
+       KJV: "the spies saw a man"
+       ESV: "the spies saw a man"
+       ASV: "the watchers saw a man"
+       NET: "the spies spotted a man"
+       WEB: "the watchers saw a man"
+       Analysis: "Shomerim" literally means "watchers/guards." NET and
+       KJV/ESV interpret as "spies" while ASV/WEB retain the more literal
+       "watchers." The distinction matters: were they intelligence
+       operatives or sentries observing?
 
-v.32 — KJV: "the Asherites dwelt among the Canaanites" / ESV: "the
-       Asherites lived among the Canaanites" — Note the reversal from
-       earlier verses where "the Canaanites dwelt among them." Now
-       Asher is the minority — they live among the Canaanites rather
-       than the Canaanites living among them. The language signals
-       complete failure.
+v.27 — Hebrew "vayo'el haK'na'ani lashevet" — the Canaanites persisted
+       in dwelling.
+       KJV: "the Canaanites would dwell in that land"
+       ESV: "the Canaanites persisted in dwelling in that land"
+       ASV: "the Canaanites would dwell in that land"
+       NET: "the Canaanites managed to remain in those cities"
+       WEB: "the Canaanites would dwell in that land"
+       Analysis: "Ya'al" = to be determined, to persist. ESV captures the
+       persistence most clearly. NET's "managed to remain" adds nuance of
+       successful resistance. The Canaanites were determined to stay — and
+       Israel lacked the determination to remove them.
+
+v.28 — Hebrew "v'horeysh lo horisho" — emphatic: did NOT completely
+       dispossess.
+       KJV: "did not utterly drive them out"
+       ESV: "did not drive them out completely"
+       ASV: "did not utterly drive them out"
+       NET: "they did not conquer them"
+       WEB: "didn't utterly drive them out"
+       Analysis: The emphatic construction (infinitive absolute + finite
+       verb) stresses the completeness of the failure. Hebrew "mas" =
+       corvée labor. KJV's "put to tribute" suggests financial payment;
+       ASV's "put to taskwork" and WEB/NET's "forced labor" better capture
+       the Hebrew concept of compulsory labor service. Israel chose
+       economic benefit over spiritual obedience.
+
+v.32 — Hebrew "vayyeshev ha-Asheri b'qerev haK'na'ani" — the Asherites
+       dwelt among the Canaanites.
+       KJV: "the Asherites dwelt among the Canaanites"
+       ESV: "the Asherites lived among the Canaanites"
+       ASV: "the Asherites dwelt among the Canaanites"
+       NET: "the people of Asher lived among the Canaanites"
+       WEB: "the Asherites lived among the Canaanites"
+       Analysis: Note the reversal from earlier verses where "the
+       Canaanites dwelt among them." Now Asher is the minority — they
+       live among the Canaanites rather than the Canaanites living among
+       them. The language signals complete failure. All translations
+       preserve this devastating reversal.
+
+v.34 — Hebrew "vayilchatzu ha-Emori et-b'ney-Dan ha-harah" — the
+       Amorites forced Dan into the hill country.
+       KJV: "the Amorites forced the children of Dan into the mountain"
+       ESV: "the Amorites pressed the people of Dan back into the hill country"
+       ASV: "the Amorites forced the children of Dan into the hill-country"
+       NET: "the Amorites forced the people of Dan to live in the hill country"
+       WEB: "the Amorites forced the children of Dan into the hill country"
+       Analysis: NET adds interpretive "to live in," making explicit what
+       is implied. All capture the devastating reversal: instead of Israel
+       driving out the enemy, the enemy drives out Israel. Dan is pushed
+       back, dominated, confined — the ultimate consequence of tolerated
+       compromise.
 
 GLOSSARY
 ------------------------------------
@@ -225,22 +315,6 @@ Kenites        — Descendants of Moses' father-in-law (Jethro/Hobab).
                A nomadic people who allied with Israel and settled in
                Judah's territory. They remained faithful allies
                throughout Israel's history (cf. 1 Samuel 15:6).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "asked of Jehovah" / WEB: "asked of Yahweh" / NET: "asked the Lord" — The divine name YHWH is rendered distinctly in each: ASV uses "Jehovah," WEB uses "Yahweh" (closest to Hebrew pronunciation), NET/KJV use "the LORD/Lord." This distinction recurs throughout Judges wherever the covenant name appears.
-
-- v.17 — KJV: "utterly destroyed it" / NET: "wiped out Zephath" / ASV/WEB: "utterly destroyed it" — Hebrew "hecharim" (devoted to destruction, cherem/herem). NET uses dynamic equivalence ("wiped out") losing the covenantal warfare concept of devoting a city to God through total destruction. The term herem is central to Judges' theology of holy war.
-
-- v.19 — NET: "they had chariots with iron-rimmed wheels" / KJV/ASV/WEB: "chariots of iron" — NET adds interpretive detail ("iron-rimmed wheels") not explicit in Hebrew "rikbey barzel." The Hebrew simply says "chariots of iron." NET's expansion clarifies the military technology but goes beyond the literal text.
-
-- v.24 — NET: "the spies spotted a man" / ASV/WEB: "the watchers saw a man" / KJV: "the spies saw a man" — Hebrew "shomerim" literally means "watchers/guards." NET and KJV interpret as "spies" while ASV/WEB retain the more literal "watchers." The distinction matters: were they intelligence operatives or sentries observing?
-
-- v.28 — ASV: "put the Canaanites to taskwork" / WEB: "put the Canaanites to forced labor" / NET: "forced the Canaanites to do hard labor" / KJV: "put the Canaanites to tribute" — Hebrew "mas" = corvée labor. KJV's "tribute" suggests financial payment; ASV's "taskwork" and WEB/NET's "forced labor" better capture the Hebrew concept of compulsory labor service.
-
-- v.34 — NET: "The Amorites forced the people of Dan to live in the hill country" / WEB: "forced the children of Dan into the hill country" — NET adds interpretive "to live in," making explicit what is implied. Both capture the devastating reversal: the enemy pushes Israel back rather than Israel driving out the enemy.
-
-- v.14 — NET: "she charmed her father so she could ask him for some land" / KJV: "she moved him to ask of her father a field" / ASV: "she moved him to ask of her father a field" — Hebrew "vatesithehu" is debated. NET interprets Achsah as persuading her father directly; KJV/ASV suggest she urged her husband to ask. The subject and object of persuasion differ significantly between translations.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

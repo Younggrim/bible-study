@@ -156,52 +156,71 @@ Charles Spurgeon:
   gift. How often we grasp in sin what God would have given in grace —
   if only we had waited for His timing. Patience receives freely what
   impatience steals at terrible cost."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "Fear not, neither be thou dismayed" / ESV: "Do not fear and
-       do not be dismayed" — Hebrew "al tira v'al techat." The same pair
-       of commands from 1:9. After the Ai disaster, Joshua needs to hear
-       these words again. God repeats His encouragement after failure.
+v.1  — Hebrew "al tira v'al techat" — the same pair of commands from 1:9; "techat" = do not be dismayed/shattered.
+       KJV: "Fear not, neither be thou dismayed"
+       ESV: "Do not fear and do not be dismayed"
+       ASV: "Fear not, neither be thou dismayed"
+       NET: "Don't be afraid and don't panic!"
+       WEB: "Don't be afraid, and don't be dismayed"
+       Analysis: NET's "don't panic" is colloquial where Hebrew "al techat" suggests deeper spiritual dissolution. KJV/ASV/ESV/WEB's "dismayed" better captures the weight of Israel's situation after defeat. After the Ai disaster, Joshua needs to hear these words again. God repeats His encouragement after failure. NET also uses present continuous "I am handing over" where Hebrew uses the perfect tense (natatti — "I have given"), again weakening the declared certainty.
 
-v.2  — KJV: "lay thee an ambush for the city behind it" / ESV: "Lay an
-       ambush against the city, behind it" — Hebrew "sim l'kha orev la-ir
-       me-achareha." God Himself prescribes the military tactic. This is
-       not human cunning but divinely directed strategy. God is not
-       opposed to using means — He directs them.
+v.2  — Hebrew "sim l'kha orev la-ir me-achareha" — God prescribes the ambush tactic directly.
+       KJV: "lay thee an ambush for the city behind it"
+       ESV: "Lay an ambush against the city, behind it"
+       ASV: "lay thee an ambush for the city behind it"
+       NET: "Set an ambush behind the city"
+       WEB: "lay an ambush for the city behind it"
+       Analysis: All translations convey the same meaning. God Himself prescribes the military tactic — this is not human cunning but divinely directed strategy. God is not opposed to using means; He directs them. The difference from Jericho is notable: there, pure miracle; here, divinely guided tactics.
 
-v.18 — KJV: "Stretch out the spear that is in thy hand" / ESV: "Stretch
-       out the javelin that is in your hand" — Hebrew "n'teh ba-kidon
-       asher b'yadkha." "Kidon" = javelin, short spear, scimitar (the
-       exact weapon is debated). The gesture parallels Moses stretching
-       his rod over the Red Sea (Exodus 14:16) and holding his hands up
-       at Rephidim (Exodus 17:11).
+v.18 — Hebrew "n'teh ba-kidon asher b'yadkha" — "kidon" = javelin, short spear, scimitar (exact weapon debated).
+       KJV: "Stretch out the spear that is in thy hand"
+       ESV: "Stretch out the javelin that is in your hand"
+       ASV: "Stretch out the javelin that is in thy hand toward Ai"
+       NET: "Hold out toward Ai the curved sword in your hand"
+       WEB: "Stretch out the javelin that is in your hand toward Ai"
+       Analysis: Hebrew "kidon" is debated: javelin, lance, curved sword, or scimitar. NET's "curved sword" is one interpretation; KJV "spear" and ASV/ESV/WEB "javelin" are others. The gesture parallels Moses stretching his rod over the Red Sea (Exodus 14:16) and holding his hands up at Rephidim (Exodus 17:11) — a visible sign of divine authority directing the battle.
 
-v.28 — KJV: "made it an heap for ever" / ESV: "made it forever a heap of
-       ruins" — Hebrew "tel olam." "Tel" = a mound, ruin-heap. The word
-       "tel" is still used in archaeology for ancient ruin mounds (e.g.,
-       Tel Aviv = "mound of spring"). Ai became a permanent ruin — its
-       very name means "ruin."
+v.26 — Hebrew "cherem" — devoted to destruction as sacred judgment.
+       KJV: "until he had utterly destroyed all the inhabitants of Ai"
+       ESV: "until he had devoted all the inhabitants of Ai to destruction"
+       ASV: "until he had utterly destroyed all the inhabitants of Ai"
+       NET: "until Israel had annihilated all who lived in Ai"
+       WEB: "until he had utterly destroyed all the inhabitants of Ai"
+       Analysis: NET uses "annihilated" while KJV/ASV/WEB use "utterly destroyed" and ESV uses "devoted to destruction." The herem concept is sacred judgment, not mere military annihilation. ESV best preserves the theological dimension.
 
-v.29 — KJV: "hanged on a tree until eventide" / ESV: "hanged... on a
-       tree until evening" — Hebrew "talah al ha-ets." "Talah" = to hang,
-       suspend. Public display of the defeated king — but removed at
-       sunset per Deuteronomy 21:22-23. Paul applies this law to Christ's
-       crucifixion (Galatians 3:13).
+v.28 — Hebrew "tel olam" — "tel" = a mound, ruin-heap. The archaeological term comes from this very Hebrew word.
+       KJV: "made it an heap for ever"
+       ESV: "made it forever a heap of ruins"
+       ASV: "made it a heap for ever, even a desolation"
+       NET: "made it a permanently uninhabited mound"
+       WEB: "made it a heap forever, even a desolation"
+       Analysis: NET interprets "tel olam" (eternal mound/heap) as "permanently uninhabited mound." KJV/ASV/ESV/WEB preserve "heap forever." The word "tel" is still used in archaeology for ancient ruin mounds (e.g., Tel Aviv = "mound of spring"). Ai became a permanent ruin — its very name means "ruin."
 
-v.31 — KJV: "an altar of whole stones, over which no man hath lift up
-       any iron" / ESV: "an altar of uncut stones, upon which no man has
-       wielded an iron tool" — Hebrew "avanim sh'lemot asher lo henif
-       aleihen barzel." "Sh'lemot" = whole, complete, uncut. No human
-       tool shapes the altar — it must be natural, unmodified by human
-       effort. Human craftsmanship would "pollute" it (Exodus 20:25).
-       Worship is on God's terms, not adorned by human skill.
+v.29 — Hebrew "talah al ha-ets" — "talah" = to hang, suspend on a tree/pole.
+       KJV: "hanged on a tree until eventide"
+       ESV: "hanged... on a tree until evening"
+       ASV: "hanged on a tree until eventide"
+       NET: "hung on a tree until evening"
+       WEB: "hung on a tree until evening"
+       Analysis: All translations agree. Public display of the defeated king — but removed at sunset per Deuteronomy 21:22-23 ("cursed is everyone who hangs on a tree"). Paul applies this law to Christ's crucifixion (Galatians 3:13). The obedience to remove the body at evening shows Israel following God's law even in victory.
 
-v.33 — KJV: "as well the stranger, as he that was born among them" /
-       ESV: "sojourner as well as native born" — Hebrew "ka-ger ka-ezrach."
-       The covenant ceremony includes non-Israelites living among them.
-       God's law applies to all in the community — and all are welcome
-       to hear it. This inclusivity foreshadows the gospel going to all
-       nations.
+v.31 — Hebrew "avanim sh'lemot asher lo henif aleihen barzel" — "sh'lemot" = whole, complete, uncut; "sh'lamim" = peace offerings.
+       KJV: "an altar of whole stones, over which no man hath lift up any iron"
+       ESV: "an altar of uncut stones, upon which no man has wielded an iron tool"
+       ASV: "an altar of unhewn stones, upon which no man had lifted up any iron"
+       NET: "an altar of uncut stones untouched by an iron tool"
+       WEB: "an altar of uncut stones, on which no man had lifted up any iron"
+       Analysis: All translations capture the essential meaning. KJV's "whole stones" and ESV/ASV/NET/WEB's "uncut/unhewn stones" both render "sh'lemot." No human tool shapes the altar — worship is on God's terms, not adorned by human skill (Exodus 20:25). NET renders "sh'lamim" as "tokens of peace" elsewhere — an unusual rendering that loses the connection to "shalom" (wholeness/peace) and communion with God.
+
+v.33 — Hebrew "ka-ger ka-ezrach" — sojourner and native-born alike.
+       KJV: "as well the stranger, as he that was born among them"
+       ESV: "sojourner as well as native born"
+       ASV: "as well the sojourner as the home-born"
+       NET: "resident aliens and citizens alike"
+       WEB: "the foreigner as well as the native"
+       Analysis: NET's "resident aliens and citizens" is modern legal language; KJV "stranger" is archaic; ESV/ASV/WEB "sojourner/foreigner" is accurate. The covenant ceremony includes non-Israelites living among them. God's law applies to all in the community — and all are welcome to hear it. This inclusivity foreshadows the gospel going to all nations.
 
 GLOSSARY
 ------------------------------------
@@ -239,15 +258,6 @@ Blessings and Curses — The covenant sanctions of Deuteronomy 28. Blessings
                for obedience (28:1-14); curses for disobedience (28:15-68).
                Read publicly so all Israel knows the terms of the covenant
                under which they possess the land.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "Jehovah said unto Joshua, Fear not, neither be thou dismayed" / WEB: "Yahweh said to Joshua, 'Don't be afraid, and don't be dismayed'" / NET: "The Lord told Joshua, 'Don't be afraid and don't panic!'" — NET's "don't panic" is colloquial where Hebrew "al techat" (do not be dismayed/shattered) suggests deeper spiritual dissolution. KJV/ASV/WEB's "dismayed" better captures the weight of Israel's situation after defeat.
-- v.1 — NET: "I am handing over to you the king of Ai" / KJV: "I have given into thy hand the king of Ai" / ASV: "I have given into thy hand the king of Ai" — NET again uses present continuous where Hebrew uses the perfect tense (natatti — I have given). The perfect tense declares the victory already accomplished in God's decree.
-- v.18 — NET: "Hold out toward Ai the curved sword in your hand" / KJV: "Stretch out the spear that is in thy hand toward Ai" / ASV: "Stretch out the javelin that is in thy hand toward Ai" / WEB: "Stretch out the javelin that is in your hand toward Ai" — Hebrew "kidon" is debated: javelin, lance, curved sword, or scimitar. NET's "curved sword" is one interpretation; KJV "spear" and ASV/WEB "javelin" are others. The gesture parallels Moses raising his rod over the Red Sea (Exodus 14:16).
-- v.26 — ASV: "until he had utterly destroyed all the inhabitants of Ai" / WEB: "until he had utterly destroyed all the inhabitants of Ai" / NET: "until Israel had annihilated all who lived in Ai" — The Hebrew "cherem" (devoted to destruction) appears again. NET uses "annihilated" while ASV/WEB use "utterly destroyed." The "herem" concept is sacred judgment, not mere military annihilation.
-- v.28 — NET: "Joshua burned Ai and made it a permanently uninhabited mound" / KJV: "Joshua burnt Ai, and made it an heap for ever" / ASV: "Joshua burnt Ai, and made it a heap for ever, even a desolation" / WEB: "Joshua burned Ai, and made it a heap forever, even a desolation" — NET interprets "tel olam" (eternal mound/heap) as "permanently uninhabited mound." KJV/ASV/WEB preserve "heap forever" — the archaeological term "tel" (artificial mound) comes from this very Hebrew word.
-- v.31 — NET: "sacrificed tokens of peace" / KJV: "sacrificed peace offerings" / ASV: "sacrificed peace-offerings" / WEB: "sacrificed peace offerings" — NET's "tokens of peace" is an unusual rendering of "sh'lamim" (peace offerings/fellowship offerings). The standard term connects to "shalom" (wholeness/peace) and denotes communion with God, not mere diplomatic tokens.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

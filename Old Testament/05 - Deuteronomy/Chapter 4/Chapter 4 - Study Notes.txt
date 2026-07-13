@@ -176,54 +176,76 @@ Charles Spurgeon:
   programs or our numbers but in the nearness of Christ. 'Lo, I am with
   you always' — that is our glory."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "statutes and judgments" / ESV: "statutes and rules" — Hebrew
-       "chuqqim u-mishpatim." "Chuqqim" = statutes/decrees (inscribed
-       laws); "mishpatim" = judgments/rulings (case law). KJV's "judgments"
-       is more literal; ESV's "rules" is more accessible.
+v.1  — Hebrew "chuqqim u-mishpatim." — "Chuqqim" = statutes/decrees (inscribed laws).
+       KJV: "statutes and judgments"
+       ESV: "statutes and rules"
+       Analysis: Hebrew "chuqqim u-mishpatim." "Chuqqim" = statutes/decrees (inscribed laws); "mishpatim" = judgments/rulings (case law). KJV's "judgments" is more literal; ESV's "rules" is more accessible.
 
-v.2  — KJV: "neither shall ye diminish ought from it" / ESV: "nor take
-       from it" — Hebrew "v'lo tigr'u mimmennu." "Gara" = to diminish, to
-       subtract. The word of God is complete — nothing to add, nothing to
-       remove.
+v.2  — Hebrew "v'lo tigr'u mimmennu." — "Gara" = to diminish, to subtract.
+       KJV: "neither shall ye diminish ought from it"
+       ESV: "nor take from it"
+       ASV: "ye shall observe to do as Jehovah your God hath commanded you"
+       NET: "you must be careful to do as the Lord your God has commanded you"
+       WEB: "you shall observe to do as Yahweh your God has commanded you"
+       Analysis: Hebrew "v'lo tigr'u mimmennu." "Gara" = to diminish, to subtract. The word of God is complete — nothing to add, nothing to remove. not casual compliance but intentional obedience.
 
-v.6  — KJV: "this is your wisdom and your understanding" / ESV: "that
-       will be your wisdom and your understanding" — Hebrew "hi
-       chochmat'chem u-vinat'chem." Obedience to God's law IS wisdom —
-       not merely leads to it.
+v.6  — Hebrew "hi chochmat'chem u-vinat'chem." — Obedience to God's law IS wisdom.
+       KJV: "this is your wisdom and your understanding"
+       ESV: "that will be your wisdom and your understanding"
+       Analysis: Hebrew "hi chochmat'chem u-vinat'chem." Obedience to God's law IS wisdom — not merely leads to it.
 
-v.11 — KJV: "the mountain burned with fire unto the midst of heaven" /
-       ESV: "the mountain burned with fire to the heart of heaven" —
-       Hebrew "ad lev ha-shamayim." "Lev" = heart/midst. The fire reached
-       to the very heart of the sky — a terrifying theophany.
+v.7  — present, accessible, responsive.
+       ASV: "what great nation is there, that hath a god so nigh unto them"
+       NET: "what great nation has a god so near to them"
+       WEB: "what great nation is there, that has a god so near to them"
+       Analysis: present, accessible, responsive. Proximity is the privilege.
 
-v.12 — KJV: "saw no similitude" / ESV: "saw no form" — Hebrew "t'munah."
-       This word means form, likeness, representation. God had no visible
-       shape — only voice. This is the theological basis for the second
-       commandment.
+v.11  — Hebrew "ad lev ha-shamayim." — "Lev" = heart/midst.
+       KJV: "the mountain burned with fire unto the midst of heaven"
+       ESV: "the mountain burned with fire to the heart of heaven"
+       Analysis: Hebrew "ad lev ha-shamayim." "Lev" = heart/midst. The fire reached to the very heart of the sky — a terrifying theophany.
 
-v.19 — KJV: "which the LORD thy God hath divided unto all nations" / ESV:
-       "things that the LORD your God has allotted to all the peoples" —
-       Hebrew "asher chalaq YHWH." God "allotted" the heavenly bodies to
-       the nations — not for worship but for light and seasons. The nations
-       corrupted this by worshiping the creation rather than the Creator.
+v.12  — Hebrew "t'munah." — form, likeness, representation.
+       KJV: "saw no similitude"
+       ESV: "saw no form"
+       ASV: "ye saw no form"
+       NET: "you saw no form"
+       WEB: "you saw no kind of form"
+       Analysis: Hebrew "t'munah." This word means form, likeness, representation. God had no visible shape — only voice. This is the theological basis for the second commandment. He cannot be reduced to form.
 
-v.20 — KJV: "the iron furnace" / ESV: "the iron furnace" — Hebrew "kur
-       ha-barzel." A smelting furnace for iron — the hottest, most intense
-       furnace. Egypt was a place of extreme suffering that refined Israel
-       as metal is refined by fire.
+v.19  — Hebrew "asher chalaq YHWH." — God "allotted" the heavenly bodies to the nations.
+       KJV: "which the LORD thy God hath divided unto all nations"
+       ESV: "things that the LORD your God has allotted to all the peoples"
+       Analysis: Hebrew "asher chalaq YHWH." God "allotted" the heavenly bodies to the nations — not for worship but for light and seasons. The nations corrupted this by worshiping the creation rather than the Creator.
 
-v.24 — KJV: "a consuming fire, even a jealous God" / ESV: "a consuming
-       fire, a jealous God" — Hebrew "esh okhelah... El qanna." "Okhelah"
-       = devouring/consuming. "Qanna" = jealous/zealous. God's jealousy is
-       not insecurity but the righteous demand of a husband for exclusive
-       devotion from His bride.
+v.20  — Hebrew "kur ha-barzel." — A smelting furnace for iron — the hottest, most intense furnace.
+       KJV: "the iron furnace"
+       ESV: "the iron furnace"
+       Analysis: Hebrew "kur ha-barzel." A smelting furnace for iron — the hottest, most intense furnace. Egypt was a place of extreme suffering that refined Israel as metal is refined by fire.
 
-v.29 — KJV: "if thou seek him with all thy heart and with all thy soul" /
-       ESV: "if you search after him with all your heart and with all your
-       soul" — Hebrew "b'chol l'vav'cha u-v'chol nafsh'cha." Wholehearted
-       seeking — not casual inquiry but desperate pursuit.
+v.24  — Hebrew "esh okhelah... El qanna." — "Okhelah" = devouring/consuming. "Qanna" = jealous/zealous.
+       KJV: "a consuming fire, even a jealous God"
+       ESV: "a consuming fire, a jealous God"
+       ASV: "Jehovah thy God is a devouring fire, a jealous God"
+       NET: "the Lord your God is a consuming fire; he is a jealous God"
+       WEB: "Yahweh your God is a consuming fire, a jealous God"
+       Analysis: Hebrew "esh okhelah... El qanna." "Okhelah" = devouring/consuming. "Qanna" = jealous/zealous. God's jealousy is not insecurity but the righteous demand of a husband for exclusive devotion from His bride. God's exclusive demand for worship is not insecurity but love's proper possessiveness.
+
+v.29  — Hebrew "b'chol l'vav'cha u-v'chol nafsh'cha." — Wholehearted seeking.
+       KJV: "if thou seek him with all thy heart and with all thy soul"
+       ESV: "if you search after him with all your heart and with all your soul"
+       ASV: "thou shalt find him, when thou searchest after him with all thy heart and with all thy soul"
+       NET: "you will find him if you seek him with your whole heart and soul"
+       WEB: "you shall find him, when you search after him with all your heart and with all your soul"
+       Analysis: Hebrew "b'chol l'vav'cha u-v'chol nafsh'cha." Wholehearted seeking — not casual inquiry but desperate pursuit. the same totality language of the Shema (6:5).
+
+v.31  — a compassionate/merciful God.
+       ASV: "Jehovah thy God is a merciful God"
+       NET: "the Lord your God is a merciful God"
+       WEB: "Yahweh your God is a merciful God"
+       Analysis: a compassionate/merciful God. After the terrifying "consuming fire" (v.24) comes the tender "merciful God." Both are equally true of YHWH.
 
 GLOSSARY
 ------------------------------------
@@ -258,19 +280,6 @@ Baal-peor      — The idol worshiped at Peor (Numbers 25). Israel's
                followed Baal-peor are dead; those who held fast to God
                are alive.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "you must be careful to do as the Lord your God has commanded you" / ASV: "ye shall observe to do as Jehovah your God hath commanded you" / WEB: "you shall observe to do as Yahweh your God has commanded you" — NET uses "be careful to do" for Hebrew "shemartem la'asot." The emphasis on careful observance is Deuteronomy's refrain — not casual compliance but intentional obedience.
-
-- v.7 — NET: "what great nation has a god so near to them" / ASV: "what great nation is there, that hath a god so nigh unto them" / WEB: "what great nation is there, that has a god so near to them" — The uniqueness of Israel's relationship with God. No other nation has a deity who is "near" (Hebrew "qarov") — present, accessible, responsive. Proximity is the privilege.
-
-- v.12 — NET: "you saw no form" / ASV: "ye saw no form" / WEB: "you saw no kind of form" — God spoke from the fire but revealed no visible shape. This grounds the prohibition of images (v.15-18). God's invisibility is not absence but transcendence — He cannot be reduced to form.
-
-- v.24 — NET: "the Lord your God is a consuming fire; he is a jealous God" / ASV: "Jehovah thy God is a devouring fire, a jealous God" / WEB: "Yahweh your God is a consuming fire, a jealous God" — NET and WEB: "consuming fire"; ASV: "devouring fire" (Hebrew "esh oklah"). Both "jealous" (Hebrew "qanna") — God's exclusive demand for worship is not insecurity but love's proper possessiveness.
-
-- v.29 — NET: "you will find him if you seek him with your whole heart and soul" / ASV: "thou shalt find him, when thou searchest after him with all thy heart and with all thy soul" / WEB: "you shall find him, when you search after him with all your heart and with all your soul" — A promise of findability: God can always be found by the sincere seeker. "Whole heart and soul" — the same totality language of the Shema (6:5).
-
-- v.31 — NET: "the Lord your God is a merciful God" / ASV: "Jehovah thy God is a merciful God" / WEB: "Yahweh your God is a merciful God" — Hebrew "el rachum" — a compassionate/merciful God. After the terrifying "consuming fire" (v.24) comes the tender "merciful God." Both are equally true of YHWH.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

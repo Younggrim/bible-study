@@ -167,48 +167,91 @@ Charles Spurgeon:
   the guilty. Christ saves sinners who flee to Him — but those who
   presumptuously continue in sin find no shelter in His name."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3  — KJV: "Thou shalt prepare thee a way" / ESV: "You shall measure
-       the distances" — Hebrew "takhin l'kha ha-derekh." "Takhin" = to
-       prepare, establish. KJV emphasizes road preparation; ESV emphasizes
-       distance measurement. The Talmud records that roads to cities of
-       refuge were maintained, widened, and marked with signs.
+v.3  — Hebrew "takhin l'kha ha-derekh" — you shall prepare/establish the way.
+       KJV: "Thou shalt prepare thee a way"
+       ESV: "You shall measure the distances"
+       ASV: "Thou shalt prepare thee the way"
+       NET: "You shall maintain the roads"
+       WEB: "You shall prepare the way"
+       Analysis: KJV/ASV/WEB emphasize road preparation. ESV uniquely
+       renders as "measure the distances" — ensuring equal access from all
+       parts of the land. NET interprets as ongoing maintenance. The Talmud
+       records that roads to cities of refuge were maintained, widened, and
+       marked with signs. All translations convey the principle: access to
+       justice must be clear and unobstructed.
 
-v.4  — KJV: "killeth his neighbour ignorantly" / ESV: "kills his neighbor
-       unintentionally" — Hebrew "yakkeh et re'ehu bivli da'at." "Bivli
-       da'at" = without knowledge/intent. The key distinction: no prior
-       hatred, no intent to harm. Accidental, not premeditated.
+v.4  — Hebrew "yakkeh et re'ehu bivli da'at" — strikes his neighbor without knowledge/intent.
+       KJV: "killeth his neighbour ignorantly"
+       ESV: "kills his neighbor unintentionally"
+       ASV: "killeth his neighbor unawares"
+       NET: "accidentally kills his fellow citizen"
+       WEB: "kills his neighbor unintentionally"
+       Analysis: "Bivli da'at" = without knowledge/intent. KJV's "ignorantly"
+       and ASV's "unawares" emphasize lack of awareness. ESV/WEB use
+       "unintentionally" — emphasizing lack of purpose. NET modernizes with
+       "accidentally" and updates "neighbor" to "fellow citizen." The key
+       distinction: no prior hatred, no intent to harm.
 
-v.5  — KJV: "the head slippeth from the helve" / ESV: "the head slips
-       from the handle" — Hebrew "v'nashal ha-barzel min ha-etz." "Barzel"
-       = iron (the axe head). "Etz" = wood (the handle). KJV's "helve" is
-       an archaic word for axe handle.
+v.5  — Hebrew "v'nashal ha-barzel min ha-etz" — and the iron slips from the wood.
+       KJV: "the head slippeth from the helve"
+       ESV: "the head slips from the handle"
+       ASV: "the head slippeth from the helve"
+       NET: "the ax head flies off the handle"
+       WEB: "the head slips from the handle"
+       Analysis: "Barzel" = iron (the axe head). "Etz" = wood (the handle).
+       KJV/ASV retain archaic "helve" (= axe handle). ESV/WEB modernize to
+       "handle." NET adds vivid force: "flies off" rather than merely
+       "slips," emphasizing the unexpected violence of the accident.
 
-v.6  — KJV: "the avenger of the blood" / ESV: "the avenger of blood" —
-       Hebrew "go'el ha-dam." "Go'el" = kinsman-redeemer, the one who
-       restores/avenges for the family. The same word used of Boaz (Ruth)
-       and of God as Israel's Redeemer. The go'el ha-dam had the right/
-       duty to avenge a kinsman's death.
+v.6  — Hebrew "go'el ha-dam" — the redeemer/avenger of the blood.
+       KJV: "the avenger of the blood"
+       ESV: "the avenger of blood"
+       ASV: "the avenger of blood"
+       NET: "the avenger of blood"
+       WEB: "the avenger of blood"
+       Analysis: Near-unanimous translation. "Go'el" = kinsman-redeemer, the
+       one who restores/avenges for the family. The same word used of Boaz
+       (Ruth) and of God as Israel's Redeemer. The go'el ha-dam had the
+       right/duty to avenge a kinsman's death. KJV alone adds the article
+       ("the blood") — a minor variation.
 
-v.14 — KJV: "thy neighbour's landmark" / ESV: "your neighbor's landmark"
-       — Hebrew "g'vul re'akha." "G'vul" = boundary, border. Boundary
-       stones were the ancient equivalent of property deeds. Moving them
-       was a form of theft that was difficult to detect and prove.
+v.14 — Hebrew "g'vul re'akha" — the boundary of your neighbor.
+       KJV: "thy neighbour's landmark"
+       ESV: "your neighbor's landmark"
+       ASV: "thy neighbor's landmark"
+       NET: "your neighbor's boundary marker"
+       WEB: "your neighbor's landmark"
+       Analysis: "G'vul" = boundary, border. Most translations use "landmark."
+       NET alone specifies "boundary marker," making the function explicit.
+       Boundary stones were the ancient equivalent of property deeds. Moving
+       them was a form of theft that was difficult to detect and prove.
 
-v.19 — KJV: "as he had thought to have done unto his brother" / ESV: "as
-       he had meant to do to his brother" — Hebrew "ka'asher zamam la'asot
-       l'achiv." "Zamam" = to plan, devise, intend. The punishment is
-       based on INTENT — what the false witness planned to accomplish
-       through his lie. Even if the plot failed, the false witness receives
-       the intended punishment.
+v.19 — Hebrew "ka'asher zamam la'asot l'achiv" — as he planned/devised to do to his brother.
+       KJV: "as he had thought to have done unto his brother"
+       ESV: "as he had meant to do to his brother"
+       ASV: "as he had thought to do unto his brother"
+       NET: "what he had intended to do to his fellow citizen"
+       WEB: "as he had thought to do to his brother"
+       Analysis: "Zamam" = to plan, devise, intend. KJV/ASV/WEB use "thought
+       to have done" — intention language. ESV uses "meant" — purpose
+       language. NET modernizes to "intended" and updates "brother" to
+       "fellow citizen." The punishment is based on INTENT — what the false
+       witness planned to accomplish through his lie.
 
-v.21 — KJV: "life shall go for life, eye for eye" / ESV: "It shall be
-       life for life, eye for eye" — Hebrew "nefesh b'nefesh, ayin
-       b'ayin." The lex talionis (law of retaliation). This is not
+v.21 — Hebrew "nefesh b'nefesh, ayin b'ayin" — life for life, eye for eye.
+       KJV: "life shall go for life, eye for eye"
+       ESV: "It shall be life for life, eye for eye"
+       ASV: "life for life, eye for eye"
+       NET: "You must show no pity: life for life, eye for eye"
+       WEB: "life for life, eye for eye"
+       Analysis: The lex talionis (law of retaliation). ASV/WEB are most
+       concise. KJV adds "shall go" for emphasis. ESV adds "It shall be"
+       as introduction. NET uniquely adds "You must show no pity" from the
+       preceding clause, making the judicial firmness explicit. This is not
        vengeance but proportionality — the punishment must match the crime
-       exactly. It limits punishment as much as it requires it: no MORE
-       than an eye for an eye.
+       exactly. It limits punishment as much as it requires it.
 
 GLOSSARY
 ------------------------------------

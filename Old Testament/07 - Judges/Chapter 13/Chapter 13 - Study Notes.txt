@@ -145,39 +145,94 @@ Charles Spurgeon:
   language because His nature cannot be contained in human thought. He
   is wonderful in His person, wonderful in His works, wonderful in His
   grace. Ask not His name — worship His nature."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.5  — KJV: "a Nazarite unto God from the womb" / ESV: "a Nazirite to
-       God from the womb" — Hebrew "n'zir Elohim min-ha-beten." "Nazir"
-       = one separated/consecrated. The Nazirite vow (Numbers 6) normally
-       was voluntary and temporary. Samson's is unique: imposed before
-       birth and lifelong. Three restrictions: no grape products, no
-       contact with the dead, no cutting of hair.
+v.5  — Hebrew "n'zir Elohim min-ha-beten" — a Nazirite of God from the
+       womb.
+       KJV: "the child shall be a Nazarite unto God from the womb"
+       ESV: "the child shall be a Nazirite to God from the womb"
+       ASV: "the child shall be a Nazirite unto God from the womb"
+       NET: "the child will be dedicated to God from birth"
+       WEB: "the child shall be a Nazirite to God from the womb"
+       Analysis: "Nazir" = one separated/consecrated. NET replaces the
+       specific term "Nazirite" with the generic "dedicated to God,"
+       losing the connection to the Numbers 6 vow (no wine, no razor,
+       no corpse contact). The Nazirite identity is central to Samson's
+       story — each violation drives the plot. Samson's is unique:
+       imposed before birth and lifelong.
 
-v.18 — KJV: "seeing it is secret" / ESV: "seeing it is wonderful" —
-       Hebrew "v'hu peli." "Peli" can mean "wonderful, incomprehensible,
-       hidden, beyond understanding." KJV's "secret" emphasizes the
-       hiddenness; ESV's "wonderful" emphasizes the transcendence. Both
-       are valid — the name is beyond human comprehension. The same root
-       appears in Isaiah 9:6 ("Wonderful") and Psalm 139:6 ("too
-       wonderful for me").
+v.6  — Hebrew "nora m'od" — very fearsome/terrible.
+       KJV: "his countenance was like the countenance of an angel of God, very terrible"
+       ESV: "his appearance was like the appearance of the angel of God, very awesome"
+       ASV: "his countenance was like the countenance of the angel of God, very terrible"
+       NET: "He looked like God's angel—he was very awesome"
+       WEB: "his appearance was like the appearance of the angel of God, very awesome"
+       Analysis: "Nora" = fearsome/terrible/awesome. ASV/KJV's "terrible"
+       (in the old sense of inspiring terror/awe) matches the Hebrew. ESV/
+       WEB/NET's "awesome" has been diluted in modern English but retains
+       the sense of inspiring reverent fear. The divine messenger's
+       appearance inspires holy dread.
 
-v.19 — KJV: "the angel did wondrously" / ESV: "to the one who works
-       wonders" — Hebrew "maphli la'asot." This phrase is difficult.
-       KJV reads it as describing the Angel's action (He did wonderfully).
-       ESV reads it as a divine title (the One who works wonders). Both
-       connect to the "wonderful" name of v.18.
+v.18 — Hebrew "v'hu peli" — it is wonderful/incomprehensible.
+       KJV: "seeing it is secret"
+       ESV: "seeing it is wonderful"
+       ASV: "seeing it is wonderful"
+       NET: "You should not ask me my name because you cannot comprehend it"
+       WEB: "since it is beyond understanding"
+       Analysis: "Peli" can mean wonderful, incomprehensible, hidden,
+       beyond understanding. KJV's "secret" emphasizes hiddenness; ESV/
+       ASV's "wonderful" emphasizes transcendence (connecting to Isaiah
+       9:6 — "Wonderful Counselor"). NET interprets as "cannot comprehend"
+       — valid but losing the messianic resonance. WEB's "beyond
+       understanding" bridges both readings.
 
-v.22 — KJV: "we have seen God" / ESV: "we have seen God" — Hebrew
-       "Elohim ra'inu." Manoah identifies the Angel as God Himself. This
-       confirms the Angel of the LORD as a theophany — a visible
-       manifestation of God (pre-incarnate Christ).
+v.19 — Hebrew "maphli la'asot" — doing wondrously.
+       KJV: "the angel did wondrously"
+       ESV: "and the LORD did wondrously"
+       ASV: "the angel did wondrously"
+       NET: "the Lord did an amazing thing"
+       WEB: "Yahweh did an awesome thing"
+       Analysis: This difficult phrase can describe the Angel's action (He
+       did wonderfully) or serve as a divine title (the One who works
+       wonders). NET's "amazing thing" and WEB's "awesome thing" both
+       capture the sense but lose the Hebrew wordplay connecting to the
+       "wonderful" name of v.18.
 
-v.25 — KJV: "the Spirit of the LORD began to move him" / ESV: "the
-       Spirit of the LORD began to stir him" — Hebrew "vatachel ruach
-       Adonai l'fa'amo." "Pa'am" = to impel, stir, trouble. The Spirit
-       began to agitate/stir Samson — creating restlessness and impulse
-       toward his divine mission.
+v.22 — Hebrew "Elohim ra'inu" — we have seen God.
+       KJV: "We shall surely die, because we have seen God"
+       ESV: "We shall surely die, for we have seen God"
+       ASV: "We shall surely die, because we have seen God"
+       NET: "We will certainly die because we have seen a supernatural being!"
+       WEB: "We shall surely die, because we have seen God"
+       Analysis: NET avoids saying Manoah recognized "God" directly,
+       using "supernatural being" instead. Hebrew "Elohim" here clearly
+       means God — Manoah's fear echoes the ancient belief that seeing
+       God means death (Exodus 33:20). NET weakens this theological
+       claim. The verse confirms the Angel as a theophany.
+
+v.24 — Hebrew "vay'varekhehu Adonai" — the LORD blessed him.
+       KJV: "the LORD blessed him"
+       ESV: "the LORD blessed him"
+       ASV: "Jehovah blessed him"
+       NET: "the Lord empowered him"
+       WEB: "Yahweh blessed him"
+       Analysis: NET changes "blessed" to "empowered" — an interpretive
+       shift from general divine favor to specific enablement. The Hebrew
+       "barak" (bless) is broader than empowerment; it includes growth,
+       protection, and favor.
+
+v.25 — Hebrew "vatachel ruach Adonai l'fa'amo" — the Spirit of the LORD
+       began to stir him.
+       KJV: "the Spirit of the LORD began to move him"
+       ESV: "the Spirit of the LORD began to stir him"
+       ASV: "the Spirit of Jehovah began to move him"
+       NET: "The Lord's Spirit began to control him"
+       WEB: "Yahweh's Spirit began to move him"
+       Analysis: "Pa'am" = to impel, stir, trouble. ASV/WEB/KJV use
+       "move" (gentle stirring); NET uses "control" (domination). The
+       Hebrew root suggests repeated impulses — the Spirit stirring
+       Samson like wind stirring a bell. NET's "control" implies coercion
+       not in the Hebrew.
 
 GLOSSARY
 ------------------------------------
@@ -209,20 +264,6 @@ Angel of the LORD — The pre-incarnate Christ appearing to Manoah and his
 Zorah          — A town in the Shephelah (lowlands) on the border between
                Dan and Judah. Samson's hometown. Located in the foothills
                facing Philistine territory — the front line of conflict.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.5 — ASV: "the child shall be a Nazirite unto God from the womb" / NET: "the child will be dedicated to God from birth" — Hebrew "nazir Elohim" = Nazirite of God. NET replaces the specific term "Nazirite" with the generic "dedicated to God," losing the connection to the Numbers 6 Nazirite vow (no wine, no razor, no corpse contact). The Nazirite identity is central to Samson's story — each violation drives the plot.
-
-- v.18 — ASV: "Wherefore askest thou after my name, seeing it is wonderful?" / NET: "You should not ask me my name because you cannot comprehend it" — Hebrew "peliy" = wonderful/incomprehensible. ASV retains "wonderful" (connecting to Isaiah 9:6 — "Wonderful Counselor"). NET interprets as "you cannot comprehend it" — a valid reading but losing the messianic resonance. The Angel's name is "beyond comprehension" precisely because He is divine.
-
-- v.22 — ASV: "We shall surely die, because we have seen God" / NET: "We will certainly die because we have seen a supernatural being!" — NET avoids saying Manoah recognized "God" directly, using "supernatural being" instead. Hebrew "Elohim" here clearly means God — Manoah's fear echoes the ancient belief that seeing God means death (Exodus 33:20). NET weakens this theological claim.
-
-- v.25 — ASV: "the Spirit of Jehovah began to move him" / WEB: "Yahweh's Spirit began to move him" / NET: "The Lord's Spirit began to control him" — Hebrew "l'fa'amo" = to stir/impel/move. ASV/WEB use "move" (gentle stirring); NET uses "control" (domination). The Hebrew root "pa'am" suggests repeated impulses — the Spirit stirring Samson like wind stirring a bell. NET's "control" implies coercion not in the Hebrew.
-
-- v.6 — ASV: "his countenance was like the countenance of the angel of God, very terrible" / NET: "He looked like God's angel—he was very awesome" — Hebrew "nora m'od" = very fearsome/terrible. ASV's "terrible" (in the old sense of inspiring terror/awe) matches the Hebrew. NET's "awesome" has been diluted in modern English. The divine messenger's appearance inspires holy dread.
-
-- v.24 — ASV: "Jehovah blessed him" / WEB: "Yahweh blessed him" / NET: "the Lord empowered him" — Hebrew "vay'varekhehu Adonai" = the LORD blessed him. NET changes "blessed" to "empowered" — an interpretive shift from general divine favor to specific enablement. The Hebrew "barak" (bless) is broader than empowerment; it includes growth, protection, and favor.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

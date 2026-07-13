@@ -143,54 +143,79 @@ Charles Spurgeon:
   your foot in the flood! And then — only then — will the waters flee
   before you. Faith is not believing God will act before you move; faith
   is moving because God has spoken, trusting He will act as you obey."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.4  — KJV: "come not near unto it, that ye may know the way by which ye
-       must go: for ye have not passed this way heretofore" / ESV: "Do
-       not come near it, in order that you may know the way you shall go,
-       for you have not passed this way before" — Hebrew "lo avarthem
-       ba-derekh ha-zeh t'mol shilshom." Literally "you have not passed
-       this way yesterday or the day before." The idiom means "never
-       before." They need the ark visible ahead because the path is
-       entirely new.
+v.3  — Hebrew "aron b'rit YHWH" — the ark of the covenant of the LORD.
+       KJV: "the ark of the covenant of the LORD your God"
+       ESV: "the ark of the covenant of the LORD your God"
+       ASV: "the ark of the covenant of Jehovah your God"
+       NET: "the ark of the covenant of the Lord your God"
+       WEB: "the ark of Yahweh your God's covenant"
+       Analysis: The divine name distinction (Jehovah/Yahweh/the Lord) is prominent in this chapter, appearing repeatedly as God acts miraculously. ASV uses "Jehovah," WEB uses "Yahweh" (closest to the original pronunciation), while KJV/ESV use "the LORD" (small caps) and NET uses "the Lord" without caps distinction.
 
-v.5  — KJV: "Sanctify yourselves" / ESV: "Consecrate yourselves" —
-       Hebrew "hitqaddeshu." Hithpael of "qadash" = to make oneself holy,
-       set oneself apart. This likely involved washing garments, ritual
-       purification, and abstaining from anything unclean (cf. Exodus
-       19:10,14-15). Outward preparation reflecting inward readiness.
+v.4  — Hebrew "lo avarthem ba-derekh ha-zeh t'mol shilshom" — literally "you have not passed this way yesterday or the day before."
+       KJV: "ye have not passed this way heretofore"
+       ESV: "you have not passed this way before"
+       ASV: "ye have not passed this way heretofore"
+       NET: "you have not traveled this way before"
+       WEB: "you have not passed this way before"
+       Analysis: The Hebrew idiom "yesterday or the day before" means "never before." KJV/ASV's "heretofore" is archaic but captures the formality. ESV/WEB/NET are modern and clear. They need the ark visible ahead because the path is entirely new — this is uncharted territory requiring divine guidance.
 
-v.7  — KJV: "I will begin to magnify thee" / ESV: "I will begin to exalt
-       you" — Hebrew "achel gadd'lekha." "Gadal" in the Piel = to make
-       great, magnify, exalt. God will elevate Joshua's reputation and
-       authority through this miracle, just as the Red Sea elevated Moses.
+v.5  — Hebrew "hitqaddeshu" — Hithpael of "qadash" = to make oneself holy, set oneself apart.
+       KJV: "Sanctify yourselves"
+       ESV: "Consecrate yourselves"
+       ASV: "Sanctify yourselves"
+       NET: "Ritually consecrate yourselves"
+       WEB: "Sanctify yourselves"
+       Analysis: NET adds "ritually" (interpretive), specifying the type of consecration. KJV/ASV/WEB preserve the broader Hebrew "qadash" (set apart, make holy) without narrowing it to ritual acts. This likely involved washing garments, ritual purification, and abstaining from anything unclean (cf. Exodus 19:10,14-15). Outward preparation reflecting inward readiness. NET narrows what the Hebrew leaves open.
 
-v.13 — KJV: "they shall stand upon an heap" / ESV: "shall stand in one
-       heap" — Hebrew "ya'amdu ned echad." "Ned" = a heap, a wall (of
-       water). The same word used of the Red Sea in Exodus 15:8: "the
-       floods stood upright as an heap." The waters pile up as if held by
-       an invisible dam.
+v.7  — Hebrew "achel gadd'lekha" — "gadal" in the Piel = to make great, magnify, exalt.
+       KJV: "I will begin to magnify thee"
+       ESV: "I will begin to exalt you"
+       ASV: "I will begin to magnify thee"
+       NET: "This very day I will begin to honor you before all Israel"
+       WEB: "I will begin to magnify you"
+       Analysis: NET renders "gadal" (magnify/make great) as "honor," which is weaker. KJV/ASV/WEB's "magnify" better captures God's intention to make Joshua's authority visibly great before the people. ESV's "exalt" is strong and accurate. God will elevate Joshua's reputation through this miracle, just as the Red Sea elevated Moses.
 
-v.15 — KJV: "Jordan overfloweth all his banks all the time of harvest" /
-       ESV: "the Jordan overflows all its banks throughout the time of
-       harvest" — Hebrew "ha-Yarden male al kol g'dotav kol y'mey
-       qatsir." The Jordan's spring flood was caused by snowmelt from
-       Mount Hermon combined with spring rains. The river could be 150
-       feet wide and 10-12 feet deep at flood stage — far too deep and
-       swift to ford.
+v.10 — Hebrew infinitive absolute construction "yarosh yorish" — intensifying the certainty.
+       KJV: "he will without fail drive out from before you"
+       ESV: "he will without fail drive out from before you"
+       ASV: "he will without fail drive out from before you"
+       NET: "he will truly drive out before you"
+       WEB: "he will without fail drive out from before you"
+       Analysis: NET's "truly" is adequate but "without fail" (KJV/ASV/ESV/WEB) better renders the Hebrew infinitive absolute construction, which intensifies the certainty of the action. The emphasis is on the absolute reliability of God's promise to dispossess the seven nations.
 
-v.16 — KJV: "the city Adam, that is beside Zaretan" / ESV: "at Adam, the
-       city that is beside Zarethan" — Adam (modern Tell ed-Damiyeh) is
-       about 18 miles north of the crossing point. The waters were held
-       back far upstream, creating a wide dry passage. This is the same
-       location where a landslide blocked the Jordan in 1267 AD and again
-       in 1927 — but the timing and duration of Joshua's crossing was
-       clearly miraculous.
+v.13 — Hebrew "ned echad" — a heap, a wall (of water); same word used of the Red Sea in Exodus 15:8.
+       KJV: "they shall stand upon an heap"
+       ESV: "shall stand in one heap"
+       ASV: "they shall stand in one heap"
+       NET: "the water coming downstream toward you will stop flowing and pile up"
+       WEB: "shall stand in one heap"
+       Analysis: NET uses dynamic "pile up" for Hebrew "ned echad" (one heap). KJV/ASV/ESV/WEB's "stand upon/in a heap" preserves the image of waters rising and standing still — an act defying nature, not merely accumulation. The same word was used for the floods at the Red Sea standing "upright as a heap" (Exodus 15:8). The waters pile up as if held by an invisible dam.
 
-v.17 — KJV: "passed clean over" / ESV: "finished passing over" — Hebrew
-       "ad asher tammu kol ha-goy la'avor." "Tamam" = to be complete,
-       finished. Every single person crossed — not one was left behind.
-       The miracle lasted as long as needed for the entire nation.
+v.15 — Hebrew "ha-Yarden male al kol g'dotav kol y'mey qatsir" — the Jordan was full/overflowing all its banks all the days of harvest.
+       KJV: "Jordan overfloweth all his banks all the time of harvest"
+       ESV: "the Jordan overflows all its banks throughout the time of harvest"
+       ASV: "the Jordan overfloweth all its banks all the time of harvest"
+       NET: "the Jordan is at flood stage all during harvest time"
+       WEB: "the Jordan overflows all its banks all the time of harvest"
+       Analysis: NET's parenthetical explanation is functional but clinical. KJV/ASV/ESV/WEB preserve the dramatic detail: the river is at maximum force when God stops it — heightening the miracle. The Jordan's spring flood was caused by snowmelt from Mount Hermon combined with spring rains. The river could be 150 feet wide and 10-12 feet deep — far too deep and swift to ford.
+
+v.16 — Hebrew geographic description: "the sea of the plain, even the salt sea."
+       KJV: "the sea of the plain, even the salt sea"
+       ESV: "the Sea of the Arabah, the Salt Sea"
+       ASV: "the sea of the Arabah, even the Salt Sea"
+       NET: "the sea of the rift valley (the Salt Sea)"
+       WEB: "the sea of the Arabah, even the Salt Sea"
+       Analysis: NET adds the geological term "rift valley" as interpretation. ASV/ESV/WEB preserve "Arabah" (the Hebrew name for the Jordan depression), while KJV uses "the plain." Adam (modern Tell ed-Damiyeh) is about 18 miles north of the crossing point — the waters were held back far upstream, creating a wide dry passage.
+
+v.17 — Hebrew "tammu kol ha-goy la'avor" — "tamam" = to be complete, finished. Every single person crossed.
+       KJV: "passed clean over"
+       ESV: "finished passing over"
+       ASV: "were passed clean over"
+       NET: "the entire nation was on dry ground"
+       WEB: "passed over on dry ground"
+       Analysis: KJV/ASV's "clean over" preserves the completeness emphasis of "tamam" — not one person was left behind. ESV "finished passing" is clear and modern. NET shifts focus to the result ("was on dry ground") rather than the process. WEB is simple and direct. The miracle lasted as long as needed for the entire nation to cross safely.
 
 GLOSSARY
 ------------------------------------
@@ -224,16 +249,6 @@ Dry Ground     — Hebrew "charavah." The same word used for the dry ground
 Adam (city)    — A city about 18 miles north of the crossing point near
                Jericho. The waters were held back at this point, creating
                a long stretch of dry riverbed for Israel to cross.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.3 — ASV: "the ark of the covenant of Jehovah your God" / WEB: "the ark of Yahweh your God's covenant" / NET: "the ark of the covenant of the Lord your God" — The divine name distinction (Jehovah/Yahweh/the Lord) is prominent in this chapter, appearing repeatedly as God acts miraculously. WEB's "Yahweh" is closest to the original pronunciation.
-- v.5 — NET: "Ritually consecrate yourselves, for tomorrow the Lord will perform miraculous deeds among you" / KJV: "Sanctify yourselves: for to morrow the LORD will do wonders among you" / WEB: "Sanctify yourselves; for tomorrow Yahweh will do wonders among you" — NET adds "ritually" (interpretive), specifying the type of consecration. KJV/ASV/WEB preserve the broader Hebrew "qadash" (set apart, make holy) without narrowing it to ritual acts.
-- v.7 — NET: "This very day I will begin to honor you before all Israel" / KJV: "This day will I begin to magnify thee" / ASV: "This day will I begin to magnify thee" — NET renders "gadal" (magnify/make great) as "honor," which is weaker. KJV/ASV's "magnify" better captures God's intention to make Joshua's authority visibly great before the people.
-- v.10 — NET: "he will truly drive out before you" / KJV: "he will without fail drive out from before you" / WEB: "he will without fail drive" — NET's "truly" is adequate but "without fail" (KJV/ASV/WEB) better renders the Hebrew infinitive absolute construction (yarosh yorish), which intensifies the certainty of the action.
-- v.13 — NET: "the water coming downstream toward you will stop flowing and pile up" / KJV: "they shall stand upon an heap" / ASV: "they shall stand in one heap" — NET uses dynamic "pile up" for Hebrew "ned echad" (one heap). KJV/ASV's "stand upon a heap" preserves the image of waters rising and standing still — an act defying nature, not merely accumulation.
-- v.15 — NET: "the Jordan is at flood stage all during harvest time" / KJV: "Jordan overfloweth all his banks all the time of harvest" / WEB: "the Jordan overflows all its banks all the time of harvest" — NET's parenthetical explanation is functional but clinical. KJV/WEB preserve the dramatic detail: the river is at maximum force when God stops it — heightening the miracle.
-- v.16 — NET: "the sea of the rift valley (the Salt Sea)" / KJV: "the sea of the plain, even the salt sea" / ASV: "the sea of the Arabah, even the Salt Sea" — NET adds the geological term "rift valley" as interpretation. ASV preserves "Arabah" (the Hebrew name for the Jordan depression), while KJV uses "the plain."
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

@@ -173,44 +173,88 @@ Charles Spurgeon:
   the bread of life to hungry souls? Let no church starve its minister
   while it fattens on his labors."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3  — KJV: "thy brother should seem vile unto thee" / ESV: "your brother
-       be degraded in your sight" — Hebrew "v'niqlah achikha l'einekha."
-       "Niqlah" = to be dishonored, treated as worthless. Both translations
-       capture the concern: excessive punishment dehumanizes. The criminal
-       is still "your brother."
+v.3  — Hebrew "v'niqlah achikha l'einekha" — and your brother be dishonored in your eyes.
+       KJV: "thy brother should seem vile unto thee"
+       ESV: "your brother be degraded in your sight"
+       ASV: "thy brother seem vile unto thee"
+       NET: "your fellow Israelite is humiliated before you"
+       WEB: "your brother be degraded in your sight"
+       Analysis: "Niqlah" = to be dishonored, treated as worthless. KJV/ASV
+       use "vile" — strong moral language. ESV/WEB use "degraded" — dignity
+       language. NET uses "humiliated" and updates "brother" to "fellow
+       Israelite." All capture the concern: excessive punishment
+       dehumanizes. The criminal is still "your brother."
 
-v.4  — KJV: "treadeth out the corn" / ESV: "treading out the grain" —
-       Hebrew "b'disho." "Dush" = to thresh. The ox walks over grain to
-       separate kernels from husks. KJV "corn" = grain in general (British
-       usage), not maize specifically.
+v.4  — Hebrew "b'disho" — when it treads/threshes.
+       KJV: "Thou shalt not muzzle the ox when he treadeth out the corn"
+       ESV: "You shall not muzzle an ox when it is treading out the grain"
+       ASV: "Thou shalt not muzzle the ox when he treadeth out the grain"
+       NET: "You must not muzzle your ox when it is treading grain"
+       WEB: "You shall not muzzle the ox when he treads out the grain"
+       Analysis: "Dush" = to thresh. The ox walks over grain to separate
+       kernels from husks. KJV uses "corn" = grain in general (British
+       usage), not maize. All other translations use "grain." NET adds
+       "your ox" (possessive), slightly narrowing the application. Paul
+       extends this principle to gospel ministers (1 Cor 9:9; 1 Tim 5:18).
 
-v.5  — KJV: "have no child" / ESV: "has no son" — Hebrew "ein lo ben."
-       "Ben" = son. ESV is more precise: the issue is specifically a male
-       heir to carry the name and inheritance. KJV generalizes to "child."
+v.5  — Hebrew "ein lo ben" — he has no son.
+       KJV: "have no child"
+       ESV: "has no son"
+       ASV: "have no son"
+       NET: "has no son"
+       WEB: "has no son"
+       Analysis: "Ben" = son. ESV/ASV/NET/WEB are more precise: the issue
+       is specifically a male heir to carry the name and inheritance. KJV
+       alone generalizes to "child" — losing the specificity that the
+       levirate duty is about producing a male heir for the dead brother.
 
-v.9  — KJV: "loose his shoe from off his foot" / ESV: "pull his sandal
-       off his foot" — Hebrew "v'chaltzah na'alo." The sandal symbolizes
-       property rights and authority (cf. Ruth 4:7). Removing it publicly
-       strips the brother of his claim and shames his refusal.
+v.9  — Hebrew "v'chaltzah na'alo" — and she shall pull off his sandal.
+       KJV: "loose his shoe from off his foot"
+       ESV: "pull his sandal off his foot"
+       ASV: "loose his shoe from off his foot"
+       NET: "pull his sandal off his foot"
+       WEB: "loose his sandal from off his foot"
+       Analysis: KJV/ASV use "shoe" and "loose." ESV/NET use "sandal" and
+       "pull." WEB combines both approaches: "loose his sandal." The sandal
+       symbolizes property rights and authority (cf. Ruth 4:7). Removing it
+       publicly strips the brother of his claim and shames his refusal.
 
-v.11 — KJV: "taketh him by the secrets" / ESV: "seizes him by the private
-       parts" — Hebrew "v'hecheziqah bim'bushav." KJV uses the euphemism
-       "secrets"; ESV translates directly. "M'bush" = genitals (from root
-       meaning "to be ashamed").
+v.11 — Hebrew "v'hecheziqah bim'bushav" — and she seizes him by his private parts.
+       KJV: "taketh him by the secrets"
+       ESV: "seizes him by the private parts"
+       ASV: "putteth forth her hand, and taketh him by the secrets"
+       NET: "reaches out her hand and grabs his genitals"
+       WEB: "puts out her hand, and takes him by the private parts"
+       Analysis: "M'bush" = genitals (from root meaning "to be ashamed").
+       KJV/ASV use the euphemism "secrets." ESV/WEB use "private parts."
+       NET is most direct: "grabs his genitals." The range shows how
+       translators handle explicit anatomical language — from full
+       euphemism to clinical directness.
 
-v.18 — KJV: "smote the hindmost of thee, even all that were feeble behind
-       thee" / ESV: "cut off your tail, those who were lagging behind you"
-       — Hebrew "vay'zanev b'kha." "Zanav" = tail; the verb means to
-       attack the rear/tail of a column. ESV preserves the vivid metaphor;
-       KJV interprets it. Amalek attacked the weakest at the back of the
-       marching column.
+v.18 — Hebrew "vay'zanev b'kha" — and he attacked your tail/rear.
+       KJV: "smote the hindmost of thee, even all that were feeble behind thee"
+       ESV: "cut off your tail, those who were lagging behind you"
+       ASV: "smote the hindmost of thee, even all that were feeble behind thee"
+       NET: "attacked you along the way when you were faint and weary, picking off the stragglers"
+       WEB: "struck the hindmost of you, all who were feeble behind you"
+       Analysis: "Zanav" = tail; the verb means to attack the rear/tail of
+       a column. ESV preserves the vivid metaphor ("cut off your tail").
+       KJV/ASV/WEB interpret as "hindmost/feeble." NET provides the most
+       interpretive rendering: "picking off the stragglers." Amalek
+       attacked the weakest at the back of the marching column.
 
-v.19 — KJV: "blot out the remembrance of Amalek" / ESV: "blot out the
-       memory of Amalek" — Hebrew "timcheh et-zekher Amaleq." "Machah" =
-       to wipe out, erase. "Zekher" = remembrance, memory, memorial. The
-       very name of Amalek is to be erased from history.
+v.19 — Hebrew "timcheh et-zekher Amaleq" — you shall wipe out the memory of Amalek.
+       KJV: "thou shalt blot out the remembrance of Amalek"
+       ESV: "you shall blot out the memory of Amalek"
+       ASV: "thou shalt blot out the remembrance of Amalek"
+       NET: "you must wipe out the memory of Amalek"
+       WEB: "you shall blot out the memory of Amalek"
+       Analysis: "Machah" = to wipe out, erase. "Zekher" = remembrance,
+       memory, memorial. KJV/ASV use "remembrance"; ESV/NET/WEB use
+       "memory." NET's "must wipe out" conveys stronger imperative than
+       "blot out." The very name of Amalek is to be erased from history.
 
 GLOSSARY
 ------------------------------------

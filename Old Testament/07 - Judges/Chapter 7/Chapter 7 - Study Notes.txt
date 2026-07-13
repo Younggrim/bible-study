@@ -144,47 +144,107 @@ Charles Spurgeon:
   blaze forth. Our weakness, our brokenness, our insufficiency — these
   are not obstacles to God's power but the very conditions for its
   display. God does not need your strength. He needs your emptiness."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "lest Israel vaunt themselves against me" / ESV: "lest
-       Israel boast over me" — Hebrew "pen yitpa'er alay Yisrael."
-       "Hitpa'er" = to glorify oneself, boast. The reflexive form
-       emphasizes self-glorification. God's concern is not merely pride
-       but the specific claim that would rob Him of glory: "Mine own hand
-       hath saved me."
+v.2  — Hebrew "pen yitpa'er alay Yisrael" — lest Israel glorify
+       themselves against me.
+       KJV: "lest Israel vaunt themselves against me, saying, Mine own hand hath saved me"
+       ESV: "lest Israel boast over me, saying, 'My own hand has saved me'"
+       ASV: "lest Israel vaunt themselves against me, saying, Mine own hand hath saved me"
+       NET: "Israel might brag, 'Our own strength has delivered us'"
+       WEB: "lest Israel brag against me, saying, 'My own hand has saved me'"
+       Analysis: "Hitpa'er" = to glorify oneself, boast. The reflexive
+       form emphasizes self-glorification. NET changes singular "my hand"
+       to collective "our own strength" — shifting from individual pride
+       to national pride. The Hebrew is singular, emphasizing personal
+       arrogance. God's concern is the specific claim that would rob Him
+       of glory.
 
-v.3  — KJV: "Whosoever is fearful and afraid" / ESV: "Whoever is fearful
-       and trembling" — Hebrew "charad v'yare." Two words for fear:
-       "charad" = trembling/anxious, "yare" = afraid. This echoes
-       Deuteronomy 20:8 — the law's provision for fearful soldiers. God
-       uses the existing law to accomplish His reduction.
+v.3  — Hebrew "charad v'yare" — trembling and afraid.
+       KJV: "Whosoever is fearful and afraid, let him return"
+       ESV: "Whoever is fearful and trembling, let him return"
+       ASV: "Whosoever is fearful and trembling, let him return and depart from mount Gilead"
+       NET: "Whoever is shaking with fear may turn around and leave Mount Gilead"
+       WEB: "Whoever is fearful and trembling, let him return and depart from Mount Gilead"
+       Analysis: Two words for fear: "charad" = trembling/anxious, "yare"
+       = afraid. This echoes Deuteronomy 20:8 — the law's provision for
+       fearful soldiers. NET's "shaking with fear" is more visceral than
+       the formal "fearful and trembling." God uses the existing law to
+       accomplish His reduction.
 
-v.5  — KJV: "as a dog lappeth" / ESV: "as a dog laps" — Hebrew
-       "ka'asher yaloq hakelev." The comparison to a dog's lapping
-       describes the method: scooping water to the mouth with the hand
-       rather than putting the face to the water. The 300 lapped from
-       cupped hands — remaining upright and alert.
+v.5  — Hebrew "ka'asher yaloq hakelev" — as a dog laps.
+       KJV: "Every one that lappeth of the water with his tongue, as a dog lappeth"
+       ESV: "Every one who laps the water with his tongue, as a dog laps"
+       ASV: "Every one that lappeth of the water with his tongue, as a dog lappeth"
+       NET: "Separate those who lap the water with their tongues like dogs"
+       WEB: "Everyone who laps of the water with his tongue, like a dog laps"
+       Analysis: The comparison to a dog's lapping describes the method:
+       scooping water to the mouth with the hand rather than putting the
+       face to the water. The 300 lapped from cupped hands — remaining
+       upright and alert.
 
-v.13 — KJV: "a cake of barley bread" / ESV: "a cake of barley bread" —
-       Hebrew "ts'lil lechem s'orim." Barley was the poor man's grain —
-       inferior to wheat. The barley cake represents Gideon: humble,
-       insignificant, despised. Yet this humble loaf flattens the tent
-       of Midian. God uses the despised to overthrow the mighty.
+v.13 — Hebrew "ts'lil lechem s'orim" — a cake/round of barley bread.
+       KJV: "a cake of barley bread tumbled into the host of Midian"
+       ESV: "a cake of barley bread tumbled into the camp of Midian"
+       ASV: "a cake of barley bread tumbled into the camp of Midian"
+       NET: "a stale cake of barley bread rolling into the Midianite camp"
+       WEB: "a cake of barley bread tumbled into the camp of Midian"
+       Analysis: Barley was the poor man's grain — inferior to wheat. NET
+       adds "stale" (not in Hebrew) further emphasizing worthlessness.
+       The barley cake represents Gideon: humble, insignificant, despised.
+       Yet this humble loaf flattens the tent of Midian. God uses the
+       despised to overthrow the mighty.
 
-v.16 — KJV: "empty pitchers, and lamps within the pitchers" / ESV:
-       "empty jars, with torches inside the jars" — Hebrew "kaddim
-       reqim v'lappidim b'tokh ha-kaddim." "Kad" = jar/pitcher (same
-       word as Rebekah's water jar, Genesis 24:14). "Lappid" = torch/
-       flame. The jars concealed the torches until the moment of attack.
-       When broken, 300 sudden lights appeared — creating the illusion
-       of a vast army.
+v.16 — Hebrew "kaddim reqim v'lappidim b'tokh ha-kaddim" — empty jars
+       and torches inside the jars.
+       KJV: "empty pitchers, and lamps within the pitchers"
+       ESV: "empty jars, with torches inside the jars"
+       ASV: "empty pitchers, and torches within the pitchers"
+       NET: "empty jars and torches inside them"
+       WEB: "empty pitchers, and torches within the pitchers"
+       Analysis: "Kad" = jar/pitcher (same word as Rebekah's water jar,
+       Genesis 24:14). "Lappid" = torch/flame. KJV uses "lamps" (slightly
+       different connotation — torches are larger). The jars concealed
+       the torches until the moment of attack. When broken, 300 sudden
+       lights appeared — creating the illusion of a vast army.
 
-v.22 — KJV: "the LORD set every man's sword against his fellow" / ESV:
-       "the LORD set every man's sword against his comrade" — Hebrew
-       "vayasem Adonai et cherev ish b're'ehu." God actively caused the
-       confusion. In the darkness, with sudden lights and noise from all
-       sides, the Midianites could not distinguish friend from foe and
-       attacked each other.
+v.18 — Hebrew "cherev la'Adonai ul'Gid'on" — a sword for the LORD and
+       for Gideon.
+       KJV: "The sword of the LORD, and of Gideon"
+       ESV: "A sword for the LORD and for Gideon!"
+       ASV: "The sword of Jehovah and of Gideon"
+       NET: "For the Lord and for Gideon!"
+       WEB: "For Yahweh and for Gideon!"
+       Analysis: The battle cry uses the divine covenant name. KJV/ASV
+       include "sword"; WEB/NET omit it (following some Hebrew
+       manuscripts). The pairing of God's name with Gideon's signifies
+       divine-human partnership — the victory belongs to both God (the
+       power) and Gideon (the instrument). Note the order: LORD first.
+
+v.22 — Hebrew "vayasem Adonai et cherev ish b're'ehu" — the LORD set
+       every man's sword against his fellow.
+       KJV: "the LORD set every man's sword against his fellow"
+       ESV: "the LORD set every man's sword against his comrade"
+       ASV: "Jehovah set every man's sword against his fellow"
+       NET: "the Lord caused the Midianites to attack one another with their swords"
+       WEB: "Yahweh set every man's sword against his fellow"
+       Analysis: God actively caused the confusion. NET explains the
+       idiom; ASV/WEB/KJV/ESV retain the more dramatic Hebrew
+       construction. In the darkness, with sudden lights and noise from
+       all sides, the Midianites could not distinguish friend from foe
+       and attacked each other. The divine causation is explicit in all.
+
+v.25 — Hebrew "vayyaharghu et-Orev b'tsur Orev" — they killed Oreb at
+       the rock of Oreb.
+       KJV: "they slew Oreb upon the rock Oreb"
+       ESV: "they killed Oreb at the rock of Oreb"
+       ASV: "they slew Oreb at the rock of Oreb"
+       NET: "They executed Oreb on the rock of Oreb"
+       WEB: "They killed Oreb at Oreb's rock"
+       Analysis: NET uses "executed" (implying formal justice) rather than
+       "slew/killed" (implying combat). Hebrew "vayyaharghu" = they killed/
+       slew. "Executed" adds a judicial connotation not necessarily present
+       in the Hebrew.
 
 GLOSSARY
 ------------------------------------
@@ -220,20 +280,6 @@ Earthen Vessels — The jars (pitchers) that concealed the torches. When
                broken, the light shone forth. A picture of 2 Corinthians
                4:7: God's glory shines through broken human vessels. Our
                weakness is the condition for God's power to be displayed.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — ASV: "lest Israel vaunt themselves against me, saying, Mine own hand hath saved me" / WEB: "lest Israel brag against me, saying, 'My own hand has saved me'" / NET: "Israel might brag, 'Our own strength has delivered us'" — Hebrew "yitpa'er" = to glorify oneself, vaunt. NET changes singular "my hand" to collective "our own strength" — shifting from individual pride to national pride. The Hebrew is singular, emphasizing personal arrogance.
-
-- v.3 — ASV: "Whosoever is fearful and trembling, let him return and depart from mount Gilead" / NET: "Whoever is shaking with fear may turn around and leave Mount Gilead" — This echoes Deuteronomy 20:8 (the law of warfare). NET's "shaking with fear" is more visceral than ASV's formal "fearful and trembling." Hebrew "charad v'yare" = afraid and trembling.
-
-- v.13 — ASV: "a cake of barley bread tumbled into the camp of Midian" / NET: "a stale cake of barley bread rolling into the Midianite camp" — NET adds "stale" (not in Hebrew). Hebrew "ts'lil lechem s'orim" = a round/cake of barley bread. Barley was the poor man's grain — the dream symbolizes lowly Israel overwhelming mighty Midian. NET's "stale" further emphasizes the worthlessness of the instrument God uses.
-
-- v.18 — ASV: "For Jehovah and for Gideon" / WEB: "For Yahweh and for Gideon!" / NET: "For the Lord and for Gideon!" — The battle cry uses the divine covenant name. KJV has "the sword of the LORD, and of Gideon" (adding "sword" as in v.20). The pairing of God's name with Gideon's signifies divine-human partnership — the victory belongs to both God (the power) and Gideon (the instrument).
-
-- v.22 — ASV: "Jehovah set every man's sword against his fellow" / WEB: "Yahweh set every man's sword against his fellow" / NET: "the Lord caused the Midianites to attack one another with their swords" — NET explains the idiom; ASV/WEB retain the more dramatic Hebrew construction. The divine causation is explicit in all versions — God Himself throws the army into suicidal confusion.
-
-- v.25 — ASV: "they slew Oreb at the rock of Oreb" / WEB: "They killed Oreb at Oreb's rock" / NET: "They executed Oreb on the rock of Oreb" — NET uses "executed" (implying formal justice) rather than "slew/killed" (implying combat). Hebrew "vayyaharghu" = they killed/slew. "Executed" adds a judicial connotation not necessarily present in the Hebrew.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

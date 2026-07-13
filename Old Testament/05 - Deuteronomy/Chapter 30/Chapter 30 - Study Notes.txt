@@ -159,51 +159,92 @@ Charles Spurgeon:
   instead stoops to persuade. What manner of love is this, that the
   Almighty should plead with rebels to accept life rather than death?"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3  — KJV: "will turn thy captivity" / ESV: "will restore your fortunes"
-       — Hebrew "v'shav et-sh'vutkha." This phrase is debated: "sh'vut"
-       may derive from "shavah" (captivity) or "shuv" (return/restore).
-       KJV reads it as reversing captivity; ESV reads it as restoring
-       fortunes/well-being. Both meanings are present in the context.
+v.3  — Hebrew "v'shav et-sh'vutkha" — and he will turn/restore your captivity/fortunes.
+       KJV: "will turn thy captivity"
+       ESV: "will restore your fortunes"
+       ASV: "will turn thy captivity"
+       NET: "will reverse your captivity"
+       WEB: "will release you from captivity"
+       Analysis: This phrase is debated: "sh'vut" may derive from "shavah"
+       (captivity) or "shuv" (return/restore). KJV/ASV read it as
+       reversing captivity. ESV reads it as restoring fortunes/well-being.
+       NET uses "reverse" — bridging both meanings. WEB uses "release" —
+       emphasizing liberation. Both captivity and fortune meanings are
+       present in the context.
 
-v.6  — KJV: "will circumcise thine heart" / ESV: "will circumcise your
-       heart" — Hebrew "u-mal Adonai Elohekha et-l'vavkha." "Mal" = to
-       circumcise. In 10:16, Israel is COMMANDED to circumcise their own
-       hearts. Here, God PROMISES to do it Himself. The shift from command
-       to promise is the theological movement from law to grace, from Old
-       Covenant to New Covenant.
+v.6  — Hebrew "u-mal Adonai Elohekha et-l'vavkha" — and the LORD your God will circumcise your heart.
+       KJV: "will circumcise thine heart"
+       ESV: "will circumcise your heart"
+       ASV: "will circumcise thy heart"
+       NET: "will circumcise your hearts"
+       WEB: "will circumcise your heart"
+       Analysis: "Mal" = to circumcise. Near-unanimous rendering. NET uses
+       plural "hearts" — emphasizing the collective nature. In 10:16,
+       Israel is COMMANDED to circumcise their own hearts. Here, God
+       PROMISES to do it Himself. The shift from command to promise is the
+       movement from law to grace, Old Covenant to New Covenant.
 
-v.9  — KJV: "the LORD will again rejoice over thee for good" / ESV: "the
-       LORD will again take delight in prospering you" — Hebrew "yashuv
-       Adonai lasus alekha l'tov." "Sus" = to rejoice, exult, delight.
-       God takes personal delight in blessing His people. His joy in doing
-       good to them is restored after judgment.
+v.9  — Hebrew "yashuv Adonai lasus alekha l'tov" — the LORD will again rejoice over you for good.
+       KJV: "the LORD will again rejoice over thee for good"
+       ESV: "the LORD will again take delight in prospering you"
+       ASV: "Jehovah will again rejoice over thee for good"
+       NET: "the LORD your God will again delight in your well-being"
+       WEB: "Yahweh will again rejoice over you for good"
+       Analysis: "Sus" = to rejoice, exult, delight. KJV/ASV/WEB retain
+       "rejoice over you for good." ESV interprets as "take delight in
+       prospering you." NET paraphrases as "delight in your well-being."
+       God takes personal delight in blessing His people — His joy is
+       restored after judgment. Note divine names: ASV "Jehovah," WEB
+       "Yahweh."
 
-v.11 — KJV: "it is not hidden from thee" / ESV: "is not too hard for you"
-       — Hebrew "lo nifleit." "Pala" = to be wonderful, extraordinary,
-       difficult, hidden. KJV emphasizes hiddenness; ESV emphasizes
-       difficulty. The word encompasses both: God's command is neither
-       incomprehensible nor impossible.
+v.11 — Hebrew "lo nifleit" — it is not hidden/too difficult.
+       KJV: "it is not hidden from thee"
+       ESV: "is not too hard for you"
+       ASV: "it is not too hard for thee"
+       NET: "is not too difficult for you"
+       WEB: "is not too hard for you"
+       Analysis: "Pala" = to be wonderful, extraordinary, difficult,
+       hidden. KJV alone emphasizes hiddenness; ESV/ASV/NET/WEB all
+       emphasize difficulty. The word encompasses both: God's command is
+       neither incomprehensible nor impossible. KJV preserves an older
+       interpretation while modern translations focus on accessibility.
 
-v.14 — KJV: "the word is very nigh unto thee" / ESV: "the word is very
-       near you" — Hebrew "qarov elekha ha-davar me'od." "Qarov" = near,
-       close. Paul quotes this in Romans 10:8 and identifies "the word"
-       with "the word of faith which we preach" — the gospel. The
-       accessibility of God's word in Moses becomes the accessibility of
-       the gospel in Christ.
+v.14 — Hebrew "qarov elekha ha-davar me'od" — the word is very near to you.
+       KJV: "the word is very nigh unto thee"
+       ESV: "the word is very near you"
+       ASV: "the word is very nigh unto thee"
+       NET: "the word is very near you"
+       WEB: "the word is very near to you"
+       Analysis: "Qarov" = near, close. Unanimous in meaning — variations
+       are only in style. KJV/ASV use archaic "nigh." ESV/NET/WEB use
+       "near." Paul quotes this in Romans 10:8 and identifies "the word"
+       with "the word of faith which we preach" — the gospel.
 
-v.19 — KJV: "I call heaven and earth to record this day against you" /
-       ESV: "I call heaven and earth to witness against you today" —
-       Hebrew "ha'idoti vakhem ha-yom et-ha-shamayim v'et-ha-aretz."
-       Heaven and earth are summoned as witnesses to the covenant — a
-       standard ancient Near Eastern treaty practice. The cosmos itself
-       testifies to Israel's choice.
+v.19 — Hebrew "ha'idoti vakhem ha-yom et-ha-shamayim v'et-ha-aretz" — I call to witness against you today the heavens and the earth.
+       KJV: "I call heaven and earth to record this day against you"
+       ESV: "I call heaven and earth to witness against you today"
+       ASV: "I call heaven and earth to witness against you this day"
+       NET: "I invoke heaven and earth as witnesses against you today"
+       WEB: "I call heaven and earth to witness against you today"
+       Analysis: KJV uses "record" — an archaic usage meaning "testify."
+       ESV/ASV/WEB use "witness." NET uses "invoke" — more formal legal
+       language. Heaven and earth are summoned as witnesses to the covenant
+       — standard ancient Near Eastern treaty practice.
 
-v.20 — KJV: "cleave unto him" / ESV: "holding fast to him" — Hebrew
-       "u-l'davqah vo." "Davaq" = to cling, adhere, hold fast. Same word
-       as Genesis 2:24 (cleaving in marriage) and Deuteronomy 13:4. The
-       relationship with God is intimate, permanent, and exclusive.
+v.20 — Hebrew "u-l'davqah vo" — and to cling/cleave to him.
+       KJV: "cleave unto him"
+       ESV: "holding fast to him"
+       ASV: "cleave unto him"
+       NET: "by being loyal to him"
+       WEB: "cling to him"
+       Analysis: "Davaq" = to cling, adhere, hold fast. KJV/ASV use
+       "cleave" — marriage language (Genesis 2:24). ESV uses "holding
+       fast." WEB uses "cling." NET interprets as "being loyal" — losing
+       the physical imagery of attachment. Same word as Genesis 2:24
+       (cleaving in marriage) — the relationship with God is intimate,
+       permanent, and exclusive.
 
 GLOSSARY
 ------------------------------------

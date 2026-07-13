@@ -156,48 +156,67 @@ Charles Spurgeon:
   Every morning, fresh from heaven — that is how God's word must come to
   us."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "to humble thee, and to prove thee" / ESV: "that he might
-       humble you, testing you" — Hebrew "l'annot'cha l'nassot'cha."
-       "Innah" = to humble/afflict. "Nasah" = to test/prove. Two purposes:
-       breaking self-sufficiency and revealing true character.
+v.2  — Hebrew "l'annot'cha l'nassot'cha." — "Innah" = to humble/afflict. "Nasah" = to test/prove.
+       KJV: "to humble thee, and to prove thee"
+       ESV: "that he might humble you, testing you"
+       ASV: "thou shalt remember all the way which Jehovah thy God hath led thee"
+       NET: "the Lord your God led you through all the way in the wilderness"
+       WEB: "you shall remember all the way which Yahweh your God has led you"
+       Analysis: Hebrew "l'annot'cha l'nassot'cha." "Innah" = to humble/afflict. "Nasah" = to test/prove. Two purposes: breaking self-sufficiency and revealing true character. active, deliberate recall of God's faithfulness. The wilderness was purposeful, not accidental.
 
-v.3  — KJV: "suffered thee to hunger" / ESV: "let you hunger" — Hebrew
-       "va-yar'ivecha." God actively allowed hunger — it was intentional
-       pedagogy, not neglect. The hunger preceded the manna to teach the
-       lesson.
+v.3  — Hebrew "va-yar'ivecha." — God actively allowed hunger — it was intentional pedagogy, not neglect.
+       KJV: "suffered thee to hunger"
+       ESV: "let you hunger"
+       ASV: "man doth not live by bread only, but by everything that proceedeth out of the mouth of Jehovah doth man live"
+       NET: "Man does not live by bread alone, but by every word that comes from the mouth of the Lord"
+       WEB: "man does not live by bread only, but man lives by every word that proceeds out of the mouth of Yahweh"
+       Analysis: Hebrew "va-yar'ivecha." God actively allowed hunger — it was intentional pedagogy, not neglect. The hunger preceded the manna to teach the lesson. Jesus quotes this in His temptation (Matt 4:4). The divine name in ASV/WEB makes explicit that the source of true life is YHWH's personal speech.
 
-v.3  — KJV: "by every word that proceedeth out of the mouth of the LORD"
-       / ESV: "by every word that comes from the mouth of the LORD" —
-       Hebrew "al kol motsa fi YHWH." "Motsa" = what goes forth/proceeds.
-       "Fi" = mouth of. Whatever God speaks sustains life — His word is
-       creative and sustaining power.
+v.3  — Hebrew "al kol motsa fi YHWH." — creative and sustaining power.
+       KJV: "by every word that proceedeth out of the mouth of the LORD"
+       ESV: "by every word that comes from the mouth of the LORD"
+       Analysis: Hebrew "al kol motsa fi YHWH." "Motsa" = what goes forth/proceeds. "Fi" = mouth of. Whatever God speaks sustains life — His word is creative and sustaining power.
 
-v.5  — KJV: "chasteneth" / ESV: "disciplines" — Hebrew "y'yasser."
-       "Yasar" = to discipline, to instruct, to correct. Not punishment
-       for punishment's sake but corrective training. A father's discipline
-       aims at the child's good.
+v.5  — Hebrew "y'yasser." — "Yasar" = to discipline, to instruct, to correct.
+       KJV: "chasteneth"
+       ESV: "disciplines"
+       ASV: "chasteneth... as a man chasteneth his son"
+       NET: "disciplines... as a man disciplines his son"
+       WEB: "disciplines... as a man disciplines his son"
+       Analysis: Hebrew "y'yasser." "Yasar" = to discipline, to instruct, to correct. Not punishment for punishment's sake but corrective training. A father's discipline aims at the child's good. to correct/instruct/discipline). God's wilderness hardships are fatherly training, not punitive destruction.
 
-v.9  — KJV: "brass" / ESV: "copper" — Hebrew "n'choshet." The Hebrew word
-       covers both copper and bronze (an alloy). ESV's "copper" is more
-       precise for the raw mineral; KJV's "brass" reflects older English
-       usage where "brass" could mean any copper alloy.
+v.8  — the opposite of wilderness dependency.
+       ASV: "a land of wheat and barley, and vines and fig-trees and pomegranates"
+       NET: "a land of wheat, barley, vines, fig trees, and pomegranates"
+       Analysis: the opposite of wilderness dependency.
 
-v.15 — KJV: "fiery serpents" / ESV: "fiery serpents" — Hebrew "nachash
-       saraph." "Saraph" = burning. Called "fiery" because their bite
-       caused burning inflammation. The same serpents of Numbers 21:6-9,
-       which led to the bronze serpent — a type of Christ (John 3:14).
+v.9  — Hebrew "n'choshet." — The Hebrew word covers both copper and bronze (an alloy).
+       KJV: "brass"
+       ESV: "copper"
+       Analysis: Hebrew "n'choshet." The Hebrew word covers both copper and bronze (an alloy). ESV's "copper" is more precise for the raw mineral; KJV's "brass" reflects older English usage where "brass" could mean any copper alloy.
 
-v.16 — KJV: "to do thee good at thy latter end" / ESV: "to do you good in
-       the end" — Hebrew "l'heitiv'cha b'acharit'cha." The wilderness
-       suffering had a future purpose: ultimate good. Present hardship
-       serves future blessing. God's discipline is forward-looking.
+v.15  — Hebrew "nachash saraph." — "Saraph" = burning.
+       KJV: "fiery serpents"
+       ESV: "fiery serpents"
+       ASV: "who brought thee forth water out of the rock of flint"
+       NET: "who brought you water from a flint rock"
+       WEB: "who brought water out of the rock of flint for you"
+       Analysis: Hebrew "nachash saraph." "Saraph" = burning. Called "fiery" because their bite caused burning inflammation. The same serpents of Numbers 21:6-9, which led to the bronze serpent — a type of Christ (John 3:14). the hardest stone producing life-giving water. A type of Christ (1 Cor 10:4).
 
-v.17 — KJV: "My power and the might of mine hand" / ESV: "My power and
-       the might of my hand" — Hebrew "kochi v'otsem yadi." "Koach" =
-       strength/power. "Otsem" = might/bone (substance). The self-made
-       man's creed: I did this by my own strength.
+v.16  — Hebrew "l'heitiv'cha b'acharit'cha." — The wilderness suffering had a future purpose: ultimate good.
+       KJV: "to do thee good at thy latter end"
+       ESV: "to do you good in the end"
+       Analysis: Hebrew "l'heitiv'cha b'acharit'cha." The wilderness suffering had a future purpose: ultimate good. Present hardship serves future blessing. God's discipline is forward-looking.
+
+v.17  — Hebrew "kochi v'otsem yadi." — "Koach" = strength/power. "Otsem" = might/bone (substance).
+       KJV: "My power and the might of mine hand"
+       ESV: "My power and the might of my hand"
+       ASV: "My power and the might of my hand hath gotten me this wealth"
+       NET: "My power and the might of my hand have gotten me this wealth"
+       WEB: "My power and the might of my hand has gotten me this wealth"
+       Analysis: Hebrew "kochi v'otsem yadi." "Koach" = strength/power. "Otsem" = might/bone (substance). The self-made man's creed: I did this by my own strength. prosperity tempts us to forget the Source. Hebrew "kochi" (my power) — the danger of self-attribution.
 
 GLOSSARY
 ------------------------------------
@@ -227,19 +246,6 @@ Fiery Serpents — Hebrew "n'chashim s'raphim" — venomous snakes whose bite
                bronze serpent lifted up for healing became a type of Christ
                lifted on the cross (John 3:14-15).
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "the Lord your God led you through all the way in the wilderness" / ASV: "thou shalt remember all the way which Jehovah thy God hath led thee" / WEB: "you shall remember all the way which Yahweh your God has led you" — The command to remember (Hebrew "zakarta") — active, deliberate recall of God's faithfulness. The wilderness was purposeful, not accidental.
-
-- v.3 — NET: "Man does not live by bread alone, but by every word that comes from the mouth of the Lord" / ASV: "man doth not live by bread only, but by everything that proceedeth out of the mouth of Jehovah doth man live" / WEB: "man does not live by bread only, but man lives by every word that proceeds out of the mouth of Yahweh" — Jesus quotes this in His temptation (Matt 4:4). The divine name in ASV/WEB makes explicit that the source of true life is YHWH's personal speech.
-
-- v.5 — NET: "disciplines... as a man disciplines his son" / ASV: "chasteneth... as a man chasteneth his son" / WEB: "disciplines... as a man disciplines his son" — NET and WEB use "disciplines"; ASV uses "chasteneth" (Hebrew "yasar" — to correct/instruct/discipline). God's wilderness hardships are fatherly training, not punitive destruction.
-
-- v.8 — NET: "a land of wheat, barley, vines, fig trees, and pomegranates" / ASV: "a land of wheat and barley, and vines and fig-trees and pomegranates" — The seven species of the Promised Land. All translations list them identically. These crops represent agricultural abundance — the opposite of wilderness dependency.
-
-- v.15 — NET: "who brought you water from a flint rock" / ASV: "who brought thee forth water out of the rock of flint" / WEB: "who brought water out of the rock of flint for you" — The miraculous water from rock (Exodus 17; Numbers 20). "Flint rock" (Hebrew "tsur ha-challamish") — the hardest stone producing life-giving water. A type of Christ (1 Cor 10:4).
-
-- v.17 — NET: "My power and the might of my hand have gotten me this wealth" / ASV: "My power and the might of my hand hath gotten me this wealth" / WEB: "My power and the might of my hand has gotten me this wealth" — The self-sufficient attitude God warns against. All translations agree — prosperity tempts us to forget the Source. Hebrew "kochi" (my power) — the danger of self-attribution.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

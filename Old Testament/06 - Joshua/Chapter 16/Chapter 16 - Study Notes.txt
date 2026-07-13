@@ -79,41 +79,86 @@ Charles Spurgeon:
   domesticate them. They do not cast out their lusts — they put them to
   work. But a tamed lion is still a lion. A sin under tribute is still a
   sin. And one day it will rise from its servitude and devour its master."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "the lot of the children of Joseph fell" / ESV: "The
-       allotment of the people of Joseph went" — Hebrew "goral" = lot.
-       KJV's "fell" reflects the physical casting of lots; ESV's "went"
-       describes the resulting boundary line. Both are valid renderings
-       of the Hebrew construction.
+v.1  — Hebrew "goral" — lot; "yatza ha-goral" — the lot came out.
+       KJV: "the lot of the children of Joseph fell"
+       ESV: "The allotment of the people of Joseph went"
+       ASV: "the lot came out for the children of Joseph"
+       NET: "The land allotted to Joseph's descendants"
+       WEB: "The lot came out for the children of Joseph"
+       Analysis: KJV's "fell" reflects the physical casting of lots;
+       ESV's "went" describes the resulting boundary line. ASV/WEB
+       preserve "the lot came out" (Hebrew "yatza ha-goral"), describing
+       the sacred casting of lots before God. NET's passive "allotted"
+       removes the active divine guidance implied in the lot-casting
+       ceremony (cf. Proverbs 16:33).
 
-v.2  — KJV: "goeth out from Bethel to Luz" / ESV: "going from Bethel
-       to Luz" — This is puzzling since Bethel and Luz are generally
-       identified as the same place (Genesis 28:19). Some scholars
-       suggest Luz was the original Canaanite city and Bethel the
-       nearby sacred site, later merged into one name. Others see them
-       as adjacent locations at this early period.
+v.2  — Hebrew "Bethel" and "Luz" — possibly same or adjacent locations.
+       KJV: "goeth out from Bethel to Luz"
+       ESV: "going from Bethel to Luz"
+       ASV: "goeth out from Beth-el to Luz"
+       NET: "goes from Bethel to Luz"
+       WEB: "goes out from Bethel to Luz"
+       Analysis: This is puzzling since Bethel and Luz are generally
+       identified as the same place (Genesis 28:19). Some scholars suggest
+       Luz was the original Canaanite city and Bethel the nearby sacred
+       site, later merged into one name. Others see them as adjacent
+       locations at this early period.
 
-v.3  — KJV: "Beth-horon the nether" / ESV: "Lower Beth-horon" — Hebrew
-       "Bet-Choron ha-tachton." "Tachton" = lower. There were two
-       Beth-horons: Upper and Lower, controlling a strategic pass from
-       the coastal plain to the hill country. KJV's "nether" is archaic
-       for "lower."
+v.3  — Hebrew "Bet-Choron ha-tachton" — Lower Beth-horon.
+       KJV: "Beth-horon the nether"
+       ESV: "Lower Beth-horon"
+       ASV: "Beth-horon the nether"
+       NET: "lower Beth Horon"
+       WEB: "Beth Horon the lower"
+       Analysis: "Tachton" = lower. There were two Beth-horons: Upper and
+       Lower, controlling a strategic pass from the coastal plain to the
+       hill country. KJV/ASV's "nether" is archaic for "lower." ESV/NET
+       modernize.
 
-v.8  — KJV: "the river Kanah" / ESV: "the brook Kanah" — Hebrew
-       "nachal Qanah." "Nachal" = wadi, seasonal stream. ESV's "brook"
+v.4  — Hebrew "nachalah" — inheritance (active possession).
+       KJV: "So the children of Joseph, Manasseh and Ephraim, took their inheritance"
+       ESV: "The people of Joseph, Manasseh and Ephraim, received their inheritance"
+       ASV: "the children of Joseph, Manasseh and Ephraim, took their inheritance"
+       NET: "Joseph's descendants, Manasseh and Ephraim, were assigned their land"
+       WEB: "the children of Joseph, Manasseh and Ephraim, took their inheritance"
+       Analysis: NET uses passive "were assigned" where ASV/KJV/WEB use
+       active "took their inheritance" (nachalah). The active voice
+       preserves the faith dimension — the tribes must claim and possess
+       what God has given. ESV's "received" is passive but retains
+       "inheritance."
+
+v.8  — Hebrew "nachal Qanah" — wadi/seasonal stream Kanah. Also
+       Hebrew "nachalah" for the inheritance statement.
+       KJV: "the river Kanah" / "This is the inheritance of the tribe of the children of Ephraim"
+       ESV: "the brook Kanah" / "Such is the inheritance of the tribe of the people of Ephraim"
+       ASV: "the brook Kanah" / "This is the inheritance of the tribe of the children of Ephraim"
+       NET: "the Kanah Valley" / "This is the land assigned to the tribe of Ephraim by its clans"
+       WEB: "the brook Kanah" / "This is the inheritance of the tribe of the children of Ephraim"
+       Analysis: "Nachal" = wadi, seasonal stream. ESV/ASV/WEB's "brook"
        is more accurate than KJV's "river" — this was a seasonal
-       watercourse, not a permanent river.
+       watercourse. NET's "Valley" is a further departure. The consistent
+       NET pattern of replacing "inheritance" with "land assigned" continues
+       — the nachalah concept ties each tribe's land to God's covenant
+       with Abraham.
 
-v.10 — KJV: "they drave not out" / ESV: "they did not drive out" —
-       "Drave" is the archaic past tense of "drive" in KJV English.
-       Same Hebrew verb "yarash" (in hiphil: to dispossess, drive out).
-
-v.10 — KJV: "serve under tribute" / ESV: "have been made to do forced
-       labor" — Hebrew "la-mas" = forced labor, corvée. This is the
-       same term used for Solomon's labor gangs (1 Kings 5:13). ESV's
-       "forced labor" is more precise than KJV's "tribute" (which
-       suggests monetary payment rather than labor service).
+v.10 — Hebrew "yarash" (hiphil: to dispossess, drive out) and "la-mas"
+       (forced labor, corvée).
+       KJV: "they drave not out the Canaanites" / "serve under tribute"
+       ESV: "they did not drive out the Canaanites" / "have been made to do forced labor"
+       ASV: "they drove not out the Canaanites that dwelt in Gezer" / "are become servants to do taskwork"
+       NET: "The Ephraimites did not conquer the Canaanites living in Gezer" / "do hard labor as their servants"
+       WEB: "They didn't drive out the Canaanites who lived in Gezer" / "became servants doing forced labor"
+       Analysis: "Drave" is the archaic past tense of "drive" in KJV
+       English. NET uses "conquer" where Hebrew "horish" means specifically
+       "to drive out/dispossess." The failure was not in battle but in
+       completion — they did not expel the inhabitants as commanded.
+       Hebrew "mas oved" = forced labor/corvée (same term used for
+       Solomon's labor gangs, 1 Kings 5:13). ESV's "forced labor" is more
+       precise than KJV's "tribute" (which suggests monetary payment
+       rather than labor service). Israel exploited rather than expelled —
+       disobedience disguised as pragmatism.
 
 GLOSSARY
 ------------------------------------
@@ -145,13 +190,6 @@ Forced Labor (mas) — Hebrew "mas" = corvée, compulsory labor service.
                economically advantageous but violated the divine command
                and led to spiritual contamination.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.4 — ASV: "the children of Joseph, Manasseh and Ephraim, took their inheritance" / NET: "Joseph's descendants, Manasseh and Ephraim, were assigned their land" — NET uses passive "were assigned" where ASV/KJV use active "took their inheritance" (nachalah). The active voice preserves the faith dimension — the tribes must claim and possess what God has given.
-- v.8 — ASV: "This is the inheritance of the tribe of the children of Ephraim" / NET: "This is the land assigned to the tribe of Ephraim by its clans" — The consistent NET pattern: replacing "inheritance" with "land assigned." The nachalah concept ties each tribe's land to God's covenant with Abraham.
-- v.10 — ASV: "they drove not out the Canaanites that dwelt in Gezer" / WEB: "They didn't drive out the Canaanites who lived in Gezer" / NET: "The Ephraimites did not conquer the Canaanites living in Gezer" — NET uses "conquer" where Hebrew "horish" means specifically "to drive out/dispossess." The failure was not in battle but in completion — they did not expel the inhabitants as commanded.
-- v.10 — ASV: "are become servants to do taskwork" / WEB: "but the Canaanites lived among the Ephraimites...and became servants doing forced labor" / NET: "do hard labor as their servants" — KJV uses "serve under tribute," ASV "servants to do taskwork" — Hebrew "mas oved" = forced labor/corvée. Israel exploited rather than expelled — disobedience disguised as pragmatism.
-- v.1 — ASV: "the lot came out for the children of Joseph" / NET: "The land allotted to Joseph's descendants" — ASV/KJV preserve "the lot came out" (Hebrew "yatza ha-goral"), describing the sacred casting of lots before God. NET's passive "allotted" removes the active divine guidance implied in the lot-casting ceremony (cf. Proverbs 16:33).
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

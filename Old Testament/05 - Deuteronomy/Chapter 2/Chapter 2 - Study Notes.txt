@@ -163,43 +163,69 @@ Charles Spurgeon:
   faithful to a disobedient people under judgment, how much more will He
   provide for those who walk in obedience?"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "we compassed mount Seir many days" / ESV: "for many days we
-       traveled around Mount Seir" — Hebrew "nasov et har Se'ir yamim
-       rabbim." "Nasov" = to go around, to circle. They circled Seir for
-       years — aimless wandering under judgment.
+v.1  — Hebrew "nasov et har Se'ir yamim rabbim." — "Nasov" = to go around, to circle.
+       KJV: "we compassed mount Seir many days"
+       ESV: "for many days we traveled around Mount Seir"
+       Analysis: Hebrew "nasov et har Se'ir yamim rabbim." "Nasov" = to go around, to circle. They circled Seir for years — aimless wandering under judgment.
 
-v.5  — KJV: "Meddle not with them" / ESV: "Do not contend with them" —
-       Hebrew "al titgaru vam." "Hitgaru" = to stir up strife, to provoke.
-       KJV's "meddle" captures the sense of unnecessary provocation.
+v.3  — the same phrase as 1:6.
+       KJV: "Ye have compassed this mountain long enough"
+       ASV: "Ye have compassed this mountain long enough"
+       NET: "You have been going around this mountain long enough"
+       WEB: "You have encircled this mountain long enough"
+       Analysis: the same phrase as 1:6. God repeats the command to move when Israel stalls. NET/ASV/WEB/KJV all capture the divine impatience.
 
-v.5  — KJV: "not so much as a footbreadth" / ESV: "not so much as for the
-       sole of the foot to tread on" — Hebrew "ad midrak kaf ragel." 
-       Literally "to the treading of the sole of a foot." Not even one
-       footstep of their land belongs to Israel.
+v.5  — Hebrew "al titgaru vam." — "Hitgaru" = to stir up strife, to provoke.
+       KJV: "Meddle not with them"
+       ESV: "Do not contend with them"
+       ASV: "contend not with them"
+       NET: "Do not provoke them"
+       WEB: "Don't contend with them"
+       Analysis: Hebrew "al titgaru vam." "Hitgaru" = to stir up strife, to provoke. KJV's "meddle" captures the sense of unnecessary provocation. their land is a divine gift to Esau, not available for Israelite conquest. God's sovereignty distributes land to multiple nations, not just Israel.
 
-v.10 — KJV: "giants" / ESV: "Rephaim" — Hebrew "Repha'im." KJV
-       translates the term; ESV transliterates. The Rephaim were an
-       ancient race of large/powerful people. The Emim, Zamzummim, and
-       Anakim are all related to or compared with the Rephaim.
+v.5  — Hebrew "ad midrak kaf ragel." — to the treading of the sole of a foot.
+       KJV: "not so much as a footbreadth"
+       ESV: "not so much as for the sole of the foot to tread on"
+       Analysis: Hebrew "ad midrak kaf ragel." Literally "to the treading of the sole of a foot." Not even one footstep of their land belongs to Israel.
 
-v.14 — KJV: "wasted out from among the host" / ESV: "had perished from
-       the camp" — Hebrew "tam... mi-qerev ha-machaneh." "Tam" = to be
-       complete, to be finished, to be consumed. The generation was
-       entirely consumed — not one remained.
+v.7  — God has blessed Israel even during judgment.
+       ASV: "Jehovah thy God hath blessed thee in all the work of thy hand"
+       NET: "the Lord your God has blessed you in all the work of your hands"
+       WEB: "Yahweh your God has blessed you in all the work of your hand"
+       Analysis: God has blessed Israel even during judgment. Forty years in the wilderness, yet they lacked nothing. The divine name marks this as personal care from YHWH.
 
-v.30 — KJV: "hardened his spirit, and made his heart obstinate" / ESV:
-       "hardened his spirit and made his heart obstinate" — Hebrew "hiqshah
-       et rucho v'imets et l'vavo." Two verbs: "hiqshah" (made hard/stiff)
-       his spirit, "imets" (made strong/firm) his heart. God made Sihon
-       both unwilling and unyielding.
+v.10  — Hebrew "Repha'im." — KJV translates the term; ESV transliterates.
+       KJV: "giants"
+       ESV: "Rephaim"
+       Analysis: Hebrew "Repha'im." KJV translates the term; ESV transliterates. The Rephaim were an ancient race of large/powerful people. The Emim, Zamzummim, and Anakim are all related to or compared with the Rephaim.
 
-v.34 — KJV: "utterly destroyed" / ESV: "devoted to destruction" — Hebrew
-       "hacheremu." The verb "charam" means to devote to God by total
-       destruction — the ban (cherem). ESV's "devoted to destruction"
-       captures the religious/covenantal nature of the act; KJV emphasizes
-       the completeness.
+v.14  — Hebrew "tam... mi-qerev ha-machaneh." — "Tam" = to be complete, to be finished, to be consumed.
+       KJV: "wasted out from among the host"
+       ESV: "had perished from the camp"
+       ASV: "thirty and eight years; until all the generation of the men of war were consumed from the camp"
+       NET: "thirty-eight years, until that entire generation of fighting men had been destroyed from the camp"
+       Analysis: Hebrew "tam... mi-qerev ha-machaneh." "Tam" = to be complete, to be finished, to be consumed. The generation was entirely consumed — not one remained. to be complete/finished). A generation erased by divine decree.
+
+v.25  — both psychological warfare terms.
+       ASV: "This day will I begin to put the dread of thee and the fear of thee upon the peoples"
+       NET: "This very day I will begin to fill all the people of the world with dread and terror of you"
+       WEB: "Today I will begin to put the dread of you and the fear of you on the peoples"
+       Analysis: both psychological warfare terms.
+
+v.30  — Hebrew "hiqshah et rucho v'imets et l'vavo." — Two verbs: "hiqshah" (made hard/stiff) his spirit, "imets" (made...
+       KJV: "hardened his spirit, and made his heart obstinate"
+       ESV: "hardened his spirit and made his heart obstinate"
+       ASV: "Jehovah thy God hardened his spirit, and made his heart obstinate"
+       NET: "The Lord your God made him stubborn and obstinate"
+       WEB: "Yahweh your God hardened his spirit and made his heart obstinate"
+       Analysis: Hebrew "hiqshah et rucho v'imets et l'vavo." Two verbs: "hiqshah" (made hard/stiff) his spirit, "imets" (made strong/firm) his heart. God made Sihon both unwilling and unyielding. God hardens Sihon's heart (as He did Pharaoh's). NET compresses "hardened his spirit/made his heart obstinate" into "stubborn and obstinate." Divine sovereignty in human decisions.
+
+v.34  — Hebrew "hacheremu." — The verb "charam" means to devote to God by total destruction.
+       KJV: "utterly destroyed"
+       ESV: "devoted to destruction"
+       Analysis: Hebrew "hacheremu." The verb "charam" means to devote to God by total destruction — the ban (cherem). ESV's "devoted to destruction" captures the religious/covenantal nature of the act; KJV emphasizes the completeness.
 
 GLOSSARY
 ------------------------------------
@@ -233,19 +259,6 @@ Heshbon        — Capital city of Sihon the Amorite king. Located in
 Caphtor        — Generally identified with Crete or the Aegean region.
                The place of origin of the Philistines (Amos 9:7).
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.3 — NET: "You have been going around this mountain long enough" / ASV: "Ye have compassed this mountain long enough" / WEB: "You have encircled this mountain long enough" / KJV: "Ye have compassed this mountain long enough" — Hebrew "rav-lakhem" (enough for you!) — the same phrase as 1:6. God repeats the command to move when Israel stalls. NET/ASV/WEB/KJV all capture the divine impatience.
-
-- v.5 — NET: "Do not provoke them" / ASV: "contend not with them" / WEB: "Don't contend with them" — God restricts Israel from attacking Edom (Esau's descendants) — their land is a divine gift to Esau, not available for Israelite conquest. God's sovereignty distributes land to multiple nations, not just Israel.
-
-- v.7 — NET: "the Lord your God has blessed you in all the work of your hands" / ASV: "Jehovah thy God hath blessed thee in all the work of thy hand" / WEB: "Yahweh your God has blessed you in all the work of your hand" — God has blessed Israel even during judgment. Forty years in the wilderness, yet they lacked nothing. The divine name marks this as personal care from YHWH.
-
-- v.14 — NET: "thirty-eight years, until that entire generation of fighting men had been destroyed from the camp" / ASV: "thirty and eight years; until all the generation of the men of war were consumed from the camp" — The 38 years between Kadesh and arrival at Moab. NET uses "destroyed"; ASV/WEB use "consumed" (Hebrew "tamam" — to be complete/finished). A generation erased by divine decree.
-
-- v.25 — NET: "This very day I will begin to fill all the people of the world with dread and terror of you" / ASV: "This day will I begin to put the dread of thee and the fear of thee upon the peoples" / WEB: "Today I will begin to put the dread of you and the fear of you on the peoples" — God promises to weaponize Israel's reputation. "Dread" (Hebrew "pachad") and "fear" (Hebrew "yir'ah") — both psychological warfare terms.
-
-- v.30 — NET: "The Lord your God made him stubborn and obstinate" / ASV: "Jehovah thy God hardened his spirit, and made his heart obstinate" / WEB: "Yahweh your God hardened his spirit and made his heart obstinate" — God hardens Sihon's heart (as He did Pharaoh's). NET compresses "hardened his spirit/made his heart obstinate" into "stubborn and obstinate." Divine sovereignty in human decisions.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

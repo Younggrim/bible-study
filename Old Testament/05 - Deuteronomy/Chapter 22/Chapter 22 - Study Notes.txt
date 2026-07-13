@@ -186,53 +186,100 @@ Charles Spurgeon:
   passed by the wounded man were guilty — not of robbery but of
   indifference. And indifference to your brother's need is sin."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "hide thyself from them" / ESV: "ignore them" — Hebrew
-       "v'hit'allamta mehem." "Alam" = to hide, conceal oneself. The
-       deliberate act of pretending not to see. KJV is more vivid: you
-       actively hide yourself from responsibility. ESV simplifies to
-       "ignore."
+v.1  — Hebrew "v'hit'allamta mehem" — and you shall hide yourself from them.
+       KJV: "hide thyself from them"
+       ESV: "ignore them"
+       ASV: "hide thyself from them"
+       NET: "ignore it"
+       WEB: "hide yourself from them"
+       Analysis: "Alam" = to hide, conceal oneself. KJV/ASV/WEB are more
+       vivid: you actively hide yourself from responsibility. ESV/NET
+       simplify to "ignore" — losing the physical imagery of deliberate
+       avoidance. The deliberate act of pretending not to see.
 
-v.5  — KJV: "that which pertaineth unto a man" / ESV: "a man's garment"
-       — Hebrew "k'li gever." "K'li" = article, vessel, equipment (broader
-       than just clothing). "Gever" = man/warrior. KJV's broader "that
-       which pertaineth" captures the Hebrew better — it includes any
-       article associated with masculinity, not just clothing.
+v.5  — Hebrew "k'li gever" — article/vessel of a man/warrior.
+       KJV: "that which pertaineth unto a man"
+       ESV: "a man's garment"
+       ASV: "that which pertaineth unto a man"
+       NET: "men's clothing"
+       WEB: "that which pertains to a man"
+       Analysis: "K'li" = article, vessel, equipment (broader than just
+       clothing). "Gever" = man/warrior. KJV/ASV/WEB's broader "that which
+       pertaineth" captures the Hebrew better — it includes any article
+       associated with masculinity, not just clothing. ESV/NET narrow it
+       to "garment/clothing."
 
-v.8  — KJV: "a battlement" / ESV: "a parapet" — Hebrew "ma'aqeh." A
-       railing or low wall around the edge of a flat roof. Ancient
-       Israelite roofs were flat and used as living space (for sleeping,
-       drying food, socializing). Without a railing, falls were a real
-       danger.
+v.8  — Hebrew "ma'aqeh" — a railing or protective wall.
+       KJV: "a battlement for thy roof"
+       ESV: "a parapet for your roof"
+       ASV: "a battlement for thy roof"
+       NET: "a parapet around your roof"
+       WEB: "a railing around your roof"
+       Analysis: "Ma'aqeh" = a low wall or railing around the edge of a
+       flat roof. KJV/ASV use "battlement" — a military term applied
+       domestically. ESV/NET use "parapet" — architectural language. WEB
+       uses "railing" — most accessible to modern readers. Ancient Israelite
+       roofs were flat and used as living space.
 
-v.9  — KJV: "lest the fruit... be defiled" / ESV: "lest the whole yield
-       be forfeited" — Hebrew "pen tiqdash ha-m'le'ah." "Qadash" here
-       means "become holy/forfeit" — dedicated to the sanctuary and thus
-       unavailable for personal use. KJV's "defiled" and ESV's "forfeited"
-       reflect different aspects: the crop becomes unusable.
+v.9  — Hebrew "pen tiqdash ha-m'le'ah" — lest the fullness become holy/forfeited.
+       KJV: "lest the fruit... be defiled"
+       ESV: "lest the whole yield be forfeited"
+       ASV: "lest the whole fruit be forfeited"
+       NET: "otherwise the entire yield... will be forfeited"
+       WEB: "lest the whole fruit be forfeited"
+       Analysis: "Qadash" here means "become holy/forfeit" — dedicated to
+       the sanctuary and thus unavailable for personal use. KJV's "defiled"
+       is misleading — the crop becomes holy (unusable), not unclean.
+       ESV/ASV/NET/WEB correctly render as "forfeited."
 
-v.11 — KJV: "a garment of divers sorts, as of woollen and linen together"
-       / ESV: "cloth of wool and linen mixed together" — Hebrew "sha'atnez
-       tzemer u-fishtim." "Sha'atnez" = mixed fabric (a technical term).
-       Wool and linen together were reserved for priestly garments and the
-       tabernacle — ordinary Israelites were not to wear this combination.
+v.11 — Hebrew "sha'atnez tzemer u-fishtim" — mixed fabric of wool and linen.
+       KJV: "a garment of divers sorts, as of woollen and linen together"
+       ESV: "cloth of wool and linen mixed together"
+       ASV: "a mingled stuff, wool and linen together"
+       NET: "fabric made from two different materials, wool and linen woven together"
+       WEB: "cloth of wool and linen mixed together"
+       Analysis: "Sha'atnez" = mixed fabric (a technical term). NET
+       expansively explains "two different materials" before specifying
+       wool and linen. ASV uses "mingled stuff." Wool and linen together
+       were reserved for priestly garments and the tabernacle — ordinary
+       Israelites were not to wear this combination.
 
-v.12 — KJV: "fringes" / ESV: "tassels" — Hebrew "g'dilim." Twisted
-       cords/tassels on the four corners of the outer garment. Served as
-       visible reminders of God's commandments (Numbers 15:39).
+v.12 — Hebrew "g'dilim" — twisted cords/tassels.
+       KJV: "fringes upon the four quarters of thy vesture"
+       ESV: "tassels on the four corners of the garment"
+       ASV: "fringes upon the four borders of thy vesture"
+       NET: "tassels on the four corners of the clothing"
+       WEB: "fringes on the four borders of your cloak"
+       Analysis: KJV/ASV use "fringes" and "vesture/borders." ESV/NET use
+       "tassels" and "corners." WEB uses "fringes" with "cloak." All refer
+       to the same practice: twisted cords on garment corners as visible
+       reminders of God's commandments (Numbers 15:39).
 
-v.19 — KJV: "amerce him in an hundred shekels" / ESV: "fine him a hundred
-       shekels" — Hebrew "v'an'shu oto me'ah kesef." "Anash" = to fine,
-       penalize. KJV's archaic "amerce" = to impose a fine. 100 shekels
-       was double the bride price (50 shekels, v.29) — a severe financial
-       penalty for false accusation.
+v.19 — Hebrew "v'an'shu oto me'ah kesef" — and they shall fine him a hundred silver.
+       KJV: "amerce him in an hundred shekels of silver"
+       ESV: "fine him a hundred shekels of silver"
+       ASV: "amerce him in a hundred shekels of silver"
+       NET: "fine him one hundred shekels of silver"
+       WEB: "fine him one hundred shekels of silver"
+       Analysis: "Anash" = to fine, penalize. KJV/ASV retain archaic
+       "amerce" (= to impose a fine). ESV/NET/WEB use "fine" — the modern
+       equivalent. 100 shekels was double the bride price (50 shekels,
+       v.29) — a severe financial penalty for false accusation.
 
-v.30 — KJV: "nor discover his father's skirt" / ESV: "so that he does not
-       uncover his father's nakedness" — Hebrew "v'lo y'galleh k'naf
-       aviv." "K'naf" = wing, skirt, corner of garment. "To uncover the
-       father's skirt" = to take what belongs to the father (his wife).
-       Same idiom in Ruth 3:9 (positive) and Ezekiel 16:8.
+v.30 — Hebrew "v'lo y'galleh k'naf aviv" — and he shall not uncover the skirt/wing of his father.
+       KJV: "nor discover his father's skirt"
+       ESV: "so that he does not uncover his father's nakedness"
+       ASV: "nor uncover his father's skirt"
+       NET: "he must not violate his father's marriage"
+       WEB: "he shall not uncover his father's skirt"
+       Analysis: "K'naf" = wing, skirt, corner of garment. KJV/ASV/WEB
+       retain the idiom "father's skirt" — what belongs to the father (his
+       wife). ESV interprets as "father's nakedness" — the underlying
+       meaning. NET is most interpretive: "violate his father's marriage,"
+       making the application explicit. Same idiom in Ruth 3:9 (positive)
+       and Ezekiel 16:8.
 
 GLOSSARY
 ------------------------------------

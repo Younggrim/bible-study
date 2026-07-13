@@ -165,49 +165,42 @@ Charles Spurgeon:
   what God forbids. Solomon is the proof: the wisest man who ever lived
   destroyed his kingdom because he stopped listening to God's word."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "any evilfavouredness" / ESV: "any defect whatever" — Hebrew
-       "kol davar ra." Literally "any evil thing/matter." KJV's archaic
-       "evilfavouredness" means "ugly defect." ESV generalizes to "any
-       defect." The point: no imperfection of any kind in what is offered
-       to God.
+v.1  — Hebrew "kol davar ra." — any evil thing/matter.
+       KJV: "any evilfavouredness"
+       ESV: "any defect whatever"
+       Analysis: Hebrew "kol davar ra." Literally "any evil thing/matter." KJV's archaic "evilfavouredness" means "ugly defect." ESV generalizes to "any defect." The point: no imperfection of any kind in what is offered to God.
 
-v.3  — KJV: "which I have not commanded" / ESV: "which I have forbidden"
-       — Hebrew "asher lo tzivviti." Literally "which I have not
-       commanded." KJV is literal; ESV interprets (what God has not
-       commanded is effectively forbidden in worship). Both are valid
-       readings.
+v.3  — Hebrew "asher lo tzivviti." — which I have not commanded.
+       KJV: "which I have not commanded"
+       ESV: "which I have forbidden"
+       Analysis: Hebrew "asher lo tzivviti." Literally "which I have not commanded." KJV is literal; ESV interprets (what God has not commanded is effectively forbidden in worship). Both are valid readings.
 
-v.8  — KJV: "between blood and blood, between plea and plea, and between
-       stroke and stroke" / ESV: "between one kind of homicide and
-       another, one kind of legal right and another, or one kind of
-       assault and another" — Hebrew "bein dam l'dam, bein din l'din,
-       u-vein nega l'nega." KJV is literal; ESV interprets the legal
-       categories. "Dam" = blood (homicide cases). "Din" = judgment/plea
-       (civil cases). "Nega" = stroke/plague (assault/injury cases).
+v.8  — Hebrew "bein dam l'dam, bein din l'din, u-vein nega l'nega." — KJV is literal.
+       KJV: "between blood and blood, between plea and plea, and between stroke and stroke"
+       ESV: "between one kind of homicide and another, one kind of legal right and another, or one kind of assault and another"
+       Analysis: Hebrew "bein dam l'dam, bein din l'din, u-vein nega l'nega." KJV is literal; ESV interprets the legal categories. "Dam" = blood (homicide cases). "Din" = judgment/plea (civil cases). "Nega" = stroke/plague (assault/injury cases).
 
-v.12 — KJV: "do presumptuously" / ESV: "acts presumptuously" — Hebrew
-       "ya'aseh v'zadon." "Zadon" = presumption, arrogance, insolence.
-       Acting in deliberate defiance of the court's authority. Not
-       ignorance but willful rebellion against judicial authority.
+v.12  — Hebrew "ya'aseh v'zadon." — "Zadon" = presumption, arrogance, insolence.
+       KJV: "do presumptuously"
+       ESV: "acts presumptuously"
+       Analysis: Hebrew "ya'aseh v'zadon." "Zadon" = presumption, arrogance, insolence. Acting in deliberate defiance of the court's authority. Not ignorance but willful rebellion against judicial authority.
 
-v.15 — KJV: "one from among thy brethren" / ESV: "One from among your
-       brothers" — Hebrew "mi-qerev acheicha." The king must be an
-       Israelite — a brother, not a foreigner. This ensures the king
-       shares the covenant identity and obligations of the people.
+v.15  — Hebrew "mi-qerev acheicha." — The king must be an Israelite — a brother, not a foreigner.
+       KJV: "one from among thy brethren"
+       ESV: "One from among your brothers"
+       Analysis: Hebrew "mi-qerev acheicha." The king must be an Israelite — a brother, not a foreigner. This ensures the king shares the covenant identity and obligations of the people.
 
-v.16 — KJV: "multiply horses to himself" / ESV: "acquire many horses for
-       himself" — Hebrew "lo yarbeh lo susim." Horses = military power
-       (chariots, cavalry). Multiplying horses meant trusting in military
-       might rather than God. Egypt was the primary source of horses —
-       hence the prohibition against returning there.
+v.16  — Hebrew "lo yarbeh lo susim." — Horses = military power (chariots, cavalry).
+       KJV: "multiply horses to himself"
+       ESV: "acquire many horses for himself"
+       Analysis: Hebrew "lo yarbeh lo susim." Horses = military power (chariots, cavalry). Multiplying horses meant trusting in military might rather than God. Egypt was the primary source of horses — hence the prohibition against returning there.
 
-v.18 — KJV: "a copy of this law" / ESV: "a copy of this law" — Hebrew
-       "mishneh ha-torah ha-zot." "Mishneh" = copy, duplicate. The Greek
-       translation (LXX) rendered this "deuteronomion" (second law) —
-       giving the book its name "Deuteronomy." The king personally copies
-       the law — not delegated to a scribe.
+v.18  — Hebrew "mishneh ha-torah ha-zot." — "Mishneh" = copy, duplicate.
+       KJV: "a copy of this law"
+       ESV: "a copy of this law"
+       Analysis: Hebrew "mishneh ha-torah ha-zot." "Mishneh" = copy, duplicate. The Greek translation (LXX) rendered this "deuteronomion" (second law) — giving the book its name "Deuteronomy." The king personally copies the law — not delegated to a scribe.
 
 GLOSSARY
 ------------------------------------
@@ -282,6 +275,13 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Deuteronomy Overview:
   https://bibleproject.com/explore/video/deuteronomy/
+PODCAST RESOURCES
+------------------------------------
+David Guzik — Enduring Word Podcast (Deuteronomy Series):
+  Apple Podcasts: https://podcasts.apple.com/nz/podcast/enduring-word/id1717516011
+
+BibleProject Podcast — Deuteronomy Series:
+  https://bibleproject.com/podcast/
 
 
 PERSONAL NOTES

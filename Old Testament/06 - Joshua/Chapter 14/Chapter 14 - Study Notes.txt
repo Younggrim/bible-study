@@ -93,55 +93,137 @@ Charles Spurgeon:
   grow old, it does not retire, it does not seek ease. It says, 'Where
   is the hardest fight? Give it to me. Where is the steepest hill? I
   will climb it. For the LORD is with me, and that is enough.'"
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "the countries which the children of Israel inherited" /
-       ESV: "the inheritances that the people of Israel received" —
-       Hebrew "nachalah" = inheritance, hereditary possession. ESV's
-       "received" captures the passive reception from God; KJV's
-       "inherited" emphasizes the permanent, hereditary nature.
+v.1  — Hebrew "nachalah" — inheritance, hereditary possession.
+       KJV: "the countries which the children of Israel inherited"
+       ESV: "the inheritances that the people of Israel received"
+       ASV: "the inheritances which the children of Israel took"
+       NET: "a record of the territory assigned to the Israelites"
+       WEB: "the inheritances which the children of Israel took"
+       Analysis: ESV's "received" captures the passive reception from God;
+       KJV's "inherited" emphasizes the permanent, hereditary nature.
+       NET uses "territory assigned" — administrative language that
+       obscures the theological framework of nachalah, the dominant theme
+       of chapters 14-21. ASV/WEB preserve the inheritance concept.
 
-v.4  — KJV: "suburbs for their cattle" / ESV: "pasturelands for their
-       livestock" — Hebrew "migrash" = open land around a city, pasture
-       ground. KJV's "suburbs" is misleading to modern readers (it
-       suggests residential areas). ESV's "pasturelands" correctly
-       conveys open grazing land surrounding Levitical cities.
+v.4  — Hebrew "migrash" — open land around a city, pasture ground.
+       KJV: "suburbs for their cattle"
+       ESV: "pasturelands for their livestock"
+       ASV: "suburbs for their cattle"
+       NET: "grazing areas for their livestock"
+       WEB: "pasture lands for their livestock"
+       Analysis: KJV's "suburbs" is misleading to modern readers (suggests
+       residential areas). ESV/WEB's "pasturelands" and NET's "grazing
+       areas" correctly convey open grazing land surrounding Levitical
+       cities. ASV retains the archaic KJV rendering.
 
-v.6  — KJV: "Caleb the son of Jephunneh the Kenezite" / ESV: "Caleb
-       the son of Jephunneh the Kenizzite" — "Kenizzite/Kenezite"
-       indicates Caleb's clan within Judah, descended from Kenaz
-       (cf. Genesis 36:11,42). Some scholars note this may indicate
-       non-Israelite ancestry absorbed into Judah — making Caleb's
-       faith all the more remarkable.
+v.6  — Hebrew "Qenizzi" — clan designation within Judah.
+       KJV: "Caleb the son of Jephunneh the Kenezite"
+       ESV: "Caleb the son of Jephunneh the Kenizzite"
+       ASV: "Caleb the son of Jephunneh the Kenizzite"
+       NET: "Caleb son of Jephunneh the Kenizzite"
+       WEB: "Caleb the son of Jephunneh the Kenizzite"
+       Analysis: "Kenizzite/Kenezite" indicates Caleb's clan within Judah,
+       descended from Kenaz (cf. Genesis 36:11,42). Some scholars note
+       this may indicate non-Israelite ancestry absorbed into Judah —
+       making Caleb's faith all the more remarkable. All modern versions
+       use "Kenizzite."
 
-v.7  — KJV: "to espy out the land" / ESV: "to spy out the land" —
-       Hebrew "l'ragel" = to spy, reconnoiter. KJV's "espy" is archaic
-       English for "spy" or "observe secretly."
+v.7  — Hebrew "l'ragel" — to spy, reconnoiter.
+       KJV: "to espy out the land"
+       ESV: "to spy out the land"
+       ASV: "to spy out the land"
+       NET: "to scout out the land"
+       WEB: "to spy out the land"
+       Analysis: KJV's "espy" is archaic English for "spy" or "observe
+       secretly." ESV/ASV/WEB use modern "spy out." NET's "scout out"
+       is a slightly more neutral term, losing the covert connotation.
 
-v.8  — KJV: "I wholly followed the LORD my God" / ESV: "I wholly
-       followed the LORD my God" — Hebrew "mile'ti acharei YHWH" (lit.
-       "I filled after the LORD"). The idiom means to follow fully,
-       completely, without reservation. Both translations render it
-       identically here.
+v.8  — Hebrew "mile'ti acharei YHWH" — lit. "I filled after the LORD."
+       KJV: "I wholly followed the LORD my God"
+       ESV: "I wholly followed the LORD my God"
+       ASV: "I wholly followed Jehovah my God"
+       NET: "I remained loyal to the Lord my God"
+       WEB: "I remained completely faithful to Yahweh my God"
+       Analysis: The idiom means to follow fully, completely, without
+       reservation. KJV/ESV/ASV's "wholly followed" is most literal —
+       the Hebrew image is of a person walking completely in God's
+       footsteps without deviation. NET/WEB interpret as loyalty/
+       faithfulness, losing the vivid imagery of following after God.
 
-v.12 — KJV: "give me this mountain" / ESV: "give me this hill country"
-       — Hebrew "ha-har ha-zeh" = "this mountain" or "this hill
-       country." "Har" can mean a single mountain or a mountainous
-       region. KJV's "mountain" is more dramatic and memorable; ESV's
-       "hill country" is geographically more precise (Hebron sits in
-       the Judean hill country, not on a single peak).
+v.9  — Hebrew "nachalah" — inheritance with multigenerational covenant
+       weight.
+       KJV: "Surely the land whereon thy feet have trodden shall be thine inheritance"
+       ESV: "Surely the land on which your foot has trodden shall be an inheritance for you"
+       ASV: "the land whereon thy foot hath trodden shall be an inheritance to thee"
+       NET: "Surely the land on which you walked will belong to you and your descendants permanently"
+       WEB: "Surely the land whereon your foot has trodden shall be an inheritance to you"
+       Analysis: NET replaces "inheritance" with "belong to you
+       permanently." "Inheritance" (nachalah) carries multigenerational
+       covenant weight beyond mere ownership. KJV/ESV/ASV/WEB all
+       preserve this theological term.
 
-v.12 — KJV: "the Anakims" / ESV: "the Anakim" — Hebrew "Anaqim"
-       (plural). The Anakim were descendants of Anak, a race of
-       unusually tall people. KJV adds the English plural "-s" to the
-       already-plural Hebrew form. ESV preserves the Hebrew plural.
+v.12 — Hebrew "ha-har ha-zeh" — "this mountain" or "this hill country."
+       KJV: "give me this mountain"
+       ESV: "give me this hill country"
+       ASV: "give me this hill-country, whereof Jehovah spake in that day"
+       NET: "assign me this hill country that the Lord promised me"
+       WEB: "give me this hill country, of which Yahweh spoke"
+       Analysis: "Har" can mean a single mountain or a mountainous region.
+       KJV's "mountain" is more dramatic and memorable; ESV/ASV/WEB's
+       "hill country" is geographically more precise (Hebron sits in the
+       Judean hill country, not on a single peak). NET uses "assign"
+       (bureaucratic) where ASV/WEB/KJV use "give" (Hebrew "tenah" —
+       give me!). Caleb's request is bold and personal: "Give me!" — not
+       a polite administrative request.
 
-v.15 — KJV: "Kirjath-arba; which Arba was a great man among the
-       Anakims" / ESV: "Kiriath-arba. (Arba was the greatest man among
-       the Anakim.)" — Hebrew "ha-adam ha-gadol" = "the great man" or
-       "the greatest man." ESV's "greatest" (superlative) may better
-       capture the sense — Arba was the preeminent figure among the
-       Anakim, possibly their ancestor or chief warrior.
+v.12 — Hebrew "Anaqim" (plural) — descendants of Anak.
+       KJV: "the Anakims"
+       ESV: "the Anakim"
+       ASV: "the Anakim"
+       NET: "the Anakites"
+       WEB: "the Anakim"
+       Analysis: The Anakim were descendants of Anak, a race of unusually
+       tall people. KJV adds the English plural "-s" to the already-plural
+       Hebrew form. ESV/ASV/WEB preserve the Hebrew plural. NET uses the
+       anglicized "Anakites."
+
+v.13 — Hebrew "barakh" — to bless, kneel.
+       KJV: "And Joshua blessed him"
+       ESV: "Then Joshua blessed him"
+       ASV: "And Joshua blessed him"
+       NET: "Joshua asked God to empower Caleb"
+       WEB: "Joshua blessed him"
+       Analysis: NET dramatically reinterprets "blessed" (barakh) as
+       "asked God to empower." KJV/ASV/WEB/ESV preserve the simple and
+       beautiful "Joshua blessed him" — a patriarchal act of conferring
+       divine favor. NET's interpretive expansion is not supported by the
+       Hebrew text.
+
+v.14 — Hebrew "male' acharei YHWH" — wholly followed the LORD (repeated
+       from v.8).
+       KJV: "he wholly followed the LORD God of Israel"
+       ESV: "he wholly followed the LORD, the God of Israel"
+       ASV: "he wholly followed Jehovah, the God of Israel"
+       NET: "he remained loyal to the Lord God of Israel"
+       WEB: "he completely followed Yahweh, the God of Israel"
+       Analysis: The phrase repeats from v.8. Caleb's defining
+       characteristic in Scripture is total devotion to YHWH, rendered
+       consistently as "wholly followed" in KJV/ASV/ESV. WEB's
+       "completely followed" is close. NET's "remained loyal" interprets
+       rather than translates the Hebrew idiom.
+
+v.15 — Hebrew "ha-adam ha-gadol" — "the great man" or "the greatest man."
+       KJV: "Kirjath-arba; which Arba was a great man among the Anakims"
+       ESV: "Kiriath-arba. (Arba was the greatest man among the Anakim.)"
+       ASV: "Kiriath-arba; which Arba was the greatest man among the Anakim"
+       NET: "Kiriath Arba. (Arba was the most prominent man among the Anakites.)"
+       WEB: "Kiriath Arba; which Arba was the greatest man among the Anakim"
+       Analysis: ESV's "greatest" (superlative) may better capture the
+       sense — Arba was the preeminent figure among the Anakim, possibly
+       their ancestor or chief warrior. NET's "most prominent" is
+       interpretive but acceptable. KJV's simple "great" leaves ambiguity.
 
 GLOSSARY
 ------------------------------------
@@ -178,14 +260,6 @@ Wholly Followed — Hebrew "male' acharei YHWH" — to fill up after the
                Joshua 14:8,9,14). The opposite of the half-hearted
                obedience that characterized most of Israel.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "the inheritances which the children of Israel took" / NET: "a record of the territory assigned to the Israelites" — NET uses "territory assigned" where ASV/KJV use "inheritances" (nachalot). The inheritance concept (nachalah) is the dominant theme of chapters 14-21; NET's administrative language obscures this theological framework.
-- v.8 — ASV: "I wholly followed Jehovah my God" / WEB: "I remained completely faithful to Yahweh my God" / NET: "I remained loyal to the Lord my God" / KJV: "I wholly followed the LORD my God" — Hebrew "male acharey YHWH" = "fully followed after YHWH." KJV/ASV's "wholly followed" is most literal; NET/WEB interpret as loyalty/faithfulness. The Hebrew image is of a person walking completely in God's footsteps without deviation.
-- v.9 — NET: "Surely the land on which you walked will belong to you and your descendants permanently" / KJV: "Surely the land whereon thy feet have trodden shall be thine inheritance" / ASV: "the land whereon thy foot hath trodden shall be an inheritance to thee" — NET replaces "inheritance" with "belong to you permanently." "Inheritance" (nachalah) carries multigenerational covenant weight beyond mere ownership.
-- v.12 — ASV: "give me this hill-country, whereof Jehovah spake in that day" / WEB: "give me this hill country, of which Yahweh spoke" / NET: "assign me this hill country that the Lord promised me" — NET uses "assign" (bureaucratic) where ASV/WEB/KJV use "give" (Hebrew "tenah" — give me!). Caleb's request is bold and personal: "Give me!" — not a polite administrative request.
-- v.13 — NET: "Joshua asked God to empower Caleb" / KJV: "And Joshua blessed him" / ASV: "And Joshua blessed him" / WEB: "Joshua blessed him" — NET dramatically reinterprets "blessed" (barakh — to bless/kneel) as "asked God to empower." KJV/ASV/WEB preserve the simple and beautiful "Joshua blessed him" — a patriarchal act of conferring divine favor.
-- v.14 — ASV: "he wholly followed Jehovah, the God of Israel" / WEB: "he completely followed Yahweh, the God of Israel" / NET: "he remained loyal to the Lord God of Israel" — The phrase repeats from v.8. Caleb's defining characteristic in Scripture is total devotion to YHWH, rendered consistently as "wholly followed" in KJV/ASV.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

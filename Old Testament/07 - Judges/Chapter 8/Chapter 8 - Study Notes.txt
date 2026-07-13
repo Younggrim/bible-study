@@ -154,44 +154,105 @@ Charles Spurgeon:
   How many of us say the right things while doing the wrong things! Our
   theology is sound but our practice is corrupt. Gideon's mouth honored
   God while his hands built an idol."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "the gleaning of the grapes of Ephraim" / ESV: "the gleaning
-       of the grapes of Ephraim" — Hebrew "olelot Ephrayim." "Olelot" =
-       gleanings (what remains after harvest). Gideon's metaphor: even
-       Ephraim's leftovers (capturing Oreb and Zeeb) exceed Abiezer's
-       full harvest (the initial battle). Diplomatic flattery.
+v.2  — Hebrew "olelot Ephrayim" — gleanings of Ephraim.
+       KJV: "Is not the gleaning of the grapes of Ephraim better than the vintage of Abiezer?"
+       ESV: "Is not the gleaning of the grapes of Ephraim better than the grape harvest of Abiezer?"
+       ASV: "Is not the gleaning of the grapes of Ephraim better than the vintage of Abiezer?"
+       NET: "Even Ephraim's leftover grapes are better quality than Abiezer's harvest!"
+       WEB: "Is not the gleaning of the grapes of Ephraim better than the vintage of Abiezer?"
+       Analysis: "Olelot" = gleanings (what remains after harvest).
+       Gideon's metaphor: even Ephraim's leftovers exceed Abiezer's full
+       harvest. NET restructures into a declarative statement rather than
+       a rhetorical question, and adds "better quality" (interpretive).
+       Diplomatic flattery to defuse Ephraim's anger.
 
-v.4  — KJV: "faint, yet pursuing them" / ESV: "exhausted yet pursuing" —
-       Hebrew "ayefim v'rod'fim." "Ayef" = faint, exhausted, weary.
-       "Radaph" = to pursue, chase. The juxtaposition is powerful:
-       physical exhaustion does not stop spiritual determination.
+v.4  — Hebrew "ayefim v'rod'fim" — faint/exhausted yet pursuing.
+       KJV: "faint, yet pursuing them"
+       ESV: "exhausted yet pursuing"
+       ASV: "faint, yet pursuing"
+       NET: "even though they were exhausted, they were still chasing the Midianites"
+       WEB: "faint, yet pursuing"
+       Analysis: A terse, powerful construction. NET expands into a full
+       explanatory clause, losing the poetic compression that has made
+       "faint, yet pursuing" memorable for centuries. "Ayef" = faint,
+       exhausted, weary. "Radaph" = to pursue, chase. The juxtaposition
+       captures faithful perseverance: physical exhaustion does not stop
+       spiritual determination.
 
-v.16 — KJV: "with them he taught the men of Succoth" / ESV: "with them
-       taught the men of Succoth a lesson" — Hebrew "vayoda bahem."
-       "Yada" here means "to make known/teach" — but the "lesson" was
-       physical punishment with thorns. A grim euphemism: he "educated"
-       them with briers.
+v.16 — Hebrew "vayyoda bahem" — he taught/threshed with them.
+       KJV: "with them he taught the men of Succoth"
+       ESV: "with them he taught the men of Succoth a lesson"
+       ASV: "with them he taught the men of Succoth"
+       NET: "he then 'threshed' the men of Sukkoth with them"
+       WEB: "with them he taught the men of Succoth"
+       Analysis: "Yada" here can mean "to make known/teach" or (from a
+       different root) "to thresh." KJV/ASV/WEB/ESV use "taught" (grimly
+       ironic — he "taught" them with thorns). NET uses "threshed" in
+       quotes, connecting to Gideon's threat in v.7. Both readings are
+       linguistically possible.
 
-v.21 — KJV: "the ornaments that were on their camels' necks" / ESV: "the
-       crescent ornaments that were on the necks of their camels" —
-       Hebrew "ha-saharonim." "Sahar" = crescent moon. These were
-       crescent-shaped gold ornaments — likely connected to moon worship.
-       Gideon takes them as spoil, but they may have contributed to the
-       idolatrous ephod.
+v.21 — Hebrew "ki k'ish g'vurato" — for as the man, so is his strength.
+       KJV: "as the man is, so is his strength"
+       ESV: "As the man is, so is his strength"
+       ASV: "as the man is, so is his strength"
+       NET: "a man is judged by his strength"
+       WEB: "as the man is, so is his strength"
+       Analysis: Zebah and Zalmunna prefer death at a warrior's hand
+       rather than a boy's. NET interprets as a proverb about judgment;
+       ASV/WEB/KJV/ESV retain the more literal construction linking
+       identity to power. The kings taunt Gideon's son and request a
+       warrior's death.
 
-v.26 — KJV: "a thousand and seven hundred shekels of gold" / ESV: "1,700
-       shekels of gold" — Approximately 43 pounds (19.5 kg) of gold. An
-       enormous amount — enough to make a substantial golden object. The
-       parallel to Exodus 32 (golden calf from earrings) is unmistakable.
+v.26 — Hebrew "elef ush'va meot sheqel zahav" — 1,700 shekels of gold.
+       KJV: "a thousand and seven hundred shekels of gold"
+       ESV: "1,700 shekels of gold"
+       ASV: "a thousand and seven hundred shekels of gold"
+       NET: "seventy pounds of gold"
+       WEB: "one thousand seven hundred shekels of gold"
+       Analysis: Approximately 43 pounds (19.5 kg) of gold — NET converts
+       to a modern weight measurement for accessibility. An enormous
+       amount — enough to make a substantial golden object. The parallel
+       to Exodus 32 (golden calf from earrings) is unmistakable.
 
-v.27 — KJV: "made an ephod thereof" / ESV: "made an ephod of it" —
-       Hebrew "vaya'as oto l'ephod." The ephod was normally a priestly
-       garment with the Urim and Thummim for divine inquiry (Exodus
-       28:6-30). Gideon's ephod was likely a gold-plated garment or
-       image used for seeking God's will — but outside the authorized
-       priesthood and tabernacle. Unauthorized worship, however sincere,
-       becomes idolatry.
+v.27 — Hebrew "vaya'as oto l'ephod... vayyiznu kol-Yisrael acharav" —
+       he made it into an ephod... all Israel whored after it.
+       KJV: "Gideon made an ephod thereof... all Israel went thither a whoring after it"
+       ESV: "Gideon made an ephod of it... And all Israel whored after it there"
+       ASV: "Gideon made an ephod thereof... all Israel played the harlot after it there"
+       NET: "Gideon used the gold to make an ephod... All the Israelites prostituted themselves to it by worshiping it there"
+       WEB: "Gideon made an ephod of it... all Israel played the prostitute with it there"
+       Analysis: The spiritual adultery metaphor preserved in all. NET
+       adds "by worshiping it" — explanatory gloss not in Hebrew. The
+       ephod was normally a priestly garment for divine inquiry — but
+       outside authorized priesthood and tabernacle, it becomes idolatry.
+       Unauthorized worship, however sincere, becomes a snare.
+
+v.22 — Hebrew "moshal banu... ki hoshata-nu" — rule over us... for you
+       have saved us.
+       KJV: "Rule thou over us... for thou hast delivered us"
+       ESV: "Rule over us... for you have saved us"
+       ASV: "Rule thou over us... for thou hast saved us"
+       NET: "Rule over us... For you have delivered us from Midian's power"
+       WEB: "Rule over us... for you have saved us"
+       Analysis: NET adds "from Midian's power" for clarity. Gideon's
+       refusal ("the LORD shall rule over you") is theologically crucial —
+       he acknowledges divine kingship, though his subsequent actions
+       (ephod, many wives, naming a son "my father is king") contradict
+       his words.
+
+v.33 — Hebrew "vayyiznu acharey ha-Be'alim vayyasimu lahem Baal-B'rit
+       l'elohim" — whored after the Baals and made Baal-berith their god.
+       KJV: "went a whoring after Baalim, and made Baal-berith their god"
+       ESV: "turned again and whored after the Baals and made Baal-berith their god"
+       ASV: "played the harlot after the Baalim, and made Baal-berith their god"
+       NET: "prostituted themselves to the Baals. They made Baal Berith their god"
+       WEB: "played the prostitute following the Baals, and made Baal Berith their god"
+       Analysis: "Baal-berith" = "Lord of the Covenant" — a deeply ironic
+       name. Israel replaces their covenant LORD with a false "lord of the
+       covenant." The spiritual adultery metaphor continues. All preserve
+       the name and its theological irony.
 
 GLOSSARY
 ------------------------------------
@@ -228,20 +289,6 @@ Baal-berith    — "Lord of the covenant." The specific Baal worshipped at
                Shechem after Gideon's death. The name parodies God's
                covenant relationship with Israel — they replace the true
                covenant God with a false "lord of the covenant."
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.4 — ASV: "faint, yet pursuing" / WEB: "faint, yet pursuing" / NET: "even though they were exhausted, they were still chasing the Midianites" — This famous phrase in KJV/ASV/WEB ("faint, yet pursuing") is Hebrew "ayefim v'rod'fim" — a terse, powerful construction. NET expands into a full explanatory clause, losing the poetic compression that has made this phrase memorable for centuries.
-
-- v.16 — ASV: "with them he taught the men of Succoth" / WEB: "with them he taught the men of Succoth" / NET: "he then 'threshed' the men of Sukkoth with them" — Hebrew "vayyoda" can mean "to teach/make known" or (from a different root) "to thresh." KJV/ASV/WEB use "taught" (grimly ironic — he "taught" them with thorns). NET uses "threshed" in quotes, connecting to Gideon's threat in v.7. Both readings are linguistically possible.
-
-- v.21 — NET: "a man is judged by his strength" / ASV: "as the man is, so is his strength" / WEB: "as the man is, so is his strength" — Hebrew "ki k'ish g'vurato" = "for as the man, so is his strength." Zebah and Zalmunna prefer death at a warrior's hand rather than a boy's. NET interprets this as a proverb about judgment; ASV/WEB retain the more literal construction linking identity to power.
-
-- v.27 — ASV: "all Israel played the harlot after it there" / WEB: "all Israel played the prostitute with it there" / NET: "All the Israelites prostituted themselves to it by worshiping it there" — Hebrew "vayyiznu... acharav" = whored after it. NET adds "by worshiping it" — explanatory gloss not in Hebrew. The spiritual adultery metaphor is preserved in all versions; NET makes explicit what the metaphor implies.
-
-- v.33 — ASV: "played the harlot after the Baalim, and made Baal-berith their god" / WEB: "played the prostitute following the Baals, and made Baal Berith their god" / NET: "prostituted themselves to the Baals. They made Baal Berith their god" — "Baal-berith" = "Lord of the Covenant" — a deeply ironic name. Israel replaces their covenant LORD with a false "lord of the covenant." All translations preserve the name; the theological irony transcends translation.
-
-- v.22 — ASV: "Rule thou over us... for thou hast saved us" / WEB: "Rule over us... for you have saved us" / NET: "Rule over us... For you have delivered us from Midian's power" — Hebrew "moshal banu... ki hoshata-nu" = rule over us, for you have saved us. NET adds "from Midian's power" for clarity. Gideon's refusal ("Jehovah/Yahweh shall rule over you") is theologically crucial — he acknowledges divine kingship, though his subsequent actions (ephod, many wives, naming a son "my father is king") contradict his words.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

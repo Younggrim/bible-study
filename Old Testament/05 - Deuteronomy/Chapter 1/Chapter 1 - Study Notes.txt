@@ -176,7 +176,7 @@ Charles Spurgeon:
 
 TRANSLATION COMPARISON
 ------------------------------------
-v.1  — Hebrew "b'ever ha-Yarden." — Hebrew "b'ever ha-Yarden." The phrase means "on the other side of the Jordan".
+v.1  — Hebrew "b'ever ha-Yarden." — on the other side of the Jordan.
        KJV: "on this side Jordan"
        ESV: "beyond the Jordan"
        ASV: "beyond the Jordan in the wilderness, in the Arabah"
@@ -184,7 +184,7 @@ v.1  — Hebrew "b'ever ha-Yarden." — Hebrew "b'ever ha-Yarden." The phrase me
        WEB: "beyond the Jordan in the wilderness, in the Arabah"
        Analysis: Hebrew "b'ever ha-Yarden." The phrase means "on the other side of the Jordan" — from the writer's perspective. Since Moses is east of the Jordan, and the land of promise is west, both translations are valid depending on perspective. KJV translates from Moses' location; ESV from the land's perspective. a specific, identifiable location.
 
-v.1  — Hebrew "ba-Arabah mul Suph." — Hebrew "ba-Arabah mul Suph." KJV interprets "Suph" as the Red Sea (Yam Suph);
+v.1  — Hebrew "ba-Arabah mul Suph." — KJV interprets "Suph" as the Red Sea (Yam Suph).
        KJV: "in the plain over against the Red sea"
        ESV: "in the Arabah opposite Suph"
        ASV: "These are the words which Moses spake unto all Israel"
@@ -192,42 +192,42 @@ v.1  — Hebrew "ba-Arabah mul Suph." — Hebrew "ba-Arabah mul Suph." KJV inter
        WEB: "These are the words which Moses spoke to all Israel"
        Analysis: Hebrew "ba-Arabah mul Suph." KJV interprets "Suph" as the Red Sea (Yam Suph); ESV transliterates the place name. The Arabah is the rift valley running from the Sea of Galilee to the Gulf of Aqaba. the entire nation assembled for his farewell address. Deuteronomy's title in Hebrew is "Devarim" (Words).
 
-v.2  — NET notes the temporal contrast: "eleven days" vs. forty years (v.3). The geographical par...
+v.2  — NET notes the temporal contrast: "eleven days" vs. forty years (v.3).
        Analysis: NET notes the temporal contrast: "eleven days" vs. forty years (v.3). The geographical parenthesis exposes how brief the journey should have been — and how catastrophically unbelief extended it. NET makes this contrast especially clear through sentence structure.
 
-v.3  — Deuteronomy is not merely Moses' reminiscence but divinely authorized instruction.
+v.3  — Deuteronomy is not merely Moses' reminiscence but divinely authorized...
        ASV: "according unto all that Jehovah had given him in commandment"
        NET: "just as the Lord had instructed him"
        WEB: "according to all that Yahweh had given him in commandment"
        Analysis: Deuteronomy is not merely Moses' reminiscence but divinely authorized instruction.
 
-v.5  — Hebrew "ho'il Moshe be'er et ha-Torah." — Hebrew "ho'il Moshe be'er et ha-Torah." "Be'er" means to make plain, to expound, to dig into.
+v.5  — Hebrew "ho'il Moshe be'er et ha-Torah." — "Be'er" means to make plain, to expound, to dig into.
        KJV: "began Moses to declare this law"
        ESV: "Moses undertook to explain this law"
        Analysis: Hebrew "ho'il Moshe be'er et ha-Torah." "Be'er" means to make plain, to expound, to dig into. Moses is not merely repeating the law but explaining and applying it for the new generation.
 
-v.6  — enough for you! God moves His people forward when they've lingered too long.
+v.6  — enough for you! God moves His people forward when they've lingered...
        ASV: "Ye have dwelt long enough in this mountain"
        NET: "You have stayed long enough at this mountain"
        WEB: "You have lived long enough by this mountain"
        Analysis: enough for you! God moves His people forward when they've lingered too long.
 
-v.12  — Hebrew "torchachem u-masa'achem v'rivchem." — Hebrew "torchachem u-masa'achem v'rivchem." "Torach" = trouble/encumbrance;
+v.12  — Hebrew "torchachem u-masa'achem v'rivchem." — "Torach" = trouble/encumbrance.
        KJV: "your cumbrance, and your burden, and your strife"
        ESV: "the weight and burden of you and your strife"
        Analysis: Hebrew "torchachem u-masa'achem v'rivchem." "Torach" = trouble/encumbrance; "masa" = burden/load; "riv" = strife/contention. Three words for the weight of leadership.
 
-v.17  — Hebrew "lo takiru panim" — Hebrew "lo takiru panim" — literally "do not recognize faces." Justice must be blind to status.
+v.17  — Hebrew "lo takiru panim" — do not recognize faces.
        KJV: "Ye shall not respect persons in judgment"
        ESV: "You shall not be partial in judgment"
        Analysis: Hebrew "lo takiru panim" — literally "do not recognize faces." Justice must be blind to status. The Hebrew idiom means to show favoritism based on who someone is.
 
-v.28  — Hebrew "b'nei ha-Anaqim." — Hebrew "b'nei ha-Anaqim." The Anakim were a race of giants descended from Anak.
+v.28  — Hebrew "b'nei ha-Anaqim." — The Anakim were a race of giants descended from Anak.
        KJV: "the sons of the Anakims"
        ESV: "the sons of the Anakim"
        Analysis: Hebrew "b'nei ha-Anaqim." The Anakim were a race of giants descended from Anak. KJV adds the English plural "-s" to the already-plural Hebrew form.
 
-v.31  — Hebrew "n'sa'acha... ka'asher yisa ish et b'no." — Hebrew "n'sa'acha... ka'asher yisa ish et b'no." The image is of a father carrying a small child.
+v.31  — Hebrew "n'sa'acha... ka'asher yisa ish et b'no." — of a father carrying a small child.
        KJV: "bare thee, as a man doth bear his son"
        ESV: "carried you, as a man carries his son"
        ASV: "Jehovah thy God bare thee, as a man doth bear his son"
@@ -235,7 +235,7 @@ v.31  — Hebrew "n'sa'acha... ka'asher yisa ish et b'no." — Hebrew "n'sa'acha
        WEB: "Yahweh your God carried you, as a man carries his son"
        Analysis: Hebrew "n'sa'acha... ka'asher yisa ish et b'no." The image is of a father carrying a small child. God bore Israel through the wilderness with paternal tenderness. YHWH personally bears Israel.
 
-v.41  — Hebrew "va-tahinu la'alot ha-harah." — Hebrew "va-tahinu la'alot ha-harah." The verb "hun" suggests presuming something to be eas...
+v.41  — Hebrew "va-tahinu la'alot ha-harah." — The verb "hun" suggests presuming something to be easy, treating it lightly.
        KJV: "ye were ready to go up into the hill"
        ESV: "thought it easy to go up into the hill country"
        Analysis: Hebrew "va-tahinu la'alot ha-harah." The verb "hun" suggests presuming something to be easy, treating it lightly. They presumed the battle would be simple — without God, it was catastrophic.

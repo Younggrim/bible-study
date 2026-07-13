@@ -158,49 +158,132 @@ Charles Spurgeon:
   What folly to fight against the God who commands the universe! And what
   comfort to know that when He is for us, even the stars fight on our
   behalf."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "for the avenging of Israel, when the people willingly
-       offered themselves" / ESV: "That the leaders took the lead in
-       Israel, that the people offered themselves willingly" — Hebrew
-       "biphroa' p'ra'ot b'Yisrael b'hitnaddeyv am." The first phrase
-       is difficult. KJV reads "pera'" as "vengeance/avenging." ESV
-       reads it as "leaders leading" (from "para'" = to let loose hair,
-       hence leaders letting their hair loose in battle). Both are
-       legitimate readings of a notoriously difficult verse.
+v.2  — Hebrew "biphroa' p'ra'ot b'Yisrael b'hitnaddeyv am" — difficult
+       opening phrase.
+       KJV: "for the avenging of Israel, when the people willingly offered themselves"
+       ESV: "That the leaders took the lead in Israel, that the people offered themselves willingly"
+       ASV: "For that the leaders took the lead in Israel, For that the people offered themselves willingly, Bless ye Jehovah"
+       NET: "When the leaders took the lead in Israel, When the people answered the call to war—Praise the Lord!"
+       WEB: "Because the leaders took the lead in Israel, because the people offered themselves willingly, be blessed, Yahweh!"
+       Analysis: The first phrase is notoriously difficult. KJV reads
+       "pera'" as "vengeance/avenging." ESV/ASV/WEB read it as "leaders
+       leading" (from "para'" = to let loose hair, hence leaders going
+       forth). NET diverges: "offered themselves willingly" becomes
+       "answered the call to war" — losing the voluntary nature emphasized
+       in Hebrew "b'hitnadev am" (when the people volunteered themselves).
+       The Hebrew stresses willing self-offering, not merely responding to
+       a summons.
 
-v.7  — KJV: "a mother in Israel" / ESV: "a mother in Israel" — Hebrew
-       "em b'Yisrael." Deborah's self-designation. The title "mother in
-       Israel" denotes a protector and nurturer of the nation — a
-       leadership role defined by care rather than conquest.
+v.7  — Hebrew "em b'Yisrael" — a mother in Israel.
+       KJV: "until that I Deborah arose, that I arose a mother in Israel"
+       ESV: "until I arose; I, Deborah, arose as a mother in Israel"
+       ASV: "Until that I Deborah arose, That I arose a mother in Israel"
+       NET: "until you arose, Deborah, until you arose as a motherly protector in Israel"
+       WEB: "Until I, Deborah, arose; Until I arose a mother in Israel"
+       Analysis: Deborah's self-designation as "mother in Israel" denotes
+       a protector and nurturer of the nation. NET changes first person to
+       second person ("you arose") and expands "mother" to "motherly
+       protector." The Hebrew "em" simply means "mother" — a leadership
+       role defined by care rather than conquest.
 
-v.20 — KJV: "the stars in their courses fought against Sisera" / ESV:
-       "from their courses they fought against Sisera" — Hebrew
-       "mimm'sillotam nilchamu im-Sisera." "M'sillot" = courses, tracks,
-       highways. The stars fought from their ordained paths — cosmic
-       order itself opposed Sisera. This may be poetic/metaphorical or
-       may suggest actual meteorological phenomena (storms, hail) that
+v.11 — Hebrew "tsidqot Adonai" — righteous acts of the LORD.
+       KJV: "there shall they rehearse the righteous acts of the LORD"
+       ESV: "there they repeat the righteous triumphs of the LORD"
+       ASV: "there shall they rehearse the righteous acts of Jehovah"
+       NET: "there they tell of the Lord's victorious deeds"
+       WEB: "there they will rehearse Yahweh's righteous acts"
+       Analysis: NET renders "tsidqot" as "victorious deeds" — an
+       interpretive shift from moral character (righteousness) to military
+       outcome (victory). The Hebrew encompasses both: God's victories ARE
+       His righteous acts. ASV/WEB retain the literal rendering.
+
+v.20 — Hebrew "mimm'sillotam nilchamu im-Sisera" — from their courses
+       they fought against Sisera.
+       KJV: "the stars in their courses fought against Sisera"
+       ESV: "from their courses they fought against Sisera"
+       ASV: "the stars in their courses fought against Sisera"
+       NET: "the stars fought from their paths in the sky; they fought against Sisera"
+       WEB: "the stars from their courses fought against Sisera"
+       Analysis: "M'sillot" = courses, tracks, highways. The stars fought
+       from their ordained paths — cosmic order itself opposed Sisera.
+       NET adds "in the sky" for clarity. This may be poetic/metaphorical
+       or may suggest actual meteorological phenomena (storms, hail) that
        accompanied the battle.
 
-v.26 — KJV: "she smote off his head" / ESV: "she crushed his head" —
-       Hebrew "machaqah rosho." "Machaq" = to crush, shatter. KJV's
-       "smote off" suggests decapitation; ESV's "crushed" is more
-       accurate to the Hebrew. She crushed/shattered his skull with the
-       hammer blow that drove the peg through his temple.
+v.21 — Hebrew "tidr'ki nafshi oz" — march on, my soul, with might.
+       KJV: "O my soul, thou hast trodden down strength"
+       ESV: "March on, my soul, with might!"
+       ASV: "O my soul, march on with strength"
+       NET: "Step on the necks of the strong!"
+       WEB: "My soul, march on with strength"
+       Analysis: Dramatically different renderings. ASV/WEB/ESV: self-
+       exhortation to courage. NET: violent imagery of trampling enemies.
+       KJV: past-tense declaration of victory. The Hebrew is ambiguous
+       but the self-address ("my soul/nafshi") favors the self-exhortation
+       reading of ASV/WEB/ESV.
 
-v.28 — KJV: "The mother of Sisera looked out at a window" / ESV: "Out
-       of the window she peered, the mother of Sisera" — Hebrew
-       "be'ad hachallon nishq'phah." "Shaqaph" = to look out, peer
-       through. The image of a mother anxiously watching for her son's
-       return is universal and poignant — even for the enemy. The song
-       acknowledges the human cost of war.
+v.25 — Hebrew "chem'ah... sephel addiyrim" — curds/butter... in a
+       lordly dish.
+       KJV: "she brought forth butter in a lordly dish"
+       ESV: "she brought him curds in a noble's bowl"
+       ASV: "She brought him butter in a lordly dish"
+       NET: "in a bowl fit for a king, she served him curds"
+       WEB: "She brought him butter in a lordly dish"
+       Analysis: "Chem'ah" = curds/butter/cream. KJV/ASV/WEB say "butter";
+       ESV/NET say "curds" (more accurate for the dairy product in ancient
+       Near East). "Sephel addiyrim" = bowl/dish of nobles/lords. NET
+       expands to "bowl fit for a king"; ASV/WEB retain "lordly dish."
 
-v.30 — KJV: "to every man a damsel or two" / ESV: "A womb or two for
-       every man" — Hebrew "racham rachmatayim l'rosh gaver." "Rechem"
-       = womb. KJV softens this to "damsel." ESV's literal "womb"
-       captures the brutal objectification — women reduced to body parts
-       as spoils of war. The song exposes the enemy's dehumanizing view
-       of women, contrasting it with Deborah and Jael's agency.
+v.26 — Hebrew "machaqah rosho" — crushed his head.
+       KJV: "she smote off his head, when she had pierced and stricken through his temples"
+       ESV: "she shattered and pierced his temple"
+       ASV: "she smote through his head, she shattered and pierced through his temples"
+       NET: "she shattered his skull, she smashed and pierced his temple"
+       WEB: "she struck through his head, she shattered and pierced through his temples"
+       Analysis: "Machaq" = to crush, shatter. KJV's "smote off" suggests
+       decapitation; ESV/NET's "shattered/crushed" is more accurate to the
+       Hebrew. She crushed/shattered his skull with the hammer blow that
+       drove the peg through his temple.
+
+v.28 — Hebrew "be'ad hachallon nishq'phah" — through the window she
+       peered.
+       KJV: "The mother of Sisera looked out at a window"
+       ESV: "Out of the window she peered, the mother of Sisera"
+       ASV: "Through the window she looked forth and cried"
+       NET: "Through the window she looked; Sisera's mother cried out through the lattice"
+       WEB: "Through the window she looked out, and cried: Sisera's mother looked through the lattice"
+       Analysis: "Shaqaph" = to look out, peer through. The image of a
+       mother anxiously watching for her son's return is universal and
+       poignant — even for the enemy. The song acknowledges the human
+       cost of war.
+
+v.30 — Hebrew "racham rachmatayim l'rosh gaver" — a womb or two for
+       every warrior.
+       KJV: "to every man a damsel or two"
+       ESV: "A womb or two for every man"
+       ASV: "A damsel, two damsels to every man"
+       NET: "a girl or two for each man to rape!"
+       WEB: "A lady, two ladies to every man"
+       Analysis: "Rechem" = womb. KJV/ASV soften to "damsel"; WEB uses
+       "lady"; ESV gives the literal "womb" — capturing the brutal
+       objectification. NET makes the sexual violence explicit ("to rape"),
+       interpretively bold but capturing the degradation Sisera's mother
+       casually contemplates. The song exposes the enemy's dehumanizing
+       view of women, contrasting it with Deborah and Jael's agency.
+
+v.23 — Hebrew "oru Meroz" — curse Meroz.
+       KJV: "Curse ye Meroz, said the angel of the LORD"
+       ESV: "'Curse Meroz,' says the angel of the LORD"
+       ASV: "Curse ye Meroz, said the angel of Jehovah"
+       NET: "'Call judgment down on Meroz,' says the angel of the Lord"
+       WEB: "'Curse Meroz,' said Yahweh's angel"
+       Analysis: Hebrew "oru" = curse. NET softens "curse" to "call
+       judgment down on" — a dynamic equivalence that loses the direct
+       imprecatory force of the Hebrew curse formula. Neutrality in God's
+       battles is cursed — those who refuse to help are not innocent
+       bystanders but guilty of abandoning God's cause.
 
 GLOSSARY
 ------------------------------------
@@ -232,22 +315,6 @@ Seir/Edom      — The mountainous region southeast of the Dead Sea. God
                "marching from Seir" recalls His journey with Israel from
                Sinai through the wilderness. The theophanic language
                connects past deliverance (Exodus) with present victory.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — ASV: "For that the leaders took the lead in Israel, For that the people offered themselves willingly, Bless ye Jehovah" / WEB: "Because the leaders took the lead in Israel, because the people offered themselves willingly, be blessed, Yahweh!" / NET: "When the leaders took the lead in Israel, When the people answered the call to war—Praise the Lord!" — NET diverges significantly: "offered themselves willingly" becomes "answered the call to war" — losing the voluntary nature emphasized in Hebrew "b'hitnadev am" (when the people volunteered themselves). The Hebrew stresses willing self-offering, not merely responding to a summons.
-
-- v.7 — ASV: "Until that I Deborah arose, That I arose a mother in Israel" / WEB: "Until I, Deborah, arose; Until I arose a mother in Israel" / NET: "until you arose, Deborah, until you arose as a motherly protector in Israel" — NET changes first person to second person ("you arose") and expands "mother" to "motherly protector." The Hebrew "em" simply means "mother" — Deborah's role as national mother-figure needs no expansion.
-
-- v.11 — ASV: "there shall they rehearse the righteous acts of Jehovah" / WEB: "there they will rehearse Yahweh's righteous acts" / NET: "there they tell of the Lord's victorious deeds" — Hebrew "tsidqot Adonai" = "righteousnesses/righteous acts of the LORD." NET renders "tsidqot" as "victorious deeds" — an interpretive shift from moral character (righteousness) to military outcome (victory). The Hebrew encompasses both: God's victories ARE His righteous acts.
-
-- v.21 — ASV: "O my soul, march on with strength" / WEB: "My soul, march on with strength" / NET: "Step on the necks of the strong!" — Dramatically different renderings of Hebrew "tidr'ki nafshi oz." ASV/WEB: self-exhortation to courage. NET: violent imagery of trampling enemies. The Hebrew is ambiguous but the self-address ("my soul") favors ASV/WEB's reading.
-
-- v.25 — ASV: "She brought him butter in a lordly dish" / WEB: "She brought him butter in a lordly dish" / NET: "in a bowl fit for a king, she served him curds" — Hebrew "chem'ah" = curds/butter/cream. KJV/ASV/WEB say "butter"; NET says "curds" (more accurate for the dairy product in ancient Near East). "Lordly dish" (Hebrew "sephel addiyrim") = ASV/WEB retain the majestic language; NET expands to "bowl fit for a king."
-
-- v.30 — NET: "a girl or two for each man to rape!" / ASV: "A damsel, two damsels to every man" / WEB: "A lady, two ladies to every man" — Hebrew "racham rachamatayim" literally means "a womb, two wombs per warrior." NET makes the brutal sexual violence explicit ("to rape"); ASV/WEB use euphemistic "damsel/lady." NET's rendering is interpretively bold but captures the degradation Sisera's mother casually contemplates for Israelite women.
-
-- v.23 — ASV: "Curse ye Meroz, said the angel of Jehovah" / WEB: "'Curse Meroz,' said Yahweh's angel" / NET: "'Call judgment down on Meroz,' says the angel of the Lord" — Hebrew "oru" = curse. NET softens "curse" to "call judgment down on" — a dynamic equivalence that loses the direct imprecatory force of the Hebrew curse formula.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

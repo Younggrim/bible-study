@@ -174,48 +174,70 @@ Charles Spurgeon:
   covenant: 'I will put my law in their inward parts, and write it in
   their hearts' (Jeremiah 31:33)."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "statutes and judgments" / ESV: "statutes and rules" — Hebrew
-       "ha-chuqqim v'ha-mishpatim." Same distinction as 4:1. KJV
-       consistently renders "mishpatim" as "judgments"; ESV as "rules."
+v.1  — Hebrew "ha-chuqqim v'ha-mishpatim." — Same distinction as 4:1.
+       KJV: "statutes and judgments"
+       ESV: "statutes and rules"
+       Analysis: Hebrew "ha-chuqqim v'ha-mishpatim." Same distinction as 4:1. KJV consistently renders "mishpatim" as "judgments"; ESV as "rules."
 
-v.5  — KJV: "to shew you the word of the LORD" / ESV: "to declare to you
-       the word of the LORD" — Hebrew "l'haggid lachem et d'var YHWH."
-       "Haggid" = to declare, to tell, to make known. Moses' role as
-       mediator: receiving God's word and declaring it to the people.
+v.5  — Hebrew "l'haggid lachem et d'var YHWH." — "Haggid" = to declare, to tell, to make known.
+       KJV: "to shew you the word of the LORD"
+       ESV: "to declare to you the word of the LORD"
+       Analysis: Hebrew "l'haggid lachem et d'var YHWH." "Haggid" = to declare, to tell, to make known. Moses' role as mediator: receiving God's word and declaring it to the people.
 
-v.9  — KJV: "visiting the iniquity of the fathers upon the children" /
-       ESV: "visiting the iniquity of the fathers on the children" —
-       Hebrew "poqed avon avot al banim." "Poqed" = visiting/attending to.
-       Not arbitrary punishment of innocents but the natural consequences
-       of sin extending through generations.
+v.6  — He saved them BEFORE giving rules.
+       ASV: "I am Jehovah thy God, who brought thee out of the land of Egypt, out of the house of bondage"
+       NET: "I am the Lord your God, who brought you from the land of Egypt, from the place of slavery"
+       WEB: "I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage"
+       Analysis: He saved them BEFORE giving rules.
 
-v.10 — KJV: "shewing mercy unto thousands" / ESV: "showing steadfast love
-       to thousands" — Hebrew "oseh chesed la-alaphim." "Chesed" =
-       covenant love/loyalty/mercy. ESV's "steadfast love" captures the
-       covenantal faithfulness; KJV's "mercy" captures the undeserved
-       nature. The contrast: iniquity visits 3-4 generations; mercy
-       extends to thousands.
+v.7  — NET's "besides me" differs from ASV/KJV's "before me." Hebrew...
+       KJV: "Thou shalt have none other gods before me"
+       ASV: "Thou shalt have no other gods before me"
+       NET: "You must not have any other gods besides me"
+       WEB: "You shall have no other gods before me"
+       Analysis: NET's "besides me" differs from ASV/KJV's "before me." Hebrew "al-panai" could mean "before my face" (in my presence), "in opposition to me," or "besides me." NET chooses exclusivity; ASV/KJV retain the spatial metaphor.
 
-v.12 — KJV: "Keep the sabbath day to sanctify it" / ESV: "Observe the
-       Sabbath day, to keep it holy" — Hebrew "shamor et yom ha-Shabbat
-       l'qadd'sho." Note: Exodus 20:8 uses "zachor" (remember); here
-       "shamor" (keep/guard). Jewish tradition holds both were spoken
-       simultaneously — remember and keep.
+v.9  — Hebrew "poqed avon avot al banim." — "Poqed" = visiting/attending to.
+       KJV: "visiting the iniquity of the fathers upon the children"
+       ESV: "visiting the iniquity of the fathers on the children"
+       Analysis: Hebrew "poqed avon avot al banim." "Poqed" = visiting/attending to. Not arbitrary punishment of innocents but the natural consequences of sin extending through generations.
 
-v.21 — KJV: "Neither shalt thou desire... neither shalt thou covet" / ESV:
-       "you shall not covet... you shall not desire" — Hebrew "lo
-       tachmod... v'lo tit'avveh." Two different verbs: "chamad" (to
-       desire/delight in) and "avah" (to crave/long for). The Exodus
-       version uses only "chamad." Deuteronomy adds "avah" and separates
-       the wife from the property — elevating her status.
+v.10  — Hebrew "oseh chesed la-alaphim." — "Chesed" = covenant love/loyalty/mercy.
+       KJV: "shewing mercy unto thousands"
+       ESV: "showing steadfast love to thousands"
+       Analysis: Hebrew "oseh chesed la-alaphim." "Chesed" = covenant love/loyalty/mercy. ESV's "steadfast love" captures the covenantal faithfulness; KJV's "mercy" captures the undeserved nature. The contrast: iniquity visits 3-4 generations; mercy extends to thousands.
 
-v.29 — KJV: "O that there were such an heart in them" / ESV: "Oh that
-       they had such a heart as this always" — Hebrew "mi yitten v'hayah
-       l'vavam zeh lahem." Literally "who will give that their heart would
-       be this to them." An idiom expressing deep longing. God Himself
-       wishes for what He knows they lack.
+v.12  — Hebrew "shamor et yom ha-Shabbat l'qadd'sho." — Note: Exodus 20:8 uses "zachor" (remember); here "shamor" (keep/guard).
+       KJV: "Keep the sabbath day to sanctify it"
+       ESV: "Observe the Sabbath day, to keep it holy"
+       ASV: "Jehovah spake unto you out of the midst of the fire"
+       NET: "the Lord spoke to you from the middle of the fire"
+       WEB: "Yahweh spoke to you out of the middle of the fire"
+       Analysis: Hebrew "shamor et yom ha-Shabbat l'qadd'sho." Note: Exodus 20:8 uses "zachor" (remember); here "shamor" (keep/guard). Jewish tradition holds both were spoken simultaneously — remember and keep. God speaks from fire itself, demonstrating both His holiness (fire purifies) and His power (fire consumes). The divine name marks who spoke.
+
+v.15  — The Sabbath command in Deuteronomy adds a humanitarian motivation...
+       ASV: "Jehovah thy God commanded thee"
+       NET: "the Lord your God has commanded you"
+       WEB: "Yahweh your God commanded you"
+       Analysis: The Sabbath command in Deuteronomy adds a humanitarian motivation (slaves must rest) not found in Exodus 20. The divine name appears more frequently in Deuteronomy's version.
+
+v.21  — Hebrew "lo tachmod... v'lo tit'avveh." — Two different verbs: "chamad" (to desire/delight in) and "avah" (to...
+       KJV: "Neither shalt thou desire... neither shalt thou covet"
+       ESV: "you shall not covet... you shall not desire"
+       ASV: "Neither shalt thou covet thy neighbor's wife"
+       NET: "You must not covet your neighbor's wife"
+       WEB: "Neither shall you covet your neighbor's wife"
+       Analysis: Hebrew "lo tachmod... v'lo tit'avveh." Two different verbs: "chamad" (to desire/delight in) and "avah" (to crave/long for). The Exodus version uses only "chamad." Deuteronomy adds "avah" and separates the wife from the property — elevating her status. she is a person, not property.
+
+v.29  — Hebrew "mi yitten v'hayah l'vavam zeh lahem." — who will give that their heart would be this to them.
+       KJV: "O that there were such an heart in them"
+       ESV: "Oh that they had such a heart as this always"
+       ASV: "Oh that there were such a heart in them"
+       NET: "if only they had such a heart"
+       WEB: "Oh that there were such a heart in them"
+       Analysis: Hebrew "mi yitten v'hayah l'vavam zeh lahem." Literally "who will give that their heart would be this to them." An idiom expressing deep longing. God Himself wishes for what He knows they lack. an expression of divine longing. God desires their obedience but will not coerce it.
 
 GLOSSARY
 ------------------------------------
@@ -252,19 +274,6 @@ Vain (Hebrew: "shav") — Emptiness, falsehood, worthlessness. Taking God's
                worthless purposes — false oaths, casual profanity, or
                claiming His authority without His commission.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.6 — NET: "I am the Lord your God, who brought you from the land of Egypt, from the place of slavery" / ASV: "I am Jehovah thy God, who brought thee out of the land of Egypt, out of the house of bondage" / WEB: "I am Yahweh your God, who brought you out of the land of Egypt, out of the house of bondage" — The Decalogue preamble. NET uses "place of slavery"; ASV/WEB use "house of bondage" (Hebrew "beth avadim"). God's self-identification grounds all commandments in redemption — He saved them BEFORE giving rules.
-
-- v.7 — NET: "You must not have any other gods besides me" / ASV: "Thou shalt have no other gods before me" / WEB: "You shall have no other gods before me" / KJV: "Thou shalt have none other gods before me" — NET's "besides me" differs from ASV/KJV's "before me." Hebrew "al-panai" could mean "before my face" (in my presence), "in opposition to me," or "besides me." NET chooses exclusivity; ASV/KJV retain the spatial metaphor.
-
-- v.12 — NET: "the Lord spoke to you from the middle of the fire" / ASV: "Jehovah spake unto you out of the midst of the fire" / WEB: "Yahweh spoke to you out of the middle of the fire" — Deuteronomy's retelling of Sinai. "Out of the midst of the fire" — God speaks from fire itself, demonstrating both His holiness (fire purifies) and His power (fire consumes). The divine name marks who spoke.
-
-- v.15 — NET: "the Lord your God has commanded you" / ASV: "Jehovah thy God commanded thee" / WEB: "Yahweh your God commanded you" — The Sabbath command in Deuteronomy adds a humanitarian motivation (slaves must rest) not found in Exodus 20. The divine name appears more frequently in Deuteronomy's version.
-
-- v.21 — NET: "You must not covet your neighbor's wife" / ASV: "Neither shalt thou covet thy neighbor's wife" / WEB: "Neither shall you covet your neighbor's wife" — In Deuteronomy, "wife" is listed separately from property (unlike Exodus 20:17 where she's grouped with possessions). This elevates her dignity — she is a person, not property.
-
-- v.29 — NET: "if only they had such a heart" / ASV: "Oh that there were such a heart in them" / WEB: "Oh that there were such a heart in them" — God's poignant wish for Israel. Hebrew "mi-yitten" (who will give?) — an expression of divine longing. God desires their obedience but will not coerce it.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

@@ -124,30 +124,102 @@ Charles Spurgeon:
   assumes divine approval for human creation. Micah was sincere — and
   sincerely wrong. Sincerity without truth is the most dangerous form
   of religion, for it feels righteous while being rebellious."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.5  — KJV: "an house of gods" / ESV: "a shrine" — Hebrew "beyt
-       elohim." Literally "house of God/gods." KJV's "house of gods"
-       captures the polytheistic nature of Micah's shrine. ESV's "shrine"
-       is more neutral. The Hebrew is ambiguous — it could mean a shrine
-       dedicated to God (Elohim) or a house containing multiple gods.
+v.2  — Hebrew "barukh b'ni l'Adonai" — blessed be my son by/to the LORD.
+       KJV: "Blessed be thou of the LORD, my son"
+       ESV: "Blessed be my son by the LORD"
+       ASV: "Blessed be my son of Jehovah"
+       NET: "May the Lord reward you, my son!"
+       WEB: "May Yahweh bless my son!"
+       Analysis: The irony is devastating: she invokes the covenant God's
+       blessing on silver that will be made into an idol. NET's "reward"
+       loses the liturgical quality of the blessing formula. ASV/WEB use
+       the divine name (Jehovah/Yahweh) making the idolatrous
+       contradiction even more explicit.
 
-v.5  — KJV: "teraphim" / ESV: "household gods" — Hebrew "t'raphim."
-       Small idol figurines kept in homes for divination and protection.
-       Rachel stole Laban's teraphim (Genesis 31:19). They represent
-       domestic idolatry — bringing pagan worship into the home.
+v.3  — Hebrew "haqdesh hiqadashti et-hakkeseph l'Adonai...l'asot pesel
+       u-massekah" — I have surely dedicated the silver to the LORD...to
+       make a carved image and a metal image.
+       KJV: "I had wholly dedicated the silver unto the LORD from my
+            hand for my son, to make a graven image and a molten image"
+       ESV: "I dedicate the silver to the LORD from my hand for my son,
+            to make a carved image and a metal image"
+       ASV: "I verily dedicate the silver unto Jehovah from my hand for
+            my son, to make a graven image and a molten image"
+       NET: "I solemnly dedicate this silver to the Lord...We will use
+            it to make a carved image and a metal image"
+       WEB: "I most certainly dedicate the silver to Yahweh from my hand
+            for my son, to make a carved image and a molten image"
+       Analysis: The theological absurdity is preserved across all
+       translations: dedicating silver to YHWH for the purpose of making
+       a graven image — violating the second commandment while invoking
+       the Lawgiver's name. The contradiction defines the era.
 
-v.6  — KJV: "every man did that which was right in his own eyes" / ESV:
-       "Everyone did what was right in his own eyes" — Hebrew "ish
-       ha-yashar b'eynav ya'aseh." "Yashar" = straight, right, upright.
-       "B'eynav" = in his eyes. The same phrase used of Samson's desire
-       (14:3). Individual moral autonomy replacing divine authority.
+v.5  — Hebrew "beyt elohim" / "t'raphim" — house of God/gods /
+       household idols.
+       KJV: "an house of gods" / "teraphim"
+       ESV: "a shrine" / "household gods"
+       ASV: "the man Micah had a house of gods, and he made an ephod,
+            and teraphim"
+       NET: "this man Micah owned a shrine. He made an ephod and some
+            personal idols"
+       WEB: "the man Micah had a house of gods, and he made an ephod,
+            and teraphim"
+       Analysis: "Beth elohim" literally = "house of God/gods." KJV/ASV/
+       WEB's "house of gods" captures the polytheistic nature of Micah's
+       shrine. ESV's "shrine" is more neutral. For "teraphim": ASV/WEB
+       retain the Hebrew term; ESV renders "household gods"; NET
+       interprets as "personal idols." Teraphim were household deity
+       figurines associated with ancestor worship and divination (cf.
+       Genesis 31:19; 1 Samuel 19:13).
 
-v.10 — KJV: "be unto me a father and a priest" / ESV: "be to me a
-       father and a priest" — Hebrew "heyeh-li l'av u-l'kohen." "Father"
-       here means spiritual advisor/authority. Ironic: Micah hires a
-       young man to be his "father" — the relationship is commercial,
-       not spiritual.
+v.6  — Hebrew "ish ha-yashar b'eynav ya'aseh" — a man what is straight
+       in his eyes would do.
+       KJV: "every man did that which was right in his own eyes"
+       ESV: "Everyone did what was right in his own eyes"
+       ASV: "every man did that which was right in his own eyes"
+       NET: "Each man did what he considered to be right"
+       WEB: "every man did that which was right in his own eyes"
+       Analysis: The book's thematic refrain. "Yashar" = straight, right,
+       upright. "B'eynav" = in his eyes. KJV/ASV/WEB/ESV preserve the
+       crucial "in his own eyes" — connecting back to Samson doing what
+       was "right in his eyes" (14:3). NET's "what he considered to be
+       right" is correct but less memorable and loses the visual/moral
+       metaphor of sight that runs through Judges.
+
+v.10 — Hebrew "heyeh-li l'av u-l'kohen" — be to me for a father and
+       for a priest.
+       KJV: "be unto me a father and a priest"
+       ESV: "be to me a father and a priest"
+       ASV: "be unto me a father and a priest"
+       NET: "Become my adviser and priest"
+       WEB: "be to me a father and a priest"
+       Analysis: "Father" here means spiritual advisor/authority. ASV/
+       WEB/KJV/ESV retain "father" (a title of respect for a spiritual
+       leader). NET interprets as "adviser," which loses the paternal/
+       priestly imagery. Micah wants a personal spiritual authority — a
+       household "father" in religion. Ironic: Micah hires a young man
+       to be his "father" — the relationship is commercial, not
+       spiritual.
+
+v.13 — Hebrew "yetiv Adonai li" — the LORD will do good to me.
+       KJV: "Now know I that the LORD will do me good, seeing I have a
+            Levite to my priest"
+       ESV: "Now I know that the LORD will prosper me, because I have a
+            Levite as priest"
+       ASV: "Now know I that Jehovah will do me good, seeing I have a
+            Levite to my priest"
+       NET: "Now I know the Lord will make me rich because I have this
+            Levite as my priest"
+       WEB: "Now I know that Yahweh will do me good, seeing I have a
+            Levite as my priest"
+       Analysis: NET adds "rich" (not in the Hebrew). Hebrew "yetiv" =
+       to do good/prosper. Micah treats God transactionally: proper
+       religious personnel = guaranteed blessing. He confuses religious
+       correctness with spiritual obedience. KJV/ASV/WEB's "do me good"
+       is most literal; ESV's "prosper" and NET's "make me rich" are
+       increasingly interpretive.
 
 GLOSSARY
 ------------------------------------
@@ -173,20 +245,6 @@ Ephod          — In legitimate worship, the high priest's garment
                moral and spiritual autonomy — each person determining
                truth for themselves rather than submitting to God's
                revealed will. The opposite of "right in God's eyes."
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — ASV: "Blessed be my son of Jehovah" / WEB: "May Yahweh bless my son!" / NET: "May the Lord reward you, my son!" — Hebrew "barukh b'ni l'Adonai" = blessed be my son by/to the LORD. The irony is devastating: she invokes the covenant God's blessing on silver that will be made into an idol. NET's "reward" loses the liturgical quality of the blessing formula.
-
-- v.3 — ASV: "I verily dedicate the silver unto Jehovah from my hand for my son, to make a graven image and a molten image" / NET: "I solemnly dedicate this silver to the Lord...We will use it to make a carved image and a metal image" — The theological absurdity is preserved across all translations: dedicating silver to YHWH for the purpose of making a graven image — violating the second commandment while invoking the Lawgiver's name.
-
-- v.5 — ASV: "the man Micah had a house of gods, and he made an ephod, and teraphim" / NET: "this man Micah owned a shrine. He made an ephod and some personal idols" — Hebrew "beth elohim" = house of gods/God; "teraphim" = household idols. ASV retains "teraphim" (Hebrew term); NET interprets as "personal idols." The teraphim were household deity figurines — associated with ancestor worship and divination (cf. Genesis 31:19; 1 Samuel 19:13).
-
-- v.6 — ASV: "every man did that which was right in his own eyes" / WEB: (identical) / NET: "Each man did what he considered to be right" — The book's thematic refrain. ASV/WEB/KJV preserve the crucial "in his own eyes" — connecting back to Samson doing what was "right in his eyes" (14:3). NET's "what he considered to be right" is correct but less memorable and loses the visual/moral metaphor of sight that runs through Judges.
-
-- v.10 — ASV: "be unto me a father and a priest" / NET: "Become my adviser and priest" — Hebrew "l'av ul'kohen" = for a father and a priest. ASV/WEB/KJV retain "father" (a title of respect for a spiritual leader). NET interprets as "adviser," which loses the paternal/priestly imagery. Micah wants a personal spiritual authority — a household "father" in religion.
-
-- v.13 — ASV: "Now know I that Jehovah will do me good, seeing I have a Levite to my priest" / NET: "Now I know the Lord will make me rich because I have this Levite as my priest" — NET adds "rich" (not in Hebrew). Hebrew "yetiv" = to do good/prosper. Micah treats God transactionally: proper religious personnel = guaranteed blessing. He confuses religious correctness with spiritual obedience.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

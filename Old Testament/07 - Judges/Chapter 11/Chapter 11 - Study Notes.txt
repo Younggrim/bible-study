@@ -170,47 +170,116 @@ Charles Spurgeon:
   judges: men empowered by God who still think like pagans. The Spirit's
   presence does not guarantee the Spirit's wisdom. Power without
   knowledge is dangerous."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "the son of an harlot" / ESV: "the son of a prostitute" —
-       Hebrew "ben-ishah zonah." "Zonah" = prostitute, harlot. The same
-       word used of Rahab (Joshua 2:1). Jephthah's origin is shameful by
-       social standards but does not disqualify him from God's service.
+v.1  — Hebrew "ben-ishah zonah" — son of a prostitute woman.
+       KJV: "the son of an harlot"
+       ESV: "the son of a prostitute"
+       ASV: "the son of a harlot"
+       NET: "His mother was a prostitute"
+       WEB: "the son of a prostitute"
+       Analysis: "Zonah" = prostitute, harlot. Same word used of Rahab
+       (Joshua 2:1). Hebrew "gibbor chayil" = mighty man of valor (same
+       title as Gideon in 6:12). NET restructures the syntax; ASV retains
+       the fuller traditional form. The juxtaposition is powerful: mighty
+       warrior + son of a prostitute — combining strength with shame.
+       Jephthah's origin does not disqualify him from God's service.
 
-v.3  — KJV: "vain men" / ESV: "worthless fellows" — Hebrew "anashim
-       reqim." Same phrase as Judges 9:4 (Abimelech's mercenaries). These
-       are landless, disinherited men — social outcasts who become a
-       raiding band. Similar to David's followers (1 Samuel 22:2).
+v.3  — Hebrew "anashim reqim" — empty/worthless men.
+       KJV: "there were gathered vain men to Jephthah"
+       ESV: "worthless fellows collected around Jephthah"
+       ASV: "there were gathered vain fellows to Jephthah"
+       NET: "Lawless men joined Jephthah's gang"
+       WEB: "there were gathered vain fellows to Jephthah"
+       Analysis: Same phrase as Judges 9:4 (Abimelech's mercenaries).
+       These are landless, disinherited men — social outcasts who become
+       a raiding band. NET adds "gang" — not in Hebrew, but captures the
+       dynamic of an outcast attracting other outcasts. Similar to David's
+       followers (1 Samuel 22:2).
 
-v.24 — KJV: "Wilt not thou possess that which Chemosh thy god giveth
-       thee to possess?" / ESV: "Will you not possess what Chemosh your
-       god gives you to possess?" — Jephthah's argument is rhetorical,
-       not theological. He is not affirming Chemosh's reality but arguing
-       on Ammon's own terms: if you believe your god gives you land, then
-       accept that our God gives us land. (Note: Chemosh was actually
+v.24 — Hebrew "ha-lo et asher yorishkha K'mosh elohekha oto tirash" —
+       will you not possess what Chemosh your god gives you.
+       KJV: "Wilt not thou possess that which Chemosh thy god giveth thee to possess?"
+       ESV: "Will you not possess what Chemosh your god gives you to possess?"
+       ASV: "Wilt not thou possess that which Chemosh thy god giveth thee to possess?"
+       NET: "You have the right to take what Chemosh your god gives you"
+       WEB: "Won't you possess that which Chemosh your god gives you to possess?"
+       Analysis: Jephthah's argument is rhetorical, not theological —
+       not affirming Chemosh's reality but arguing on Ammon's own terms.
+       NET makes the rhetorical strategy explicit. (Note: Chemosh was
        Moab's god, not Ammon's — Milcom was Ammon's deity. This may
-       reflect the close association between Moab and Ammon.)
+       reflect close association between the nations.)
 
-v.31 — KJV: "shall surely be the LORD'S, and I will offer it up for a
-       burnt offering" / ESV: "shall be the LORD's, and I will offer it
-       up for a burnt offering" — Hebrew "v'hayah la'Adonai v'ha'alithu
-       olah." The conjunction "and" (vav) could be translated "or" —
-       giving: "shall be the LORD's OR I will offer it as a burnt
-       offering." This reading would allow for dedication (if a person)
-       or sacrifice (if an animal). However, the standard reading "and"
-       is more natural grammatically.
+v.27 — Hebrew "Yahweh ha-Shophet yishpot" — the LORD the Judge, let
+       Him judge.
+       KJV: "the LORD the Judge be judge this day"
+       ESV: "The LORD, the Judge, decide this day"
+       ASV: "Jehovah, the Judge, be judge this day"
+       NET: "May the Lord, the Judge, judge this day between the Israelites and the Ammonites!"
+       WEB: "May Yahweh the Judge be judge today"
+       Analysis: Jephthah appeals to divine adjudication — using the root
+       "shaphat" (judge) that names the book itself. God is the ultimate
+       Shophet. NET adds the full parties involved for clarity.
 
-v.37 — KJV: "bewail my virginity" / ESV: "weep for my virginity" —
-       Hebrew "uvakhiti al-b'tulai." She mourns not death but the loss
-       of the possibility of marriage and children — the end of her
-       father's line. In Israelite culture, dying without children was
-       the greatest tragedy — one's name would be cut off from Israel.
+v.29 — Hebrew "vattehi al-Yiftach ruach Adonai" — the Spirit of the
+       LORD was upon Jephthah.
+       KJV: "Then the Spirit of the LORD came upon Jephthah"
+       ESV: "Then the Spirit of the LORD was on Jephthah"
+       ASV: "Then the Spirit of Jehovah came upon Jephthah"
+       NET: "The Lord's Spirit empowered Jephthah"
+       WEB: "Then Yahweh's Spirit came on Jephthah"
+       Analysis: NET consistently renders the Spirit's coming as
+       "empowered" rather than the literal "came upon." The Spirit's
+       empowerment raises theological questions — does divine empowerment
+       imply divine approval of the subsequent vow?
 
-v.39 — KJV: "she knew no man" / ESV: "She had never known a man" —
-       Hebrew "v'hi lo yad'ah ish." This statement is key to the debate:
-       if she was sacrificed, why mention her virginity? If she was
+v.31 — Hebrew "v'hayah la'Adonai v'ha'alithu olah" — shall be the
+       LORD's and I will offer it up as a burnt offering.
+       KJV: "shall surely be the LORD'S, and I will offer it up for a burnt offering"
+       ESV: "shall be the LORD's, and I will offer it up for a burnt offering"
+       ASV: "shall surely be Jehovah's, and I will offer it up for a burnt-offering"
+       NET: "he will belong to the Lord, and I will offer him up as a burnt sacrifice"
+       WEB: "shall surely be Yahweh's, and I will offer it up for a burnt offering"
+       Analysis: Critical translation issue. The conjunction "vav" could
+       be "and" or "or" — giving either "shall be the LORD's AND I will
+       offer it" or "shall be the LORD's OR I will offer it." The "or"
+       reading allows dedication (person) vs. sacrifice (animal). NET uses
+       "him/whoever" — clearly interpreting as a human sacrifice vow. The
+       standard "and" reading is more natural grammatically.
+
+v.37 — Hebrew "uvakhiti al-b'tulai" — weep over my virginity.
+       KJV: "let me alone two months, that I may...bewail my virginity"
+       ESV: "let me alone two months, that I may...weep for my virginity"
+       ASV: "let me alone two months, that I may...bewail my virginity"
+       NET: "allow me to...mourn my virginity"
+       WEB: "let me alone two months, that I may...mourn my virginity"
+       Analysis: She mourns not death but the loss of the possibility of
+       marriage and children — the end of her father's line. In Israelite
+       culture, dying without children was the greatest tragedy.
+
+v.39 — Hebrew "v'hi lo yad'ah ish" — she had not known a man.
+       KJV: "she knew no man"
+       ESV: "She had never known a man"
+       ASV: "she had not known man"
+       NET: "She had never had sexual relations with a man"
+       WEB: "she knew no man"
+       Analysis: If she was sacrificed, why mention virginity? If
        dedicated to perpetual celibacy, this explains the emphasis — she
-       lived but never married, ending Jephthah's line.
+       lived but never married. NET makes explicit what the euphemism
+       means.
+
+v.40 — Hebrew "l'tannot l'vat-Yiftach" — to lament/commemorate the
+       daughter of Jephthah.
+       KJV: "to lament the daughter of Jephthah"
+       ESV: "to lament the daughter of Jephthah"
+       ASV: "to celebrate the daughter of Jephthah"
+       NET: "Every year Israelite women commemorate the daughter of Jephthah"
+       WEB: "to celebrate the daughter of Jephthah"
+       Analysis: Hebrew "l'tannot" is difficult — it can mean "to lament"
+       (if she died) or "to celebrate/praise" (if she lived in perpetual
+       virginity). KJV/ESV support the death reading; ASV/WEB support the
+       living-sacrifice reading. This ambiguity is central to the
+       interpretive debate.
 
 GLOSSARY
 ------------------------------------
@@ -241,22 +310,6 @@ Sihon          — King of the Amorites who ruled from Heshbon. He refused
                and they took his territory (Numbers 21:21-31). This land
                — between the Arnon and Jabbok rivers — is what Ammon now
                claims.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "Jephthah the Gileadite was a mighty man of valor, and he was the son of a harlot" / WEB: (similar) / NET: "Jephthah the Gileadite was a brave warrior. His mother was a prostitute" — Hebrew "gibbor chayil" = mighty man of valor (same title as Gideon in 6:12). NET uses "brave warrior"; ASV retains the fuller "mighty man of valor." The juxtaposition is powerful: mighty warrior + son of a prostitute — combining strength with shame.
-
-- v.3 — ASV: "there were gathered vain fellows to Jephthah" / NET: "Lawless men joined Jephthah's gang" / WEB: (not in this verse directly) — Hebrew "anashim reqim" = empty/worthless men (same term as 9:4 for Abimelech's mercenaries). NET adds "gang" — not in Hebrew, but captures the social dynamic of an outcast attracting other outcasts.
-
-- v.24 — ASV: "Wilt not thou possess that which Chemosh thy god giveth thee to possess?" / NET: "You have the right to take what Chemosh your god gives you" — Jephthah's argument acknowledges Chemosh (Moab's god) diplomatically — not affirming Chemosh's reality but arguing on the Ammonites' own terms. NET makes this rhetorical strategy explicit with "you have the right to take."
-
-- v.29 — ASV: "Then the Spirit of Jehovah came upon Jephthah" / WEB: "Then Yahweh's Spirit came on Jephthah" / NET: "The Lord's Spirit empowered Jephthah" — NET consistently renders the Spirit's coming as "empowered" rather than the literal "came upon" (Hebrew "vattehi al"). The Spirit's empowerment of Jephthah raises theological questions — does divine empowerment imply divine approval of the subsequent vow?
-
-- v.31 — ASV: "whatsoever cometh forth from the doors of my house...I will offer it up for a burnt-offering" / NET: "whoever is the first to come through the doors of my house...he will belong to the Lord, and I will offer him up as a burnt sacrifice" — A critical translation issue. Hebrew uses "ha-yotse" (the one coming out) which could be "whatever" (ASV) or "whoever" (NET). NET clearly interprets this as a human sacrifice vow by using "him." This shapes the reader's entire understanding of the tragic narrative.
-
-- v.40 — ASV: "the daughters of Israel went yearly to celebrate the daughter of Jephthah" / NET: "Every year Israelite women commemorate the daughter of Jephthah" — Hebrew "l'tannot" is difficult — it can mean "to lament/commemorate" (if she died) or "to celebrate/praise" (if she lived in perpetual virginity). ASV's "celebrate" and NET's "commemorate" support different readings of Jephthah's vow.
-
-- v.27 — ASV: "Jehovah, the Judge, be judge this day" / WEB: "May Yahweh the Judge be judge today" / NET: "May the Lord, the Judge, judge this day between the Israelites and the Ammonites!" — Hebrew "Yahweh ha-Shophet yishpot" = "The LORD the Judge, let Him judge." Jephthah appeals to divine adjudication — using the root "shaphat" (judge) that names the book itself. God is the ultimate Shophet.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

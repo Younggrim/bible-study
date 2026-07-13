@@ -189,56 +189,104 @@ Charles Spurgeon:
   (Hebrews 3:5-6). Every prophet pointed forward to this Prophet — the
   final, complete, perfect revelation of God to man."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "the offerings of the LORD made by fire, and his inheritance"
-       / ESV: "the LORD's food offerings as their inheritance" — Hebrew
-       "ishei YHWH v'nachalato." "Ishei" = fire offerings. The Levites
+v.1  — Hebrew "ishei YHWH v'nachalato" — fire offerings of the LORD and his inheritance.
+       KJV: "the offerings of the LORD made by fire, and his inheritance"
+       ESV: "the LORD's food offerings as their inheritance"
+       ASV: "the offerings of Jehovah made by fire, and his inheritance"
+       NET: "the LORD's fire offerings as their inheritance"
+       WEB: "the offerings of Yahweh made by fire, and his portion"
+       Analysis: KJV/ASV retain the literal "offerings made by fire" while
+       ESV modernizes to "food offerings." ASV uses "Jehovah" and WEB uses
+       "Yahweh" for the divine name. NET follows ESV closely. The Levites
        eat from what is offered to God on the altar — God shares His
        table with His ministers.
 
-v.3  — KJV: "the maw" / ESV: "the stomach" — Hebrew "ha-qevah." The
-       fourth stomach of a ruminant animal. KJV's archaic "maw" = stomach.
-       These portions (shoulder, cheeks, stomach) were the priest's share
-       from every sacrifice.
+v.3  — Hebrew "ha-qevah" — the stomach (fourth stomach of a ruminant).
+       KJV: "the shoulder, and the two cheeks, and the maw"
+       ESV: "the shoulder and the two cheeks and the stomach"
+       ASV: "the shoulder, and the two cheeks, and the maw"
+       NET: "the shoulder, the jowls, and the stomach"
+       WEB: "the shoulder, the two cheeks, and the stomach"
+       Analysis: KJV/ASV retain archaic "maw" (= stomach). ESV/WEB
+       modernize to "stomach." NET uniquely renders "jowls" for cheeks,
+       emphasizing the fleshy portion. These portions (shoulder, cheeks,
+       stomach) were the priest's share from every sacrifice.
 
-v.10 — KJV: "observer of times" / ESV: "tells fortunes" — Hebrew
-       "m'onen." Uncertain etymology. Possibly from "anan" (cloud) =
-       reading clouds/weather signs, or from "ayin" (eye) = casting the
-       evil eye. KJV and ESV interpret differently; both refer to
+v.10 — Hebrew "m'onen" — uncertain etymology; one who practices divination.
+       KJV: "an observer of times"
+       ESV: "one who tells fortunes"
+       ASV: "one that practiseth augury"
+       NET: "a soothsayer"
+       WEB: "one who tells fortunes"
+       Analysis: Five different renderings reflecting the uncertain etymology.
+       Possibly from "anan" (cloud) = reading clouds/weather signs, or from
+       "ayin" (eye) = casting the evil eye. ASV's "augury" (reading omens)
+       and NET's "soothsayer" are distinct interpretations. All refer to
        forbidden divination practices.
 
-v.10 — KJV: "a witch" / ESV: "a sorcerer" — Hebrew "m'khashef." One who
-       uses incantations, potions, or rituals to manipulate supernatural
-       forces. KJV's "witch" carries later English connotations; ESV's
-       "sorcerer" is more neutral. Same word as Exodus 22:18: "Thou shalt
-       not suffer a witch to live."
+v.10 — Hebrew "m'khashef" — one who uses incantations or sorcery.
+       KJV: "a witch"
+       ESV: "a sorcerer"
+       ASV: "a sorcerer"
+       NET: "a sorcerer"
+       WEB: "a sorcerer"
+       Analysis: KJV alone uses "witch," which carries later English
+       connotations of specifically female practitioners. All modern
+       translations use "sorcerer" — more neutral and gender-inclusive.
+       Same word as Exodus 22:18: "Thou shalt not suffer a witch to live."
+       One who uses incantations, potions, or rituals to manipulate
+       supernatural forces.
 
-v.11 — KJV: "a consulter with familiar spirits" / ESV: "a medium" —
-       Hebrew "sho'el ov." "Ov" = a spirit, possibly a pit-spirit or
-       ancestral ghost. One who consults such spirits for information.
-       KJV's "familiar spirits" = spirits supposedly familiar with the
-       dead. ESV's "medium" = the modern equivalent term.
+v.11 — Hebrew "sho'el ov" — one who inquires of a spirit/medium.
+       KJV: "a consulter with familiar spirits"
+       ESV: "a medium"
+       ASV: "a consulter with a familiar spirit"
+       NET: "one who conjures up spirits"
+       WEB: "a consulter with a familiar spirit"
+       Analysis: KJV/ASV/WEB retain "familiar spirits" — spirits supposedly
+       familiar with or connected to the dead. ESV modernizes to "medium."
+       NET uniquely emphasizes the active conjuring ("conjures up spirits").
+       "Ov" = a spirit, possibly a pit-spirit or ancestral ghost. One who
+       consults such spirits for information.
 
-v.13 — KJV: "Thou shalt be perfect with the LORD thy God" / ESV: "You
-       shall be blameless before the LORD your God" — Hebrew "tamim tihyeh
-       im YHWH elohekha." "Tamim" = complete, whole, blameless, without
-       defect. Not sinless perfection but wholehearted devotion — undivided
-       loyalty. Same word used of Noah (Genesis 6:9) and Abraham
-       (Genesis 17:1).
+v.13 — Hebrew "tamim tihyeh im YHWH elohekha" — you shall be whole/complete with the LORD your God.
+       KJV: "Thou shalt be perfect with the LORD thy God"
+       ESV: "You shall be blameless before the LORD your God"
+       ASV: "Thou shalt be perfect with Jehovah thy God"
+       NET: "You must be blameless before the LORD your God"
+       WEB: "You shall be blameless with Yahweh your God"
+       Analysis: "Tamim" = complete, whole, blameless, without defect. KJV/ASV
+       use "perfect" — not sinless perfection but wholehearted devotion.
+       ESV/NET/WEB use "blameless" — undivided loyalty. Same word used of
+       Noah (Genesis 6:9) and Abraham (Genesis 17:1). Note the divine name
+       variations: KJV/ESV/NET use "LORD," ASV uses "Jehovah," WEB uses
+       "Yahweh."
 
-v.15 — KJV: "a Prophet from the midst of thee, of thy brethren, like
-       unto me" / ESV: "a prophet like me from among you, from your
-       brothers" — Hebrew "navi mi-qirb'kha me-acheicha kamoni." Three
-       qualifications: (1) "from your midst" — from Israel; (2) "from
-       your brothers" — an Israelite; (3) "like me" — like Moses in
-       function and authority. Fulfilled in Christ alone.
+v.15 — Hebrew "navi mi-qirb'kha me-acheicha kamoni" — a prophet from your midst, from your brothers, like me.
+       KJV: "a Prophet from the midst of thee, of thy brethren, like unto me"
+       ESV: "a prophet like me from among you, from your brothers"
+       ASV: "a prophet from the midst of thee, of thy brethren, like unto me"
+       NET: "a prophet like me from among you — from your fellow Israelites"
+       WEB: "a prophet from among you, of your brothers, like me"
+       Analysis: Three qualifications: (1) "from your midst" — from Israel;
+       (2) "from your brothers" — an Israelite; (3) "like me" — like Moses
+       in function and authority. NET uniquely interprets "brothers" as
+       "fellow Israelites," making the ethnic qualification explicit.
+       Fulfilled in Christ alone (Acts 3:22; 7:37).
 
-v.18 — KJV: "I will put my words in his mouth" / ESV: "I will put my
-       words in his mouth" — Hebrew "v'natati d'varai b'fiv." God's words
-       in the Prophet's mouth. This is the definition of prophetic
-       inspiration: God's words spoken through a human vessel. Perfectly
-       fulfilled in Christ (John 12:49).
+v.18 — Hebrew "v'natati d'varai b'fiv" — and I will put my words in his mouth.
+       KJV: "I will put my words in his mouth"
+       ESV: "I will put my words in his mouth"
+       ASV: "I will put my words in his mouth"
+       NET: "I will put my words in his mouth"
+       WEB: "I will put my words in his mouth"
+       Analysis: Rare unanimity — all five translations render this
+       identically. The phrase is so clear in Hebrew that no interpretive
+       variation is needed. This is the definition of prophetic inspiration:
+       God's words spoken through a human vessel. Perfectly fulfilled in
+       Christ (John 12:49).
 
 GLOSSARY
 ------------------------------------

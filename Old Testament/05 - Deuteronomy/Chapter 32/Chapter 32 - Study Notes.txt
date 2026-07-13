@@ -197,53 +197,93 @@ Charles Spurgeon:
   but because you have wandered from it. Return to the Rock and you will
   find His work as perfect as ever it was."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "My doctrine shall drop as the rain" / ESV: "May my teaching
-       drop as the rain" — Hebrew "ya'arof ka-matar liqchi." "Leqach" =
-       teaching, doctrine, what is received. KJV's "doctrine" and ESV's
-       "teaching" both translate "leqach." The image: God's word falls
-       gently and produces growth, like rain on grass.
+v.2  — Hebrew "ya'arof ka-matar liqchi" — may my teaching drop like rain.
+       KJV: "My doctrine shall drop as the rain"
+       ESV: "May my teaching drop as the rain"
+       ASV: "My doctrine shall drop as the rain"
+       NET: "My teaching will drop like the rain"
+       WEB: "My doctrine will drop as the rain"
+       Analysis: "Leqach" = teaching, doctrine, what is received. KJV/ASV/
+       WEB use "doctrine"; ESV uses "teaching"; NET uses "teaching." Both
+       are valid translations. KJV/ASV/NET/WEB use indicative ("shall/will
+       drop"); ESV uses optative ("May... drop"). The image: God's word
+       falls gently and produces growth, like rain on grass.
 
-v.4  — KJV: "a God of truth" / ESV: "A God of faithfulness" — Hebrew "El
-       emunah." "Emunah" = faithfulness, reliability, steadfastness. KJV's
-       "truth" and ESV's "faithfulness" capture different aspects of the
-       same Hebrew word. God is both truthful (never lies) and faithful
-       (never fails).
+v.4  — Hebrew "El emunah" — God of faithfulness/truth.
+       KJV: "a God of truth"
+       ESV: "A God of faithfulness"
+       ASV: "a God of faithfulness"
+       NET: "a reliable God"
+       WEB: "a God of faithfulness"
+       Analysis: "Emunah" = faithfulness, reliability, steadfastness.
+       KJV alone uses "truth" — capturing God's veracity. ESV/ASV/WEB use
+       "faithfulness" — capturing His reliability. NET uniquely uses
+       "reliable" — an adjective rather than a genitive construction. God
+       is both truthful (never lies) and faithful (never fails).
 
-v.8  — KJV: "according to the number of the children of Israel" / ESV:
-       "according to the number of the sons of God" — This is a major
-       textual variant. The Masoretic Text (Hebrew) reads "b'nei Yisrael"
-       (children of Israel) — KJV follows this. The Dead Sea Scrolls
-       (4QDeutj) and LXX read "b'nei Elohim" (sons of God) — ESV follows
-       this. The ESV reading suggests God assigned nations to angelic
-       beings but kept Israel for Himself. Both readings are ancient.
+v.8  — Hebrew "b'nei Yisrael" (MT) / "b'nei Elohim" (DSS/LXX) — children of Israel / sons of God.
+       KJV: "according to the number of the children of Israel"
+       ESV: "according to the number of the sons of God"
+       ASV: "according to the number of the children of Israel"
+       NET: "according to the number of the heavenly assembly"
+       WEB: "according to the number of the children of Israel"
+       Analysis: A major textual variant. The Masoretic Text reads "b'nei
+       Yisrael" — KJV/ASV/WEB follow this. The Dead Sea Scrolls (4QDeutj)
+       and LXX read "b'nei Elohim" — ESV follows this. NET interprets as
+       "heavenly assembly." The ESV/NET reading suggests God assigned
+       nations to angelic beings but kept Israel for Himself. Both readings
+       are ancient and theologically significant.
 
-v.15 — KJV: "Jeshurun waxed fat, and kicked" / ESV: "Jeshurun grew fat,
-       and kicked" — Hebrew "vayishman Yeshurun vayiv'at." "Jeshurun"
-       (from "yashar" = upright) is a poetic name for Israel — ironic
-       here because the "upright one" has become rebellious. "Waxed fat"
-       = grew prosperous. "Kicked" = rebelled (like a well-fed animal
-       that kicks its owner).
+v.15 — Hebrew "vayishman Yeshurun vayiv'at" — and Jeshurun grew fat and kicked.
+       KJV: "Jeshurun waxed fat, and kicked"
+       ESV: "Jeshurun grew fat, and kicked"
+       ASV: "Jeshurun waxed fat, and kicked"
+       NET: "Israel grew fat and kicked"
+       WEB: "Jeshurun grew fat, and kicked"
+       Analysis: "Jeshurun" (from "yashar" = upright) is a poetic name for
+       Israel — ironic here because the "upright one" has become rebellious.
+       NET alone replaces "Jeshurun" with "Israel" — losing the irony of
+       the poetic name but gaining immediate clarity. "Waxed fat" = grew
+       prosperous. "Kicked" = rebelled (like a well-fed animal).
 
-v.17 — KJV: "They sacrificed unto devils" / ESV: "They sacrificed to
-       demons" — Hebrew "la-shedim." "Shedim" = demons, harmful spirits.
-       KJV's "devils" and ESV's "demons" both translate this word. Paul
-       quotes this concept in 1 Corinthians 10:20: pagan sacrifice is
-       ultimately offered to demons.
+v.17 — Hebrew "la-shedim" — to the shedim/demons.
+       KJV: "They sacrificed unto devils"
+       ESV: "They sacrificed to demons"
+       ASV: "They sacrificed unto demons"
+       NET: "They sacrificed to demons"
+       WEB: "They sacrificed to demons"
+       Analysis: "Shedim" = demons, harmful spirits. KJV alone uses
+       "devils" — a term that in modern English typically refers to Satan
+       specifically. ESV/ASV/NET/WEB all use "demons" — the more precise
+       term for malevolent spiritual beings. Paul quotes this concept in
+       1 Corinthians 10:20: pagan sacrifice is offered to demons.
 
-v.35 — KJV: "To me belongeth vengeance, and recompence" / ESV: "Vengeance
-       is mine, and recompense" — Hebrew "li naqam v'shillem." "Naqam" =
-       vengeance, retribution. "Shillem" = recompense, repayment. Both
-       translations are accurate. Paul and the author of Hebrews quote
-       this to forbid personal revenge and assure divine justice.
+v.35 — Hebrew "li naqam v'shillem" — to me belongs vengeance and recompense.
+       KJV: "To me belongeth vengeance, and recompence"
+       ESV: "Vengeance is mine, and recompense"
+       ASV: "Vengeance is mine, and recompense"
+       NET: "I will get revenge and pay them back"
+       WEB: "Vengeance is mine, and recompense"
+       Analysis: "Naqam" = vengeance, retribution. "Shillem" = recompense,
+       repayment. KJV/ESV/ASV/WEB all preserve the declaration form. NET
+       uniquely converts to first-person action: "I will get revenge" —
+       more colloquial but losing the formal declaration. Paul (Romans
+       12:19) and Hebrews (10:30) quote this to forbid personal revenge
+       and assure divine justice.
 
-v.43 — KJV: "Rejoice, O ye nations, with his people" / ESV: "Rejoice
-       with him, O heavens; bow down to him, all gods" — Another major
-       textual variant. The Masoretic Text has "harninu goyim ammo"
-       (rejoice, nations, with his people) — KJV follows this. The LXX
-       and Dead Sea Scrolls have a longer reading that includes heavens
-       and gods. Paul quotes the KJV/MT reading in Romans 15:10.
+v.43 — Hebrew "harninu goyim ammo" (MT) — rejoice, O nations, his people.
+       KJV: "Rejoice, O ye nations, with his people"
+       ESV: "Rejoice with him, O heavens; bow down to him, all gods"
+       ASV: "Rejoice, O ye nations, with his people"
+       NET: "Cry out in joy, O nations, with his people"
+       WEB: "Rejoice, you nations, with his people"
+       Analysis: Another major textual variant. The Masoretic Text has
+       "harninu goyim ammo" — KJV/ASV/NET/WEB follow this. The LXX and
+       Dead Sea Scrolls have a longer reading including heavens and gods —
+       ESV follows this expanded text. Paul quotes the KJV/MT reading in
+       Romans 15:10 to show Gentile inclusion in praise.
 
 GLOSSARY
 ------------------------------------

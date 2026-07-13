@@ -151,43 +151,105 @@ Charles Spurgeon:
   Abimelech promised order and gave chaos. He promised security and gave
   slaughter. Every kingdom built on blood will drown in blood. The fire
   that comes from the bramble consumes the bramble itself."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.4  — KJV: "vain and light persons" / ESV: "worthless and reckless
-       fellows" — Hebrew "anashim reqim u-fochazim." "Reqim" = empty,
-       worthless. "Pochazim" = reckless, wanton. These are mercenaries
-       without moral restraint — hired thugs funded by temple money.
+v.4  — Hebrew "anashim reqim u-fochazim" — worthless and reckless men.
+       KJV: "hired vain and light persons"
+       ESV: "hired worthless and reckless fellows"
+       ASV: "hired vain and light fellows"
+       NET: "used the silver to hire some lawless, dangerous men"
+       WEB: "hired vain and light fellows"
+       Analysis: "Reqim" = empty, worthless. "Pochazim" = reckless,
+       wanton. KJV/ASV/WEB retain "vain and light" (empty and reckless).
+       NET interprets as "lawless, dangerous" — shifting from moral
+       emptiness to criminal threat. These are mercenaries without moral
+       restraint — hired thugs funded by temple money.
 
-v.6  — KJV: "by the plain of the pillar that was in Shechem" / ESV: "by
-       the oak of the pillar at Shechem" — Hebrew "im-elon mutsav."
-       This may be the same oak/terebinth where Joshua set up a stone
-       (Joshua 24:26) — making Abimelech's coronation a perversion of
-       a sacred site.
+v.6  — Hebrew "im-elon mutsav" — by the oak/terebinth of the pillar.
+       KJV: "by the plain of the pillar that was in Shechem"
+       ESV: "by the oak of the pillar at Shechem"
+       ASV: "by the oak of the pillar that was in Shechem"
+       NET: "beside the great oak in Shechem near the pillar"
+       WEB: "by the oak of the pillar that was in Shechem"
+       Analysis: KJV's "plain" is an old rendering of "elon" (oak/
+       terebinth). This may be the same oak where Joshua set up a stone
+       (Joshua 24:26) — making Abimelech's coronation a perversion of a
+       sacred site. NET separates the oak and pillar for clarity.
 
-v.9  — KJV: "Should I leave my fatness" / ESV: "Shall I leave my
-       abundance" — Hebrew "ha-chadal'ti et-dishni." "Deshen" = fatness,
-       richness, abundance. The olive tree's oil was used in worship
-       ("honour God") and daily life ("honour man"). Productive trees
-       have no interest in ruling — they are already fulfilling their
-       purpose.
+v.9  — Hebrew "ha-chadal'ti et-dishni asher bi y'khabbedu Elohim
+       va'anashim" — shall I stop my fatness by which they honor God
+       and men.
+       KJV: "Should I leave my fatness, wherewith by me they honour God and man"
+       ESV: "Shall I leave my abundance, by which gods and men are honored"
+       ASV: "Should I leave my fatness, wherewith by me they honor God and man"
+       NET: "I am not going to stop producing my oil, which is used to honor gods and men"
+       WEB: "Should I stop producing my oil, with which they honor God and man"
+       Analysis: "Deshen" = fatness, richness, abundance. NET changes
+       "God" (singular) to "gods" (plural), reading Hebrew "Elohim" as
+       plural. In context, this may reflect the pagan setting of the
+       fable, or be a generic divine reference. ASV/WEB/KJV retain
+       singular "God." The productive olive tree has no interest in
+       ruling — it already fulfills its purpose.
 
-v.23 — KJV: "God sent an evil spirit" / ESV: "God sent an evil spirit"
-       — Hebrew "vayishlach Elohim ruach ra'ah." "Ruach ra'ah" = spirit
-       of evil/discord. God sovereignly permits or sends discord as
+v.22 — Hebrew "vayyasar Avimelekh al-Yisrael" — Abimelech ruled over
+       Israel.
+       KJV: "When Abimelech had reigned three years over Israel"
+       ESV: "Abimelech ruled over Israel three years"
+       ASV: "Abimelech was prince over Israel three years"
+       NET: "Abimelech commanded Israel for three years"
+       WEB: "Abimelech was prince over Israel three years"
+       Analysis: Hebrew "vayyasar" = ruled/exercised dominion. ASV/WEB
+       use "prince" (avoiding "king" since Israel's true king is God).
+       NET uses "commanded." KJV uses "reigned." The text deliberately
+       uses a different word than "judge" (shophet) because Abimelech was
+       neither legitimate ruler nor divinely appointed deliverer.
+
+v.23 — Hebrew "vayishlach Elohim ruach ra'ah" — God sent an evil spirit.
+       KJV: "God sent an evil spirit between Abimelech and the men of Shechem"
+       ESV: "God sent an evil spirit between Abimelech and the leaders of Shechem"
+       ASV: "God sent an evil spirit between Abimelech and the men of Shechem"
+       NET: "God sent a spirit to stir up hostility between Abimelech and the leaders of Shechem"
+       WEB: "God sent an evil spirit between Abimelech and the men of Shechem"
+       Analysis: "Ruach ra'ah" = spirit of evil/discord. NET softens to
+       "a spirit to stir up hostility" — adding interpretive purpose
+       while removing "evil." God sovereignly permits or sends discord as
        judgment. This does not make God the author of evil but shows His
-       sovereignty over all spirits — He uses even evil to accomplish
-       justice.
+       sovereignty over all spirits (cf. 1 Samuel 16:14; 1 Kings 22:22-23).
 
-v.45 — KJV: "sowed it with salt" / ESV: "sowed it with salt" — An
-       ancient Near Eastern practice symbolizing permanent desolation.
-       Salt prevents growth — the city is cursed to barrenness. A ritual
-       act declaring the site permanently uninhabitable.
+v.45 — Hebrew "vayyizra'eha melach" — sowed it with salt.
+       KJV: "and sowed it with salt"
+       ESV: "and sowed it with salt"
+       ASV: "and sowed it with salt"
+       NET: "and spread salt over it"
+       WEB: "and sowed it with salt"
+       Analysis: An ancient Near Eastern practice symbolizing permanent
+       desolation. Salt prevents growth — the city is cursed to
+       barrenness. NET's "spread salt" modernizes; others retain "sowed"
+       which better captures the ritual's agricultural reversal (sowing
+       death instead of seed).
 
-v.53 — KJV: "a piece of a millstone" / ESV: "an upper millstone" —
-       Hebrew "pelach rekhev." "Pelach" = a piece/fragment. "Rekhev" =
-       the upper (riding) millstone. The upper stone of a hand mill —
-       heavy enough to crush a skull when dropped from a tower. A
-       domestic tool becomes a weapon of divine justice.
+v.53 — Hebrew "pelach rekhev" — a piece/fragment of an upper millstone.
+       KJV: "a certain woman cast a piece of a millstone upon Abimelech's head"
+       ESV: "a certain woman threw an upper millstone on Abimelech's head"
+       ASV: "a certain woman cast an upper millstone upon Abimelech's head"
+       NET: "a woman dropped an upper millstone on his head"
+       WEB: "a certain woman cast an upper millstone on Abimelech's head"
+       Analysis: "Pelach" = a piece/fragment. "Rekhev" = the upper
+       (riding) millstone — heavy enough to crush a skull when dropped
+       from a tower. A domestic tool becomes a weapon of divine justice.
+       NET simplifies to "dropped."
+
+v.56 — Hebrew "vayyashev Elohim et-ra'at Avimelekh" — God returned the
+       wickedness of Abimelech.
+       KJV: "Thus God rendered the wickedness of Abimelech"
+       ESV: "Thus God returned the evil of Abimelech"
+       ASV: "Thus God requited the wickedness of Abimelech"
+       NET: "God repaid Abimelech for the evil he did"
+       WEB: "Thus God repaid the wickedness of Abimelech"
+       Analysis: "Vayyashev" = returned/repaid. ASV's archaic "requited"
+       and WEB/NET's "repaid" both capture the lex talionis — God ensures
+       that violence returns upon the head of the violent. Jotham's curse
+       (v.20) is fulfilled precisely.
 
 GLOSSARY
 ------------------------------------
@@ -225,20 +287,6 @@ Evil Spirit    — Hebrew "ruach ra'ah." A spirit of discord/hostility sent
                accomplish His purposes (cf. 1 Samuel 16:14; 1 Kings
                22:22-23). This demonstrates God's sovereignty over all
                spiritual forces.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.4 — ASV: "Abimelech hired vain and light fellows" / WEB: "Abimelech hired vain and light fellows" / NET: "Abimelech then used the silver to hire some lawless, dangerous men" — Hebrew "anashim reqim u'fochazim" = "empty/worthless and reckless men." KJV/ASV/WEB retain "vain and light" (empty and reckless). NET interprets as "lawless, dangerous" — shifting from moral emptiness to criminal threat. The Hebrew emphasizes their worthlessness as persons.
-
-- v.9 — ASV: "Should I leave my fatness, wherewith by me they honor God and man" / WEB: "Should I stop producing my oil, with which they honor God and man" / NET: "I am not going to stop producing my oil, which is used to honor gods and men" — NET changes "God" (singular) to "gods" (plural), reading Hebrew "Elohim" as plural rather than singular. In context, this may reflect the pagan setting of the fable, or it may be a generic reference to the divine. ASV/WEB/KJV retain singular "God."
-
-- v.22 — ASV: "Abimelech was prince over Israel three years" / WEB: "Abimelech was prince over Israel three years" / NET: "Abimelech commanded Israel for three years" — Hebrew "vayyasar" = ruled/exercised dominion. ASV/WEB use "prince" (avoiding "king" since Israel's true king is God). NET uses "commanded" — avoiding both "king" and "judge." The text deliberately uses a different word than the typical "judge" (shophet) because Abimelech was neither legitimate ruler nor divinely appointed deliverer.
-
-- v.23 — ASV: "God sent an evil spirit between Abimelech and the men of Shechem" / WEB: "God sent an evil spirit between Abimelech and the men of Shechem" / NET: "God sent a spirit to stir up hostility between Abimelech and the leaders of Shechem" — NET softens "evil spirit" (Hebrew "ruach ra'ah") to "a spirit to stir up hostility" — adding interpretive purpose while removing the moral descriptor "evil." This parallels 1 Samuel 16:14 where God sends an evil spirit upon Saul.
-
-- v.45 — ASV: "he beat down the city, and sowed it with salt" / WEB: "He beat down the city, and sowed it with salt" / NET: "he leveled the city and spread salt over it" — All preserve this ancient Near Eastern ritual of making conquered land permanently barren. NET's "leveled" and "spread salt" are modern equivalents. The salt-sowing was a symbolic act declaring the land cursed and uninhabitable.
-
-- v.56 — ASV: "Thus God requited the wickedness of Abimelech" / WEB: "Thus God repaid the wickedness of Abimelech" / NET: "God repaid Abimelech for the evil he did" — Hebrew "vayyashev Elohim" = God returned/repaid. ASV's archaic "requited" and WEB/NET's "repaid" both capture the lex talionis — God ensures that violence returns upon the head of the violent. Jotham's curse (v.20) is fulfilled precisely.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

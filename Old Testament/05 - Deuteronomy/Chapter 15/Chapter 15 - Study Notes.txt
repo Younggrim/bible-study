@@ -176,46 +176,63 @@ Charles Spurgeon:
   love thee.' Let our ears be opened to obedience, our hearts fixed in
   devotion."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "thou shalt make a release" / ESV: "you shall grant a
-       release" — Hebrew "ta'aseh sh'mittah." "Sh'mittah" = a letting go,
-       a release. From "shamat" = to let drop, release. The same word
-       gives us the modern term "Shemitah" for the sabbatical year.
+v.1  — Hebrew "ta'aseh sh'mittah." — "Sh'mittah" = a letting go, a release.
+       KJV: "thou shalt make a release"
+       ESV: "you shall grant a release"
+       ASV: "At the end of every seven years thou shalt make a release"
+       NET: "At the end of every seven years you must declare a cancellation of debts"
+       WEB: "At the end of every seven years you shall make a release"
+       Analysis: Hebrew "ta'aseh sh'mittah." "Sh'mittah" = a letting go, a release. From "shamat" = to let drop, release. The same word gives us the modern term "Shemitah" for the sabbatical year. a letting drop/letting go). The economic reset prevents permanent poverty.
 
-v.2  — KJV: "because it is called the LORD's release" / ESV: "because
-       the LORD's release has been proclaimed" — Hebrew "ki qara sh'mittah
-       l'YHWH." The release belongs to God — it is His decree, not a human
-       economic policy. It is "proclaimed" — publicly announced.
+v.2  — Hebrew "ki qara sh'mittah l'YHWH." — The release belongs to God — it is His decree, not a human economic policy.
+       KJV: "because it is called the LORD's release"
+       ESV: "because the LORD's release has been proclaimed"
+       ASV: "this is the manner of the release"
+       NET: "this is the nature of the cancellation"
+       WEB: "This is the way of the release"
+       Analysis: Hebrew "ki qara sh'mittah l'YHWH." The release belongs to God — it is His decree, not a human economic policy. It is "proclaimed" — publicly announced. the word/matter of the release. What follows defines how the sabbatical debt cancellation works.
 
-v.4  — KJV: "Save when there shall be no poor among you" / ESV: "But
-       there will be no poor among you" — Hebrew "efes ki lo yihyeh b'kha
-       evyon." This is notoriously difficult. KJV reads it as an exception
-       clause; ESV reads it as a promise (conditional on v.5). The ESV
-       reading is preferred: God promises no poverty IF Israel fully obeys.
+v.4  — Hebrew "efes ki lo yihyeh b'kha evyon." — This is notoriously difficult.
+       KJV: "Save when there shall be no poor among you"
+       ESV: "But there will be no poor among you"
+       ASV: "there shall be no poor with thee"
+       NET: "there should not be any poor among you"
+       WEB: "there shall be no poor with you"
+       Analysis: Hebrew "efes ki lo yihyeh b'kha evyon." This is notoriously difficult. KJV reads it as an exception clause; ESV reads it as a promise (conditional on v.5). The ESV reading is preferred: God promises no poverty IF Israel fully obeys. a theocratic economic vision.
 
-v.9  — KJV: "thine eye be evil against thy poor brother" / ESV: "your eye
-       look grudgingly on your poor brother" — Hebrew "v'ra'ah ein'kha."
-       Literally "your eye be evil." The "evil eye" in Hebrew idiom means
-       stinginess, grudging attitude (cf. Matthew 6:23; 20:15). KJV is
-       literal; ESV interprets the idiom.
+v.7  — NET: "tight-fisted"; ASV/WEB: "shut thy hand" (Hebrew "tiqpotz et-yadkha").
+       ASV: "thou shalt not harden thy heart, nor shut thy hand from thy poor brother"
+       NET: "you must not harden your heart or be tight-fisted toward your poor brother"
+       WEB: "you shall not harden your heart, nor shut your hand from your poor brother"
+       Analysis: NET: "tight-fisted"; ASV/WEB: "shut thy hand" (Hebrew "tiqpotz et-yadkha"). The clenched fist is the opposite of open-handed generosity.
 
-v.11 — KJV: "the poor shall never cease out of the land" / ESV: "there
-       will never cease to be poor in the land" — Hebrew "lo yechdal evyon
-       mi-qerev ha-aretz." Jesus quotes this in Matthew 26:11. Not
-       fatalism but realism: given human sin, poverty will persist, so
-       generosity must be perpetual.
+v.9  — Hebrew "v'ra'ah ein'kha." — your eye be evil.
+       KJV: "thine eye be evil against thy poor brother"
+       ESV: "your eye look grudgingly on your poor brother"
+       Analysis: Hebrew "v'ra'ah ein'kha." Literally "your eye be evil." The "evil eye" in Hebrew idiom means stinginess, grudging attitude (cf. Matthew 6:23; 20:15). KJV is literal; ESV interprets the idiom.
 
-v.17 — KJV: "an aul" / ESV: "an awl" — Hebrew "martzea." A pointed tool
-       for piercing. The ear is pierced against the doorpost of the
-       master's house — symbolizing permanent attachment to that household.
+v.11  — Hebrew "lo yechdal evyon mi-qerev ha-aretz." — Jesus quotes this in Matthew 26:11.
+       KJV: "the poor shall never cease out of the land"
+       ESV: "there will never cease to be poor in the land"
+       ASV: "the poor will never cease out of the land"
+       NET: "the poor will never cease to be in the land"
+       WEB: "the poor will never cease out of the land"
+       Analysis: Hebrew "lo yechdal evyon mi-qerev ha-aretz." Jesus quotes this in Matthew 26:11. Not fatalism but realism: given human sin, poverty will persist, so generosity must be perpetual. in a fallen world, poverty persists. Therefore generosity must be perpetual, not temporary.
 
-v.18 — KJV: "he hath been worth a double hired servant to thee" / ESV:
-       "at half the cost of a hired worker he has served you" — Hebrew
-       "mishneh s'khar sakhir." Literally "double the wages of a hired
-       worker." KJV: the servant was worth double a hired worker. ESV: the
-       servant cost half what a hired worker would. Both interpretations
-       are debated; the point is: freeing him is not a loss.
+v.17  — Hebrew "martzea." — A pointed tool for piercing.
+       KJV: "an aul"
+       ESV: "an awl"
+       Analysis: Hebrew "martzea." A pointed tool for piercing. The ear is pierced against the doorpost of the master's house — symbolizing permanent attachment to that household.
+
+v.18  — Hebrew "mishneh s'khar sakhir." — double the wages of a hired worker.
+       KJV: "he hath been worth a double hired servant to thee"
+       ESV: "at half the cost of a hired worker he has served you"
+       ASV: "It shall not seem hard unto thee, when thou lettest him go free"
+       NET: "It shall not seem hard to you when you let him go free"
+       WEB: "It shall not seem hard to you, when you let him go free"
+       Analysis: Hebrew "mishneh s'khar sakhir." Literally "double the wages of a hired worker." KJV: the servant was worth double a hired worker. ESV: the servant cost half what a hired worker would. Both interpretations are debated; the point is: freeing him is not a loss. double a hired worker's value. Don't resent freeing them; God freed YOU from Egypt's slavery.
 
 GLOSSARY
 ------------------------------------
@@ -242,19 +259,6 @@ Firstborn      — Hebrew "b'khor" — the first male offspring of herd or
                sanctified (set apart) — not worked or sheared. Eaten
                before God at the chosen place, or locally if blemished.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "At the end of every seven years you must declare a cancellation of debts" / ASV: "At the end of every seven years thou shalt make a release" / WEB: "At the end of every seven years you shall make a release" / KJV: "At the end of every seven years thou shalt make a release" — NET specifies "cancellation of debts" where ASV/WEB/KJV use "release" (Hebrew "shemittah" — a letting drop/letting go). The economic reset prevents permanent poverty.
-
-- v.2 — NET: "this is the nature of the cancellation" / ASV: "this is the manner of the release" / WEB: "This is the way of the release" — NET interprets; ASV/WEB translate more literally. Hebrew "devar ha-shemittah" — the word/matter of the release. What follows defines how the sabbatical debt cancellation works.
-
-- v.4 — NET: "there should not be any poor among you" / ASV: "there shall be no poor with thee" / WEB: "there shall be no poor with you" — God's ideal: poverty eliminated in His kingdom. The conditional "if you obey" (v.5) shows this is blessing contingent on faithfulness — a theocratic economic vision.
-
-- v.7 — NET: "you must not harden your heart or be tight-fisted toward your poor brother" / ASV: "thou shalt not harden thy heart, nor shut thy hand from thy poor brother" / WEB: "you shall not harden your heart, nor shut your hand from your poor brother" — NET: "tight-fisted"; ASV/WEB: "shut thy hand" (Hebrew "tiqpotz et-yadkha"). The clenched fist is the opposite of open-handed generosity.
-
-- v.11 — NET: "the poor will never cease to be in the land" / ASV: "the poor will never cease out of the land" / WEB: "the poor will never cease out of the land" — Jesus quotes this (Matt 26:11). Not fatalism but realism — in a fallen world, poverty persists. Therefore generosity must be perpetual, not temporary.
-
-- v.18 — NET: "It shall not seem hard to you when you let him go free" / ASV: "It shall not seem hard unto thee, when thou lettest him go free" / WEB: "It shall not seem hard to you, when you let him go free" — The released servant has served six years — double a hired worker's value. Don't resent freeing them; God freed YOU from Egypt's slavery.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

@@ -163,51 +163,79 @@ Charles Spurgeon:
   delivered them,' then Joshua can say 'Sun, stand still' — because the
   God who promised the victory will provide whatever is needed to
   accomplish it. Ask largely! Your God controls the sun."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.10 — KJV: "the LORD discomfited them" / ESV: "the LORD threw them into
-       a panic" — Hebrew "va-y'hummem Adonai." "Hamam" = to confuse,
-       throw into confusion, rout, panic. This is supernatural confusion
-       — God Himself disrupts the enemy's ability to fight coherently.
-       The same word used of God's action at the Red Sea (Exodus 14:24).
+v.1  — Hebrew "cherem" (herem/devoted to destruction) — the sacred-judgment concept.
+       KJV: "had utterly destroyed it"
+       ESV: "had devoted it to destruction"
+       ASV: "had utterly destroyed it"
+       NET: "annihilated it"
+       WEB: "had utterly destroyed it"
+       Analysis: NET consistently uses "annihilated" where KJV/ASV/WEB use "utterly destroyed," which better conveys the sacred-judgment dimension of total destruction. ESV "devoted to destruction" is the most theologically transparent rendering of cherem.
 
-v.11 — KJV: "great stones from heaven" / ESV: "large stones from heaven"
-       — Hebrew "avanim g'dolot min ha-shamayim." These are identified as
-       hailstones ("avaney ha-barad") later in the verse. Supernatural
-       hail — targeted at the enemy, not at Israel. Selective divine
-       judgment from the sky.
+v.8  — Hebrew perfect tense "natatti" — "I have delivered/given" — completed action.
+       KJV: "I have delivered them into thine hands"
+       ESV: "I have given them into your hands"
+       ASV: "I have delivered them into thy hands"
+       NET: "I am handing them over to you"
+       WEB: "I have delivered them into your hands"
+       Analysis: Once again, NET uses present progressive where Hebrew uses the perfect (past) tense. KJV/ASV/ESV/WEB preserve God's declaration of accomplished fact — the victory is already determined before the battle begins. This is the consistent pattern of divine promise in Joshua.
 
-v.12 — KJV: "Sun, stand thou still" / ESV: "Sun, stand still" — Hebrew
-       "shemesh b'Giv'on dom." "Dom" = be silent, be still, cease. Joshua
-       commands the sun to "be silent" — to stop its activity (movement).
-       Some scholars suggest this means the sun stopped shining (providing
-       relief from heat), but the context (needing more daylight) supports
-       the traditional interpretation of extended daylight.
+v.10 — Hebrew "va-y'hummem Adonai" — "hamam" = to confuse, throw into confusion, rout, panic.
+       KJV: "the LORD discomfited them"
+       ESV: "the LORD threw them into a panic"
+       ASV: "Jehovah discomfited them before Israel"
+       NET: "The Lord routed them before Israel"
+       WEB: "Yahweh confused them before Israel"
+       Analysis: This is supernatural confusion — God Himself disrupts the enemy's ability to fight coherently. ASV's archaic "discomfited" and WEB's "confused" retain the divine terror dimension. NET's "routed" implies military defeat without the supernatural panic element. ESV "threw into a panic" is vivid and accurate. The same word is used of God's action at the Red Sea (Exodus 14:24).
 
-v.13 — KJV: "the book of Jasher" / ESV: "the Book of Jashar" — Hebrew
-       "sepher ha-Yashar." "Yashar" = upright, straight. A now-lost
-       collection of Hebrew poetry celebrating Israel's heroes (also
-       referenced in 2 Samuel 1:18). Its citation confirms the event was
-       recorded in multiple sources.
+v.11 — Hebrew "avanim g'dolot min ha-shamayim" / "avaney ha-barad" — great stones/hailstones from heaven.
+       KJV: "great stones from heaven upon them... hailstones"
+       ESV: "large stones from heaven on them... hailstones"
+       ASV: "great stones from heaven upon them... hailstones"
+       NET: "large hailstones from the sky"
+       WEB: "great stones from the sky on them... hailstones"
+       Analysis: All translations agree on the substance. Supernatural hail — targeted at the enemy, not at Israel. They killed more of the enemy than Israel's swords — emphasizing that the battle belonged to God. Selective divine judgment from the sky.
 
-v.13 — KJV: "hasted not to go down about a whole day" / ESV: "did not
-       hurry to set for about a whole day" — Hebrew "v'lo ats lavo
-       k'yom tamim." "Ats" = to hasten, hurry. "Yom tamim" = a complete/
-       whole day. The sun delayed its setting by approximately one full
-       day — giving Joshua extended daylight to complete the victory.
+v.12 — Hebrew "shemesh b'Giv'on dom" — "dom" = be silent, be still, cease; Hebrew "amar" = to say/speak.
+       KJV: "Then spake Joshua to the LORD... Sun, stand thou still upon Gibeon"
+       ESV: "Joshua spoke to the LORD... Sun, stand still at Gibeon"
+       ASV: "Then spake Joshua to Jehovah... Sun, stand thou still upon Gibeon"
+       NET: "Joshua prayed to the Lord... O sun, stand still over Gibeon"
+       WEB: "Then Joshua spoke to Yahweh... Sun, stand still on Gibeon"
+       Analysis: NET interprets "spoke to" as "prayed to." The Hebrew "amar" is broader — Joshua speaks a command to the sun and moon in God's presence. It is poetic, bold, prophetic speech, not merely prayer. "Dom" means "be silent" — to stop its activity. The context (needing more daylight) supports the traditional interpretation of extended daylight.
 
-v.24 — KJV: "put your feet upon the necks of these kings" / ESV: "put
-       your feet on the necks of these kings" — An ancient Near Eastern
-       symbol of total victory and subjugation. The conqueror's foot on
-       the enemy's neck signifies complete dominion. This imagery appears
-       in Psalm 110:1 and is fulfilled in Christ's victory over all
-       enemies.
+v.13 — Hebrew "sepher ha-Yashar" — the Book of Jashar/the Upright. A now-lost Hebrew poetic anthology.
+       KJV: "the book of Jasher"
+       ESV: "the Book of Jashar"
+       ASV: "the book of Jashar"
+       NET: "the Scroll of the Upright One"
+       WEB: "the book of Jashar"
+       Analysis: NET renders "sepher ha-yashar" as "Scroll of the Upright One," interpreting "Jashar" as a description rather than preserving the proper name. KJV/ASV/ESV/WEB retain the Hebrew name. Its citation confirms the event was recorded in multiple sources (also referenced in 2 Samuel 1:18). "Yom tamim" = a complete/whole day — the sun delayed its setting by approximately one full day.
 
-v.40 — KJV: "utterly destroyed all that breathed" / ESV: "devoted to
-       destruction all that breathed" — Hebrew "hecherim kol n'shamah."
-       "Cherem" = the ban of total destruction. "N'shamah" = breath,
-       living being. This fulfills Deuteronomy 20:16: "thou shalt save
-       alive nothing that breatheth."
+v.24 — Ancient Near Eastern symbol of total victory — foot on the neck of defeated kings.
+       KJV: "put your feet upon the necks of these kings"
+       ESV: "Put your feet on the necks of these kings"
+       ASV: "put your feet upon the necks of these kings"
+       NET: "put your feet on the necks of these kings"
+       WEB: "put your feet on the necks of these kings"
+       Analysis: All translations agree. The conqueror's foot on the enemy's neck signifies complete dominion. This imagery appears in Psalm 110:1 and is fulfilled in Christ's victory over all enemies (Romans 16:20).
+
+v.25 — Hebrew commissioning formula echoing God's words to Joshua in chapter 1.
+       KJV: "Fear not, nor be dismayed; be strong and of good courage"
+       ESV: "Do not fear or be dismayed; be strong and courageous"
+       ASV: "Fear not, nor be dismayed; be strong and of good courage"
+       NET: "Don't be afraid and don't panic! Be strong and brave"
+       WEB: "Don't be afraid, nor be dismayed. Be strong and courageous"
+       Analysis: Joshua echoes God's threefold command to him (1:6,7,9). NET's "don't panic" and "brave" are colloquial; KJV/ASV/ESV/WEB preserve the formal commissioning language that ties this moment back to chapter 1's divine charge.
+
+v.40 — Hebrew "hecherim kol n'shamah" — "cherem" + "n'shamah" = devoted to destruction all that breathed.
+       KJV: "utterly destroyed all that breathed"
+       ESV: "devoted to destruction all that breathed"
+       ASV: "utterly destroyed all that breathed, as Jehovah, the God of Israel, commanded"
+       NET: "He annihilated everything that breathed, just as the Lord God of Israel had commanded"
+       WEB: "utterly destroyed all that breathed, as Yahweh, the God of Israel, commanded"
+       Analysis: The critical theological note: the destruction was commanded by God. This fulfills Deuteronomy 20:16. ASV/WEB's "utterly destroyed" (cherem language) and the divine name (Jehovah/Yahweh) make the theological framework most explicit. ESV "devoted to destruction" best captures the full meaning of cherem.
 
 GLOSSARY
 ------------------------------------
@@ -246,16 +274,6 @@ Southern Campaign — Joshua's systematic conquest of southern Canaan after
                the defeat of the five-king coalition. Cities taken:
                Makkedah, Libnah, Lachish, Eglon, Hebron, Debir. Territory
                secured from Kadesh-barnea to Gaza to Gibeon.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "had utterly destroyed it" / WEB: "had utterly destroyed it" / NET: "annihilated it" — Hebrew "cherem" (herem/devoted to destruction) continues as a key term. NET consistently uses "annihilated" where ASV/WEB use "utterly destroyed," which better conveys the sacred-judgment dimension of total destruction.
-- v.8 — ASV: "I have delivered them into thy hands" / WEB: "I have delivered them into your hands" / NET: "I am handing them over to you" — Once again, NET uses present progressive where Hebrew uses the perfect (past) tense. KJV/ASV/WEB preserve God's declaration of accomplished fact — the victory is already determined before the battle begins.
-- v.10 — ASV: "Jehovah discomfited them before Israel" / WEB: "Yahweh confused them before Israel" / NET: "The Lord routed them before Israel" — Hebrew "hamam" means to confuse, throw into panic, put into commotion. ASV's archaic "discomfited" and WEB's "confused" retain the supernatural panic element; NET's "routed" implies military defeat without the divine terror dimension.
-- v.12 — ASV: "Then spake Joshua to Jehovah" / WEB: "Then Joshua spoke to Yahweh" / NET: "Joshua prayed to the Lord" — NET interprets "spoke to" as "prayed to." The Hebrew "amar" (to say/speak) is broader — Joshua speaks a command to the sun and moon in Yahweh's presence. It is poetic, bold, prophetic speech, not merely prayer.
-- v.13 — NET: "The event is recorded in the Scroll of the Upright One" / KJV: "Is not this written in the book of Jasher?" / ASV: "Is not this written in the book of Jashar?" — NET renders "sepher ha-yashar" (Book of Jashar/the Upright) as "Scroll of the Upright One," interpreting "Jashar" rather than preserving the proper name. KJV/ASV/WEB retain the Hebrew name "Jashar/Jasher" as a lost source document.
-- v.25 — ASV: "Fear not, nor be dismayed; be strong and of good courage" / WEB: "Don't be afraid, nor be dismayed. Be strong and courageous" / NET: "Don't be afraid and don't panic! Be strong and brave" — Joshua echoes God's threefold command to him (1:6,7,9). NET's "don't panic" and "brave" are colloquial; ASV/WEB/KJV preserve the formal commissioning language that ties this moment back to chapter 1.
-- v.40 — ASV: "he utterly destroyed all that breathed, as Jehovah, the God of Israel, commanded" / WEB: "he utterly destroyed all that breathed, as Yahweh, the God of Israel, commanded" / NET: "He annihilated everything that breathed, just as the Lord God of Israel had commanded" — The critical theological note: the destruction was commanded by God. All translations agree, but ASV/WEB's "utterly destroyed" (cherem language) and the divine name (Jehovah/Yahweh) make the theological framework more explicit.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

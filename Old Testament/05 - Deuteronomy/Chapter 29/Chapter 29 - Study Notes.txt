@@ -163,48 +163,82 @@ Charles Spurgeon:
   with God and attend to your duties. He who spends his life trying to
   unlock God's secrets neglects the plain commands that lie open before him."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "beside the covenant which he made with them in Horeb" / ESV:
-       "besides the covenant that he had made with them at Horeb" — Hebrew
-       "mil'vad ha-b'rit." "Mil'vad" = apart from, in addition to. This
-       is a distinct covenant — not a replacement of Sinai but a
-       supplement/renewal for the new generation on the plains of Moab.
+v.1  — Hebrew "mil'vad ha-b'rit" — apart from/besides the covenant.
+       KJV: "beside the covenant which he made with them in Horeb"
+       ESV: "besides the covenant that he had made with them at Horeb"
+       ASV: "besides the covenant which he made with them in Horeb"
+       NET: "in addition to the covenant he had made with them at Horeb"
+       WEB: "besides the covenant which he made with them in Horeb"
+       Analysis: "Mil'vad" = apart from, in addition to. NET alone uses
+       "in addition to" — making the supplementary relationship explicit.
+       KJV/ESV/ASV/WEB all use "beside(s)." This is a distinct covenant —
+       not a replacement of Sinai but a renewal for the new generation on
+       the plains of Moab.
 
-v.4  — KJV: "the LORD hath not given you an heart to perceive" / ESV: "the
-       LORD has not given you a heart to understand" — Hebrew "v'lo natan
-       Adonai lakhem lev la-da'at." "Da'at" = to know, perceive,
-       understand. This is a statement of divine sovereignty in spiritual
-       illumination. Understanding is God's gift.
+v.4  — Hebrew "v'lo natan Adonai lakhem lev la-da'at" — the LORD has not given you a heart to know.
+       KJV: "the LORD hath not given you an heart to perceive"
+       ESV: "the LORD has not given you a heart to understand"
+       ASV: "Jehovah hath not given you a heart to know"
+       NET: "the LORD has not given you an understanding mind"
+       WEB: "Yahweh has not given you a heart to know"
+       Analysis: "Da'at" = to know, perceive, understand. KJV uses
+       "perceive." ESV uses "understand." ASV/WEB use literal "know."
+       NET uniquely renders as "understanding mind" — interpreting "heart"
+       (lev) as mind. Note divine names: ASV has "Jehovah," WEB has
+       "Yahweh." This is a statement of divine sovereignty in spiritual
+       illumination.
 
-v.18 — KJV: "a root that beareth gall and wormwood" / ESV: "a root
-       bearing poisonous and bitter fruit" — Hebrew "shoresh poreh rosh
-       v'la'anah." "Rosh" = a poisonous plant (possibly hemlock or
-       poppy). "La'anah" = wormwood (a bitter herb). KJV retains both
-       Hebrew plant references; ESV interprets as "poisonous and bitter."
-       Hebrews 12:15 alludes to this verse.
+v.18 — Hebrew "shoresh poreh rosh v'la'anah" — a root bearing poison and wormwood.
+       KJV: "a root that beareth gall and wormwood"
+       ESV: "a root bearing poisonous and bitter fruit"
+       ASV: "a root that beareth gall and wormwood"
+       NET: "a root producing poisonous and bitter fruit among you"
+       WEB: "a root that produces poison and wormwood"
+       Analysis: "Rosh" = a poisonous plant (possibly hemlock or poppy).
+       "La'anah" = wormwood (a bitter herb). KJV/ASV retain both Hebrew
+       plant references. ESV/NET interpret as "poisonous and bitter fruit."
+       WEB keeps "wormwood" but interprets "rosh" as "poison." Hebrews
+       12:15 alludes to this verse ("root of bitterness").
 
-v.19 — KJV: "to add drunkenness to thirst" / ESV: "This will lead to the
-       sweeping away of moist and dry alike" — Hebrew "l'ma'an s'fot
-       ha-ravah et-ha-tz'me'ah." This is one of the most difficult
-       phrases in Deuteronomy. KJV reads it as a proverb about excess
-       (adding drunkenness to thirst). ESV interprets it as a metaphor
-       for total destruction (sweeping away everything, wet and dry —
-       i.e., the innocent with the guilty). The Hebrew is genuinely
-       ambiguous.
+v.19 — Hebrew "l'ma'an s'fot ha-ravah et-ha-tz'me'ah" — to sweep away the watered with the dry.
+       KJV: "to add drunkenness to thirst"
+       ESV: "This will lead to the sweeping away of moist and dry alike"
+       ASV: "to destroy the moist with the dry"
+       NET: "the moist and the dry will be destroyed together"
+       WEB: "to destroy the moist with the dry"
+       Analysis: One of the most difficult phrases in Deuteronomy. KJV
+       reads it as a proverb about excess (adding drunkenness to thirst).
+       ESV/ASV/NET/WEB interpret it as total destruction (sweeping away
+       everything, wet and dry — i.e., the innocent with the guilty). The
+       Hebrew is genuinely ambiguous; modern translations favor the
+       destruction interpretation.
 
-v.20 — KJV: "the anger of the LORD and his jealousy shall smoke against
-       that man" / ESV: "the anger of the LORD and his jealousy will smoke
-       against that man" — Hebrew "v'ashnah." "Ashan" = to smoke. God's
-       anger is depicted as a smoldering fire — intense, consuming,
-       visible. The image is volcanic: divine wrath smoking like a furnace.
+v.20 — Hebrew "v'ashnah af-Adonai v'qin'ato" — and the anger of the LORD and his jealousy shall smoke.
+       KJV: "the anger of the LORD and his jealousy shall smoke against that man"
+       ESV: "the anger of the LORD and his jealousy will smoke against that man"
+       ASV: "the anger of Jehovah and his jealousy will smoke against that man"
+       NET: "the LORD's anger and jealousy will erupt against that person"
+       WEB: "Yahweh's anger and his jealousy will smoke against that man"
+       Analysis: "Ashan" = to smoke. God's anger is depicted as smoldering
+       fire. KJV/ESV/ASV/WEB retain the vivid "smoke" imagery — volcanic
+       wrath. NET interprets as "erupt" — losing the smoke metaphor but
+       gaining explosive force. Note divine name variations across
+       translations.
 
-v.29 — KJV: "The secret things belong unto the LORD our God" / ESV: "The
-       secret things belong to the LORD our God" — Hebrew "ha-nistarot
-       la-Adonai Eloheinu." "Nistarot" = hidden things (from "satar" = to
-       hide/conceal). These are things God has deliberately concealed —
-       His unrevealed purposes, His hidden counsel. The contrast with
-       "ha-niglot" (revealed things) is absolute: hidden vs. uncovered.
+v.29 — Hebrew "ha-nistarot la-Adonai Eloheinu" — the hidden things belong to the LORD our God.
+       KJV: "The secret things belong unto the LORD our God"
+       ESV: "The secret things belong to the LORD our God"
+       ASV: "The secret things belong unto Jehovah our God"
+       NET: "The secret things belong to the LORD our God"
+       WEB: "The secret things belong to Yahweh our God"
+       Analysis: "Nistarot" = hidden things (from "satar" = to hide/
+       conceal). Near-unanimous rendering — only the divine name differs.
+       These are things God has deliberately concealed — His unrevealed
+       purposes, His hidden counsel. The contrast with "ha-niglot"
+       (revealed things) is absolute: hidden vs. uncovered. Our
+       responsibility extends only to what God has made known.
 
 GLOSSARY
 ------------------------------------

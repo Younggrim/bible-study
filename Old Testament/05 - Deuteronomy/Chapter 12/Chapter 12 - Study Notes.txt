@@ -187,49 +187,68 @@ Charles Spurgeon:
   God commanded?' Self-directed worship is no worship at all — it is
   idolatry with a religious veneer."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "Ye shall utterly destroy" / ESV: "You shall surely destroy"
-       — Hebrew "abbed t'abedun." Intensive form: destroy completely,
-       destroy utterly. The doubling of the verb emphasizes totality.
+v.2  — Hebrew "abbed t'abedun." — Intensive form: destroy completely, destroy utterly.
+       KJV: "Ye shall utterly destroy"
+       ESV: "You shall surely destroy"
+       Analysis: Hebrew "abbed t'abedun." Intensive form: destroy completely, destroy utterly. The doubling of the verb emphasizes totality.
 
-v.3  — KJV: "burn their groves with fire" / ESV: "burn their Asherim with
-       fire" — Hebrew "ashereihem." Same as 7:5. KJV translates as
-       "groves" (sacred poles/trees); ESV transliterates the proper name
-       of the goddess/cult object.
+v.3  — Hebrew "ashereihem." — Same as 7:5.
+       KJV: "burn their groves with fire"
+       ESV: "burn their Asherim with fire"
+       Analysis: Hebrew "ashereihem." Same as 7:5. KJV translates as "groves" (sacred poles/trees); ESV transliterates the proper name of the goddess/cult object.
 
-v.5  — KJV: "to put his name there" / ESV: "to put his name" — Hebrew
-       "lasum et sh'mo sham." God's "name" represents His presence,
-       character, and authority. The chosen place bears God's name — it is
-       identified with Him.
+v.5  — Hebrew "lasum et sh'mo sham." — God's "name" represents His presence, character, and authority.
+       KJV: "to put his name there"
+       ESV: "to put his name"
+       ASV: "But unto the place which Jehovah your God shall choose out of all your tribes, to put his name there"
+       NET: "But you must seek only the place he chooses from all your tribes to establish his name"
+       WEB: "But to the place which Yahweh your God shall choose out of all your tribes, to put his name there"
+       Analysis: Hebrew "lasum et sh'mo sham." God's "name" represents His presence, character, and authority. The chosen place bears God's name — it is identified with Him. eventually fulfilled in Jerusalem.
 
-v.6  — KJV: "heave offerings of your hand" / ESV: "the contribution that
-       you present" — Hebrew "t'rumat yedchem." "T'rumah" = a contribution
-       lifted/separated from the whole. KJV's "heave offering" reflects
-       the lifting motion; ESV generalizes to "contribution."
+v.5  — there means His presence, authority, and reputation reside in that place.
+       ASV: "to put his name there"
+       NET: "to establish his name"
+       WEB: "to put his name there"
+       Analysis: "Putting His name" there means His presence, authority, and reputation reside in that place. God's name represents His full character. NET's "establish" implies permanence.
 
-v.8  — KJV: "every man whatsoever is right in his own eyes" / ESV:
-       "everyone doing whatever is right in his own eyes" — Hebrew "ish
-       kol ha-yashar b'einav." This exact phrase becomes the refrain of
-       Judges (17:6; 21:25) — describing Israel's spiritual anarchy when
-       they abandoned centralized worship.
+v.6  — Hebrew "t'rumat yedchem." — "T'rumah" = a contribution lifted/separated from the whole.
+       KJV: "heave offerings of your hand"
+       ESV: "the contribution that you present"
+       Analysis: Hebrew "t'rumat yedchem." "T'rumah" = a contribution lifted/separated from the whole. KJV's "heave offering" reflects the lifting motion; ESV generalizes to "contribution."
 
-v.15 — KJV: "as of the roebuck, and as of the hart" / ESV: "as of the
-       gazelle and as of the deer" — Hebrew "ka-ts'vi v'cha-ayyal."
-       "Ts'vi" = gazelle/roebuck. "Ayyal" = deer/hart. Wild game that was
-       never offered as sacrifice — eaten as common food. Local meat is
-       treated the same way: as food, not as offering.
+v.8  — Hebrew "ish kol ha-yashar b'einav." — This exact phrase becomes the refrain of Judges (17:6.
+       KJV: "every man whatsoever is right in his own eyes"
+       ESV: "everyone doing whatever is right in his own eyes"
+       ASV: "Ye shall not do after all the things that we do here this day"
+       NET: "You must not do like everything we are doing here today"
+       WEB: "You shall not do all the things that we do here today"
+       Analysis: Hebrew "ish kol ha-yashar b'einav." This exact phrase becomes the refrain of Judges (17:6; 21:25) — describing Israel's spiritual anarchy when they abandoned centralized worship. this phrase later characterizes the Judges period.
 
-v.23 — KJV: "the blood is the life" / ESV: "the blood is the life" —
-       Hebrew "ha-dam hu ha-nefesh." "Dam" = blood. "Nefesh" = life/soul.
-       Blood and life are identified — they are the same thing. This is
-       why blood is sacred and reserved for God alone (atonement).
+v.15  — Hebrew "ka-ts'vi v'cha-ayyal." — "Ts'vi" = gazelle/roebuck. "Ayyal" = deer/hart.
+       KJV: "as of the roebuck, and as of the hart"
+       ESV: "as of the gazelle and as of the deer"
+       ASV: "thou mayest kill and eat flesh"
+       NET: "you may slaughter and eat meat"
+       WEB: "you may kill and eat meat"
+       Analysis: Hebrew "ka-ts'vi v'cha-ayyal." "Ts'vi" = gazelle/roebuck. "Ayyal" = deer/hart. Wild game that was never offered as sacrifice — eaten as common food. Local meat is treated the same way: as food, not as offering. only worship-related slaughter must occur at the chosen place.
 
-v.31 — KJV: "their sons and their daughters they have burnt in the fire"
-       / ESV: "they even burn their sons and their daughters in the fire"
-       — Hebrew "gam et b'neihem v'et b'noteihem yisr'fu va-esh
-       l'eloheihem." Child sacrifice — the ultimate abomination. This was
-       practiced in worship of Molech and other Canaanite deities.
+v.23  — Hebrew "ha-dam hu ha-nefesh." — "Dam" = blood. "Nefesh" = life/soul.
+       KJV: "the blood is the life"
+       ESV: "the blood is the life"
+       ASV: "the blood is the life"
+       NET: "the blood is the life"
+       WEB: "the blood is the life"
+       Analysis: Hebrew "ha-dam hu ha-nefesh." "Dam" = blood. "Nefesh" = life/soul. Blood and life are identified — they are the same thing. This is why blood is sacred and reserved for God alone (atonement). the blood IS the life. This prohibition on blood consumption is repeated across all translations identically.
+
+v.31  — Hebrew "gam et b'neihem v'et b'noteihem yisr'fu va-esh l'eloheihem." — Child sacrifice — the ultimate abomination.
+       KJV: "their sons and their daughters they have burnt in the fire"
+       ESV: "they even burn their sons and their daughters in the fire"
+       ASV: "even their sons and their daughters do they burn in the fire"
+       NET: "they even burn up their sons and daughters"
+       WEB: "even their sons and their daughters they burn in the fire"
+       Analysis: Hebrew "gam et b'neihem v'et b'noteihem yisr'fu va-esh l'eloheihem." Child sacrifice — the ultimate abomination. This was practiced in worship of Molech and other Canaanite deities. their worship practices are abomination. All translations preserve the severity without euphemism.
 
 GLOSSARY
 ------------------------------------
@@ -267,19 +286,6 @@ Heave Offering — Hebrew "t'rumah" — a portion "lifted" or separated from
                the dedication of the best portion to God before personal
                consumption.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.5 — NET: "But you must seek only the place he chooses from all your tribes to establish his name" / ASV: "But unto the place which Jehovah your God shall choose out of all your tribes, to put his name there" / WEB: "But to the place which Yahweh your God shall choose out of all your tribes, to put his name there" — The centralization formula: "the place YHWH chooses" (Hebrew "ha-maqom asher-yivchar YHWH"). This phrase recurs ~20 times in Deuteronomy — eventually fulfilled in Jerusalem.
-
-- v.5 — NET: "to establish his name" / ASV: "to put his name there" / WEB: "to put his name there" — "Putting His name" there means His presence, authority, and reputation reside in that place. God's name represents His full character. NET's "establish" implies permanence.
-
-- v.8 — NET: "You must not do like everything we are doing here today" / ASV: "Ye shall not do after all the things that we do here this day" / WEB: "You shall not do all the things that we do here today" — A transition from wilderness freedom to centralized worship. Currently everyone does "what is right in his own eyes" (v.8) — this phrase later characterizes the Judges period.
-
-- v.15 — NET: "you may slaughter and eat meat" / ASV: "thou mayest kill and eat flesh" / WEB: "you may kill and eat meat" — NET uses "slaughter" (Hebrew "tizbach"); ASV/WEB use "kill." Secular slaughter for food (non-sacrificial) is permitted anywhere — only worship-related slaughter must occur at the chosen place.
-
-- v.23 — NET: "the blood is the life" / ASV: "the blood is the life" / WEB: "the blood is the life" — All translations agree on this foundational principle (echoing Lev 17:11). Hebrew "ha-dam hu ha-nephesh" — the blood IS the life. This prohibition on blood consumption is repeated across all translations identically.
-
-- v.31 — NET: "they even burn up their sons and daughters" / ASV: "even their sons and their daughters do they burn in the fire" / WEB: "even their sons and their daughters they burn in the fire" — The horror of Canaanite worship: child sacrifice. This is why God drives out the nations — their worship practices are abomination. All translations preserve the severity without euphemism.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

@@ -154,42 +154,72 @@ Charles Spurgeon:
   that is the safest ground for assurance: His love depends not on our
   worthiness but on His character."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "utterly destroy them" / ESV: "devote them to complete
-       destruction" — Hebrew "hacharem tacharimem." Intensive form of
-       "charam" — the ban/devotion to destruction. ESV captures the
-       religious nature of the act; KJV emphasizes completeness.
+v.2  — Hebrew "hacharem tacharimem." — Intensive form of "charam" — the ban/devotion to destruction.
+       KJV: "utterly destroy them"
+       ESV: "devote them to complete destruction"
+       Analysis: Hebrew "hacharem tacharimem." Intensive form of "charam" — the ban/devotion to destruction. ESV captures the religious nature of the act; KJV emphasizes completeness.
 
-v.5  — KJV: "cut down their groves" / ESV: "chop down their Asherim" —
-       Hebrew "ashereihem." Asherah poles were wooden cult objects
-       associated with the Canaanite goddess Asherah. KJV translates as
-       "groves" (sacred trees/poles); ESV transliterates the proper name.
+v.5  — Hebrew "ashereihem." — Asherah poles were wooden cult objects associated with the Canaanite...
+       KJV: "cut down their groves"
+       ESV: "chop down their Asherim"
+       Analysis: Hebrew "ashereihem." Asherah poles were wooden cult objects associated with the Canaanite goddess Asherah. KJV translates as "groves" (sacred trees/poles); ESV transliterates the proper name.
 
-v.6  — KJV: "a special people unto himself" / ESV: "a people for his
-       treasured possession" — Hebrew "am s'gullah." "S'gullah" = personal
-       treasure, valued possession. Not merely chosen but treasured —
-       prized above all others.
+v.6  — Hebrew "am s'gullah." — "S'gullah" = personal treasure, valued possession.
+       KJV: "a special people unto himself"
+       ESV: "a people for his treasured possession"
+       ASV: "thou art a holy people unto Jehovah thy God"
+       NET: "you are a people holy to the Lord your God"
+       WEB: "you are a holy people to Yahweh your God"
+       Analysis: Hebrew "am s'gullah." "S'gullah" = personal treasure, valued possession. Not merely chosen but treasured — prized above all others. a holy people belonging to YHWH. The divine name marks ownership: holy not for themselves but FOR God. Israel's holiness is relational, not inherent.
 
-v.9  — KJV: "keepeth covenant and mercy" / ESV: "keeps covenant and
-       steadfast love" — Hebrew "shomer ha-b'rit v'ha-chesed." "Chesed" =
-       covenant loyalty/love/mercy. KJV's "mercy" and ESV's "steadfast
-       love" both capture aspects of this rich word.
+v.6  — treasured/valued possession).
+       ASV: "Jehovah thy God hath chosen thee to be a people for his own possession"
+       NET: "he has chosen you to be his people, his prized possession"
+       WEB: "Yahweh your God has chosen you to be a people for his own possession"
+       Analysis: treasured/valued possession). Israel is God's special treasure among all nations.
 
-v.20 — KJV: "the hornet" / ESV: "hornets" — Hebrew "ha-tsir'ah." Could
-       be literal hornets or a metaphor for panic/terror sent by God.
-       Some scholars connect it to Egypt (whose symbol was a hornet/wasp).
+v.7  — loved/attached) is an intensely personal word.
+       ASV: "because ye were more in number"
+       NET: "because you were more numerous"
+       WEB: "because you were more in number"
+       Analysis: loved/attached) is an intensely personal word — God's election is from love, not calculation.
 
-v.21 — KJV: "a mighty God and terrible" / ESV: "a great and awesome God"
-       — Hebrew "El gadol v'nora." "Nora" = to be feared, awe-inspiring,
-       terrible. KJV's "terrible" is archaic English for "inspiring terror/
-       awe"; ESV's "awesome" captures the modern sense.
+v.9  — Hebrew "shomer ha-b'rit v'ha-chesed." — "Chesed" = covenant loyalty/love/mercy.
+       KJV: "keepeth covenant and mercy"
+       ESV: "keeps covenant and steadfast love"
+       ASV: "the faithful God, who keepeth covenant and lovingkindness with them that love him"
+       NET: "the faithful God who keeps covenant faithfully with those who love him"
+       WEB: "the faithful God, who keeps covenant and loving kindness with those who love him"
+       Analysis: Hebrew "shomer ha-b'rit v'ha-chesed." "Chesed" = covenant loyalty/love/mercy. KJV's "mercy" and ESV's "steadfast love" both capture aspects of this rich word. NET renders "chesed" as "covenant faithfully"; ASV uses "lovingkindness"; WEB "loving kindness." This key Hebrew term encompasses faithfulness, mercy, steadfast love, and covenant loyalty.
 
-v.26 — KJV: "lest thou be a cursed thing like it" / ESV: "become devoted
-       to destruction like it" — Hebrew "v'hayita cherem kamohu." If you
-       bring the cherem (devoted/banned thing) into your house, you become
-       cherem yourself. Contact with the accursed makes you accursed.
-       Achan's story (Joshua 7) illustrates this principle.
+v.9  — God's faithfulness extends across a thousand generations...
+       ASV: "to a thousand generations"
+       NET: "to the thousandth generation"
+       WEB: "to a thousand generations"
+       Analysis: God's faithfulness extends across a thousand generations (exponentially beyond the 3-4 generations of judgment in Exodus 20:5). Grace always exceeds judgment.
+
+v.20  — Hebrew "ha-tsir'ah." — Could be literal hornets or a metaphor for panic/terror sent by God.
+       KJV: "the hornet"
+       ESV: "hornets"
+       Analysis: Hebrew "ha-tsir'ah." Could be literal hornets or a metaphor for panic/terror sent by God. Some scholars connect it to Egypt (whose symbol was a hornet/wasp).
+
+v.21  — Hebrew "El gadol v'nora." — "Nora" = to be feared, awe-inspiring, terrible.
+       KJV: "a mighty God and terrible"
+       ESV: "a great and awesome God"
+       Analysis: Hebrew "El gadol v'nora." "Nora" = to be feared, awe-inspiring, terrible. KJV's "terrible" is archaic English for "inspiring terror/ awe"; ESV's "awesome" captures the modern sense.
+
+v.25  — trap). Destroying them completely prevents future temptation.
+       ASV: "thou shalt not covet the silver or the gold that is on them"
+       NET: "you must not covet the silver and gold on them"
+       WEB: "you shall not covet the silver or the gold that is on them"
+       Analysis: trap). Destroying them completely prevents future temptation.
+
+v.26  — Hebrew "v'hayita cherem kamohu." — If you bring the cherem (devoted/banned thing) into your house, you...
+       KJV: "lest thou be a cursed thing like it"
+       ESV: "become devoted to destruction like it"
+       Analysis: Hebrew "v'hayita cherem kamohu." If you bring the cherem (devoted/banned thing) into your house, you become cherem yourself. Contact with the accursed makes you accursed. Achan's story (Joshua 7) illustrates this principle.
 
 GLOSSARY
 ------------------------------------
@@ -220,19 +250,6 @@ Snare (Hebrew: "moqesh") — A trap. Canaanite religion would trap Israel
                in idolatry if not completely removed. Even the gold on
                idols could become a snare (v.25).
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.6 — NET: "you are a people holy to the Lord your God" / ASV: "thou art a holy people unto Jehovah thy God" / WEB: "you are a holy people to Yahweh your God" — Hebrew "am qadosh la-YHWH" — a holy people belonging to YHWH. The divine name marks ownership: holy not for themselves but FOR God. Israel's holiness is relational, not inherent.
-
-- v.6 — NET: "he has chosen you to be his people, his prized possession" / ASV: "Jehovah thy God hath chosen thee to be a people for his own possession" / WEB: "Yahweh your God has chosen you to be a people for his own possession" — NET's "prized possession" (Hebrew "am segulah" — treasured/valued possession). Israel is God's special treasure among all nations.
-
-- v.7 — NET: "because you were more numerous" / ASV: "because ye were more in number" / WEB: "because you were more in number" — All translations negate this: God did NOT choose for size. Hebrew "chashaq" (v.7 — loved/attached) is an intensely personal word — God's election is from love, not calculation.
-
-- v.9 — NET: "the faithful God who keeps covenant faithfully with those who love him" / ASV: "the faithful God, who keepeth covenant and lovingkindness with them that love him" / WEB: "the faithful God, who keeps covenant and loving kindness with those who love him" — NET renders "chesed" as "covenant faithfully"; ASV uses "lovingkindness"; WEB "loving kindness." This key Hebrew term encompasses faithfulness, mercy, steadfast love, and covenant loyalty.
-
-- v.9 — NET: "to the thousandth generation" / ASV: "to a thousand generations" / WEB: "to a thousand generations" — God's faithfulness extends across a thousand generations (exponentially beyond the 3-4 generations of judgment in Exodus 20:5). Grace always exceeds judgment.
-
-- v.25 — NET: "you must not covet the silver and gold on them" / ASV: "thou shalt not covet the silver or the gold that is on them" / WEB: "you shall not covet the silver or the gold that is on them" — Idols may be made of precious metals, but even their material value becomes a snare (Hebrew "moqesh" — trap). Destroying them completely prevents future temptation.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

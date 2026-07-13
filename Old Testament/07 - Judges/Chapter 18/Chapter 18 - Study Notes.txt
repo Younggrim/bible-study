@@ -203,49 +203,142 @@ Charles Spurgeon:
   That which man makes, man can unmake; that which man carries, man can
   carry away. But the Lord God Almighty — who shall remove Him from His
   throne, or pluck His children from His hand?"
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "all their inheritance had not fallen unto them" / ESV: "no
-       inheritance among the tribes of Israel had fallen to them" —
-       Hebrew "lo naphlah lahem." The KJV suggests partial possession;
-       the ESV suggests none at all. The Hebrew is ambiguous — "naphal"
-       (to fall) is used of lot-casting and inheritance distribution.
-       Joshua 19:40-48 shows Dan received an allotment but failed to
-       fully possess it.
+v.1  — Hebrew "lo naphlah lahem" — the inheritance had not fallen to them.
+       KJV: "all their inheritance had not fallen unto them"
+       ESV: "no inheritance among the tribes of Israel had fallen to them"
+       ASV: "unto that day their inheritance had not fallen unto them among the tribes of Israel"
+       NET: "no tribal allotment had yet been assigned to them"
+       WEB: "to that day their inheritance had not fallen to them among the tribes of Israel"
+       Analysis: KJV suggests partial possession; ESV suggests none at all.
+       The Hebrew is ambiguous — "naphal" (to fall) is used of lot-casting
+       and inheritance distribution. Joshua 19:40-48 shows Dan received an
+       allotment but failed to fully possess it. ASV/WEB align with the
+       Hebrew temporal nuance ("unto that day"), while NET uses modern
+       administrative language ("tribal allotment...assigned").
 
-v.7  — KJV: "dwelt careless" / ESV: "lived in security" — Hebrew
-       "yoshevet-betach." "Betach" = security, confidence, trust. KJV's
-       "careless" (meaning without care/worry, not negligent) and ESV's
-       "in security" both convey the sense of an unsuspecting, peaceful
-       people. The word carries no moral judgment — they simply felt safe.
+v.5  — Hebrew "sh'al-na b'Elohim" — ask/inquire of God.
+       KJV: "Ask counsel, we pray thee, of God"
+       ESV: "Please inquire of God"
+       ASV: "Ask counsel, we pray thee, of God"
+       NET: "Seek a divine oracle for us"
+       WEB: "Please inquire of God"
+       Analysis: NET's "divine oracle" adds ritual language not in the
+       Hebrew. The Danites seek divine guidance through illegitimate
+       means — a stolen Levite with stolen idols. KJV/ASV/ESV/WEB
+       preserve the simple "ask/inquire of God" phrasing. The request is
+       religious but the system is corrupt.
 
-v.7  — KJV: "no magistrate in the land, that might put them to shame" /
+v.6  — Hebrew "nekhach Adonai dark'khem" — before the LORD is your way.
+       KJV: "Go in peace: before the LORD is your way wherein ye go"
+       ESV: "Go in peace. The journey on which you go is under the eye of the LORD"
+       ASV: "before Jehovah is your way wherein ye go"
+       NET: "Go with confidence. The Lord will be with you on your mission"
+       WEB: "Go in peace. Your way in which you go is before Yahweh"
+       Analysis: The priest invokes YHWH's name to bless an expedition that
+       will involve theft and massacre. NET's "Go with confidence" is more
+       dynamic; ASV's "before Jehovah is your way" is more literal —
+       suggesting God sees/approves their path. ESV's "under the eye of
+       the LORD" adds an interpretive dimension of divine observation.
+
+v.7  — Hebrew "yoshevet-betach" — dwelling in security/trust.
+       KJV: "dwelt careless"
+       ESV: "lived in security"
+       ASV: "dwelt in security"
+       NET: "lived securely"
+       WEB: "lived in safety"
+       Analysis: "Betach" = security, confidence, trust. KJV's "careless"
+       (meaning without care/worry, not negligent) is archaic. ESV/ASV/
+       NET/WEB all convey the sense of an unsuspecting, peaceful people.
+       The word carries no moral judgment — they simply felt safe.
+
+v.7  — Hebrew "ein maklim davar ba'aretz yoresh etser" — textually uncertain.
+       KJV: "no magistrate in the land, that might put them to shame"
        ESV: "lacking nothing that is in the earth and possessing wealth"
-       — These translations reflect different readings of a difficult
-       Hebrew text. The Hebrew "ein maklim davar ba'aretz yoresh etser"
-       is textually uncertain. KJV follows one reading; ESV follows
-       another manuscript tradition. The LXX supports yet another reading.
+       ASV: "there was none in the land possessing authority, that might put them to shame in anything"
+       NET: "there was no ruler to shame them for anything in the land"
+       WEB: "there was none in the land possessing authority, that might put them to shame in anything"
+       Analysis: These translations reflect different readings of a
+       difficult Hebrew text. KJV/ASV/NET/WEB follow the reading about
+       lacking a protective magistrate; ESV follows another manuscript
+       tradition about material abundance. The LXX supports yet another
+       reading. The textual uncertainty affects whether Laish's
+       vulnerability was political (no protector) or merely geographical.
 
-v.21 — KJV: "the carriage" / ESV: "the goods" — Hebrew "ha-k'vudah."
-       KJV's "carriage" is archaic English for "baggage/goods carried"
-       (not a wheeled vehicle). ESV's "goods" is the modern equivalent.
-       The word derives from "kaved" (heavy, weighty) — their heavy
-       possessions.
+v.19 — Hebrew "hachoreysh" — be silent.
+       KJV: "Hold thy peace, lay thine hand upon thy mouth"
+       ESV: "Keep quiet; put your hand over your mouth"
+       ASV: "Hold thy peace, lay thy hand upon thy mouth, and go with us, and be to us a father and a priest"
+       NET: "Shut up! Put your hand over your mouth and come with us! You can be our adviser and priest"
+       WEB: "Hold your peace, put your hand on your mouth, and go with us, and be to us a father and a priest"
+       Analysis: NET's "Shut up!" captures the crude intimidation of the
+       Hebrew more forcefully than the formal "Hold thy peace." The
+       Danites offer the Levite a promotion — from one family's priest to
+       a whole tribe's priest. He accepts immediately. The bluntness
+       reveals their true character.
 
-v.30 — KJV: "the son of Manasseh" / ESV: "son of Moses" — Hebrew text
-       has "M-N-Sh-H" with a suspended nun (נ). The original reading is
-       likely "Mosheh" (Moses) — Jonathan was Moses' grandson through
-       Gershom (Exodus 2:22; 18:3). A later scribe inserted the
-       suspended "nun" to change it to "Manasseh," protecting Moses'
-       honor by obscuring his grandson's apostasy. Most scholars agree
-       the original reading is "Moses."
+v.21 — Hebrew "ha-k'vudah" — the heavy/weighty things.
+       KJV: "the carriage"
+       ESV: "the goods"
+       ASV: "the goods"
+       NET: "their property"
+       WEB: "the goods"
+       Analysis: KJV's "carriage" is archaic English for "baggage/goods
+       carried" (not a wheeled vehicle). The word derives from "kaved"
+       (heavy, weighty) — their heavy possessions. All modern translations
+       render it as goods/property. They placed the vulnerable at the
+       front, expecting pursuit from behind.
 
-v.30 — KJV: "until the day of the captivity of the land" / ESV: "until
-       the day of the captivity of the land" — Hebrew "galot ha'aretz."
-       This likely refers to the Assyrian conquest of the northern
-       territory (732 BC, 2 Kings 15:29) or possibly the Philistine
-       capture of the Ark (1 Samuel 4). The phrase indicates Dan's
-       idolatrous priesthood persisted for centuries.
+v.24 — Hebrew "et-elohay asher asiti" — my gods which I made.
+       KJV: "Ye have taken away my gods which I made"
+       ESV: "You take my gods that I made and the priest"
+       ASV: "Ye have taken away my gods which I made"
+       NET: "You stole my gods that I made"
+       WEB: "You have taken away my gods which I made"
+       Analysis: The pathetic irony is preserved across all versions: "my
+       gods which I made" — gods you make cannot save you. Micah has lost
+       his religion — literally. His complaint reveals the emptiness of
+       idolatry: gods that can be stolen are no gods at all. NET's "stole"
+       is more accusatory than the neutral "taken away."
+
+v.30 — Hebrew "M-N-Sh-H" with suspended nun (נ) — Moses/Manasseh textual issue.
+       KJV: "the son of Manasseh"
+       ESV: "son of Moses"
+       ASV: "Jonathan, the son of Gershom, the son of Moses"
+       NET: "Jonathan, descendant of Gershom, son of Moses"
+       WEB: "Jonathan, the son of Gershom, the son of Manasseh"
+       Analysis: The original reading is likely "Mosheh" (Moses) — Jonathan
+       was Moses' grandson through Gershom (Exodus 2:22; 18:3). A later
+       scribe inserted the suspended "nun" to change it to "Manasseh,"
+       protecting Moses' honor by obscuring his grandson's apostasy.
+       ASV/NET read "Moses" (the older, more difficult reading); WEB
+       retains "Manasseh." Most scholars agree the original is "Moses."
+
+v.30 — Hebrew "galot ha'aretz" — the captivity of the land.
+       KJV: "until the day of the captivity of the land"
+       ESV: "until the day of the captivity of the land"
+       ASV: "until the day of the captivity of the land"
+       NET: "until the time of the exile"
+       WEB: "until the day of the captivity of the land"
+       Analysis: This likely refers to the Assyrian conquest of the
+       northern territory (732 BC, 2 Kings 15:29) or possibly the
+       Philistine capture of the Ark (1 Samuel 4). The phrase indicates
+       Dan's idolatrous priesthood persisted for centuries. NET simplifies
+       to "exile" but loses the territorial specificity.
+
+v.31 — Hebrew "kol-y'mey heyot beit-ha'Elohim b'Shiloh" — all the days the house of God was in Shiloh.
+       KJV: "all the time that the house of God was in Shiloh"
+       ESV: "as long as the house of God was at Shiloh"
+       ASV: "all the time that the house of God was in Shiloh"
+       NET: "the whole time God's authorized shrine was in Shiloh"
+       WEB: "all the time that God's house was in Shiloh"
+       Analysis: NET adds "authorized" — an interpretive gloss emphasizing
+       the contrast between Dan's illegitimate cult and God's legitimate
+       tabernacle at Shiloh. The chronological note places these events
+       during the period of the tabernacle — before the temple. The
+       parallel highlights how Dan's worship operated simultaneously as a
+       rival to God's authorized worship site.
 
 GLOSSARY
 ------------------------------------
@@ -282,20 +375,6 @@ Jonathan son of Gershom — The Levite priest who served Micah and then
                Translation Notes on v.30). His apostasy demonstrates that
                even the most privileged spiritual heritage cannot
                guarantee faithfulness.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.5 — ASV: "Ask counsel, we pray thee, of God" / NET: "Seek a divine oracle for us" / WEB: "Please inquire of God" — Hebrew "sh'al-na b'Elohim" = ask/inquire of God. NET's "divine oracle" adds ritual language not in the Hebrew. The Danites seek divine guidance through illegitimate means — a stolen Levite with stolen idols. The request is religious but the system is corrupt.
-
-- v.6 — ASV: "before Jehovah is your way wherein ye go" / WEB: "Go in peace. Your way in which you go is before Yahweh" / NET: "Go with confidence. The Lord will be with you on your mission" — The priest invokes YHWH's name to bless an expedition that will involve theft and massacre. NET's "Go with confidence" is more dynamic; ASV's "before Jehovah is your way" is more literal — suggesting God sees/approves their path.
-
-- v.19 — ASV: "Hold thy peace, lay thy hand upon thy mouth, and go with us, and be to us a father and a priest" / NET: "Shut up! Put your hand over your mouth and come with us! You can be our adviser and priest" — NET's "Shut up!" captures the crude intimidation of the Hebrew "hachoreysh" (be silent) more forcefully than ASV's formal "Hold thy peace." The Danites offer the Levite a promotion — from one family's priest to a whole tribe's priest. He accepts immediately.
-
-- v.24 — ASV: "Ye have taken away my gods which I made" / NET: "You stole my gods that I made" — The pathetic irony is preserved: "my gods which I made" — gods you make cannot save you. Micah has lost his religion — literally. His complaint reveals the emptiness of idolatry: gods that can be stolen are no gods at all.
-
-- v.30 — ASV: "Jonathan, the son of Gershom, the son of Moses" / NET: "Jonathan, descendant of Gershom, son of Moses" — A textual controversy: some Hebrew manuscripts insert a suspended "nun" (נ) in "Moses" to read "Manasseh" — apparently to protect Moses' reputation from having a grandson who became an idol priest. ASV/NET both read "Moses" which is the older, more difficult reading.
-
-- v.31 — ASV: "all the time that the house of God was in Shiloh" / NET: "the whole time God's authorized shrine was in Shiloh" — NET adds "authorized" — an interpretive gloss emphasizing the contrast between Dan's illegitimate cult and God's legitimate tabernacle at Shiloh. The chronological note places these events during the period of the tabernacle — before the temple.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

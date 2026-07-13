@@ -201,50 +201,91 @@ Charles Spurgeon:
   tire, never weaken, never let go. Everlasting arms — they were there
   before you fell and will be there after the fall is forgotten."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "he came with ten thousands of saints" / ESV: "he came from
-       the ten thousands of holy ones" — Hebrew "me-riv'vot qodesh." The
-       Hebrew is difficult. "Riv'vot" = myriads, ten thousands. "Qodesh"
-       = holiness/holy ones. KJV reads God as accompanied BY holy ones;
-       ESV reads Him as coming FROM among them. Both are grammatically
-       possible.
+v.2  — Hebrew "me-riv'vot qodesh" — from/with myriads of holiness/holy ones.
+       KJV: "he came with ten thousands of saints"
+       ESV: "he came from the ten thousands of holy ones"
+       ASV: "he came from the ten thousands of holy ones"
+       NET: "he came forth with ten thousand holy ones"
+       WEB: "he came from the ten thousands of holy ones"
+       Analysis: "Riv'vot" = myriads, ten thousands. "Qodesh" = holiness/
+       holy ones. The Hebrew is difficult. KJV reads God as accompanied
+       BY holy ones ("with"). ESV/ASV/WEB read Him as coming FROM among
+       them. NET uses "came forth with" — bridging both readings. Both
+       are grammatically possible.
 
-v.2  — KJV: "a fiery law" / ESV: "with flaming fire at his right hand" —
-       Hebrew "esh dat." "Esh" = fire. "Dat" = law (a Persian loanword,
-       or possibly an archaic Hebrew word). KJV combines them: "fiery law."
-       ESV reads "dat" differently, rendering "flaming fire." The
-       traditional reading "fiery law" connects to the giving of the law
-       at Sinai amid fire (Exodus 19:18).
+v.2  — Hebrew "esh dat" — fire of law / fiery law.
+       KJV: "a fiery law"
+       ESV: "with flaming fire at his right hand"
+       ASV: "at his right hand was a fiery law"
+       NET: "a fire blazed forth at his right hand"
+       WEB: "from his right hand went a fiery law"
+       Analysis: "Esh" = fire. "Dat" = law (possibly a Persian loanword or
+       archaic Hebrew). KJV/ASV/WEB combine them: "fiery law." ESV/NET
+       read "dat" differently, rendering the fire imagery without "law."
+       The traditional reading "fiery law" connects to the giving of the
+       law at Sinai amid fire (Exodus 19:18). A genuinely ambiguous text.
 
-v.5  — KJV: "And he was king in Jeshurun" / ESV: "Thus the LORD became
-       king in Jeshurun" — The subject is ambiguous in Hebrew. KJV leaves
-       it open (could be Moses or God); ESV identifies the subject as the
-       LORD. Most commentators agree it refers to God as king over Israel.
+v.5  — Hebrew "vayhi v'Yeshurun melekh" — and he was/became king in Jeshurun.
+       KJV: "And he was king in Jeshurun"
+       ESV: "Thus the LORD became king in Jeshurun"
+       ASV: "And he was king in Jeshurun"
+       NET: "The LORD was king over Jeshurun"
+       WEB: "He was king in Jeshurun"
+       Analysis: The subject is ambiguous in Hebrew. KJV/ASV/WEB leave it
+       open (could be Moses or God). ESV/NET identify the subject as the
+       LORD explicitly. Most commentators agree it refers to God as king
+       over Israel. NET's "over" rather than "in" slightly changes the
+       relationship from indwelling to sovereignty.
 
-v.16 — KJV: "him that was separated from his brethren" / ESV: "him who is
-       prince among his brothers" — Hebrew "n'zir echav." "Nazir" = one
-       separated, consecrated, or a prince/crowned one. KJV emphasizes
-       Joseph's separation (sold into Egypt); ESV emphasizes his
-       princely status. Both meanings are present in the Hebrew.
+v.16 — Hebrew "n'zir echav" — the separated/crowned one of his brothers.
+       KJV: "him that was separated from his brethren"
+       ESV: "him who is prince among his brothers"
+       ASV: "him that was separate from his brethren"
+       NET: "the one who was prince among his brothers"
+       WEB: "him who was separated from his brothers"
+       Analysis: "Nazir" = one separated, consecrated, or a prince/crowned
+       one. KJV/ASV/WEB emphasize Joseph's separation (sold into Egypt).
+       ESV/NET emphasize his princely status. Both meanings are present
+       in the Hebrew — Joseph was both separated from his brothers and
+       became a prince among them.
 
-v.17 — KJV: "horns of unicorns" / ESV: "horns of a wild ox" — Hebrew
-       "qarn'ei r'em." "R'em" = a large wild bovine, likely the now-
-       extinct aurochs. KJV follows the LXX "monokeros" (unicorn); ESV
-       translates based on modern zoological understanding. The point is
-       great strength and power.
+v.17 — Hebrew "qarn'ei r'em" — horns of the r'em (wild bovine).
+       KJV: "horns of unicorns"
+       ESV: "horns of a wild ox"
+       ASV: "horns of the wild-ox"
+       NET: "horns of a wild ox"
+       WEB: "the horns of a wild ox"
+       Analysis: "R'em" = a large wild bovine, likely the now-extinct
+       aurochs. KJV follows the LXX "monokeros" (unicorn) — an
+       interpretation that persisted until modern zoology identified the
+       aurochs. ESV/ASV/NET/WEB all translate based on zoological
+       understanding. The point is great strength and power.
 
-v.25 — KJV: "Thy shoes shall be iron and brass" / ESV: "Your bars shall
-       be iron and bronze" — Hebrew "barzel u-n'choshet min'alekha."
-       "Min'al" can mean "shoe/sandal" or "bolt/bar" (of a gate). KJV
-       reads shoes (iron-shod feet for strength); ESV reads bars (strong
-       city gates for security). Both interpretations have ancient support.
+v.25 — Hebrew "barzel u-n'choshet min'alekha" — iron and bronze your shoes/bars.
+       KJV: "Thy shoes shall be iron and brass"
+       ESV: "Your bars shall be iron and bronze"
+       ASV: "Thy bars shall be iron and brass"
+       NET: "The bars of your gates will be made of iron and bronze"
+       WEB: "Your bars will be iron and bronze"
+       Analysis: "Min'al" can mean "shoe/sandal" or "bolt/bar" (of a gate).
+       KJV alone reads "shoes" — iron-shod feet for strength on rocky
+       terrain. ESV/ASV/WEB read "bars" — strong city gates for security.
+       NET expands to "bars of your gates," making the meaning explicit.
+       Both interpretations have ancient support.
 
-v.27 — KJV: "The eternal God is thy refuge" / ESV: "The eternal God is
-       your dwelling place" — Hebrew "m'onah Elohei qedem." "M'onah" =
-       dwelling place, habitation, refuge. "Qedem" = ancient, eternal,
-       from of old. Both translations capture the sense: God Himself is
-       where His people live and find safety. He is both home and fortress.
+v.27 — Hebrew "m'onah Elohei qedem" — a dwelling place is the God of old/eternity.
+       KJV: "The eternal God is thy refuge"
+       ESV: "The eternal God is your dwelling place"
+       ASV: "The eternal God is thy dwelling-place"
+       NET: "The everlasting God is a safe place"
+       WEB: "The eternal God is your dwelling place"
+       Analysis: "M'onah" = dwelling place, habitation, refuge. "Qedem" =
+       ancient, eternal, from of old. KJV uses "refuge" — emphasizing
+       safety. ESV/ASV/WEB use "dwelling place" — emphasizing habitation.
+       NET uses "safe place" — combining both ideas. God Himself is where
+       His people live and find safety — both home and fortress.
 
 GLOSSARY
 ------------------------------------

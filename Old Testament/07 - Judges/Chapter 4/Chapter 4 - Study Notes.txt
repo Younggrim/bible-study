@@ -144,44 +144,100 @@ Charles Spurgeon:
   them. Sisera fled on foot — his chariots became his coffin. So it is
   with every weapon formed against God's people: what the enemy trusts in
   becomes the instrument of his destruction."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "Harosheth of the Gentiles" / ESV: "Harosheth-hagoyim" —
-       Hebrew "Charoshet ha-Goyim." KJV translates "ha-Goyim" as "of the
-       Gentiles." ESV transliterates the full Hebrew name. "Harosheth"
-       may mean "woodland" or "craftsman's place." The location suggests
-       a mixed population area.
+v.2  — Hebrew "vayyimk'rem b'yad Yavin" — he sold them into the hand of
+       Jabin.
+       KJV: "the LORD sold them into the hand of Jabin"
+       ESV: "the LORD sold them to Jabin king of Canaan"
+       ASV: "Jehovah sold them into the hand of Jabin"
+       NET: "The Lord turned them over to King Jabin"
+       WEB: "Yahweh sold them into the hand of Jabin"
+       Analysis: Hebrew "makar" = to sell. KJV/ASV/WEB/ESV retain the
+       stark "sold" metaphor; NET softens to "turned them over." The
+       "selling" language portrays God as sovereign over Israel's fate —
+       they become slaves because He transfers ownership as judgment.
+       "Harosheth of the Gentiles" (KJV) vs. "Harosheth-hagoyim" (ESV)
+       — ESV transliterates the full Hebrew name while KJV translates
+       "ha-Goyim" as "of the Gentiles."
 
-v.4  — KJV: "the wife of Lapidoth" / ESV: "the wife of Lappidoth" —
-       Hebrew "eshet Lappidot." "Lappidot" means "torches/flames." Some
-       scholars suggest this could be a description ("woman of torches/
-       fiery woman") rather than a husband's name, but the traditional
-       reading as her husband's name is standard.
+v.3  — Hebrew "rikbey barzel" — chariots of iron.
+       KJV: "nine hundred chariots of iron"
+       ESV: "900 chariots of iron"
+       ASV: "nine hundred chariots of iron"
+       NET: "900 chariots with iron-rimmed wheels"
+       WEB: "nine hundred chariots of iron"
+       Analysis: NET again adds interpretive detail ("iron-rimmed wheels")
+       to Hebrew "rikbey barzel." This is the same expansion seen in 1:19.
+       The Hebrew simply says "chariots of iron" without specifying which
+       component was iron.
 
-v.9  — KJV: "the LORD shall sell Sisera into the hand of a woman" / ESV:
-       "the LORD will sell Sisera into the hand of a woman" — Hebrew
-       "b'yad ishah yimkor Adonai et-Sisera." "Makar" = to sell, hand
-       over. The same verb used of God "selling" Israel to their enemies
-       (v.2) — now God "sells" the enemy to a woman. Poetic justice.
+v.4  — Hebrew "shophetah et-Yisrael" — was judging Israel.
+       KJV: "Deborah, a prophetess, the wife of Lapidoth, she judged Israel"
+       ESV: "Deborah, a prophetess, the wife of Lappidoth, was judging Israel"
+       ASV: "Deborah, a prophetess, the wife of Lappidoth, she judged Israel"
+       NET: "Deborah, a prophetess, wife of Lappidoth, was leading Israel at that time"
+       WEB: "Deborah, a prophetess, the wife of Lappidoth, judged Israel"
+       Analysis: "Lappidot" means "torches/flames" — some scholars suggest
+       this could be a description ("woman of torches/fiery woman") rather
+       than a husband's name. NET renders "shophetah" as "was leading"
+       rather than "judged" — again avoiding "judge" in favor of "leader."
+       This obscures the judicial function emphasized in v.5 where people
+       come for "judgment" (mishpat).
 
-v.15 — KJV: "the LORD discomfited Sisera" / ESV: "the LORD routed
-       Sisera" — Hebrew "vayaham Adonai." "Hamam" = to confuse, throw
-       into panic, rout. This word is used of God's supernatural
-       intervention in battle (Exodus 14:24; Joshua 10:10; 1 Samuel 7:10).
-       It implies divine action beyond natural military engagement —
-       God Himself caused the panic and confusion.
+v.9  — Hebrew "b'yad ishah yimkor Adonai et-Sisera" — into the hand of
+       a woman the LORD will sell Sisera.
+       KJV: "the LORD shall sell Sisera into the hand of a woman"
+       ESV: "the LORD will sell Sisera into the hand of a woman"
+       ASV: "Jehovah will sell Sisera into the hand of a woman"
+       NET: "the Lord will turn Sisera over to a woman"
+       WEB: "Yahweh will sell Sisera into a woman's hand"
+       Analysis: "Makar" = to sell, hand over. NET again avoids "sell"
+       (Hebrew "yimkor"), using "turn over." The selling language is
+       theologically significant — it parallels God "selling" Israel to
+       Jabin (v.2). God both sells Israel to enemies and sells enemies to
+       Israel's deliverers. The same verb used of judgment is now used of
+       deliverance — poetic justice.
 
-v.18 — KJV: "she covered him with a mantle" / ESV: "she covered him with
-       a rug" — Hebrew "ba-s'mikhah." This word occurs only here in the
-       Old Testament. It likely refers to a thick covering — a blanket,
-       rug, or heavy cloth. The covering conceals Sisera and gives him
-       false security.
+v.15 — Hebrew "vayaham Adonai et-Sisera" — the LORD threw Sisera into
+       panic.
+       KJV: "the LORD discomfited Sisera, and all his chariots"
+       ESV: "the LORD routed Sisera and all his chariots"
+       ASV: "Jehovah discomfited Sisera"
+       NET: "The Lord routed Sisera"
+       WEB: "Yahweh confused Sisera"
+       Analysis: "Hamam" = to confuse, throw into panic, rout. This word
+       is used of God's supernatural intervention in battle (Exodus 14:24;
+       Joshua 10:10; 1 Samuel 7:10). ASV retains archaic "discomfited";
+       WEB uses "confused"; ESV/NET interpret as "routed" (result rather
+       than means). It implies divine action beyond natural military
+       engagement — God Himself caused the panic and confusion.
 
-v.21 — KJV: "a nail of the tent" / ESV: "a tent peg" — Hebrew "y'ted
-       ha-ohel." "Yated" = a peg, pin, or stake. These were large wooden
+v.18 — Hebrew "ba-s'mikhah" — a covering (hapax legomenon).
+       KJV: "she covered him with a mantle"
+       ESV: "she covered him with a rug"
+       ASV: "she covered him with a rug"
+       NET: "she covered him with a blanket"
+       WEB: "she covered him with a rug"
+       Analysis: This word occurs only here in the Old Testament. It
+       likely refers to a thick covering — blanket, rug, or heavy cloth.
+       KJV's "mantle" suggests a garment; ESV/ASV/WEB's "rug" and NET's
+       "blanket" suggest bedding. The covering conceals Sisera and gives
+       him false security.
+
+v.21 — Hebrew "y'ted ha-ohel" — a peg of the tent.
+       KJV: "Jael... took a nail of the tent, and took an hammer in her hand"
+       ESV: "Jael... took a tent peg, and took a hammer in her hand"
+       ASV: "Jael... took a tent-pin, and took a hammer in her hand, and smote the pin into his temples"
+       NET: "Jael... took a tent peg in one hand and a hammer in the other... drove the tent peg through his temple into the ground"
+       WEB: "Jael... took a tent peg, and took a hammer in her hand, and struck the pin into his temples"
+       Analysis: "Yated" = a peg, pin, or stake. These were large wooden
        or metal stakes used to anchor tent ropes — substantial enough to
-       be driven through a man's skull into the ground. Nomadic women
-       were skilled at driving tent pegs — this was Jael's expertise.
+       be driven through a man's skull into the ground. ASV/WEB preserve
+       the Hebrew's sequential detail. NET streamlines the narrative.
+       ASV's "swooned" (archaic for fainted/expired) adds pathos absent
+       from NET's direct "he died." Nomadic women were skilled at driving
+       tent pegs — this was Jael's expertise.
 
 GLOSSARY
 ------------------------------------
@@ -218,20 +274,6 @@ Mount Tabor    — A prominent dome-shaped mountain (1,843 feet) in the
                Jezreel Valley. Barak gathered his forces here — the high
                ground gave tactical advantage and forced Sisera's chariots
                to fight uphill or wait below.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — ASV: "Jehovah sold them into the hand of Jabin" / WEB: "Yahweh sold them into the hand of Jabin" / NET: "The Lord turned them over to King Jabin" — Hebrew "vayyimk'rem." KJV/ASV/WEB retain the stark "sold" metaphor; NET softens to "turned them over." The "selling" language portrays God as sovereign over Israel's fate — they become slaves because He transfers ownership as judgment.
-
-- v.3 — NET: "900 chariots with iron-rimmed wheels" / ASV/WEB/KJV: "nine hundred chariots of iron" — NET again adds interpretive detail ("iron-rimmed wheels") to Hebrew "rikbey barzel." This is the same expansion seen in 1:19. The Hebrew simply says "chariots of iron" without specifying which component was iron.
-
-- v.4 — NET: "Deborah, a prophetess, wife of Lappidoth, was leading Israel at that time" / ASV: "Deborah, a prophetess, the wife of Lappidoth, she judged Israel" / WEB: "Deborah, a prophetess, the wife of Lappidoth, judged Israel" — NET renders "shophetah" (was judging) as "was leading" — again avoiding "judge" in favor of "leader." This obscures the judicial function emphasized in v.5 where people come for "judgment" (mishpat).
-
-- v.9 — ASV: "Jehovah will sell Sisera into the hand of a woman" / WEB: "Yahweh will sell Sisera into a woman's hand" / NET: "the Lord will turn Sisera over to a woman" — NET again avoids "sell" (Hebrew "yimkor"), using "turn over." The selling language is theologically significant — it parallels God "selling" Israel to Jabin (v.2). God both sells Israel to enemies and sells enemies to Israel's deliverers.
-
-- v.15 — ASV: "Jehovah discomfited Sisera" / WEB: "Yahweh confused Sisera" / NET: "The Lord routed Sisera" — Hebrew "vayyahom" = to confuse, throw into panic, discomfit. ASV retains archaic "discomfited"; WEB uses "confused"; NET interprets as "routed" (result rather than means). The same word describes God's action at the Red Sea (Exodus 14:24) and against the Philistines (1 Samuel 7:10).
-
-- v.21 — ASV: "smote the pin into his temples, and it pierced through into the ground; for he was in a deep sleep; so he swooned and died" / WEB: "struck the pin into his temples, and it pierced through into the ground; for he was in a deep sleep; so he fainted and died" / NET: "drove the tent peg through his temple into the ground while he was asleep from exhaustion, and he died" — NET streamlines the narrative; ASV/WEB preserve the Hebrew's sequential detail. ASV's "swooned" (archaic for fainted/expired) adds pathos absent from NET's direct "he died."
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

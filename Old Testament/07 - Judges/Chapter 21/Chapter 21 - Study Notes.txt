@@ -208,57 +208,113 @@ Charles Spurgeon:
   the centuries until a child is born in Bethlehem of whom it is said,
   'He shall reign over the house of Jacob for ever.'"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "came to the house of God" / ESV: "came to Bethel" —
-       Hebrew "Beit-El." Same ambiguity as in 20:26. KJV translates
-       descriptively ("house of God"); ESV uses the proper noun
-       ("Bethel"). Both are valid renderings of the same Hebrew. The
-       context (altar-building, sacrifices) suggests a legitimate
-       worship site, whether Bethel the city or the tabernacle location.
+v.2  — Hebrew "vayyis'u qolam vayyivku b'khi gadol" — they lifted their voice and wept a great weeping.
+       KJV: "came to the house of God"
+       ESV: "came to Bethel"
+       ASV: "the people came to Beth-el, and sat there till even before God, and lifted up their voices, and wept sore"
+       NET: "So the people came to Bethel and sat there before God until evening, weeping loudly and uncontrollably"
+       WEB: "the people came to Bethel, and sat there till evening before God, and lifted up their voices, and wept sore"
+       Analysis: Hebrew "Beit-El." Same ambiguity as in 20:26. KJV
+       translates descriptively ("house of God"); ESV uses the proper noun
+       ("Bethel"). Both are valid renderings of the same Hebrew. NET adds
+       "uncontrollably" (not in Hebrew). The Hebrew is literally "they
+       lifted their voice and wept a great weeping." The corporate grief
+       is genuine but ironic — they weep over consequences they created
+       through their own excessive violence.
 
-v.6  — KJV: "repented them for Benjamin" / ESV: "had compassion for
-       Benjamin" — Hebrew "vayinnachamu." From "nacham" = to be sorry,
-       to comfort oneself, to relent. KJV's "repented" uses the older
-       English sense of "felt regret/sorrow" (not moral repentance).
-       ESV's "had compassion" captures the emotional dimension. The
-       Hebrew conveys grief over consequences — they are sorry for what
-       happened, though not necessarily for their role in causing it.
+v.6  — Hebrew "vayyinnachamu" — they were sorry/repented/had compassion.
+       KJV: "repented them for Benjamin"
+       ESV: "had compassion for Benjamin"
+       ASV: "the children of Israel repented them for Benjamin"
+       NET: "The Israelites regretted what had happened to their brother Benjamin"
+       WEB: "The children of Israel grieved for Benjamin their brother"
+       Analysis: From "nacham" = to be sorry, to comfort oneself, to
+       relent. KJV/ASV's "repented" uses the older English sense of "felt
+       regret/sorrow" (not moral repentance). ESV's "had compassion"
+       captures the emotional dimension. NET's "regretted" and WEB's
+       "grieved" suggest emotional response without moral change. The same
+       root describes God's compassion in 2:18. The Hebrew conveys grief
+       over consequences — they are sorry for what happened, though not
+       necessarily for their role in causing it.
 
-v.11 — KJV: "Ye shall utterly destroy every male" / ESV: "every male
-       and every woman that has lain with a male you shall devote to
-       destruction" — Hebrew "tachariymu." From "charam" = to devote to
-       destruction, to place under the ban. This is the same "herem"
-       language used for the Canaanite conquest (Joshua 6:17-21). Its
-       application to a fellow Israelite city is extraordinary and
-       reveals how far the situation has deteriorated — Israel treats
-       its own people as it was commanded to treat the Canaanites.
+v.11 — Hebrew "tachariymu" / "hacharim" — devote to destruction.
+       KJV: "Ye shall utterly destroy every male"
+       ESV: "every male and every woman that has lain with a male you shall devote to destruction"
+       ASV: "ye shall utterly destroy every male, and every woman that hath lain by man"
+       NET: "Exterminate every male, as well as every woman who has experienced a man's bed. But spare the lives of any virgins"
+       WEB: "every male, and every woman who has lain with a man, you shall utterly destroy"
+       Analysis: From "charam" = to devote to destruction, to place under
+       the ban. This is the same "herem" language used for the Canaanite
+       conquest (Joshua 6:17-21). Its application to a fellow Israelite
+       city is extraordinary and reveals how far the situation has
+       deteriorated — Israel treats its own people as it was commanded to
+       treat the Canaanites. NET adds "But spare the lives of any virgins"
+       — not in the Hebrew at this point (it's implied from v.12). The
+       application of cherem against fellow Israelites marks the complete
+       moral collapse of the period.
 
-v.19 — KJV: "a feast of the LORD in Shiloh yearly" / ESV: "the yearly
-       feast of the LORD at Shiloh" — Hebrew "chag-Adonai b'Shiloh
-       miyamim yamimah." "Chag" = a pilgrimage feast. "Miyamim yamimah"
-       = literally "from days to days" = annually. This is likely one of
-       the three required annual feasts (Passover, Weeks, or
-       Tabernacles). The dancing suggests Tabernacles (Sukkot), the
-       harvest celebration.
+v.15 — Hebrew "parets" — breach/gap.
+       KJV: "the LORD had made a breach in the tribes of Israel"
+       ESV: "the LORD had made a breach in the tribes of Israel"
+       ASV: "Jehovah had made a breach in the tribes of Israel"
+       NET: "the Lord had weakened the Israelite tribes"
+       WEB: "Yahweh had made a breach in the tribes of Israel"
+       Analysis: "Parets" = breach/gap. KJV/ESV/ASV/WEB retain the
+       architectural metaphor — God made a breach (gap) in the tribal
+       structure. NET's "weakened" loses the imagery. The "breach"
+       acknowledges divine sovereignty even in civil war — God permitted
+       the near-annihilation of Benjamin as judgment. They attribute to
+       God what their own hands did, yet there is genuine grief here.
 
-v.21 — KJV: "catch you every man his wife" / ESV: "snatch each man his
-       wife" — Hebrew "vachataphtem." From "chataph" = to seize, snatch,
-       carry off. The word implies violent seizure — not courtship or
-       consent. It is the language of predation. The same root appears
-       in Job 9:12 ("who can hinder him?") and Psalm 10:9 (the lion
-       snatching prey). The authorized "catching" of women at worship
-       is linguistically indistinguishable from kidnapping.
+v.19 — Hebrew "chag-Adonai b'Shiloh miyamim yamimah" — a feast of the LORD in Shiloh annually.
+       KJV: "a feast of the LORD in Shiloh yearly"
+       ESV: "the yearly feast of the LORD at Shiloh"
+       ASV: "a feast of Jehovah from year to year in Shiloh"
+       NET: "an annual festival to the Lord is being held at Shiloh"
+       WEB: "a feast of Yahweh from year to year in Shiloh"
+       Analysis: "Chag" = a pilgrimage feast. "Miyamim yamimah" =
+       literally "from days to days" = annually. This is likely one of the
+       three required annual feasts (Passover, Weeks, or Tabernacles). The
+       dancing suggests Tabernacles (Sukkot), the harvest celebration.
+       NET's "annual festival" is more accessible; ASV/WEB's "from year
+       to year" preserves the Hebrew idiom.
 
-v.25 — KJV: "every man did that which was right in his own eyes" / ESV:
-       "Everyone did what was right in his own eyes" — Hebrew "ish
-       hayashar b'einav ya'aseh." "Yashar" = straight, right, upright.
-       "B'einav" = in his eyes. The irony: "yashar" is the word for
-       moral uprightness, yet here it describes moral chaos. Each person
-       defines "right" for themselves — which means there is no
-       objective right at all. The word "yashar" also connects to
-       "Jeshurun" (the upright one) — Israel's ideal name. They claim
-       uprightness while practicing wickedness.
+v.21 — Hebrew "vachataphtem" — seize/snatch/carry off.
+       KJV: "catch you every man his wife"
+       ESV: "snatch each man his wife"
+       ASV: "come ye out of the vineyards, and catch you every man his wife of the daughters of Shiloh"
+       NET: "jump out from the vineyards. Each one of you, catch yourself a wife from among the daughters of Shiloh"
+       WEB: "and catch every man his wife of the daughters of Shiloh"
+       Analysis: From "chataph" = to seize, snatch, carry off. The word
+       implies violent seizure — not courtship or consent. It is the
+       language of predation. The same root appears in Job 9:12 ("who can
+       hinder him?") and Psalm 10:9 (the lion snatching prey). NET's
+       "catch yourself a wife" is more colloquial. The institutional
+       sanctioning of bride-kidnapping from a religious festival reveals
+       how far Israel has fallen — they solve one injustice (oath-
+       breaking) with another (abduction). The authorized "catching" of
+       women at worship is linguistically indistinguishable from
+       kidnapping.
+
+v.25 — Hebrew "ish hayashar b'einav ya'aseh" — each man did the straight/right in his eyes.
+       KJV: "every man did that which was right in his own eyes"
+       ESV: "Everyone did what was right in his own eyes"
+       ASV: "In those days there was no king in Israel: every man did that which was right in his own eyes"
+       NET: "In those days Israel had no king. Each man did what he considered to be right"
+       WEB: "In those days there was no king in Israel. Everyone did that which was right in his own eyes"
+       Analysis: "Yashar" = straight, right, upright. "B'einav" = in his
+       eyes. The irony: "yashar" is the word for moral uprightness, yet
+       here it describes moral chaos. Each person defines "right" for
+       themselves — which means there is no objective right at all. The
+       word also connects to "Jeshurun" (the upright one) — Israel's ideal
+       name. They claim uprightness while practicing wickedness. The book's
+       final and most devastating statement. ASV/WEB/KJV preserve the
+       iconic phrasing "right in his own eyes." NET's "what he considered
+       to be right" loses the visual/moral metaphor. This refrain frames
+       the entire book (17:6, 18:1, 19:1, 21:25) and points forward to
+       the monarchy — and ultimately to Christ as the righteous King.
 
 GLOSSARY
 ------------------------------------
@@ -305,20 +361,6 @@ Rock of Rimmon — The stronghold where 600 Benjamite survivors hid for
                into Israel (v.13-14) represents the preservation of the
                tribe — God's providence ensuring that no tribe is
                permanently lost, despite human excess.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — ASV: "the people came to Beth-el, and sat there till even before God, and lifted up their voices, and wept sore" / NET: "So the people came to Bethel and sat there before God until evening, weeping loudly and uncontrollably" — NET adds "uncontrollably" (not in Hebrew). Hebrew "vayyis'u qolam vayyivku b'khi gadol" = they lifted their voice and wept a great weeping. The corporate grief is genuine but ironic — they weep over consequences they created through their own excessive violence.
-
-- v.6 — ASV: "the children of Israel repented them for Benjamin" / WEB: "The children of Israel grieved for Benjamin their brother" / NET: "The Israelites regretted what had happened to their brother Benjamin" — Hebrew "vayyinnachamu" (from nacham = to be sorry, repent, console oneself). ASV's "repented" implies deeper moral reflection; NET's "regretted" and WEB's "grieved" suggest emotional response without moral change. The same root describes God's compassion in 2:18.
-
-- v.11 — ASV: "ye shall utterly destroy every male, and every woman that hath lain by man" / NET: "Exterminate every male, as well as every woman who has experienced a man's bed. But spare the lives of any virgins" — Hebrew "herem" language — "hacharim." This is the vocabulary of holy war (devoted destruction) applied to a fellow Israelite city. NET adds "But spare the lives of any virgins" — not in the Hebrew at this point (it's implied from v.12). The application of cherem against fellow Israelites marks the complete moral collapse of the period.
-
-- v.21 — ASV: "come ye out of the vineyards, and catch you every man his wife of the daughters of Shiloh" / NET: "jump out from the vineyards. Each one of you, catch yourself a wife from among the daughters of Shiloh" — Hebrew "vachataphtem" = seize/snatch/carry off. NET's "catch yourself a wife" is more colloquial. The institutional sanctioning of bride-kidnapping from a religious festival reveals how far Israel has fallen — they solve one injustice (oath-breaking) with another (abduction).
-
-- v.25 — ASV: "In those days there was no king in Israel: every man did that which was right in his own eyes" / NET: "In those days Israel had no king. Each man did what he considered to be right" — The book's final and most devastating statement. ASV/WEB/KJV preserve the iconic phrasing "right in his own eyes." NET's "what he considered to be right" loses the visual/moral metaphor. This refrain frames the entire book (17:6, 18:1, 19:1, 21:25) and points forward to the monarchy — and ultimately to Christ as the righteous King.
-
-- v.15 — ASV: "Jehovah had made a breach in the tribes of Israel" / WEB: "Yahweh had made a breach in the tribes of Israel" / NET: "the Lord had weakened the Israelite tribes" — Hebrew "parets" = breach/gap. ASV/WEB retain the architectural metaphor — God made a breach (gap) in the tribal structure. NET's "weakened" loses the imagery. The "breach" acknowledges divine sovereignty even in civil war — God permitted the near-annihilation of Benjamin as judgment.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

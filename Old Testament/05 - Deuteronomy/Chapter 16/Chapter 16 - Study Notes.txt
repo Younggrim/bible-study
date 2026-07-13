@@ -174,59 +174,81 @@ Charles Spurgeon:
   forgetfulness, enough to maintain the rhythm of grace. God knows what
   we need: regular, joyful, communal remembrance of His mighty acts."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "keep the passover" / ESV: "keep the Passover" — Hebrew
-       "v'asita pesach." "Pesach" = Passover. From "pasach" = to pass
-       over, to spare. The feast commemorates God passing over Israelite
-       homes when He struck Egypt's firstborn.
+v.1  — Hebrew "v'asita pesach." — "Pesach" = Passover.
+       KJV: "keep the passover"
+       ESV: "keep the Passover"
+       Analysis: Hebrew "v'asita pesach." "Pesach" = Passover. From "pasach" = to pass over, to spare. The feast commemorates God passing over Israelite homes when He struck Egypt's firstborn.
 
-v.3  — KJV: "the bread of affliction" / ESV: "the bread of affliction" —
-       Hebrew "lechem oni." Unleavened bread = bread of poverty/affliction.
-       It recalls the haste of departure (no time for dough to rise) and
-       the affliction of slavery.
+v.2  — takes up residence.
+       ASV: "in the place which Jehovah shall choose, to cause his name to dwell there"
+       NET: "in the place he chooses to locate his name"
+       WEB: "in the place which Yahweh shall choose, to cause his name to dwell there"
+       Analysis: takes up residence — in one chosen place.
 
-v.7  — KJV: "thou shalt roast and eat it" / ESV: "you shall cook it and
-       eat it" — Hebrew "u-vishalta." The verb "bashal" can mean "cook" or
-       "boil." KJV follows the Exodus 12:9 specification (roasted with
-       fire, not boiled). ESV uses the broader term. This apparent tension
-       with Exodus 12:9 is resolved in 2 Chronicles 35:13: "they roasted
-       the passover with fire according to the ordinance."
+v.3  — Hebrew "lechem oni." — Unleavened bread = bread of poverty/affliction.
+       KJV: "the bread of affliction"
+       ESV: "the bread of affliction"
+       ASV: "that thou mayest remember the day when thou camest forth out of the land of Egypt"
+       NET: "that you may remember the day you came out of the land of Egypt"
+       WEB: "that you may remember the day when you came out of the land of Egypt"
+       Analysis: Hebrew "lechem oni." Unleavened bread = bread of poverty/affliction. It recalls the haste of departure (no time for dough to rise) and the affliction of slavery. active recollection that shapes present identity and future action.
 
-v.10 — KJV: "a tribute of a freewill offering" / ESV: "the tribute of a
-       freewill offering" — Hebrew "missat nidvat yad'kha." "Missah" =
-       sufficiency, proportion. "N'davah" = freewill offering. The amount
-       is voluntary but proportional to blessing received.
+v.6  — The repetition of "the place YHWH chooses" binds all three pilgrim...
+       ASV: "the place which Jehovah thy God shall choose to cause his name to dwell in"
+       NET: "at the place where the Lord your God chooses to locate his name"
+       Analysis: The repetition of "the place YHWH chooses" binds all three pilgrim feasts (Passover, Weeks, Tabernacles) to centralized worship. God controls where and how He is worshiped.
 
-v.13 — KJV: "the feast of tabernacles" / ESV: "the Feast of Booths" —
-       Hebrew "chag ha-sukkot." "Sukkot" = booths, temporary shelters.
-       KJV's "tabernacles" (from Latin "tabernaculum" = tent) and ESV's
-       "Booths" both refer to the temporary shelters Israel lived in
-       during the wilderness and built during this feast.
+v.7  — Hebrew "u-vishalta." — The verb "bashal" can mean "cook" or "boil." KJV follows the Exodus...
+       KJV: "thou shalt roast and eat it"
+       ESV: "you shall cook it and eat it"
+       Analysis: Hebrew "u-vishalta." The verb "bashal" can mean "cook" or "boil." KJV follows the Exodus 12:9 specification (roasted with fire, not boiled). ESV uses the broader term. This apparent tension with Exodus 12:9 is resolved in 2 Chronicles 35:13: "they roasted the passover with fire according to the ordinance."
 
-v.19 — KJV: "Thou shalt not wrest judgment" / ESV: "You shall not pervert
-       justice" — Hebrew "lo tatteh mishpat." "Natah" = to bend, turn
-       aside, pervert. Justice must be straight — not bent toward the
-       powerful or away from the vulnerable.
+v.10  — Hebrew "missat nidvat yad'kha." — "Missah" = sufficiency, proportion. "N'davah" = freewill offering.
+       KJV: "a tribute of a freewill offering"
+       ESV: "the tribute of a freewill offering"
+       Analysis: Hebrew "missat nidvat yad'kha." "Missah" = sufficiency, proportion. "N'davah" = freewill offering. The amount is voluntary but proportional to blessing received.
 
-v.20 — KJV: "That which is altogether just shalt thou follow" / ESV:
-       "Justice, and only justice, you shall follow" — Hebrew "tzedeq
-       tzedeq tirdof." Literally "righteousness, righteousness you shall
-       pursue." The doubling of "tzedeq" (justice/righteousness) is
-       emphatic: justice alone, justice completely, justice without
-       compromise. One of the most powerful justice statements in
-       Scripture.
+v.13  — Hebrew "chag ha-sukkot." — "Sukkot" = booths, temporary shelters.
+       KJV: "the feast of tabernacles"
+       ESV: "the Feast of Booths"
+       Analysis: Hebrew "chag ha-sukkot." "Sukkot" = booths, temporary shelters. KJV's "tabernacles" (from Latin "tabernaculum" = tent) and ESV's "Booths" both refer to the temporary shelters Israel lived in during the wilderness and built during this feast.
 
-v.21 — KJV: "a grove of any trees" / ESV: "any tree as an Asherah" —
-       Hebrew "asherah kol etz." KJV translates "asherah" as "grove"; ESV
-       retains the proper name. The Asherah was a sacred pole or tree
-       associated with the Canaanite goddess. Planting one near God's
-       altar would syncretize worship.
+v.16  — be seen.
+       ASV: "Three times in a year shall all thy males appear before Jehovah thy God"
+       NET: "Three times a year all your males must appear"
+       WEB: "Three times in a year all your males shall appear before Yahweh your God"
+       Analysis: literally "be seen" before God (not just "appear"). They come to be seen BY God — divine inspection of His people at the pilgrimage festivals.
 
-v.22 — KJV: "any image" / ESV: "a pillar" — Hebrew "matzevah." A standing
-       stone used in Canaanite worship. KJV's "image" is too broad; ESV's
-       "pillar" is more precise. These sacred stones were associated with
-       Baal worship.
+v.18  — justice must be locally accessible, not centralized beyond reach.
+       ASV: "judges and officers"
+       NET: "judges and officials"
+       WEB: "judges and officers"
+       Analysis: justice must be locally accessible, not centralized beyond reach.
+
+v.19  — Hebrew "lo tatteh mishpat." — "Natah" = to bend, turn aside, pervert.
+       KJV: "Thou shalt not wrest judgment"
+       ESV: "You shall not pervert justice"
+       Analysis: Hebrew "lo tatteh mishpat." "Natah" = to bend, turn aside, pervert. Justice must be straight — not bent toward the powerful or away from the vulnerable.
+
+v.20  — Hebrew "tzedeq tzedeq tirdof." — righteousness, righteousness you shall pursue.
+       KJV: "That which is altogether just shalt thou follow"
+       ESV: "Justice, and only justice, you shall follow"
+       ASV: "That which is altogether just shalt thou follow"
+       NET: "You must pursue justice alone"
+       WEB: "You shall follow that which is altogether just"
+       Analysis: Hebrew "tzedeq tzedeq tirdof." Literally "righteousness, righteousness you shall pursue." The doubling of "tzedeq" (justice/righteousness) is emphatic: justice alone, justice completely, justice without compromise. One of the most powerful justice statements in Scripture. "Justice, justice you shall pursue!" The doubling is emphatic. NET's "pursue" captures the active chase (Hebrew "radaph" — run after, hunt down).
+
+v.21  — Hebrew "asherah kol etz." — KJV translates "asherah" as "grove"; ESV retains the proper name.
+       KJV: "a grove of any trees"
+       ESV: "any tree as an Asherah"
+       Analysis: Hebrew "asherah kol etz." KJV translates "asherah" as "grove"; ESV retains the proper name. The Asherah was a sacred pole or tree associated with the Canaanite goddess. Planting one near God's altar would syncretize worship.
+
+v.22  — Hebrew "matzevah." — A standing stone used in Canaanite worship.
+       KJV: "any image"
+       ESV: "a pillar"
+       Analysis: Hebrew "matzevah." A standing stone used in Canaanite worship. KJV's "image" is too broad; ESV's "pillar" is more precise. These sacred stones were associated with Baal worship.
 
 GLOSSARY
 ------------------------------------
@@ -264,19 +286,6 @@ Asherah        — A Canaanite goddess and/or the wooden pole/tree that
                Strictly forbidden near God's altar. Represents the
                syncretism God abhors.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "in the place he chooses to locate his name" / ASV: "in the place which Jehovah shall choose, to cause his name to dwell there" / WEB: "in the place which Yahweh shall choose, to cause his name to dwell there" — The centralization formula again. NET compresses; ASV/WEB preserve "cause His name to dwell" (Hebrew "leshaken shemo sham"). God's name "dwells" — takes up residence — in one chosen place.
-
-- v.3 — NET: "that you may remember the day you came out of the land of Egypt" / ASV: "that thou mayest remember the day when thou camest forth out of the land of Egypt" / WEB: "that you may remember the day when you came out of the land of Egypt" — Passover's purpose: remembrance. Hebrew "tizkor" (remember) — active recollection that shapes present identity and future action.
-
-- v.6 — NET: "at the place where the Lord your God chooses to locate his name" / ASV: "the place which Jehovah thy God shall choose to cause his name to dwell in" — The repetition of "the place YHWH chooses" binds all three pilgrim feasts (Passover, Weeks, Tabernacles) to centralized worship. God controls where and how He is worshiped.
-
-- v.16 — NET: "Three times a year all your males must appear" / ASV: "Three times in a year shall all thy males appear before Jehovah thy God" / WEB: "Three times in a year all your males shall appear before Yahweh your God" — Hebrew "yera'eh" — literally "be seen" before God (not just "appear"). They come to be seen BY God — divine inspection of His people at the pilgrimage festivals.
-
-- v.18 — NET: "judges and officials" / ASV: "judges and officers" / WEB: "judges and officers" — Hebrew "shophetim ve-shoterim." NET uses "officials"; ASV/WEB use "officers." These are appointed for every town — justice must be locally accessible, not centralized beyond reach.
-
-- v.20 — NET: "You must pursue justice alone" / ASV: "That which is altogether just shalt thou follow" / WEB: "You shall follow that which is altogether just" / KJV: "That which is altogether just shalt thou follow" — Hebrew "tsedek tsedek tirdoph" — "Justice, justice you shall pursue!" The doubling is emphatic. NET's "pursue" captures the active chase (Hebrew "radaph" — run after, hunt down).
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

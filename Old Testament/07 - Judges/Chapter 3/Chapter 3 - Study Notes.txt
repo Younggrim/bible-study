@@ -145,47 +145,152 @@ Charles Spurgeon:
   His word is comfort; sometimes it is a sword. The wicked who will not
   hear God's word of grace will feel God's word of judgment. Better to
   receive His message on your knees than in your belly."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.7  — KJV: "served Baalim and the groves" / ESV: "served the Baals and
-       the Asheroth" — Hebrew "ha-Be'alim v'ha-Asherot." KJV translates
-       "Asherot" as "groves" because Asherah poles were wooden pillars
-       set up in groves. ESV retains the proper name. The Asherah was a
-       Canaanite goddess; her worship symbol was a wooden pole or tree.
+v.2  — Hebrew "milchamah" — war/battle.
+       KJV: "to teach them war"
+       ESV: "that he might teach war to those who had not known it before"
+       ASV: "to teach them war"
+       NET: "he wanted to teach the subsequent generations of Israelites...how to conduct holy war"
+       WEB: "to teach them war"
+       Analysis: NET uniquely adds "holy war" — Hebrew simply says
+       "milchamah" (war/battle). This is an interpretive addition — NET
+       clarifies the theological dimension that Israel's warfare was
+       divinely sanctioned, but the Hebrew text does not include the word
+       "holy." KJV/ASV/WEB retain the concise Hebrew form.
 
-v.8  — KJV: "Chushan-rishathaim" / ESV: "Cushan-rishathaim" — The name
-       likely means "Cushan of double wickedness" — possibly a derogatory
-       Hebrew nickname rather than his actual name. He was king of
-       "Mesopotamia" (Hebrew: "Aram-naharayim" = "Aram of the two
-       rivers" — the Tigris and Euphrates region).
+v.7  — Hebrew "ha-Be'alim v'ha-Asherot" — the Baals and the Asherah
+       poles.
+       KJV: "served Baalim and the groves"
+       ESV: "served the Baals and the Asheroth"
+       ASV: "served the Baalim and the Asheroth"
+       NET: "worshiped the Baals and the Asherahs"
+       WEB: "served the Baals and the Asheroth"
+       Analysis: KJV translates "Asherot" as "groves" because Asherah
+       poles were wooden pillars set up in groves. ESV/ASV/WEB retain the
+       proper name. NET uses "worshiped" instead of "served" (Hebrew
+       "avad" can mean both). The Asherah was a Canaanite goddess; her
+       worship symbol was a wooden pole or tree.
 
-v.15 — KJV: "a man lefthanded" / ESV: "a left-handed man" — Hebrew
-       "itter yad-y'mino" = literally "restricted/bound of his right
-       hand." This could mean naturally left-handed, or that his right
-       hand was disabled. The tribe of Benjamin (meaning "son of the
-       right hand") ironically produces left-handed warriors (cf. 20:16).
+v.8  — Hebrew "Kushan-Rish'atayim" — Cushan of double wickedness.
+       KJV: "Chushan-rishathaim king of Mesopotamia"
+       ESV: "Cushan-rishathaim king of Mesopotamia"
+       ASV: "Cushan-rishathaim king of Mesopotamia"
+       NET: "King Cushan-Rishathaim of Aram-Naharaim"
+       WEB: "Cushan Rishathaim king of Mesopotamia"
+       Analysis: The name likely means "Cushan of double wickedness" —
+       possibly a derogatory Hebrew nickname. NET retains "Aram-Naharaim"
+       (Hebrew: "Aram of the two rivers" — Tigris and Euphrates) while
+       others translate it as "Mesopotamia." NET's retention of the
+       Hebrew place name is more precise geographically.
 
-v.19 — KJV: "the quarries that were by Gilgal" / ESV: "the idols near
-       Gilgal" — Hebrew "ha-p'silim." "Pesel" typically means "graven
-       image/idol." KJV's "quarries" follows an older interpretation
-       (carved stones). ESV's "idols" is the standard meaning and fits
-       the context — Ehud turns back at the idols, perhaps motivated by
-       righteous anger at the pagan images near Israel's sacred site.
+v.9  — Hebrew "moshia" — savior/deliverer.
+       KJV: "the LORD raised up a deliverer"
+       ESV: "the LORD raised up a deliverer for the people of Israel"
+       ASV: "Jehovah raised up a saviour to the children of Israel"
+       NET: "he raised up a deliverer for the Israelites"
+       WEB: "Yahweh raised up a savior to the children of Israel"
+       Analysis: ASV and WEB use "saviour/savior" (stronger theological
+       term connecting to Christ as ultimate Savior); NET/KJV/ESV use
+       "deliverer." The Hebrew term "moshia" is the same root as "Yeshua/
+       Joshua/Jesus" — "one who saves." The choice between "savior" and
+       "deliverer" carries significant theological weight.
 
-v.22 — KJV: "the dirt came out" / ESV: "the dung came out" — Hebrew
-       "ha-parshedonah." This rare word likely refers to excrement or
-       intestinal contents. The graphic detail serves to humiliate Eglon
-       and mock the enemy — a common feature of ancient Near Eastern
-       victory narratives.
+v.10 — Hebrew "vattehi alav ruach Adonai" — the Spirit of the LORD was
+       upon him.
+       KJV: "the Spirit of the LORD came upon him"
+       ESV: "The Spirit of the LORD was upon him"
+       ASV: "the Spirit of Jehovah came upon him"
+       NET: "The Lord's Spirit empowered him"
+       WEB: "Yahweh's Spirit came on him"
+       Analysis: NET interprets "came upon" as "empowered" — adding
+       functional explanation. The Hebrew "vattehi alav" (was upon him)
+       is more mysterious; NET makes the purpose explicit but loses the
+       sense of divine presence resting on a person. The Spirit's
+       empowerment is essential — no judge delivers in his own strength.
 
-v.24 — KJV: "he covereth his feet" / ESV: "he is relieving himself" —
-       Hebrew "mesikh et-raglav" = literally "covering his feet." A
-       euphemism for using the toilet (the robe would cover the feet
-       when squatting). ESV makes the euphemism explicit for modern
-       readers.
+v.15 — Hebrew "itter yad-y'mino" — restricted/bound of his right hand.
+       KJV: "a man lefthanded"
+       ESV: "a left-handed man"
+       ASV: "a man left-handed"
+       NET: "a left-handed man"
+       WEB: "a left-handed man"
+       Analysis: Literally "restricted/bound of his right hand." This
+       could mean naturally left-handed, or that his right hand was
+       disabled. The tribe of Benjamin (meaning "son of the right hand")
+       ironically produces left-handed warriors (cf. 20:16). All
+       translations simplify the Hebrew idiom to "left-handed."
 
-v.30 — KJV: "fourscore years" / ESV: "eighty years" — Same number;
-       KJV uses archaic English counting (fourscore = 4 × 20 = 80).
+v.19 — Hebrew "ha-p'silim" — graven images/idols.
+       KJV: "the quarries that were by Gilgal"
+       ESV: "the idols near Gilgal"
+       ASV: "the quarries that were by Gilgal"
+       NET: "the carved images at Gilgal"
+       WEB: "the stone idols that were by Gilgal"
+       Analysis: "Pesel" typically means "graven image/idol." KJV/ASV's
+       "quarries" follows an older interpretation (carved stones). ESV's
+       "idols" is the standard meaning. WEB says "stone idols"; NET says
+       "carved images." The context — Ehud turns back at these objects,
+       perhaps motivated by righteous anger at pagan images near Israel's
+       sacred site — supports the "idols" reading.
+
+v.20 — Hebrew "d'var-Elohim" — a word/message from God.
+       KJV: "I have a message from God for you"
+       ESV: "I have a message from God for you"
+       ASV: "I have a message from God unto thee"
+       NET: "I have a message from God for you"
+       WEB: "I have a message from God for you"
+       Analysis: All translations render this identically in substance.
+       The Hebrew "d'var-sether" (v.19) = "a word of secrecy." The deadly
+       irony is preserved across all versions — the "message" is a
+       dagger. God's judgment IS His message to the wicked.
+
+v.22 — Hebrew "ha-parshedonah" — excrement/intestinal contents.
+       KJV: "the dirt came out"
+       ESV: "the dung came out"
+       ASV: "the dirt came out"
+       NET: "the fecal matter came out"
+       WEB: "the handle also went in after the blade; and the fat closed upon the blade"
+       Analysis: This rare word likely refers to excrement. KJV/ASV
+       euphemize with "dirt"; ESV uses "dung"; NET is most explicit with
+       "fecal matter." The graphic detail serves to humiliate Eglon and
+       mock the enemy — a common feature of ancient Near Eastern victory
+       narratives.
+
+v.24 — Hebrew "mesikh et-raglav" — covering his feet.
+       KJV: "he covereth his feet in his summer chamber"
+       ESV: "he is relieving himself in the closet of the cool chamber"
+       ASV: "he is covering his feet in the upper chamber"
+       NET: "He must be relieving himself in the well-ventilated inner room"
+       WEB: "Surely he is covering his feet in the upper room"
+       Analysis: "Covering his feet" is a euphemism for using the toilet
+       (the robe would cover the feet when squatting). ESV/NET make the
+       euphemism explicit; KJV/ASV/WEB retain the literal idiom. NET also
+       adds "well-ventilated" (interpreting Hebrew "maqerah" as referring
+       to the room's coolness/ventilation).
+
+v.29 — Hebrew "kol-shamen v'kol-ish chayil" — every robust man and
+       every man of valor.
+       KJV: "all lusty, and all men of valour"
+       ESV: "all strong, able-bodied men"
+       ASV: "every lusty man, and every man of valor"
+       NET: "all strong, capable warriors"
+       WEB: "every strong man, and every man of valor"
+       Analysis: ASV/KJV's "lusty" (archaic for "robust/vigorous")
+       corresponds to "shamen" (fat/robust). The Hebrew literally means
+       "fat/well-fed" — implying well-provisioned soldiers. WEB uses
+       "strong"; NET combines both terms into "strong, capable warriors."
+
+v.30 — Hebrew "sh'monim shanah" — eighty years.
+       KJV: "the land had rest fourscore years"
+       ESV: "the land had rest eighty years"
+       ASV: "the land had rest fourscore years"
+       NET: "the land was undisturbed for eighty years"
+       WEB: "the land had rest eighty years"
+       Analysis: KJV/ASV use archaic "fourscore" (4 × 20 = 80). NET's
+       "undisturbed" interprets the Hebrew "shaqat" (to be quiet, at rest)
+       with a slightly different nuance than "rest." All agree on the
+       duration.
 
 GLOSSARY
 ------------------------------------
@@ -223,22 +328,6 @@ Cubit          — A unit of measurement approximately 18 inches (the
                length from elbow to fingertip). Ehud's dagger was "a
                cubit length" — about 18 inches, short enough to conceal
                but long enough to be lethal.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "he wanted to teach the subsequent generations of Israelites...how to conduct holy war" / ASV: "to teach them war" / WEB: "to teach them war" — NET uniquely adds "holy war" (Hebrew simply "milchamah" = war/battle). This is an interpretive addition — NET clarifies the theological dimension that Israel's warfare was divinely sanctioned, but the Hebrew text does not include the word "holy."
-
-- v.9 — ASV/WEB: "Jehovah/Yahweh raised up a saviour" / NET: "he raised up a deliverer" / KJV: "the LORD raised up a deliverer" — Hebrew "moshia" = savior/deliverer. ASV and WEB use "saviour" (stronger theological term connecting to Christ as ultimate Savior); NET/KJV use "deliverer." The Hebrew term is the same root as "Yeshua/Joshua/Jesus" — "one who saves."
-
-- v.10 — ASV: "the Spirit of Jehovah came upon him" / WEB: "Yahweh's Spirit came on him" / NET: "The Lord's Spirit empowered him" — NET interprets "came upon" as "empowered" — adding functional explanation. The Hebrew "vattehi alav" (was upon him) is more mysterious; NET makes the purpose explicit but loses the sense of divine presence resting on a person.
-
-- v.19 — ASV: "the quarries that were by Gilgal" / WEB: "the stone idols that were by Gilgal" / NET: "the carved images at Gilgal" — Hebrew "ha-p'silim." ASV follows KJV's unusual rendering "quarries"; WEB says "stone idols"; NET says "carved images." The standard meaning of "pesel" is "graven image/idol" — ASV/KJV's "quarries" is an older, now-rejected interpretation.
-
-- v.20 — NET: "I have a message from God for you" / WEB: "I have a message from God to you" / ASV: "I have a message from God unto thee" — All translations render this identically in substance, but NET adds context in v.19: "I have a secret message for you, O king" — Hebrew "d'var-sether" = "a word of secrecy." The deadly irony is preserved across all versions.
-
-- v.24 — WEB: "Surely he is covering his feet in the upper room" / NET: "He must be relieving himself in the well-ventilated inner room" / ASV: "Surely he is covering his feet in the upper chamber" — NET fully explains the Hebrew euphemism "mesikh raglav" (covering his feet) while ASV/WEB retain the literal idiom. NET also adds "well-ventilated" (interpreting Hebrew "maqerah" as referring to the room's coolness/ventilation).
-
-- v.29 — ASV: "every lusty man, and every man of valor" / WEB: "every strong man, and every man of valor" / NET: "all strong, capable warriors" — Hebrew "kol-shamen v'kol-ish chayil." ASV's "lusty" (archaic for "robust/vigorous") corresponds to "shamen" (fat/robust). WEB uses "strong"; NET combines both terms into "strong, capable warriors." The Hebrew "shamen" literally means "fat/well-fed" — implying well-provisioned soldiers.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

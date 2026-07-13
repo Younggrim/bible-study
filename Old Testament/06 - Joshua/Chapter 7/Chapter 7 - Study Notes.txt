@@ -165,57 +165,87 @@ Charles Spurgeon:
   hidden disobedience weakens the whole army. Your secret compromise
   costs others their victory. Dig it up. Confess it. Destroy it. Before
   it destroys you and those around you."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "committed a trespass in the accursed thing" / ESV: "broke
-       faith in regard to the devoted things" — Hebrew "ma'alu ma'al
-       ba-cherem." "Ma'al" = to act unfaithfully, treacherously, to
-       break faith. The doubling (verb + noun from same root) intensifies:
-       "they acted with great unfaithfulness." ESV's "broke faith" better
-       captures the covenant-breaking nature of the act.
+v.1  — Hebrew "ma'alu ma'al ba-cherem" — "ma'al" = to act unfaithfully, treacherously; doubling intensifies: "acted with great unfaithfulness."
+       KJV: "committed a trespass in the accursed thing"
+       ESV: "broke faith in regard to the devoted things"
+       ASV: "committed a trespass in the devoted thing"
+       NET: "disobeyed the command about the city's riches"
+       WEB: "committed a trespass in the devoted things"
+       Analysis: NET replaces the "cherem" (devoted thing) concept with "the city's riches," losing the theological weight entirely. The sin was not about stealing "riches" but violating what was under the ban — devoted to God's exclusive claim. ESV's "broke faith" best captures the covenant-breaking nature. ASV/WEB preserve "devoted thing." KJV's "accursed" conveys danger but not the consecration aspect. The anger of the LORD was kindled: ASV/WEB preserve the Hebrew fire metaphor (charah — to burn hot), while NET's "furious" is accurate but loses the imagery.
 
-v.5  — KJV: "smote them in the going down" / ESV: "struck them at the
-       descent" — Hebrew "ba-morad." "Morad" = descent, slope. The men
-       of Ai chased Israel downhill — a rout, not a retreat. The
-       psychological impact was devastating.
+v.5  — Hebrew "ba-morad" — "morad" = descent, slope.
+       KJV: "smote them in the going down"
+       ESV: "struck them at the descent"
+       ASV: "smote them at the going down"
+       NET: "chased them down the slope"
+       WEB: "struck them at the descent"
+       Analysis: NET's "chased them down the slope" is vivid and dynamic. KJV/ASV "the going down" is literal but archaic. ESV/WEB "the descent" is concise. The men of Ai chased Israel downhill — a rout, not a retreat. The psychological impact was devastating.
 
-v.9  — KJV: "what wilt thou do unto thy great name?" / ESV: "what will
-       you do for your great name?" — Hebrew "u-mah ta'aseh l'shimkha
-       ha-gadol?" Joshua's appeal is to God's reputation — if Israel is
-       destroyed, the nations will conclude God is weak. This is the same
-       argument Moses used (Numbers 14:13-16; Exodus 32:12).
+v.7  — Hebrew "Adonai YHWH" — Lord + divine name; Joshua's lament.
+       KJV: "Alas, O Lord GOD"
+       ESV: "Alas, O Lord GOD"
+       ASV: "Alas, O Lord Jehovah"
+       NET: "O, Sovereign Lord!"
+       WEB: "Alas, Lord Yahweh"
+       Analysis: ASV/WEB preserve the Hebrew "Adonai YHWH" with both title and divine name. NET renders this as "Sovereign Lord," interpreting "Adonai" as sovereign. KJV/ESV use "Lord GOD" (caps for YHWH). Joshua's appeal is to God's reputation — if Israel is destroyed, the nations will conclude God is weak.
 
-v.11 — KJV: "dissembled also" / ESV: "lied" — Hebrew "v'gam kichashu."
-       "Kachash" = to deny, deceive, lie, act deceptively. KJV's
-       "dissembled" (pretended, concealed the truth) is archaic. ESV's
-       "lied" is direct. Achan's sin included deception — hiding the
-       truth from the community.
+v.9  — Hebrew "u-mah ta'aseh l'shimkha ha-gadol?" — appeal to God's reputation and great name.
+       KJV: "what wilt thou do unto thy great name?"
+       ESV: "what will you do for your great name?"
+       ASV: "what wilt thou do for thy great name?"
+       NET: "What will you do to protect your great reputation?"
+       WEB: "what will you do for your great name?"
+       Analysis: NET adds "to protect," making the implicit explicit. KJV/ASV/ESV/WEB preserve the open-ended Hebrew question. Joshua appeals to God's glory — the same argument Moses used (Numbers 14:13-16; Exodus 32:12). God's reputation among the nations is at stake.
 
-v.15 — KJV: "he hath wrought folly in Israel" / ESV: "he has done an
-       outrageous thing in Israel" — Hebrew "asah n'valah b'Yisra'el."
-       "Nevalah" = folly, disgraceful act, outrage. This is a technical
-       term for a serious covenant violation that shames the community
-       (cf. Genesis 34:7; Judges 19:23; 2 Samuel 13:12). It is not mere
-       foolishness but moral outrage.
+v.11 — Hebrew "v'gam kichashu" — "kachash" = to deny, deceive, lie, act deceptively.
+       KJV: "dissembled also"
+       ESV: "lied"
+       ASV: "have also dissembled"
+       NET: "have stolen and lied"
+       WEB: "have also denied"
+       Analysis: KJV/ASV's "dissembled" (pretended, concealed the truth) is archaic. ESV's "lied" is direct and accessible. NET adds "stolen and" for clarity. WEB's "denied" captures the Hebrew "kachash." Achan's sin included deception — hiding the truth from the community while Israel suffered defeat.
 
-v.21 — KJV: "a goodly Babylonish garment" / ESV: "a beautiful cloak from
-       Shinar" — Hebrew "adderet Shin'ar achat tovah." "Adderet" = a
-       mantle, cloak, robe (a luxury garment). "Shin'ar" = Babylonia.
-       This was an expensive imported garment — a status symbol. Achan
-       coveted luxury from the very culture God was judging.
+v.12 — Hebrew "cherem" — Israel itself has become subject to the ban.
+       KJV: "they were accursed"
+       ESV: "they have become devoted for destruction"
+       ASV: "they are become accursed"
+       NET: "they have become subject to annihilation"
+       WEB: "they have become devoted for destruction"
+       Analysis: ESV/WEB give the fullest rendering — "devoted for destruction" captures both the consecration and judgment aspects. NET's "subject to annihilation" is clinical. KJV/ASV "accursed" is traditional but ambiguous. The terrifying point: by taking what was cherem, Israel itself becomes cherem.
 
-v.25 — KJV: "stoned him with stones, and burned them with fire, after
-       they had stoned them with stones" / ESV: "stoned him with stones.
-       They burned them with fire and stoned them with stones" — The
-       shift from singular ("him") to plural ("them") indicates Achan
-       was stoned first, then his family and possessions were burned and
-       stoned. The severity reflects the severity of covenant violation.
+v.15 — Hebrew "asah n'valah b'Yisra'el" — "nevalah" = folly, disgraceful act, moral outrage.
+       KJV: "he hath wrought folly in Israel"
+       ESV: "he has done an outrageous thing in Israel"
+       ASV: "he hath wrought folly in Israel"
+       NET: "he has violated the Lord's covenant"
+       WEB: "he has done a disgraceful thing in Israel"
+       Analysis: "Nevalah" is a technical term for a serious covenant violation that shames the community (cf. Genesis 34:7; Judges 19:23). ESV "outrageous thing" and WEB "disgraceful thing" capture the moral weight. KJV/ASV "folly" understates it — this is not mere foolishness but moral outrage. NET interprets rather than translates.
 
-v.26 — KJV: "The valley of Achor" / ESV: "the Valley of Achor" — Hebrew
-       "Emeq Akhor." "Akhor" = trouble, disturbance. A wordplay on
-       Joshua's words to Achan: "Why hast thou troubled (akhar'tanu) us?"
-       The place is named for the trouble Achan brought. Yet Hosea 2:15
-       promises God will make "the valley of Achor a door of hope."
+v.21 — Hebrew "adderet Shin'ar achat tovah" — "adderet" = mantle, cloak; "Shin'ar" = Babylonia.
+       KJV: "a goodly Babylonish garment"
+       ESV: "a beautiful cloak from Shinar"
+       ASV: "a goodly Babylonish mantle"
+       NET: "a beautiful Babylonian robe"
+       WEB: "a beautiful Babylonian robe"
+       Analysis: All translations convey the essential meaning — an expensive imported luxury garment from Babylon. KJV's "goodly" is archaic for "beautiful." ESV preserves "Shinar" (the Hebrew name); others use "Babylonian/Babylonish." Achan coveted luxury from the very culture God was judging.
+
+v.25 — Hebrew wordplay: "troubled" (achar) → "Achor" (valley of trouble).
+       KJV: "Why hast thou troubled us? the LORD shall trouble thee this day"
+       ESV: "Why did you bring trouble on us? The LORD brings trouble on you today"
+       ASV: "Why hast thou troubled us? Jehovah shall trouble thee this day"
+       NET: "The Lord will bring disaster on you today!"
+       WEB: "Why have you troubled us? Yahweh will trouble you today"
+       Analysis: The wordplay "troubled" (achar) → "Achor" (valley of trouble) is preserved in KJV/ASV/ESV/WEB but obscured in NET, which uses "disaster" rather than "trouble." The valley name (Achor) comes directly from the verb Joshua uses. The severity of the punishment reflects the severity of covenant violation.
+
+v.26 — Hebrew "Emeq Akhor" — Valley of Trouble; Hebrew "charon af" — fierce anger.
+       KJV: "The valley of Achor, unto this day. So the LORD turned from the fierceness of his anger"
+       ESV: "the Valley of Achor to this day. And the LORD turned from his burning anger"
+       ASV: "The valley of Achor, unto this day. So Jehovah turned from the fierceness of his anger"
+       NET: "the Lord's anger subsided"
+       WEB: "the Valley of Achor to this day. So Yahweh turned from the fierceness of his anger"
+       Analysis: NET's "subsided" is bland where the Hebrew pictures God actively turning away from fierce wrath (charon af). KJV/ASV/ESV/WEB preserve the dramatic anthropomorphic language. Yet Hosea 2:15 promises God will make "the valley of Achor a door of hope" — God redeems even places of judgment.
 
 GLOSSARY
 ------------------------------------
@@ -253,16 +283,6 @@ Corporate Responsibility — The biblical principle that in covenant
                community, one member's sin affects all. God charged
                "Israel" with sin though only Achan acted. The community
                shares in both blessing and judgment.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "committed a trespass in the devoted thing" / WEB: "committed a trespass in the devoted things" / NET: "disobeyed the command about the city's riches" / KJV: "committed a trespass in the accursed thing" — NET replaces the "cherem" (devoted thing) concept with "the city's riches," losing the theological weight. The sin was not about stealing "riches" but violating what was under the ban — devoted to God's exclusive claim. ASV/WEB preserve "devoted thing."
-- v.1 — ASV: "the anger of Jehovah was kindled against the children of Israel" / WEB: "Yahweh's anger burned against the children of Israel" / NET: "The Lord was furious with the Israelites" — WEB's "burned" and ASV's "kindled" preserve the Hebrew fire metaphor (charah — to burn hot). NET's "furious" is accurate but loses the imagery.
-- v.7 — ASV: "Alas, O Lord Jehovah" / WEB: "Alas, Lord Yahweh" / NET: "O, Sovereign Lord!" — ASV/WEB preserve the Hebrew "Adonai YHWH" (Lord + divine name). NET renders this as "Sovereign Lord," interpreting "Adonai" as sovereign. KJV uses "O Lord GOD" (LORD in caps for YHWH).
-- v.12 — NET: "they have become subject to annihilation" / KJV: "they were accursed" / ASV: "they are become accursed" / WEB: "they have become devoted for destruction" — WEB gives the fullest rendering of "cherem" — "devoted for destruction" captures both the consecration and judgment aspects. NET's "subject to annihilation" is clinical; KJV's "accursed" is traditional but ambiguous.
-- v.13 — NET: "Ritually consecrate the people...You are contaminated, O Israel!" / KJV: "Sanctify the people...There is an accursed thing in the midst of thee" / WEB: "Sanctify the people...There is a devoted thing among you" — NET interprets "cherem" as "contamination" and adds "ritually" before "consecrate." KJV/ASV/WEB preserve the connection between the "devoted thing" and the need for sanctification.
-- v.25 — ASV: "Jehovah shall trouble thee this day" / WEB: "Yahweh will trouble you today" / NET: "The Lord will bring disaster on you today!" — The wordplay "troubled" (achar) → "Achor" (valley of trouble) is preserved in KJV/ASV/WEB but obscured in NET, which uses "disaster" rather than "trouble." The valley name (Achor) comes directly from the verb Joshua uses.
-- v.26 — ASV: "Jehovah turned from the fierceness of his anger" / WEB: "Yahweh turned from the fierceness of his anger" / NET: "the Lord's anger subsided" — NET's "subsided" is bland where the Hebrew pictures God actively turning away from fierce wrath (charon af). KJV/ASV/WEB preserve the dramatic anthropomorphic language.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

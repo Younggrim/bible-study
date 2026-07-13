@@ -166,48 +166,63 @@ Charles Spurgeon:
   Father with all His heart, all His soul, all His might. His perfect
   obedience is credited to all who believe."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.4  — KJV: "The LORD our God is one LORD" / ESV: "The LORD our God, the
-       LORD is one" — Hebrew "YHWH Eloheinu YHWH echad." This can be
-       translated multiple ways: "The LORD our God is one LORD" / "The LORD
-       our God, the LORD is one" / "The LORD is our God, the LORD alone."
-       "Echad" means one/unified/alone. The statement affirms both God's
-       unity and His exclusivity.
+v.4  — Hebrew "YHWH Eloheinu YHWH echad." — This can be translated multiple ways: "The LORD our God is one LORD"...
+       KJV: "The LORD our God is one LORD"
+       ESV: "The LORD our God, the LORD is one"
+       ASV: "Hear, O Israel: Jehovah our God is one Jehovah"
+       NET: "Listen, Israel: The Lord is our God, the Lord is one!"
+       WEB: "Hear, Israel: Yahweh is our God. Yahweh is one"
+       Analysis: Hebrew "YHWH Eloheinu YHWH echad." This can be translated multiple ways: "The LORD our God is one LORD" / "The LORD our God, the LORD is one" / "The LORD is our God, the LORD alone." "Echad" means one/unified/alone. The statement affirms both God's unity and His exclusivity. Israel's foundational confession. The divine name appears twice in ASV/WEB. The precise meaning is debated: "YHWH is one" (numeric unity), "YHWH alone" (exclusive devotion), or "YHWH is unique" (incomparable). NET places the exclamation mark for emphasis.
 
-v.5  — KJV: "with all thy might" / ESV: "with all your might" — Hebrew
-       "b'chol m'odecha." "M'od" literally means "very/exceedingly" — with
-       all your "very-ness," your utmost capacity, your everything. Some
-       render it "resources" or "abundance" — love God with everything you
-       have and are.
+v.4  — The word "Hear" (Hebrew "Shema") means more than passive listening —...
+       Analysis: The word "Hear" (Hebrew "Shema") means more than passive listening — it means obey, respond, act. This single word gives the passage its name and defines Israel's covenantal posture: attentive obedience.
 
-v.7  — KJV: "teach them diligently" / ESV: "teach them diligently" —
-       Hebrew "v'shinnantam." From "shanan" = to sharpen, to whet. The
-       image is of sharpening a blade by repeated strokes — teaching by
-       constant repetition until the words are sharp and clear in the
-       child's mind.
+v.5  — Hebrew "b'chol m'odecha." — "M'od" literally means "very/exceedingly".
+       KJV: "with all thy might"
+       ESV: "with all your might"
+       ASV: "with all thy heart, and with all thy soul, and with all thy might"
+       NET: "with all your heart, with all your soul, and with all your strength"
+       WEB: "with all your heart, with all your soul, and with all your might"
+       Analysis: Hebrew "b'chol m'odecha." "M'od" literally means "very/exceedingly" — with all your "very-ness," your utmost capacity, your everything. Some render it "resources" or "abundance" — love God with everything you have and are. literally "muchness/exceedingly"). The totality of love: will (heart), being (soul), resources (strength/might).
 
-v.8  — KJV: "frontlets between thine eyes" / ESV: "frontlets between your
-       eyes" — Hebrew "totafot bein einecha." "Totafot" is a rare word,
-       possibly meaning "bands" or "ornaments." Later Judaism interpreted
-       this literally as tefillin (phylacteries) — small boxes containing
-       Scripture worn on the forehead and arm during prayer.
+v.7  — Hebrew "v'shinnantam." — From "shanan" = to sharpen, to whet.
+       KJV: "teach them diligently"
+       ESV: "teach them diligently"
+       ASV: "thou shalt teach them diligently unto thy children"
+       NET: "You must teach them diligently to your children"
+       WEB: "you shall teach them diligently to your children"
+       Analysis: Hebrew "v'shinnantam." From "shanan" = to sharpen, to whet. The image is of sharpening a blade by repeated strokes — teaching by constant repetition until the words are sharp and clear in the child's mind. to sharpen/whet). Teaching is like sharpening a blade — repetitive, intentional, producing a keen edge. NET/ASV/WEB all capture the diligence.
 
-v.12 — KJV: "beware lest thou forget" / ESV: "take care lest you forget"
-       — Hebrew "hishamer l'cha pen tishkach." "Hishamer" = guard yourself.
-       "Pen" = lest. "Tishkach" = you forget. Active vigilance against
-       spiritual amnesia.
+v.8  — Hebrew "totafot bein einecha." — "Totafot" is a rare word, possibly meaning "bands" or "ornaments."...
+       KJV: "frontlets between thine eyes"
+       ESV: "frontlets between your eyes"
+       ASV: "thou shalt bind them for a sign upon thy hand"
+       NET: "Tie them as a reminder on your forearm"
+       WEB: "You shall bind them for a sign on your hand"
+       Analysis: Hebrew "totafot bein einecha." "Totafot" is a rare word, possibly meaning "bands" or "ornaments." Later Judaism interpreted this literally as tefillin (phylacteries) — small boxes containing Scripture worn on the forehead and arm during prayer. Hebrew "yad" includes both.
 
-v.16 — KJV: "Ye shall not tempt the LORD" / ESV: "You shall not put the
-       LORD your God to the test" — Hebrew "lo t'nassu et YHWH." "Nasah" =
-       to test, to try, to prove. Testing God means demanding He prove
-       Himself rather than trusting His revealed word.
+v.9  — God's word marks the boundaries of daily life: going out and coming...
+       ASV: "thou shalt write them upon the door-posts of thy house, and upon thy gates"
+       NET: "write them on the doorframes of your houses and on your gates"
+       WEB: "and you shall write them on the door posts of your house, and on your gates"
+       Analysis: God's word marks the boundaries of daily life: going out and coming in.
 
-v.25 — KJV: "it shall be our righteousness" / ESV: "it will be
-       righteousness for us" — Hebrew "ts'daqah tihyeh lanu." Obedience
-       constitutes righteousness under the old covenant. Paul will later
-       contrast this with righteousness by faith (Romans 10:5-6; Galatians
-       3:11-12).
+v.12  — Hebrew "hishamer l'cha pen tishkach." — "Hishamer" = guard yourself. "Pen" = lest. "Tishkach" = you forget.
+       KJV: "beware lest thou forget"
+       ESV: "take care lest you forget"
+       Analysis: Hebrew "hishamer l'cha pen tishkach." "Hishamer" = guard yourself. "Pen" = lest. "Tishkach" = you forget. Active vigilance against spiritual amnesia.
+
+v.16  — Hebrew "lo t'nassu et YHWH." — "Nasah" = to test, to try, to prove.
+       KJV: "Ye shall not tempt the LORD"
+       ESV: "You shall not put the LORD your God to the test"
+       Analysis: Hebrew "lo t'nassu et YHWH." "Nasah" = to test, to try, to prove. Testing God means demanding He prove Himself rather than trusting His revealed word.
+
+v.25  — Hebrew "ts'daqah tihyeh lanu." — Obedience constitutes righteousness under the old covenant.
+       KJV: "it shall be our righteousness"
+       ESV: "it will be righteousness for us"
+       Analysis: Hebrew "ts'daqah tihyeh lanu." Obedience constitutes righteousness under the old covenant. Paul will later contrast this with righteousness by faith (Romans 10:5-6; Galatians 3:11-12).
 
 GLOSSARY
 ------------------------------------
@@ -240,19 +255,6 @@ Diligently (Hebrew: "shanan") — To sharpen, to whet, to repeat. Teaching
                repeated strokes. Not casual mention but intentional,
                persistent instruction.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.4 — NET: "Listen, Israel: The Lord is our God, the Lord is one!" / ASV: "Hear, O Israel: Jehovah our God is one Jehovah" / WEB: "Hear, Israel: Yahweh is our God. Yahweh is one" / KJV: "Hear, O Israel: The LORD our God is one LORD" — The Shema — Israel's foundational confession. The divine name appears twice in ASV/WEB. The precise meaning is debated: "YHWH is one" (numeric unity), "YHWH alone" (exclusive devotion), or "YHWH is unique" (incomparable). NET places the exclamation mark for emphasis.
-
-- v.4 — The word "Hear" (Hebrew "Shema") means more than passive listening — it means obey, respond, act. This single word gives the passage its name and defines Israel's covenantal posture: attentive obedience.
-
-- v.5 — NET: "with all your heart, with all your soul, and with all your strength" / ASV: "with all thy heart, and with all thy soul, and with all thy might" / WEB: "with all your heart, with all your soul, and with all your might" — NET uses "strength" where ASV/WEB use "might" (Hebrew "me'od" — literally "muchness/exceedingly"). The totality of love: will (heart), being (soul), resources (strength/might).
-
-- v.7 — NET: "You must teach them diligently to your children" / ASV: "thou shalt teach them diligently unto thy children" / WEB: "you shall teach them diligently to your children" — Hebrew "shinnantam" (from "shanan" — to sharpen/whet). Teaching is like sharpening a blade — repetitive, intentional, producing a keen edge. NET/ASV/WEB all capture the diligence.
-
-- v.8 — NET: "Tie them as a reminder on your forearm" / ASV: "thou shalt bind them for a sign upon thy hand" / WEB: "You shall bind them for a sign on your hand" — The basis for Jewish phylacteries (tefillin). NET interprets "oth" as "reminder"; ASV/WEB as "sign." "Forearm" (NET) vs. "hand" (ASV/WEB) — Hebrew "yad" includes both.
-
-- v.9 — NET: "write them on the doorframes of your houses and on your gates" / ASV: "thou shalt write them upon the door-posts of thy house, and upon thy gates" / WEB: "and you shall write them on the door posts of your house, and on your gates" — The basis for the Jewish mezuzah. "Doorposts" (Hebrew "mezuzot") — God's word marks the boundaries of daily life: going out and coming in.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

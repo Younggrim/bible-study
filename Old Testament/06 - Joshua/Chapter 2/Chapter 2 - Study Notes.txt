@@ -148,50 +148,87 @@ Charles Spurgeon:
   her — not because it was strong, but because it was placed in a strong
   God. The scarlet thread in the window — what a picture of the blood of
   Christ! One cord, one window, one house of safety in a city of doom."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "an harlot's house, named Rahab" / ESV: "the house of a
-       prostitute whose name was Rahab" — Hebrew "zonah." This
-       unambiguously means "prostitute" (not merely "innkeeper" as some
-       have suggested). The New Testament confirms this: Greek "porne"
-       (Hebrews 11:31, James 2:25). God's grace reaches the lowest.
+v.1  — Hebrew "zonah" — unambiguously means "prostitute" (not merely "innkeeper" as some have suggested).
+       KJV: "an harlot's house, named Rahab"
+       ESV: "the house of a prostitute whose name was Rahab"
+       ASV: "a harlot whose name was Rahab"
+       NET: "a prostitute named Rahab"
+       WEB: "a prostitute whose name was Rahab"
+       Analysis: The New Testament confirms this meaning with Greek "porne" (Hebrews 11:31, James 2:25). KJV/ASV retain the older English "harlot" while ESV/NET/WEB use the modern "prostitute." NET adds interpretive detail elsewhere, calling the men "clients of mine" in v.4, suggesting Rahab used her profession as cover. God's grace reaches the lowest.
 
-v.4  — KJV: "I wist not whence they were" / ESV: "I did not know where
-       they were from" — KJV's "wist" is archaic for "knew." Rahab's
-       deception raises ethical questions — she lied to protect the spies.
-       Scripture records her lie without explicitly approving it; what is
-       commended is her faith (Hebrews 11:31), not her method.
+v.4  — Hebrew "yadah" — to know, be aware of.
+       KJV: "I wist not whence they were"
+       ESV: "I did not know where they were from"
+       ASV: "I knew not whence they were"
+       NET: "I have no idea where they were from"
+       WEB: "I didn't know where they came from"
+       Analysis: KJV's "wist" is archaic for "knew." NET's "I have no idea" is colloquial and emphatic. Rahab's deception raises ethical questions — she lied to protect the spies. Scripture records her lie without explicitly approving it; what is commended is her faith (Hebrews 11:31), not her method.
 
-v.9  — KJV: "all the inhabitants of the land faint because of you" /
-       ESV: "all the inhabitants of the land melt away before you" —
-       Hebrew "namogu." "Mug" = to melt, dissolve, faint. The image is
-       of courage dissolving like wax. The terror of God has gone before
-       Israel.
+v.9  — Hebrew "namogu" — "mug" = to melt, dissolve, faint. The image is of courage dissolving like wax.
+       KJV: "all the inhabitants of the land faint because of you"
+       ESV: "all the inhabitants of the land melt away before you"
+       ASV: "all the inhabitants of the land melt away before you"
+       NET: "the Lord is handing this land over to you"
+       WEB: "all the inhabitants of the land melt away before you"
+       Analysis: KJV "faint" captures the effect; ESV/ASV/WEB "melt away" is more literal to the Hebrew "mug." NET uses present tense "is handing over" (interpretive) where Hebrew uses past tense "natan" (has given), weakening the sense of completed divine decree. ASV uses "Jehovah" and WEB "Yahweh" for the divine name. The terror of God has gone before Israel.
 
-v.11 — KJV: "neither did there remain any more courage in any man" /
-       ESV: "there was no spirit left in any man" — Hebrew "v'lo qamah
-       od ruach b'ish." Literally "no spirit rose again in any man."
-       "Ruach" here = spirit, courage, will to resist. The inhabitants
-       are spiritually defeated before Israel arrives.
+v.10 — Hebrew "cherem" — devoted to destruction; total destruction as an act of divine judgment.
+       KJV: "what ye did unto the two kings of the Amorites"
+       ESV: "what you did to the two kings of the Amorites"
+       ASV: "whom ye utterly destroyed"
+       NET: "how you annihilated the two Amorite kings"
+       WEB: "what you did to the two kings of the Amorites"
+       Analysis: NET's "annihilated" interprets the Hebrew "cherem" (devoted to destruction), which ASV renders as "utterly destroyed." The cherem concept is more than military annihilation — it is sacred devotion to God's judgment. KJV/ESV/WEB use the general "what you did," allowing the reader to fill in the meaning from context.
 
-v.12 — KJV: "give me a true token" / ESV: "give me a sure sign" —
-       Hebrew "ot emet." "Ot" = sign, token, pledge. "Emet" = truth,
-       faithfulness, reliability. Rahab wants a trustworthy guarantee —
-       something she can depend on absolutely.
+v.11 — Hebrew "v'lo qamah od ruach b'ish" — literally "no spirit rose again in any man."
+       KJV: "neither did there remain any more courage in any man"
+       ESV: "there was no spirit left in any man"
+       ASV: "neither did there remain any more spirit in any man"
+       NET: "no one has the courage to fight you"
+       WEB: "neither did there remain any more spirit in any man"
+       Analysis: "Ruach" here = spirit, courage, will to resist. KJV interprets ruach as "courage" — accurate but narrowing. ESV/ASV/WEB preserve "spirit," capturing the broader collapse of will. NET paraphrases with "courage to fight," adding military language not in the Hebrew. The inhabitants are spiritually defeated before Israel arrives.
 
-v.18 — KJV: "this line of scarlet thread" / ESV: "this scarlet cord" —
-       Hebrew "tikvat chut ha-shani." "Tikvah" = cord, line (also means
-       "hope" — the same word used in "there is hope for your future").
-       "Chut" = thread, cord. "Shani" = scarlet, crimson. The word for
-       "cord" (tikvah) being the same as "hope" is a beautiful wordplay:
-       the scarlet cord IS her hope.
+v.12 — Hebrew "ot emet" — "ot" = sign, token, pledge; "emet" = truth, faithfulness, reliability. Hebrew "chesed" = loyal love/kindness.
+       KJV: "give me a true token... since I have shewed you kindness"
+       ESV: "give me a sure sign... since I have dealt kindly with you"
+       ASV: "give me a true token... since I have dealt kindly with you"
+       NET: "Because I have shown allegiance to you, show allegiance to my family"
+       WEB: "give me a true token... since I have dealt kindly with you"
+       Analysis: Rahab wants a trustworthy guarantee — something she can depend on absolutely. NET renders Hebrew "chesed" (loyal love/kindness) as "allegiance," which captures the covenant dimension but loses the warmth of "kindness." KJV/ASV/WEB "true token" preserves both Hebrew words (ot + emet). ESV "sure sign" is equivalent.
 
-v.15 — KJV: "her house was upon the town wall, and she dwelt upon the
-       wall" / ESV: "her house was built into the city wall, so that she
-       lived in the wall" — Archaeological evidence from Jericho confirms
-       houses built into the casemate (double) walls. Rahab's location on
-       the wall explains how she could let the spies down by a cord to
-       the outside.
+v.14 — Hebrew oath formula — "Our life for yours" (naphshenu tachteykhem).
+       KJV: "Our life for yours, if you utter not this our business"
+       ESV: "Our life for yours even to death"
+       ASV: "Our life for yours, if ye utter not this our business"
+       NET: "If you die, may we die too!"
+       WEB: "Our life for yours, if you don't talk about our business"
+       Analysis: NET dramatically reinterprets the Hebrew oath formula as a conditional curse. KJV/ASV/WEB preserve the literal pledge — a straightforward exchange of loyalty. ESV adds "even to death" for emphasis. The spies pledge their lives as surety for Rahab's family — a covenant of mutual faithfulness.
+
+v.15 — Hebrew description of Rahab's house location in the wall.
+       KJV: "her house was upon the town wall, and she dwelt upon the wall"
+       ESV: "her house was built into the city wall, so that she lived in the wall"
+       ASV: "her house was upon the side of the wall, and she dwelt upon the wall"
+       NET: "her house was built into the city wall"
+       WEB: "her house was on the side of the wall, and she lived on the wall"
+       Analysis: Archaeological evidence from Jericho confirms houses built into the casemate (double) walls. ESV/NET clarify the meaning for modern readers ("built into"). KJV/ASV/WEB preserve the Hebrew preposition more literally. Rahab's location on the wall explains how she could let the spies down by a cord to the outside.
+
+v.18 — Hebrew "tikvat chut ha-shani" — "tikvah" = cord/line (also means "hope"); "chut" = thread, cord; "shani" = scarlet, crimson.
+       KJV: "this line of scarlet thread"
+       ESV: "this scarlet cord"
+       ASV: "this line of scarlet thread"
+       NET: "tie this red rope in the window"
+       WEB: "this line of scarlet thread"
+       Analysis: NET simplifies to "red rope," losing the layered Hebrew vocabulary. KJV/ASV/WEB preserve all three Hebrew words poetically. ESV condenses to "scarlet cord" — accurate but less rich. The word for "cord" (tikvah) being the same as "hope" is a beautiful wordplay: the scarlet cord IS her hope. As the Passover blood on the doorposts saved Israel in Egypt, the scarlet cord saves Rahab in Jericho.
+
+v.24 — Hebrew perfect tense "natan" — completed action (has given/delivered).
+       KJV: "Truly the LORD hath delivered into our hands all the land"
+       ESV: "Truly the LORD has given all the land into our hands"
+       ASV: "Truly Jehovah hath delivered into our hands all the land"
+       NET: "Surely the Lord is handing over all the land to us"
+       WEB: "Truly Yahweh has delivered all the land into our hands"
+       Analysis: NET uses present continuous tense where Hebrew uses the perfect (completed action). The faith of the spies rests on what God has already done, not what He is in process of doing. KJV/ASV/ESV/WEB preserve the past tense — a report of faith, not fear. These spies see what the ten spies of Numbers 13 could not: God has already given the victory.
 
 GLOSSARY
 ------------------------------------
@@ -224,16 +261,6 @@ Flax           — A plant whose stalks were dried on rooftops and used to
                make linen. Rahab's flax on the roof provided convenient
                concealment for the spies and indicates she was involved
                in textile production.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "a prostitute named Rahab" / ASV: "a harlot whose name was Rahab" / WEB: "a prostitute whose name was Rahab" — NET adds interpretive detail, calling the men "clients of mine" in v.4, suggesting Rahab used her profession as cover. KJV/ASV retain the more formal "harlot."
-- v.9 — ASV: "Jehovah hath given you the land" / WEB: "Yahweh has given you the land" / NET: "the Lord is handing this land over to you" / KJV: "the LORD hath given you the land" — The divine name pattern continues. NET uses present tense "is handing over" (interpretive) where Hebrew uses past tense "natan" (has given), weakening the sense of completed divine decree.
-- v.10 — NET: "how you annihilated the two Amorite kings" / KJV: "what ye did unto the two kings" / ASV: "whom ye utterly destroyed" — NET's "annihilated" interprets the Hebrew "cherem" (devoted to destruction), which ASV renders as "utterly destroyed." The cherem concept is more than military annihilation — it is sacred devotion to God's judgment.
-- v.12 — NET: "Because I have shown allegiance to you, show allegiance to my family" / KJV: "since I have shewed you kindness" / ASV: "since I have dealt kindly with you" / WEB: "since I have dealt kindly with you" — NET renders Hebrew "chesed" (loyal love/kindness) as "allegiance," which captures the covenant dimension but loses the warmth of "kindness" (chesed).
-- v.14 — NET: "If you die, may we die too!" / KJV: "Our life for yours" / ASV: "Our life for yours" / WEB: "Our life for yours" — NET dramatically reinterprets the Hebrew oath formula. KJV/ASV/WEB preserve the literal pledge; NET makes it a conditional curse.
-- v.18 — NET: "tie this red rope in the window" / KJV: "this line of scarlet thread" / ASV: "this line of scarlet thread" / WEB: "this line of scarlet thread" — NET simplifies "tikvat chut ha-shani" to "red rope," losing the layered Hebrew vocabulary (tikvah = cord/hope, chut = thread, shani = scarlet). The literal translations preserve the poetic richness and the wordplay on "hope."
-- v.24 — ASV: "Truly Jehovah hath delivered into our hands all the land" / WEB: "Truly Yahweh has delivered all the land into our hands" / NET: "Surely the Lord is handing over all the land to us" — Again, NET uses present continuous tense where Hebrew uses the perfect (completed action). The faith of the spies rests on what God has already done, not what He is in process of doing.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

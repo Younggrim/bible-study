@@ -120,31 +120,77 @@ Charles Spurgeon:
   than any foreign enemy. The church's worst wounds are self-inflicted.
   When brethren war against brethren, Satan need not lift a finger — we
   do his work for him."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "went northward" / ESV: "crossed to Zaphon" — Hebrew
-       "tsaphonah." This could mean "northward" (directional) or
-       "to Zaphon" (a place name). ESV treats it as a proper noun —
-       Zaphon was a town in Gad's territory east of the Jordan. KJV
-       reads it as a direction.
+v.1  — Hebrew "tsaphonah" — northward/to Zaphon.
+       KJV: "passed over northward"
+       ESV: "crossed to Zaphon"
+       ASV: "passed over northward"
+       NET: "crossed over to Zaphon"
+       WEB: "passed over northward"
+       Analysis: Could mean "northward" (directional) or "to Zaphon" (a
+       place name). ESV/NET treat it as a proper noun — Zaphon was a town
+       in Gad's territory east of the Jordan. KJV/ASV/WEB read it as a
+       direction.
 
-v.6  — KJV: "Shibboleth... Sibboleth" / ESV: "Shibboleth... Sibboleth"
-       — Hebrew "shibbolet" = ear of grain, or flowing stream. The word
-       itself is less important than the pronunciation test. The
-       Ephraimite dialect lacked the "shin" (sh) sound, producing "sin"
-       (s) instead. This dialectal difference was well-known and
-       exploited as an identity test.
+v.3  — Hebrew "va'asimah nafshi b'khappi" — I put my soul in my palm.
+       KJV: "I put my life in my hands"
+       ESV: "I took my life in my hands"
+       ASV: "I put my life in my hand"
+       NET: "I risked my life"
+       WEB: "I put my life in my hands"
+       Analysis: ASV/KJV/WEB preserve the Hebrew idiom literally; NET
+       interprets the metaphor. The image is of holding one's life
+       loosely, ready to lose it — a physical metaphor for mortal danger.
 
-v.6  — KJV: "could not frame to pronounce it right" / ESV: "could not
-       pronounce it right" — Hebrew "v'lo yakhin l'dabber ken." "Yakhin"
-       = to be able, to establish. They physically could not produce the
-       sound — it was a dialectal impossibility, not a failure of effort.
+v.4  — Hebrew "p'litey Ephrayim attem Gil'ad" — you are fugitives of
+       Ephraim, you Gileadites.
+       KJV: "Ye Gileadites are fugitives of Ephraim"
+       ESV: "You Gileadites are fugitives of Ephraim"
+       ASV: "Ye are fugitives of Ephraim, ye Gileadites"
+       NET: "You Gileadites are refugees in Ephraim, living within Ephraim's and Manasseh's territory"
+       WEB: "You Gileadites are fugitives of Ephraim"
+       Analysis: Notoriously difficult Hebrew. The insult implies Gilead
+       has no independent tribal identity — they are merely Ephraim's
+       castoffs. NET's "refugees" captures the contempt; ASV/KJV's
+       "fugitives" implies criminality.
 
-v.14 — KJV: "forty sons and thirty nephews" / ESV: "forty sons and
-       thirty grandsons" — Hebrew "arba'im banim u-sh'loshim b'ney
-       vanim." "B'ney vanim" = literally "sons of sons" = grandsons.
+v.6  — Hebrew "shibbolet" — ear of grain, or flowing stream.
+       KJV: "Say now Shibboleth; and he said Sibboleth; for he could not frame to pronounce it right"
+       ESV: "Say 'Shibboleth,' and he said, 'Sibboleth,' for he could not pronounce it right"
+       ASV: "Say now Shibboleth; and he said Sibboleth; for he could not frame to pronounce it right"
+       NET: "Say 'Shibboleth!' If he said, 'Sibboleth' (and could not pronounce the word correctly)"
+       WEB: "Then say Shibboleth; and he said Sibboleth, for he couldn't manage to say it right"
+       Analysis: The Ephraimite dialect lacked the "shin" (sh) sound,
+       producing "sin" (s) instead. This dialectal difference was
+       exploited as an identity test. Hebrew "vayyishchatuhu" = they
+       slaughtered him — a word often used for animal slaughter,
+       intensifying the violence. "Could not frame" (KJV/ASV) is archaic
+       for "was unable to."
+
+v.7  — Hebrew "vayyishpot Yiftach et-Yisrael shesh shanim" — Jephthah
+       judged Israel six years.
+       KJV: "Jephthah judged Israel six years"
+       ESV: "Jephthah judged Israel six years"
+       ASV: "Jephthah judged Israel six years"
+       NET: "Jephthah led Israel for six years"
+       WEB: "Jephthah judged Israel six years"
+       Analysis: NET's consistent avoidance of "judged" in favor of "led."
+       ASV/WEB/KJV/ESV retain the root "shaphat" that gives the book its
+       name and connects each judge to the divine Shophet of 11:27.
+
+v.14 — Hebrew "arba'im banim u-sh'loshim b'ney vanim" — forty sons and
+       thirty grandsons.
+       KJV: "forty sons and thirty nephews, that rode on threescore and ten ass colts"
+       ESV: "forty sons and thirty grandsons, who rode on seventy donkeys"
+       ASV: "forty sons and thirty sons' sons, that rode on threescore and ten ass colts"
+       NET: "He had 40 sons and 30 grandsons who rode on 70 donkeys"
+       WEB: "He had forty sons and thirty sons' sons, who rode on seventy donkey colts"
+       Analysis: "B'ney vanim" = literally "sons of sons" = grandsons.
        KJV's "nephews" uses the archaic English meaning of "grandsons"
-       (not the modern meaning of brother's/sister's children).
+       (not modern meaning). The donkey-riding detail signifies wealth
+       and authority (cf. 5:10, 10:4). Number symmetry (40+30=70)
+       emphasizes dynastic prosperity.
 
 GLOSSARY
 ------------------------------------
@@ -171,20 +217,6 @@ Minor Judges   — Ibzan (7 years), Elon (10 years), Abdon (8 years).
                (many sons, donkeys, cities) — suggesting they were
                regional leaders of influence rather than military
                deliverers.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.4 — ASV: "Ye are fugitives of Ephraim, ye Gileadites, in the midst of Ephraim" / NET: "You Gileadites are refugees in Ephraim, living within Ephraim's and Manasseh's territory" — Hebrew "p'litey Ephrayim attem Gil'ad" is notoriously difficult. The insult implies Gilead has no independent tribal identity — they are merely Ephraim's castoffs. NET's "refugees" captures the contempt; ASV's "fugitives" implies criminality.
-
-- v.6 — ASV: "Say now Shibboleth; and he said Sibboleth; for he could not frame to pronounce it right" / NET: "Say 'Shibboleth!' If he said, 'Sibboleth' (and could not pronounce the word correctly)" — The famous linguistic test. Hebrew "shibboleth" means "ear of grain" or "stream/flood." The Ephraimites' dialect lacked the "sh" sound. NET adds parenthetical explanation; ASV's "could not frame to pronounce" is archaic but vivid.
-
-- v.6 — ASV: "they laid hold on him, and slew him" / NET: "they grabbed him and executed him right there" — NET's "executed" implies formal judicial killing; ASV's "slew" is simple killing in battle context. Hebrew "vayyishchatuhu" = they slaughtered him — a word often used for animal slaughter, intensifying the violence.
-
-- v.7 — ASV: "Jephthah judged Israel six years" / NET: "Jephthah led Israel for six years" — NET's consistent avoidance of "judged" in favor of "led." ASV/WEB retain the root "shaphat" that gives the book its name and connects each judge to the divine Shophet of 11:27.
-
-- v.14 — ASV: "forty sons and thirty sons' sons, that rode on threescore and ten ass colts" / NET: "He had 40 sons and 30 grandsons who rode on 70 donkeys" — The donkey-riding detail signifies wealth and authority (cf. 5:10, 10:4). ASV retains "ass colts"; NET modernizes to "donkeys." The number symmetry (40+30=70 riders) emphasizes dynastic prosperity.
-
-- v.3 — ASV: "I put my life in my hand" / WEB: (similar) / NET: "I risked my life" — Hebrew "va'asimah nafshi b'khappi" = "I put my soul in my palm." ASV preserves the Hebrew idiom literally; NET interprets the metaphor. The image is of holding one's life loosely, ready to lose it — a physical metaphor for mortal danger.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

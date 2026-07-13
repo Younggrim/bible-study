@@ -163,42 +163,68 @@ Charles Spurgeon:
   righteousness' — let this be written over every mercy, every answered
   prayer, every open door."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "fenced up to heaven" / ESV: "fortified up to heaven" —
-       Hebrew "b'tsurot ba-shamayim." Hyperbolic description of massive
-       fortifications — walls so high they seem to reach heaven. The same
-       language the fearful spies used (1:28).
+v.1  — Hebrew "b'tsurot ba-shamayim." — Hyperbolic description of massive fortifications.
+       KJV: "fenced up to heaven"
+       ESV: "fortified up to heaven"
+       Analysis: Hebrew "b'tsurot ba-shamayim." Hyperbolic description of massive fortifications — walls so high they seem to reach heaven. The same language the fearful spies used (1:28).
 
-v.4  — KJV: "For my righteousness" / ESV: "It is because of my
-       righteousness" — Hebrew "b'tsidqati." "Tsedaqah" = righteousness.
-       The temptation to attribute God's grace to personal merit.
+v.4  — Hebrew "b'tsidqati." — "Tsedaqah" = righteousness.
+       KJV: "For my righteousness"
+       ESV: "It is because of my righteousness"
+       ASV: "Speak not thou in thy heart... saying, For my righteousness Jehovah hath brought me in"
+       NET: "Do not think to yourself... 'It is because of my righteousness that the Lord has brought me'"
+       WEB: "Don't say in your heart... 'For my righteousness Yahweh has brought me in'"
+       Analysis: Hebrew "b'tsidqati." "Tsedaqah" = righteousness. The temptation to attribute God's grace to personal merit. Three times (vv.4,5,6) Moses denies that Israel's righteousness earns the land. NET's "Do not think to yourself" captures internal self-deception. The divine name emphasizes it is GOD'S decision.
 
-v.6  — KJV: "a stiffnecked people" / ESV: "a stubborn people" — Hebrew
-       "am q'sheh oref." Literally "a people hard of neck" — like an ox
-       that stiffens its neck against the yoke, refusing to be guided.
-       KJV's "stiffnecked" is more literal; ESV's "stubborn" is more
-       accessible.
+v.5  — The conquest is God's judgment on Canaan, not reward for Israel.
+       ASV: "for the wickedness of these nations"
+       NET: "it is because of the wickedness of these nations"
+       WEB: "for the wickedness of these nations"
+       Analysis: The conquest is God's judgment on Canaan, not reward for Israel. The land is given for two reasons: Canaanite wickedness (judicial) and patriarchal promise (covenantal).
 
-v.12 — KJV: "a molten image" / ESV: "a metal image" — Hebrew "massechah."
-       From "nasach" = to pour. A cast/poured metal idol. The golden calf
-       was made by melting gold and casting it in a mold (Exodus 32:4).
+v.6  — Hebrew "am q'sheh oref." — a people hard of neck.
+       KJV: "a stiffnecked people"
+       ESV: "a stubborn people"
+       ASV: "for thou art a stiffnecked people"
+       NET: "for you are a stubborn people"
+       WEB: "for you are a stiff-necked people"
+       Analysis: Hebrew "am q'sheh oref." Literally "a people hard of neck" — like an ox that stiffens its neck against the yoke, refusing to be guided. KJV's "stiffnecked" is more literal; ESV's "stubborn" is more accessible. an animal that refuses the yoke by stiffening its neck. A repeated characterization throughout Deuteronomy.
 
-v.14 — KJV: "blot out their name from under heaven" / ESV: same — Hebrew
-       "emcheh et sh'mam mitachat ha-shamayim." "Machah" = to wipe out,
-       to blot out. Total erasure — as if they never existed. The most
-       extreme form of judgment.
+v.12  — Hebrew "massechah." — From "nasach" = to pour.
+       KJV: "a molten image"
+       ESV: "a metal image"
+       Analysis: Hebrew "massechah." From "nasach" = to pour. A cast/poured metal idol. The golden calf was made by melting gold and casting it in a mold (Exodus 32:4).
 
-v.18 — KJV: "I fell down before the LORD" / ESV: "I lay prostrate before
-       the LORD" — Hebrew "va-etnappal lifnei YHWH." "Hitnappal" = to
-       throw oneself down, to fall prostrate. Complete physical submission
-       expressing desperate intercession.
+v.14  — Hebrew "emcheh et sh'mam mitachat ha-shamayim." — / ESV: same.
+       KJV: "blot out their name from under heaven"
+       Analysis: / ESV: same — Hebrew "emcheh et sh'mam mitachat ha-shamayim." "Machah" = to wipe out, to blot out. Total erasure — as if they never existed. The most extreme form of judgment.
 
-v.27 — KJV: "look not unto the stubbornness of this people" / ESV: "Do
-       not regard the stubbornness of this people" — Hebrew "al tefen el
-       q'shi ha-am ha-zeh." Moses asks God to look away from Israel's
-       character and look instead at His own promises. The intercessor
-       redirects God's gaze from the sinner to the covenant.
+v.18  — Hebrew "va-etnappal lifnei YHWH." — "Hitnappal" = to throw oneself down, to fall prostrate.
+       KJV: "I fell down before the LORD"
+       ESV: "I lay prostrate before the LORD"
+       ASV: "I fell down before Jehovah, as at the first, forty days and forty nights"
+       NET: "I lay flat on the ground before the Lord for forty days and nights"
+       WEB: "I fell down before Yahweh, as at the first, forty days and forty nights"
+       Analysis: Hebrew "va-etnappal lifnei YHWH." "Hitnappal" = to throw oneself down, to fall prostrate. Complete physical submission expressing desperate intercession. Moses' second 40-day fast. NET's "lay flat" captures the physical posture of intercession. His physical prostration matches his spiritual desperation.
+
+v.26  — the double divine name showing Moses' reverence and urgency.
+       ASV: "O Lord Jehovah, destroy not thy people"
+       NET: "O Sovereign Lord, do not destroy your people"
+       WEB: "Lord Yahweh, don't destroy your people"
+       Analysis: the double divine name showing Moses' reverence and urgency. He appeals to God's ownership ("YOUR people") and reputation.
+
+v.27  — Hebrew "al tefen el q'shi ha-am ha-zeh." — Moses asks God to look away from Israel's character and look instead...
+       KJV: "look not unto the stubbornness of this people"
+       ESV: "Do not regard the stubbornness of this people"
+       Analysis: Hebrew "al tefen el q'shi ha-am ha-zeh." Moses asks God to look away from Israel's character and look instead at His own promises. The intercessor redirects God's gaze from the sinner to the covenant.
+
+v.29  — God's own glory is at stake.
+       ASV: "they are thy people and thine inheritance, that thou broughtest out by thy great power"
+       NET: "they are your people, your inheritance, whom you brought out with great strength"
+       WEB: "they are your people and your inheritance, which you brought out by your great power"
+       Analysis: God's own glory is at stake.
 
 GLOSSARY
 ------------------------------------
@@ -230,19 +256,6 @@ Prostrate      — Hebrew "hitnappal" — to throw oneself face-down before
                submission, and urgent pleading. Moses' physical position
                matched his spiritual desperation.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.4 — NET: "Do not think to yourself... 'It is because of my righteousness that the Lord has brought me'" / ASV: "Speak not thou in thy heart... saying, For my righteousness Jehovah hath brought me in" / WEB: "Don't say in your heart... 'For my righteousness Yahweh has brought me in'" — Three times (vv.4,5,6) Moses denies that Israel's righteousness earns the land. NET's "Do not think to yourself" captures internal self-deception. The divine name emphasizes it is GOD'S decision.
-
-- v.5 — NET: "it is because of the wickedness of these nations" / ASV: "for the wickedness of these nations" / WEB: "for the wickedness of these nations" — The conquest is God's judgment on Canaan, not reward for Israel. The land is given for two reasons: Canaanite wickedness (judicial) and patriarchal promise (covenantal).
-
-- v.6 — NET: "for you are a stubborn people" / ASV: "for thou art a stiffnecked people" / WEB: "for you are a stiff-necked people" — Hebrew "am-qesheh oref" (hard-necked people). NET modernizes to "stubborn"; ASV/WEB preserve the oxen imagery — an animal that refuses the yoke by stiffening its neck. A repeated characterization throughout Deuteronomy.
-
-- v.18 — NET: "I lay flat on the ground before the Lord for forty days and nights" / ASV: "I fell down before Jehovah, as at the first, forty days and forty nights" / WEB: "I fell down before Yahweh, as at the first, forty days and forty nights" — Moses' second 40-day fast. NET's "lay flat" captures the physical posture of intercession. His physical prostration matches his spiritual desperation.
-
-- v.26 — NET: "O Sovereign Lord, do not destroy your people" / ASV: "O Lord Jehovah, destroy not thy people" / WEB: "Lord Yahweh, don't destroy your people" — NET uses "Sovereign Lord" for "Adonai YHWH" — the double divine name showing Moses' reverence and urgency. He appeals to God's ownership ("YOUR people") and reputation.
-
-- v.29 — NET: "they are your people, your inheritance, whom you brought out with great strength" / ASV: "they are thy people and thine inheritance, that thou broughtest out by thy great power" / WEB: "they are your people and your inheritance, which you brought out by your great power" — Moses' argument: God invested too much in Israel to destroy them. His "great power" in the Exodus would be wasted. This is covenant logic — God's own glory is at stake.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

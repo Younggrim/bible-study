@@ -173,45 +173,71 @@ Charles Spurgeon:
   demands, grace provides. What Moses commands in chapter 10, God
   promises in chapter 30."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "an ark of wood" / ESV: "an ark of wood" — Hebrew "aron ets."
-       This appears to be a simple wooden chest Moses made before going up
-       the mountain, distinct from the ornate ark Bezalel later constructed
-       (Exodus 37:1-5). Or Moses may be summarizing the sequence.
+v.1  — Hebrew "aron ets." — This appears to be a simple wooden chest Moses made before going up...
+       KJV: "an ark of wood"
+       ESV: "an ark of wood"
+       Analysis: Hebrew "aron ets." This appears to be a simple wooden chest Moses made before going up the mountain, distinct from the ornate ark Bezalel later constructed (Exodus 37:1-5). Or Moses may be summarizing the sequence.
 
-v.3  — KJV: "shittim wood" / ESV: "acacia wood" — Hebrew "atsei shittim."
-       Shittim/acacia is a hard, durable desert wood. KJV transliterates
-       the Hebrew; ESV identifies the tree species.
+v.3  — Hebrew "atsei shittim." — Shittim/acacia is a hard, durable desert wood.
+       KJV: "shittim wood"
+       ESV: "acacia wood"
+       Analysis: Hebrew "atsei shittim." Shittim/acacia is a hard, durable desert wood. KJV transliterates the Hebrew; ESV identifies the tree species.
 
-v.6  — KJV: "Beeroth of the children of Jaakan" / ESV: "Beeroth Bene-
-       jaakan" — Hebrew "B'erot B'nei Ya'aqan." "Beeroth" = wells. The
-       itinerary here differs slightly from Numbers 33:31-38, likely
-       reflecting a different perspective or a condensed summary.
+v.6  — Hebrew "B'erot B'nei Ya'aqan." — "Beeroth" = wells.
+       KJV: "Beeroth of the children of Jaakan"
+       ESV: "Beeroth Bene- jaakan"
+       Analysis: Hebrew "B'erot B'nei Ya'aqan." "Beeroth" = wells. The itinerary here differs slightly from Numbers 33:31-38, likely reflecting a different perspective or a condensed summary.
 
-v.12 — KJV: "what doth the LORD thy God require of thee" / ESV: "what does
-       the LORD your God require of you" — Hebrew "mah YHWH Elohecha
-       sho'el me-immach." "Sho'el" = asking/requiring. God "asks" — the
-       word implies both demand and invitation.
+v.12  — Hebrew "mah YHWH Elohecha sho'el me-immach." — "Sho'el" = asking/requiring.
+       KJV: "what doth the LORD thy God require of thee"
+       ESV: "what does the LORD your God require of you"
+       ASV: "what doth Jehovah thy God require of thee, but to fear Jehovah thy God"
+       NET: "What does the Lord your God require of you except to revere him"
+       WEB: "what does Yahweh your God require of you, but to fear Yahweh your God"
+       Analysis: Hebrew "mah YHWH Elohecha sho'el me-immach." "Sho'el" = asking/requiring. God "asks" — the word implies both demand and invitation. a comprehensive summary of covenant life.
 
-v.16 — KJV: "Circumcise therefore the foreskin of your heart" / ESV:
-       "Circumcise therefore the foreskin of your heart" — Hebrew "u-maltem
-       et orlat l'vavchem." "Orlah" = foreskin (the covering that must be
-       removed). Applied metaphorically to the heart: remove the covering
-       that prevents God's word from penetrating.
+v.16  — Hebrew "u-maltem et orlat l'vavchem." — "Orlah" = foreskin (the covering that must be removed).
+       KJV: "Circumcise therefore the foreskin of your heart"
+       ESV: "Circumcise therefore the foreskin of your heart"
+       ASV: "Circumcise therefore the foreskin of your heart"
+       NET: "Circumcise your hearts"
+       WEB: "Circumcise therefore the foreskin of your heart"
+       Analysis: Hebrew "u-maltem et orlat l'vavchem." "Orlah" = foreskin (the covering that must be removed). Applied metaphorically to the heart: remove the covering that prevents God's word from penetrating. the heart must be cut open to God.
 
-v.17 — KJV: "regardeth not persons" / ESV: "is not partial" — Hebrew "lo
-       yissa fanim." Literally "does not lift faces" — does not show
-       favoritism based on status or appearance. Perfect impartiality.
+v.17  — Hebrew "lo yissa fanim." — does not lift faces.
+       KJV: "regardeth not persons"
+       ESV: "is not partial"
+       ASV: "God of gods, and Lord of lords, the great God, the mighty, and the terrible"
+       NET: "God of gods and Lord of lords, the great, mighty, and awesome God"
+       WEB: "God of gods, and Lord of lords, the great God, the mighty, and the awesome"
+       Analysis: Hebrew "lo yissa fanim." Literally "does not lift faces" — does not show favoritism based on status or appearance. Perfect impartiality. A magnificent divine title. ASV uses "terrible" (awesome in original sense); WEB/NET use "awesome" (Hebrew "nora"). God is supreme above all claimed deities and authorities.
 
-v.17 — KJV: "nor taketh reward" / ESV: "takes no bribe" — Hebrew "v'lo
-       yiqqach shochad." "Shochad" = bribe/gift given to influence
-       judgment. God cannot be bought or influenced. His justice is
-       incorruptible.
+v.17  — Hebrew "v'lo yiqqach shochad." — "Shochad" = bribe/gift given to influence judgment.
+       KJV: "nor taketh reward"
+       ESV: "takes no bribe"
+       Analysis: Hebrew "v'lo yiqqach shochad." "Shochad" = bribe/gift given to influence judgment. God cannot be bought or influenced. His justice is incorruptible.
 
-v.21 — KJV: "He is thy praise" / ESV: "He is your praise" — Hebrew "hu
-       t'hillatecha." God is not merely the recipient of praise but its
-       content — He is what you boast about, what you glory in.
+v.18  — God's impartial justice.
+       ASV: "who regardeth not persons, nor taketh reward"
+       NET: "who shows no partiality and takes no bribe"
+       WEB: "who doesn't respect persons, nor takes reward"
+       Analysis: God's impartial justice. He cannot be bribed or influenced by status. NET's "shows no partiality" and "takes no bribe" are clearer than ASV's archaic phrasing.
+
+v.19  — NET/WEB: "foreigners"; ASV: "sojourners" (Hebrew "gerim").
+       ASV: "for ye were sojourners in the land of Egypt"
+       NET: "for you were foreigners in the land of Egypt"
+       WEB: "for you were foreigners in the land of Egypt"
+       Analysis: NET/WEB: "foreigners"; ASV: "sojourners" (Hebrew "gerim"). Israel's experience as aliens in Egypt should produce compassion for aliens among them. Memory of suffering creates empathy.
+
+v.21  — Hebrew "hu t'hillatecha." — God is not merely the recipient of praise but its content.
+       KJV: "He is thy praise"
+       ESV: "He is your praise"
+       ASV: "He is thy praise, and he is thy God"
+       NET: "He is your praise and he is your God"
+       WEB: "He is your praise, and he is your God"
+       Analysis: Hebrew "hu t'hillatecha." God is not merely the recipient of praise but its content — He is what you boast about, what you glory in. not just that you praise Him, but He Himself is your boast, your glory, your identity.
 
 GLOSSARY
 ------------------------------------
@@ -242,19 +268,6 @@ Shittim/Acacia — A hard, durable wood from the acacia tree, common in the
                the altar, and the frames of the Tabernacle. Its durability
                made it suitable for sacred furniture.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.12 — NET: "What does the Lord your God require of you except to revere him" / ASV: "what doth Jehovah thy God require of thee, but to fear Jehovah thy God" / WEB: "what does Yahweh your God require of you, but to fear Yahweh your God" — NET uses "revere" where ASV/WEB use "fear" (Hebrew "yir'ah"). The five requirements: fear, walk, love, serve, keep — a comprehensive summary of covenant life.
-
-- v.16 — NET: "Circumcise your hearts" / ASV: "Circumcise therefore the foreskin of your heart" / WEB: "Circumcise therefore the foreskin of your heart" / KJV: "Circumcise therefore the foreskin of your heart" — NET simplifies; ASV/WEB/KJV preserve the vivid Hebrew "orlat levavchem" (foreskin of your heart). Physical circumcision is insufficient — the heart must be cut open to God.
-
-- v.17 — NET: "God of gods and Lord of lords, the great, mighty, and awesome God" / ASV: "God of gods, and Lord of lords, the great God, the mighty, and the terrible" / WEB: "God of gods, and Lord of lords, the great God, the mighty, and the awesome" — A magnificent divine title. ASV uses "terrible" (awesome in original sense); WEB/NET use "awesome" (Hebrew "nora"). God is supreme above all claimed deities and authorities.
-
-- v.18 — NET: "who shows no partiality and takes no bribe" / ASV: "who regardeth not persons, nor taketh reward" / WEB: "who doesn't respect persons, nor takes reward" — God's impartial justice. He cannot be bribed or influenced by status. NET's "shows no partiality" and "takes no bribe" are clearer than ASV's archaic phrasing.
-
-- v.19 — NET: "for you were foreigners in the land of Egypt" / ASV: "for ye were sojourners in the land of Egypt" / WEB: "for you were foreigners in the land of Egypt" — NET/WEB: "foreigners"; ASV: "sojourners" (Hebrew "gerim"). Israel's experience as aliens in Egypt should produce compassion for aliens among them. Memory of suffering creates empathy.
-
-- v.21 — NET: "He is your praise and he is your God" / ASV: "He is thy praise, and he is thy God" / WEB: "He is your praise, and he is your God" — YHWH is both the object and content of praise. "He is your praise" — not just that you praise Him, but He Himself is your boast, your glory, your identity.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

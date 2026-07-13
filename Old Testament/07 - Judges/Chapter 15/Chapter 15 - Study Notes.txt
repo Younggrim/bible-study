@@ -140,39 +140,106 @@ Charles Spurgeon:
   with many souls: they have grown so accustomed to sin's dominion that
   they resent the gospel's disruption. They prefer familiar chains to
   unfamiliar freedom."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.4  — KJV: "three hundred foxes" / ESV: "300 foxes" — Hebrew
-       "sh'losh me'ot shu'alim." "Shu'al" can mean fox or jackal.
-       Jackals are more common in Israel and travel in packs (easier to
-       catch in numbers). The feat is extraordinary either way — catching
-       300 animals requires significant effort and time.
+v.4  — Hebrew "sh'losh me'ot shu'alim" — three hundred foxes/jackals.
+       KJV: "three hundred foxes"
+       ESV: "300 foxes"
+       ASV: "Samson went and caught three hundred foxes"
+       NET: "Samson went and captured 300 jackals"
+       WEB: "Samson went and caught three hundred foxes"
+       Analysis: "Shu'al" can mean fox or jackal. NET chooses "jackals"
+       (more likely to be found in large numbers; jackals are pack
+       animals, foxes are solitary). This is a legitimate zoological
+       distinction — 300 foxes would be nearly impossible to gather, but
+       jackals travel in groups. The feat is extraordinary either way.
 
-v.8  — KJV: "he smote them hip and thigh" / ESV: "he struck them hip
-       and thigh" — Hebrew "vayakh otam shoq al-yarekh." Literally "leg
-       upon thigh." An idiom for a thorough, devastating defeat — perhaps
-       a wrestling term for total domination. He destroyed them completely.
+v.8  — Hebrew "vayyak otam shoq al-yarekh makkah g'dolah" — he struck
+       them leg upon thigh, a great striking.
+       KJV: "he smote them hip and thigh with a great slaughter"
+       ESV: "he struck them hip and thigh with a great blow"
+       ASV: "he smote them hip and thigh with a great slaughter"
+       NET: "He struck them down and defeated them"
+       WEB: "he struck them hip and thigh with a great slaughter"
+       Analysis: Literally "leg upon thigh" — an idiom for a thorough,
+       devastating defeat, perhaps a wrestling term for total domination.
+       ASV/KJV/WEB preserve the idiom "hip and thigh"; NET flattens it
+       to generic "struck them down and defeated them," losing the vivid
+       Hebrew expression.
 
-v.15 — KJV: "a new jawbone of an ass" / ESV: "a fresh jawbone of a
-       donkey" — Hebrew "l'chi chamor t'riyyah." "Teriyyah" = fresh,
-       moist (not dried out). A fresh jawbone would be stronger and
-       heavier than a dried, brittle one — more effective as a weapon.
-       Note: touching a dead animal's bone violates the Nazirite vow
-       (Numbers 6:6) — another violation Samson ignores.
+v.14 — Hebrew "vatitslach alav ruach Adonai" — the Spirit of the LORD
+       rushed upon him.
+       KJV: "the Spirit of the LORD came mightily upon him"
+       ESV: "the Spirit of the LORD rushed upon him"
+       ASV: "the Spirit of Jehovah came mightily upon him, and the
+            ropes...became as flax that was burnt with fire"
+       NET: "the Lord's Spirit empowered him. The ropes around his arms
+            were like flax dissolving in fire"
+       WEB: "Yahweh's Spirit came mightily on him, and the ropes that
+            were on his arms became as flax that was burnt with fire"
+       Analysis: Again NET uses "empowered" for "vatitslach" (rushed
+       upon), domesticating the violent, irruptive Hebrew verb. The simile
+       of burning flax is preserved in all versions — the supernatural
+       strength dissolves human bonds as fire dissolves thread.
 
-v.16 — KJV: "heaps upon heaps" / ESV: "heaps upon heaps" — Hebrew
-       "chamor chamoratayim." A wordplay: "chamor" = donkey, but also
+v.15 — Hebrew "l'chi chamor t'riyyah" — a fresh jawbone of a donkey.
+       KJV: "a new jawbone of an ass"
+       ESV: "a fresh jawbone of a donkey"
+       ASV: "a fresh jawbone of an ass"
+       NET: "a solid jawbone of a donkey"
+       WEB: "a fresh jawbone of a donkey"
+       Analysis: "Teriyyah" = fresh, moist (not dried out). A fresh
+       jawbone would be stronger and heavier than a dried, brittle one —
+       more effective as a weapon. NET's "solid" interprets the result
+       rather than the condition. Note: touching a dead animal's bone
+       violates the Nazirite vow (Numbers 6:6) — another violation
+       Samson ignores.
+
+v.16 — Hebrew "b'lchi hachamor, chamor chamoratayim" — wordplay on
+       chamor (donkey/heap).
+       KJV: "With the jawbone of an ass, heaps upon heaps, with the jaw
+            of an ass have I slain a thousand men"
+       ESV: "With the jawbone of a donkey, heaps upon heaps, with the
+            jawbone of a donkey have I struck down a thousand men"
+       ASV: "With the jawbone of an ass, heaps upon heaps"
+       NET: "With the jawbone of a donkey I have left them in heaps"
+       WEB: "With the jawbone of a donkey, heaps upon heaps; with the
+            jawbone of a donkey I have struck a thousand men"
+       Analysis: Hebrew contains a wordplay: "chamor" = donkey, but also
        sounds like "chomer" = heap. "With a donkey's jawbone, a donkey-
        load, two donkey-loads" — a pun connecting the weapon to the
-       carnage.
+       carnage. This wordplay is lost in all English translations.
+       Samson creates a victory poem with puns.
 
-v.19 — KJV: "God clave an hollow place that was in the jaw" / ESV: "God
-       split open the hollow place that is at Lehi" — Hebrew "vayivqa
-       Elohim et-ha-makhtesh asher ba-lechi." "Lechi" means both
-       "jawbone" and is the place name "Lehi." KJV reads it as the
-       jawbone itself producing water; ESV reads it as a hollow place at
-       the location called Lehi. ESV's reading is more likely — God split
-       a rock formation at Lehi, producing a spring.
+v.18 — Hebrew "t'shu'ah" — salvation/deliverance/victory.
+       KJV: "Thou hast given this great deliverance into the hand of
+            thy servant"
+       ESV: "You have granted this great salvation by the hand of your
+            servant"
+       ASV: "Thou hast given this great deliverance by the hand of thy
+            servant"
+       NET: "You have given your servant this great victory"
+       WEB: "You have given this great deliverance by the hand of your
+            servant"
+       Analysis: ASV/KJV/WEB's "deliverance" is theologically richer
+       (connecting to God's saving acts throughout Scripture); NET's
+       "victory" is more military. Samson acknowledges — briefly and
+       genuinely — that God is the source of his power. His prayer mixes
+       faith with complaint ("shall I now die of thirst?").
+
+v.19 — Hebrew "vayyivqa Elohim et-ha-makhtesh asher ba-lechi" — God
+       split open the hollow place that is at Lehi.
+       KJV: "God clave an hollow place that was in the jaw"
+       ESV: "God split open the hollow place that is at Lehi"
+       ASV: "God clave the hollow place that is in Lehi"
+       NET: "God split open the basin at Lehi"
+       WEB: "God split the hollow place that is in Lehi"
+       Analysis: "Lechi" means both "jawbone" and is the place name
+       "Lehi." KJV reads it as the jawbone itself producing water; ESV/
+       ASV/NET/WEB read it as a hollow place at the location called Lehi.
+       The latter reading is more likely — God split a rock formation at
+       Lehi, producing a spring. God provides water for His servant
+       despite Samson's deeply flawed character.
 
 GLOSSARY
 ------------------------------------
@@ -196,20 +263,6 @@ Rock of Etam   — A cliff or cave where Samson retreated after his
                slaughter of the Philistines. Located in Judah's
                territory. The Philistines invaded Judah specifically to
                capture him from this refuge.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.4 — ASV: "Samson went and caught three hundred foxes" / NET: "Samson went and captured 300 jackals" — Hebrew "shu'alim" can mean foxes or jackals. NET chooses "jackals" (more likely to be found in large numbers; jackals are pack animals, foxes are solitary). This is a legitimate zoological distinction — 300 foxes would be nearly impossible to gather, but jackals travel in groups.
-
-- v.8 — ASV: "he smote them hip and thigh with a great slaughter" / NET: "He struck them down and defeated them" — Hebrew "vayyak otam shoq al-yarekh makkah g'dolah" = he struck them leg upon thigh, a great striking. This is an idiom for thorough, devastating violence. ASV preserves the idiom "hip and thigh"; NET flattens it to generic "struck them down and defeated them," losing the vivid Hebrew expression.
-
-- v.14 — ASV: "the Spirit of Jehovah came mightily upon him, and the ropes...became as flax that was burnt with fire" / NET: "the Lord's Spirit empowered him. The ropes around his arms were like flax dissolving in fire" — Again NET uses "empowered" for "vatitslach" (rushed upon). The simile of burning flax is preserved in all versions — the supernatural strength dissolves human bonds as fire dissolves thread.
-
-- v.16 — ASV: "With the jawbone of an ass, heaps upon heaps" / NET: "With the jawbone of a donkey I have left them in heaps" — Hebrew contains a wordplay: "b'lchi hachamor, chamor chamoratayim" — "lechi" (jawbone) and "Lehi" (the place name) sound alike; "chamor" (donkey) and "chamor" (heap) are homonyms. Samson creates a victory poem with puns. This wordplay is lost in all English translations.
-
-- v.18 — ASV: "Thou hast given this great deliverance by the hand of thy servant" / NET: "You have given your servant this great victory" — Hebrew "t'shu'ah" = salvation/deliverance/victory. ASV's "deliverance" is theologically richer (connecting to God's saving acts); NET's "victory" is more military. Samson acknowledges — briefly and genuinely — that God is the source of his power.
-
-- v.19 — ASV: "God clave the hollow place that is in Lehi" / NET: "God split open the basin at Lehi" — Hebrew "vayyivqa Elohim et-hamakhtesh" = God split open the hollow/mortar-shaped place. God provides water for His servant despite Samson's deeply flawed character — grace sustains even the undeserving.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

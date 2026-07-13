@@ -157,46 +157,83 @@ Charles Spurgeon:
   that he was a beggar whom God made rich. Gratitude is the soil in which
   generosity grows. Forget your poverty and you will forget your God."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.5  — KJV: "A Syrian ready to perish was my father" / ESV: "A wandering
-       Aramean was my father" — Hebrew "Arami oved avi." This is one of
-       the most debated translations in Deuteronomy. "Oved" can mean
-       "perishing/ready to perish" (KJV) or "wandering/lost" (ESV). The
-       LXX has "My father abandoned Syria." KJV emphasizes Jacob's
-       vulnerability; ESV emphasizes his nomadic status. Both capture
-       aspects of Jacob's condition: he was a homeless wanderer on the
-       verge of destruction. "Arami" = Aramean/Syrian — Jacob lived in
-       Aram (Paddan-aram) with Laban.
+v.5  — Hebrew "Arami oved avi" — an Aramean perishing/wandering was my father.
+       KJV: "A Syrian ready to perish was my father"
+       ESV: "A wandering Aramean was my father"
+       ASV: "A Syrian ready to perish was my father"
+       NET: "A wandering Aramean was my ancestor"
+       WEB: "A Syrian ready to perish was my father"
+       Analysis: One of the most debated translations in Deuteronomy.
+       "Oved" can mean "perishing/ready to perish" (KJV/ASV/WEB) or
+       "wandering/lost" (ESV/NET). The LXX has "My father abandoned Syria."
+       KJV/ASV/WEB emphasize Jacob's vulnerability; ESV/NET emphasize his
+       nomadic status. NET updates "father" to "ancestor." Both readings
+       capture aspects of Jacob's condition: homeless wanderer on the verge
+       of destruction. "Arami" = Aramean/Syrian — Jacob lived in Aram
+       (Paddan-aram) with Laban.
 
-v.8  — KJV: "great terribleness" / ESV: "great deeds of terror" — Hebrew
-       "u-v'mora gadol." "Mora" = terror, awesome dread. Refers to the
-       plagues and Red Sea crossing — events that terrified Egypt and the
+v.8  — Hebrew "u-v'mora gadol" — and with great terror/dread.
+       KJV: "with great terribleness"
+       ESV: "with great deeds of terror"
+       ASV: "with great terribleness"
+       NET: "with great power"
+       WEB: "with great terror"
+       Analysis: "Mora" = terror, awesome dread. KJV/ASV use the archaic
+       "terribleness." ESV expands to "deeds of terror." WEB uses simple
+       "terror." NET diverges significantly with "great power" — losing
+       the terror imagery in favor of an emphasis on might. Refers to the
+       plagues and Red Sea crossing — events that terrified Egypt and
        surrounding nations.
 
-v.13 — KJV: "the hallowed things" / ESV: "the sacred portion" — Hebrew
-       "ha-qodesh." The tithe is holy — set apart for God's purposes.
-       It belongs to God and is distributed to those He designates (Levites,
-       poor, strangers).
+v.13 — Hebrew "ha-qodesh" — the holy/sacred portion.
+       KJV: "I have brought away the hallowed things out of mine house"
+       ESV: "I have removed the sacred portion out of my house"
+       ASV: "I have put away the hallowed things out of my house"
+       NET: "I have removed the sacred offering from my house"
+       WEB: "I have put away the holy things out of my house"
+       Analysis: The tithe is holy — set apart for God's purposes. KJV/WEB
+       use "hallowed/holy things." ESV uses "sacred portion." NET uses
+       "sacred offering." ASV uses "hallowed things." All convey that the
+       tithe belongs to God and is distributed to those He designates.
 
-v.14 — KJV: "nor given ought thereof for the dead" / ESV: "or offered any
-       of it to the dead" — This likely refers to pagan funeral practices
+v.14 — Hebrew "v'lo natati mimmennu l'met" — and I have not given from it for the dead.
+       KJV: "nor given ought thereof for the dead"
+       ESV: "or offered any of it to the dead"
+       ASV: "nor given thereof for the dead"
+       NET: "I have not offered any of it to the dead"
+       WEB: "neither have I given of it for the dead"
+       Analysis: KJV/ASV/WEB use "given for the dead." ESV/NET use
+       "offered to the dead" — implying a religious ritual directed at
+       deceased persons. This likely refers to pagan funeral practices
        where food was offered to or on behalf of the dead. The tithe must
-       not be contaminated by association with death rituals or pagan
-       customs.
+       not be contaminated by death rituals.
 
-v.17 — KJV: "Thou hast avouched the LORD" / ESV: "You have declared today
-       that the LORD is your God" — Hebrew "he'emarta." This rare verb
-       (used only here and v.18 in this form) means to declare solemnly,
-       to affirm publicly. KJV's "avouched" (an archaic legal term meaning
-       to affirm/guarantee) captures the formal, binding nature of the
-       declaration.
+v.17 — Hebrew "he'emarta" — you have declared/avouched.
+       KJV: "Thou hast avouched the LORD this day to be thy God"
+       ESV: "You have declared today that the LORD is your God"
+       ASV: "Thou hast avouched Jehovah this day to be thy God"
+       NET: "Today you have declared the LORD to be your God"
+       WEB: "You have declared Yahweh this day to be your God"
+       Analysis: This rare verb (used only here and v.18 in this form)
+       means to declare solemnly, to affirm publicly. KJV/ASV retain
+       "avouched" — an archaic legal term meaning to affirm/guarantee.
+       ESV/NET/WEB use "declared" — modern equivalent. Note divine names:
+       ASV uses "Jehovah," WEB uses "Yahweh."
 
-v.18 — KJV: "his peculiar people" / ESV: "a people for his treasured
-       possession" — Hebrew "am s'gullah." "S'gullah" = treasured
-       possession, special property. Not "peculiar" in the modern sense
-       of "strange" but in the older sense of "specially one's own."
-       Israel is God's personal treasure among the nations.
+v.18 — Hebrew "am s'gullah" — a people of treasured possession.
+       KJV: "his peculiar people"
+       ESV: "a people for his treasured possession"
+       ASV: "a people for his own possession"
+       NET: "his treasured people"
+       WEB: "a people for his own possession"
+       Analysis: "S'gullah" = treasured possession, special property.
+       KJV's "peculiar" means "specially one's own" (not "strange" as in
+       modern usage). ESV is most explicit: "treasured possession."
+       ASV/WEB use "own possession." NET condenses to "treasured people."
+       Israel is God's personal treasure among the nations (cf. 1 Peter
+       2:9).
 
 GLOSSARY
 ------------------------------------

@@ -165,51 +165,71 @@ Charles Spurgeon:
   Does it lead you closer to the God of Scripture, or away from Him? If
   away — though the sign be never so great — reject it utterly."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3  — KJV: "the LORD your God proveth you" / ESV: "the LORD your God is
-       testing you" — Hebrew "m'naseh." Same root as Genesis 22:1 ("God
-       did tempt/test Abraham"). God tests to reveal and refine faith, not
-       to cause failure.
+v.1  — two categories of claim to divine communication.
+       ASV: "If there arise in the midst of thee a prophet, or a dreamer of dreams"
+       NET: "Suppose a prophet or one who foretells by dreams should appear among you"
+       WEB: "If a prophet or a dreamer of dreams arises among you"
+       Analysis: two categories of claim to divine communication. Both must be tested.
 
-v.4  — KJV: "cleave unto him" / ESV: "hold fast to him" — Hebrew
-       "tidbaqun." Same word as Genesis 2:24 ("shall cleave unto his
-       wife"). Intimate, permanent attachment. The covenant relationship
-       with God is as binding as marriage.
+v.3  — Hebrew "m'naseh." — Same root as Genesis 22:1 ("God did tempt/test Abraham").
+       KJV: "the LORD your God proveth you"
+       ESV: "the LORD your God is testing you"
+       ASV: "for Jehovah your God proveth you"
+       NET: "for the Lord your God is testing you"
+       WEB: "for Yahweh your God is testing you"
+       Analysis: Hebrew "m'naseh." Same root as Genesis 22:1 ("God did tempt/test Abraham"). God tests to reveal and refine faith, not to cause failure. to test/try/prove). God permits false prophets AS a test of Israel's loyalty. Signs validate nothing if the theology is wrong.
 
-v.5  — KJV: "spoken to turn you away" / ESV: "taught rebellion against"
-       — Hebrew "dibber sarah." "Sarah" = turning aside, rebellion,
-       apostasy. ESV interprets the intent; KJV translates the action.
-       Both capture the gravity: leading away from God is rebellion.
+v.4  — Hebrew "tidbaqun." — Same word as Genesis 2:24 ("shall cleave unto his wife").
+       KJV: "cleave unto him"
+       ESV: "hold fast to him"
+       ASV: "Ye shall walk after Jehovah your God"
+       NET: "You must follow the Lord your God"
+       WEB: "You shall walk after Yahweh your God"
+       Analysis: Hebrew "tidbaqun." Same word as Genesis 2:24 ("shall cleave unto his wife"). Intimate, permanent attachment. The covenant relationship with God is as binding as marriage. NET: "follow"; ASV/WEB: "walk after" (Hebrew "acharei YHWH teleku"). Five commands follow: walk, fear, keep, obey, cling. The totality of covenant faithfulness is demanded.
 
-v.5  — KJV: "put the evil away from the midst of thee" / ESV: "purge the
-       evil from your midst" — Hebrew "u-bi'arta ha-ra mi-qirbekha." This
-       phrase recurs throughout Deuteronomy (17:7,12; 19:19; 21:21; 22:21,
-       24; 24:7). "Bi'er" = to burn out, purge, remove completely.
+v.5  — Hebrew "dibber sarah." — "Sarah" = turning aside, rebellion, apostasy.
+       KJV: "spoken to turn you away"
+       ESV: "taught rebellion against"
+       ASV: "to draw thee aside out of the way which Jehovah thy God commanded thee to walk in"
+       NET: "to turn you from the way the Lord your God has commanded you to walk"
+       WEB: "to draw you aside out of the way which Yahweh your God commanded you to walk in"
+       Analysis: Hebrew "dibber sarah." "Sarah" = turning aside, rebellion, apostasy. ESV interprets the intent; KJV translates the action. Both capture the gravity: leading away from God is rebellion. to push/thrust away). The false prophet's intent is to dislodge Israel from covenant obedience.
 
-v.13 — KJV: "children of Belial" / ESV: "worthless fellows" — Hebrew
-       "b'nei v'liya'al." "Belial" = worthlessness, wickedness. KJV
-       retains the Hebrew term; ESV translates the meaning. Later Jewish
-       and Christian literature uses "Belial" as a name for Satan
-       (2 Corinthians 6:15).
+v.5  — Hebrew "u-bi'arta ha-ra mi-qirbekha." — This phrase recurs throughout Deuteronomy (17:7,12.
+       KJV: "put the evil away from the midst of thee"
+       ESV: "purge the evil from your midst"
+       Analysis: Hebrew "u-bi'arta ha-ra mi-qirbekha." This phrase recurs throughout Deuteronomy (17:7,12; 19:19; 21:21; 22:21, 24; 24:7). "Bi'er" = to burn out, purge, remove completely.
 
-v.15 — KJV: "destroying it utterly" / ESV: "devoting it to destruction"
-       — Hebrew "hachareim tacharim." The "cherem" — total devotion to God
-       through destruction. Nothing is kept for human use. Same treatment
-       as Canaanite cities (Deuteronomy 7:2).
+v.6  — to burn/purge out).
+       ASV: "So shalt thou put away the evil from the midst of thee"
+       NET: "You must purge out evil from among you"
+       WEB: "So you shall remove the evil from among you"
+       Analysis: to burn/purge out). Evil cannot coexist with holiness.
 
-v.16 — KJV: "burn with fire the city, and all the spoil thereof every
-       whit, for the LORD thy God" / ESV: "burn the city and all its spoil
-       with fire, as a whole burnt offering to the LORD your God" — ESV
-       adds the interpretive phrase "as a whole burnt offering" (Hebrew
-       "kalil" = whole/complete). The entire city becomes a sacrifice to
-       God — an offering of judgment.
+v.13  — Hebrew "b'nei v'liya'al." — "Belial" = worthlessness, wickedness.
+       KJV: "children of Belial"
+       ESV: "worthless fellows"
+       ASV: "base fellows"
+       NET: "certain evil people"
+       WEB: "wicked fellows"
+       Analysis: Hebrew "b'nei v'liya'al." "Belial" = worthlessness, wickedness. KJV retains the Hebrew term; ESV translates the meaning. Later Jewish and Christian literature uses "Belial" as a name for Satan (2 Corinthians 6:15). sons of worthlessness/wickedness. KJV transliterates; ASV/WEB interpret the character; NET generalizes to "evil people." "Belial" later becomes a name for Satan (2 Cor 6:15).
 
-v.17 — KJV: "the cursed thing" / ESV: "the devoted things" — Hebrew
-       "ha-cherem." Same word translated "accursed" in Joshua 7:1 (Achan).
-       KJV emphasizes the curse aspect; ESV emphasizes the devotion/
-       consecration aspect. Both are present: what is devoted to God for
-       destruction is cursed if taken by man.
+v.15  — Hebrew "hachareim tacharim." — The "cherem" — total devotion to God through destruction.
+       KJV: "destroying it utterly"
+       ESV: "devoting it to destruction"
+       Analysis: Hebrew "hachareim tacharim." The "cherem" — total devotion to God through destruction. Nothing is kept for human use. Same treatment as Canaanite cities (Deuteronomy 7:2).
+
+v.16  — Hebrew "kalil" — ESV adds the interpretive phrase "as a whole burnt offering" (Hebrew...
+       KJV: "burn with fire the city, and all the spoil thereof every whit, for the LORD thy God"
+       ESV: "burn the city and all its spoil with fire, as a whole burnt offering to the LORD your God"
+       Analysis: ESV adds the interpretive phrase "as a whole burnt offering" (Hebrew "kalil" = whole/complete). The entire city becomes a sacrifice to God — an offering of judgment.
+
+v.17  — Hebrew "ha-cherem." — Same word translated "accursed" in Joshua 7:1 (Achan).
+       KJV: "the cursed thing"
+       ESV: "the devoted things"
+       Analysis: Hebrew "ha-cherem." Same word translated "accursed" in Joshua 7:1 (Achan). KJV emphasizes the curse aspect; ESV emphasizes the devotion/ consecration aspect. Both are present: what is devoted to God for destruction is cursed if taken by man.
 
 GLOSSARY
 ------------------------------------
@@ -245,19 +265,6 @@ Cleave/Hold Fast — Hebrew "davaq" — to cling, adhere, be joined
                covenant loyalty to God. The opposite of being "turned
                away" by false prophets.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "Suppose a prophet or one who foretells by dreams should appear among you" / ASV: "If there arise in the midst of thee a prophet, or a dreamer of dreams" / WEB: "If a prophet or a dreamer of dreams arises among you" — NET's "suppose" introduces a hypothetical legal case. "Prophet" (Hebrew "navi") and "dreamer" — two categories of claim to divine communication. Both must be tested.
-
-- v.3 — NET: "for the Lord your God is testing you" / ASV: "for Jehovah your God proveth you" / WEB: "for Yahweh your God is testing you" — NET/WEB: "testing"; ASV: "proveth" (Hebrew "menasseh" — to test/try/prove). God permits false prophets AS a test of Israel's loyalty. Signs validate nothing if the theology is wrong.
-
-- v.4 — NET: "You must follow the Lord your God" / ASV: "Ye shall walk after Jehovah your God" / WEB: "You shall walk after Yahweh your God" — NET: "follow"; ASV/WEB: "walk after" (Hebrew "acharei YHWH teleku"). Five commands follow: walk, fear, keep, obey, cling. The totality of covenant faithfulness is demanded.
-
-- v.5 — NET: "to turn you from the way the Lord your God has commanded you to walk" / ASV: "to draw thee aside out of the way which Jehovah thy God commanded thee to walk in" / WEB: "to draw you aside out of the way which Yahweh your God commanded you to walk in" — NET: "turn you"; ASV/WEB: "draw aside" (Hebrew "hadichakha" — to push/thrust away). The false prophet's intent is to dislodge Israel from covenant obedience.
-
-- v.6 — NET: "You must purge out evil from among you" / ASV: "So shalt thou put away the evil from the midst of thee" / WEB: "So you shall remove the evil from among you" — This refrain recurs throughout Deuteronomy (17:7, 19:19, 21:21, 22:21-24, 24:7). NET: "purge"; ASV: "put away"; WEB: "remove" (Hebrew "bi'arta" — to burn/purge out). Evil cannot coexist with holiness.
-
-- v.13 — NET: "certain evil people" / ASV: "base fellows" / WEB: "wicked fellows" / KJV: "children of Belial" — Hebrew "benei veliya'al" — sons of worthlessness/wickedness. KJV transliterates; ASV/WEB interpret the character; NET generalizes to "evil people." "Belial" later becomes a name for Satan (2 Cor 6:15).
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

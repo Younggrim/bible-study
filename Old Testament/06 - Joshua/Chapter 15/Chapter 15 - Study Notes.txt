@@ -83,54 +83,140 @@ Charles Spurgeon:
   for the springs! Ask for the upper springs of heavenly communion and
   the nether springs of earthly provision. God gives both to those who
   ask boldly."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "the lot of the tribe of the children of Judah" / ESV: "The
-       allotment for the tribe of the people of Judah" — Hebrew "goral"
-       = lot, portion determined by lot. ESV's "allotment" emphasizes
-       the result; KJV's "lot" emphasizes the method of determination.
+v.1  — Hebrew "goral" — lot, portion determined by lot.
+       KJV: "the lot of the tribe of the children of Judah"
+       ESV: "The allotment for the tribe of the people of Judah"
+       ASV: "the lot for the tribe of the children of Judah"
+       NET: "The land allotted to the tribe of Judah"
+       WEB: "the lot for the tribe of the children of Judah"
+       Analysis: ESV's "allotment" emphasizes the result; KJV/ASV/WEB's
+       "lot" emphasizes the method of determination. NET's passive "land
+       allotted" removes the sacred lot-casting process entirely.
 
-v.2  — KJV: "the salt sea" / ESV: "the Salt Sea" — The Dead Sea. Called
-       "salt sea" (yam ha-melach) because of its extreme salinity. Also
-       called the Sea of the Arabah (Deuteronomy 3:17).
+v.2  — Hebrew "yam ha-melach" — the salt sea.
+       KJV: "the salt sea"
+       ESV: "the Salt Sea"
+       ASV: "the Salt Sea"
+       NET: "the Dead Sea"
+       WEB: "the Salt Sea"
+       Analysis: The Dead Sea is called "salt sea" because of its extreme
+       salinity. Also called the Sea of the Arabah (Deuteronomy 3:17).
+       NET uses the modern name "Dead Sea" for clarity; all others
+       preserve the biblical name.
 
-v.3  — KJV: "Maaleh-acrabbim" / ESV: "the ascent of Akrabbim" — Hebrew
-       "ma'aleh aqrabbim" = "ascent of scorpions." KJV transliterates;
-       ESV translates the first word and transliterates the second. A
-       steep pass in the southern Negev, likely infested with scorpions.
+v.3  — Hebrew "ma'aleh aqrabbim" — "ascent of scorpions."
+       KJV: "Maaleh-acrabbim"
+       ESV: "the ascent of Akrabbim"
+       ASV: "the ascent of Akrabbim"
+       NET: "Scorpion Pass"
+       WEB: "the ascent of Akrabbim"
+       Analysis: KJV transliterates; ESV/ASV/WEB translate the first word
+       and transliterate the second. NET fully translates ("Scorpion Pass"),
+       making the meaning accessible but losing the Hebrew proper name.
+       A steep pass in the southern Negev, likely infested with scorpions.
 
-v.4  — KJV: "the river of Egypt" / ESV: "the Brook of Egypt" — Hebrew
-       "nachal Mitsrayim." This is Wadi el-Arish, not the Nile. "Nachal"
-       = a seasonal stream/wadi, not a major river ("nahar"). ESV's
-       "Brook" is more accurate than KJV's "river."
+v.4  — Hebrew "nachal Mitsrayim" — Wadi el-Arish, not the Nile.
+       KJV: "the river of Egypt"
+       ESV: "the Brook of Egypt"
+       ASV: "the brook of Egypt"
+       NET: "the Stream of Egypt"
+       WEB: "the brook of Egypt"
+       Analysis: "Nachal" = a seasonal stream/wadi, not a major river
+       ("nahar"). ESV/ASV/WEB's "Brook" is more accurate than KJV's
+       "river." NET's "Stream" is also acceptable. This is Wadi el-Arish,
+       not the Nile.
 
-v.8  — KJV: "the valley of the giants" / ESV: "the Valley of Rephaim"
-       — Hebrew "emeq Repha'im." As in 13:12, KJV translates "Rephaim"
-       as "giants"; ESV preserves the proper name. This valley southwest
-       of Jerusalem was later a Philistine staging ground (2 Samuel 5:18).
+v.8  — Hebrew "emeq Repha'im" — Valley of the Rephaim.
+       KJV: "the valley of the giants"
+       ESV: "the Valley of Rephaim"
+       ASV: "the valley of Rephaim"
+       NET: "the Valley of Rephaim"
+       WEB: "the valley of Rephaim"
+       Analysis: As in 13:12, KJV translates "Rephaim" as "giants";
+       ESV/ASV/NET/WEB preserve the proper name. This valley southwest of
+       Jerusalem was later a Philistine staging ground (2 Samuel 5:18).
 
-v.15 — KJV: "Kirjath-sepher" / ESV: "Kiriath-sepher" — Hebrew "Qiryat
-       Sepher" = "City of the Book" or "City of Writing." This suggests
-       it may have been a scribal center or archive city. Later called
-       Debir.
+v.13 — Hebrew "peh YHWH" — mouth/command of YHWH.
+       KJV: "according to the commandment of the LORD to Joshua"
+       ESV: "according to the commandment of the LORD to Joshua"
+       ASV: "according to the commandment of Jehovah to Joshua"
+       NET: "according to the Lord's instructions to Joshua"
+       WEB: "according to the commandment of Yahweh to Joshua"
+       Analysis: NET softens "commandment" to "instructions." The Hebrew
+       conveys direct divine speech — a command, not a suggestion.
+       KJV/ESV/ASV/WEB all preserve the authoritative "commandment."
 
-v.18 — KJV: "she lighted off her ass" / ESV: "she dismounted from her
-       donkey" — Hebrew "titsna me'al ha-chamor." "Tsanach" = to
-       descend, dismount. Dismounting was a sign of respect and
-       earnestness when making a request. ESV modernizes "ass" to
-       "donkey."
+v.15 — Hebrew "Qiryat Sepher" — "City of the Book" or "City of Writing."
+       KJV: "Kirjath-sepher"
+       ESV: "Kiriath-sepher"
+       ASV: "Kiriath-sepher"
+       NET: "Kiriath Sepher"
+       WEB: "Kiriath Sepher"
+       Analysis: The name suggests it may have been a scribal center or
+       archive city. Later called Debir. All versions transliterate; NET/
+       WEB drop the hyphen.
 
-v.19 — KJV: "the upper springs, and the nether springs" / ESV: "the
-       upper springs and the lower springs" — Hebrew "gullot 'illiyot"
-       and "gullot tachtiyot." "Gullah" = a spring, basin, bowl.
-       KJV's "nether" is archaic for "lower." Caleb gives generously —
-       both sets of springs, not just one.
+v.16 — Hebrew "He that smiteth" — a challenge to warriors.
+       KJV: "He that smiteth Kirjath-sepher, and taketh it"
+       ESV: "Whoever captures Kiriath-sepher and takes it"
+       ASV: "He that smiteth Kiriath-sepher, and taketh it"
+       NET: "To the man who attacks and captures Kiriath Sepher"
+       WEB: "He who strikes Kiriath Sepher, and takes it"
+       Analysis: Both are adequate renderings; NET modernizes the
+       challenge. The cultural context of a warrior earning a bride
+       through military valor is preserved in all versions.
 
-v.63 — KJV: "could not drive them out" / ESV: "could not drive out" —
-       Hebrew "lo yakh'lu l'horisham." "Yakol" = to be able, to prevail.
-       The question is whether this indicates inability or unwillingness.
-       Given God's promise to drive out all inhabitants (Exodus 23:30),
-       the failure was likely one of faith, not power.
+v.18 — Hebrew "titsna me'al ha-chamor" — "she dismounted from the
+       donkey." Also Hebrew "sut" — to incite or urge.
+       KJV: "she lighted off her ass"
+       ESV: "she dismounted from her donkey"
+       ASV: "she lighted off her ass"
+       NET: "One time Achsah came and charmed her father so that she could ask him for some land"
+       WEB: "she got off her donkey"
+       Analysis: "Tsanach" = to descend, dismount. Dismounting was a sign
+       of respect and earnestness when making a request. ESV/WEB modernize
+       "ass" to "donkey." NET adds "charmed" (not in Hebrew). The Hebrew
+       "sut" means to incite or urge — NET's "charmed" introduces a nuance
+       absent from the text.
+
+v.19 — Hebrew "gullot 'illiyot" and "gullot tachtiyot" — upper springs
+       and lower springs. Also Hebrew "b'rakhah" — blessing.
+       KJV: "Give me a blessing; for you hast given me a south land; give me also springs of water. And he gave her the upper springs, and the nether springs."
+       ESV: "Give me a blessing. Since you have given me the land of the Negeb, give me also springs of water. And he gave her the upper springs and the lower springs."
+       ASV: "Give me a blessing; for that thou hast set me in the land of the South, give me also springs of water"
+       NET: "Please give me a special present. Since you have given me land in the Negev, now give me springs of water"
+       WEB: "Give me a blessing. Because you have given me the land of the south, give me also springs of water."
+       Analysis: KJV's "nether" is archaic for "lower." "Gullah" = a
+       spring, basin, bowl. Caleb gives generously — both sets of springs.
+       NET renders "b'rakhah" (blessing) as "special present," losing the
+       theological dimension. Achsah asks for a "blessing" — she
+       understands inheritance as divine favor, not just real estate.
+
+v.20 — Hebrew "nachalah" — inheritance.
+       KJV: "This is the inheritance of the tribe of the children of Judah"
+       ESV: "This is the inheritance of the tribe of the people of Judah"
+       ASV: "This is the inheritance of the tribe of the children of Judah"
+       NET: "This is the land assigned to the tribe of Judah by its clans"
+       WEB: "This is the inheritance of the tribe of the children of Judah"
+       Analysis: Again, NET replaces "inheritance" (nachalah) with "land
+       assigned" — an administrative rather than covenantal concept.
+       KJV/ESV/ASV/WEB all preserve the theological weight.
+
+v.63 — Hebrew "lo yakh'lu l'horisham" — "they were not able to
+       dispossess them." Hebrew "horish" — to dispossess, drive out.
+       KJV: "could not drive them out"
+       ESV: "could not drive out"
+       ASV: "the children of Judah could not drive them out"
+       NET: "The men of Judah were unable to conquer the Jebusites living in Jerusalem"
+       WEB: "the children of Judah could not drive them out"
+       Analysis: "Yakol" = to be able, to prevail. The question is whether
+       this indicates inability or unwillingness. Given God's promise to
+       drive out all inhabitants (Exodus 23:30), the failure was likely
+       one of faith, not power. NET's "conquer" vs. ASV/KJV/WEB's "drive
+       out" — the Hebrew emphasizes removal/dispossession rather than mere
+       military conquest.
 
 GLOSSARY
 ------------------------------------
@@ -166,14 +252,6 @@ Jebusites      — The Canaanite inhabitants of Jerusalem (called "Jebus").
                They remained unconquered until David's time (~1000 BC),
                nearly 400 years after Joshua.
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.13 — ASV: "according to the commandment of Jehovah to Joshua" / NET: "according to the Lord's instructions to Joshua" / KJV: "according to the commandment of the LORD to Joshua" — NET softens "commandment" (Hebrew "peh YHWH" — mouth/command of YHWH) to "instructions." The Hebrew conveys direct divine speech — a command, not a suggestion.
-- v.16 — ASV: "He that smiteth Kiriath-sepher, and taketh it" / NET: "To the man who attacks and captures Kiriath Sepher" — Both are adequate; NET modernizes the challenge. The cultural context of a warrior earning a bride through military valor is preserved in both.
-- v.18 — NET: "One time Achsah came and charmed her father so that she could ask him for some land" / KJV: "she moved him to ask of her father a field" / ASV: "she moved him to ask of her father a field" — NET adds "charmed" (not in Hebrew). The Hebrew "sut" means to incite or urge — Achsah persuaded (either her husband or herself was moved to ask). NET's "charmed" introduces a nuance absent from the text.
-- v.19 — ASV: "Give me a blessing; for that thou hast set me in the land of the South, give me also springs of water" / NET: "Please give me a special present. Since you have given me land in the Negev, now give me springs of water" — Hebrew "b'rakhah" (blessing) is rendered "special present" by NET, losing the theological dimension. Achsah asks for a "blessing" — she understands inheritance as divine favor, not just real estate.
-- v.20 — ASV: "This is the inheritance of the tribe of the children of Judah" / NET: "This is the land assigned to the tribe of Judah by its clans" — Again, NET replaces "inheritance" (nachalah) with "land assigned" — an administrative rather than covenantal concept.
-- v.63 — ASV: "the children of Judah could not drive them out" / NET: "The men of Judah were unable to conquer the Jebusites living in Jerusalem" — NET's "conquer" vs. ASV/KJV's "drive out" (Hebrew "horish" — to dispossess). The Hebrew emphasizes removal/dispossession rather than mere military conquest.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

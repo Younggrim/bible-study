@@ -211,63 +211,115 @@ Charles Spurgeon:
   generosity that preserves dignity, charity that requires effort, mercy
   that maintains self-respect. Would that all our charity were so wise!"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "some uncleanness in her" / ESV: "some indecency in her" —
-       Hebrew "ervat davar." Literally "nakedness of a thing" or "a matter
-       of nakedness." This phrase was the center of rabbinic debate: the
-       school of Shammai interpreted it as sexual immorality only; the
-       school of Hillel interpreted it as anything displeasing. Jesus
-       sided with Shammai (Matthew 19:9 — "except for fornication").
+v.1  — Hebrew "ervat davar" — nakedness of a thing / a matter of indecency.
+       KJV: "some uncleanness in her"
+       ESV: "some indecency in her"
+       ASV: "some unseemly thing in her"
+       NET: "something objectionable about her"
+       WEB: "some unseemly thing in her"
+       Analysis: This phrase was the center of rabbinic debate: Shammai
+       interpreted it as sexual immorality only; Hillel interpreted it as
+       anything displeasing. KJV uses "uncleanness" — ritual language.
+       ESV uses "indecency." ASV/WEB use "unseemly thing." NET is broadest:
+       "something objectionable." Jesus sided with Shammai (Matthew 19:9 —
+       "except for fornication").
 
-v.1  — KJV: "a bill of divorcement" / ESV: "a certificate of divorce" —
-       Hebrew "sefer k'ritut." "Sefer" = document, writing. "K'ritut" =
-       cutting off, separation. A formal written document that legally
-       ended the marriage and freed the woman to remarry. This protected
-       her from being in legal limbo.
+v.1  — Hebrew "sefer k'ritut" — a document of cutting off/separation.
+       KJV: "a bill of divorcement"
+       ESV: "a certificate of divorce"
+       ASV: "a bill of divorcement"
+       NET: "a written divorce document"
+       WEB: "a certificate of divorce"
+       Analysis: "Sefer" = document, writing. "K'ritut" = cutting off,
+       separation. KJV/ASV use "bill" (older legal term). ESV/WEB use
+       "certificate" (modern legal term). NET adds "written" for emphasis.
+       A formal written document that legally ended the marriage and freed
+       the woman to remarry, protecting her from legal limbo.
 
-v.4  — KJV: "after that she is defiled" / ESV: "after she has been
-       defiled" — Hebrew "acharei asher hutamma'ah." "Tame" = to be
-       unclean, defiled. The second marriage makes return to the first
-       husband impossible — not because the woman is morally defiled but
-       because the legal/covenantal situation has changed irreversibly.
+v.4  — Hebrew "acharei asher hutamma'ah" — after she has been made unclean.
+       KJV: "after that she is defiled"
+       ESV: "after she has been defiled"
+       ASV: "after that she is defiled"
+       NET: "after she has been ritually contaminated"
+       WEB: "after she is defiled"
+       Analysis: "Tame" = to be unclean, defiled. KJV/ESV/ASV/WEB all use
+       "defiled." NET uniquely adds "ritually contaminated" — emphasizing
+       the legal rather than moral nature of the defilement. The second
+       marriage makes return to the first husband impossible — not moral
+       defilement but irreversible legal change.
 
-v.5  — KJV: "shall cheer up his wife" / ESV: "to be happy with his wife"
-       — Hebrew "v'simmach et ishto." "Simmach" = to cause joy, make
-       happy. The husband's duty in the first year: to bring joy to his
-       wife. Marriage is not merely a contract but a relationship requiring
-       intentional cultivation of happiness.
+v.5  — Hebrew "v'simmach et ishto" — and he shall cause his wife to rejoice.
+       KJV: "shall cheer up his wife"
+       ESV: "to be happy with his wife"
+       ASV: "shall cheer his wife"
+       NET: "he will bring joy to his wife"
+       WEB: "shall cheer his wife"
+       Analysis: "Simmach" = to cause joy, make happy. KJV/ASV/WEB use
+       "cheer" — active causation of happiness. ESV shifts to mutual
+       enjoyment: "be happy with." NET is most explicit about the
+       direction: "bring joy to." The husband's duty in the first year:
+       to bring joy to his wife. Marriage requires intentional cultivation.
 
-v.6  — KJV: "the nether or the upper millstone" / ESV: "a mill or an
-       upper millstone" — Hebrew "rechayim v'rakhev." The hand mill
-       consisted of two stones: the lower (nether/stationary) and the
-       upper (moved by hand). Taking either renders the mill useless —
-       removing the means of daily bread production.
+v.6  — Hebrew "rechayim v'rakhev" — the mill (pair of stones) and the upper stone.
+       KJV: "the nether or the upper millstone"
+       ESV: "a mill or an upper millstone"
+       ASV: "the mill or the upper millstone"
+       NET: "a handmill or an upper millstone"
+       WEB: "the mill or the upper millstone"
+       Analysis: The hand mill consisted of two stones: the lower (nether/
+       stationary) and the upper (moved by hand). KJV alone specifies
+       "nether" (lower) stone. NET adds "hand" to clarify the type of
+       mill. Taking either renders the mill useless — removing the means
+       of daily bread production.
 
-v.7  — KJV: "maketh merchandise of him" / ESV: "treats him as a slave" —
-       Hebrew "v'hit'ammer bo." Same root as 21:14 — to deal in, treat as
-       merchandise. Kidnapping a person for profit (slave trade) is a
-       capital crime. Human beings have inherent dignity that cannot be
-       commodified.
+v.7  — Hebrew "v'hit'ammer bo" — and deals tyrannically with him.
+       KJV: "maketh merchandise of him"
+       ESV: "treats him as a slave"
+       ASV: "deal with him as merchandise"
+       NET: "treats him as merchandise"
+       WEB: "deals with him as merchandise"
+       Analysis: Same root as 21:14 — to deal in, treat as merchandise.
+       KJV/ASV/NET/WEB focus on the commercial aspect (merchandising).
+       ESV alone interprets as slave treatment. Kidnapping a person for
+       profit (slave trade) is a capital crime. Human beings have inherent
+       dignity that cannot be commodified.
 
-v.13 — KJV: "it shall be righteousness unto thee" / ESV: "it shall be
-       righteousness for you" — Hebrew "u-l'kha tihyeh tz'daqah." Showing
-       compassion to the poor debtor is counted as "righteousness" before
-       God. Not merely a nice gesture but a righteous act — conforming to
-       God's character.
+v.13 — Hebrew "u-l'kha tihyeh tz'daqah" — and it shall be righteousness to you.
+       KJV: "it shall be righteousness unto thee"
+       ESV: "it shall be righteousness for you"
+       ASV: "it shall be righteousness unto thee"
+       NET: "it will be regarded as righteousness by the LORD your God"
+       WEB: "it shall be righteousness to you"
+       Analysis: Showing compassion to the poor debtor is counted as
+       "righteousness" before God. NET uniquely adds "regarded as
+       righteousness by the LORD your God" — making the divine accounting
+       explicit. Not merely a nice gesture but a righteous act conforming
+       to God's character.
 
-v.16 — KJV: "every man shall be put to death for his own sin" / ESV:
-       "Each one shall be put to death for his own sin" — Hebrew "ish
-       b'chet'o yumatu." Individual criminal responsibility. This does not
-       contradict Exodus 20:5 (visiting iniquity to generations) — that
-       refers to God's providential dealings, not human judicial
-       punishment.
+v.16 — Hebrew "ish b'chet'o yumatu" — each man for his own sin shall be put to death.
+       KJV: "every man shall be put to death for his own sin"
+       ESV: "Each one shall be put to death for his own sin"
+       ASV: "every man shall be put to death for his own sin"
+       NET: "each must be put to death for his own sin"
+       WEB: "every man shall be put to death for his own sin"
+       Analysis: Individual criminal responsibility — near-unanimous
+       rendering. This does not contradict Exodus 20:5 (visiting iniquity
+       to generations) — that refers to God's providential dealings, not
+       human judicial punishment. Applied by Amaziah (2 Kings 14:6).
 
-v.19 — KJV: "hast forgot a sheaf" / ESV: "forget a sheaf" — Hebrew
-       "v'shakhachta omer." "Shakhach" = to forget. The forgotten sheaf
-       is God's provision for the poor. What you accidentally leave behind
-       becomes intentional provision by divine command. Even forgetfulness
-       serves God's purposes.
+v.19 — Hebrew "v'shakhachta omer" — and you forget a sheaf.
+       KJV: "hast forgot a sheaf in the field"
+       ESV: "forget a sheaf in the field"
+       ASV: "hast forgot a sheaf in the field"
+       NET: "leave a forgotten sheaf in the field"
+       WEB: "have forgotten a sheaf in the field"
+       Analysis: "Shakhach" = to forget. Most translations render
+       straightforwardly. NET uniquely combines "leave" with "forgotten,"
+       emphasizing the result. The forgotten sheaf is God's provision for
+       the poor. What you accidentally leave behind becomes intentional
+       provision by divine command.
 
 GLOSSARY
 ------------------------------------

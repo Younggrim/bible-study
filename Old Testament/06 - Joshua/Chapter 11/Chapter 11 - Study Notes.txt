@@ -156,51 +156,71 @@ Charles Spurgeon:
   makes them fall. The same enemies that paralyzed one generation are
   destroyed by the next — the difference is not in the enemy's size but
   in the people's faith."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.4  — KJV: "as the sand that is upon the sea shore in multitude" / ESV:
-       "in number like the sand that is on the seashore" — Hebrew
-       "ka-chol asher al s'fat ha-yam la-rov." A standard hyperbolic
-       expression for an innumerable multitude (cf. Genesis 22:17). The
-       northern coalition was vastly larger than anything Israel had faced.
+v.4  — Hebrew "ka-chol asher al s'fat ha-yam la-rov" — standard hyperbolic expression for an innumerable multitude.
+       KJV: "as the sand that is upon the sea shore in multitude"
+       ESV: "in number like the sand that is on the seashore"
+       ASV: "as the sand that is upon the seashore in multitude"
+       NET: "as numerous as the sand on the seashore"
+       WEB: "as the sand that is on the seashore in multitude"
+       Analysis: All translations preserve this classic biblical comparison (cf. Genesis 22:17). The northern coalition was vastly larger than anything Israel had faced — yet God's assurance (v.6) removes all fear. The hyperbole emphasizes the impossibility of the odds from a human perspective.
 
-v.6  — KJV: "thou shalt hough their horses" / ESV: "You shall hamstring
-       their horses" — Hebrew "t'aqqer et suseihem." "Aqar" = to
-       hamstring, cut the leg tendons. This disables the horse permanently
-       without killing it. The purpose: Israel must not keep war horses.
-       Their trust must remain in God, not in military technology.
-       KJV's "hough" (pronounced "hock") is archaic for hamstring.
+v.6  — Hebrew "t'aqqer et suseihem" — "aqar" = to hamstring, cut the leg tendons. God commands disabling enemy horses.
+       KJV: "thou shalt hough their horses"
+       ESV: "You shall hamstring their horses"
+       ASV: "thou shalt hock their horses"
+       NET: "You must hamstring their horses"
+       WEB: "You shall hamstring their horses"
+       Analysis: KJV's "hough" (pronounced "hock") and ASV's "hock" are archaic. ESV/NET/WEB "hamstring" is accessible to modern readers. The purpose: Israel must not keep war horses. Their trust must remain in God, not in military technology. The divine name in this verse: ASV "Jehovah," WEB "Yahweh," NET "the Lord" — God's personal assurance before a massive coalition battle.
 
-v.13 — KJV: "the cities that stood still in their strength" / ESV: "the
-       cities that stood on mounds" — Hebrew "ha-arim ha-omdot al
-       tillam." "Tel" = a mound, hill (an artificial mound formed by
-       successive settlements). These fortified cities on their tells
-       were left intact — Israel would inhabit them. Only Hazor was
-       burned.
+v.11 — Hebrew "cherem" — utterly destroying; devoted to destruction.
+       KJV: "they smote all the souls... utterly destroying them"
+       ESV: "striking them with the edge of the sword, devoting them to destruction"
+       ASV: "utterly destroying them; there was none left that breathed"
+       NET: "They annihilated everyone who lived there with the sword"
+       WEB: "utterly destroying them. There was no one left who breathed"
+       Analysis: The cherem language continues throughout Joshua. NET's "annihilated" vs. ASV/WEB's "utterly destroying" — the literal translations preserve the technical term for sacred devotion to destruction. ESV's "devoting them to destruction" most fully captures the theological meaning.
 
-v.15 — KJV: "he left nothing undone" / ESV: "He left nothing undone" —
-       Hebrew "lo hesir davar." Literally "he did not turn aside a thing."
-       "Sur" = to turn aside, deviate. Joshua did not deviate from a
-       single command. Total, comprehensive obedience — the highest
-       commendation.
+v.13 — Hebrew "ha-arim ha-omdot al tillam" — "tel" = an artificial mound formed by successive settlements.
+       KJV: "the cities that stood still in their strength"
+       ESV: "the cities that stood on mounds"
+       ASV: "the cities that stood on their mounds"
+       NET: "the cities built on mounds"
+       WEB: "the cities that stood on their mounds"
+       Analysis: KJV interprets "tillam" (their mounds/tells) as "their strength" — misleading. ESV/ASV/NET/WEB correctly identify "tel" as an archaeological mound. These fortified cities on their tells were left intact — Israel would inhabit them. Only Hazor was burned.
 
-v.20 — KJV: "it was of the LORD to harden their hearts" / ESV: "it was
-       the LORD's doing to harden their hearts" — Hebrew "me'et Adonai
-       hay'tah l'chazzeq et libbam." "Chazaq" = to strengthen, harden,
-       make firm. The same word used of Pharaoh's heart (Exodus 4:21).
-       God strengthened their resolve to fight — confirming them in their
-       chosen rebellion — so that judgment would be complete.
+v.15 — Hebrew "lo hesir davar" — literally "he did not turn aside a thing." "Sur" = to turn aside, deviate.
+       KJV: "he left nothing undone"
+       ESV: "He left nothing undone"
+       ASV: "he left nothing undone"
+       NET: "He did not deviate at all from what the Lord had commanded Moses"
+       WEB: "He left nothing undone"
+       Analysis: NET is more interpretive but adds helpful clarity. KJV/ASV/ESV/WEB are concise and powerful. Joshua did not deviate from a single command — total, comprehensive obedience. The highest commendation a leader can receive.
 
-v.21 — KJV: "the Anakims" / ESV: "the Anakim" — Hebrew "ha-Anaqim."
-       Descendants of Anak — a race of unusually tall people (giants).
-       They terrified the spies in Numbers 13:33. Their destruction by
-       Joshua fulfills what the faithless generation refused to attempt.
+v.20 — Hebrew "me'et Adonai hay'tah l'chazzeq et libbam" — "chazaq" = to strengthen, harden, make firm. Same word used of Pharaoh.
+       KJV: "it was of the LORD to harden their hearts"
+       ESV: "it was the LORD's doing to harden their hearts"
+       ASV: "it was of Jehovah to harden their hearts"
+       NET: "the Lord determined to make them obstinate"
+       WEB: "it was of Yahweh to harden their hearts"
+       Analysis: NET interprets "harden" as "make obstinate" and "no favor" (Hebrew "t'chinah" — no grace/supplication) as "without mercy." KJV/ASV/ESV/WEB's "harden their hearts" and "no favour" better preserve the parallel with Pharaoh and the concept that God removed any possibility of the Canaanites seeking terms of peace. God strengthened their resolve to fight — confirming them in their chosen rebellion — so that judgment would be complete.
 
-v.23 — KJV: "the land rested from war" / ESV: "the land had rest from
-       war" — Hebrew "v'ha-aretz shaq'tah mil-chamah." "Shaqat" = to be
-       quiet, at rest, undisturbed. The land itself rests — peace after
-       conquest. This rest foreshadows the ultimate rest God provides
-       (Hebrews 4:8-9).
+v.21 — Hebrew "ha-Anaqim" — descendants of Anak, a race of giants. Hebrew "karath" = to cut off.
+       KJV: "Joshua... cut off the Anakim"
+       ESV: "Joshua... cut off the Anakim"
+       ASV: "Joshua... cut off the Anakim"
+       NET: "Joshua attacked and eliminated the Anakites"
+       WEB: "Joshua... cut off the Anakim"
+       Analysis: NET's "eliminated" is general; KJV/ASV/ESV/WEB's "cut off" (Hebrew "karath") is a covenant term meaning to sever completely, used for both covenant-making and judgment. They terrified the spies in Numbers 13:33 — their destruction by Joshua fulfills what the faithless generation refused to attempt.
+
+v.23 — Hebrew "v'ha-aretz shaq'tah mil-chamah" — "shaqat" = to be quiet, at rest, undisturbed; Hebrew "nachalah" = inheritance.
+       KJV: "the land rested from war... Joshua gave it for an inheritance"
+       ESV: "the land had rest from war... Joshua gave it for an inheritance"
+       ASV: "the land had rest from war... Joshua gave it for an inheritance unto Israel"
+       NET: "the land was free of war... he assigned Israel their tribal portions"
+       WEB: "the land had rest from war... Joshua gave it for an inheritance to Israel"
+       Analysis: NET's "assigned tribal portions" is bureaucratic; KJV/ASV/ESV/WEB's "inheritance" (nachalah) preserves the theological concept that the land is a God-given inheritance, not merely an administrative allocation. The land itself rests — peace after conquest. This foreshadows the ultimate rest God provides (Hebrews 4:8-9).
 
 GLOSSARY
 ------------------------------------
@@ -238,15 +258,6 @@ Hardening of Hearts — God's judicial act of confirming people in their
                people into sin but strengthens the resolve of those who
                have already chosen to resist Him, ensuring that judgment
                is complete.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.6 — ASV: "Jehovah said unto Joshua, Be not afraid because of them" / WEB: "Yahweh said to Joshua, 'Don't be afraid because of them'" / NET: "The Lord told Joshua, 'Don't be afraid of them'" — The divine name pattern continues. ASV "Jehovah," WEB "Yahweh," NET "the Lord." God's personal assurance before a massive coalition battle emphasizes His covenant relationship.
-- v.6 — ASV: "thou shalt hock their horses" / WEB: "You shall hamstring their horses" / NET: "You must hamstring their horses" / KJV: "thou shalt hough their horses" — KJV's archaic "hough" and ASV's "hock" mean the same as WEB/NET's "hamstring" — cutting the leg tendons to disable war horses. All translations agree; NET/WEB are simply more accessible to modern readers.
-- v.11 — ASV: "utterly destroying them; there was none left that breathed" / WEB: "utterly destroying them. There was no one left who breathed" / NET: "They annihilated everyone who lived there with the sword—no one who breathed remained" — The cherem language continues. NET's "annihilated" vs. ASV/WEB's "utterly destroying" — the literal translations preserve the technical term for sacred devotion to destruction.
-- v.20 — ASV: "For it was of Jehovah to harden their hearts...that he might utterly destroy them, that they might have no favor" / WEB: "For it was of Yahweh to harden their hearts" / NET: "the Lord determined to make them obstinate...He wanted Israel to annihilate them without mercy" — NET interprets "harden" as "make obstinate" and "no favor" (Hebrew "t'chinah" — no grace/supplication) as "without mercy." KJV/ASV/WEB's "no favour" better captures that God removed any possibility of the Canaanites seeking terms of peace.
-- v.21 — NET: "Joshua attacked and eliminated the Anakites" / KJV: "Joshua...cut off the Anakim" / ASV: "cut off the Anakim" / WEB: "cut off the Anakim" — NET's "eliminated" is general; KJV/ASV/WEB's "cut off" (Hebrew "karath") is a covenant term meaning to sever completely, used for both covenant-making and judgment.
-- v.23 — ASV: "Joshua gave it for an inheritance unto Israel according to their divisions by their tribes" / WEB: "Joshua gave it for an inheritance to Israel" / NET: "he assigned Israel their tribal portions" — NET's "assigned tribal portions" is bureaucratic; KJV/ASV/WEB's "inheritance" (nachalah) preserves the theological concept that the land is a God-given inheritance, not merely an administrative allocation.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

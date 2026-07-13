@@ -166,58 +166,107 @@ Charles Spurgeon:
   Himself. 'He that goeth with you.' The Commander-in-Chief is personally
   present on the field."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "horses, and chariots, and a people more than thou" / ESV:
-       "horses and chariots and an army larger than your own" — Hebrew
-       "sus v'rekhev v'am rav mimm'kha." Horses and chariots were the
-       advanced military technology of the ancient world — Israel had
-       neither. God's people fight with inferior equipment but superior
-       power.
+v.1  — Hebrew "sus v'rekhev v'am rav mimm'kha" — horses and chariots and a people more numerous than you.
+       KJV: "horses, and chariots, and a people more than thou"
+       ESV: "horses and chariots and an army larger than your own"
+       ASV: "horses, and chariots, and a people more than thou"
+       NET: "horses and chariots and a people more numerous than you"
+       WEB: "horses, and chariots, and a people more than you"
+       Analysis: KJV/ASV/WEB translate literally ("a people more than you").
+       ESV interprets "am" (people) as "army" — contextually appropriate
+       but narrower. NET balances literal and readable with "more numerous."
+       Horses and chariots were the advanced military technology of the
+       ancient world — Israel had neither. God's people fight with inferior
+       equipment but superior power.
 
-v.3  — KJV: "let not your hearts faint, fear not, and do not tremble,
-       neither be ye terrified" / ESV: "let not your heart faint. Do not
-       fear or panic or be in dread of them" — Hebrew "al yerakh
-       l'vavkhem, al tir'u, v'al tachp'zu, v'al ta'ar'tzu." Four
-       distinct words for fear: "rakh" (soft/faint), "yare" (fear),
-       "chafaz" (panic/haste), "arats" (dread/terror). Every shade of
-       fear is addressed.
+v.3  — Hebrew "al yerakh l'vavkhem, al tir'u, v'al tachp'zu, v'al ta'ar'tzu" — four distinct words for fear.
+       KJV: "let not your hearts faint, fear not, and do not tremble, neither be ye terrified"
+       ESV: "let not your heart faint. Do not fear or panic or be in dread of them"
+       ASV: "let not your heart faint; fear not, nor tremble, neither be ye affrighted"
+       NET: "do not be afraid or alarmed or terrified because of them"
+       WEB: "don't let your heart faint; don't be afraid, nor tremble, neither be scared of them"
+       Analysis: Four Hebrew words: "rakh" (soft/faint), "yare" (fear),
+       "chafaz" (panic/haste), "arats" (dread/terror). KJV/ASV/WEB
+       preserve all four distinctions. ESV reduces slightly. NET condenses
+       to three terms, losing "faint-hearted." Every shade of fear is
+       addressed in the Hebrew — the priest leaves no room for any kind
+       of fear to remain.
 
-v.4  — KJV: "to save you" / ESV: "to give you the victory" — Hebrew
-       "l'hoshi'a etchem." "Yasha" = to save, deliver, give victory. The
-       root of "Joshua" and "Jesus" (Yeshua). God is the Savior in battle.
+v.4  — Hebrew "l'hoshi'a etchem" — to save/deliver you.
+       KJV: "to save you"
+       ESV: "to give you the victory"
+       ASV: "to save you"
+       NET: "to fight for you and to save you"
+       WEB: "to save you"
+       Analysis: "Yasha" = to save, deliver, give victory. The root of
+       "Joshua" and "Jesus" (Yeshua). KJV/ASV/WEB retain the literal
+       "save." ESV interprets as "give you the victory" — contextually
+       appropriate for battle. NET expands by including the preceding
+       clause ("to fight for you") with the result. God is the Savior
+       in battle.
 
-v.8  — KJV: "fearful and fainthearted" / ESV: "fearful and fainthearted"
-       — Hebrew "ha-yarei v'rakh ha-levav." "Yarei" = afraid. "Rakh
-       ha-levav" = soft of heart. The combination describes someone whose
-       courage has completely failed. Gideon's army was reduced from 32,000
-       to 10,000 by this exemption (Judges 7:3).
+v.8  — Hebrew "ha-yarei v'rakh ha-levav" — the one who fears and is soft of heart.
+       KJV: "fearful and fainthearted"
+       ESV: "fearful and fainthearted"
+       ASV: "fearful and fainthearted"
+       NET: "afraid and lacks courage"
+       WEB: "fearful and fainthearted"
+       Analysis: Rare near-unanimity. "Yarei" = afraid. "Rakh ha-levav" =
+       soft of heart. KJV/ESV/ASV/WEB all render "fearful and fainthearted."
+       NET alone modernizes to "afraid and lacks courage," losing the vivid
+       "fainthearted" imagery. Gideon's army was reduced from 32,000 to
+       10,000 by this exemption (Judges 7:3).
 
-v.11 — KJV: "tributaries unto thee, and they shall serve thee" / ESV:
-       "shall do forced labor for you and shall serve you" — Hebrew
-       "l'mas v'avadukha." "Mas" = forced labor, corvée. The conquered
-       people become laborers — not slaves in the chattel sense but
-       subject workers. This was the standard ancient Near Eastern
-       practice for surrendered cities.
+v.11 — Hebrew "l'mas v'avadukha" — for forced labor and they shall serve you.
+       KJV: "tributaries unto thee, and they shall serve thee"
+       ESV: "shall do forced labor for you and shall serve you"
+       ASV: "become tributary unto thee, and shall serve thee"
+       NET: "will become your slaves and serve you"
+       WEB: "become subject to forced labor, and shall serve you"
+       Analysis: "Mas" = forced labor, corvée. KJV/ASV use "tributaries" —
+       those who pay tribute through labor. ESV/WEB specify "forced labor."
+       NET renders as "slaves" — stronger than the Hebrew warrants. The
+       conquered people become laborers, not chattel slaves but subject
+       workers. This was standard ancient Near Eastern practice.
 
-v.16 — KJV: "thou shalt save alive nothing that breatheth" / ESV: "you
-       shall save alive nothing that breathes" — Hebrew "lo t'chayeh kol
-       n'shamah." "N'shamah" = breath, living thing. Total destruction —
-       nothing with breath survives. This is the cherem applied to
-       Canaanite cities specifically.
+v.16 — Hebrew "lo t'chayeh kol n'shamah" — you shall not let live any breath/soul.
+       KJV: "thou shalt save alive nothing that breatheth"
+       ESV: "you shall save alive nothing that breathes"
+       ASV: "thou shalt save alive nothing that breatheth"
+       NET: "you must not allow a single living thing to survive"
+       WEB: "you shall save alive nothing that breathes"
+       Analysis: "N'shamah" = breath, living thing. KJV/ESV/ASV/WEB all
+       retain the powerful "save alive nothing that breathes" — preserving
+       the Hebrew's stark absoluteness. NET paraphrases to "not allow a
+       single living thing to survive," losing the poetic force but gaining
+       clarity. Total destruction — the cherem applied to Canaanite cities.
 
-v.19 — KJV: "for the tree of the field is man's life" / ESV: "Are the
-       trees in the field human, that they should be besieged by you?" —
-       Hebrew "ki ha-adam etz ha-sadeh." This is notoriously difficult.
-       KJV reads it as a statement: the tree sustains human life. ESV
-       reads it as a rhetorical question: trees are not human enemies.
-       Both interpretations yield the same practical result: do not
-       destroy fruit trees.
+v.19 — Hebrew "ki ha-adam etz ha-sadeh" — for is the man the tree of the field?
+       KJV: "for the tree of the field is man's life"
+       ESV: "Are the trees in the field human, that they should be besieged by you?"
+       ASV: "for is the tree of the field man, that it should be besieged of thee?"
+       NET: "for the trees of the field are not people, so they should not be besieged by you"
+       WEB: "for is the tree of the field man, that it should be besieged by you?"
+       Analysis: This is notoriously difficult Hebrew. KJV reads it as a
+       statement: the tree sustains human life. ESV/ASV/WEB read it as a
+       rhetorical question: trees are not human enemies. NET makes the
+       answer explicit: "are NOT people." ASV/WEB preserve the ambiguity
+       closest to the Hebrew. Both interpretations yield the same practical
+       result: do not destroy fruit trees.
 
-v.20 — KJV: "thou shalt build bulwarks" / ESV: "you may build siegeworks"
-       — Hebrew "u-vanita matzor." "Matzor" = siege works, fortifications
-       used in besieging a city. Non-fruit trees may be cut for this
-       military purpose.
+v.20 — Hebrew "u-vanita matzor" — and you shall build siege works.
+       KJV: "thou shalt build bulwarks"
+       ESV: "you may build siegeworks"
+       ASV: "thou shalt build bulwarks"
+       NET: "you may use their timber to construct siege works"
+       WEB: "you shall build bulwarks"
+       Analysis: "Matzor" = siege works, fortifications used in besieging a
+       city. KJV/ASV/WEB use "bulwarks" — fortified structures. ESV uses
+       "siegeworks" — the general military term. NET expands to include the
+       source material ("their timber"), making the connection to cut trees
+       explicit. Non-fruit trees may be cut for this military purpose.
 
 GLOSSARY
 ------------------------------------

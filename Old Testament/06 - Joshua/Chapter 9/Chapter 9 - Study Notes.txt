@@ -160,46 +160,63 @@ Charles Spurgeon:
   bent the knee and asked the Almighty. How many treaties have we made
   with the world because we examined the evidence but forgot to pray?
   The eye deceives; the ear misleads; but God never lies."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.4  — KJV: "They did work wilily" / ESV: "they on their part acted with
-       cunning" — Hebrew "gam hemmah asu b'ormah." "Ormah" = craftiness,
-       cunning, shrewdness. The same word used positively of wisdom in
-       Proverbs (1:4; 8:5) but here used negatively — deceptive cunning.
-       The Gibeonites were shrewd, not wise.
+v.4  — Hebrew "gam hemmah asu b'ormah" — "ormah" = craftiness, cunning, shrewdness; Hebrew "va-yitstayyaru" — debated: from "tsir" (ambassador) or "tsedah" (provisions).
+       KJV: "They did work wilily... made as if they had been ambassadors"
+       ESV: "they on their part acted with cunning... made ready provisions"
+       ASV: "they also did work wilily"
+       NET: "they did something clever"
+       WEB: "they also resorted to a ruse"
+       Analysis: "Ormah" is used positively of wisdom in Proverbs (1:4; 8:5) but here negatively — deceptive cunning. The Gibeonites were shrewd, not wise. The debated word "va-yitstayyaru" yields different meanings: KJV derives from "tsir" (ambassador/envoy); ESV from "tsedah" (provisions). NET/WEB avoid the ambiguity with general language. The Hebrew context supports either reading.
 
-v.4  — KJV: "made as if they had been ambassadors" / ESV: "made ready
-       provisions" — Hebrew "va-yitstayyaru." This word is debated. KJV
-       derives it from "tsir" (ambassador/envoy); ESV from "tsedah"
-       (provisions). The Hebrew is ambiguous. The context supports either
-       reading — they either pretended to be ambassadors or prepared
-       provisions for their ruse.
+v.8  — Hebrew "avadekha" — your servants; a diplomatic formula expressing submission.
+       KJV: "We are thy servants"
+       ESV: "We are your servants"
+       ASV: "We are thy servants"
+       NET: "We are willing to be your subjects"
+       WEB: "We are your servants"
+       Analysis: NET interprets "avadekha" (your servants) as "willing to be your subjects," adding political nuance not in the Hebrew. KJV/ASV/ESV/WEB preserve the simple declaration of servitude, which is both a diplomatic formula and a genuine expression of submission.
 
-v.14 — KJV: "asked not counsel at the mouth of the LORD" / ESV: "did not
-       ask counsel from the LORD" — Hebrew "v'et pi Adonai lo sha'alu."
-       Literally "the mouth of the LORD they did not ask." "Pi" = mouth.
-       This likely refers to inquiring through the Urim and Thummim
-       (Numbers 27:21) or through direct prayer. The "mouth of the LORD"
-       is the source of divine guidance they neglected.
+v.9  — Hebrew "shem" — name; representing God's character, authority, and presence.
+       KJV: "because of the name of the LORD thy God"
+       ESV: "because of the name of the LORD your God"
+       ASV: "because of the name of Jehovah thy God"
+       NET: "because of the reputation of the Lord your God"
+       WEB: "because of the name of Yahweh your God"
+       Analysis: NET renders "shem" (name) as "reputation," which captures one aspect but loses the Hebrew theology of "the Name" (ha-Shem) as representing God's character, authority, and presence — not merely reputation but identity.
 
-v.15 — KJV: "made a league with them" / ESV: "made a covenant with them"
-       — Hebrew "va-yikhrot lahem b'rit." "Karat b'rit" = to cut a
-       covenant. The formal covenant-making language — this was a binding,
-       solemn agreement, not a casual promise. Once cut, it could not be
-       undone.
+v.14 — Hebrew "v'et pi Adonai lo sha'alu" — literally "the mouth of the LORD they did not ask."
+       KJV: "asked not counsel at the mouth of the LORD"
+       ESV: "did not ask counsel from the LORD"
+       ASV: "asked not counsel at the mouth of Jehovah"
+       NET: "they failed to ask the Lord's advice"
+       WEB: "didn't ask counsel from Yahweh's mouth"
+       Analysis: NET's "failed to ask the Lord's advice" is mild. KJV/ASV/WEB's "at the mouth of" preserves the Hebrew "peh" (mouth), implying direct, verbal, revelatory communication — not just general "advice" but prophetic inquiry through the Urim and Thummim (Numbers 27:21) or direct prayer. This was Israel's critical failure.
 
-v.21 — KJV: "hewers of wood and drawers of water" / ESV: "cutters of
-       wood and drawers of water" — Hebrew "chot'vey etsim v'sho'avey
-       mayim." The lowest forms of manual labor — gathering fuel and
-       carrying water. These were tasks typically assigned to the lowest
-       social class or to slaves. Yet their service was "for the altar
-       of the LORD" (v.27) — menial work in sacred service.
+v.15 — Hebrew "va-yikhrot lahem b'rit" — "karat b'rit" = to cut a covenant. Formal covenant-making language.
+       KJV: "made peace with them, and made a league with them"
+       ESV: "made peace with them and made a covenant with them"
+       ASV: "made peace with them, and made a covenant with them"
+       NET: "made a peace treaty with them and agreed to let them live"
+       WEB: "made peace with them, and made a covenant with them"
+       Analysis: NET's "peace treaty" and KJV's "league" both render Hebrew "b'rit" (covenant), but ESV/ASV/WEB's "covenant" better captures the binding, sacred nature of the agreement. Once cut, it could not be undone — breaking it brought divine wrath (cf. 2 Samuel 21:1-2).
 
-v.23 — KJV: "there shall none of you be freed from being bondmen" / ESV:
-       "some of you shall never be anything but servants" — Hebrew "v'lo
-       yikkaret mikkem eved." Literally "a servant shall not be cut off
-       from you" — there will always be servants among you. The curse is
-       perpetual servitude, not individual slavery.
+v.21 — Hebrew "chot'vey etsim v'sho'avey mayim" — the lowest forms of manual labor.
+       KJV: "hewers of wood and drawers of water"
+       ESV: "cutters of wood and drawers of water"
+       ASV: "hewers of wood and drawers of water"
+       NET: "woodcutters and water carriers"
+       WEB: "wood cutters and drawers of water"
+       Analysis: All translations convey the essential meaning. These were tasks typically assigned to the lowest social class. KJV/ASV "hewers" is archaic but dignified. NET "woodcutters and water carriers" is plainest. Yet their service was "for the altar of the LORD" (v.27) — menial work in sacred service.
+
+v.23 — Hebrew "arar" — to curse; "v'lo yikkaret mikkem eved" — a servant shall not be cut off from you.
+       KJV: "ye are cursed, and there shall none of you be freed from being bondmen"
+       ESV: "some of you shall never be anything but servants"
+       ASV: "Now therefore ye are cursed"
+       NET: "Now you are condemned to perpetual servitude"
+       WEB: "Now therefore you are cursed"
+       Analysis: NET softens "cursed" (Hebrew "arar") to "condemned to servitude." KJV/ASV/WEB preserve the stronger "cursed," connecting to the covenant curses of Deuteronomy. ESV interprets without using "cursed." The curse is perpetual servitude — there will always be servants among them. Yet this "curse" placed them in proximity to God's altar, a paradoxical blessing.
 
 GLOSSARY
 ------------------------------------
@@ -233,15 +250,6 @@ Mouth of the LORD — Hebrew "pi Adonai." God's spoken guidance, accessed
                through prayer, the Urim and Thummim, or prophetic word.
                Israel's failure was not consulting this source before
                making their decision.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.8 — NET: "We are willing to be your subjects" / KJV: "We are thy servants" / ASV: "We are thy servants" / WEB: "We are your servants" — NET interprets "avadekha" (your servants) as "willing to be your subjects," adding political nuance. KJV/ASV/WEB preserve the simple declaration of servitude, which is both a diplomatic formula and an expression of submission.
-- v.9 — ASV: "because of the name of Jehovah thy God" / WEB: "because of the name of Yahweh your God" / NET: "because of the reputation of the Lord your God" — NET renders "shem" (name) as "reputation," which captures one aspect but loses the Hebrew theology of "the Name" (ha-Shem) as representing God's character, authority, and presence.
-- v.14 — ASV: "asked not counsel at the mouth of Jehovah" / WEB: "didn't ask counsel from Yahweh's mouth" / NET: "they failed to ask the Lord's advice" / KJV: "asked not counsel at the mouth of the LORD" — NET's "failed to ask the Lord's advice" is mild; KJV/ASV/WEB's "at the mouth of" preserves the Hebrew "peh" (mouth), implying direct, verbal, revelatory communication — not just general "advice" but prophetic inquiry.
-- v.15 — NET: "Joshua made a peace treaty with them and agreed to let them live" / KJV: "Joshua made peace with them, and made a league with them" / ASV: "Joshua made peace with them, and made a covenant with them" — NET's "peace treaty" and KJV's "league" both render Hebrew "b'rit" (covenant), but "covenant" (ASV/WEB) better captures the binding, sacred nature of the agreement — broken at Israel's peril (2 Samuel 21:1-6).
-- v.23 — NET: "Now you are condemned to perpetual servitude as woodcutters and water carriers for the house of my God" / KJV: "ye are cursed, and there shall none of you be freed from being bondmen" / ASV: "Now therefore ye are cursed" / WEB: "Now therefore you are cursed" — NET softens "cursed" (Hebrew "arar") to "condemned to servitude." KJV/ASV/WEB preserve the stronger "cursed," connecting to the covenant curses of Deuteronomy.
-- v.24 — NET: "we were terrified we would lose our lives" / KJV: "we were sore afraid for our lives because of you" / ASV: "we were sore afraid for our lives because of you" / WEB: "we were very afraid for our lives" — NET's "terrified" is stronger than "sore afraid" but both capture the sense. The key difference is NET's omission of the theological context: the Gibeonites feared because of God's command to Moses (cherem — total destruction), not merely human military threat.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

@@ -148,34 +148,92 @@ Charles Spurgeon:
   yet when they repented, His heart could not bear their suffering. This
   is our God: just enough to punish, tender enough to grieve, gracious
   enough to deliver. His anger is momentary; His compassion is eternal."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "arose to defend Israel" / ESV: "arose to save Israel" —
-       Hebrew "vayaqam l'hoshia et-Yisrael." "Hoshia" (Hiphil of
-       "yasha") = to save, deliver. KJV's "defend" is interpretive;
-       ESV's "save" is more literal. The same root gives us "Joshua"
-       and "Jesus" (Yeshua = salvation).
+v.1  — Hebrew "vayyaqom l'hoshia et-Yisrael" — arose to save Israel.
+       KJV: "there arose to defend Israel Tola"
+       ESV: "there arose to save Israel Tola"
+       ASV: "there arose to save Israel Tola"
+       NET: "Tola...rose up to deliver Israel"
+       WEB: "Tola...arose to save Israel"
+       Analysis: "Hoshia" (Hiphil of "yasha") = to save, deliver. KJV's
+       "defend" is interpretive; ESV/ASV/WEB's "save" is more literal.
+       NET uses "deliver." The same root gives us "Joshua" and "Jesus"
+       (Yeshua = salvation). Even these minor judges are "saviors" —
+       types of the ultimate Savior.
 
-v.4  — KJV: "thirty ass colts" / ESV: "thirty donkeys" — Hebrew
-       "sh'loshim ayarim." "Ayir" = young male donkey. Riding donkeys
-       indicated status and authority (cf. Judges 5:10; 12:14). Thirty
-       sons on thirty donkeys with thirty cities = significant wealth
-       and regional power.
+v.4  — Hebrew "sh'loshim ayarim" — thirty young donkeys.
+       KJV: "he had thirty sons that rode on thirty ass colts"
+       ESV: "he had thirty sons who rode on thirty donkeys"
+       ASV: "he had thirty sons that rode on thirty ass colts"
+       NET: "He had thirty sons who rode on thirty donkeys"
+       WEB: "He had thirty sons who rode on thirty donkey colts"
+       Analysis: "Ayir" = young male donkey. Riding donkeys indicated
+       status and authority (cf. Judges 5:10; 12:14). Thirty sons on
+       thirty donkeys with thirty cities = significant wealth and
+       regional power.
 
-v.13 — KJV: "I will deliver you no more" / ESV: "I will save you no
-       more" — Hebrew "lo osif l'hoshia etchem." The emphatic negative
-       + "hoshia" (save). This is not God's final word (He does deliver
-       through Jephthah) but a statement of what they deserve — and a
-       test of whether their repentance is genuine.
+v.6  — Hebrew "va'ya'azvu et-Adonai v'lo avadhuhu" — they forsook the
+       LORD and did not serve him.
+       KJV: "forsook the LORD, and served not him"
+       ESV: "forsook the LORD and did not serve him"
+       ASV: "forsook Jehovah, and served not him"
+       NET: "They abandoned the Lord and did not worship him"
+       WEB: "forsook Yahweh, and didn't serve him"
+       Analysis: The most extensive catalogue of idolatry in Judges: seven
+       nations' gods. NET uses "Ashtoreths" (English plural) vs. ASV's
+       "Ashtaroth" (Hebrew plural). The sheer accumulation of deities
+       makes the abandonment total. NET uses "worship" for "avad" (which
+       can mean serve/worship); others retain "serve."
 
-v.16 — KJV: "his soul was grieved for the misery of Israel" / ESV: "he
-       became impatient over the misery of Israel" — Hebrew "vatiqtsar
-       nafsho ba'amal Yisrael." "Qatsar" = to be short, impatient,
-       grieved. "Nephesh" = soul/self. "Amal" = misery, toil, trouble.
-       KJV's "grieved" emphasizes compassion; ESV's "impatient"
-       emphasizes God's inability to endure their suffering any longer.
-       Both capture aspects of the Hebrew: God could no longer bear to
-       watch their misery.
+v.7  — Hebrew "vayyimk'rem" — he sold them.
+       KJV: "he sold them into the hands of the Philistines"
+       ESV: "he sold them into the hand of the Philistines"
+       ASV: "he sold them into the hand of the Philistines"
+       NET: "he turned them over to the Philistines and Ammonites"
+       WEB: "he sold them into the hand of the Philistines"
+       Analysis: NET avoids the "sold" metaphor consistently. The selling
+       language portrays Israel as God's possession transferred to foreign
+       masters — a slave-sale metaphor that NET softens throughout Judges.
+
+v.13 — Hebrew "lo osif l'hoshia etchem" — I will not continue to save
+       you.
+       KJV: "I will deliver you no more"
+       ESV: "I will save you no more"
+       ASV: "I will save you no more"
+       NET: "I will not deliver you again"
+       WEB: "I will save you no more"
+       Analysis: The emphatic negative + "hoshia" (save). This is not
+       God's final word (He does deliver through Jephthah) but a
+       statement of what they deserve — and a test of whether their
+       repentance is genuine.
+
+v.14 — Hebrew "l'khu v'zi'aqu el-ha-elohim asher b'chartem bahem" —
+       go and cry to the gods you have chosen.
+       KJV: "Go and cry unto the gods which ye have chosen; let them deliver you"
+       ESV: "Go and cry out to the gods whom you have chosen; let them save you"
+       ASV: "Go and cry unto the gods which ye have chosen; let them save you"
+       NET: "Go and cry for help to the gods you have chosen! Let them deliver you from trouble!"
+       WEB: "Go and cry to the gods which you have chosen. Let them save you"
+       Analysis: NET adds "from trouble" (not in Hebrew) and uses "cry
+       for help" rather than simple "cry to." God's sharp sarcasm is
+       preserved across all — this is one of the most devastating divine
+       speeches in Judges.
+
+v.16 — Hebrew "vatiqtsar nafsho ba'amal Yisrael" — his soul was
+       shortened/grieved by the misery of Israel.
+       KJV: "his soul was grieved for the misery of Israel"
+       ESV: "he became impatient over the misery of Israel"
+       ASV: "his soul was grieved for the misery of Israel"
+       NET: "Finally the Lord grew tired of seeing Israel suffer so much"
+       WEB: "his soul was grieved for the misery of Israel"
+       Analysis: "Qatsar" = to be short, impatient, grieved. "Nephesh" =
+       soul/self. "Amal" = misery, toil, trouble. KJV/ASV/WEB's "grieved"
+       emphasizes compassion; ESV's "impatient" emphasizes God's inability
+       to endure their suffering longer. NET paraphrases as "grew tired of
+       seeing Israel suffer." The Hebrew is ambiguous — it could mean God
+       was grieved BY their misery or impatient WITH their misery. Both
+       capture aspects: God could no longer bear to watch.
 
 GLOSSARY
 ------------------------------------
@@ -205,20 +263,6 @@ Mizpah         — "Watchtower." A gathering place in Gilead where Israel
                assembled for war against Ammon. Not to be confused with
                Mizpah of Benjamin (Judges 20:1) or other locations of
                the same name.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "there arose to save Israel Tola" / WEB: "Tola...arose to save Israel" / NET: "Tola...rose up to deliver Israel" — Hebrew "vayyaqom l'hoshia et-Yisrael" = arose to save/deliver Israel. WEB uses "save"; NET uses "deliver." The verb "hoshia" (save) is the same root as "Yeshua/Jesus." Even these minor judges are "saviors" — types of the ultimate Savior.
-
-- v.2 — ASV: "he judged Israel twenty and three years" / WEB: "He judged Israel twenty-three years" / NET: "He led Israel for 23 years" — NET again renders "shophat" (judged) as "led" rather than "judged," consistent with its pattern of avoiding the traditional "judge" terminology throughout the book.
-
-- v.7 — ASV: "he sold them into the hand of the Philistines" / WEB: "he sold them into the hand of the Philistines" / NET: "turned them over to the Philistines and Ammonites" — NET avoids the "sold" metaphor (Hebrew "vayyimk'rem") consistently. The selling language portrays Israel as God's possession transferred to foreign masters — a slave-sale metaphor that NET softens throughout.
-
-- v.14 — ASV: "Go and cry unto the gods which ye have chosen; let them save you" / WEB: "Go and cry to the gods which you have chosen. Let them save you" / NET: "Go and cry for help to the gods you have chosen! Let them deliver you from trouble!" — NET adds "from trouble" (not in Hebrew) and uses "cry for help" rather than simple "cry to." God's sharp sarcasm is preserved across all versions — this is one of the most devastating divine speeches in Judges.
-
-- v.16 — ASV: "his soul was grieved for the misery of Israel" / WEB: "his soul was grieved for the misery of Israel" / NET: "Finally the Lord grew tired of seeing Israel suffer so much" — Hebrew "vatiqtsar nafsho ba'amal Yisrael" = "his soul was shortened/impatient with the misery of Israel." ASV/WEB retain "grieved"; NET paraphrases as "grew tired of seeing Israel suffer." The Hebrew is actually ambiguous — it could mean God was grieved BY their misery or impatient WITH their misery. NET chooses compassion; the text allows either reading.
-
-- v.6 — ASV: "served the Baalim, and the Ashtaroth, and the gods of Syria, and the gods of Sidon..." / WEB: "served the Baals, the Ashtaroth, the gods of Syria..." / NET: "They worshiped the Baals and the Ashtoreths, as well as the gods of Syria, Sidon, Moab..." — This verse lists seven categories of foreign gods — the most comprehensive catalog of Israel's idolatry in Judges. NET uses "Ashtoreths" (English plural) vs. ASV's "Ashtaroth" (Hebrew plural). The sheer accumulation of deities makes the abandonment of Yahweh/Jehovah devastating.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

@@ -208,52 +208,125 @@ Charles Spurgeon:
   guarantee success. Right doctrine with wrong hearts still falls before
   the enemy. Only when they wept, fasted, and offered sacrifice — only
   when they were broken — did God say, 'Tomorrow I will deliver them.'"
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "from Dan even to Beer-sheba" / ESV: "from Dan to
-       Beersheba" — Hebrew "mi-Dan v'ad Be'er-sheva." A merism (figure
-       of speech using two extremes to mean "everything between") for
-       the entire nation. Dan is the northernmost city; Beer-sheba the
-       southernmost. This phrase becomes standard for "all Israel"
-       (1 Samuel 3:20; 2 Samuel 3:10; 1 Kings 4:25).
+v.1  — Hebrew "mi-Dan v'ad Be'er-sheva" — from Dan to Beer-sheba.
+       KJV: "from Dan even to Beer-sheba"
+       ESV: "from Dan to Beersheba"
+       ASV: "from Dan even to Beer-sheba"
+       NET: "from Dan to Beer Sheba"
+       WEB: "from Dan even to Beersheba"
+       Analysis: A merism (figure of speech using two extremes to mean
+       "everything between") for the entire nation. Dan is the
+       northernmost city; Beer-sheba the southernmost. This phrase becomes
+       standard for "all Israel" (1 Samuel 3:20; 2 Samuel 3:10; 1 Kings
+       4:25). The assembly "unto Jehovah/before the Lord" indicates this
+       is both a military mustering and a sacred assembly — a holy
+       convocation for corporate judgment.
 
-v.2  — KJV: "the chief of all the people" / ESV: "the chiefs of all the
-       people" — Hebrew "pinnot kol-ha'am." "Pinnot" = corners,
-       cornerstones. Metaphorically: the chief men, the "cornerstones"
-       of the people — those who hold the community together. The image
-       is architectural: leaders as the structural supports of society.
+v.2  — Hebrew "pinnot kol-ha'am" — corners/cornerstones of all the people.
+       KJV: "the chief of all the people"
+       ESV: "the chiefs of all the people"
+       ASV: "the chiefs of all the people"
+       NET: "the leaders of all the people"
+       WEB: "the chiefs of all the people"
+       Analysis: "Pinnot" = corners, cornerstones. Metaphorically: the
+       chief men, the "cornerstones" of the people — those who hold the
+       community together. The image is architectural: leaders as the
+       structural supports of society. NET's "leaders" is functional;
+       KJV/ESV/ASV/WEB preserve the traditional rendering "chiefs."
 
-v.16 — KJV: "could sling stones at an hair breadth, and not miss" /
-       ESV: "could sling a stone at a hair and not miss" — Hebrew
-       "el-hassa'arah v'lo yachati." "Sa'arah" = a hair. "Chata" = to
-       miss (the same root as "sin" — chata'ah — which literally means
-       "missing the mark"). These slingers never "sinned" — never missed
-       their target. The wordplay is intentional: Benjamin's warriors
-       never miss with stones, yet the tribe has catastrophically missed
-       the moral mark.
+v.13 — Hebrew "b'ney hab'liyya'al" — sons of Belial/worthlessness.
+       KJV: "the children of Belial"
+       ESV: "the worthless fellows"
+       ASV: "deliver up the men, the base fellows"
+       NET: "hand over the good-for-nothings"
+       WEB: "deliver up the men, the wicked fellows"
+       Analysis: Same term as 19:22. NET's "good-for-nothings" again
+       trivializes violent rapists and murderers. The demand is for
+       extradition — a lawful request under Israel's covenant code
+       (Deuteronomy 13:12-15 prescribes this procedure for wicked
+       cities). WEB's "wicked fellows" best captures the severity.
 
-v.26 — KJV: "went up, and came unto the house of God" / ESV: "went up
-       and came to Bethel" — Hebrew "vaya'alu Beit-El." "Beit-El" can
-       mean "house of God" (a description of any worship site) or
-       "Bethel" (the specific city). KJV translates it descriptively;
-       ESV treats it as a proper noun. Both are linguistically valid.
-       The Ark's presence (v.27) suggests this is the actual location
-       of the tabernacle or a legitimate worship site.
+v.16 — Hebrew "el-hassa'arah v'lo yachati" — at a hair and not miss.
+       KJV: "could sling stones at an hair breadth, and not miss"
+       ESV: "could sling a stone at a hair and not miss"
+       ASV: "every one could sling stones at a hair-breadth, and not miss"
+       NET: "Each one could sling a stone and hit even the smallest target"
+       WEB: "every one could sling stones at a hair's breadth, and not miss"
+       Analysis: "Sa'arah" = a hair. "Chata" = to miss (the same root as
+       "sin" — chata'ah — which literally means "missing the mark").
+       These slingers never "sinned" — never missed their target. The
+       wordplay is intentional: Benjamin's warriors never miss with
+       stones, yet the tribe has catastrophically missed the moral mark.
+       NET loses the hair imagery but communicates the precision. Benjamin
+       ("son of the right hand") produces famous left-handed warriors
+       (cf. 3:15, Ehud).
 
-v.33 — KJV: "out of the meadows of Gibeah" / ESV: "from Maareh-geba" —
-       Hebrew "mimma'areh-gava." KJV reads this as "from the meadow/
-       open place of Gibeah." ESV transliterates it as a place name
-       "Maareh-geba." The Hebrew is uncertain — "ma'areh" could derive
-       from "arah" (to be bare/open) or be a proper noun. The location
-       is the staging area for the ambush force.
+v.26 — Hebrew "vaya'alu Beit-El" — they went up to Bethel/house of God.
+       KJV: "went up, and came unto the house of God"
+       ESV: "went up and came to Bethel"
+       ASV: "they offered burnt-offerings and peace-offerings before Jehovah"
+       NET: "They offered up burnt sacrifices and tokens of peace to the Lord"
+       WEB: "went up and came to Bethel"
+       Analysis: "Beit-El" can mean "house of God" (a description of any
+       worship site) or "Bethel" (the specific city). KJV translates it
+       descriptively; ESV treats it as a proper noun. Both are
+       linguistically valid. The Ark's presence (v.27) suggests this is
+       the actual location of the tabernacle or a legitimate worship site.
+       NET renders "sh'lamim" as "tokens of peace" rather than "peace
+       offerings" — a less technical but more explanatory rendering.
 
-v.43 — KJV: "trode them down with ease over against Gibeah toward the
-       sunrising" / ESV: "trod them down from Nohah as far as opposite
-       Gibeah on the east" — Hebrew "hiddrikhuhu m'nuchah ad-nekhach
-       hagiv'ah." KJV reads "m'nuchah" as "with ease/rest" (from
-       "menucha"). ESV reads it as "from Nohah" (a place name, cf.
-       1 Chronicles 8:2). The textual difficulty affects whether this
-       describes the manner of pursuit or its geographic path.
+v.28 — Hebrew "Pinh'as ben-El'azar ben-Aharon omed l'fanav" — Phinehas stood before it.
+       KJV: "Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days"
+       ESV: "Phinehas the son of Eleazar, son of Aaron, ministered before it in those days"
+       ASV: "Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days"
+       NET: "Phinehas son of Eleazar, son of Aaron, was serving the Lord in those days"
+       WEB: "Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days"
+       Analysis: This genealogical note places the events within two
+       generations of Aaron — making this very early in the Judges period.
+       It provides crucial chronological anchoring for the otherwise
+       undated appendix chapters (17-21). NET's "serving the Lord" is
+       interpretive; the Hebrew "stood before it" refers to standing
+       before the Ark in priestly service.
+
+v.33 — Hebrew "mimma'areh-gava" — from the meadow/bare place of Gibeah.
+       KJV: "out of the meadows of Gibeah"
+       ESV: "from Maareh-geba"
+       ASV: "out of their place, even out of Maareh-geba"
+       NET: "from their hiding place in Maareh Geba"
+       WEB: "out of Maareh Geba"
+       Analysis: KJV reads this as "from the meadow/open place of Gibeah."
+       ESV/ASV/WEB transliterate it as a place name "Maareh-geba." The
+       Hebrew is uncertain — "ma'areh" could derive from "arah" (to be
+       bare/open) or be a proper noun. NET adds "hiding place" as
+       interpretation. The location is the staging area for the ambush
+       force.
+
+v.35 — Hebrew "vayyigof Adonai et-Binyamin" — the LORD struck Benjamin.
+       KJV: "the LORD smote Benjamin before Israel"
+       ESV: "the LORD defeated Benjamin before Israel"
+       ASV: "Jehovah smote Benjamin before Israel"
+       NET: "The Lord annihilated Benjamin before Israel"
+       WEB: "Yahweh struck Benjamin before Israel"
+       Analysis: NET's "annihilated" is much stronger than the Hebrew
+       "vayyigof" (struck/defeated). While the destruction was nearly
+       total (25,100 killed), 600 survived — making "annihilated" an
+       overstatement. ASV/WEB's "smote/struck" is more accurate. God
+       Himself is the agent of Benjamin's defeat — the victory belongs
+       to the LORD, not to Israel's superior numbers.
+
+v.43 — Hebrew "hiddrikhuhu m'nuchah ad-nekhach hagiv'ah" — they trod them down with ease/from Nohah.
+       KJV: "trode them down with ease over against Gibeah toward the sunrising"
+       ESV: "trod them down from Nohah as far as opposite Gibeah on the east"
+       ASV: "they enclosed the Benjaminites round about, and chased them, and trod them down at their resting-place"
+       NET: "They surrounded the Benjaminites, chased them, and overtook them"
+       WEB: "They enclosed the Benjaminites around, chased them, and trod them down from Nohah as far as near Gibeah"
+       Analysis: KJV reads "m'nuchah" as "with ease/rest" (from "menucha").
+       ESV/WEB read it as "from Nohah" (a place name, cf. 1 Chronicles
+       8:2). The textual difficulty affects whether this describes the
+       manner of pursuit (with ease) or its geographic path (from Nohah).
+       NET simplifies the difficult Hebrew into clear narrative action.
 
 GLOSSARY
 ------------------------------------
@@ -293,20 +366,6 @@ Sons of Belial — See Judges 19 glossary. Hebrew "b'nei v'liyya'al."
                The worthless, wicked men of Gibeah whose crime triggered
                the entire civil war. Benjamin's refusal to surrender
                them made the entire tribe complicit in their guilt.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "the congregation was assembled as one man, from Dan even to Beer-sheba...unto Jehovah at Mizpah" / NET: "All the Israelites from Dan to Beer Sheba...assembled together before the Lord at Mizpah" — "From Dan to Beer-sheba" is the standard expression for all Israel (north to south). The assembly "unto Jehovah/before the Lord" indicates this is both a military mustering and a sacred assembly — a holy convocation for corporate judgment.
-
-- v.13 — ASV: "deliver up the men, the base fellows" / NET: "hand over the good-for-nothings" / WEB: "deliver up the men, the wicked fellows" — Hebrew "b'ney hab'liyya'al" = sons of Belial/worthlessness (same term as 19:22). NET's "good-for-nothings" again trivializes violent rapists and murderers. The demand is for extradition — a lawful request under Israel's covenant code (Deuteronomy 13:12-15 prescribes this procedure for wicked cities).
-
-- v.16 — ASV: "seven hundred chosen men lefthanded; every one could sling stones at a hair-breadth, and not miss" / NET: "700 specially trained left-handed soldiers. Each one could sling a stone and hit even the smallest target" — Hebrew "el-hasa'arah v'lo yachati" = at a hair and not miss. Benjamin ("son of the right hand") again produces famous left-handed warriors (cf. 3:15, Ehud). The precision marksmanship detail emphasizes why Israel suffered such devastating losses initially.
-
-- v.26 — ASV: "they offered burnt-offerings and peace-offerings before Jehovah" / NET: "They offered up burnt sacrifices and tokens of peace to the Lord" — NET renders "sh'lamim" as "tokens of peace" rather than "peace offerings" — a less technical but more explanatory rendering. The peace offerings (communion sacrifices) expressed desire for restored fellowship with God after their devastating defeats.
-
-- v.28 — ASV: "Phinehas, the son of Eleazar, the son of Aaron, stood before it in those days" / NET: "Phinehas son of Eleazar, son of Aaron, was serving the Lord in those days" — This genealogical note places the events within two generations of Aaron — making this very early in the Judges period. It provides crucial chronological anchoring for the otherwise undated appendix chapters (17-21).
-
-- v.35 — ASV: "Jehovah smote Benjamin before Israel" / WEB: "Yahweh struck Benjamin before Israel" / NET: "The Lord annihilated Benjamin before Israel" — NET's "annihilated" is much stronger than the Hebrew "vayyigof" (struck/defeated). While the destruction was nearly total (25,100 killed), 600 survived — making "annihilated" an overstatement. ASV/WEB's "smote/struck" is more accurate.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

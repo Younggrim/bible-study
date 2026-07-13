@@ -173,51 +173,93 @@ Charles Spurgeon:
   picture of the curse that would one day fall upon the Son of God — for
   us, in our place, bearing what we deserved."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3  — KJV: "which hath not been wrought with" / ESV: "that has never
-       been worked" — Hebrew "asher lo ubbad bah." The heifer must be
-       unused — never yoked for labor. Like the red heifer of Numbers 19:2,
-       it must be unblemished and unworked. This symbolizes purity and
-       dedication solely to this sacred purpose.
+v.3  — Hebrew "asher lo ubbad bah" — which has not been worked with.
+       KJV: "which hath not been wrought with"
+       ESV: "that has never been worked"
+       ASV: "which hath not been wrought with"
+       NET: "one that has not been worked"
+       WEB: "which has not been worked with"
+       Analysis: The heifer must be unused — never yoked for labor. Like
+       the red heifer of Numbers 19:2, it must be unblemished and unworked.
+       KJV/ASV retain formal "wrought with." ESV/NET/WEB modernize to
+       "worked." All convey the same meaning: purity and dedication solely
+       to this sacred purpose.
 
-v.4  — KJV: "a rough valley, which is neither eared nor sown" / ESV: "a
-       valley with running water, which is neither plowed nor sown" —
-       Hebrew "nachal eitan asher lo ye'aved bo v'lo yizzare'a." "Nachal
-       eitan" = a perennial stream/wadi. KJV's "rough valley" follows one
-       interpretation; ESV's "valley with running water" follows another.
-       The location must be uncultivated — virgin ground for a sacred act.
+v.4  — Hebrew "nachal eitan asher lo ye'aved bo v'lo yizzare'a" — a perennial stream that is neither worked nor sown.
+       KJV: "a rough valley, which is neither eared nor sown"
+       ESV: "a valley with running water, which is neither plowed nor sown"
+       ASV: "a valley with running water, which is neither plowed nor sown"
+       NET: "a wadi with flowing water, which has been neither plowed nor sown"
+       WEB: "a valley with running water, which is neither plowed nor sown"
+       Analysis: "Nachal eitan" = a perennial stream/wadi. KJV's "rough
+       valley" follows one interpretation; ESV/ASV/WEB follow another with
+       "running water." NET uses the geographic term "wadi" — most precise
+       for the terrain. KJV's "eared" is archaic for "plowed." The location
+       must be uncultivated — virgin ground for a sacred act.
 
-v.4  — KJV: "strike off the heifer's neck" / ESV: "break the heifer's
-       neck" — Hebrew "v'ar'fu sham et ha-eglah." "Araf" = to break the
-       neck. This is not a sacrifice (no altar, no blood manipulation) but
-       a symbolic act of atonement — the heifer's death substitutes for
-       the unknown murderer's punishment.
+v.4  — Hebrew "v'ar'fu sham et ha-eglah" — and they shall break the neck of the heifer there.
+       KJV: "strike off the heifer's neck"
+       ESV: "break the heifer's neck"
+       ASV: "break the heifer's neck"
+       NET: "break the heifer's neck"
+       WEB: "break the heifer's neck"
+       Analysis: "Araf" = to break the neck. KJV uses "strike off" —
+       implying decapitation. ESV/ASV/NET/WEB all use "break" — more
+       accurately describing the action. This is not a sacrifice (no altar,
+       no blood manipulation) but a symbolic act of atonement — the
+       heifer's death substitutes for the unknown murderer's punishment.
 
-v.8  — KJV: "Be merciful, O LORD" / ESV: "Accept atonement, O LORD" —
-       Hebrew "kapper l'amm'kha Yisra'el." "Kapper" = to atone, cover,
-       make propitiation. ESV is more literal: "make atonement for your
-       people." KJV interprets the result: mercy. The prayer asks God to
-       accept the heifer ceremony as sufficient atonement.
+v.8  — Hebrew "kapper l'amm'kha Yisra'el" — make atonement for your people Israel.
+       KJV: "Be merciful, O LORD"
+       ESV: "Accept atonement, O LORD"
+       ASV: "Forgive, O Jehovah"
+       NET: "Do not charge your people Israel with the guilt of shedding innocent blood"
+       WEB: "Forgive, Yahweh"
+       Analysis: "Kapper" = to atone, cover, make propitiation. ESV is most
+       literal: asking God to accept atonement. KJV interprets the result:
+       mercy. ASV/WEB interpret as forgiveness, using "Jehovah" and "Yahweh"
+       respectively. NET uniquely paraphrases the entire prayer, making the
+       specific request explicit. The prayer asks God to accept the heifer
+       ceremony as sufficient atonement.
 
-v.14 — KJV: "thou shalt not make merchandise of her" / ESV: "you shall
-       not treat her as a slave" — Hebrew "lo tit'ammer bah." "Amar" =
-       to deal tyrannically, treat as merchandise. KJV focuses on the
-       commercial aspect (selling); ESV focuses on the treatment aspect
-       (enslaving). Both are forbidden.
+v.14 — Hebrew "lo tit'ammer bah" — you shall not deal tyrannically with her.
+       KJV: "thou shalt not make merchandise of her"
+       ESV: "you shall not treat her as a slave"
+       ASV: "thou shalt not deal with her as a slave"
+       NET: "you must not treat her as a slave"
+       WEB: "you shall not deal with her as a slave"
+       Analysis: "Amar" = to deal tyrannically, treat as merchandise.
+       KJV alone focuses on the commercial aspect (selling/merchandising).
+       ESV/ASV/NET/WEB all focus on treatment (enslaving). Both aspects are
+       forbidden — she cannot be sold or treated as property.
 
-v.17 — KJV: "he is the beginning of his strength" / ESV: "he is the
-       firstfruits of his strength" — Hebrew "ki hu reshit ono." "Reshit"
-       = beginning, firstfruits. "On" = vigor, strength (procreative
-       power). The firstborn represents the father's first expression of
-       generative power — and therefore has the primary inheritance right.
+v.17 — Hebrew "ki hu reshit ono" — for he is the beginning/firstfruits of his strength.
+       KJV: "he is the beginning of his strength"
+       ESV: "he is the firstfruits of his strength"
+       ASV: "he is the beginning of his strength"
+       NET: "he is the firstborn of his father's procreative power"
+       WEB: "he is the beginning of his strength"
+       Analysis: "Reshit" = beginning, firstfruits. "On" = vigor, strength
+       (procreative power). KJV/ASV/WEB use "beginning of his strength."
+       ESV uses "firstfruits" — connecting to offering language. NET is
+       most explicit, interpreting "strength" as "procreative power." The
+       firstborn represents the father's first expression of generative
+       power — and therefore has the primary inheritance right.
 
-v.23 — KJV: "he that is hanged is accursed of God" / ESV: "a hanged man
-       is cursed by God" — Hebrew "ki qil'lat Elohim talui." "Qil'lah" =
-       curse. "Talui" = one who is hung/suspended. The hanging itself
-       displays the divine curse. Paul's use in Galatians 3:13 applies
-       this to Christ on the cross — He bore God's curse against sin in
-       our place.
+v.23 — Hebrew "ki qil'lat Elohim talui" — for a curse of God is the one hung.
+       KJV: "he that is hanged is accursed of God"
+       ESV: "a hanged man is cursed by God"
+       ASV: "he that is hanged is accursed of God"
+       NET: "anyone who is hung on a tree is cursed by God"
+       WEB: "he who is hanged is accursed of God"
+       Analysis: "Qil'lah" = curse. "Talui" = one who is hung/suspended.
+       KJV/ASV/WEB use "accursed" — intensified form. ESV/NET use "cursed."
+       NET adds "on a tree," making the method explicit. The hanging itself
+       displays the divine curse. Paul's use in Galatians 3:13 applies this
+       to Christ on the cross — He bore God's curse against sin in our
+       place.
 
 GLOSSARY
 ------------------------------------

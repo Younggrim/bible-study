@@ -149,50 +149,71 @@ Charles Spurgeon:
   Israel must enlist under HIM. We do not recruit God to our side; we
   surrender to His. The question is never 'Is God with me?' but 'Am I
   with God?'"
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.1  — KJV: "until we were passed over" / ESV: "until they had crossed
-       over" — Hebrew "ad avr'nu." The first person "we" (KJV follows the
-       Hebrew Qere/Kethiv variant) suggests the author was present — an
-       eyewitness detail supporting Joshuanic authorship.
+v.1  — Hebrew "ad avr'nu" / "namass l'vavam" — their hearts melted; no spirit remained.
+       KJV: "their heart melted, neither was there spirit in them any more, because of the children of Israel"
+       ESV: "their hearts melted and there was no longer any spirit in them because of the people of Israel"
+       ASV: "their heart melted, neither was there spirit in them any more, because of the children of Israel"
+       NET: "they lost their courage and could not even breathe for fear of the Israelites"
+       WEB: "their heart melted, and there was no more spirit in them, because of the children of Israel"
+       Analysis: NET paraphrases dramatically ("could not even breathe"), while KJV/ASV/ESV/WEB preserve the Hebrew imagery of melting hearts and departed spirit (ruach). The literal rendering connects to the same "melting" language in 2:11. The divine name pattern continues: ASV "Jehovah," WEB "Yahweh," NET "the Lord," KJV "the LORD."
 
-v.2  — KJV: "Make thee sharp knives" / ESV: "Make flint knives" — Hebrew
-       "charvot tsurim." "Tsurim" = flints, rocks. Flint knives were the
-       traditional instrument for circumcision even after bronze was
-       available (cf. Exodus 4:25). The archaic tool connects this
-       circumcision to the ancient covenant with Abraham.
+v.2  — Hebrew "charvot tsurim" — "tsurim" = flints, rocks. Flint knives were traditional for circumcision.
+       KJV: "Make thee sharp knives"
+       ESV: "Make flint knives"
+       ASV: "Make thee knives of flint"
+       NET: "Make flint knives"
+       WEB: "Make flint knives"
+       Analysis: KJV translates "tsurim" generically as "sharp knives," losing the specific material (flint). ESV/ASV/NET/WEB all correctly identify "flint" — the archaic tool connecting this circumcision to the ancient covenant with Abraham. Flint was used even after bronze was available (cf. Exodus 4:25), emphasizing continuity with patriarchal practice.
 
-v.3  — KJV: "the hill of the foreskins" / ESV: "Gibeath-haaraloth" —
-       Hebrew "Giv'at ha-Aralot." ESV transliterates; KJV translates.
-       The name commemorates the mass circumcision — a graphic but
-       historically precise place name.
+v.3  — Hebrew "Giv'at ha-Aralot" — Hill of the Foreskins.
+       KJV: "the hill of the foreskins"
+       ESV: "Gibeath-haaraloth"
+       ASV: "Gibeath-haaraloth"
+       NET: "Gibeath Haaraloth"
+       WEB: "the hill of the foreskins"
+       Analysis: ESV/ASV/NET transliterate the Hebrew; KJV/WEB translate the meaning directly. Both approaches have value — transliteration preserves the place name; translation communicates the graphic but historically precise meaning of the name commemorating the mass circumcision.
 
-v.9  — KJV: "rolled away the reproach of Egypt" / ESV: "rolled away the
-       reproach of Egypt" — Hebrew "galloti et cherpat Mitsrayim."
-       "Galal" = to roll. "Gilgal" is a wordplay on "galloti" (I have
-       rolled). "Cherpah" = reproach, shame, disgrace. The exact nature
-       of "Egypt's reproach" is debated: (a) the shame of being
-       uncircumcised, (b) the stigma of slavery, (c) Egypt's taunt that
-       God brought them out to kill them (Exodus 32:12).
+v.9  — Hebrew "galloti et cherpat Mitsrayim" — "galal" = to roll; "cherpah" = reproach, shame, disgrace.
+       KJV: "This day have I rolled away the reproach of Egypt from off you"
+       ESV: "Today I have rolled away the reproach of Egypt from you"
+       ASV: "This day have I rolled away the reproach of Egypt from off you"
+       NET: "Today I have taken away the disgrace of Egypt from you"
+       WEB: "Today I have rolled away the reproach of Egypt from you"
+       Analysis: NET loses the wordplay: "rolled away" (galal) explains the name "Gilgal" (gilgal = rolling). KJV/ASV/ESV/WEB preserve this etymological connection; NET obscures it with "taken away." The exact nature of "Egypt's reproach" is debated: (a) shame of being uncircumcised, (b) stigma of slavery, (c) Egypt's taunt that God brought them out to kill them (Exodus 32:12).
 
-v.11 — KJV: "the old corn of the land" / ESV: "the produce of the land"
-       — Hebrew "me-avur ha-aretz." "Avur" = produce, yield, grain. KJV's
-       "old corn" is misleading to modern readers — it means stored grain
-       (produce already in the land), not aged corn. ESV's "produce" is
-       clearer.
+v.11 — Hebrew "me-avur ha-aretz" — "avur" = produce, yield, grain.
+       KJV: "the old corn of the land"
+       ESV: "the produce of the land"
+       ASV: "the produce of the land"
+       NET: "the produce of the land"
+       WEB: "the produce of the land"
+       Analysis: KJV's "old corn" is misleading to modern readers — it means stored grain (produce already in the land), not aged corn. ESV/ASV/NET/WEB all use "produce," which is clearer and more accurate. They ate unleavened cakes and parched grain — the first fruits of Canaan.
 
-v.14 — KJV: "captain of the host of the LORD" / ESV: "commander of the
-       army of the LORD" — Hebrew "sar ts'va Adonai." "Sar" = prince,
-       commander, chief. "Tsava" = army, host (both human and angelic).
-       This figure commands God's heavenly army. The fact that He accepts
-       worship (v.14) and makes ground holy (v.15) strongly suggests this
-       is a theophany — God Himself appearing in human form.
+v.14 — Hebrew "sar ts'va Adonai" — "sar" = prince, commander, chief; "tsava" = army, host.
+       KJV: "as captain of the host of the LORD am I now come"
+       ESV: "as commander of the army of the LORD I have now come"
+       ASV: "as prince of the host of Jehovah am I now come"
+       NET: "Truly I am the commander of the Lord's army. Now I have arrived!"
+       WEB: "I have come now as commander of Yahweh's army"
+       Analysis: Different titles: KJV "captain," ASV "prince," ESV/WEB/NET "commander" — all render Hebrew "sar" (chief, ruler, commander). NET adds "Truly" and "Now I have arrived!" for dramatic effect not present in the Hebrew. The figure commands God's heavenly army, accepts worship (v.14b), and makes ground holy (v.15) — strongly indicating a theophany/Christophany.
 
-v.15 — KJV: "Loose thy shoe from off thy foot" / ESV: "Take off your
-       sandals from your feet" — Hebrew "shal na'al'kha me'al raglekha."
-       Identical command to Exodus 3:5. The verbal parallel is deliberate:
-       as God appeared to Moses to commission him for the Exodus, so He
-       appears to Joshua to commission him for the conquest.
+v.14b — Hebrew "shachah" — to prostrate in worship.
+       KJV: "Joshua fell on his face to the earth, and did worship"
+       ESV: "Joshua fell on his face to the earth and worshiped"
+       ASV: "Joshua fell on his face to the earth, and did worship"
+       NET: "Joshua bowed down with his face to the ground and said to him"
+       WEB: "Joshua fell on his face to the earth, and worshiped"
+       Analysis: NET omits "worship" (Hebrew "shachah"), reducing the encounter to mere respect. KJV/ASV/ESV/WEB preserve "worship," which identifies the figure as divine — Joshua worships, and the figure accepts it. No angel would accept worship (cf. Revelation 22:8-9), confirming this as a divine appearance.
+
+v.15 — Hebrew "shal na'al'kha me'al raglekha" — identical command to Exodus 3:5.
+       KJV: "Loose thy shoe from off thy foot; for the place whereon thou standest is holy"
+       ESV: "Take off your sandals from your feet, for the place where you are standing is holy"
+       ASV: "Put off thy shoe from off thy foot; for the place whereon thou standest is holy"
+       NET: "Remove your sandals from your feet, because the place where you stand is holy"
+       WEB: "Take off your sandals from your feet; for the place on which you stand is holy"
+       Analysis: All translations agree on the substance. This verse parallels Exodus 3:5 (Moses at the burning bush). KJV/ASV retain language closer to the Exodus passage, making the deliberate parallel more obvious and confirming the figure's divine identity. The same God who commissioned Moses now commissions Joshua.
 
 GLOSSARY
 ------------------------------------
@@ -233,15 +254,6 @@ Christophany   — A pre-incarnate appearance of Christ in the Old
                acceptance of worship and the exercise of divine
                prerogatives (making ground holy, receiving the title
                "Lord").
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "Jehovah had dried up the waters" / WEB: "Yahweh had dried up the waters" / NET: "the Lord had dried up the water" — The divine name pattern: ASV "Jehovah," WEB "Yahweh," NET/KJV "the Lord/LORD." Each occurrence emphasizes that Israel's God acts personally in history.
-- v.1 — NET: "they lost their courage and could not even breathe for fear" / KJV: "their heart melted, neither was there spirit in them any more" / ASV: "their heart melted, neither was there spirit in them any more" — NET paraphrases dramatically ("could not even breathe"), while KJV/ASV/WEB preserve the Hebrew imagery of melting hearts and departed spirit (ruach). The literal rendering connects to the same "melting" language in 2:11.
-- v.9 — NET: "Today I have taken away the disgrace of Egypt from you" / KJV: "This day have I rolled away the reproach of Egypt" / ASV: "This day have I rolled away the reproach of Egypt" / WEB: "Today I have rolled away the reproach of Egypt" — NET loses the wordplay: "rolled away" (galal) explains the name "Gilgal" (gilgal = rolling). KJV/ASV/WEB preserve this etymological connection; NET obscures it with "taken away."
-- v.14 — ASV: "as prince of the host of Jehovah am I now come" / WEB: "I have come now as commander of Yahweh's army" / NET: "Truly I am the commander of the Lord's army. Now I have arrived!" / KJV: "as captain of the host of the LORD am I now come" — Different titles: KJV "captain," ASV "prince," WEB/NET "commander" — all render Hebrew "sar" (chief, ruler, commander). NET adds "Truly" and "Now I have arrived!" for dramatic effect not present in the Hebrew.
-- v.14 — NET: "Joshua bowed down with his face to the ground" / KJV: "Joshua fell on his face to the earth, and did worship" / ASV: "Joshua fell on his face to the earth, and did worship" / WEB: "Joshua fell on his face to the earth, and worshiped" — NET omits "worship" (Hebrew "shachah" — to prostrate in worship), reducing the encounter to mere respect. KJV/ASV/WEB preserve "worship," which identifies the figure as divine — Joshua worships, and the figure accepts it.
-- v.15 — NET: "Remove your sandals from your feet because the place where you stand is holy" / KJV: "Loose thy shoe from off thy foot; for the place whereon thou standest is holy" — All translations agree on the substance, but this verse parallels Exodus 3:5 (Moses at the burning bush). ASV/WEB/KJV make this parallel more obvious by retaining similar language to Exodus 3, confirming the figure's divine identity.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

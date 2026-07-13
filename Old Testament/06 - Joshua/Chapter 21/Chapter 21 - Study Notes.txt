@@ -93,41 +93,67 @@ Charles Spurgeon:
   ever spoken and not done it? Let this verse be your anchor: ALL came
   to pass. What He has promised for your future, He will perform with
   the same perfection. Not one word shall fail."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.2  — KJV: "suburbs thereof for our cattle" / ESV: "pasturelands for
-       our livestock" — Hebrew "migrash" = open land, pasture ground
-       surrounding a city. As noted in 14:4, KJV's "suburbs" is
-       misleading to modern readers. ESV's "pasturelands" correctly
-       identifies these as grazing areas, not residential neighborhoods.
+v.2  — Hebrew "migrash" — open land, pasture ground surrounding a city.
+       KJV: "suburbs thereof for our cattle"
+       ESV: "pasturelands for our livestock"
+       ASV: "suburbs thereof for our cattle"
+       NET: "cities in which to live along with the grazing areas for our cattle"
+       WEB: "pasture lands for our livestock"
+       Analysis: KJV/ASV's "suburbs" is misleading to modern readers — these were not
+       residential neighborhoods but grazing areas. ESV's "pasturelands," NET's "grazing
+       areas," and WEB's "pasture lands" all correctly identify these as agricultural
+       land surrounding each Levitical city. NET adds interpretive expansion ("cities in
+       which to live along with") not present in the original.
 
-v.11 — KJV: "the city of Arba the father of Anak" / ESV: "Kiriath-arba
-       (Arba being the father of Anak)" — Note that Hebron is
-       simultaneously Caleb's inheritance (14:13), a city of refuge
-       (20:7), and a Levitical city (21:13). The fields and villages
-       belonged to Caleb (v.12); the city itself served multiple
+v.11 — Hebrew "Qiryat Arba avi ha-Anaq" — Kiriath-arba, father of Anak.
+       KJV: "the city of Arba the father of Anak"
+       ESV: "Kiriath-arba (Arba being the father of Anak)"
+       ASV: "the city of Arba, the father of Anak"
+       NET: "Kiriath Arba (Arba was the father of Anak)"
+       WEB: "the city of Arba, the father of Anak"
+       Analysis: Minor variation in parenthetical style. Note that Hebron is simultaneously
+       Caleb's inheritance (14:13), a city of refuge (20:7), and a Levitical city (21:13).
+       The fields and villages belonged to Caleb (v.12); the city itself served multiple
        sacred functions.
 
-v.43 — KJV: "all the land which he sware to give unto their fathers" /
-       ESV: "all the land that he swore to give to their fathers" —
-       Hebrew "nishba" = swore (niphal of "shava"). God's promise was
-       not merely spoken but sworn — an oath. The strongest possible
-       commitment (cf. Hebrews 6:13-18).
+v.43 — Hebrew "nishba" — swore (niphal of "shava").
+       KJV: "all the land which he sware to give unto their fathers"
+       ESV: "all the land that he swore to give to their fathers"
+       ASV: "all the land which he sware to give unto their fathers"
+       NET: "all the land he had solemnly promised to their ancestors"
+       WEB: "all the land which he swore to give to their fathers"
+       Analysis: NET uses "solemnly promised" for "swore" (nishba — to swear an oath). The
+       oath language is stronger — God bound Himself by His own character. ASV/WEB preserve
+       "possessed" (yarash) where NET uses "conquered." God's promise was not merely spoken
+       but sworn — the strongest possible commitment (cf. Hebrews 6:13-18).
 
-v.44 — KJV: "there stood not a man of all their enemies before them" /
-       ESV: "Not one of all their enemies had withstood them" — Hebrew
-       "lo amad ish... mipneihem." Literally "no man stood before
-       them." This echoes God's promise to Joshua in 1:5: "There shall
-       not any man be able to stand before thee." Promise made — promise
-       kept.
+v.44 — Hebrew "menukhah" — rest, peace, settled security.
+       KJV: "the LORD gave them rest round about, according to all that he sware unto their fathers"
+       ESV: "the LORD gave them rest on every side just as he had sworn to their fathers"
+       ASV: "Jehovah gave them rest round about, according to all that he sware unto their fathers"
+       NET: "The Lord made them secure, in fulfillment of all he had solemnly promised their ancestors"
+       WEB: "Yahweh gave them rest all around, according to all that he swore to their fathers"
+       Analysis: NET's "made them secure" interprets Hebrew "menukhah" (rest). KJV/ASV/WEB
+       preserve "rest" — the theological rest promised since Deuteronomy 12:10, fulfilled
+       here and ultimately in Christ (Hebrews 4:8-9). "Rest" carries richer theological
+       weight than mere "security." Also: "lo amad ish... mipneihem" — "no man stood before
+       them" — echoes God's promise to Joshua in 1:5. Promise made — promise kept.
 
-v.45 — KJV: "There failed not ought of any good thing which the LORD
-       had spoken" / ESV: "Not one word of all the good promises that
-       the LORD had made... had failed" — Hebrew "lo naphal davar mi-kol
-       ha-davar ha-tov." "Naphal" = to fall. Not one word "fell" — i.e.,
-       fell to the ground unfulfilled. Every word stood firm. ESV adds
-       "word" and "promises" for clarity; KJV's "ought" (anything) is
-       more literal but archaic.
+v.45 — Hebrew "lo naphal davar mi-kol ha-davar ha-tov" — not one word fell of all the good words.
+       KJV: "There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass"
+       ESV: "Not one word of all the good promises that the LORD had made to the house of Israel had failed; all came to pass"
+       ASV: "There failed not aught of any good thing which Jehovah had spoken unto the house of Israel; all came to pass"
+       NET: "Not one of the Lord's faithful promises to the family of Israel was left unfulfilled; every one was realized"
+       WEB: "Nothing failed of any good thing which Yahweh had spoken to the house of Israel. All came to pass"
+       Analysis: The climactic verse of Joshua. "Naphal" = to fall — not one word "fell"
+       (i.e., fell to the ground unfulfilled). NET's "faithful promises" interprets "good
+       thing" (davar tov — good word/thing). KJV/ASV preserve the comprehensive "not a
+       thing...of any good thing...all came to pass" — absolute divine faithfulness. WEB's
+       clarity and retention of the divine name makes it perhaps the most transparent modern
+       rendering of this capstone verse. ESV adds "word" and "promises" for clarity; KJV's
+       "ought" (anything) is more literal but archaic.
 
 GLOSSARY
 ------------------------------------
@@ -161,14 +187,6 @@ Rest (menukhah) — Hebrew concept of peace, security, and settled
                but rest — freedom from enemies, security in God's
                presence. Ultimately points to the eternal rest in Christ
                (Hebrews 4:9-11).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — NET: "The Lord told Moses to assign us cities in which to live along with the grazing areas for our cattle" / ASV: "Jehovah commanded by Moses to give us cities to dwell in, with the suburbs thereof for our cattle" / KJV: "The LORD commanded by the hand of Moses to give us cities to dwell in, with the suburbs thereof" — KJV/ASV's "suburbs" (migrash — pasture lands/open spaces around a city) is archaic; NET's "grazing areas" and WEB's "pasture lands" clarify the meaning. These were not urban suburbs but agricultural land surrounding each Levitical city.
-- v.43 — NET: "So the Lord gave Israel all the land he had solemnly promised to their ancestors, and they conquered it and lived in it" / ASV: "So Jehovah gave unto Israel all the land which he sware to give unto their fathers; and they possessed it, and dwelt therein" / WEB: "So Yahweh gave to Israel all the land which he swore to give to their fathers. They possessed it, and lived in it" — NET uses "solemnly promised" for "swore" (nishba — to swear an oath). The oath language is stronger — God bound Himself by His own character. ASV/WEB preserve "possessed" (yarash) where NET uses "conquered."
-- v.44 — NET: "The Lord made them secure, in fulfillment of all he had solemnly promised their ancestors" / ASV: "And Jehovah gave them rest round about, according to all that he sware unto their fathers" / WEB: "Yahweh gave them rest all around, according to all that he swore to their fathers" — NET's "made them secure" interprets Hebrew "menucha" (rest). KJV/ASV/WEB preserve "rest" — the theological rest promised since Deuteronomy 12:10, fulfilled here and ultimately in Christ (Hebrews 4:8-9).
-- v.45 — NET: "Not one of the Lord's faithful promises to the family of Israel was left unfulfilled; every one was realized" / KJV: "There failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass" / ASV: "There failed not aught of any good thing which Jehovah had spoken unto the house of Israel; all came to pass" — The climactic verse of Joshua. NET's "faithful promises" interprets "good thing" (davar tov — good word/thing). KJV/ASV preserve the comprehensive "not a thing...of any good thing...all came to pass" — absolute divine faithfulness.
-- v.45 — WEB: "Nothing failed of any good thing which Yahweh had spoken to the house of Israel. All came to pass" — WEB's clarity and retention of the divine name makes this perhaps the most transparent modern rendering of this capstone verse.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

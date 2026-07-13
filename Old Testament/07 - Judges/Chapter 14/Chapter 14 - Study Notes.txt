@@ -129,38 +129,120 @@ Charles Spurgeon:
   lion that would devour becomes the source of honey. So Christ conquered
   death and from its carcass brings forth the sweetness of eternal life.
   Every trial overcome becomes a source of nourishment for the soul."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3  — KJV: "she pleaseth me well" / ESV: "she is right in my eyes" —
-       Hebrew "hi yash'rah b'eynay." Literally "she is straight/right in
-       my eyes." ESV's literal rendering connects directly to the book's
+v.3  — Hebrew "hi yash'rah b'eynay" — she is straight/right in my eyes.
+       KJV: "she pleaseth me well"
+       ESV: "she is right in my eyes"
+       ASV: "she pleaseth me well"
+       NET: "she is the right one for me"
+       WEB: "she pleases me well"
+       Analysis: ESV's literal rendering connects directly to the book's
        theme: "every man did that which was right in his own eyes" (17:6;
-       21:25). Samson embodies the book's moral chaos.
+       21:25). KJV/ASV/WEB preserve the "eyes" language, maintaining this
+       thematic connection. NET's "the right one for me" loses this
+       connection entirely. Samson embodies the book's moral chaos —
+       doing what is "right in his own eyes."
 
-v.6  — KJV: "the Spirit of the LORD came mightily upon him" / ESV: "the
-       Spirit of the LORD rushed upon him" — Hebrew "vatitslach alav ruach
-       Adonai." "Tsalach" = to rush upon, prosper, advance. A more
-       violent/sudden empowerment than the "clothing" of Gideon (6:34).
-       The Spirit "rushes" upon Samson for specific physical feats.
+v.4  — Hebrew "t'anah" — occasion/opportunity for conflict.
+       KJV: "it was of the LORD, that he sought an occasion against the
+            Philistines"
+       ESV: "it was from the LORD, for he was seeking an opportunity
+            against the Philistines"
+       ASV: "it was of Jehovah; for he sought an occasion against the
+            Philistines"
+       NET: "this was the Lord's doing because he was looking for an
+            opportunity to stir up trouble with the Philistines"
+       WEB: "it was of Yahweh; for he sought an occasion against the
+            Philistines"
+       Analysis: NET adds "stir up trouble" — more colloquial than the
+       Hebrew warrants. The theological tension is preserved across all
+       translations: God sovereignly uses Samson's sinful desire for His
+       own purposes without approving the sin. ASV/WEB use the divine
+       name (Jehovah/Yahweh) rather than "the LORD."
 
-v.14 — KJV: "Out of the eater came forth meat" / ESV: "Out of the eater
-       came something to eat" — Hebrew "me-ha-okhel yatsa ma'akhal."
-       "Okhel" = eater. "Ma'akhal" = food/something eaten. KJV's "meat"
-       uses the archaic English meaning of "food" (not specifically
-       animal flesh).
+v.6  — Hebrew "vatitslach alav ruach Adonai" — the Spirit of the LORD
+       rushed/fell upon him.
+       KJV: "the Spirit of the LORD came mightily upon him"
+       ESV: "the Spirit of the LORD rushed upon him"
+       ASV: "the Spirit of Jehovah came mightily upon him"
+       NET: "The Lord's Spirit empowered him"
+       WEB: "Yahweh's Spirit came mightily on him"
+       Analysis: "Tsalach" = to rush upon, prosper, advance — a violent/
+       sudden empowerment more intense than the "clothing" of Gideon
+       (6:34). ASV/WEB retain "came mightily upon" (violent empowerment);
+       NET's "empowered" domesticates the wild, irruptive force of the
+       Hebrew verb. This verb is unique to Samson and Saul — a violent
+       seizure by the Spirit for specific physical feats.
 
-v.15 — KJV: "on the seventh day" / ESV: "on the fourth day" — There is
-       a textual variant here. Some Hebrew manuscripts and the LXX read
-       "fourth day" (ESV follows this). The Masoretic Text reads "seventh
-       day" (KJV follows this). The "fourth day" reading makes better
+v.12 — Hebrew "s'dinim" / "chaliphot b'gadim" — fine linen wraps /
+       changes of garments.
+       KJV: "thirty sheets and thirty change of garments"
+       ESV: "thirty linen garments and thirty changes of clothes"
+       ASV: "thirty linen garments and thirty changes of raiment"
+       NET: "30 linen robes and 30 sets of clothes"
+       WEB: "thirty linen garments and thirty changes of clothing"
+       Analysis: "S'dinim" = fine linen wraps; "chaliphot b'gadim" =
+       changes of garments (festive clothing). These were expensive
+       items — the stakes of the riddle were substantial. KJV's "sheets"
+       is archaic for linen garments. All translations capture the
+       economic value of the wager.
+
+v.14 — Hebrew "me-ha-okhel yatsa ma'akhal" — from the eater came forth
+       food.
+       KJV: "Out of the eater came forth meat"
+       ESV: "Out of the eater came something to eat"
+       ASV: "Out of the eater came forth meat"
+       NET: "Out of the eater came something to eat"
+       WEB: "Out of the eater came out food"
+       Analysis: "Okhel" = eater. "Ma'akhal" = food/something eaten.
+       KJV/ASV's "meat" uses the archaic English meaning of "food" (not
+       specifically animal flesh). ESV/NET/WEB use modern equivalents.
+       Beyond its literal meaning (lion/honey), the riddle captures a
+       spiritual truth: God brings provision from destruction.
+
+v.15 — Textual variant: Masoretic Text vs. LXX/other manuscripts.
+       KJV: "on the seventh day"
+       ESV: "on the fourth day"
+       ASV: "on the seventh day"
+       NET: "on the fourth day"
+       WEB: "on the seventh day"
+       Analysis: Some Hebrew manuscripts and the LXX read "fourth day"
+       (ESV/NET follow this). The Masoretic Text reads "seventh day"
+       (KJV/ASV/WEB follow this). The "fourth day" reading makes better
        narrative sense — they threaten the wife earlier, giving her time
-       to pressure Samson.
+       to pressure Samson over the remaining days.
 
-v.18 — KJV: "If ye had not plowed with my heifer" / ESV: "If you had
-       not plowed with my heifer" — A crude agricultural metaphor meaning
-       "if you had not used my wife to extract the answer." "Plowing with
-       another's heifer" = using someone else's intimate relationship for
-       your own benefit.
+v.18 — Hebrew "im lo charashtem b'eglati" — if you had not plowed with
+       my heifer.
+       KJV: "If ye had not plowed with my heifer"
+       ESV: "If you had not plowed with my heifer"
+       ASV: "If ye had not plowed with my heifer"
+       NET: "If you had not plowed with my heifer, you would not have
+            solved my riddle!"
+       WEB: "If you hadn't plowed with my heifer, you wouldn't have
+            found out my riddle"
+       Analysis: A crude agricultural metaphor meaning "if you had not
+       used my wife to extract the answer." All translations preserve
+       the metaphor. The sexual innuendo is intentional in the Hebrew,
+       reflecting Samson's coarseness. "Plowing with another's heifer" =
+       using someone else's intimate relationship for your own benefit.
+
+v.19 — Hebrew "vatitslach alav ruach Adonai" — the Spirit of the LORD
+       rushed upon him (same verb as v.6).
+       KJV: "the Spirit of the LORD came upon him"
+       ESV: "the Spirit of the LORD rushed upon him"
+       ASV: "the Spirit of Jehovah came mightily upon him, and he went
+            down to Ashkelon, and smote thirty men"
+       NET: "The Lord's Spirit empowered him. He went down to Ashkelon
+            and killed 30 men"
+       WEB: "Yahweh's Spirit came mightily on him, and he went down to
+            Ashkelon and struck thirty men"
+       Analysis: The Spirit empowers Samson for violence driven by
+       personal rage — a troubling intersection of divine power and
+       human anger. NET again uses "empowered" for the violent Hebrew
+       verb. The theological question: does Spirit-empowerment equal
+       moral approval? In Samson's case, clearly not.
 
 GLOSSARY
 ------------------------------------
@@ -185,20 +267,6 @@ Ashkelon       — One of the five major Philistine cities, on the
                travels there to kill thirty men and take their garments
                — far enough away that the connection to the wedding
                would not be immediately obvious.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.3 — ASV: "she pleaseth me well" / WEB: "she pleases me well" / NET: "she is the right one for me" — Hebrew "hi yash'rah b'eynay" = "she is right/straight in my eyes." KJV/ASV/WEB preserve the "eyes" language, connecting to the book's refrain about doing "right in one's own eyes" (17:6, 21:25). NET's "the right one for me" loses this thematic connection entirely.
-
-- v.4 — ASV: "it was of Jehovah; for he sought an occasion against the Philistines" / NET: "this was the Lord's doing because he was looking for an opportunity to stir up trouble with the Philistines" — Hebrew "t'anah" = occasion/opportunity for conflict. NET adds "stir up trouble" — more colloquial. The theological tension is preserved: God sovereignly uses Samson's sinful desire for His own purposes without approving the sin.
-
-- v.6 — ASV: "the Spirit of Jehovah came mightily upon him" / WEB: "Yahweh's Spirit came mightily on him" / NET: "The Lord's Spirit empowered him" — Hebrew "vatitslach alav ruach Adonai" = the Spirit of the LORD rushed/fell upon him. "Tsalach" = to rush, fall upon mightily. ASV/WEB retain "came mightily upon" (violent empowerment); NET's "empowered" domesticates the wild, irruptive force of the Hebrew verb. This verb is unique to Samson and Saul — a violent seizure by the Spirit.
-
-- v.12 — ASV: "thirty linen garments and thirty changes of raiment" / NET: "30 linen robes and 30 sets of clothes" — Hebrew "s'dinim" = fine linen wraps; "chaliphot b'gadim" = changes of garments (festive clothing). These were expensive items — the stakes of the riddle were substantial.
-
-- v.18 — ASV: "If ye had not plowed with my heifer, Ye had not found out my riddle" / NET: "If you had not plowed with my heifer, you would not have solved my riddle!" — Both preserve Samson's crude agricultural metaphor — comparing his wife to a heifer and the Philistines' extraction of information to plowing. The sexual innuendo is intentional in the Hebrew, reflecting Samson's coarseness.
-
-- v.19 — ASV: "the Spirit of Jehovah came mightily upon him, and he went down to Ashkelon, and smote thirty men" / NET: "The Lord's Spirit empowered him. He went down to Ashkelon and killed 30 men" — The Spirit empowers Samson for violence driven by personal rage — a troubling intersection of divine power and human anger. The theological question: does Spirit-empowerment equal moral approval? In Samson's case, clearly not.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

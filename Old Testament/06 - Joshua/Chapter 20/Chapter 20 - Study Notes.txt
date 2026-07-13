@@ -98,53 +98,108 @@ Charles Spurgeon:
   inside, no avenger can touch you. You are safe — not because of your
   innocence, but because of your refuge. And when the High Priest dies?
   Our High Priest has died — and risen! We are free forever."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v.3  — KJV: "unawares and unwittingly" / ESV: "without intent or
-       unknowingly" — Hebrew "bishgagah" (inadvertently, by mistake)
-       and "b'vli da'at" (without knowledge/intent). Two terms
-       emphasizing the accidental nature: the killing was both
-       unintentional and without prior malice. KJV's "unawares and
-       unwittingly" is somewhat redundant in modern English; ESV's
-       "without intent or unknowingly" distinguishes the two concepts
-       more clearly.
+v.2  — Hebrew "tenu lakhem" — give/designate for yourselves.
+       KJV: "Appoint out for you cities of refuge"
+       ESV: "Designate the cities of refuge"
+       ASV: "Assign you the cities of refuge"
+       NET: "Have the Israelites select the cities of refuge"
+       WEB: "Assign the cities of refuge"
+       Analysis: NET's "select" implies Israel chooses; KJV/ASV/WEB's "appoint/assign"
+       (Hebrew "tenu" — give/designate) implies God's prior directive being carried out.
+       God selected the concept; Israel designated the specific cities. The difference
+       matters theologically: refuge is God's provision, not human invention.
 
-v.3  — KJV: "the avenger of blood" / ESV: "the avenger of blood" —
-       Hebrew "go'el ha-dam." "Go'el" = kinsman-redeemer, the nearest
-       relative responsible for avenging a family member's death. The
-       same word used for Boaz as Ruth's "kinsman-redeemer." The go'el
-       had both the right and duty to pursue blood justice.
+v.3  — Hebrew "bishgagah b'vli da'at" — inadvertently, without knowledge/intent.
+       KJV: "the slayer that killeth any person unawares and unwittingly"
+       ESV: "the manslayer who kills any person without intent or unknowingly"
+       ASV: "the manslayer that killeth any person unwittingly and unawares"
+       NET: "Anyone who accidentally kills someone"
+       WEB: "the manslayer who kills any person accidentally and unintentionally"
+       Analysis: Two Hebrew terms emphasize the accidental nature: "bishgagah"
+       (unintentionally) and "b'vli da'at" (without knowledge/premeditation). NET
+       simplifies both to "accidentally," losing the dual emphasis. WEB preserves both
+       distinctions ("accidentally and unintentionally"). KJV's "unawares and unwittingly"
+       is somewhat redundant in modern English; ESV's "without intent or unknowingly"
+       distinguishes the two concepts more clearly.
 
-v.4  — KJV: "shall stand at the entering of the gate of the city" /
-       ESV: "shall stand at the entrance of the gate of the city" —
-       The city gate was the place of legal proceedings in ancient
-       Israel (Ruth 4:1-2). The manslayer presents his case publicly
-       to the elders who sit at the gate.
+v.3  — Hebrew "go'el ha-dam" — kinsman-redeemer of blood.
+       KJV: "the avenger of blood"
+       ESV: "the avenger of blood"
+       ASV: "the avenger of blood"
+       NET: "the avenger of blood"
+       WEB: "the avenger of blood"
+       Analysis: All translations agree. "Go'el" = kinsman-redeemer, the nearest relative
+       responsible for avenging a family member's death. The same word used for Boaz as
+       Ruth's "kinsman-redeemer." The go'el had both the right and duty to pursue blood
+       justice.
 
-v.5  — KJV: "hated him not beforetime" / ESV: "did not hate him in the
-       past" — Hebrew "lo sone' lo mit'mol shilshom" (lit. "not hating
-       him yesterday or the day before"). This idiom means "previously,
-       in the past." The absence of prior hatred proves the killing was
-       not premeditated.
+v.4  — Hebrew "petach sha'ar ha-ir" — entrance of the gate of the city.
+       KJV: "shall stand at the entering of the gate of the city"
+       ESV: "shall stand at the entrance of the gate of the city"
+       ASV: "shall stand at the entrance of the gate of the city"
+       NET: "shall stand at the entrance of the city gate"
+       WEB: "shall stand at the entrance of the gate of the city"
+       Analysis: Minor word order variation only. The city gate was the place of legal
+       proceedings in ancient Israel (Ruth 4:1-2). The manslayer presents his case
+       publicly to the elders who sit at the gate.
 
-v.6  — KJV: "until the death of the high priest that shall be in those
-       days" / ESV: "until the death of him who is high priest at the
-       time" — Hebrew "ad mot ha-kohen ha-gadol." The high priest's
-       death served as a kind of atonement or epoch-marker that ended
-       the manslayer's exile. Theologically, this points to Christ
-       whose death as High Priest brings complete release from guilt.
+v.5  — Hebrew "lo sone' lo mit'mol shilshom" — not hating him yesterday or the day before.
+       KJV: "hated him not beforetime"
+       ESV: "did not hate him in the past"
+       ASV: "because he smote his neighbor unawares, and hated him not beforetime"
+       NET: "for he accidentally killed his fellow man without premeditation"
+       WEB: "because he struck his neighbor unintentionally, and didn't hate him previously"
+       Analysis: KJV/ASV's "hated him not beforetime" preserves the Hebrew criterion for
+       distinguishing manslaughter from murder: absence of prior hatred. NET's "without
+       premeditation" is legally accurate but loses the relational dimension — the Hebrew
+       tests the heart (hatred), not just the mind (premeditation).
 
-v.7  — KJV: "Kirjath-arba, which is Hebron" / ESV: "Kiriath-arba
-       (that is, Hebron)" — The older Canaanite name alongside the
-       Israelite name. Hebron was also Caleb's inheritance (14:13) and
-       a Levitical city (21:13) — showing that cities could serve
-       multiple functions.
+v.6  — Hebrew "ad mot ha-kohen ha-gadol" — until the death of the high priest.
+       KJV: "until the death of the high priest that shall be in those days"
+       ESV: "until the death of him who is high priest at the time"
+       ASV: "until he stand before the congregation for judgment, until the death of the high priest"
+       NET: "until his case is decided by the assembly, and the high priest dies"
+       WEB: "until he stands before the congregation for judgment, until the death of the high priest who shall be in those days"
+       Analysis: ASV/WEB preserve both requirements: judicial standing before the
+       congregation AND remaining until the high priest's death. The high priest's death
+       served as a kind of atonement or epoch-marker that ended the manslayer's exile.
+       Theologically, this points to Christ whose death as High Priest brings complete
+       release from guilt.
 
-v.8  — KJV: "Bezer in the wilderness upon the plain" / ESV: "Bezer in
-       the wilderness on the tableland" — Hebrew "b'midbar b'mishor."
-       "Mishor" = level place, plateau, tableland. This is the
-       Transjordan plateau east of the Dead Sea. KJV's "plain" and
-       ESV's "tableland" both describe this elevated flat terrain.
+v.7  — Hebrew "va-yaqdiShu" — they set apart/consecrated.
+       KJV: "they appointed Kedesh in Galilee"
+       ESV: "they set apart Kedesh in Galilee"
+       ASV: "they set apart Kedesh in Galilee"
+       NET: "they selected Kedesh in Galilee"
+       WEB: "they designated Kedesh in Galilee"
+       Analysis: Hebrew "qadash" (to consecrate/set apart) is significant: these cities
+       were sanctified for a holy purpose. ASV/ESV's "set apart" preserves the
+       sanctification concept; NET's "selected" loses it entirely. The older Canaanite
+       name "Kirjath-arba" appears alongside "Hebron" — also Caleb's inheritance (14:13)
+       and a Levitical city (21:13), showing cities could serve multiple functions.
+
+v.8  — Hebrew "b'midbar b'mishor" — in the wilderness on the tableland.
+       KJV: "Bezer in the wilderness upon the plain"
+       ESV: "Bezer in the wilderness on the tableland"
+       ASV: "Bezer in the wilderness in the plain"
+       NET: "Bezer in the wilderness on the plateau"
+       WEB: "Bezer in the wilderness, in the plain"
+       Analysis: "Mishor" = level place, plateau, tableland. This is the Transjordan
+       plateau east of the Dead Sea. All translations convey elevated flat terrain, with
+       slight variation: KJV/ASV/WEB use "plain," ESV "tableland," NET "plateau."
+
+v.9  — Hebrew "ger ha-gar b'tokham" — the stranger sojourning among them.
+       KJV: "for all the children of Israel, and for the stranger that sojourneth among them"
+       ESV: "for anyone of the people of Israel or any stranger sojourning among them"
+       ASV: "for the stranger that sojourneth among them"
+       NET: "for resident foreigners living among them"
+       WEB: "for the foreigner who lives among them"
+       Analysis: The cities of refuge were available to non-Israelites too. ASV's "stranger
+       that sojourneth" translates "ger" (sojourner/resident alien). God's justice extends
+       to all — foreshadowing the gospel's inclusion of Gentiles (cf. "whosoever will,"
+       Revelation 22:17).
 
 GLOSSARY
 ------------------------------------
@@ -182,15 +237,6 @@ Shechem        — A city in the central hill country between Mount Ebal
                and Mount Gerizim. Site of Abraham's first altar in
                Canaan (Genesis 12:6), Jacob's well (John 4), and
                Joshua's covenant renewal (Joshua 24).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — ASV: "Assign you the cities of refuge" / WEB: "Assign the cities of refuge" / NET: "Have the Israelites select the cities of refuge" — NET's "select" implies Israel chooses; ASV/KJV's "assign" (Hebrew "tenu" — give/designate) implies God's prior directive being carried out. God selected the concept; Israel designated the specific cities.
-- v.3 — ASV: "the manslayer that killeth any person unwittingly and unawares" / NET: "Anyone who accidentally kills someone" / WEB: "the manslayer who kills any person accidentally and unintentionally" — NET simplifies "b'shgagah b'vli da'at" (in error, without knowledge) to "accidentally." The Hebrew makes two distinctions: "b'shgagah" (unintentionally) and "b'vli da'at" (without knowledge/premeditation). WEB preserves both.
-- v.5 — ASV: "because he smote his neighbor unawares, and hated him not beforetime" / NET: "for he accidentally killed his fellow man without premeditation" — KJV/ASV's "hated him not beforetime" preserves the Hebrew criterion for distinguishing manslaughter from murder: absence of prior hatred. NET's "without premeditation" is legally accurate but loses the relational dimension.
-- v.6 — ASV: "until he stand before the congregation for judgment, until the death of the high priest" / NET: "until his case is decided by the assembly, and the high priest dies" — The death of the high priest releases the manslayer — a powerful type of Christ: when our High Priest died, we were released from the penalty of sin. Both translations convey this, but ASV's "stand before the congregation" preserves the judicial formality.
-- v.7 — ASV: "they set apart Kedesh in Galilee" / WEB: "they designated Kedesh in Galilee" / NET: "they selected Kedesh in Galilee" — Hebrew "qadash" (to consecrate/set apart) is significant: these cities were sanctified for a holy purpose. ASV's "set apart" preserves the sanctification concept; NET's "selected" loses it.
-- v.9 — ASV: "the stranger that sojourneth among them" / WEB: "for the foreigner who lives among them" / NET: "for resident foreigners living among them" — The cities of refuge were available to non-Israelites too. ASV's "stranger that sojourneth" translates "ger" (sojourner/resident alien), showing God's justice extends to all — foreshadowing the gospel's inclusion of Gentiles.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
