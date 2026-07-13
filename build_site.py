@@ -512,7 +512,6 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
     summary = sections.get("CHAPTER SUMMARY", "")
     authorship = sections.get("AUTHORSHIP & HISTORICAL BACKGROUND", "")
     map_geo = sections.get("MAP & GEOGRAPHY NOTES", "")
-    cross_refs = sections.get("CROSS-REFERENCES", "")
     commentary = sections.get("COMMENTARY REFERENCES", "")
     videos = sections.get("VIDEO RESOURCES", "")
     all_reflection = sections.get("REFLECTION", "")
@@ -527,8 +526,6 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
         tab_headers.append(('authorship', 'Authorship & Background'))
     if map_geo:
         tab_headers.append(('mapgeo', 'Map & Geography'))
-    if cross_refs:
-        tab_headers.append(('crossref', 'Cross-References'))
     if commentary:
         tab_headers.append(('commentary', 'Commentary'))
     if videos:
@@ -552,8 +549,6 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
             content = render_authorship(authorship)
         elif tid == "mapgeo":
             content = render_map_geography(map_geo)
-        elif tid == "crossref":
-            content = f"<ul>\n{render_section_as_list(cross_refs)}\n                </ul>"
         elif tid == "commentary":
             content = f"<ul>\n{render_section_as_list(commentary)}\n                </ul>"
         elif tid == "videos":
