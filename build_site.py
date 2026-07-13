@@ -875,7 +875,7 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
     glossary = sections.get("GLOSSARY", "")
     cross_refs = sections.get("CROSS-REFERENCES", "")
     commentary = sections.get("COMMENTARY REFERENCES", "")
-    translation = sections.get("TRANSLATION COMPARISON", "") or sections.get("TRANSLATION NOTES", "")
+    translation = ""  # translations tab removed
     videos = sections.get("VIDEO RESOURCES", "")
     reflection = sections.get("REFLECTION QUESTIONS", "")
     personal = sections.get("PERSONAL REFLECTION & APPLICATION", "")
@@ -903,8 +903,6 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
         tab_headers.append(('crossref', 'Cross-References'))
     if commentary:
         tab_headers.append(('commentary', 'Commentary'))
-    if translation:
-        tab_headers.append(('translations', 'Translations'))
     if videos:
         tab_headers.append(('videos', 'Videos'))
     if all_reflection:
@@ -934,8 +932,6 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
             content = f"<ul>\n{render_section_as_list(cross_refs)}\n                </ul>"
         elif tid == "commentary":
             content = f"<ul>\n{render_section_as_list(commentary)}\n                </ul>"
-        elif tid == "translations":
-            content = render_translation_comparison(translation)
         elif tid == "videos":
             content = render_video_cards(videos, chapter_num)
         elif tid == "reflection":
