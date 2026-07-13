@@ -439,8 +439,8 @@ body {
     .scripture-container { padding: 20px 18px; }
     .verse { font-size: 0.95rem; line-height: 1.85; }
     .book-header h1 { font-size: 1.5rem; }
-    .study-tabs { gap: 0; overflow-x: hidden; flex-wrap: wrap; touch-action: manipulation; }
-    .study-tab { padding: 8px 12px; font-size: 0.8rem; touch-action: manipulation; }
+    .study-tabs { gap: 2px; overflow-x: auto; flex-wrap: nowrap; -webkit-overflow-scrolling: touch; }
+    .study-tab { padding: 8px 10px; font-size: 0.75rem; }
     .tab-content { padding: 20px 18px; touch-action: pan-y; -webkit-overflow-scrolling: auto; }
 }
 
