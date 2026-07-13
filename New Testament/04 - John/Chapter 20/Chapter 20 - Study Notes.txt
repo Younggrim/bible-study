@@ -37,26 +37,6 @@ MAP & GEOGRAPHY NOTES
 - The tomb near Golgotha (v.1): Mary Magdalene came to the tomb "while it was yet dark" on the first day of the week. The tomb was in a garden near Golgotha.
 - The room where the disciples gathered (v.19): A room in Jerusalem where the disciples locked themselves in for fear of the Jews. Jesus appeared to them here.
 
-KEY VERSES
-------------------------------------
-v.17 — "I am ascending to my Father and your Father, to my God and your
-        God." (ESV) — The resurrection changes the relationship — God is now
-        "our Father" through Christ.
-
-v.21 — "As the Father has sent me, even so I am sending you." (ESV) — The
-        mission of the church flows directly from the mission of the Son.
-
-v.28 — "My Lord and my God!" (ESV) — Thomas' confession — the climax of
-        John's Gospel, the highest declaration of Christ's deity.
-
-v.29 — "Blessed are those who have not seen and yet have believed." (ESV) — A
-        beatitude for every believer who has come to faith without physical
-        sight — including you.
-
-v.31 — "These are written so that you may believe that Jesus is the Christ,
-        the Son of God, and that by believing you may have life in his
-        name." (ESV) — The stated purpose of John's Gospel.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — Matthew 28:1-10 — The parallel resurrection account.
@@ -92,72 +72,6 @@ Charles Spurgeon:
   "Thomas said 'My Lord and my God' — the most complete confession of faith
   in the New Testament. His doubt, honestly faced and honestly answered,
   produced the deepest faith. God is not afraid of your honest questions."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — NET: "Now very early on the first day of the week,
-       while it was still dark, Mary Magdalene came to the tomb" —
-       "while it was still dark" — John's literal AND theological
-       detail. WEB: "while it was still dark." KJV: "when it was
-       yet dark." Darkness (physical and spiritual) about to be
-       shattered by resurrection.
-
-v.7  — KJV: "the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself" / ESV: "the face cloth, which had been on Jesus' head, not lying with the linen cloths but folded up in a place by itself" — Greek "soudarion" — KJV uses "napkin" (archaic); ESV uses "face cloth." The orderly arrangement was evidence of resurrection, not theft.
-
-v.16 — KJV: "Rabboni; which is to say, Master" / ESV: "Rabboni! (which means Teacher)" — Greek/Aramaic "Rabbouni" — KJV uses "Master"; ESV uses "Teacher." "Rabboni" is a more personal, intimate form of "Rabbi" — Mary's word of recognition and devotion.
-  [ASV/NET/WEB]: NET: "Jesus said to her, 'Mary.' She turned and said to
-       him in Aramaic, 'Rabboni'" — recognition through His voice
-       speaking her name (cf. 10:3 — the sheep know the shepherd's
-       voice). WEB: "Rabboni!" KJV: "Rabboni." One word from Him
-       changes everything.
-
-v.17 — KJV: "Touch me not; for I am not yet ascended to my Father" / ESV: "Do not cling to me, for I have not yet ascended to the Father" — Greek "mē mou haptou" — KJV's "Touch me not" is misleading; ESV's "Do not cling to me" is more accurate. The present imperative means "stop clinging" — Mary was embracing Jesus; He was redirecting her from clinging to His physical presence to trusting His ascension.
-  [ASV/NET/WEB]: NET: "Do not touch me, for I have not yet ascended to my
-       Father" — "do not touch" (mē mou haptou) — present
-       imperative: "stop clinging to me." WEB: "Don't hold me."
-       KJV: "Touch me not." Not a prohibition of contact but of
-       clinging — the old relationship is being transformed.
-
-v.22 — KJV: "he breathed on them, and saith unto them, Receive ye the Holy Ghost" / ESV: "he breathed on them and said to them, 'Receive the Holy Spirit'" — Greek "enephusēsen" — Both equivalent. The same word used in Genesis 2:7 (LXX) when God breathed life into Adam — a new creation moment. This is a foretaste of Pentecost, not the full outpouring.
-  [ASV/NET/WEB]: NET: "he breathed on them and said, 'Receive the Holy
-       Spirit'" — "breathed on" (enephysēsen) — same verb as
-       Genesis 2:7 (God breathing life into Adam). WEB: "he
-       breathed on them." A new creation moment. John's Pentecost
-       is intimate, not spectacular.
-
-v.23 — KJV: "Whose soever sins ye remit, they are remitted unto them" / ESV: "If you forgive the sins of any, they are forgiven them" — Both equivalent. This refers to the church's authority to declare forgiveness (through the Gospel) or withhold it (through church discipline), not a priestly power to personally absolve sins.
-
-v.28 — KJV: "My Lord and my God" / ESV: "My Lord and my God!" — Greek "ho kurios mou kai ho theos mou" — Both identical. The highest declaration of Christ's deity in the Gospel — Thomas uses the definite article with both "Lord" and "God."
-  [ASV/NET/WEB]: NET: "Thomas replied to him, 'My Lord and my God!'" — the
-       highest Christological confession in the Gospels. WEB: "My
-       Lord and my God!" KJV: "My Lord and my God." Jesus accepts
-       the worship without correction. Thomas moves from "unless I
-       see" to "my God" — doubt resolved into devotion.
-
-v.31 — KJV: "that ye might believe that Jesus is the Christ, the Son of God" / ESV: "that you may believe that Jesus is the Christ, the Son of God" — Both equivalent. The stated purpose of John's Gospel — everything serves this aim.
-
-GLOSSARY
-------------------------------------
-Sepulchre     — The tomb where Jesus was buried. A rock-cut tomb sealed with
-               a large stone.
-
-Linen clothes — The burial wrappings. Their orderly arrangement in the empty
-               tomb was evidence of resurrection, not theft.
-
-Napkin        — The face cloth (Greek: soudarion). Found "wrapped together in
-               a place by itself" — a detail John specifically notes as
-               significant.
-
-Rabboni       — Aramaic for "my teacher" or "my master" — a more personal,
-               intimate form of "Rabbi." Mary's word of recognition and
-               devotion when she realized it was Jesus.
-
-Didymus       — Greek for "twin." Thomas' Greek name. His Aramaic name
-               "Thomas" also means twin.
-
-Beatitude     — A declaration of blessing. "Blessed are they that have not
-               seen, and yet have believed" — a beatitude for all believers
-               who come to faith through the testimony of Scripture.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -220,14 +134,3 @@ David Guzik — Enduring Word Video Series (John):
     https://enduringword.com/media/john-20-resurrection-glory/
   John 20:19-31 - Glory Believed:
     https://enduringword.com/media/john-20-glory-believed/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

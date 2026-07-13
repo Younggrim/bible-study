@@ -33,27 +33,6 @@ MAP & GEOGRAPHY NOTES
 - Jerusalem / the Pool of Bethesda (v.2): Located near the Sheep Gate in northeast Jerusalem. The pool had five covered porticoes where the sick gathered. Archaeological remains confirm this five-portico structure.
 - The Temple (implied): Jesus healed on the Sabbath in Jerusalem, provoking the Jewish leaders.
 
-KEY VERSES
-------------------------------------
-v.6  — "Do you want to be healed?" (ESV) — Jesus' penetrating question to a man
-        who had been ill 38 years. A question He still asks today.
-
-v.17 — "My Father is working until now, and I am working." (ESV) — Jesus' claim
-        of co-equal activity with God the Father — understood by His hearers as
-        a claim to deity.
-
-v.24 — "Truly, truly, I say to you, whoever hears my word and believes him who
-        sent me has eternal life. He does not come into judgment, but has passed
-        from death to life." (ESV) — The assurance of salvation for the believer.
-
-v.39 — "You search the Scriptures because you think that in them you have eternal
-        life; and it is they that bear witness about me." (ESV) — The entire Old
-        Testament points to Christ.
-
-v.44 — "How can you believe, when you receive glory from one another and do not
-        seek the glory that comes from the only God?" (ESV) — The deadly trap of
-        living for human approval.
-
 CROSS-REFERENCES
 ------------------------------------
 v.6   — Luke 18:41 — Jesus asks the blind man "What do you want me to do for you?"
@@ -85,70 +64,6 @@ Charles Spurgeon:
   "Hath everlasting life — not shall have, not may have — hath. Present tense.
   The moment a man believes, he possesses eternal life. It is not a future
   reward; it is a present possession."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.2  — KJV: "by the sheep market a pool" / ESV: "by the Sheep Gate a pool" — Greek "probatike" — KJV supplies "market"; ESV supplies "Gate." Most modern translations favor "Sheep Gate" (a gate in Jerusalem's wall, Nehemiah 3:1) rather than a sheep market.
-  [ASV/NET/WEB]: NET: "Now there is in Jerusalem by the Sheep Gate a
-       pool called Bethzatha in Aramaic" — "Bethzatha" (NET) vs.
-       "Bethesda" (KJV/WEB/ASV). The name varies in manuscripts:
-       Bethesda, Bethzatha, Bethsaida. Archaeological discoveries
-       confirmed a five-porticoed pool north of the temple.
-
-v.3-4 — KJV: includes v.4 about the angel troubling the water / ESV: omits v.4 (placed in footnote) — The phrase about the angel is absent from many older manuscripts. ESV and most modern translations place it in brackets or footnotes. Most scholars consider it a later scribal addition explaining the popular belief about the pool.
-
-v.4  — NET omits v.4 entirely (the angel stirring the water) as
-       not in the earliest manuscripts. KJV includes it. WEB
-       includes it in brackets. ASV omits it. This is one of the
-       most significant textual variants in John — the later
-       addition likely explains the popular belief mentioned in v.7.
-
-v.6  — KJV: "Wilt thou be made whole?" / ESV: "Do you want to be healed?" — Greek "hugiēs" — Both equivalent. KJV's "whole" captures the broader sense of complete restoration; ESV's "healed" is more specific to physical healing.
-
-v.17 — KJV: "My Father worketh hitherto, and I work" / ESV: "My Father is working until now, and I am working" — Both equivalent. Jesus claims continuous, uninterrupted co-activity with the Father — including on the Sabbath.
-  [ASV/NET/WEB]: NET: "My Father is working until now, and I too am working"
-       — "My Father" (not "our Father") — Jesus claims a unique
-       relationship. WEB: "My Father is still working, so I am
-       working, too." The Jews understood this as a claim to
-       equality with God (v.18).
-
-v.24 — KJV: "shall not come into condemnation; but is passed from death unto life" / ESV: "does not come into judgment, but has passed from death to life" — Greek "krisin" — KJV uses "condemnation"; ESV uses "judgment." Both convey that the believer is exempt from the final verdict.
-  [ASV/NET/WEB]: NET: "the one who hears my word and believes the one who
-       sent me has eternal life" — "has" (echei) — present tense.
-       Eternal life is a present possession, not just future hope.
-       WEB: "has eternal life." KJV: "hath everlasting life." The
-       present tense is emphatic in all translations.
-
-v.39 — KJV: "Search the scriptures" / ESV: "You search the Scriptures" — Greek "eraunate" — Can be read as a command (imperative) or a statement (indicative). ESV favors the indicative: Jesus is not commanding them to search but pointing out that they already do — yet miss the point.
-  [ASV/NET/WEB]: NET: "You study the scriptures thoroughly because you think
-       in them you possess eternal life, and it is these same
-       scriptures that testify about me" — "study thoroughly"
-       (eraunate) can be indicative ("you do search") or imperative
-       ("search!"). NET/ESV take it as indicative (a statement);
-       KJV takes it as imperative (a command).
-
-v.44 — KJV: "How can ye believe, which receive honour one of another" / ESV: "How can you believe, when you receive glory from one another" — Greek "doxan" — KJV uses "honour"; ESV uses "glory." Both identify the desire for human approval as a barrier to genuine faith.
-
-GLOSSARY
-------------------------------------
-Bethesda      — Hebrew/Aramaic name meaning "house of mercy" or "house of grace."
-               The pool in Jerusalem where Jesus healed the paralyzed man.
-
-Impotent      — KJV term meaning powerless, unable — referring to those who were
-               physically disabled or chronically ill.
-
-Sabbath       — The seventh day of the Jewish week (Saturday), set apart for rest
-               and worship per the fourth commandment (Exodus 20:8-11). Jewish
-               oral law had expanded Sabbath restrictions far beyond Scripture.
-
-Quickeneth    — KJV term meaning "gives life to" or "makes alive." Used of both
-               physical resurrection and spiritual regeneration.
-
-Condemnation  — Greek "krisis" — judgment, being found guilty. Believers in
-               Christ have passed out of this state permanently (v.24).
-
-Dispersed     — Jews living outside of Israel, scattered throughout the Roman
-               Empire and beyond. Also called the Diaspora.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -213,14 +128,3 @@ David Guzik — Enduring Word Video Series (John):
 
 The Chosen — John 5, The Pool of Bethesda:
   https://youtu.be/JMj1ggINLe4?si=YSIHXJHokVVktIMV
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

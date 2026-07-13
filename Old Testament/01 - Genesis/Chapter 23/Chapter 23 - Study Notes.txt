@@ -41,18 +41,6 @@ MAP & GEOGRAPHY NOTES
 • Hebron is approximately 19 miles south of Jerusalem in the Judean hill
   country.
 
-KEY VERSES
-------------------------------------
-v.4  — "I am a sojourner and foreigner among you; give me property among you
-        for a burying place." (ESV) — Abraham's pilgrim identity and faith
-        claim.
-
-v.16 — "Abraham weighed out for Ephron the silver... four hundred shekels."
-        (ESV) — Full price paid; no obligation to anyone.
-
-v.19 — "Abraham buried Sarah his wife in the cave of the field of Machpelah."
-        (ESV) — The only land Abraham owned: a grave in the Promised Land.
-
 CROSS-REFERENCES
 ------------------------------------
 v.2   — Genesis 17:17 — Sarah was 90 when Isaac was promised; Isaac was 37
@@ -81,85 +69,6 @@ Charles Spurgeon:
   claim on the future.' Every burial in Machpelah was a declaration: 'We
   believe God's promise. This land is ours — not yet in full, but certainly.'"
 
-TRANSLATION COMPARISON
-------------------------------------
-v.2  — Hebrew "Qiryath Arba" — City of Four (possibly four giants or four
-       quarters). Later called Hebron. One of the oldest continuously
-       inhabited cities in the world.
-       KJV: "Kirjath-arba"
-       ESV: "Kiriath-arba"
-       ASV: "Kiriath-arba"
-       NET: "Kiriath Arba"
-       WEB: "Kiriath Arba"
-       Analysis: All equivalent — transliteration differences only. The
-       ancient name reflects the city's pre-Israelite Hittite identity.
-
-v.4  — Hebrew "ger vetoshab" — a resident alien and temporary dweller.
-       KJV: "I am a stranger and a sojourner among you"
-       ESV: "I am a sojourner and foreigner among you"
-       ASV: "I am a stranger and a sojourner with you"
-       NET: "I am a foreign resident, a temporary settler, among you"
-       WEB: "I am a stranger and a foreigner with you"
-       Analysis: NET uses two descriptors emphasizing Abraham's legal status
-       as a non-landowner. ESV reverses the order and uses "foreigner" for
-       "sojourner." All capture Abraham's pilgrim identity — he had no legal
-       land rights in Canaan despite God's promise.
-
-v.6  — Hebrew "nesi Elohim" — a prince of God.
-       KJV: "a mighty prince among us"
-       ESV: "a prince of God among us"
-       ASV: "a prince of God among us"
-       NET: "a mighty prince among us"
-       WEB: "a prince of God among us"
-       Analysis: ESV/ASV/WEB are more literal, preserving "of God." KJV/NET
-       interpret "Elohim" as an intensifier ("mighty"). The Hittites
-       recognized Abraham's stature — whether they understood the divine
-       connection or simply his greatness.
-
-v.9  — Hebrew "mearat hammakpelah" — cave of Machpelah.
-       KJV: "give me the cave of Machpelah"
-       ESV: "let him give me the cave of Machpelah"
-       ASV: "let him give me the cave of Machpelah"
-       NET: "Let him sell it to me publicly for the full price"
-       WEB: "let him sell me the cave of Machpelah"
-       Analysis: NET adds "publicly" to emphasize the legal/witness
-       requirement of the transaction — capturing the social and legal
-       dynamics of the negotiation that are implicit in the Hebrew context.
-
-v.15 — Hebrew "arba meot sheqel keseph" — four hundred shekels of silver.
-       KJV: "four hundred shekels of silver"
-       ESV: "four hundred shekels of silver"
-       ASV: "four hundred shekels of silver"
-       NET: "four hundred pieces of silver"
-       WEB: "four hundred shekels of silver"
-       Analysis: All essentially identical. NET adds context about the
-       standard measurement at the time, clarifying ancient commerce. A high
-       price — Jeremiah later bought a field for 17 shekels (Jer 32:9).
-       Ephron's "generosity" was actually shrewd pricing.
-
-v.17 — Hebrew "qum" — established, confirmed.
-       KJV: "were made sure"
-       ESV: "was made over"
-       ASV: "were made sure"
-       NET: "was deeded"
-       WEB: "were made sure"
-       Analysis: KJV/ASV/WEB emphasize certainty and permanence; ESV
-       emphasizes the transfer of ownership; NET uses modern legal language.
-       All convey a legally binding transfer with witnesses — permanent and
-       irrevocable.
-
-GLOSSARY
-------------------------------------
-Machpelah      — "Double cave." The burial site Abraham purchased near
-               Hebron. Became the family tomb for Abraham, Sarah, Isaac,
-               Rebekah, Jacob, and Leah.
-
-Stranger and sojourner — Abraham's self-description. A pilgrim with no
-               permanent home in the land God promised. Faith without sight.
-
-Made sure      — Legally confirmed. The purchase was public, witnessed, and
-               permanent — Abraham's only land ownership in Canaan.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Abraham owned nothing in the Promised Land except a grave — yet he lived
@@ -182,14 +91,3 @@ VIDEO RESOURCES
 The Bible Project — Genesis Overview:
   https://bibleproject.com/explore/video/genesis-1-11/ (Chapters 1-11)
   https://bibleproject.com/explore/video/genesis-12-50/ (Chapters 12-50)
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

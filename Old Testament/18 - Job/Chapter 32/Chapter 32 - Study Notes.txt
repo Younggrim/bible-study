@@ -52,33 +52,6 @@ Elihu in chapter 42 (as He does the three friends), which may
 suggest Elihu's contributions are at least partially on target.
 
 
-KEY VERSES
-------------------------------------
-v.2  — "Then Elihu the son of Barachel the Buzite, of the family
-        of Ram, burned with anger. He burned with anger at Job
-        because he justified himself rather than God." (ESV) —
-        Elihu's core complaint against Job: Job was so focused on
-        defending his own righteousness that he implicitly accused
-        God of injustice.
-
-v.3  — "He burned with anger also at Job's three friends because
-        they had found no answer, although they had declared Job to
-        be in the wrong." (ESV) — Elihu's complaint against the
-        friends: they declared Job guilty without proving it. They
-        condemned without convincing.
-
-v.8  — "But it is the spirit in man, the breath of the Almighty,
-        that makes him understand." (ESV) — Elihu's theological
-        basis for speaking: wisdom does not come from age or
-        experience alone but from God's Spirit. This is both his
-        justification and his limitation — does he truly have
-        divine insight, or does he merely claim it?
-
-v.9  — "It is not the old who are wise, nor the aged who
-        understand what is right." (ESV) — A true observation that
-        challenges the assumption that seniority equals wisdom.
-        Age brings experience; only the Spirit brings understanding.
-
 CROSS-REFERENCES
 ------------------------------------
 v.2   — Job 40:8 — God will raise the same concern: "Will you
@@ -123,61 +96,6 @@ Charles Spurgeon:
   about others' failures does not make you right about everything.
   Elihu will say some true things and some proud things — and the
   reader must discern the difference."
-TRANSLATION COMPARISON
-------------------------------------
-v.2  — KJV: "justified himself rather than God" / ESV: "justified
-       himself rather than God" — Both translations capture the
-       issue: Job's self-defense implicitly made God the unjust
-       party. This is a legitimate critique — though Job's
-       innocence was real, his rhetoric sometimes crossed into
-       accusing God.
-
-v.8  — KJV: "the inspiration of the Almighty" / ESV: "the breath
-       of the Almighty" — Hebrew "neshmat Shaddai" = the breath/
-       inspiration of the Almighty. The same word used in Genesis
-       2:7 for the divine breath of life. Elihu claims the same
-       Spirit that gives life also gives understanding.
-
-v.19 — KJV: "new bottles" / ESV: "new wineskins" — Hebrew "obot"
-       = wineskins (animal skins used to hold wine). New wine in
-       a sealed skin produces gas that can burst it. Elihu feels
-       ready to burst with words.
-
-v.22 — KJV: "flattering titles" / ESV: "flattery" — Hebrew
-       "kinnah" = to give an honorary name, to flatter. Elihu
-       commits to calling things as they are, regardless of
-       social status.
-
-v.2 — NET: "Ram, became very angry. He was angry with" for KJV's "Ram: against"
-       WEB: "kindled" for KJV's "his wrath kindled,"
-v.8 — ASV: "man, And" for KJV's "man: and"
-       NET: "Almighty, that makes" for KJV's "Almighty giveth"
-v.19 — ASV: adds "Like new wine-skins"
-       NET: "outlet, like new wineskins" for KJV's "vent; it is"
-       WEB: adds "like new wineskins"
-v.22 — ASV: "[Else] would" for KJV's "in so doing"
-       NET: "quickly do away with me." for KJV's "soon take me away."
-       WEB: "or else" for KJV's "in so doing"
-
-GLOSSARY
-------------------------------------
-Elihu        — "He is my God" or "My God is He." A theophoric
-             name expressing devotion to God. Son of Barachel
-             ("God has blessed"), a Buzite (descendant of Buz,
-             nephew of Abraham — Genesis 22:21), of the family
-             of Ram (possibly related to David's line — Ruth 4:19).
-
-Buzite       — Descendant of Buz, second son of Abraham's brother
-             Nahor (Genesis 22:21). This places Elihu in the
-             broader Abrahamic family but not in the line of
-             Israel — like Job himself, Elihu is a non-Israelite
-             worshiper of the true God.
-
-Wrath        — Hebrew "charah aph" (burning of the nose/anger).
-kindled        Used four times in vv.2-5, emphasizing Elihu's
-             intense emotional state. He is not merely annoyed
-             but burning with conviction.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Youth is not a disqualification for speaking truth (vv.6-9).
@@ -207,15 +125,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Job Overview:
   https://bibleproject.com/explore/video/job/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles
-Spurgeon (Public Domain)

@@ -43,29 +43,6 @@ MAP & GEOGRAPHY NOTES
 ------------------------------------
 - Israel remains encamped at Mount Sinai. Bezalel constructs the ark, table, lampstand, and incense altar — the furniture of God's dwelling place.
 
-KEY VERSES
-------------------------------------
-v.1 — "Bezalel made the ark of acacia wood." (ESV) — The most sacred object
- in Israel, made by a Spirit-filled craftsman following God's exact
- design.
-
-v.6 — "He made a mercy seat of pure gold." (ESV) — The kapporeth: the place
- where God meets man, where blood is sprinkled, where atonement is
- made.
-
-v.9 — "The cherubim spread out their wings above, overshadowing the mercy
- seat with their wings, with their faces one to another." (ESV) —
- Angelic guardians gazing at the place of atonement.
-
-v.17 — "He made the lampstand of pure gold. He made the lampstand of
- hammered work." (ESV) — One piece of hammered gold; light from suffering.
-
-v.24 — "He made it and all its utensils out of a talent of pure gold."
- (ESV) — Approximately 75 pounds of pure gold for the lampstand alone.
-
-v.29 — "He made the holy anointing oil also, and the pure fragrant incense."
- (ESV) — Sacred preparations for consecration and worship.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1 — Exodus 25:10-16 — Original instructions for the Ark.
@@ -106,90 +83,6 @@ Charles Spurgeon:
   of all illumination. The branches are not separate; they grow from the
   central shaft. So we have no light apart from Him."
 
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — Hebrew "ʻatsey shittim" — acacia wood; Ark dimensions.
-       KJV: "shittim wood... two cubits and a half... a cubit and a half... a cubit and a half"
-       ESV: "acacia wood. Two cubits and a half was its length"
-       ASV: "acacia wood: two cubits and a half... a cubit and a half... a cubit and a half"
-       NET: "acacia wood; its length was 45 inches, its width 27 inches, and its height 27 inches"
-       WEB: "acacia wood. Two and a half cubits... a cubit and a half... a cubit and a half"
-       Analysis: KJV transliterates the Hebrew "shittim"; all modern translations use the common English name "acacia." NET converts cubits to inches/feet throughout — the Ark was approximately 3¾ × 2¼ × 2¼ feet. ASV/WEB/ESV retain the original cubit measurements.
-
-v.2  — Hebrew "zer zahav" — a border or rim of gold.
-       KJV: "a crown of gold round about"
-       ESV: "a molding of gold around it"
-       ASV: "a crown of gold round about"
-       NET: "a border of gold around it"
-       WEB: "a gold molding around it"
-       Analysis: Decorative edging around the top of the Ark. KJV/ASV's "crown" and ESV/WEB's "molding" and NET's "border" all capture the ornamental rim. "Crown" suggests royal dignity; "molding" suggests architectural detail.
-
-v.6  — Hebrew "kapporet" — from "kaphar" (to cover, to atone).
-       KJV: "mercy seat of pure gold"
-       ESV: "mercy seat of pure gold"
-       ASV: "a mercy-seat of pure gold"
-       NET: "an atonement lid of pure gold"
-       WEB: "a mercy seat of pure gold"
-       Analysis: NET's most distinctive rendering in these chapters. "Atonement lid" emphasizes the Hebrew root "kaphar" (to cover/atone) and the object's function on the Day of Atonement, while the traditional "mercy seat" (from Tyndale via Luther's "Gnadenstuhl") emphasizes God's merciful presence above the law.
-
-v.16 — Hebrew vessels for the table — "flagons/pitchers."
-       KJV: "the dishes thereof, and the spoons thereof, and the bowls thereof, and the covers"
-       ESV: "the plates and dishes for incense, and the bowls and flagons"
-       ASV: "the flagons thereof, wherewith to pour out"
-       NET: "its pitchers, and its bowls, to be used in pouring out offerings"
-       WEB: "its pitchers with which to pour out"
-       Analysis: ASV retains the archaic "flagons" while WEB/NET use "pitchers." NET adds explanatory context ("to be used in pouring out offerings") absent from the Hebrew, making the function explicit for modern readers.
-
-v.17 — Hebrew "menorah" — lampstand; "kaphtor" — ornamental bulbs.
-       KJV: "the candlestick of pure gold... his knops, and his flowers"
-       ESV: "the lampstand of pure gold... its calyxes and its flowers"
-       ASV: "the candlestick of pure gold... its cups, its knops, and its flowers"
-       NET: "the lampstand of pure gold... its cups, its buds, and its blossoms"
-       WEB: "the lamp stand of pure gold... its cups, its buds, and its flowers"
-       Analysis: ASV/KJV retain the archaic "candlestick" (it burned olive oil, not wax candles); ESV/WEB/NET correctly use "lampstand." For "kaphtor": KJV/ASV's archaic "knops" (knobs) is updated to "buds" (WEB/NET) or "calyxes" (ESV) — ornamental bulbs on the lampstand's branches shaped like flower buds.
-
-v.24 — Hebrew "kikkar" — a talent (approximately 75 pounds).
-       KJV: "of a talent of pure gold made he it"
-       ESV: "He made it and all its utensils out of a talent of pure gold"
-       ASV: "Of a talent of pure gold made he it"
-       NET: "He made the lampstand and all its accessories with seventy-five pounds of pure gold"
-       WEB: "He made it of a talent of pure gold"
-       Analysis: NET converts the Hebrew "kikkar" (talent) to modern weight measurement (75 pounds), making the staggering cost tangible for contemporary readers. KJV/ASV/WEB/ESV retain the ancient unit.
-
-v.29 — Hebrew "roqeach" — a perfumer, spice-mixer.
-       KJV: "the work of the apothecary"
-       ESV: "blended as by the perfumer"
-       ASV: "the work of the perfumer"
-       NET: "the work of a perfumer"
-       WEB: "the work of the perfumer"
-       Analysis: KJV's "apothecary" (one who compounds medicines/spices) is archaic; all modern translations use "perfumer." The sacred incense was professionally compounded according to God's recipe (Ex 30:34-38).
-
-GLOSSARY
-------------------------------------
-Ark of the Covenant — A gold-covered acacia wood chest containing the
- tablets of the law, Aaron's rod, and a pot of manna. God's throne
- on earth; the holiest object in Israel.
-
-Mercy Seat — Hebrew "kapporet" — the solid gold lid of the Ark. The place
- where the high priest sprinkled blood on the Day of Atonement.
- God's meeting place with man. A type of Christ (Rom 3:25).
-
-Cherubim — Angelic beings hammered from the same piece of gold as the mercy
- seat, facing each other with wings overspreading. Guardians of
- God's holiness (cf. Gen 3:24).
-
-Table of Showbread — A gold-overlaid table holding twelve loaves of bread
- (representing the twelve tribes) in God's presence continually.
- A picture of fellowship and provision.
-
-Menorah — The seven-branched golden lampstand providing light in the Holy
- Place. Made of one piece of hammered gold. A type of Christ as the
- Light of the World.
-
-Altar of Incense — A small gold-overlaid altar where incense was burned
- morning and evening. Represents prayer ascending to God
- (Ps 141:2; Rev 8:3-4).
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. The Mercy Seat was the place where God met man through blood atonement
@@ -217,14 +110,3 @@ VIDEO RESOURCES
 The Bible Project — Exodus Overview:
   https://bibleproject.com/explore/video/exodus-1-18/ (Chapters 1-18)
   https://bibleproject.com/explore/video/exodus-19-40/ (Chapters 19-40)
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

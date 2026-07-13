@@ -33,27 +33,6 @@ MAP & GEOGRAPHY NOTES
 - Damascus (v.5-11): Paul recounts his conversion on the road to Damascus, about 135 miles north of Jerusalem.
 - Tarsus (v.3): Paul mentions being "born in Tarsus, a city in Cilicia" (southeast Asia Minor) — emphasizing his background.
 
-KEY VERSES
-------------------------------------
-v.8  — "I am Jesus of Nazareth, whom you are persecuting." (ESV) — Christ
-        identifies with His persecuted church.
-
-v.10 — "What shall I do, Lord?" (ESV) — Paul's first response to the risen
-        Christ: submission and obedience.
-
-v.14 — "The God of our fathers appointed you to know his will, to see the
-        Righteous One and to hear a voice from his mouth." (ESV) — Paul's
-        calling defined.
-
-v.15 — "For you will be a witness for him to everyone of what you have seen
-        and heard." (ESV) — The commission: witness to all.
-
-v.16 — "Rise and be baptized and wash away your sins, calling on his name."
-        (ESV) — Ananias' instruction to Paul.
-
-v.21 — "Go, for I will send you far away to the Gentiles." (ESV) — The word
-        that triggered the riot — God's plan for Gentile inclusion.
-
 CROSS-REFERENCES
 ------------------------------------
 v.3   — Acts 5:34 — Gamaliel in the Sanhedrin.
@@ -87,81 +66,6 @@ Charles Spurgeon:
   man. Not 'what do I want?' or 'what makes sense to me?' but 'what shall
   I DO, Lord?' Conversion produces obedience. If you've met Christ, the
   next question is always: what do You want me to do?"
-
-TRANSLATION COMPARISON
-------------------------------------
-v.2  — KJV: "the Hebrew tongue" / ESV: "the Hebrew language" — Both
-       equivalent. Likely Aramaic, the common spoken language of Palestinian
-       Jews. The crowd grew quieter because Paul spoke their language — a
-       sign of respect and identification.
-
-v.3  — NET: "I am a Jew, born in Tarsus in Cilicia, but
-       brought up in this city, educated with strictness under
-       Gamaliel" — "strictness" (akribeian = exactness/precision).
-       WEB: "educated at the feet of Gamaliel according to the
-       strict tradition." Paul's Jewish credentials are impeccable.
-
-v.6  — NET: "about noon a very bright light from heaven suddenly
-       flashed around me" — "very bright" (hikanon) — brighter
-       than the midday sun. WEB: "a great light shone around me."
-       Paul adds details not in chapter 9 — the brightness, the
-       time (noon).
-
-v.9  — KJV: "they heard not the voice" / ESV: "did not understand the voice"
-       — ESV's "did not understand" resolves the apparent contradiction with
-       Acts 9:7 ("heard a voice"). The Greek uses different cases: in 9:7
-       they heard sound (accusative); in 22:9 they didn't understand the
-       words (genitive). They heard noise but not intelligible speech.
-
-v.14 — KJV: "that Just One" / ESV: "the Righteous One" — Both equivalent.
-       Greek "dikaios." A messianic title for Jesus (Acts 3:14, 7:52). ESV's
-       "Righteous One" is more precise. Paul saw the risen Christ —
-       qualifying him as an apostle and witness.
-
-v.16 — KJV: "wash away thy sins" / ESV: "wash away your sins" — Both
-       identical. Baptism symbolizes the washing away of sins — it doesn't
-       cause forgiveness but publicly declares it. "Calling on the name of
-       the Lord" is the means of salvation (Romans 10:13).
-       NET: "Get up, be baptized, and have your sins washed away,
-       calling on his name" — "have your sins washed away"
-       (apolousai tas hamartias sou). WEB: "wash away your sins."
-       KJV: "wash away thy sins." The aorist middle voice suggests
-       personal appropriation through the act of baptism.
-
-v.21 — NET: "Go, because I will send you far away to the
-       Gentiles" — "far away to the Gentiles" — the word that
-       triggers the riot. WEB: "I will send you far away to the
-       Gentiles." KJV: "I will send thee far hence unto the
-       Gentiles." Jewish rage at Gentile inclusion.
-
-v.28 — NET: "I acquired this citizenship with a large sum of
-       money" — the tribune paid for his citizenship. Paul: "But I
-       was even born a citizen." WEB: "I bought my citizenship for
-       a great price." Inherited citizenship outranked purchased —
-       the tribune is now afraid.
-
-GLOSSARY
-------------------------------------
-Gamaliel      — The most respected rabbi of his generation. Paul's teacher.
-               A Pharisee who earlier counseled moderation toward the church
-               (Acts 5:34-39).
-
-Hebrew tongue — Likely Aramaic — the common spoken language of Palestinian
-               Jews. Paul's use of it gained the crowd's attention and respect.
-
-Just One      — A messianic title for Jesus emphasizing His righteousness
-               and innocence.
-
-Roman citizen — A legal status conferring significant rights: protection from
-               scourging without trial, right to appeal to Caesar, and
-               exemption from certain punishments.
-
-Free born     — Paul was born a Roman citizen (v.28) — a higher status than
-               those who purchased citizenship. His family had likely received
-               citizenship for service to Rome.
-
-Scourging     — Roman flogging with a flagellum — a brutal punishment that
-               could kill. Illegal to inflict on a Roman citizen without trial.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -209,14 +113,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Acts Overview:
   https://bibleproject.com/explore/video/acts/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

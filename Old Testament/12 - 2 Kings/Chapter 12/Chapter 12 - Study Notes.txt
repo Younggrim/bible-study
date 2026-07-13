@@ -81,31 +81,6 @@ MAP & GEOGRAPHY NOTES
 - Key locations: Jordan River (Elisha's miracles, chs.2, 5), Damascus (Syria/Aram), Nineveh (Assyrian capital), Babylon (where Judah is exiled).
 - Sennacherib's invasion route threatens Jerusalem (chs.18-19). Exile destinations: Assyria (for Israel) and Babylon (for Judah).
 
-KEY VERSES
-------------------------------------
-v.2  — "Jehoash did that which was right in the sight of the LORD
-        all his days wherein Jehoiada the priest instructed him."
-        (ESV) — The most revealing qualifier in Kings. Joash was
-        righteous only while guided. Remove the guide, and the
-        righteousness disappears. Borrowed faith does not survive
-        the loss of its source.
-
-v.7  — "Why repair you not the breaches of the house?" (ESV) —
-        Twenty-three years of collected funds with no repairs. The
-        king holds the priests accountable. Leadership requires
-        asking hard questions when institutions fail to fulfill
-        their purpose.
-
-v.15 — "They dealt faithfully." (ESV) — The workmen needed no
-        accounting because their character was known. Integrity
-        eliminates the need for surveillance. When people deal
-        faithfully, systems of control become unnecessary.
-
-v.18 — "Jehoash king of Judah took all the hallowed things... and
-        sent it to Hazael king of Syria." (ESV) — The king who
-        repaired the Temple now empties it. Fear produces
-        compromise that undoes years of faithful work.
-
 CROSS-REFERENCES
 ------------------------------------
 v.2  — 2 Chronicles 24:17-22 — After Jehoiada's death, Joash
@@ -146,72 +121,6 @@ Charles Spurgeon:
   your own communion with God. The faith that depends on another
   man will die when that man dies."
 
-TRANSLATION COMPARISON
-------------------------------------
-v.2  — KJV: "all his days wherein Jehoiada the priest instructed
-       him" / ESV: "all his days, because Jehoiada the priest
-       instructed him" — The Hebrew "asher" can mean "in which" or
-       "because." KJV implies a time limit (while Jehoiada lived);
-       ESV implies causation (because of Jehoiada's instruction).
-       Both are grammatically valid; 2 Chronicles 24 confirms the
-       time-limit interpretation.
-
-v.9  — KJV: "a chest" / ESV: "a chest" — Hebrew "aron" — the same
-       word used for the Ark of the Covenant. This offering chest
-       is a humble echo of the sacred Ark — both are containers
-       set in God's house for sacred purposes.
-
-v.15 — KJV: "they dealt faithfully" / ESV: "they dealt honestly" —
-       Hebrew "be'emunah" = in faithfulness/trustworthiness. The
-       root is the same as "amen" — these men were reliable,
-       trustworthy, true to their word.
-
-v.20 — KJV: "the house of Millo" / ESV: "the house of Millo" —
-       Millo was a fortification or filled terrace in Jerusalem,
-       part of the city's defensive structure. Joash was murdered
-       in a government building — killed by insiders, not invaders.
-
-v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "Lord approved" for KJV's "sight of the LORD"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.9 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: adds "entrance of the Lord’s temple. The"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.15 — ASV: "give to them that did the work;" for KJV's "be bestowed on workmen:"
-       NET: "treasurers who disbursed" for KJV's "men, into whose hand they delivered"
-       WEB: "didn’t demand an accounting from" for KJV's "reckoned not with"
-v.20 — NET: "road that goes" for KJV's "house of Millo, which goeth"
-       WEB: "on the way that goes" for KJV's "which goeth"
-
-GLOSSARY
-------------------------------------
-Jehoiada     — The high priest who saved Joash as an infant,
-             orchestrated the coup against Athaliah, and served as
-             spiritual guide throughout Joash's early reign. He
-             lived to 130 and was buried among the kings — the only
-             non-royal to receive this honor (2 Chronicles 24:16).
-
-High Places  — Local worship sites on hills or elevated areas,
-             originally Canaanite but adopted by Israelites. Even
-             when dedicated to Yahweh, they represented
-             decentralized worship contrary to Deuteronomy's
-             command to worship at one chosen place (Jerusalem).
-
-Hazael       — King of Syria whose aggression against Israel and
-             Judah fulfilled Elisha's prophecy (8:12). His threat
-             to Jerusalem forced Joash to strip the Temple —
-             undoing years of restoration work.
-
-Temple       — Solomon's Temple, built c. 960 BC, had deteriorated
-Repair         over decades of neglect and Athaliah's Baal worship.
-             Joash's repair project was both practical (structural
-             maintenance) and spiritual (restoring God's house to
-             proper condition).
-
-House of     — A fortification or filled terrace in Jerusalem's
-Millo          defenses, possibly part of the palace complex. The
-             site of Joash's assassination by his own servants.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Borrowed faith does not survive the loss of its source (v.2).
@@ -250,14 +159,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — 2 Kings Overview:
   https://bibleproject.com/explore/video/1-2-kings/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

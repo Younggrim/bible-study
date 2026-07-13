@@ -79,29 +79,6 @@ MAP & GEOGRAPHY NOTES
 - Gath: One of the five Philistine cities — Achish's capital, about 25 miles west of Bethlehem on the coastal plain
 - David raids southern peoples (Geshurites, Girzites, Amalekites) from Ziklag while telling Achish he raids Judah
 
-KEY VERSES
-------------------------------------
-v.1  — "And David said in his heart, I shall now perish one day by the
-        hand of Saul." — A statement of despair from the man who
-        declared "the battle is the LORD's" (17:47). Even great faith
-        can waver under prolonged pressure. David's conclusion
-        contradicts God's promises — but it feels rational after years
-        of running. This is the danger of reasoning from circumstances
-        rather than from God's word.
-
-v.4  — "Saul sought no more again for him." — David's plan works on a
-        human level. The pursuit ends. But at what cost? David is now
-        living among pagans, deceiving his host, and operating without
-        divine guidance. Sometimes our "solutions" work practically
-        but cost us spiritually.
-
-v.12 — "And Achish believed David, saying, He hath made his people
-        Israel utterly to abhor him; therefore he shall be my servant
-        for ever." — The success of David's deception. Achish is
-        completely fooled. But this "success" will create a crisis in
-        chapters 28-29: Achish will expect David to fight against
-        Israel. Deception always creates future complications.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — Psalm 31:22 — "I said in my haste, I am cut off from before
@@ -136,74 +113,6 @@ Charles Spurgeon:
   the LORD's' one day may say 'I shall perish' the next, if he takes
   his eyes off God and fixes them on circumstances. Faith lives by
   looking up, not around."
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — KJV: "David said in his heart" / ESV: "David said in his
-       heart" — Hebrew "vayomer David el-libbo" = said to his heart.
-       Both translations agree. This is internal reasoning — David
-       talking to himself rather than inquiring of God. The contrast
-       with his earlier pattern of seeking God (23:2, 4, 9-12) is
-       stark.
-
-v.8  — KJV: "the Geshurites, and the Gezrites, and the Amalekites" /
-       ESV: "the Geshurites, the Girzites, and the Amalekites" — The
-       middle group is spelled differently in various manuscripts.
-       These were semi-nomadic peoples in the southern wilderness
-       between Philistia and Egypt. Both translations reflect textual
-       uncertainty about the exact name.
-
-v.10 — KJV: "Against the south of Judah" / ESV: "Against the Negeb of
-       Judah" — Hebrew "al-negev Yehudah." "Negev" = the dry/south
-       region. KJV translates as "south"; ESV transliterates as
-       "Negeb" (the proper geographical term). Both are correct — the
-       Negev is the southern wilderness region of Judah.
-
-v.12 — KJV: "He hath made his people Israel utterly to abhor him" /
-       ESV: "He has made himself an utter stench to his people Israel"
-       — Hebrew "hiv'ish hiv'ish be-ammo be-Yisra'el." The doubled
-       verb "hiv'ish" (to make stink/abhor) emphasizes completeness.
-       ESV's "utter stench" captures the Hebrew metaphor more vividly
-       than KJV's "utterly to abhor."
-
-v.1 — ASV: "all the borders" for KJV's "any coast"
-       NET: "thought to himself, “One of these days I’m going to be sw..." for KJV's "said in his heart, I shall now perish one day"
-       WEB: "all the borders" for KJV's "any coast"
-v.8 — ASV: adds "who were of old,"
-       NET: "Amalekites. (They had been living in that land for a long..." for KJV's "Gezrites, and"
-       WEB: "who were of old, on the way" for KJV's "as thou goest"
-v.10 — ASV: "raid to-day?" for KJV's "road to day?"
-       NET: "Judah” or “The Negev of Jerahmeel” or “The Negev" for KJV's "Judah, and against the south"
-       WEB: "raid today?”" for KJV's "road to day? And"
-v.12 — NET: "thinking to himself, “He is really hated among" for KJV's "saying, He hath made"
-       WEB: "him. Therefore" for KJV's "him; therefore"
-
-GLOSSARY
-------------------------------------
-Ziklag         — A town in the Negev given to David by Achish (v.6).
-               Originally allotted to Judah (Joshua 15:31) or Simeon
-               (Joshua 19:5), it had come under Philistine control.
-               David's possession of it restored it to Judah
-               permanently. It served as his base for 16 months and
-               will be burned by Amalekites in chapter 30.
-
-Geshurites     — A people group in the southern wilderness (v.8), not
-               to be confused with the Geshurites of the Golan Heights
-               (2 Samuel 3:3). These were inhabitants of the desert
-               region between Philistia and Egypt — enemies of Israel
-               whom David raided.
-
-Negev          — Hebrew "negev" = dry, south (v.10). The arid southern
-               region of Judah, extending from Beersheba toward the
-               Sinai. David claims to raid the "Negev of Judah" (i.e.,
-               southern Judah) when he is actually raiding Israel's
-               enemies further south.
-
-Amalekites     — Perennial enemies of Israel (v.8), descended from
-               Esau (Genesis 36:12). God commanded their total
-               destruction (Exodus 17:14; Deuteronomy 25:19). Saul
-               failed to complete this (ch.15). David now raids them
-               — ironically doing what Saul was supposed to do.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Prolonged pressure can erode even strong faith (v.1). David — the
@@ -244,14 +153,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — 1 Samuel Overview:
   https://bibleproject.com/explore/video/1-samuel/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

@@ -38,22 +38,6 @@ MAP & GEOGRAPHY NOTES
 - The shipwreck at Malta (v.41): After 14 days adrift in the Adriatic Sea (the central Mediterranean), the ship ran aground on the island of Malta, south of Sicily.
 - The voyage covers approximately 2,000 miles — one of the most detailed sea narratives in ancient literature.
 
-KEY VERSES
-------------------------------------
-v.22 — "There will be no loss of life among you, but only of the ship." (ESV)
-        — God's promise through Paul: lives saved, ship lost.
-
-v.24 — "Do not be afraid, Paul; you must stand before Caesar. And behold, God
-        has granted you all those who sail with you." (ESV) — God's guarantee
-        and generosity.
-
-v.25 — "I have faith in God that it will be exactly as I have been told."
-        (ESV) — Faith defined: believing God's word despite contrary
-        circumstances.
-
-v.44 — "And so it was that all were brought safely to land." (ESV) — God's
-        promise fulfilled completely.
-
 CROSS-REFERENCES
 ------------------------------------
 v.10  — Proverbs 27:12 — "The prudent see danger and take refuge."
@@ -81,66 +65,6 @@ Charles Spurgeon:
   pass.' I believe GOD. That it shall be even as it was told me. Faith is
   taking God at His word — period."
 
-TRANSLATION COMPARISON
-------------------------------------
-v.10 — NET: "Men, I can see that this voyage is going to end
-       in disaster" — "I can see" (theOrO = I perceive/observe).
-       WEB: "I perceive that the voyage will be with injury and
-       much loss." Paul's practical wisdom — ignored by the captain
-       and centurion.
-
-v.14 — KJV: "Euroclydon" / ESV: "the northeaster" — Greek "Eurakylōn." KJV
-       preserves the Greek name; ESV translates it descriptively. The name
-       combines "euros" (east wind) and "kludōn" (wave/surge). A hurricane-
-       force storm.
-
-v.20 — NET: "when neither sun nor stars appeared for many days
-       and a violent storm continued to batter us, we finally
-       abandoned all hope of being saved" — "abandoned all hope"
-       (periEreito elpis pasa). WEB: "all hope that we would be
-       saved was now taken away." Human hopelessness sets up
-       divine intervention.
-
-v.23 — NET: "an angel of the God to whom I belong and whom I
-       serve came to me" — "to whom I belong" (hou eimi) — Paul's
-       identity: God's possession. WEB: "An angel of God, whose I
-       am and whom I serve." Ownership before service.
-
-v.25 — NET: "I have faith in God that it will be just as I have
-       been told" — "I have faith" (pisteuO tO theO). WEB: "I
-       believe God." KJV: "I believe God." Simple, direct trust —
-       the basis for Paul's calm amid 276 panicking people.
-
-v.27 — KJV: "driven up and down in Adria" / ESV: "driven across the Adriatic
-       Sea" — Both equivalent. The Adriatic Sea in ancient usage included the
-       central Mediterranean between Italy, Greece, and North Africa — not
-       just the modern Adriatic.
-
-v.34 — NET: "not a hair of your head will be lost" — echoing
-       Luke 21:18. WEB: "not a hair will perish from any of your
-       heads." Sovereign protection — all 276 survive (v.44). God
-       keeps His word to the letter.
-
-v.37 — KJV: "two hundred threescore and sixteen souls" / ESV: "276 persons"
-       — Both identical (276). A large grain ship from Alexandria carrying
-       wheat to Rome.
-
-GLOSSARY
-------------------------------------
-Euroclydon    — A violent northeast wind — a Mediterranean hurricane. It
-               drove the ship for 14 days without sun or stars.
-
-Centurion Julius — The Roman officer responsible for transporting Paul and
-               other prisoners to Rome. He treated Paul courteously.
-
-Undergirding  — Passing ropes under the hull to hold the ship together in
-               the storm — an ancient emergency technique.
-
-Adria         — The central Mediterranean Sea (broader than the modern Adriatic).
-
-Malta/Melita  — The island where they shipwrecked — modern Malta, south of
-               Sicily.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "I believe God, that it shall be even as it was told me" (v.25). In the
@@ -165,14 +89,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Acts Overview:
   https://bibleproject.com/explore/video/acts/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

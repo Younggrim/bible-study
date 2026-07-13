@@ -40,31 +40,6 @@ MAP & GEOGRAPHY NOTES
 - Antioch in Pisidia (v.14): An inland city in southern Asia Minor (modern Turkey). Paul preached in the synagogue here.
 - Perga in Pamphylia (v.13): A coastal city where John Mark left them and returned to Jerusalem.
 
-KEY VERSES
-------------------------------------
-v.2  — "The Holy Spirit said, 'Set apart for me Barnabas and Saul for the
-        work to which I have called them.'" (ESV) — The Spirit initiates
-        mission.
-
-v.38-39 — "Through this man forgiveness of sins is proclaimed to you, and by
-        him everyone who believes is freed from everything from which you
-        could not be freed by the law of Moses." (ESV) — Justification by
-        faith.
-
-v.46 — "It was necessary that the word of God be spoken first to you. Since
-        you thrust it aside... behold, we are turning to the Gentiles." (ESV)
-        — The Gospel's expansion when rejected by one group.
-
-v.47 — "I have made you a light for the Gentiles, that you may bring
-        salvation to the ends of the earth." (ESV) — Isaiah 49:6 applied to
-        Paul's mission.
-
-v.48 — "And as many as were appointed to eternal life believed." (ESV) —
-        Divine election and human faith together.
-
-v.52 — "And the disciples were filled with joy and with the Holy Spirit."
-        (ESV) — Joy and the Spirit despite persecution.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — Acts 11:26 — The Antioch church established.
@@ -101,80 +76,6 @@ Charles Spurgeon:
   "As many as were ordained to eternal life believed. God's ordination and
   man's believing — both are true. God chose them; they believed. Election
   does not cancel responsibility; it guarantees response."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.2  — KJV: "Separate me Barnabas and Saul" / ESV: "Set apart for me
-       Barnabas and Saul" — Both equivalent. The Holy Spirit speaks in the
-       first person — "for ME" — claiming personal authority to call and
-       commission. The Spirit is a person who directs the church's mission.
-       NET: "The Holy Spirit said, 'Set apart for me Barnabas
-       and Saul for the work to which I have called them'" — "Set
-       apart for ME" — the Spirit speaks in the first person,
-       claiming divine prerogative. WEB: "Separate Barnabas and
-       Saul for me." The Spirit initiates mission.
-
-v.9  — KJV: "Saul, (who also is called Paul)" / ESV: "Saul, who was also
-       called Paul" — Both identical. From this point, Luke uses "Paul"
-       exclusively. "Saul" was his Hebrew name; "Paul" his Roman name. As he
-       moves into Gentile ministry, the Gentile name becomes primary.
-       NET: "Saul (also known as Paul)" — the transition from
-       his Hebrew name to his Roman name occurs here. WEB: "who is
-       also called Paul." KJV: "Saul, (who also is called Paul)."
-       Not a name change at conversion but a contextual shift for
-       Gentile ministry.
-
-v.38 — NET: "through this one forgiveness of sins is proclaimed
-       to you, and by this one everyone who believes is justified
-       from everything from which the law of Moses could not
-       justify you" — "justified from everything" — beyond what
-       the Law could accomplish. WEB: "everyone who believes is
-       justified from all things." Grace exceeds law.
-
-v.39 — KJV: "justified from all things" / ESV: "freed from everything" —
-       Greek "dikaioō" — declared righteous, acquitted. KJV's "justified"
-       preserves the legal/forensic sense; ESV's "freed" emphasizes the
-       liberation aspect. The same word Paul uses extensively in Romans and
-       Galatians. This is the first clear statement of justification by faith
-       in Acts.
-
-v.46 — NET: "Since you reject it and do not consider yourselves
-       worthy of eternal life, we are turning to the Gentiles" —
-       "do not consider yourselves worthy" (ouk axious krinete
-       heautous) — they judged themselves unworthy by their
-       rejection. WEB: "judge yourselves unworthy of eternal life."
-
-v.48 — KJV: "ordained to eternal life" / ESV: "appointed to eternal life" —
-       Greek "tetagmenoi" — appointed, arranged, set in order. Both convey
-       divine sovereignty. Those whom God had appointed to eternal life
-       believed. Divine sovereignty and human faith are both present.
-       NET: "all who had been appointed for eternal life believed"
-       — "appointed" (tetagmenoi = ordered/arranged/enrolled). WEB:
-       "as many as were appointed to eternal life believed." KJV:
-       "as many as were ordained to eternal life believed." One of
-       the strongest predestination texts in Acts.
-
-GLOSSARY
-------------------------------------
-Separate      — To set apart for a specific purpose. The Spirit "separated"
-               Barnabas and Saul from the Antioch church for missionary work.
-
-First missionary journey — Paul and Barnabas' trip from Antioch through
-               Cyprus, Pisidian Antioch, Iconium, Lystra, and Derbe
-               (approximately AD 46-48).
-
-Justified     — Declared righteous before God — acquitted of guilt. Not made
-               righteous by works but declared righteous by faith in Christ.
-
-Ordained to eternal life — God's sovereign appointment of individuals to
-               salvation. Those He ordained believed — election produces faith.
-
-Pisidian Antioch — A Roman colony in central Asia Minor (modern Turkey). Not
-               the same as Syrian Antioch. The site of Paul's first major
-               sermon.
-
-Light of the Gentiles — Isaiah 49:6 — a messianic title applied to Paul's
-               mission. The Gospel is for all nations, not just Israel.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -225,14 +126,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Acts Overview:
   https://bibleproject.com/explore/video/acts/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

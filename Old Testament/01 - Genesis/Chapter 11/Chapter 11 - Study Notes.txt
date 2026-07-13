@@ -45,24 +45,6 @@ MAP & GEOGRAPHY NOTES
 • Haran (v.31) — a city in northwest Mesopotamia (modern Harran, Turkey), a
   caravan crossroads on the route between Ur and Canaan.
 
-KEY VERSES
-------------------------------------
-v.4  — "Come, let us build ourselves a city and a tower with its top in the
-        heavens, and let us make a name for ourselves, lest we be dispersed."
-        (ESV) — Human rebellion: self-glory and self-determination.
-
-v.5  — "And the LORD came down to see the city and the tower." (ESV) —
-        Ironic: their great tower is so small God must descend to see it.
-
-v.7  — "Come, let us go down and there confuse their language." (ESV) —
-        God's judgment on united rebellion.
-
-v.9  — "Therefore its name was called Babel, because there the LORD confused
-        the language of all the earth." (ESV) — Babel = confusion.
-
-v.30 — "Now Sarai was barren; she had no child." (ESV) — The obstacle that
-        sets up God's miraculous provision.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — Acts 2:1-11 — Pentecost reverses Babel: one message understood in
@@ -98,104 +80,6 @@ Charles Spurgeon:
   response: confusion and scattering. Every attempt to build a kingdom without
   God ends in confusion. Every tower of human pride is brought low."
 
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — Hebrew "saphah echath udbarim achadim" — one lip and one set of words.
-       KJV: "the whole earth was of one language, and of one speech"
-       ESV: "the whole earth had one language and the same words"
-       ASV: "the whole earth was of one language and of one speech"
-       NET: "the whole earth had a common language and a common vocabulary"
-       WEB: "The whole earth was of one language and of one speech"
-       Analysis: NET uniquely distinguishes between "language" (grammar/
-       system) and "vocabulary" (shared words) — rendering the Hebrew double
-       expression as two distinct concepts. KJV/ASV/WEB combine them as
-       "one language and one speech." ESV's "same words" is closest to the
-       literal Hebrew "dbarim achadim."
-
-v.3  — Hebrew "chemar lachem lachomer" — bitumen/tar for mortar.
-       KJV: "slime had they for mortar"
-       ESV: "bitumen for mortar"
-       ASV: "slime had they for mortar"
-       NET: "tar for mortar"
-       WEB: "they used tar for mortar"
-       Analysis: KJV/ASV's "slime" is archaic English for bitumen/tar. ESV
-       uses the technical "bitumen." NET/WEB use "tar" — most accessible for
-       modern readers. All describe the same waterproof asphalt substance
-       abundant in Mesopotamia.
-
-v.4  — Hebrew "umigdal verosho bashamayim vena'aseh-lanu shem"
-       KJV: "a tower, whose top may reach unto heaven... let us make us a name"
-       ESV: "a tower with its top in the heavens... let us make a name for ourselves"
-       ASV: "a tower, whose top may reach unto heaven... let us make us a name"
-       NET: "a tower whose top reaches to the heavens... Let us make a name for ourselves"
-       WEB: "a tower whose top reaches to the sky... let's make a name for ourselves"
-       Analysis: WEB uses "sky" instead of "heaven(s)" — distinguishing
-       physical height from spiritual aspiration. A ziggurat — a stepped
-       temple-tower. Self-glorification rather than glorifying God. Contrast
-       with 12:2 where GOD makes Abram's name great.
-
-v.6  — Hebrew "lo-yibbazer mehem kol asher yazmu la'asoth"
-       KJV: "nothing will be restrained from them, which they have imagined to do"
-       ESV: "nothing that they propose to do will now be impossible for them"
-       ASV: "nothing will be withholden from them, which they purpose to do"
-       NET: "nothing they plan to do will be beyond them"
-       WEB: "nothing will be withheld from them, which they intend to do"
-       Analysis: NET's "beyond them" is most dynamic. ESV's "impossible" is
-       strong. KJV/ASV/WEB retain the restraint language. God acknowledges
-       human potential when unified — and acts to limit it because their
-       unified purpose is rebellion.
-
-v.7  — Hebrew "havah nerdah venablah sham sephatam"
-       KJV: "let us go down, and there confound their language"
-       ESV: "let us go down and there confuse their language"
-       ASV: "let us go down, and there confound their language"
-       NET: "Come, let's go down and confuse their language"
-       WEB: "Come, let's go down, and there confuse their language"
-       Analysis: The divine plural again (cf. 1:26, 3:22) — the Trinity in
-       action. ESV/NET/WEB modernize "confound" to "confuse" — same Hebrew
-       "balal." NET/WEB use informal "let's" instead of formal "let us."
-
-v.9  — Hebrew "Bavel... balal" — Babel... confused (wordplay).
-       KJV: "Therefore is the name of it called Babel; because the LORD did there confound the language"
-       ESV: "Therefore its name was called Babel, because there the LORD confused the language"
-       ASV: "Therefore was the name of it called Babel; because Jehovah did there confound the language"
-       NET: "That is why its name was called Babel—because there the LORD confused the language"
-       WEB: "Therefore its name was called Babel, because there Yahweh confused the language"
-       Analysis: All preserve the Hebrew wordplay: "Babel" from "balal"
-       (confuse/mix). The Babylonians claimed "Babel" meant "gate of God"
-       (Bab-ili). God says it means "confusion." ASV uses "Jehovah"; WEB
-       uses "Yahweh."
-
-v.30 — Hebrew "aqarah" — barren, unable to conceive.
-       KJV: "Sarai was barren; she had no child"
-       ESV: "Sarai was barren; she had no child"
-       ASV: "Sarai was barren; she had no child"
-       NET: "Sarai was barren; she had no child"
-       WEB: "Sarai was barren. She had no child"
-       Analysis: All translations identical. A critical detail: God's promise
-       of a great nation (12:2) will require a miracle. The impossible
-       situation sets up divine intervention.
-
-GLOSSARY
-------------------------------------
-Tower of Babel — Humanity's united attempt to reach heaven and make a name
-               apart from God. Represents organized rebellion.
-
-Babel/Confusion — The result of God's judgment on human pride. Languages
-               confused, people scattered.
-
-"Let us make us a name" — Self-glorification. The opposite of living for
-               God's glory. The root sin of Babel.
-
-God came down  — Ironic divine descent. Humanity's greatest achievement is
-               so small that God must stoop to see it.
-
-Sarai was barren — The humanly impossible situation that sets up God's
-               miraculous intervention. God works through impossibility.
-
-Ur of the Chaldees — Abram's hometown in southern Mesopotamia (modern Iraq).
-               A sophisticated pagan city. God calls Abram OUT of paganism.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "Let us make us a name" (v.4). Where are you building for YOUR name rather
@@ -223,14 +107,3 @@ VIDEO RESOURCES
 The Bible Project — Genesis Overview:
   https://bibleproject.com/explore/video/genesis-1-11/ (Chapters 1-11)
   https://bibleproject.com/explore/video/genesis-12-50/ (Chapters 12-50)
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

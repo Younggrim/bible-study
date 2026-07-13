@@ -32,32 +32,6 @@ Romans 3:23-26 is arguably the most theologically dense passage in the entire
 Bible — containing the doctrines of universal sin, justification, grace,
 redemption, propitiation, and God's righteousness in one paragraph.
 
-KEY VERSES
-------------------------------------
-v.10 — "None is righteous, no, not one." (ESV) — The universal verdict:
-        all guilty.
-
-v.20 — "By works of the law no human being will be justified in his sight,
-        since through the law comes knowledge of sin." (ESV) — The Law's
-        purpose: not to save but to reveal sin.
-
-v.23 — "For all have sinned and fall short of the glory of God." (ESV) — The
-        universal problem stated simply.
-
-v.24 — "And are justified by his grace as a gift, through the redemption that
-        is in Christ Jesus." (ESV) — The solution: free justification by grace
-        through Christ's redemption.
-
-v.25 — "Whom God put forward as a propitiation by his blood, to be received
-        by faith." (ESV) — Christ as the satisfaction of God's wrath.
-
-v.26 — "So that he might be just and the justifier of the one who has faith
-        in Jesus." (ESV) — The great problem solved: how can God be just AND
-        justify sinners? Through Christ.
-
-v.28 — "One is justified by faith apart from works of the law." (ESV) — The
-        Reformation principle: justification by faith alone.
-
 CROSS-REFERENCES
 ------------------------------------
 v.4   — Psalm 51:4 — "Against you, you only, have I sinned."
@@ -97,85 +71,6 @@ Charles Spurgeon:
   irreligious. The moral and the immoral. The educated and the ignorant.
   All have sinned and come short. The ground is level at the foot of the
   cross — every person stands equally condemned and equally in need of grace."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.10 — NET: "There is no one righteous, not even one" — Paul
-       begins a catena of OT quotations (Psalms, Isaiah, Ecclesiastes).
-       WEB: "There is no one righteous; no, not one." KJV: "There
-       is none righteous, no, not one." The universal indictment.
-
-v.20 — KJV: "by the deeds of the law there shall no flesh be justified" / ESV: "For by works of the law no human being will be justified" —
-       The Law was never designed to save — only to reveal sin. It is a
-       mirror, not a soap. It shows you the dirt; it cannot wash it off.
-
-v.21 — NET: "But now apart from the law the righteousness of God
-       has been disclosed" — "disclosed" (pephanerOtai = made
-       manifest/revealed). WEB: "a righteousness of God has been
-       revealed." KJV: "the righteousness of God without the law
-       is manifested." A new era: righteousness available without
-       law-keeping.
-
-v.22 — KJV: "the righteousness of God which is by faith of Jesus Christ" —
-       ESV: "through faith in Jesus Christ" — The Greek can mean "faith in
-       Christ" (objective genitive) or "the faithfulness of Christ" (subjective
-       genitive). Most translations favor "faith in Christ."
-
-v.24 — KJV: "justified freely" / ESV: "and are justified by his grace as" — Greek "dorean" — as a gift, without cost,
-       gratis. Justification costs the believer nothing — it cost Christ
-       everything.
-       NET: "justified freely by his grace through the redemption
-       that is in Christ Jesus" — "freely" (dOrean = as a gift/
-       without cause). WEB: "being justified freely by his grace."
-       KJV: "justified freely by his grace." We contribute nothing
-       to our justification.
-
-v.25 — KJV: "propitiation" / ESV: Both equivalent. — Greek "hilastērion" — the mercy seat (the lid
-       of the Ark of the Covenant where blood was sprinkled on the Day of
-       Atonement). Christ IS the mercy seat — the place where God's wrath
-       is satisfied and mercy is dispensed.
-       NET: "God publicly displayed him at his death as the mercy
-       seat accessible through faith" — "mercy seat" (hilastErion)
-       — the lid of the Ark where blood was sprinkled on Atonement
-       Day. KJV: "propitiation." WEB: "a sacrifice of atonement."
-       NET's rendering connects Christ directly to the Day of
-       Atonement imagery.
-
-v.26 — KJV: "just, and the justifier" / ESV: "he might be just and the justifier" — The great theological problem: how
-       can a just God forgive guilty sinners without compromising His justice?
-       Answer: Christ bore the penalty, satisfying justice, so God can justify
-       believers without being unjust.
-
-v.28 — NET: "For we consider that a person is declared righteous
-       by faith apart from the works of the law" — "declared
-       righteous" (dikaiousthai) — forensic/legal declaration.
-       WEB: "justified by faith apart from the works of the law."
-       KJV: "justified by faith without the deeds of the law."
-       Luther's sola fide finds its primary text here.
-
-GLOSSARY
-------------------------------------
-Justified     — Declared righteous before God — acquitted of guilt. A legal
-               term: the judge declares the defendant "not guilty" — not
-               because they're innocent but because the penalty has been paid.
-
-Freely        — Greek "dorean" — as a gift, without cost. Justification is
-               free to the recipient — paid for entirely by Christ.
-
-Grace         — Unmerited favor — God giving what we don't deserve (salvation)
-               and not giving what we do deserve (judgment).
-
-Redemption    — The payment of a price to free a captive. Christ's death is
-               the ransom price that frees sinners from bondage to sin and
-               death.
-
-Propitiation  — The satisfaction of God's wrath through sacrifice. Christ
-               absorbed God's righteous anger against sin so that believers
-               are no longer under wrath.
-
-Just and Justifier — God's dual achievement at the cross: He remains perfectly
-               just (sin is punished) while also justifying sinners (the
-               penalty is borne by Christ, not by them).
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -230,14 +125,3 @@ The Bible Project — Romans Overview:
   https://bibleproject.com/explore/video/romans/
   Animated overview of the book's literary structure, themes, and
   theological message. Excellent visual introduction. (Approx. 8 minutes)
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

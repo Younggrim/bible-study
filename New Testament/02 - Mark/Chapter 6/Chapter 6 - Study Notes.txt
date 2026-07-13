@@ -43,23 +43,6 @@ MAP & GEOGRAPHY NOTES
 - A desert place near Bethsaida (v.32): The remote area on the northeast shore of the Sea of Galilee where the 5,000 were fed.
 - Sea of Galilee (v.47): Jesus walked on the water during the crossing back toward the western shore (Gennesaret, v.53).
 
-KEY VERSES
-------------------------------------
-v.4  — "A prophet is not without honor, except in his hometown." (ESV) — Familiarity
-        breeds contempt — even toward the Son of God.
-
-v.6  — "And he marveled because of their unbelief." (ESV) — One of only two times Jesus
-        marveled — once at faith (the centurion), once at unbelief (Nazareth).
-
-v.31 — "Come away by yourselves to a desolate place and rest a while." (ESV) —
-        Jesus' invitation to rest — even in the middle of demanding ministry.
-
-v.34 — "He had compassion on them, because they were like sheep without a
-        shepherd." (ESV) — The heart of Christ toward the lost.
-
-v.50 — "Take heart; it is I. Do not be afraid." (ESV) — Christ's presence in
-        the storm — the antidote to fear.
-
 CROSS-REFERENCES
 ------------------------------------
 v.3   — John 1:46 — "Can anything good come from Nazareth?"
@@ -96,82 +79,6 @@ Charles Spurgeon:
   "It is I — ego eimi — I AM. In the darkest hour, in the wildest storm,
   on the most terrifying sea — He comes. And His first words are not
   rebuke but comfort: Be of good cheer. It is I. Be not afraid."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.3  — KJV: "Is not this the carpenter?" / ESV: "Is not this the carpenter?"
-       — Both identical. Mark identifies Jesus as "the carpenter" — the only
-       Gospel that calls Jesus a carpenter directly (Matthew 13:55 says "the
-       carpenter's son"). Jesus worked with His hands for approximately 18
-       years before His public ministry.
-       NET: "Isn't this the carpenter, the son of Mary?" —
-       makes explicit what KJV renders "Is not this the carpenter,
-       the son of Mary?" The designation "son of Mary" (rather than
-       "son of Joseph") may imply the townspeople's awareness of
-       Jesus' unusual parentage.
-
-v.5  — KJV: "he could there do no mighty work" / ESV: "he could do no mighty
-       work there" — Both equivalent. Not inability but inappropriateness —
-       God's power is not released where faith is absent. Jesus still healed
-       "a few sick folk" (v.5) but the atmosphere of unbelief limited the
-       scope of His ministry there.
-
-v.14 — NET: "King Herod heard this, for Jesus' name had become
-       well known" — Herod Antipas was technically a tetrarch,
-       not a king. Mark uses the popular title; NET preserves it.
-
-v.20 — NET: "Herod was afraid of John and protected him because
-       he knew that John was a righteous and holy man" — "protected
-       him" is distinctive. KJV/ASV: "observed him" or "kept him
-       safe." WEB: "kept him safe." NET clarifies the paradox of
-       Herod imprisoning yet shielding John.
-
-v.41 — WEB: "he blessed and broke the loaves" — straightforward.
-       NET: "he gave thanks for the loaves" — renders Greek
-       "eulogēsen" as "gave thanks" rather than "blessed." The
-       distinction matters: did Jesus bless God (Jewish berakah)
-       or bless the food?
-
-v.48 — KJV: "would have passed by them" / ESV: "He meant to pass by them" —
-       Both equivalent. An echo of Old Testament theophanies where God "passes
-       by" (Exodus 33:19, 1 Kings 19:11). Jesus was revealing His divine glory
-       — not ignoring them.
-
-v.50 — KJV: "Be of good cheer: it is I; be not afraid" / ESV: "Take heart;
-       it is I. Do not be afraid" — Both equivalent. Greek "ego eimi" — "I AM"
-       — a divine self-identification echoing Exodus 3:14.
-
-v.52 — KJV: "their heart was hardened" / ESV: "their hearts were hardened" —
-       Both identical. Even the disciples had hard hearts at this point. They
-       had seen the feeding miracle hours earlier but still didn't understand
-       who Jesus was. Spiritual understanding is progressive, not instant.
-       NET: "they did not understand about the loaves, because
-       their hearts were hardened" — "hardened" (pōroō) is strong
-       language usually reserved for enemies of Jesus. Mark applies
-       it to the disciples — a distinctive Markan theme.
-
-GLOSSARY
-------------------------------------
-Carpenter     — Greek "tektōn" — a craftsman who works with wood, stone, or
-               metal. Jesus was a manual laborer for most of His life before
-               beginning public ministry at age 30.
-
-Herodias      — The wife of Herod Antipas, previously married to his brother
-               Philip. John the Baptist condemned this marriage as unlawful.
-               She orchestrated John's execution.
-
-Compassion    — Greek "splagchnizomai" — to be moved in the bowels/gut. A
-               deep, visceral emotional response — not mere pity but gut-level
-               empathy that drives action.
-
-Five loaves   — Barley bread — the food of the poor. A boy's lunch became
-               the raw material for a miracle feeding thousands.
-
-Fourth watch  — 3-6 AM — the last and darkest watch of the night. The hour
-               when Jesus came walking on the water.
-
-Hardened heart — A heart that has witnessed God's power but fails to understand
-               or respond with faith. Even disciples can have hardened hearts.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -222,14 +129,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Mark Overview:
   https://bibleproject.com/explore/video/mark/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

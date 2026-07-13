@@ -35,25 +35,6 @@ MAP & GEOGRAPHY NOTES
 - Jesus references "Solomon in all his glory" (v.29) — connecting to the Temple in Jerusalem, the center of Jewish worship and wealth.
 - The setting remains Galilee, where Jesus' audience consisted largely of working-class fishermen, farmers, and tradespeople who would understand references to birds, lilies, and daily bread.
 
-KEY VERSES
-------------------------------------
-v.6  — "But when you pray, go into your room and shut the door and pray to
-        your Father who is in secret." (ESV) — The priority of private prayer
-        over public performance.
-
-v.21 — "For where your treasure is, there your heart will be also." (ESV) —
-        Your spending reveals your true priorities.
-
-v.24 — "No one can serve two masters... You cannot serve God and money." (ESV)
-        — The impossibility of divided loyalty.
-
-v.33 — "But seek first the kingdom of God and his righteousness, and all these
-        things will be added to you." (ESV) — The one priority that orders
-        all others.
-
-v.34 — "Therefore do not be anxious about tomorrow, for tomorrow will be
-        anxious for itself." (ESV) — Live one day at a time.
-
 CROSS-REFERENCES
 ------------------------------------
 v.6   — Psalm 139:1-4 — God knows us completely, even in secret.
@@ -86,79 +67,6 @@ Charles Spurgeon:
   "Take no thought for the morrow. Not 'take no action' — but take no
   anxious thought. Plan without panic. Prepare without worry. The birds
   don't worry, and your Father feeds them. Are you not much better than they?"
-
-TRANSLATION COMPARISON
-------------------------------------
-v.6  — NET: "go into your inner room, close the door, and
-       pray to your Father in secret" — "inner room" (tameion =
-       storeroom/private chamber). WEB: "enter into your inner
-       room." KJV: "enter into thy closet." Privacy not for
-       isolation but for sincerity — God sees in secret.
-
-v.9  — NET: "So pray this way: Our Father in heaven, may your
-       name be honored" — "may your name be honored" (hagiasthEtO
-       to onoma sou). WEB: "may your name be kept holy." KJV:
-       "Hallowed be thy name." NET interprets the passive
-       imperative; KJV preserves the traditional form.
-
-v.11 — KJV: "Give us this day our daily bread" / ESV: "Give us this day our
-       daily bread" — Both identical. The Greek "epiousios" (translated
-       "daily") is one of the rarest words in the NT — found only here and
-       in Luke 11:3. Its exact meaning is debated: "for today," "for the
-       coming day," or "necessary for existence." All translations use "daily"
-       but the word is unique.
-       NET: "Give us today our daily bread" — "daily" (epiousion
-       = a unique word, meaning debated: for today? for tomorrow?
-       necessary? supernatural?). WEB: "Give us today our daily
-       bread." The word appears nowhere else in Greek literature —
-       its exact meaning remains uncertain.
-
-v.13 — KJV: "For thine is the kingdom, and the power, and the glory, for ever.
-       Amen." / ESV: [omitted from main text; footnoted] — This doxology is
-       absent from the oldest manuscripts. ESV/NET place it in a footnote. It
-       was likely added by the early church for liturgical use. It is
-       theologically sound but probably not original.
-
-v.22 — KJV: "if thine eye be single" — ESV: "if your eye is healthy" — NET:
-       "if your eye is good" — Greek "haplous" means single, simple, generous.
-       A "single eye" is one focused on God alone — not divided between God
-       and money.
-       NET: "The eye is the lamp of the body" — "lamp" (lychnos
-       = oil lamp). WEB: "The lamp of the body is the eye." KJV:
-       "The light of the body is the eye." How you see determines
-       what enters you — healthy eyes let in light; bad eyes fill
-       you with darkness.
-
-v.24 — KJV: "mammon" — Aramaic word for wealth/money personified as a rival
-       god. ESV/NET: "money." KJV preserves the Aramaic to emphasize that
-       money can become an idol — a master demanding worship.
-
-v.34 — NET: "So then, do not worry about tomorrow, for tomorrow
-       will worry about itself" — "worry" (merimnEsEte = be anxious/
-       divided in mind). WEB: "Don't be anxious for tomorrow." KJV:
-       "Take therefore no thought for the morrow." Each day has
-       enough trouble of its own (v.34b).
-
-GLOSSARY
-------------------------------------
-Alms          — Charitable giving to the poor. One of the three "acts of
-               righteousness" in Jewish piety (along with prayer and fasting).
-
-Closet        — KJV for a private inner room — a storeroom or small chamber.
-               The point: pray where no one sees you but God.
-
-Vain repetitions — Greek "battalogeo" — to babble, to pile up empty words.
-               Not about length of prayer but about mindless repetition
-               without genuine engagement.
-
-Mammon        — Aramaic word for wealth, riches, material possessions. Used
-               as a personification — money as a rival god demanding loyalty.
-
-Single eye    — An eye focused on one thing — God. The opposite of a divided
-               heart trying to serve two masters.
-
-Cubit         — A unit of measurement (approximately 18 inches). Jesus' point:
-               worry cannot add even a small amount to your life.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -213,17 +121,5 @@ The Bible Project — Matthew Overview:
   https://bibleproject.com/explore/video/matthew/
 
 
-
 The Chosen — The Sermon on the Mount (Matthew 5-7):
   https://youtu.be/uDJTRC6LIOk?si=lDSf8oIBzJo7p7t6
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

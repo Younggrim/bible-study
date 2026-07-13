@@ -86,43 +86,6 @@ MAP & GEOGRAPHY NOTES
 - The kingdom divides after Solomon: Israel (north, capital eventually at Samaria) and Judah (south, capital Jerusalem).
 - Key locations: Gibeon (Solomon's dream, ch.3), Tyre (Hiram's city in Phoenicia, chs.5-7), Mount Carmel (Elijah vs. Baal prophets, ch.18), Zarephath (Sidonian widow, ch.17), Mount Horeb/Sinai (Elijah flees, ch.19), Ramoth-gilead (Ahab's death, ch.22).
 
-KEY VERSES
-------------------------------------
-v.10 — "The cloud filled the house of the LORD." (ESV) — God's
-        visible presence fills the Temple. The building is validated
-        — not by human approval but by divine occupation. God moves
-        in.
-
-v.23 — "LORD God of Israel, there is no God like you, in heaven
-        above, or on earth beneath, who keepest covenant and mercy
-        with your servants that walk before you with all their
-        heart." (ESV) — The foundation of Solomon's prayer:
-        God's uniqueness and His covenant faithfulness.
-
-v.27 — "But will God indeed dwell on the earth? Behold, heaven and
-        the highest heaven cannot contain you; how much less this
-        house that I have built!" (ESV) — The most profound
-        theological statement in the chapter. God is transcendent
-        (beyond all creation) yet immanent (choosing to dwell with
-        His people). The Temple does not contain God — God
-        condescends to meet humanity there.
-
-v.46 — "For there is no one who does not sin." (ESV) — Solomon's
-        realistic anthropology. Universal human sinfulness is
-        assumed — the question is not whether Israel will sin but
-        what happens when they do. The answer: repentance and prayer
-        lead to forgiveness.
-
-v.56 — "There has not failed one word of all his good promise."
-        (ESV) — God's perfect faithfulness. Not one word has fallen
-        to the ground unfulfilled. This is the testimony of a man
-        who has watched God keep every promise made to his father.
-
-v.60 — "That all the people of the earth may know that the LORD is
-        God, and that there is none else." (ESV) — The ultimate
-        purpose: not Israel's comfort but God's glory among all
-        nations.
-
 CROSS-REFERENCES
 ------------------------------------
 v.9   — Hebrews 9:4 — Hebrews mentions the ark also contained
@@ -177,61 +140,6 @@ Charles Spurgeon:
   The God who keeps covenant and mercy is the God who will hear
   your cry."
 
-TRANSLATION COMPARISON
-------------------------------------
-v.2  — KJV: "the month Ethanim" / ESV: "the month Ethanim" — The
-       pre-exilic name for the seventh month (September/October),
-       later called Tishri. "Ethanim" means "ever-flowing streams"
-       — the month when only perennial streams still flow. This is
-       the month of the Feast of Tabernacles.
-
-v.6  — KJV: "the oracle" / ESV: "the inner sanctuary... the Most
-       Holy Place" — Hebrew "devir" (see chapter 6 notes). ESV
-       provides both the descriptive term and the theological name.
-
-v.11 — KJV: "the glory of the LORD had filled the house" / ESV:
-       "the glory of the LORD filled the house" — Hebrew "kevod
-       YHWH" = the glory/weight/presence of Yahweh. "Kavod" means
-       both "glory" and "weight/heaviness" — God's presence has
-       substance and overwhelming reality.
-
-v.27 — KJV: "the heaven and heaven of heavens" / ESV: "heaven and
-       the highest heaven" — Hebrew "ha-shamayim u-shemey
-       ha-shamayim" = the heavens and the heavens of heavens. A
-       superlative construction meaning the highest conceivable
-       realm. Even infinite space cannot contain God.
-
-v.47 — KJV: "bethink themselves" / ESV: "turn their heart" —
-       Hebrew "heshivu el-libam" = literally "bring back to their
-       heart," i.e., come to their senses, reflect seriously. KJV
-       "bethink" is archaic for "reconsider/reflect"; ESV captures
-       the heart-turning aspect.
-
-v.65 — KJV: "seven days and seven days, even fourteen days" / ESV:
-       "seven days" — There is a textual issue here. The Hebrew
-       Masoretic text says 14 days total (7 + 7); some manuscripts
-       and the ESV follow a reading of 7 days for the dedication
-       feast. The 2 Chronicles 7:8-10 parallel clarifies: 7 days
-       for the dedication + 7 days for the Feast of Tabernacles =
-       14 days total, then sent home on the 8th day after the feast.
-
-v.2 — NET: "of Ethanim (the" for KJV's "Ethanim, which is the"
-       WEB: "All" for KJV's "And all"
-v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: adds "to its assigned place in the inner sanctuary"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "carry out their duties" for KJV's "stand to minister"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.27 — NET: "“God does not really live" for KJV's "But will God indeed dwell"
-       WEB: "Behold," for KJV's "behold, the"
-v.47 — ASV: "dealt wickedly;" for KJV's "committed wickedness;"
-       NET: "When your people come to their senses" for KJV's "Yet if they shall bethink themselves"
-       WEB: "dealt wickedly;’" for KJV's "committed wickedness;"
-v.65 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "God for two entire weeks. This great assembly included pe..." for KJV's "God, seven days and seven days, even fourteen days."
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God validates what He initiates (vv.10-11). The glory cloud
@@ -272,14 +180,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — 1 Kings Overview:
   https://bibleproject.com/explore/video/1-2-kings/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

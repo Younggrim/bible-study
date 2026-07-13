@@ -46,38 +46,6 @@ Structure:
 - The Purpose: Eating Holy Things, Changing Garments (vv.13-14)
 - The Overall Dimensions of the Temple Complex (vv.15-20)
 
-KEY VERSES
-------------------------------------
-v.13 — "Then said he unto me, The north chambers and the south
-        chambers, which are before the separate place, they be
-        holy chambers, where the priests that approach unto the
-        LORD shall eat the most holy things: there shall they
-        lay the most holy things, and the meat offering, and the
-        sin offering, and the trespass offering; for the place
-        is holy" (KJV) — The chambers have THREE functions: eating
-        holy food, storing holy offerings, and maintaining the
-        sanctity of sacred items. Holiness is not just spiritual
-        attitude — it requires physical space and practical
-        infrastructure.
-
-v.14 — "When the priests enter therein, then shall they not go
-        out of the holy place into the utter court, but there
-        they shall lay their garments wherein they minister, for
-        they are holy; and shall put on other garments, and shall
-        approach to those things which are for the people" (KJV)
-        — The priests CHANGE CLOTHES before returning to the
-        people. Holy garments stay in the holy place. They do not
-        carry sacredness out casually or contaminate it with the
-        common. Holiness has boundaries.
-
-v.20 — "He measured it by the four sides: it had a wall round
-        about, five hundred reeds long, and five hundred reeds
-        broad, to make a separation between the sanctuary and the
-        profane place" (KJV) — The wall's purpose stated
-        explicitly: SEPARATION between holy and profane. This is
-        not elitism or exclusion — it is protection. The sacred
-        must be guarded or it loses its distinctiveness.
-
 CROSS-REFERENCES
 ------------------------------------
 v.13  — Leviticus 6:16,26 — Priests eating the most holy things
@@ -108,64 +76,6 @@ Charles Spurgeon:
   holiness because He is selfish with it, but because we are
   fragile before it. The wall is mercy as much as it is
   boundary."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.13 — "most holy things" — Hebrew "qoḏshê haqqŏḏāshîm" = the
-      holy of holies (of offerings). The grain, sin, and guilt
-      offerings in their most sacred portions — to be eaten only
-      by priests, only in a holy place.
-
-v.14 — "holy... for the people" — The Hebrew contrasts "qōḏesh"
-      (holy/set apart) with approach "to the people." The
-      garments absorb holiness from the sacred space and must not
-      transfer it indiscriminately. Holiness is "contagious" in
-      Ezekiel's theology (cf. Haggai 2:12).
-
-v.16 — "reeds" (KJV) — Some translations read "cubits" (ESV/
-      NIV follow a textual variant). If "reeds" (approximately
-      10.5 feet each), the complex is roughly 5,250 feet per
-      side (nearly a mile square). If "cubits," approximately
-      875 feet per side. The Hebrew text reads "reeds."
-
-v.20 — "profane" — Hebrew "ḥōl" = common, ordinary, not sacred.
-      Not "sinful" but simply "not set apart." The distinction
-      is not moral condemnation but category recognition.
-
-v.13 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "chambers that face the courtyard" for KJV's "chambers, which"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.14 — ASV: "pertaineth to" for KJV's "are for"
-       NET: "outer court without taking off" for KJV's "utter court, but there they shall lay"
-       WEB: "holy. Then they" for KJV's "holy; and"
-v.16 — NET: "stick as 875 feet by" for KJV's "reed, five hundred reeds, with"
-       WEB: "all around." for KJV's "round about."
-v.20 — ASV: "that which was common." for KJV's "the profane place."
-       NET: "around it, 875 feet long" for KJV's "round about, five hundred reeds long,"
-       WEB: "that which was common." for KJV's "the profane place."
-
-GLOSSARY
-------------------------------------
-Holy Chambers — Sacred rooms where priests ate consecrated
-              offerings and stored holy items. Located on both
-              north and south sides of the temple, they provided
-              practical space for priestly ministry.
-
-Holy Garments — Special clothing worn by priests during temple
-              service, not to be worn outside the sacred precinct.
-              The garments themselves absorbed holiness and could
-              not be mixed with common clothing.
-
-Separation Wall — The outer wall of the temple complex, 500
-              reeds per side, explicitly built "to make a
-              separation between the sanctuary and the profane
-              place" (v.20). The architectural expression of
-              holiness theology.
-
-Most Holy Things — The portions of grain, sin, and guilt
-              offerings reserved exclusively for priestly
-              consumption. Could only be eaten in designated holy
-              spaces — never in common areas.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -203,15 +113,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Ezekiel Overview (Video):
   https://bibleproject.com/explore/video/ezekiel/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles
-Spurgeon (Public Domain)

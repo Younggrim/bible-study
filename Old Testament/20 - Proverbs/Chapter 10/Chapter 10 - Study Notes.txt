@@ -36,38 +36,6 @@ Dominant Themes:
 - The Blessing of the LORD (v.22)
 
 
-KEY VERSES
-------------------------------------
-v.4  — "A slack hand causes poverty, but the hand of the diligent
-        makes rich." (ESV) — The basic economic principle of
-        Proverbs: wealth follows diligence, poverty follows
-        laziness. Not an absolute guarantee (other factors exist)
-        but a general principle of God's created order.
-
-v.12 — "Hatred stirs up strife, but love covers all offenses."
-        (ESV) — One of the most quoted proverbs. Hatred exposes
-        and exploits faults; love covers them. Not enabling sin but
-        choosing not to broadcast others' failures. Quoted in
-        1 Peter 4:8.
-
-v.19 — "When words are many, transgression is not lacking, but
-        whoever restrains his lips is prudent." (ESV) — The more
-        you talk, the more likely you are to sin. Wisdom is often
-        expressed in silence. Self-restraint in speech is a mark of
-        true understanding.
-
-v.22 — "The blessing of the LORD makes rich, and he adds no sorrow
-        with it." (ESV) — Wealth that comes from God's blessing
-        carries no guilt, no anxiety, no regret. Wealth gained
-        wrongly always comes with sorrow attached. The source
-        determines the quality.
-
-v.25 — "When the tempest passes, the wicked is no more, but the
-        righteous is established forever." (ESV) — The wicked are
-        temporary as a storm — they blow through and vanish. The
-        righteous are permanent as a foundation — they endure.
-        Cf. Matthew 7:24-27, the house on the rock.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — Proverbs 15:20; 17:25 — Repeated theme: a foolish child
@@ -111,65 +79,6 @@ Charles Spurgeon:
   lips — not because he has nothing to say, but because he knows
   the danger of saying too much. Silence is often the highest
   wisdom, and brevity is always safer than verbosity."
-TRANSLATION COMPARISON
-------------------------------------
-v.3  — KJV: "casteth away the substance of the wicked" / ESV:
-       "thwarts the craving of the wicked" — Hebrew "hadvas" =
-       desire/craving, and "yahdoph" = thrust away. KJV focuses
-       on God removing what the wicked have; ESV on God blocking
-       what they crave. Both are valid readings of the Hebrew.
-
-v.8  — KJV: "prating fool" / ESV: "babbling fool" — Hebrew
-       "evil sephathayim" = fool of lips. One who talks constantly
-       and senselessly. KJV's "prating" (meaningless talk) is
-       archaic; ESV's "babbling" is the modern equivalent. The
-       contrast: the wise receive instruction silently; the fool
-       talks himself into ruin.
-
-v.12 — KJV: "love covereth all sins" / ESV: "love covers all
-       offenses" — Hebrew "pesha'im" = transgressions, offenses.
-       ESV's "offenses" avoids confusion with theological "sins"
-       (atonement). The proverb is about interpersonal relations:
-       love chooses not to expose others' faults. Not
-       justification but grace in community.
-
-v.26 — KJV: "as vinegar to the teeth" / ESV: "like vinegar to the
-       teeth" — The imagery: just as vinegar sets teeth on edge and
-       smoke stings the eyes, so the sluggard irritates those
-       depending on him. He is an annoyance, a source of
-       frustration to everyone who entrusts him with responsibility.
-
-v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "Lord satisfies" for KJV's "LORD will not suffer"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.8 — ASV: "commandments; But" for KJV's "commandments: but"
-       NET: "person accepts instructions, but the one who speaks fooli..." for KJV's "in heart"
-       WEB: "accept commandments," for KJV's "will receive commandments:"
-v.12 — ASV: "strifes; But" for KJV's "strifes: but"
-v.26 — NET: "those who" for KJV's "them that"
-       WEB: "those who" for KJV's "them that"
-
-GLOSSARY
-------------------------------------
-Antithetical Parallelism — The dominant literary form in Proverbs
-              10-15. Two lines set in contrast, usually connected
-              by "but." Line 1 states a truth; Line 2 presents the
-              opposite. This forces the reader to see both sides:
-              the path of wisdom AND the path of folly, the
-              righteous outcome AND the wicked outcome.
-
-Slack Hand     — Hebrew "remiyyah" = slackness, deceit, laxity.
-              The hand that does nothing, or does its work
-              carelessly. The opposite of "diligent" (charuts =
-              sharp, decisive, cutting). Poverty is not a
-              mystery — it often follows directly from laziness.
-
-Prating/Babbling — Excessive, empty speech. A person who talks
-              without substance or self-control. In Proverbs,
-              verbosity is consistently associated with folly
-              and silence with wisdom. The one who cannot stop
-              talking will eventually say something destructive.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Control your tongue (v.19). "In the multitude of words there
@@ -203,15 +112,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Proverbs Overview:
   https://bibleproject.com/explore/video/proverbs/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles
-Spurgeon (Public Domain)

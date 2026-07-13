@@ -38,25 +38,6 @@ MAP & GEOGRAPHY NOTES
 - Caesarea (v.1): Paul was held in Herod's palace (the Praetorium) in Caesarea for two years, awaiting trial before the Roman governors Felix and then Festus.
 - Jerusalem (v.1): The accusers came down from Jerusalem to Caesarea to present their case before Felix.
 
-KEY VERSES
-------------------------------------
-v.14 — "But this I confess to you, that according to the Way, which they call
-        a sect, I worship the God of our fathers, believing everything laid
-        down by the Law and written in the Prophets." (ESV) — Christianity
-        as the fulfillment of Judaism, not its rejection.
-
-v.15 — "Having a hope in God... that there will be a resurrection of both the
-        just and the unjust." (ESV) — The universal resurrection — everyone
-        will be raised.
-
-v.16 — "So I always take pains to have a clear conscience toward both God and
-        man." (ESV) — Paul's daily discipline: a clear conscience.
-
-v.25 — "And as he reasoned about righteousness and self-control and the coming
-        judgment, Felix was alarmed and said, 'Go away for the present. When
-        I get an opportunity I will summon you.'" (ESV) — Conviction without
-        conversion — the tragedy of delay.
-
 CROSS-REFERENCES
 ------------------------------------
 v.5   — Acts 17:6 — "These men who have turned the world upside down."
@@ -93,79 +74,6 @@ Charles Spurgeon:
   have always a conscience void of offence. A clear conscience doesn't
   happen by accident. It is the result of deliberate, daily self-examination
   and immediate repentance."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.5  — KJV: "a pestilent fellow" / ESV: "a plague" — Greek "loimon" — a
-       plague, a pest. Both convey the same meaning. The prosecution used
-       inflammatory language to prejudice Felix against Paul.
-       NET: "we have found this man to be a troublemaker,
-       one who stirs up riots among all the Jews throughout the
-       world" — "troublemaker" (loimon = pest/plague). WEB: "a
-       plague, an instigator of insurrections." KJV: "a pestilent
-       fellow." Tertullus uses inflammatory rhetoric — Paul is a
-       disease infecting the empire.
-
-v.14 — KJV: "the way which they call heresy" / ESV: "the Way, which they
-       call a sect" — Greek "hairesin" — a sect or party. ESV's "sect" is
-       more accurate than KJV's "heresy" (which has a different modern
-       meaning). Paul acknowledges that outsiders call Christianity a sect
-       but affirms it as true worship of Israel's God.
-       NET: "this I confess to you, that I worship the God of our
-       ancestors according to the Way, which they call a sect" —
-       "the Way" (tEn hodon) — early Christian self-designation.
-       WEB: "after the Way." KJV: "after the way." Paul doesn't
-       deny belonging to The Way — he redefines it as true Judaism.
-
-v.16 — NET: "I do my best to maintain a clear conscience toward
-       God and toward people" — "do my best" (askO = exercise/
-       train/discipline myself). WEB: "I exercise myself." KJV:
-       "do I exercise myself." Conscience requires ongoing training
-       and vigilance.
-
-v.22 — KJV: "having more perfect knowledge of that way" / ESV: "having a
-       rather accurate knowledge of the Way" — Both equivalent. Felix already
-       knew about Christianity — possibly through his Jewish wife Drusilla,
-       or through the large Christian community in Caesarea.
-
-v.25 — KJV: "a convenient season" / ESV: "When I get an opportunity" — Greek
-       "kairon" — an opportune time. ESV is clearer to modern readers. Felix
-       postponed his response to the Gospel indefinitely. The "convenient
-       season" for repentance is always NOW — tomorrow is not guaranteed.
-       NET: "as Paul talked about righteousness, self-control,
-       and the coming judgment, Felix became frightened" —
-       "frightened" (emphobos genomenos = becoming terrified). WEB:
-       "Felix was terrified." KJV: "Felix trembled." The prisoner
-       makes the judge tremble — but Felix never acts on his fear.
-
-v.27 — NET: "After two years had passed, Porcius Festus succeeded
-       Felix, and because Felix wanted to do the Jews a favor, he
-       left Paul in prison" — two years imprisoned without trial.
-       WEB: "desiring to gain favor with the Jews, Felix left Paul
-       in bonds." Political calculation over justice.
-
-GLOSSARY
-------------------------------------
-Felix         — Antonius Felix, Roman governor of Judea (AD 52-59). A corrupt,
-               morally compromised ruler who heard the Gospel, trembled, and
-               postponed response.
-
-Tertullus     — A professional orator (lawyer) hired by the Jewish leaders to
-               prosecute Paul before Felix. His speech was flattering and
-               accusatory.
-
-The Way       — An early name for Christianity (Acts 9:2, 19:9,23, 22:4,
-               24:14,22). Believers followed "the Way" — Jesus as the way to
-               God (John 14:6).
-
-Nazarenes     — A name for Christians used by their opponents (v.5). From
-               Nazareth — Jesus' hometown. Used dismissively.
-
-Drusilla      — Felix's wife, a Jewish princess (daughter of Herod Agrippa I).
-               Felix had seduced her away from her first husband.
-
-Convenient season — Felix's excuse for delaying repentance. The "convenient
-               time" never came — he left office with Paul still in prison.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -217,14 +125,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Acts Overview:
   https://bibleproject.com/explore/video/acts/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

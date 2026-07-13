@@ -36,27 +36,6 @@ MAP & GEOGRAPHY NOTES
 - Capernaum (v.1): Jesus returned to Capernaum, His ministry base. The paralytic was lowered through the roof of a house here.
 - The seaside (v.13): Jesus went to the shore of the Sea of Galilee to teach the crowds. Levi's tax booth was likely on the Via Maris trade route near the lakeshore.
 
-KEY VERSES
-------------------------------------
-v.5  — "Son, your sins are forgiven." (ESV) — Jesus' authority to forgive sins
-        — a claim to deity.
-
-v.10 — "The Son of Man has authority on earth to forgive sins." (ESV) — The healing
-        proves the authority to forgive.
-
-v.17 — "Those who are well have no need of a physician, but those who are
-        sick. I came not to call the righteous, but sinners." (ESV)
-        — Jesus' mission defined.
-
-v.22 — "New wine is for fresh wineskins." (ESV) — The kingdom cannot be
-        contained in old religious structures.
-
-v.27 — "The Sabbath was made for man, not man for the Sabbath." (ESV) — The
-        purpose of God's commands: human flourishing, not human bondage.
-
-v.28 — "So the Son of Man is lord even of the Sabbath." (ESV) — Jesus' authority
-        extends over God's own institutions.
-
 CROSS-REFERENCES
 ------------------------------------
 v.3   — Luke 5:18-26 — Luke's parallel account of the paralytic.
@@ -90,74 +69,6 @@ Charles Spurgeon:
   "I came not to call the righteous — because there are none. But sinners
   — and there are many. If you know you are sick, the Physician is here.
   If you think you are well, you will never come to Him."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.4  — KJV: "uncovered the roof" / ESV: "they removed the roof above him" —
-       Both equivalent. Palestinian houses had flat roofs made of beams,
-       branches, and packed earth/clay. The friends literally dug through the
-       roof material. Luke says "through the tiling" (Luke 5:19) — different
-       construction styles in different regions.
-
-v.5  — NET: "When Jesus saw their faith, he said to the
-       paralytic, 'Son, your sins are forgiven'" — clarifies the
-       collective "their faith" (the friends who dug through the
-       roof), not just the paralytic's own faith.
-
-v.14 — KJV: "Levi the son of Alphaeus" / ESV: "Levi the son of Alphaeus" —
-       Both identical. This is Matthew the apostle (Matthew 9:9). "Levi" was
-       his given name; "Matthew" (gift of God) was likely the name Jesus gave
-       him.
-       NET: "he saw Levi, the son of Alphaeus, sitting at the tax
-       booth" — identifies Levi with his patronymic; WEB same.
-       KJV/ASV simply "Levi the son of Alphaeus."
-
-v.17 — NET: "I have not come to call the righteous, but sinners"
-       — all translations agree here but NET omits "to repentance"
-       (found in some KJV manuscripts), following earlier Greek
-       texts. The omission sharpens the statement.
-
-v.22 — KJV: "bottles" / ESV: "wineskins" — The ESV modernizes the language.
-       Not glass bottles but animal skins used to store wine. New wine
-       ferments and expands — requiring flexible new skins. Old, brittle
-       skins would burst.
-       WEB: "new wine into fresh wineskins" — uses "fresh" rather
-       than "new" (KJV/ASV) for the second adjective, distinguishing
-       the wine (new in age) from the skins (fresh/unused).
-
-v.26 — KJV: "in the days of Abiathar the high priest" / ESV: "in the time of
-       Abiathar the high priest" — Both equivalent. A textual difficulty —
-       1 Samuel 21 says Ahimelech was priest, not Abiathar (his son).
-       Solutions: (1) Abiathar was present though not yet high priest, (2) the
-       phrase means "in the section about Abiathar," (3) a scribal error.
-
-v.27 — NET: "The Sabbath was made for people, not people for the
-       Sabbath" — modern inclusive "people" vs. KJV's "man" and
-       ESV's "man." The principle is universal, not gender-specific.
-
-GLOSSARY
-------------------------------------
-Palsy         — Paralysis — inability to move. The man was carried by four
-               friends because he could not walk.
-
-Blasphemy     — Speaking against God or claiming divine prerogatives. The
-               scribes accused Jesus of blasphemy for forgiving sins — a
-               right that belongs to God alone.
-
-Publican      — A tax collector working for Rome. Publicans were despised as
-               traitors and extortioners. Jesus called one as a disciple.
-
-Bridegroom    — Jesus' metaphor for Himself. While the bridegroom is present,
-               it is a time of celebration, not fasting. Fasting will come
-               when He is "taken away" (the cross).
-
-New wine/Old bottles — A metaphor for the incompatibility of Jesus' kingdom
-               with old religious structures. The new cannot be contained in
-               the old.
-
-Lord of the Sabbath — Jesus' claim to authority over the Sabbath — the day
-               God Himself instituted. Only God has authority over His own
-               institutions.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -206,14 +117,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Mark Overview:
   https://bibleproject.com/explore/video/mark/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

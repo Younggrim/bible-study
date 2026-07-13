@@ -28,22 +28,6 @@ Structure:
 - The prophet's lament (vv. 8-9)
 - Wordplay lament over Judean towns (vv. 10-16)
 
-KEY VERSES
-------------------------------------
-Verse 2 (KJV): "Hear, all ye people; hearken, O earth, and all that therein is: and let the Lord GOD be witness against you, the Lord from his holy temple."
-ESV: "Hear, you peoples, all of you; pay attention, O earth, and all that is in it, and let the Lord GOD be a witness against you, the Lord from his holy temple."
-Commentary: This universal summons echoes 1 Kings 22:28 where Micaiah (whose name is similar to Micah's) made an identical appeal. God is not merely speaking to Israel—He calls all creation to witness His case. The courtroom imagery sets the tone for the entire book.
-
-Verse 3-4 (KJV): "For, behold, the LORD cometh forth out of his place, and will come down, and tread upon the high places of the earth. And the mountains shall be molten under him, and the valleys shall be cleft, as wax before the fire..."
-Commentary: This theophany (visible appearance of God) is among the most dramatic in Scripture. The imagery of mountains melting and valleys splitting communicates God's absolute sovereignty over creation. When the Creator moves in judgment, all of nature responds in submission.
-
-Verse 5 (KJV): "For the transgression of Jacob is all this, and for the sins of the house of Israel. What is the transgression of Jacob? is it not Samaria? and what are the high places of Judah? are they not Jerusalem?"
-Commentary: Micah identifies the capital cities—Samaria and Jerusalem—as the source of national sin. The corruption flows from the top down. Leadership bears primary responsibility for the spiritual and moral decay of the nation.
-
-Verse 8 (KJV): "Therefore I will wail and howl, I will go stripped and naked: I will make a wailing like the dragons, and mourning as the owls."
-ESV: "For this I will lament and wail; I will go stripped and naked; I will make lamentation like the jackals, and mourning like the ostriches."
-Commentary: Unlike false prophets who spoke comfortable words, Micah personally grieved over the coming judgment. His public mourning—going barefoot and stripped of his outer garment—was a prophetic act demonstrating the coming humiliation of the nation.
-
 CROSS-REFERENCES
 ------------------------------------
 1 Kings 22:28 — Micaiah's identical appeal: "Hear, all ye people" — possible intentional echo by Micah
@@ -56,26 +40,6 @@ Isaiah 20:2-4 — Isaiah also went stripped and barefoot as a prophetic sign
 
 COMMENTARY REFERENCES
 ------------------------------------
-
-TRANSLATION COMPARISON
-------------------------------------
-
-
-v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "earth’s mountaintops!" for KJV's "high places of the earth."
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "something good to happen, though" for KJV's "good: but evil came down from"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: adds "of Moresheth during"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.7 — ASV: "a harlot hath she gathered them," for KJV's "an harlot,"
-       NET: adds "her metal cult statues will be destroyed by fire. I will ..."
-       WEB: "a prostitute has she gathered them," for KJV's "an harlot,"
-v.8 — ASV: "a lamentation like" for KJV's "mourning as"
-       NET: "walk around barefoot" for KJV's "go stripped"
-       WEB: adds "daughters of"
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -96,15 +60,3 @@ The Bible Project — Micah Overview (Video):
   Animated overview of the book of Micah showing the literary
   structure, key themes, and how this book fits into the larger
   biblical narrative. Excellent visual introduction.
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles
-Spurgeon (Public Domain)

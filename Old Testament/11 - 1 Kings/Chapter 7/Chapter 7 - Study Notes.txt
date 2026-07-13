@@ -97,37 +97,6 @@ MAP & GEOGRAPHY NOTES
 - The kingdom divides after Solomon: Israel (north, capital eventually at Samaria) and Judah (south, capital Jerusalem).
 - Key locations: Gibeon (Solomon's dream, ch.3), Tyre (Hiram's city in Phoenicia, chs.5-7), Mount Carmel (Elijah vs. Baal prophets, ch.18), Zarephath (Sidonian widow, ch.17), Mount Horeb/Sinai (Elijah flees, ch.19), Ramoth-gilead (Ahab's death, ch.22).
 
-KEY VERSES
-------------------------------------
-v.14 — "He was filled with wisdom, and understanding, and cunning
-        to work all works in brass." (ESV) — Craftsmanship as divine
-        gift. Hiram's skill is described in the same terms as
-        spiritual wisdom. God values artistic excellence in His
-        service.
-
-v.21 — "He set up the right pillar, and called the name of it
-        Jachin: and he set up the left pillar, and he called the
-        name of it Boaz." (ESV) — "He establishes" and "In Him is
-        strength." Every worshipper entering the Temple passed
-        between these declarations of God's character.
-
-v.22 — "So was the work of the pillars finished." (ESV) — The
-        repeated "finished" throughout this chapter (vv.1, 22, 40,
-        51) echoes Genesis 2:1-2: "Thus the heavens and the earth
-        were finished." The Temple is a new creation — God's
-        dwelling completed.
-
-v.47 — "Solomon left all the vessels unweighed, because they were
-        exceeding many: neither was the weight of the brass found
-        out." (ESV) — The bronze was so abundant it could not be
-        measured. God's house was furnished with immeasurable
-        generosity. Nothing was spared.
-
-v.51 — "So was ended all the work that king Solomon made for the
-        house of the LORD." (ESV) — The construction is complete.
-        Everything is ready for God's presence to fill the house
-        (chapter 8).
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — 1 Kings 6:38 — Seven years for the Temple vs. thirteen for
@@ -172,60 +141,6 @@ Charles Spurgeon:
   Pass between these pillars daily — let them frame your entrance
   into every duty."
 
-TRANSLATION COMPARISON
-------------------------------------
-v.2  — KJV: "the house of the forest of Lebanon" / ESV: "the House
-       of the Forest of Lebanon" — Named for its dense cedar
-       pillars that resembled a forest. Not located in Lebanon —
-       it was in Jerusalem. The name describes its appearance, not
-       its location.
-
-v.14 — KJV: "cunning to work all works in brass" / ESV: "skill for
-       making any work in bronze" — Hebrew "chokmah, tevunah,
-       da'at" = wisdom, understanding, knowledge. KJV "cunning" is
-       archaic for "skilled/knowledgeable." "Brass" (KJV) vs.
-       "bronze" (ESV): the Hebrew "nechoshet" refers to copper alloy
-       — technically bronze (copper + tin), not brass (copper + zinc).
-       ESV is metallurgically more accurate.
-
-v.16 — KJV: "chapiters" / ESV: "capitals" — Hebrew "koteret" = the
-       decorative top/crown of a pillar. KJV "chapiter" is archaic
-       English for the same architectural element ESV calls "capital."
-
-v.21 — KJV: "Jachin... Boaz" / ESV: "Jachin... Boaz" — Hebrew
-       "Yakhin" = "He will establish" (from "kun" = to establish,
-       make firm). "Bo'az" = "In him is strength" (from "oz" =
-       strength). These are theological names, not dedications to
-       individuals.
-
-v.23 — KJV: "a molten sea" / ESV: "the sea of cast metal" — Hebrew
-       "yam mutzaq" = a cast/poured sea. "Molten" (KJV) means
-       melted and poured into a mold; ESV "cast metal" is the
-       modern equivalent. The "sea" terminology connects to ancient
-       Near Eastern cosmology — the primordial waters subdued by God.
-
-v.26 — KJV: "two thousand baths" / ESV: "two thousand baths" —
-       2 Chronicles 4:5 says 3,000 baths. The discrepancy may
-       reflect the difference between capacity (3,000) and normal
-       fill level (2,000). One bath ≈ 6 gallons, so 2,000 baths ≈
-       12,000 gallons.
-
-v.2 — NET: "150 feet long, 75 feet wide," for KJV's "an hundred cubits,"
-       WEB: "Lebanon. Its" for KJV's "Lebanon; the"
-v.14 — ASV: adds "the son of"
-       NET: "works of bronze. He reported to King Solomon" for KJV's "Tyre, a worker in brass:"
-       WEB: adds "the son of"
-v.16 — NET: "bronze tops for" for KJV's "chapiters of molten brass, to set upon"
-       WEB: "pillars. The" for KJV's "pillars: the"
-v.21 — NET: "main hall. He erected one pillar on" for KJV's "temple: and he set up"
-       WEB: "temple. He" for KJV's "temple: and he"
-v.23 — ASV: adds "brim, round in compass, and"
-       NET: "the large bronze basin called “The Sea.” It measured 15 feet" for KJV's "a molten sea, ten cubits"
-       WEB: "in shape. Its" for KJV's "all about, and his"
-v.26 — ASV: "a handbreadth thick:" for KJV's "an hand breadth thick,"
-       NET: "cup shaped like a lily blossom. It could hold about 12,00..." for KJV's "cup, with flowers of lilies: it contained two thousand ba..."
-       WEB: "width thick. Its" for KJV's "breadth thick, and the"
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God values artistic excellence in worship (v.14). Hiram was
@@ -266,14 +181,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — 1 Kings Overview:
   https://bibleproject.com/explore/video/1-2-kings/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

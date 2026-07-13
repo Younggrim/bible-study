@@ -46,25 +46,6 @@ MAP & GEOGRAPHY NOTES
 • Cain builds a city (v.17), the first mention of urbanization in Scripture.
   The location is unspecified, but civilization develops away from Eden.
 
-KEY VERSES
-------------------------------------
-v.4-5 — "And the LORD had regard for Abel and his offering, but for Cain
-        and his offering he had no regard." (ESV) — God evaluates the heart,
-        not just the act.
-
-v.7  — "If you do well, will you not be accepted? And if you do not do well,
-        sin is crouching at the door." (ESV) — Sin crouching, ready to
-        pounce.
-
-v.9  — "Am I my brother's keeper?" (ESV) — Cain's defiant evasion of
-        responsibility.
-
-v.10 — "The voice of your brother's blood is crying to me from the ground."
-        (ESV) — Innocent blood has a voice before God.
-
-v.26 — "At that time people began to call upon the name of the LORD." (ESV)
-        — The beginning of worship.
-
 CROSS-REFERENCES
 ------------------------------------
 v.3   — Hebrews 11:4 — "By faith Abel offered to God a more acceptable
@@ -110,110 +91,6 @@ Charles Spurgeon:
   Abel's blood demanded justice; Christ's blood provides mercy. Both bloods
   speak — but Christ's speaks a better word."
 
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — Hebrew "qaniti ish eth Yahweh" — I have gotten/acquired a man with/from the LORD.
-       KJV: "I have gotten a man from the LORD"
-       ESV: "I have gotten a man with the help of the LORD"
-       ASV: "I have gotten a man with the help of Jehovah"
-       NET: "I have created a man just as the Lord did!"
-       WEB: "I have gotten a man with Yahweh's help"
-       Analysis: NET is strikingly different — reads Eve as claiming creative
-       power parallel to God's, a theologically provocative rendering. The
-       Hebrew "eth" is ambiguous (can mean "with" or be a direct object
-       marker). Eve may have thought Cain was the promised seed (3:15).
-       ASV uses "Jehovah"; WEB uses "Yahweh."
-
-v.7  — Hebrew "chattath robets" — sin is crouching.
-       KJV: "sin lieth at the door... unto thee shall be his desire, and thou shalt rule over him"
-       ESV: "sin is crouching at the door. Its desire is contrary to you, but you must rule over it"
-       ASV: "sin coucheth at the door... its desire is unto thee, but do thou rule over it"
-       NET: "sin is crouching at the door. It desires to dominate you, but you must subdue it"
-       WEB: "sin crouches at the door. Its desire is for you, but you are to rule over it"
-       Analysis: ESV's "crouching" and NET's "crouches" vividly capture the
-       predatory "robets" (used of animals lying in wait). NET makes the
-       power-struggle explicit with "dominate" and "subdue." KJV uses
-       masculine pronouns ("his"/"him") for sin; all modern translations
-       use neuter. The Hebrew participle "robets" is masculine — suggesting
-       a personified predator.
-
-v.8  — Hebrew "wayyo'mer Qayin el-Hevel..." — And Cain said to Abel...
-       KJV: "And Cain talked with Abel his brother... and slew him"
-       ESV: "Cain spoke to Abel his brother... and killed him"
-       ASV: "And Cain told Abel his brother... and slew him"
-       NET: "Cain said to his brother Abel, 'Let's go out to the field'... and killed him"
-       WEB: "Cain said to Abel, his brother, 'Let's go into the field'... and killed him"
-       Analysis: NET/WEB uniquely supply Cain's words ("Let's go out to the
-       field") — following the Samaritan Pentateuch, LXX, and Syriac, filling
-       a gap where the Hebrew Masoretic text has "Cain said to Abel" with no
-       recorded speech. This is a significant textual-critical decision.
-
-v.12 — Hebrew "na wanad" — wandering and fleeing.
-       KJV: "a fugitive and a vagabond shalt thou be"
-       ESV: "a fugitive and a wanderer shall you be"
-       ASV: "a fugitive and a wanderer shalt thou be"
-       NET: "a homeless wanderer on the earth"
-       WEB: "you will be a fugitive and a wanderer in the earth"
-       Analysis: NET compresses to "homeless wanderer" — interpretive but
-       vivid. KJV's "vagabond" carries negative connotations in modern
-       English. ESV/ASV/WEB preserve both terms from the Hebrew.
-
-v.15 — Hebrew "vayyasem Yahweh leQayin oth" — the LORD set/appointed a sign for Cain.
-       KJV: "the LORD set a mark upon Cain"
-       ESV: "the LORD put a mark on Cain"
-       ASV: "Jehovah appointed a sign for Cain"
-       NET: "the LORD put a special mark on Cain"
-       WEB: "Yahweh appointed a sign for Cain"
-       Analysis: ASV/WEB use "appointed a sign for" — closer to Hebrew "sim
-       oth" (set/appoint a sign), suggesting a divinely ordained protective
-       signal rather than a physical marking. NET adds "special." Not a curse
-       mark but a protection mark — God's mercy even in judgment.
-
-v.22 — Hebrew "lotesh kol-choresh nechosheth uvarzel"
-       KJV: "an instructer of every artificer in brass and iron"
-       ESV: "he was the forger of all instruments of bronze and iron"
-       ASV: "the forger of every cutting instrument of brass and iron"
-       NET: "he was the forger of all kinds of bronze and iron tools"
-       WEB: "the forger of every cutting instrument of bronze and iron"
-       Analysis: KJV's "brass" is incorrect — Hebrew "nechosheth" means
-       bronze or copper, not brass (an alloy unknown in the ancient world).
-       All modern translations correctly use "bronze." ESV/NET use general
-       "instruments/tools"; ASV/WEB specify "cutting instrument."
-
-v.26 — Hebrew "az huchal liqro beshem Yahweh" — then began to call upon the name of the LORD.
-       KJV: "then began men to call upon the name of the LORD"
-       ESV: "At that time people began to call upon the name of the LORD"
-       ASV: "Then began men to call upon the name of Jehovah"
-       NET: "At that time people began to worship the LORD"
-       WEB: "Then people began to call on Yahweh's name"
-       Analysis: NET interprets "call upon the name" as "worship" — making
-       the cultic meaning explicit. All others retain the more literal "call
-       upon the name." Public, corporate worship begins. ASV uses "Jehovah";
-       WEB uses "Yahweh."
-
-GLOSSARY
-------------------------------------
-Cain and Abel  — The first brothers. Abel = "breath/vapor" (fragile life).
-               Cain = "acquired/gotten." Their offerings reveal their hearts.
-
-Sin at the door — Sin personified as a crouching predator. It desires to
-               master you but can be ruled through obedience.
-
-Am I my brother's keeper? — Cain's evasion of responsibility. The implied
-               answer: yes, you are responsible for others.
-
-Blood cries from the ground — Innocent blood has a voice before God. He
-               hears and responds to injustice.
-
-Cain's line    — Civilization without God. Cultural achievement (cities,
-               arts, technology) alongside moral decay (violence, polygamy).
-
-Seth's line    — The line of faith. "Another seed instead of Abel." The line
-               through which the Redeemer will come.
-
-Call upon the name of the LORD — Public worship of Yahweh. The beginning of
-               corporate faith expression.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "The LORD had respect unto Abel and to his offering" (v.4). God looks at
@@ -240,14 +117,3 @@ VIDEO RESOURCES
 The Bible Project — Genesis Overview:
   https://bibleproject.com/explore/video/genesis-1-11/ (Chapters 1-11)
   https://bibleproject.com/explore/video/genesis-12-50/ (Chapters 12-50)
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

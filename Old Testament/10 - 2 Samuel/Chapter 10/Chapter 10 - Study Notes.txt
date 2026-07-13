@@ -84,29 +84,6 @@ MAP & GEOGRAPHY NOTES
 - The "city of waters" (12:27): Joab captures the water supply of Rabbah before David arrives for the final assault
 - Medeba/Helam: Where the Aramean allies of Ammon are defeated in separate battles north and east of Israel
 
-KEY VERSES
-------------------------------------
-v.2  — "I will show kindness to Hanun the son of Nahash, as his
-        father showed kindness to me." — David's consistent
-        character: he shows hesed (covenant loyalty) to those who
-        showed it to him. His kindness is genuine — but it is
-        misinterpreted as espionage. Good intentions do not guarantee
-        good reception.
-
-v.12 — "Be of good courage, and let us play the men for our people,
-        and for the cities of our God: and the LORD do that which
-        seemeth him good." — Joab's finest moment. He combines human
-        responsibility (courage, strategy, mutual support) with divine
-        sovereignty (the LORD will do what seems good). This is the
-        biblical balance: we fight with all our might AND trust God
-        with the outcome. Effort without fatalism; trust without
-        passivity.
-
-v.19 — "So the Syrians feared to help the children of Ammon any
-        more." — The permanent result of David's victory. When God
-        gives decisive victory, the enemy's allies lose their courage.
-        One thorough defeat accomplishes more than many partial ones.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — 1 Samuel 11:1-2 — Nahash the Ammonite's earlier aggression
@@ -145,83 +122,6 @@ Charles Spurgeon:
   everything depends on us alone.' He combined courage with
   submission, effort with trust. This is the balance every believer
   must maintain."
-TRANSLATION COMPARISON
-------------------------------------
-v.4  — KJV: "even to their buttocks" / ESV: "at their hips" — Hebrew
-       "ad shethotehem" = to their buttocks/seat. KJV is more literal
-       and graphic; ESV softens slightly with "hips." The garments
-       were cut to expose the men from the waist down — a deliberate
-       act of sexual humiliation.
-
-v.6  — KJV: "they stank before David" / ESV: "they had become a
-       stench to David" — Hebrew "ba'ash" = to stink, to become
-       odious. Both translations use the stench metaphor. The
-       Ammonites realized their actions had made them repulsive to
-       David — they had provoked war with a powerful king.
-
-v.12 — KJV: "let us play the men" / ESV: "let us be courageous" —
-       Hebrew "nitchazaq" = let us be strong, let us show ourselves
-       men. KJV "play the men" is archaic English for "act like men"
-       or "show manly courage." ESV "be courageous" is the modern
-       equivalent.
-
-v.16 — KJV: "Hadarezer" / ESV: "Hadadezer" — A spelling variant of
-       the same name. The Hebrew consonants allow both readings. ESV
-       follows the more common spelling; KJV follows an alternate
-       manuscript tradition. Same person as in chapter 8.
-
-v.18 — KJV: "seven hundred chariots... forty thousand horsemen" / ESV:
-       "700 chariots, and 40,000 horsemen" — Both agree. However,
-       1 Chronicles 19:18 reads "7,000 chariots" — a textual variant
-       (likely scribal error in one tradition). The parallel also reads
-       "footmen" instead of "horsemen" — another discrepancy between
-       the Samuel and Chronicles accounts.
-
-v.4 — NET: adds "each one’s beard. He cut the lower part of"
-v.6 — ASV: "were become odious to" for KJV's "stank before"
-       NET: adds "20,000 foot soldiers from Aram Beth Rehob and Aram Zobah,..."
-       WEB: "had become odious to" for KJV's "stank before"
-v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: adds "strong! Let’s fight bravely for the sake"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.16 — ASV: "at their head." for KJV's "went before them."
-       NET: "Then Hadadezer sent for Arameans from" for KJV's "And Hadarezer sent, and brought out the Syrians that were"
-       WEB: "Hadadezer at their head." for KJV's "Hadarezer went before them."
-v.18 — ASV: adds "Syrians [the"
-       NET: "40,000 foot soldiers. He also struck down Shobach," for KJV's "David slew"
-       WEB: "army, so that he" for KJV's "host, who"
-
-GLOSSARY
-------------------------------------
-Ammonites      — Descendants of Ben-ammi, Lot's son (Genesis 19:38).
-                 They occupied territory east of the Jordan, north of
-                 Moab. They were persistent enemies of Israel from the
-                 time of the judges (Judges 11) through David's reign.
-                 Their capital was Rabbah (modern Amman, Jordan).
-
-Beth-rehob     — An Aramean (Syrian) kingdom near the sources of the
-                 Jordan River, in the far north of Israel's territory.
-                 One of several small Aramean states that allied against
-                 David.
-
-Zobah          — An Aramean kingdom north of Damascus, ruled by
-                 Hadadezer. It was the most powerful of the Aramean
-                 states and the center of the coalition against David.
-                 David had already defeated it in chapter 8 but it
-                 attempted a comeback here.
-
-Helam          — A location east of the Jordan where David fought the
-                 decisive battle against the Syrian coalition. Its
-                 exact location is uncertain but was likely in the
-                 Transjordan region near the Ammonite border.
-
-Shaving the    — In ancient Near Eastern culture, a man's beard was
-beard            his honor and masculine identity. Forcibly shaving
-                 half the beard was a deliberate act of humiliation —
-                 making the victim look ridiculous and stripping his
-                 dignity. It was considered equivalent to a declaration
-                 of war.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Good intentions can be misread (vv.2-3). David's kindness was
@@ -260,14 +160,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — 2 Samuel Overview:
   https://bibleproject.com/explore/video/2-samuel/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

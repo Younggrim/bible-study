@@ -91,37 +91,6 @@ MAP & GEOGRAPHY NOTES
 - The kingdom divides after Solomon: Israel (north, capital eventually at Samaria) and Judah (south, capital Jerusalem).
 - Key locations: Gibeon (Solomon's dream, ch.3), Tyre (Hiram's city in Phoenicia, chs.5-7), Mount Carmel (Elijah vs. Baal prophets, ch.18), Zarephath (Sidonian widow, ch.17), Mount Horeb/Sinai (Elijah flees, ch.19), Ramoth-gilead (Ahab's death, ch.22).
 
-KEY VERSES
-------------------------------------
-v.5  — "Then Adonijah the son of Haggith exalted himself, saying,
-        I will be king." (ESV) — Self-exaltation is the root of
-        Adonijah's sin. He assumes the throne is his by right rather
-        than by God's appointment. "I will" echoes the pride of
-        Isaiah 14:13-14.
-
-v.6  — "His father had never at any time displeased him by asking,
-        'Why have you done thus and so?'" (ESV) — David's failure as
-        a father. A lifetime of indulgence produced a son who assumed
-        he could take whatever he wanted. Parental discipline is not
-        cruelty — its absence is.
-
-v.29 — "As the LORD lives, who has redeemed my soul out of every
-        adversity." (ESV) — David's oath formula. Even in extreme old
-        age, David's confidence is in the God who has delivered him
-        through every trial. His last recorded oath points to God's
-        faithfulness across a lifetime.
-
-v.30 — "As I swore to you by the LORD, the God of Israel, saying,
-        'Solomon your son shall reign after me, and he shall sit on
-        my throne in my place,' even so will I do this day." (ESV) —
-        David keeps his word. A man's oath before God must be honored
-        regardless of circumstances.
-
-v.40 — "And all the people went up after him, playing on pipes, and
-        rejoicing with great joy, so that the earth was split by
-        their noise." (ESV) — The people's joy at Solomon's
-        coronation. God's chosen king brings rejoicing.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — 2 Samuel 5:4-5 — David reigned 40 years total. His age here
@@ -164,56 +133,6 @@ Charles Spurgeon:
   promises to God and to others must be kept even when keeping them
   costs us everything. A dying man's oath is still binding."
 
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — KJV: "stricken in years" / ESV: "advanced in years" — Hebrew
-       "ba bayamim" = literally "entered into the days." Both
-       translations convey extreme old age. KJV's "stricken" adds a
-       sense of being afflicted by age.
-
-v.2  — KJV: "a young virgin" / ESV: "a young woman" — Hebrew
-       "na'arah betulah." "Betulah" specifically means virgin. ESV
-       softens to "young woman" but the Hebrew is explicit. The
-       virginity was important legally — she was not David's wife or
-       concubine, which becomes significant in chapter 2.
-
-v.5  — KJV: "exalted himself" / ESV: "exalted himself" — Hebrew
-       "mitnasse" = lifting oneself up, self-exaltation. Both
-       translations are identical and capture the reflexive nature
-       of the verb — this was self-promotion, not divine appointment.
-
-v.9  — KJV: "the stone of Zoheleth" / ESV: "the Serpent's Stone" —
-       Hebrew "even ha-zocheleth." "Zocheleth" likely derives from
-       "zachal" = to crawl/creep, hence "serpent." KJV transliterates;
-       ESV translates. The location was near En-rogel, a spring south
-       of Jerusalem.
-
-v.33 — KJV: "mine own mule" / ESV: "my own mule" — The king's
-       personal mule was a symbol of royal authority. Riding it
-       publicly declared Solomon as David's chosen successor. In the
-       ancient Near East, using the king's mount without permission
-       was a capital offense.
-
-v.40 — KJV: "the earth rent with the sound of them" / ESV: "the
-       earth was split by their noise" — Hebrew "tibaka ha-aretz
-       beqolam." Hyperbolic language expressing the overwhelming
-       volume of celebration. The verb "baqa" (to split/cleave) is
-       the same used for the splitting of the Red Sea (Exodus 14:21).
-
-v.1 — NET: "very old; even when" for KJV's "old and stricken in years; and"
-       WEB: "couldn’t keep warm." for KJV's "gat no heat."
-v.2 — NET: "serve as his nurse. She can also sleep with you" for KJV's "let her cherish him,"
-       WEB: "“Let a young virgin" for KJV's "Let there"
-v.5 — NET: "David and Haggith, was promoting" for KJV's "Haggith exalted"
-       WEB: "king.” Then" for KJV's "king: and"
-v.9 — ASV: "beside En-rogel;" for KJV's "by En-rogel,"
-       NET: "Zoheleth near En Rogel. He invited" for KJV's "Zoheleth, which is by En-rogel, and called"
-       WEB: "killed sheep, cattle," for KJV's "slew sheep"
-v.33 — NET: "Solomon on my" for KJV's "to ride upon mine own"
-       WEB: "on my" for KJV's "upon mine"
-v.40 — NET: "followed him up, playing flutes" for KJV's "came up after him,"
-       WEB: "their sound." for KJV's "the sound of them."
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Self-promotion is not God's way of establishing leaders (v.5).
@@ -255,14 +174,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — 1 Kings Overview:
   https://bibleproject.com/explore/video/1-2-kings/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

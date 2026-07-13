@@ -53,48 +53,6 @@ MAP & GEOGRAPHY NOTES
 - Key sites: Hebron (David's first capital, 7 years), the threshing floor of Ornan/Araunah (future Temple site, ch.21).
 - Chapters 1-9 (genealogies) contain tribal allotments but minimal narrative geography.
 
-KEY VERSES
-------------------------------------
-Verse 8 (ESV): "Oh give thanks to the LORD; call upon his name; make
-known his deeds among the peoples!"
-  Commentary: The opening of David's psalm establishes three responses
-  to God: gratitude (give thanks), dependence (call upon his name), and
-  witness (make known his deeds). These three form the complete cycle
-  of worship—receiving from God, relying on God, and reflecting God to
-  others.
-
-Verse 11 (ESV): "Seek the LORD and his strength; seek his presence
-continually!"
-  Commentary: The double imperative "seek" emphasizes both God's power
-  ("his strength") and God's presence ("his presence"). The word
-  "continually" (Hebrew: תָּמִיד, tamid) means without interruption—the
-  same word used for the perpetual burnt offering. Seeking God is not
-  occasional but constant.
-
-Verse 22 (ESV): "saying, 'Touch not my anointed ones, do my prophets
-no harm!'"
-  Commentary: God's protection of the patriarchs among hostile nations
-  demonstrates His sovereign care over His people even when they are
-  few and vulnerable. This verse gave the post-exilic community
-  confidence that God would protect them as a small remnant among
-  powerful empires.
-
-Verse 34 (ESV): "Oh give thanks to the LORD, for he is good; for his
-steadfast love endures forever!"
-  Commentary: This refrain appears throughout Scripture (Psalms 106:1,
-  107:1, 118:1, 136:1) and became central to Temple worship. The Hebrew
-  חֶסֶד (hesed)—rendered "mercy" in KJV and "steadfast love" in ESV—
-  is God's covenant loyalty that never fails. This one verse captures
-  the entire theology of the psalm.
-
-Verse 35 (ESV): "Say also: 'Save us, O God of our salvation, and
-gather and deliver us from among the nations, that we may give thanks to
-your holy name and glory in your praise.'"
-  Commentary: This prayer for salvation and gathering was prophetic. It
-  looked beyond David's day to the exile and restoration. The purpose
-  of deliverance is worship—"that we may give thanks." God saves His
-  people not merely from danger but unto praise.
-
 CROSS-REFERENCES
 ------------------------------------
 Psalm 105:1-15 — The source for verses 8-22. The full psalm recounts
@@ -157,63 +115,6 @@ Charles Spurgeon:
   Let us not be content with only one or two of these; all three must
   mark our daily worship."
 
-TRANSLATION COMPARISON
-------------------------------------
-
-
-v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "That" for KJV's "Then on that"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "Lord’s name." for KJV's "name of the LORD."
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.23 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "earth! Announce every" for KJV's "earth; shew forth from"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.25 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: adds "and certainly worthy of praise, he"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.28 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "nations, ascribe to" for KJV's "people, give unto"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-
-GLOSSARY
-------------------------------------
-Peace Offerings: Hebrew שְׁלָמִים (shelamim), from שָׁלוֹם (shalom,
-  peace/wholeness). A sacrifice expressing communion and fellowship
-  with God, where portions were eaten by the offerer in a sacred meal.
-  These were offerings of thanksgiving and celebration, appropriate for
-  this joyous occasion.
-
-Tabernacle at Gibeon: The original Mosaic tabernacle (tent of meeting)
-  which had been relocated to Gibeon. It still functioned as the place
-  of sacrifice with its altar, while the ark was now in David's tent in
-  Jerusalem. This dual arrangement continued until Solomon's Temple
-  united both.
-
-Asaph: Head of one of the three Levitical worship guilds. His
-  descendants (the "sons of Asaph") continued as Temple musicians for
-  centuries. Twelve psalms are attributed to him (Psalms 50, 73-83).
-  He is identified here as "the chief" musician.
-
-Hesed (חֶסֶד): Often considered the most important theological word in
-  the Old Testament. Variously translated as mercy, lovingkindness,
-  steadfast love, covenant loyalty, or faithful love. It describes
-  God's enduring commitment to His covenant people—love that is both
-  loyal and gracious, both obligated (by covenant) and free (by
-  character).
-
-Heathen/Nations: Hebrew גּוֹיִם (goyim), referring to the non-Israelite
-  peoples. In David's psalm, the nations are both those from whom Israel
-  needs deliverance (v. 35) and those who should hear of God's glory
-  (v. 24). This dual perspective reflects God's plan for Israel as both
-  distinct from and a witness to the nations.
-
-Jeduthun: Also called Ethan. One of the three chief musicians David
-  appointed, alongside Heman and Asaph. His name appears in the
-  superscriptions of Psalms 39, 62, and 77. His descendants served as
-  Temple musicians and gatekeepers through successive generations.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Make thanksgiving a lifestyle, not just a reaction. David appointed
@@ -252,14 +153,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — 1 Chronicles Overview:
   https://bibleproject.com/explore/video/1-2-chronicles/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

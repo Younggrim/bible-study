@@ -96,42 +96,6 @@ MAP & GEOGRAPHY NOTES
 - The kingdom divides after Solomon: Israel (north, capital eventually at Samaria) and Judah (south, capital Jerusalem).
 - Key locations: Gibeon (Solomon's dream, ch.3), Tyre (Hiram's city in Phoenicia, chs.5-7), Mount Carmel (Elijah vs. Baal prophets, ch.18), Zarephath (Sidonian widow, ch.17), Mount Horeb/Sinai (Elijah flees, ch.19), Ramoth-gilead (Ahab's death, ch.22).
 
-KEY VERSES
-------------------------------------
-v.2  — "I go the way of all the earth: be you strong therefore,
-        and show thyself a man." (ESV) — David's final charge. True
-        manhood is defined not by aggression but by strength of
-        character and obedience to God. "The way of all the earth"
-        is death — the great equalizer that kings and commoners
-        share.
-
-v.3  — "And keep the charge of the LORD your God, to walk in his
-        ways, to keep his statutes, and his commandments, and his
-        judgments, and his testimonies, as it is written in the law
-        of Moses, that you mayest prosper in all that you doest."
-        (ESV) — The foundation of Solomon's reign must be obedience
-        to Scripture. Prosperity is conditional on faithfulness.
-        This verse will become tragically ironic by chapter 11.
-
-v.4  — "If your children take heed to their way, to walk before me
-        in truth with all their heart and with all their soul, there
-        shall not fail you a man on the throne of Israel." (ESV) —
-        The Davidic covenant is unconditional in its ultimate
-        fulfillment (Messiah will come), but conditional in its
-        immediate application (individual kings may forfeit blessing).
-
-v.27 — "So Solomon thrust out Abiathar from being priest to the
-        LORD; that he might fulfil the word of the LORD, which he
-        spake concerning the house of Eli in Shiloh." (ESV) — God's
-        word spoken centuries earlier (1 Samuel 2:30-36) finds exact
-        fulfillment. Divine prophecy operates on God's timeline, not
-        ours.
-
-v.46 — "And the kingdom was established in the hand of Solomon."
-        (ESV) — The chapter's conclusion. Every threat has been
-        addressed, every rival removed or neutralized. Solomon's
-        reign can now begin in peace and stability.
-
 CROSS-REFERENCES
 ------------------------------------
 v.3   — Joshua 1:7-8 — God's charge to Joshua uses nearly identical
@@ -179,64 +143,6 @@ Charles Spurgeon:
   wisdom; never weaker than when he married foreign wives. Strength
   and godliness are not two things but one."
 
-TRANSLATION COMPARISON
-------------------------------------
-v.2  — KJV: "I go the way of all the earth" / ESV: "I am about to
-       go the way of all the earth" — Hebrew "anokhi holek bederek
-       kol ha-aretz." The phrase is an idiom for death. "Way of all
-       the earth" = the universal path every human must walk. ESV
-       adds "about to" to clarify imminence.
-
-v.5  — KJV: "shed the blood of war in peace" / ESV: "avenging in
-       time of peace for blood that had been shed in war" — Hebrew
-       "vayyasem demey milchamah beshlalom." Joab killed Abner and
-       Amasa during peacetime, treating them as wartime enemies.
-       ESV's expanded rendering clarifies the legal issue: Joab
-       committed murder (peacetime killing) not legitimate warfare.
-
-v.6  — KJV: "let not his hoar head go down to the grave in peace" /
-       ESV: "do not let his gray head go down to Sheol in peace" —
-       Hebrew "sheol" = the grave/realm of the dead. KJV translates
-       as "grave"; ESV retains "Sheol" as a proper noun. "Hoar head"
-       (KJV) = gray/white-haired head, indicating old age.
-
-v.9  — KJV: "bring thou down to the grave with blood" / ESV: "bring
-       his gray head down with blood to Sheol" — Same Hebrew term
-       "sheol." David does not command execution directly — he says
-       "you are a wise man, you will know what to do." The
-       instruction is to not let Shimei's past crime go unpunished.
-
-v.22 — KJV: "ask for him the kingdom also" / ESV: "Ask for him the
-       kingdom also" — Solomon's sarcasm is evident in both
-       translations. The request for the king's woman IS a request
-       for the kingdom. Solomon makes explicit what Adonijah left
-       implicit.
-
-v.46 — KJV: "the kingdom was established in the hand of Solomon" /
-       ESV: "the kingdom was established in the hand of Solomon" —
-       Hebrew "nakhon" = firm, established, secure. This key word
-       appears throughout the chapter — the kingdom moves from
-       "established greatly" (v.12) through threats to "established
-       in the hand of Solomon" (v.46). The structure is: throne
-       received, throne threatened, throne secured.
-
-v.2 — NET: "“I am about to die. Be" for KJV's "I go the way of all the earth: be thou"
-       WEB: "show yourself" for KJV's "shew thyself"
-v.5 — NET: "Jether. During peacetime" for KJV's "Jether, whom"
-       WEB: "“Moreover you know" for KJV's "Moreover thou knowest"
-v.6 — ASV: "Sheol" for KJV's "the grave"
-       NET: "him what you think is appropriate, but don’t let him live..." for KJV's "thy wisdom,"
-       WEB: "Sheol" for KJV's "the grave"
-v.9 — ASV: "him, and thou shalt bring" for KJV's "him; but"
-       NET: "make sure he has a bloody death.”" for KJV's "but his hoar head bring thou down to the grave with blood."
-       WEB: "to him, and you shall bring" for KJV's "unto him; but"
-v.12 — NET: "firmly solidified." for KJV's "established greatly."
-       WEB: "firmly established." for KJV's "established greatly."
-v.22 — NET: "him? Since he is my older brother, you should also request" for KJV's "Adonijah? ask for him"
-       WEB: "“Why do you" for KJV's "And why dost thou"
-v.46 — NET: "executed Shimei. So Solomon took firm control of" for KJV's "fell upon him, that he died. And"
-       WEB: "The" for KJV's "And the"
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. The foundation of all leadership is obedience to God's Word
@@ -281,14 +187,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — 1 Kings Overview:
   https://bibleproject.com/explore/video/1-2-kings/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

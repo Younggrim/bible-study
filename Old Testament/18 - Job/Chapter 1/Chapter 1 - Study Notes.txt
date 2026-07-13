@@ -75,36 +75,6 @@ I return thither: the LORD gave, and the LORD hath taken away;
 blessed be the name of the LORD." The narrator's verdict: "In all
 this Job sinned not, nor charged God foolishly."
 
-KEY VERSES
-------------------------------------
-v.1  — "There was a man in the land of Uz whose name was Job,
-        and that man was blameless and upright, one who feared God
-        and turned away from evil." (ESV) — The fourfold description
-        establishes Job's character beyond dispute. God Himself
-        will repeat this description (v.8). Job's suffering cannot
-        be explained by hidden sin — the narrator and God both
-        declare him blameless.
-
-v.9  — "Then Satan answered the LORD and said, 'Does Job fear God
-        for no reason?'" (ESV) — The central question of the book.
-        Satan's accusation is that all human devotion to God is
-        mercenary — we love God only for His gifts. If this is
-        true, then genuine worship is impossible, and God is merely
-        a cosmic vending machine.
-
-v.21 — "Naked I came from my mother's womb, and naked shall I
-        return. The LORD gave, and the LORD has taken away; blessed
-        be the name of the LORD." (ESV) — Job's
-        response refutes Satan's accusation. He blesses God in loss
-        as in gain. He acknowledges God's sovereignty over both
-        giving and taking. This is not stoicism — it is worship.
-
-v.22 — "In all this Job did not sin or charge God with wrong."
-        (ESV) — The divine verdict on Job's response. Grief is not
-        sin. Questions are not sin. But charging God with injustice
-        — attributing wrong to God — would be sin. Job mourns
-        without accusing.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — Ezekiel 14:14,20 — God names Job alongside Noah and Daniel
@@ -150,71 +120,6 @@ Charles Spurgeon:
   had God — and God was enough. 'Blessed be the name of the LORD'
   is the highest achievement of human faith: to worship the Giver
   when the gifts are gone."
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — KJV: "perfect and upright" / ESV: "blameless and upright" —
-       Hebrew "tam" does not mean sinless perfection but wholeness,
-       integrity, completeness. The ESV "blameless" better conveys
-       that Job was a man of complete integrity, not that he was
-       without any sin whatsoever.
-
-v.5  — KJV: "cursed God" / ESV: "cursed God" — The Hebrew actually
-       uses "barak" (blessed) as a euphemism for "cursed." The
-       scribes used the opposite word to avoid writing "curse God."
-       Both translations interpret the euphemism correctly. This
-       same euphemism appears in 1:11, 2:5, and 2:9.
-
-v.6  — KJV/ESV: "sons of God" — Hebrew "bene ha'elohim," referring
-       to angelic beings, not human descendants of Seth. The same
-       phrase appears in Job 38:7 where they shout for joy at
-       creation — clearly angels.
-
-v.15 — KJV: "Sabeans" / ESV: "Sabeans" — Descendants of Sheba,
-       likely from southwestern Arabia (modern Yemen). Known as
-       raiders and traders. Their presence confirms the ancient
-       near-eastern setting.
-
-v.17 — KJV: "Chaldeans" / ESV: "Chaldeans" — A semi-nomadic people
-       from southern Mesopotamia, later associated with Babylon.
-       Their appearance as raiding bands (not an empire) confirms
-       the early dating of the story.
-
-v.1 — NET: adds "one who feared God"
-       WEB: "Job. That" for KJV's "Job; and that"
-v.5 — ASV: "burnt-offerings" for KJV's "burnt offerings"
-       NET: "hearts.” This was Job’s customary practice." for KJV's "hearts. Thus did Job continually."
-       WEB: "had run their course," for KJV's "were gone about,"
-v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "Lord—and" for KJV's "LORD, and"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.15 — ASV: "[upon them]," for KJV's "upon them,"
-       NET: "sword! And I—only" for KJV's "edge of the sword; and"
-       WEB: "away. Yes," for KJV's "away; yea,"
-v.17 — NET: "still speaking another messenger arrived" for KJV's "yet speaking, there came also another,"
-       WEB: "swept down on" for KJV's "fell upon"
-
-GLOSSARY
-------------------------------------
-Uz            — A region likely in Edom or northern Arabia, east of
-              Israel. Lamentations 4:21 associates Uz with Edom.
-              The name appears in Genesis 10:23 and 22:21 as a
-              descendant of Shem.
-
-Satan         — Hebrew "ha-satan" = "the adversary" or "the
-              accuser." In Job, he appears with the definite
-              article ("the Satan"), functioning as a title/role
-              rather than a proper name. He accuses the righteous
-              before God (cf. Zechariah 3:1; Revelation 12:10).
-
-Sons of God   — Hebrew "bene ha'elohim" — angelic beings who
-              comprise the heavenly council. They present themselves
-              before God, indicating accountability and service.
-
-Hedge         — The protective boundary God places around His
-              people (v.10). Satan acknowledges it exists and
-              complains he cannot penetrate it without permission.
-              Cf. Psalm 34:7; 91:11.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. True faith is tested by loss, not by gain (vv.9-12). Satan's
@@ -255,15 +160,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Job Overview:
   https://bibleproject.com/explore/video/job/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles
-Spurgeon (Public Domain)

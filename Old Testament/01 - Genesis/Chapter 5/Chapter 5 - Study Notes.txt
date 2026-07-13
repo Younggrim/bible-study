@@ -39,25 +39,6 @@ MAP & GEOGRAPHY NOTES
 • The long lifespans and genealogical structure suggest humanity spreading
   across the earth, though no locations are named.
 
-KEY VERSES
-------------------------------------
-v.1  — "When God created man, he made him in the likeness of God." (ESV) —
-        Reaffirming the image of God despite the fall.
-
-v.3  — "When Adam had lived 130 years, he fathered a son in his own likeness,
-        after his image." (ESV) — Now Adam's likeness (fallen), not just
-        God's.
-
-v.5  — "Thus all the days that Adam lived were 930 years, and he died."
-        (ESV) — Death's reality.
-
-v.24 — "Enoch walked with God, and he was not, for God took him." (ESV) —
-        Life beyond death through walking with God.
-
-v.29 — "He called his name Noah, saying, 'Out of the ground that the LORD
-        has cursed, this one shall bring us relief.'" (ESV) — Hope for
-        relief from the curse.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — Genesis 1:26-27 — "Let us make man in our image."
@@ -90,93 +71,6 @@ Charles Spurgeon:
   becomes the eternal presence. Start walking today — and one day, without
   interruption, you'll find yourself home."
 
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — Hebrew "sepher toledoth Adam" — the written record of Adam's descendants.
-       KJV: "This is the book of the generations of Adam"
-       ESV: "This is the book of the generations of Adam"
-       ASV: "This is the book of the generations of Adam"
-       NET: "This is the record of the family line of Adam"
-       WEB: "This is the book of the generations of Adam"
-       Analysis: NET modernizes "sepher toledoth" to "record of the family
-       line" rather than the traditional "book of the generations." The
-       second "toledoth" section in Genesis (first is 2:4). KJV/ESV/ASV/WEB
-       all use the traditional rendering.
-
-v.2  — Hebrew "vayyiqra eth-shemam Adam" — called their name Adam/Man.
-       KJV: "called their name Adam"
-       ESV: "named them Man"
-       ASV: "called their name Adam"
-       NET: "named them 'humankind'"
-       WEB: "called their name Adam"
-       Analysis: "Adam" means "man/mankind" in Hebrew. ESV translates as
-       "Man" to show its meaning. NET uses "humankind" — gender-inclusive,
-       emphasizing the collective sense (male and female together). KJV/ASV/
-       WEB retain the proper name.
-
-v.3  — Hebrew "yalad... bidmuto ketsalmo" — fathered... in his likeness, after his image.
-       KJV: "begat a son in his own likeness, after his image"
-       ESV: "fathered a son in his own likeness, after his image"
-       ASV: "begat a son in his own likeness, after his image"
-       NET: "he fathered a son in his likeness, according to his image"
-       WEB: "became the father of a son in his own likeness, after his image"
-       Analysis: KJV/ASV use archaic "begat"; ESV/NET use "fathered"; WEB
-       paraphrases to "became the father of." Adam's son bears Adam's
-       (fallen) image — the image of God continues but is now transmitted
-       through a fallen nature.
-
-v.22 — Hebrew "hithhallek Chanokh eth ha-Elohim" — Enoch walked with God.
-       KJV: "Enoch walked with God"
-       ESV: "Enoch walked with God"
-       ASV: "Enoch walked with God"
-       NET: "Enoch walked with God"
-       WEB: "Enoch walked with God"
-       Analysis: All translations identical. The hithpael (reflexive) form
-       suggests ongoing, deliberate, intimate companionship. The uniformity
-       across all translations shows the clarity of the Hebrew here.
-
-v.24 — Hebrew "einennu ki laqach oto Elohim" — he was no more because God took him.
-       KJV: "he was not; for God took him"
-       ESV: "he was not, for God took him"
-       ASV: "he was not; for God took him"
-       NET: "he disappeared because God took him away"
-       WEB: "he was not found, for God took him"
-       Analysis: NET uniquely renders "he was not" as "he disappeared" —
-       making the supernatural event more vivid. WEB adds "found" (not in
-       Hebrew), suggesting people looked for Enoch but couldn't locate him.
-       KJV/ESV/ASV preserve the stark Hebrew: "he was not."
-
-v.29 — Hebrew "zeh yenachamenu" — this one shall comfort/bring relief.
-       KJV: "This same shall comfort us concerning our work and toil"
-       ESV: "this one shall bring us relief from our work and from the painful toil"
-       ASV: "This same shall comfort us in our work and in the toil [which cometh]"
-       NET: "This one will bring us comfort from our labor and from the painful toil"
-       WEB: "This one will comfort us in our work and in the toil of our hands"
-       Analysis: "Noah" (Noach) = rest/comfort, related to "nacham." ESV
-       uses "relief" and "painful toil" to make the connection to the curse
-       of 3:17-19 explicit. ASV uniquely brackets "[which cometh]" to show
-       it is supplied for clarity and not in the Hebrew — demonstrating
-       ASV's transparency about translator additions.
-
-GLOSSARY
-------------------------------------
-Toledoth       — "Generations/account." A structural marker in Genesis
-               introducing a new section of family history.
-
-"And he died"  — The repeated refrain demonstrating death's universal reign
-               since the fall. The wages of sin paid generation after
-               generation.
-
-Walked with God — Intimate, sustained, habitual fellowship with God. A life
-               lived in conscious companionship with the Creator.
-
-Translated/Taken — Enoch's removal from earth without dying. God took him
-               directly to Himself — a preview of resurrection hope.
-
-In his own likeness — Adam's fallen image passed to his descendants. The
-               image of God remains but is now transmitted through a sinful
-               nature.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "And he died" (repeated 8 times). Death is the universal human experience
@@ -204,14 +98,3 @@ VIDEO RESOURCES
 The Bible Project — Genesis Overview:
   https://bibleproject.com/explore/video/genesis-1-11/ (Chapters 1-11)
   https://bibleproject.com/explore/video/genesis-12-50/ (Chapters 12-50)
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

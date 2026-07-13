@@ -42,28 +42,6 @@ Structure:
 - Praise: Trust and Singing (vv.5-6)
 
 
-KEY VERSES
-------------------------------------
-v.1  — "How long wilt thou forget me, O LORD? for ever? how long
-        wilt thou hide thy face from me?" (KJV) — The most
-        concentrated expression of lament in the Psalter. Four
-        "how long" questions in two verses — directed at God
-        (forgotten, hidden), at self (sorrow), and at enemies
-        (exalted). Every dimension of suffering is covered.
-
-v.5  — "But I have trusted in thy mercy; my heart shall rejoice in
-        thy salvation." (KJV) — The "BUT" of faith. Nothing in the
-        psalm explains what changed between v.4 and v.5. The
-        circumstances have not changed. The enemies have not fled.
-        God has not audibly responded. Yet David DECIDES to trust.
-        Faith is a choice, not a feeling.
-
-v.6  — "I will sing unto the LORD, because he hath dealt
-        bountifully with me." (KJV) — Past tense: "he HATH dealt
-        bountifully." David recalls past faithfulness as the basis
-        for present trust. Even in current darkness, God's past
-        goodness is evidence enough to sing.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — Psalm 10:1 — "Why standest thou afar off, O LORD?" Same
@@ -83,41 +61,6 @@ v.6   — Psalm 116:7 — "The LORD hath dealt bountifully with thee."
 
 COMMENTARY REFERENCES
 ------------------------------------
-
-TRANSLATION COMPARISON
-------------------------------------
-v.1 — KJV: "How long wilt thou forget me" / ESV: "Will you forget
-      me forever?" — Both capture the anguish. The Hebrew
-      construction emphasizes duration — the suffering feels
-      eternal. "Forever?" is the question suffering always asks.
-
-v.3 — KJV: "lighten mine eyes" / ESV: "light up my eyes" — Hebrew
-      "ha'ira eynay" = make my eyes shine/be bright. Dim eyes
-      indicate approaching death (1 Sam 14:27-29). David asks for
-      vitality — life-light in his eyes — lest death overtake him.
-
-v.5 — KJV: "thy mercy" / ESV: "your steadfast love" — Hebrew
-      "chesed" = covenant faithfulness, steadfast love. ESV's
-      translation preserves the covenantal dimension — this is not
-      general kindness but committed, unbreakable love.
-
-v.6 — KJV: "he hath dealt bountifully" / ESV: "he has dealt
-      bountifully" — Same. Hebrew "gamal" = dealt fully, repaid
-      with good. Past-tense confidence: God HAS BEEN good, and
-      that record is the basis for future trust.
-
-v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: adds "For the music director, a psalm of David. How long, Lord,..."
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "God! Revive me, or else" for KJV's "God: lighten mine eyes, lest"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.5 — ASV: "lovingkindness; My" for KJV's "mercy; my"
-       NET: "because of your deliverance." for KJV's "in thy salvation."
-       WEB: "your loving kindness. My" for KJV's "thy mercy; my"
-v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "vindicates" for KJV's "hath dealt bountifully with"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -151,15 +94,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Psalms Overview:
   https://bibleproject.com/explore/video/psalms/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles
-Spurgeon (Public Domain)

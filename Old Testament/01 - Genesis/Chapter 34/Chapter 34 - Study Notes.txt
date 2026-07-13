@@ -47,27 +47,6 @@ MAP & GEOGRAPHY NOTES
 • The city's strategic location made it important for trade and governance —
   it later becomes Israel's first capital under Jeroboam (1 Kings 12:25).
 
-KEY VERSES
-------------------------------------
-v.2  — "He seized her and lay with her and humiliated her." (ESV) — Sexual
-        violence.
-
-v.7  — "He had done an outrageous thing in Israel... for such a thing must
-        not be done." (ESV) — The brothers' righteous anger.
-
-v.13 — "The sons of Jacob answered Shechem and his father Hamor deceitfully."
-        (ESV) — Deception used for revenge.
-
-v.25 — "Simeon and Levi... came against the city while it felt secure and
-        killed all the males." (ESV) — Disproportionate, treacherous
-        violence.
-
-v.30 — "You have brought trouble on me by making me stink to the inhabitants
-        of the land." (ESV) — Jacob's pragmatic (not moral) concern.
-
-v.31 — "Should he treat our sister like a prostitute?" (ESV) — The
-        unanswered question.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — Proverbs 22:3 — "The prudent sees danger and hides himself."
@@ -96,96 +75,6 @@ Charles Spurgeon:
   righteous anger twisted into treacherous violence — made things worse, not
   better. When you're in the wrong place, everything goes wrong."
 
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — Hebrew "yatsa lirot bibnot ha'arets" — went out to see the daughters of the land.
-       KJV: "Dinah the daughter of Leah...went out to see the daughters of the land"
-       ESV: "Dinah the daughter of Leah...went out to see the women of the land"
-       ASV: "Dinah the daughter of Leah...went out to see the daughters of the land"
-       NET: "Dinah...went to meet the young women of the land"
-       WEB: "Dinah, the daughter of Leah...went out to see the daughters of the land"
-       Analysis: Hebrew "lir'ot bibnot ha'arets" — ESV uses "women" instead
-       of "daughters." NET renders as "meet" rather than "see" (KJV/ASV/WEB),
-       suggesting purposeful social engagement rather than passive observation.
-       Not necessarily sinful but unwise — a young woman alone among pagans.
-
-v.2  — Hebrew "vayyiqach...vayyishkav...wayeannehah" — took...lay with...humbled her.
-       KJV: "took her, and lay with her, and defiled her"
-       ESV: "he seized her and lay with her and humiliated her"
-       ASV: "took her, and lay with her, and humbled her"
-       NET: "he grabbed her, forced himself on her, and sexually assaulted her"
-       WEB: "took her, lay with her, and humbled her"
-       Analysis: Hebrew "wayeannehah" — he humbled/afflicted her. The same
-       word used for rape in Deuteronomy 22:29 and 2 Samuel 13:14. NET uses
-       three explicit terms, removing all ambiguity about the violent nature
-       of the act. ESV captures the root meaning with "humiliated." KJV's
-       "defiled" is more euphemistic. NET is notably the most direct.
-
-v.7  — Hebrew "nebalah beYisrael" — an outrageous/disgraceful thing in Israel.
-       KJV: "he had wrought folly in Israel...which thing ought not to be done"
-       ESV: "he had done an outrageous thing in Israel...for such a thing must not be done"
-       ASV: "he had wrought folly in Israel...which thing ought not to be done"
-       NET: "by sexually assaulting Jacob's daughter—a crime that should not be committed"
-       WEB: "he had done folly in Israel...which thing ought not to be done"
-       Analysis: Hebrew "nebalah" is a technical term for serious sexual sin
-       (cf. Judg 20:6, 2 Sam 13:12). KJV/ASV/WEB use "folly" (understating
-       the severity); ESV renders as "outrageous thing." NET makes the moral
-       judgment explicit: "a crime that should not be committed." This is not
-       mere "foolishness" but a grave violation of community standards.
-
-v.13 — Hebrew "bemirmah" — with deceit/treachery.
-       KJV: "the sons of Jacob answered Shechem and his father Hamor deceitfully"
-       ESV: "the sons of Jacob answered Shechem and his father Hamor deceitfully"
-       ASV: "the sons of Jacob answered Shechem and his father Hamor with guile"
-       NET: "Jacob's sons answered Shechem and his father Hamor deceitfully"
-       WEB: "the sons of Jacob answered Shechem and Hamor his father deceitfully"
-       Analysis: The same family trait: Abraham deceived, Isaac deceived,
-       Jacob deceived, now his sons deceive. ASV uses "guile" while others
-       use "deceitfully." All preserve the damning assessment — the brothers'
-       response was calculated treachery, not righteous justice.
-
-v.25 — Hebrew "Shim'on veLevi achey Dinah" — Simeon and Levi, Dinah's brothers.
-       KJV: "Simeon and Levi, Dinah's brethren, took each man his sword"
-       ESV: "Simeon and Levi, Dinah's brothers, took their swords and came against the city"
-       ASV: "Simeon and Levi, Dinah's brethren, took each man his sword"
-       NET: "Simeon and Levi, Dinah's brothers, each took his sword and went to the unsuspecting city"
-       WEB: "Simeon and Levi, Dinah's brothers, each took his sword, came upon the city"
-       Analysis: Full brothers (all Leah's children) — they took personal
-       responsibility for avenging their sister. NET adds "unsuspecting"
-       (rendering Hebrew "betach" — feeling secure/confident), emphasizing
-       the treacherous nature of the attack on men recovering from
-       circumcision. ESV's "came against" conveys hostile intent.
-
-v.30 — Hebrew "achartem oti lehav'isheni" — you have troubled me, making me odious.
-       KJV: "Ye have troubled me to make me to stink among the inhabitants of the land"
-       ESV: "You have brought trouble on me by making me stink to the inhabitants of the land"
-       ASV: "Ye have troubled me, to make me odious to the inhabitants of the land"
-       NET: "You have brought ruin on me by making me a stench to the inhabitants of the land"
-       WEB: "You have troubled me, to make me odious to the inhabitants of the land"
-       Analysis: Jacob's concern is self-preservation ("I being few in
-       number"), not justice or morality. His passivity throughout the chapter
-       is notable — he neither protects Dinah nor restrains his sons. NET's
-       "brought ruin" and "a stench" are stronger than the other renderings,
-       emphasizing the severity of the consequences. ASV/WEB use "odious"
-       for "stink."
-
-GLOSSARY
-------------------------------------
-"Went out to see" — Dinah's curiosity about Canaanite culture. Not sinful
-               in itself but unwise given the context.
-
-"Wrought folly in Israel" — A technical term for serious sexual sin. An act
-               that violates the community's standards.
-
-Answered deceitfully — Using circumcision (a sacred covenant sign) as a
-               weapon of treachery. Profaning the holy for revenge.
-
-Disproportionate revenge — Killing an entire city for one man's crime.
-               Righteous anger twisted into unjust violence.
-
-Jacob's passivity — His failure to protect Dinah or restrain his sons. A
-               father's abdication with devastating consequences.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Jacob settled near Shechem instead of returning to Bethel (33:18). Wrong
@@ -213,14 +102,3 @@ VIDEO RESOURCES
 The Bible Project — Genesis Overview:
   https://bibleproject.com/explore/video/genesis-1-11/ (Chapters 1-11)
   https://bibleproject.com/explore/video/genesis-12-50/ (Chapters 12-50)
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

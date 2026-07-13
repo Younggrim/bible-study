@@ -63,40 +63,6 @@ suffering. The chapter ends not with resolution but with raw
 pain: "yet trouble came."
 
 
-KEY VERSES
-------------------------------------
-v.3  — "Let the day perish on which I was born, and the night that
-        said, 'A man is conceived.'" (ESV) — Job's opening words
-        after seven days of silence. Not a
-        curse on God but a curse on his own existence. He wishes
-        himself uncreated. The intensity reveals that faith and
-        anguish can coexist in the same breath.
-
-v.11 — "Why did I not die at birth, come out from the womb and
-        expire?" (ESV) — The question moves from cursing birth to
-        questioning why death did not
-        come immediately. If life leads to this suffering, what was
-        the purpose of living at all?
-
-v.20 — "Why is light given to him who is in misery, and life to
-        the bitter in soul" (ESV) — Job expands his personal cry
-        into a universal question. Why does God give
-        existence to those who will only suffer? This is the
-        problem of theodicy stated with brutal clarity.
-
-v.23 — "Why is light given to a man whose way is hidden, whom God
-        has hedged in?" (ESV) — Bitter irony: in 1:10, Satan
-        said God "hedged" Job with protection. Now Job uses the
-        same image for entrapment. The very God who fenced him in
-        with blessing now fences him in with suffering.
-
-v.25 — "For the thing that I fear comes upon me, and what I dread
-        befalls me." (ESV) — A haunting confession: even in
-        prosperity, Job carried a
-        deep anxiety that it could all be taken away. The fear
-        itself did not cause the loss, but it reveals that Job's
-        faith was never naive optimism.
-
 CROSS-REFERENCES
 ------------------------------------
 v.3   — Jeremiah 20:14-18 — Jeremiah likewise cursed the day of
@@ -147,71 +113,6 @@ Charles Spurgeon:
   God hears the groan that comes from faith's dark night and does
   not condemn it. He who made us knows our frame and remembers
   that we are dust."
-TRANSLATION COMPARISON
-------------------------------------
-v.5  — KJV: "shadow of death" / ESV: "deep darkness" — Hebrew
-       "tsalmaveth" was traditionally understood as a compound
-       (tsel + maveth = shadow of death). Modern scholars often
-       read it as an intensive form meaning "deep/utter darkness."
-       KJV preserves the traditional reading; ESV follows modern
-       linguistic analysis. Both convey the idea of impenetrable
-       darkness.
-
-v.8  — KJV: "who are ready to raise up their mourning" / ESV:
-       "who are ready to rouse up Leviathan" — Hebrew "livyathan"
-       in ESV vs. a different vowel pointing yielding "mourning"
-       in KJV. The ESV follows the more likely reading: ancient
-       sorcerers who claimed power to curse days and awaken cosmic
-       sea monsters. This fits the mythic, cosmic tone of Job's
-       curse.
-
-v.17 — KJV: "the weary be at rest" / ESV: "the weary are at
-       rest" — Hebrew "yegi'e koach" = those exhausted in strength.
-       Both translations capture the image of death as cessation
-       of labor. The weary find in death what they could not find
-       in life: rest.
-
-v.24 — KJV: "my roarings are poured out like the waters" / ESV:
-       "my groanings are poured out like water" — Hebrew
-       "she'agah" can mean roaring (like a lion) or groaning. KJV
-       "roarings" captures the volume and intensity; ESV
-       "groanings" captures the inward anguish. Both are valid.
-
-v.5 — ASV: "claim it for their own; Let" for KJV's "stain it; let"
-       NET: "whatever blackens" for KJV's "the blackness of"
-       WEB: "on it. Let all that makes black" for KJV's "upon it; let the blackness of"
-v.8 — ASV: "leviathan." for KJV's "their mourning."
-       NET: "rouse Leviathan." for KJV's "raise up their mourning."
-       WEB: "leviathan." for KJV's "their mourning."
-v.17 — WEB: "troubling. There" for KJV's "troubling; and there"
-v.24 — ASV: "water." for KJV's "the waters."
-       NET: "comes in place of my food," for KJV's "cometh before I eat,"
-       WEB: "eat. My groanings" for KJV's "eat, and my roarings"
-
-GLOSSARY
-------------------------------------
-Anti-creation — A literary technique where the language of Genesis
-              1 (creation, light, order) is deliberately reversed
-              to express a desire for uncreation, darkness, and
-              chaos. Job's curse is structured as anti-creation
-              poetry.
-
-Leviathan     — (ESV v.8) A great sea creature representing
-              primordial chaos in ancient Near Eastern mythology.
-              Used in Job 41 as a creature demonstrating God's
-              power over chaos. Here, Job invokes the forces of
-              chaos against the day of his birth.
-
-Shadow of     — (KJV) Hebrew "tsalmaveth" — the deepest possible
-Death           darkness. Used throughout Job (3:5; 10:21-22;
-              12:22; 16:16; 24:17; 28:3; 34:22; 38:17) as an
-              image of death's realm and hopelessness.
-
-Sheol         — The realm of the dead in Hebrew thought. Not the
-              same as hell (Gehenna) but the place where all the
-              dead go — a shadowy, silent existence. Job envisions
-              it as rest from suffering rather than punishment.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Faith permits honest anguish (vv.1-3). Job's curse on his
@@ -252,15 +153,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Job Overview:
   https://bibleproject.com/explore/video/job/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles
-Spurgeon (Public Domain)

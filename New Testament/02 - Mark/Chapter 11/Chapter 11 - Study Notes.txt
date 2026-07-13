@@ -38,23 +38,6 @@ MAP & GEOGRAPHY NOTES
 - The Temple (v.15): Jesus entered the Temple in Jerusalem and cleansed it. The Court of the Gentiles had been turned into a marketplace.
 - Bethany (v.11): Jesus returned to Bethany each evening during Passion Week — about 2 miles east of Jerusalem.
 
-KEY VERSES
-------------------------------------
-v.9  — "Hosanna! Blessed is he who comes in the name of the Lord!" (ESV) — The
-        messianic acclamation from Psalm 118:25-26.
-
-v.17 — "Is it not written, 'My house shall be called a house of prayer for all
-        the nations'? But you have made it a den of robbers." (ESV) — Jesus' zeal
-        for pure, accessible worship.
-
-v.22 — "Have faith in God." (ESV) — The foundation of everything that follows.
-
-v.24 — "Whatever you ask in prayer, believe that you have received it, and it
-        will be yours." (ESV) — The power of believing prayer.
-
-v.25 — "Whenever you stand praying, forgive." (ESV) — Forgiveness as a prerequisite
-        for effective prayer.
-
 CROSS-REFERENCES
 ------------------------------------
 v.2   — Zechariah 9:9 — "Your king comes to you... riding on a donkey."
@@ -89,84 +72,6 @@ Charles Spurgeon:
   "Have faith in God — not faith in faith, not faith in prayer, not faith
   in your own believing — faith in GOD. The object of faith matters more
   than the quantity of faith. A little faith in a great God moves mountains."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — NET: "Now as they approached Jerusalem, near Bethphage
-       and Bethany, at the Mount of Olives" — geographic precision.
-       WEB similarly names both villages. The approach from the
-       east, over the Mount of Olives, was the expected route of
-       the Messiah (Zechariah 14:4).
-
-v.13 — KJV: "for the time of figs was not yet" / ESV: "for it was not the
-       season for figs" — Both equivalent. This puzzling detail explains why
-       Jesus cursed the tree: fig trees in Palestine produce small early fruit
-       (taqsh) before the main crop. Leaves without even this early fruit
-       indicated the tree was barren — all show, no substance.
-
-v.15 — NET: "he began to drive out those who were selling and
-       buying in the temple courts" — "temple courts" specifies
-       the Court of the Gentiles. KJV/ASV: simply "the temple."
-       The commerce was displacing the only space where Gentiles
-       could pray.
-
-v.17 — KJV: "My house shall be called of all nations the house of prayer" /
-       ESV: "My house shall be called a house of prayer for all the nations"
-       — Both equivalent. Mark alone includes "of all nations" (from Isaiah
-       56:7). The Court of the Gentiles — the only place non-Jews could
-       worship — had been turned into a marketplace. Jesus was angry that
-       Gentile worship was being obstructed.
-       NET: "My house will be called a house of prayer for all
-       nations" — "all nations" (panta ta ethnē) is crucial — it's
-       the Gentile access that the merchants were obstructing.
-       WEB: "a house of prayer for all the nations." All versions
-       preserve this phrase from Isaiah 56:7.
-
-v.22 — KJV: "Have faith in God" / ESV: "Have faith in God" — Both identical.
-       Greek "echete pistin theou" — could also be translated "Have the faith
-       of God" or "Have God's faith." Either way: trust God completely.
-       NET: "Have faith in God" — straightforward. WEB: "Have
-       faith in God." ASV: "Have faith in God." Some scholars
-       suggest an alternate rendering: "Have the faith of God"
-       (objective genitive). No major translation adopts this.
-
-v.25 — KJV: "when ye stand praying, forgive" / ESV: "whenever you stand
-       praying, forgive" — Both equivalent. Jews typically stood to pray (not
-       kneeling). The posture is less important than the heart condition —
-       specifically, a forgiving heart.
-       NET: "Whenever you stand praying, if you have anything
-       against anyone, forgive him" — links prayer's power (v.24)
-       to the condition of forgiveness. WEB: "whenever you stand
-       praying, forgive." KJV adds v.26 about the Father not
-       forgiving; NET/ESV omit v.26 as not in earliest manuscripts.
-
-v.26 — KJV includes v.26: "But if ye do not forgive, neither will your Father
-       which is in heaven forgive your trespasses." ESV omits this verse
-       (noted in footnote) as it likely was added from Matthew 6:15. The
-       principle remains taught in v.25.
-
-GLOSSARY
-------------------------------------
-Hosanna       — Hebrew "hoshia na" — "Save now!" A messianic acclamation
-               from Psalm 118:25, shouted during the Triumphal Entry.
-
-Fig tree      — A common tree in Israel, often symbolizing the nation. Leaves
-               without fruit = religious appearance without genuine
-               righteousness.
-
-Den of thieves — Jeremiah's phrase (7:11) for the Temple when it becomes a
-               cover for wickedness. The merchants exploited worshippers
-               under the guise of facilitating worship.
-
-Court of the Gentiles — The outer court of the Temple — the only area where
-               non-Jews could worship. The merchants had set up shop here,
-               making Gentile worship impossible.
-
-Mountain-moving faith — Not literal mountain relocation but faith that
-               accomplishes what seems impossible through prayer.
-
-Forgiveness   — A prerequisite for effective prayer (v.25). Unforgiveness
-               blocks your relationship with God and your prayers.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -217,14 +122,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Mark Overview:
   https://bibleproject.com/explore/video/mark/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

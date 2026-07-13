@@ -41,25 +41,6 @@ Structure:
 - Vision of a Blessed Nation (vv.12-15)
 
 
-KEY VERSES
-------------------------------------
-v.3  — "LORD, what is man, that thou takest knowledge of him! or
-        the son of man, that thou makest account of him!" (KJV) —
-        The wonder of divine attention. Given our smallness, why
-        does God notice us at all? This echoes Psalm 8:4 — the
-        mystery of grace is that God pays attention to dust.
-
-v.4  — "Man is like to vanity: his days are as a shadow that
-        passeth away." (KJV) — Human life = a breath, a passing
-        shadow. Not substantial enough to deserve God's attention.
-        Yet He gives it freely.
-
-v.15 — "Happy is that people, that is in such a case: yea, happy
-        is that people, whose God is the LORD." (KJV) — The psalm's
-        conclusion: true national happiness comes not from
-        prosperity (vv.12-14) but from having the LORD as God.
-        Blessed are the people whose God is the LORD.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — Psalm 18:2 — "The LORD is my rock, and my fortress."
@@ -71,15 +52,6 @@ v.15  — Psalm 33:12 — "Blessed is the nation whose God is the
 
 COMMENTARY REFERENCES
 ------------------------------------
-
-TRANSLATION COMPARISON
-------------------------------------
-- v.1 — KJV: "Blessed be the LORD my strength" / ASV: "Blessed be Jehovah my rock" / WEB: "Blessed be Yahweh, my rock" / NET: "The Lord, my Protector, deserves praise" — KJV has "strength"; ASV/WEB have "rock" (Hebrew "tsur"); NET paraphrases "rock" as "Protector," interpreting the metaphor.
-- v.2 — KJV: "My goodness" / ASV: "My lovingkindness" / WEB: "my loving kindness" / NET: "who loves me" — ASV/WEB treat "chasdi" as God being the psalmist's chesed; NET restructures entirely ("who loves me").
-- v.3 — NET: "O Lord, of what importance is the human race that you should notice them?" — Significantly rewords KJV's "LORD, what is man, that thou takest knowledge of him!" NET makes the rhetorical question about "importance" rather than identity.
-- v.7 — KJV: "from the hand of strange children" / ASV: "Out of the hand of aliens" / WEB: "out of the hands of foreigners" / NET: "from the power of foreigners" — KJV's "strange children" is archaic for foreigners. NET adds "power" (not in Hebrew) to interpret "hand" as influence.
-- v.12 — KJV: "our daughters may be as corner stones, polished after the similitude of a palace" / NET: "Our daughters will be like corner pillars, carved like those in a palace" / WEB: "our daughters like pillars carved to adorn a palace" — NET/WEB clarify "corner stones" as "pillars," making the architectural beauty metaphor clearer.
-- v.15 — KJV: "Happy is that people" / NET: "How blessed are the people" — NET's "How blessed" (Hebrew "ashre") is more precise than KJV's "happy," which implies mere emotional state rather than divine favor.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -99,15 +71,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Psalms Overview:
   https://bibleproject.com/explore/video/psalms/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles
-Spurgeon (Public Domain)

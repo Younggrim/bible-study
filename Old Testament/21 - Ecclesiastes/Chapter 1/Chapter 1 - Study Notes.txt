@@ -38,46 +38,6 @@ Structure:
 - The Preacher's Experiment with Wisdom (vv.12-18)
 
 
-KEY VERSES
-------------------------------------
-v.2  — "Vanity of vanities, says the Preacher, vanity of vanities!
-        All is vanity." (ESV) — The thesis of the entire book.
-        "Vanity" (hebel) literally means breath, vapor, mist — that
-        which is fleeting, insubstantial, unable to be grasped. The
-        superlative form ("vanity of vanities") means the ultimate
-        vanity — the most vaporous of all vapors. This is not
-        nihilism but an honest assessment of life without eternity.
-
-v.3  — "What does man gain by all the toil at which he toils
-        under the sun?" (ESV) — The driving question of the book.
-        "Profit" (yithron) is a commercial term — what is the net
-        gain? "Under the sun" limits the inquiry to the earthly,
-        temporal realm. The implied answer: no lasting profit exists
-        in mere human effort apart from God.
-
-v.9  — "What has been is what will be, and what has been done is
-        what will be done, and there is nothing new under the
-        sun." (ESV) — Not denying
-        innovation but asserting that the fundamental patterns of
-        human existence do not change. The same sins, sorrows,
-        struggles, and searches repeat in every generation. History
-        is cyclical, not progressive, when viewed "under the sun."
-
-v.14 — "I have seen everything that is done under the sun, and
-        behold, all is vanity and a striving after wind." (ESV) —
-        "Vexation of spirit" (re'ut ruach) = striving after wind,
-        chasing the wind. The image is of grasping at air —
-        exhausting effort with nothing to hold. This phrase recurs
-        throughout Ecclesiastes as the verdict on human pursuits.
-
-v.18 — "For in much wisdom is much vexation, and he who increases
-        knowledge increases sorrow." (ESV) — A paradox: wisdom
-        is valuable, yet the wiser you become, the more clearly
-        you see the brokenness of the world. Ignorance may be
-        bliss, but it is not an option for the honest seeker.
-        Wisdom without God leads to despair; wisdom with God leads
-        through grief to peace.
-
 CROSS-REFERENCES
 ------------------------------------
 v.2   — Psalm 39:5-6 — "Behold, you have made my days a few
@@ -122,53 +82,6 @@ Charles Spurgeon:
   tells you plainly: it is all vanity. Will you believe him, or
   must you also waste your years proving what he has already
   proven? Learn from his sorrow and seek the eternal."
-TRANSLATION COMPARISON
-------------------------------------
-v.2  — KJV: "vanity" / ESV: "vanity" — Hebrew "hebel" literally
-       means breath, vapor. Some translations use "meaningless"
-       (NIV), "futile" (NASB margin), or "absurd." Each captures
-       one facet. The core idea is transience — life is like
-       trying to grasp smoke.
-
-v.13 — KJV: "sore travail" / ESV: "unhappy business" — Hebrew
-       "inyan ra" = a grievous occupation or burdensome task.
-       God has given humanity the restless drive to investigate
-       life — it is both gift and burden.
-
-v.14 — KJV: "vexation of spirit" / ESV: "striving after wind" —
-       Hebrew "re'ut ruach." KJV takes "re'ut" as vexation; ESV
-       takes it as pursuit/striving (from ra'ah = to shepherd,
-       tend, chase). Both are legitimate: chasing the wind is
-       inherently vexing.
-
-v.2 — NET: "Teacher. “Absolutely futile! Everything" for KJV's "Preacher, vanity of vanities; all"
-       WEB: "“Vanity of vanities,” says the Preacher; “Vanity of vanities, all is vanity.”"
-v.13 — ASV: adds "that God"
-       NET: "people a burdensome task that keeps them occupied." for KJV's "to the sons of man to be exercised therewith."
-       WEB: "the sky. It is a heavy burden that" for KJV's "heaven: this sore travail hath"
-v.14 — ASV: "a striving after wind." for KJV's "vexation of spirit."
-       NET: "reflected on everything that is accomplished by man on ea..." for KJV's "have seen all"
-       WEB: "a chasing after wind." for KJV's "vexation of spirit."
-
-GLOSSARY
-------------------------------------
-Hebel (vanity) — Literally "breath" or "vapor." The key word of
-              Ecclesiastes, occurring 38 times. It describes what
-              is fleeting, insubstantial, unable to be grasped —
-              not necessarily worthless but certainly transient.
-              Life "under the sun" is hebel: real but passing.
-
-Under the Sun — Qoheleth's signature phrase (29 occurrences),
-              meaning life viewed from a purely earthly,
-              horizontal perspective — without reference to God's
-              eternal purposes. It is the limited viewpoint the
-              Preacher deliberately adopts to show its inadequacy.
-
-Qoheleth (Preacher) — From the Hebrew root "qahal" (to assemble).
-              One who gathers an assembly to address them, or one
-              who gathers wisdom/observations. Traditionally
-              identified as Solomon in his old age.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Honesty is the beginning of wisdom (v.2). Ecclesiastes gives
@@ -206,15 +119,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Ecclesiastes Overview:
   https://bibleproject.com/explore/video/ecclesiastes/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles
-Spurgeon (Public Domain)

@@ -35,20 +35,6 @@ MAP & GEOGRAPHY NOTES
 - Nazareth: A small village in Galilee (northern Israel) where Joseph and Mary lived. Jesus would grow up here.
 - The genealogy spans the geography of Israel's history — from Abraham in Ur/Canaan, through David in Bethlehem/Jerusalem, through the Babylonian exile, and back to the land.
 
-KEY VERSES
-------------------------------------
-v.1  — "The book of the genealogy of Jesus Christ, the son of David, the son
-        of Abraham." (ESV) — The opening line establishes the two most important
-        messianic credentials: Davidic kingship and Abrahamic covenant.
-
-v.21 — "She will bear a son, and you shall call his name Jesus, for he will
-        save his people from their sins." (ESV) — The name and mission of
-        Christ declared before His birth.
-
-v.23 — "Behold, the virgin shall conceive and bear a son, and they shall call
-        his name Immanuel (which means, God with us)." (ESV) — The fulfillment
-        of Isaiah 7:14 — the Incarnation.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — Genesis 12:1-3 — God's covenant with Abraham.
@@ -81,72 +67,6 @@ Charles Spurgeon:
   "God with us — not God above us in unapproachable majesty, not God
   against us in righteous wrath, not God without us in cold indifference —
   God WITH us. In our flesh, in our weakness, in our world."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — KJV: "The book of the generation" — ESV: "The book of the genealogy"
-       — Greek "biblos geneseos" — literally "book of genesis/origin." Matthew
-       deliberately echoes Genesis 2:4 and 5:1 — Jesus is the new beginning,
-       the new Adam.
-       NET: "This is the record of the genealogy" — uniquely
-       renders "biblos geneseos" as "record of the genealogy"
-       rather than "book of the generation/genealogy," emphasizing
-       the document nature of what follows.
-
-v.16 — KJV: "Jacob begat Joseph the husband of Mary, of whom was born Jesus"
-       — The Greek "of whom" (ex hes) is feminine singular — "of her" — making
-       clear that Jesus was born of Mary, not begotten by Joseph. The genealogy
-       shifts from "begat" to "was born of" at this crucial point.
-
-v.18 — WEB: "she was found pregnant by the Holy Spirit" — more
-       direct modern phrasing than KJV's "with child of the Holy
-       Ghost" or ESV's "to be with child from the Holy Spirit."
-       NET similarly: "found to be pregnant through the Holy Spirit."
-
-v.19 — KJV: "a just man" — ESV: "a just man" — NET: "a righteous man" —
-       Greek "dikaios" — righteous, upright, law-abiding. Joseph's righteousness
-       was shown both in his desire to protect Mary and in his obedience to God.
-       NET: "because he did not want to disgrace her, he intended
-       to divorce her privately" — clarifies Joseph's two motives
-       (righteousness + compassion) more explicitly than KJV's
-       condensed "not willing to make her a publick example."
-
-v.20 — NET: "the child conceived in her is from the Holy Spirit"
-       — renders the angel's explanation with "conceived in" rather
-       than ASV/KJV "that which is conceived in her is of the Holy
-       Spirit," making the active divine agency clearer.
-
-v.23 — KJV: "a virgin" — ESV/NET: "a virgin" — Hebrew "almah" in Isaiah 7:14
-       means "young woman" (which in context implies virginity); the Greek
-       Septuagint translated it "parthenos" (virgin). Matthew uses "parthenos"
-       — the specific word for a woman who has never had sexual relations.
-
-v.25 — WEB: "didn't know her sexually until she had given birth
-       to her firstborn son" — the most explicit modern rendering.
-       ASV: "knew her not till she had brought forth a son." NET:
-       "did not have marital relations with her until she gave
-       birth to a son." All three clarify the euphemism of KJV's
-       "knew her not."
-
-GLOSSARY
-------------------------------------
-Genealogy     — A record of ancestry and descent. Matthew's genealogy establishes
-               Jesus' legal right to David's throne through Joseph (His legal
-               father) and His covenant connection to Abraham.
-
-Espoused      — Betrothed, engaged. In Jewish culture, betrothal was legally
-               binding — more than modern engagement. Breaking it required a
-               formal divorce. The betrothed couple did not yet live together.
-
-Emmanuel      — Hebrew "Immanuel" — "God with us." A name/title for Jesus
-               declaring His divine nature and His presence among humanity.
-
-Publick example — KJV phrase meaning to make a public spectacle. Joseph could
-               have had Mary publicly shamed or stoned; instead he planned to
-               divorce her quietly.
-
-Privily       — KJV for "secretly" or "quietly." Joseph's plan to protect
-               Mary from public shame, even at personal cost to himself.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -201,14 +121,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Matthew Overview:
   https://bibleproject.com/explore/video/matthew/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

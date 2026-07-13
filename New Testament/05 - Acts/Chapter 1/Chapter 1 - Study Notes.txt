@@ -35,22 +35,6 @@ MAP & GEOGRAPHY NOTES
 - The Mount of Olives (v.12): Jesus ascended from the Mount of Olives, about a "Sabbath day's journey" (~3/4 mile) from Jerusalem.
 - Jerusalem, Judea, Samaria, and the uttermost parts of the earth (v.8): The geographic outline of the entire book of Acts — the Gospel expanding in concentric circles from Jerusalem outward.
 
-KEY VERSES
-------------------------------------
-v.8  — "But you will receive power when the Holy Spirit has come upon you,
-        and you will be my witnesses in Jerusalem and in all Judea and
-        Samaria, and to the end of the earth." (ESV) — The outline of Acts
-        and the mission of the church.
-
-v.9  — "He was lifted up, and a cloud took him out of their sight." (ESV) —
-        The ascension — Jesus' physical departure and enthronement.
-
-v.11 — "This Jesus... will come in the same way as you saw him go into
-        heaven." (ESV) — The promise of Christ's visible, physical return.
-
-v.14 — "All these with one accord were devoting themselves to prayer." (ESV)
-        — The posture of the early church before Pentecost: unity and prayer.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — Luke 1:1-4 — The beginning of Luke's first volume.
@@ -88,84 +72,6 @@ Charles Spurgeon:
   "A cloud received Him — the Shekinah glory cloud that led Israel through
   the wilderness. He ascended into the glory of God. And He will return
   the same way — visibly, physically, gloriously."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — KJV: "The former treatise" / ESV: "In the first book" — Greek "logos"
-       simply means "account" or "narrative." The ESV's "first book" is more
-       natural to modern readers. Acts is volume 2 of Luke's two-part work.
-
-v.3  — KJV: "infallible proofs" / ESV: "many proofs" — Greek "tekmēriois" —
-       convincing evidence, decisive proofs. KJV's "infallible" emphasizes the
-       certainty; ESV's "many" emphasizes the quantity. Both are valid aspects
-       of the Greek term. The resurrection was not based on wishful thinking
-       but on multiple, verifiable appearances over 40 days.
-
-v.5  — KJV: "baptized with the Holy Ghost" / ESV: "baptized with the Holy
-       Spirit" — Both equivalent. "Ghost" and "Spirit" translate the same Greek
-       word "pneuma." Not water baptism but Spirit baptism — the immersion/
-       filling of believers with the Holy Spirit, fulfilled at Pentecost (ch.2).
-       NET: "you will be baptized with the Holy Spirit not
-       many days from now" — "baptized with" (en pneumati
-       baptisthesesthe). WEB: "you will be baptized in the Holy
-       Spirit." KJV: "ye shall be baptized with the Holy Ghost."
-       The preposition "in/with" is the same Greek word (en).
-
-v.8  — KJV: "witnesses unto me" / ESV: "my witnesses" — Both equivalent.
-       Greek "martures" — from which we get "martyrs." A witness testifies to
-       what they have seen and experienced — even at the cost of their lives.
-       KJV: "uttermost part of the earth" / ESV: "end of the earth" — both
-       render Greek "eschatou tēs gēs."
-       NET: "you will receive power when the Holy Spirit has come
-       upon you, and you will be my witnesses" — "power" (dynamin)
-       and "witnesses" (martyres, from which we get "martyr"). WEB:
-       "you will receive power when the Holy Spirit has come upon
-       you." Witness often cost them their lives.
-
-v.9  — NET: "he was lifted up while they were watching, and a
-       cloud hid him from their sight" — "a cloud" recalls the
-       Shekinah glory cloud. WEB: "a cloud received him out of
-       their sight." KJV: "a cloud received him out of their
-       sight." The Ascension completes the earthly ministry.
-
-v.11 — KJV: "in like manner" / ESV: "in the same way" — Both equivalent.
-       Visibly, physically, bodily. The ascension was not a metaphor; neither
-       will the return be.
-       NET: "This same Jesus who has been taken up from you into
-       heaven will come back in the same way" — "in the same way"
-       (hon tropon) — visible, bodily, from the sky. WEB: "will
-       come back in the same way." The Second Coming will mirror
-       the Ascension.
-
-v.26 — NET: "the lot fell to Matthias, and he was counted with
-       the eleven apostles" — "the lot fell" (epesen ho kleros) —
-       OT method of discerning God's will (Proverbs 16:33). WEB:
-       "the lot fell on Matthias." This is the last time lots are
-       used — after Pentecost, the Spirit guides directly.
-
-GLOSSARY
-------------------------------------
-Theophilus    — "Lover of God" — the recipient of both Luke and Acts. Likely
-               a Roman official or patron.
-
-Ascension     — Jesus' bodily departure from earth to heaven 40 days after
-               the resurrection. He was "taken up" into the cloud of God's
-               glory.
-
-Holy Ghost/Spirit — The third person of the Trinity, promised by Jesus as
-               "another Comforter" (John 14:16). His coming at Pentecost
-               empowered the church for mission.
-
-Witnesses     — Greek "martures" — those who testify to what they have seen.
-               The apostles were eyewitnesses of the resurrection; all
-               believers are witnesses of Christ's work in their lives.
-
-Sabbath day's journey — Approximately 2,000 cubits (about 3/4 mile) — the
-               maximum distance a Jew could travel on the Sabbath.
-
-Matthias      — The apostle chosen by lot to replace Judas. He met the
-               qualifications: a companion of Jesus from baptism to ascension,
-               and a witness of the resurrection.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -217,14 +123,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Acts Overview:
   https://bibleproject.com/explore/video/acts/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

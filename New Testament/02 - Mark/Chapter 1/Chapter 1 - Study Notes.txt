@@ -37,25 +37,6 @@ MAP & GEOGRAPHY NOTES
 - Capernaum (v.21): Jesus went to Capernaum on the northwest shore of the Sea of Galilee and began teaching in the synagogue. This becomes His home base.
 - Galilee (v.39): Jesus preached throughout Galilee's synagogues in the early days of His ministry.
 
-KEY VERSES
-------------------------------------
-v.1  — "The beginning of the gospel of Jesus Christ, the Son of God." (ESV) — Mark's
-        thesis statement — everything that follows is "good news."
-
-v.15 — "The time is fulfilled, and the kingdom of God is at hand; repent and
-        believe in the gospel." (ESV) — Jesus' first words in Mark — the summary
-        of His entire message.
-
-v.17 — "Follow me, and I will make you become fishers of men." (ESV) —
-        The call of Christ: follow, and He will transform you.
-
-v.35 — "And rising very early in the morning, while it was still dark, he
-        departed and went out to a desolate place, and there he prayed." (ESV) —
-        Jesus' priority: prayer before activity.
-
-v.41 — "I will; be clean." (ESV) — Two words of divine authority that
-        instantly healed leprosy.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — Romans 1:1-4 — "The gospel of God... concerning his Son."
@@ -92,85 +73,6 @@ Charles Spurgeon:
   the crowds gathered, before the needs pressed in — He prayed. If the
   Son of God needed solitary prayer before a day of ministry, how much
   more do you?"
-
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — KJV: "the Son of God" / ESV: "the Son of God" — Both identical. Some
-       manuscripts omit "the Son of God" (ESV footnote). Most scholars include
-       it as original — it states Mark's thesis that the rest of the Gospel
-       will prove.
-       WEB: "The beginning of the Good News of Jesus Christ" —
-       renders Greek "euangelion" as "Good News" rather than "gospel"
-       (KJV/ESV/ASV), emphasizing the original meaning of the word
-       as a joyful announcement.
-
-v.10 — KJV: "the heavens opened" / ESV: "the heavens being torn open" — Greek
-       "schizomenous" — torn/ripped open. The ESV captures the violence of the
-       Greek more accurately. Mark uses a violent word — the heavens were torn
-       apart. The same word is used for the Temple veil being torn at the
-       crucifixion (15:38). At the beginning and end of Mark, barriers between
-       God and man are torn open.
-       NET: "he saw the heavens splitting apart" — stronger than
-       KJV "opened" or ESV "being torn open." Greek "schizo" = to
-       rip violently (same word used for the temple veil in 15:38).
-       ASV: "rent asunder." The violence of the imagery matters.
-
-v.11 — NET: "You are my one dear Son; in you I take great delight"
-       — paraphrases "beloved Son, in whom I am well pleased" with
-       interpretive clarity, though loses the echoes of Psalm 2:7
-       and Isaiah 42:1 present in the more literal versions.
-
-v.12 — KJV: "the Spirit driveth him" / ESV: "The Spirit immediately drove him
-       out" — Greek "ekballei" — to cast out, to drive forcefully. Both
-       translations capture the force. The same word used for casting out
-       demons. The Spirit didn't gently lead Jesus into the wilderness — He
-       drove Him there.
-
-v.14 — WEB: "preaching the Good News of God's Kingdom" — adds
-       "Kingdom" (not in Greek manuscripts). NET: "proclaimed the
-       gospel of God." ASV: "preaching the gospel of God." The WEB
-       addition is interpretive, linking to v.15's content.
-
-v.15 — KJV: "repent ye, and believe the gospel" / ESV: "repent and believe in
-       the gospel" — Both equivalent. Two commands that summarize the entire
-       Christian response: turn from sin (repent) and trust Christ (believe).
-       Both are necessary; neither alone is sufficient.
-
-v.41 — KJV: "moved with compassion" / ESV: "Moved with pity" — Greek
-       "splanchnistheis." Some manuscripts read "moved with anger" (Greek:
-       orgistheis). The ESV uses "pity" where KJV uses "compassion" — both
-       translate the same Greek word. If "anger," Jesus was angry at the
-       disease/Satan, not the leper. Both readings show Jesus' emotional
-       engagement.
-       NET: "Moved with indignation" — a significant textual
-       variant. Most manuscripts read "moved with compassion"
-       (KJV/ESV/ASV/WEB: splanchnistheis), but some early
-       manuscripts read "orgistheis" (angered). NET follows the
-       harder reading — Jesus angry at the disease, not the man.
-
-GLOSSARY
-------------------------------------
-Gospel        — Greek "euangelion" — good news. Originally a term for
-               announcements of military victory or a new emperor's reign.
-               Mark uses it for the announcement of God's kingdom in Christ.
-
-Immediately   — Greek "euthus" — at once, straightaway. Mark's signature word,
-               used 40+ times. Creates urgency and forward momentum.
-
-Baptism       — Immersion in water as a public declaration. John's baptism was
-               for repentance; Jesus' baptism identified Him with sinful
-               humanity and inaugurated His public ministry.
-
-Unclean spirit — A demon — a fallen spiritual being that inhabits and torments
-               humans. Jesus demonstrated absolute authority over them.
-
-Messianic secret — Jesus' repeated commands to demons and healed people not to
-               reveal His identity. He controlled the timing and manner of
-               His self-revelation.
-
-Leper         — A person with a skin disease that made them ritually unclean
-               and socially isolated. Jesus touched the leper — breaking the
-               purity barrier to bring healing.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -221,14 +123,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Mark Overview:
   https://bibleproject.com/explore/video/mark/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

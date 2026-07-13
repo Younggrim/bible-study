@@ -38,27 +38,6 @@ MAP & GEOGRAPHY NOTES
 - Jerusalem: The appointment of the seven deacons occurred in Jerusalem as the church grew. The Hellenistic (Greek-speaking) Jews and Hebraic (Aramaic-speaking) Jews were both part of the Jerusalem church.
 - The Synagogue of the Freedmen (v.9): A synagogue in Jerusalem attended by Jews from Cyrene, Alexandria, Cilicia, and Asia — showing the diversity of Jerusalem's Jewish population.
 
-KEY VERSES
-------------------------------------
-v.2  — "It is not right that we should give up preaching the word of God to
-        serve tables." (ESV) — The apostles' priority: Word and prayer over
-        administration.
-
-v.3  — "Pick out from among you seven men of good repute, full of the Spirit
-        and of wisdom." (ESV) — The qualifications for service: character,
-        Spirit-filling, and wisdom.
-
-v.4  — "But we will devote ourselves to prayer and to the ministry of the
-        word." (ESV) — The apostles' two priorities: prayer and preaching.
-
-v.7  — "And the word of God continued to increase, and the number of the
-        disciples multiplied greatly in Jerusalem." (ESV) — The result of
-        proper leadership structure: growth.
-
-v.10 — "But they could not withstand the wisdom and the Spirit with which he
-        was speaking." (ESV) — Stephen's Spirit-empowered wisdom was
-        irresistible.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — James 1:27 — "Religion that God accepts... is to look after orphans
@@ -96,84 +75,6 @@ Charles Spurgeon:
   the word. These two — prayer and the Word — are the engine of the church.
   Everything else is important but secondary. When leaders prioritize these
   two things, the word of God increases and disciples multiply (v.7)."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — KJV: "Grecians" / ESV: "Hellenists" — Greek-speaking Jewish believers,
-       likely from the Diaspora. ESV uses the more precise term "Hellenists."
-       "Hebrews" = Aramaic/Hebrew-speaking Jewish believers from Palestine.
-       The divide was cultural and linguistic, not doctrinal.
-
-v.2  — KJV: "leave the word of God, and serve tables" / ESV: "give up
-       preaching the word of God to serve tables" — ESV makes explicit what
-       KJV implies: "leave" means abandoning their preaching ministry. Not
-       demeaning the work but distinguishing roles. Both roles require the
-       Spirit.
-
-v.3  — KJV: "of honest report, full of the Holy Ghost and wisdom" / ESV:
-       "of good repute, full of the Spirit and of wisdom" — Both equivalent.
-       The number seven may echo the Jewish practice of appointing seven
-       leaders for community administration. These men are traditionally
-       called "deacons" though the word isn't used here.
-       NET: "select from among you seven men of good reputation,
-       full of the Spirit and of wisdom" — three qualifications for
-       deacons: reputation, Spirit-fullness, wisdom. WEB: "seven
-       men of good report, full of the Holy Spirit and of wisdom."
-       KJV: "seven men of honest report, full of the Holy Ghost
-       and wisdom."
-
-v.5  — NET: "They chose Stephen, a man full of faith and of the
-       Holy Spirit" — Stephen stands out even among the Spirit-
-       filled seven. WEB: "full of faith and of the Holy Spirit."
-       He is both the first deacon highlighted and the first
-       martyr.
-
-v.7  — NET: "The word of God continued to spread, the number of
-       disciples in Jerusalem increased greatly" — Luke's growth
-       summaries mark transitions (also 9:31, 12:24, 16:5, 19:20).
-       WEB: "The word of God increased." KJV: "the word of God
-       increased." The word itself grows — active and alive.
-
-v.10 — NET: "they were not able to resist the wisdom and the
-       Spirit with which he spoke" — "resist" (antistEnai =
-       withstand/stand against). WEB: "they weren't able to
-       withstand the wisdom and the Spirit by which he spoke." When
-       the Spirit speaks through a person, human arguments fail.
-
-v.15 — KJV: "his face as it had been the face of an angel" / ESV: "his face
-       was like the face of an angel" — Both identical in meaning. Stephen's
-       face reflected divine glory — like Moses after meeting with God
-       (Exodus 34:29). The Sanhedrin was looking at a man filled with God's
-       presence.
-       NET: "everyone who was sitting in the council looked
-       intently at him and saw his face was like the face of an
-       angel" — "face of an angel" — radiant, like Moses after
-       Sinai (Exodus 34:29-30). WEB: "his face was like the face
-       of an angel." KJV: "as it had been the face of an angel."
-       Glory shining through flesh.
-
-GLOSSARY
-------------------------------------
-Grecians/Hellenists — Greek-speaking Jewish believers, often from the Diaspora
-               (Jews living outside Palestine). They spoke Greek as their
-               primary language and followed Greek cultural customs.
-
-Hebrews       — Aramaic/Hebrew-speaking Jewish believers from Palestine.
-               They maintained traditional Jewish language and customs.
-
-Daily ministration — The daily distribution of food to widows and the poor
-               in the church community. An early form of organized charity.
-
-Deacons       — From Greek "diakonos" (servant). Though the word isn't used
-               in this passage, these seven men are traditionally considered
-               the first deacons — servants appointed for practical ministry.
-
-Libertines    — Freed slaves or descendants of freed slaves — Jews who had
-               been enslaved by Rome and later released. They had their own
-               synagogue in Jerusalem.
-
-Face of an angel — A visible manifestation of God's glory on Stephen's face
-               — supernatural radiance that the Sanhedrin could see.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -228,14 +129,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Acts Overview:
   https://bibleproject.com/explore/video/acts/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

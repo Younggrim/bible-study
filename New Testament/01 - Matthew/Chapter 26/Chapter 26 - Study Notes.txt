@@ -40,27 +40,6 @@ MAP & GEOGRAPHY NOTES
 - Gethsemane (v.36): A garden/olive grove at the foot of the Mount of Olives, across the Kidron Valley from the Temple. Jesus prayed here and was arrested.
 - The High Priest's house (v.57): Caiaphas's palace in Jerusalem where Jesus was tried by the Sanhedrin.
 
-KEY VERSES
-------------------------------------
-v.28 — "For this is my blood of the covenant, which is poured out for many
-        for the forgiveness of sins." (ESV) — The institution of the new
-        covenant in Christ's blood.
-
-v.39 — "My Father, if it be possible, let this cup pass from me; nevertheless,
-        not as I will, but as you will." (ESV) — The model prayer of
-        submission — honest desire yielded to the Father's will.
-
-v.41 — "Watch and pray that you may not enter into temptation. The spirit
-        indeed is willing, but the flesh is weak." (ESV) — The prescription
-        for spiritual vigilance.
-
-v.52 — "For all who take the sword will perish by the sword." (ESV) — The
-        kingdom is not advanced by violence.
-
-v.64 — "From now on you will see the Son of Man seated at the right hand of
-        Power and coming on the clouds of heaven." (ESV) — Jesus' claim before
-        the Sanhedrin — the statement that sealed His death sentence.
-
 CROSS-REFERENCES
 ------------------------------------
 v.7   — John 12:1-8 — John's account of the anointing (identifying the woman
@@ -97,82 +76,6 @@ Charles Spurgeon:
   failed. Both betrayed. But Peter wept — and weeping led to repentance,
   and repentance led to restoration. Judas felt remorse — and remorse
   without repentance led to destruction."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.15 — NET: "What are you willing to give me to betray him to
-       you?" — "willing to give" (thelete moi dounai). WEB: "What
-       are you willing to give me?" KJV: "What will ye give me?"
-       Judas initiates. "They set out for him thirty pieces of
-       silver" — the price of a slave (Exodus 21:32).
-
-v.26 — KJV: "This is my body" / ESV: "This is my body" — Both identical. The
-       meaning of "is" (Greek: estin) is debated: (1) Catholic/Orthodox:
-       literal — transubstantiation; (2) Lutheran: "in, with, and under" —
-       consubstantiation; (3) Reformed: "represents" or "signifies" —
-       memorial. Jesus was physically present when He said it, making a
-       purely literal reading difficult.
-       NET: "Take, eat, this is my body" — "this is" (touto estin)
-       — the words of institution. WEB: "Take, eat; this is my
-       body." Debated across church history: literal? spiritual?
-       memorial? The simplicity of the words conceals centuries of
-       theological debate.
-
-v.28 — KJV: "new testament" — ESV: "covenant" — Greek "diathēkē" — a covenant,
-       not a "testament" in the modern sense. The new covenant replaces the
-       old Mosaic covenant (Jeremiah 31:31-34).
-       NET: "this is my blood of the covenant, that is poured out
-       for many for the forgiveness of sins" — "blood of the
-       covenant" (to haima mou tEs diathEkEs). WEB: "my blood of
-       the new covenant." KJV: "my blood of the new testament."
-       Some manuscripts omit "new" — NET/ESV omit; KJV includes.
-
-v.39 — KJV: "this cup" / ESV: "this cup" — Both identical. The cup of God's
-       wrath against sin (Isaiah 51:17, Psalm 75:8). Jesus was not merely
-       afraid of physical death but of bearing the full weight of divine
-       judgment against all human sin.
-       NET: "My Father, if possible, let this cup pass from me!
-       Yet not what I will, but what you will" — "if possible"
-       (ei dynaton estin). WEB: "if it is possible." KJV: "if it
-       be possible." Honest prayer + total submission — the model
-       for all prayer in suffering.
-
-v.64 — KJV: "Thou hast said" / ESV: "You have said so" — Both identical in
-       meaning. A Jewish idiom for "yes, you are correct." Jesus affirms He
-       is the Christ, then adds the Daniel 7:13 claim — making His deity
-       explicit. This is what the high priest calls "blasphemy."
-       NET: "You have said it yourself. But I tell you, from now
-       on you will see the Son of Man sitting at the right hand of
-       the Power" — "You have said it" (sy eipas = affirmative
-       answer in rabbinic idiom). WEB: "You have said so." KJV:
-       "Thou hast said." Jesus affirms He is the Christ (v.63)
-       then escalates: He will sit at God's right hand (Psalm 110)
-       and come on clouds (Daniel 7:13).
-
-GLOSSARY
-------------------------------------
-Passover      — The annual Jewish feast commemorating the Exodus from Egypt
-               (Exodus 12). The lamb was slain and its blood applied to the
-               doorposts. Jesus is the ultimate Passover Lamb.
-
-New covenant  — The covenant promised in Jeremiah 31:31-34, established by
-               Christ's blood. It replaces the Mosaic covenant with one based
-               on grace, forgiveness, and the indwelling Spirit.
-
-Gethsemane    — "Oil press" — a garden on the Mount of Olives where Jesus
-               prayed before His arrest. The place where He was "pressed"
-               under the weight of coming judgment.
-
-Thirty pieces of silver — The price of a slave (Exodus 21:32). The amount
-               Judas received for betraying Jesus — fulfilling Zechariah 11:12.
-
-Sanhedrin     — The Jewish supreme court of 71 members. They tried Jesus at
-               night (illegal), with predetermined verdict (illegal), and
-               without proper witnesses (illegal).
-
-Cup           — A metaphor for God's wrath poured out against sin. Jesus
-               drank this cup at the cross so that believers would never
-               have to.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -225,14 +128,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Matthew Overview:
   https://bibleproject.com/explore/video/matthew/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

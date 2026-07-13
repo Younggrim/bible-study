@@ -26,24 +26,6 @@ Crete: A large Mediterranean island with a reputation for dishonesty and
 laziness (v.12). The churches there were young and disorganized — "things
 that are wanting" needed to be "set in order" (v.5).
 
-KEY VERSES
-------------------------------------
-v.2 — "In hope of eternal life, which God, who never lies, promised before
- the ages began." (ESV) — God's truthfulness and eternal promise.
-
-v.5 — "Put what remained into order, and appoint elders in every town." (ESV)
- — Titus's mission: organize and appoint leaders.
-
-v.9 — "He must hold firm to the trustworthy word as taught, so that he may
- be able to give instruction in sound doctrine and also to rebuke those
- who contradict it." (ESV) — Elders must hold truth and refute error.
-
-v.15 — "To the pure, all things are pure, but to the defiled and
- unbelieving, nothing is pure." (ESV) — Purity is internal, not external.
-
-v.16 — "They profess to know God, but they deny him by their works." (ESV) —
- Profession without practice.
-
 CROSS-REFERENCES
 ------------------------------------
 v.2 — Numbers 23:19 — "God is not man, that he should lie." (ESV)
@@ -77,80 +59,6 @@ Charles Spurgeon:
  even worship, even good gifts of God. Purity is not about avoiding things
  but about the condition of the heart."
 
-TRANSLATION COMPARISON
-------------------------------------
-v.1 — KJV: "servant of God" / ESV: Both equivalent. — Greek "doulos theou" — slave of God. Paul
- uses "servant of God" only here (usually "servant of Christ").
-
-v.2  — NET: "in hope of eternal life, which God, who does not
-       lie, promised before time began" — "who does not lie" (ho
-       apseudEs theos = the non-lying God). WEB: "God, who can't
-       lie." KJV: "God, that cannot lie." God's truthfulness as
-       the foundation of hope — the promise precedes creation.
-
-v.5 — KJV: "set in order" / ESV: "order" — Greek "epidiorthōsē" — to set right, correct,
- straighten out. Things were disorganized and needed fixing. "Ordain
- elders" — Greek "katastēsēs presbuterous" — appoint/establish elders.
-       NET: "to set in order the remaining matters and to appoint
-       elders in every town" — "set in order" (epidiorthOsE =
-       straighten out/correct what remains). WEB: "set in order
-       the things that were lacking." KJV: "set in order the things
-       that are wanting." Titus is a church organizer/troubleshooter.
-
-v.6 — KJV: "blameless" / ESV: "above reproach" — Greek "anegklētos" — unaccused, without charge.
- No legitimate accusation can be brought. Same word as 1 Tim 3:10.
-
-v.7 — KJV: "bishop" / ESV: "overseer" — Greek "episkopos" — overseer. Same office as "elder"
- (v.5). Paul uses both terms for the same role, confirming they are
- synonymous.
-
-v.9  — NET: "holding to the faithful message as taught" — "faithful
-       message" (tou pistos logou = the trustworthy word). WEB:
-       "holding to the faithful word." KJV: "holding fast the
-       faithful word." Elders must both believe AND teach sound
-       doctrine — offensive and defensive roles.
-
-v.12 — KJV: "a prophet of their own" / ESV: Both equivalent. — Epimenides of Crete (6th century BC).
- Paul quotes a pagan poet to make his point. KJV: "slow bellies" / ESV: "lazy gluttons" — Greek
- "gasteres argai" — lazy gluttons.
-       NET: "'Cretans are always liars, evil beasts, lazy
-       gluttons'" — Paul quotes Epimenides (a Cretan poet/prophet).
-       WEB: "Cretans are always liars, evil beasts, and idle
-       gluttons." Using a pagan source to confirm cultural
-       observation — and Paul says "this testimony is true" (v.13).
-
-v.15 — KJV: "unto the pure all things are pure" / ESV: "pure, all things" — Not a license for sin but
- a statement about the heart's condition. For the pure-hearted, God's
- creation is received with thanksgiving. For the defiled, nothing is
- pure because their mind and conscience corrupt everything.
-       NET: "All is pure to those who are pure. But to those who
-       are corrupt and unbelieving, nothing is pure" — "nothing is
-       pure" (ouden katharon). WEB: "to those who are defiled and
-       unbelieving, nothing is pure." Internal corruption
-       contaminates everything it touches — the problem is the
-       person, not the thing.
-
-GLOSSARY
-------------------------------------
-Set in order — To correct, straighten, organize what is lacking. The
- churches needed structure and qualified leadership.
-
-Elder/Bishop — The same office described by two terms. Elder (presbuteros)
- emphasizes maturity; bishop (episkopos) emphasizes function.
-
-Blameless — Without legitimate accusation. Not sinless but above
- reproach — no valid charge can be sustained.
-
-Gainsayers — Those who speak against, contradict, oppose sound doctrine.
- Elders must be able to refute them.
-
-Unto the pure all things are pure — Internal purity determines how one
- perceives external things. The heart's condition matters more
- than external rules.
-
-Profess but deny — Claiming to know God while living in contradiction. Words
- without works. Profession without practice.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "God, that cannot lie" (v.2). God's promises are absolutely reliable. What
@@ -175,14 +83,3 @@ The Bible Project — Titus Overview:
   https://bibleproject.com/explore/video/titus/
   Animated overview of the book's literary structure, themes, and
   theological message. Excellent visual introduction. (Approx. 8 minutes)
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

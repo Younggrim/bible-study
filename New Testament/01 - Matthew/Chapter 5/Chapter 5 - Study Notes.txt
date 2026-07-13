@@ -37,29 +37,6 @@ MAP & GEOGRAPHY NOTES
 - Galilee: Jesus' primary ministry region in northern Israel. The sermon was given early in His Galilean ministry.
 - Jerusalem/Temple references (vv.23-24, 35): Jesus references the altar and Jerusalem as "the city of the great King," showing the audience's connection to the worship center in Judea.
 
-KEY VERSES
-------------------------------------
-v.3  — "Blessed are the poor in spirit, for theirs is the kingdom of heaven."
-        (ESV) — The first beatitude — the foundation of all the others.
-        Spiritual poverty (recognizing our need) is the entry point to the
-        kingdom.
-
-v.16 — "In the same way, let your light shine before others, so that they may
-        see your good works and give glory to your Father who is in heaven."
-        (ESV) — The purpose of visible Christian living: not self-promotion
-        but God's glory.
-
-v.20 — "For I tell you, unless your righteousness exceeds that of the scribes
-        and Pharisees, you will never enter the kingdom of heaven." (ESV)
-        — The standard is not external compliance but internal transformation.
-
-v.44 — "But I say to you, Love your enemies and pray for those who persecute
-        you." (ESV) — The most radical command in the Sermon.
-
-v.48 — "You therefore must be perfect, as your heavenly Father is perfect."
-        (ESV) — The ultimate standard — not perfectionism but wholeness,
-        completeness, maturity in love.
-
 CROSS-REFERENCES
 ------------------------------------
 v.3   — Isaiah 57:15 — God dwells with the humble and contrite.
@@ -93,88 +70,6 @@ Charles Spurgeon:
   "Love your enemies. Not tolerate them. Not avoid them. Love them. Bless
   them. Pray for them. This is not natural — it is supernatural. It is
   the mark of a man who has been transformed by the love of God."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.3  — KJV: "poor in spirit" / ESV: "poor in spirit" — Both identical. Greek
-       "ptōchos tō pneumati" — utterly destitute in spirit, spiritually
-       bankrupt. Not materially poor but those who recognize their complete
-       spiritual poverty before God.
-       NET: "Blessed are the poor in spirit, for the kingdom
-       of heaven belongs to them" — "poor in spirit" (hoi ptOchoi
-       tO pneumati = the spiritually destitute). WEB: "Blessed are
-       the poor in spirit." KJV: "Blessed are the poor in spirit."
-       Not financially poor (Luke's version) but spiritually
-       bankrupt — aware of their need for God.
-
-v.5  — KJV: "the meek" / ESV: "the meek" — Both identical. Greek "praus" —
-       not weakness but controlled strength. The same word used for a trained
-       warhorse — power under control. Moses was called the meekest man on
-       earth (Numbers 12:3) — yet he confronted Pharaoh.
-
-v.17 — NET: "Do not think that I have come to abolish the law or
-       the prophets. I have not come to abolish these things but
-       to fulfill them" — "fulfill" (plErOsai = fill up/complete/
-       bring to full meaning). WEB: "not to destroy, but to
-       fulfill." Jesus completes what the Law pointed toward.
-
-v.22 — KJV: "Raca" / ESV: "insults his brother" — The KJV retains the Aramaic
-       "Raca," a term of contempt meaning "empty-headed" or "worthless." The
-       ESV translates the concept rather than transliterating. A term of utter
-       dismissal and dehumanization.
-       NET: "everyone who is angry with a brother will be
-       subjected to judgment" — some manuscripts add "without
-       cause" (eikE). KJV includes "without cause"; NET/ESV omit
-       it following earlier manuscripts. WEB: "everyone who is
-       angry with his brother without a cause." A significant
-       textual variant affecting the teaching.
-
-v.28 — KJV: "looketh on a woman to lust after her" / ESV: "looks at a woman
-       with lustful intent" — Both equivalent in meaning. The Greek "pros to
-       epithumēsai" — looking with the purpose of lusting, the deliberate
-       cultivation of lust. Not an involuntary glance but an intentional gaze.
-
-v.44 — NET: "But I say to you, love your enemies and pray for
-       those who persecute you" — "love" (agapate = active,
-       willed love). WEB: "Love your enemies." KJV: "Love your
-       enemies." Some manuscripts add "bless those who curse you,
-       do good to those who hate you" (KJV includes; NET omits).
-
-v.48 — KJV: "perfect" / ESV: "perfect" — Both identical. Greek "teleios" —
-       complete, mature, whole. Not sinless perfection but wholeness of
-       character, especially in love. The context (vv.43-47) is about loving
-       completely — as God loves.
-       NET: "So then, be perfect, as your heavenly Father is
-       perfect" — "perfect" (teleioi = complete/mature/whole). WEB:
-       "Therefore you shall be perfect." KJV: "Be ye therefore
-       perfect." Not sinless perfection but wholeness of character
-       — complete in love (the context: love for enemies).
-
-GLOSSARY
-------------------------------------
-Beatitudes    — From Latin "beatus" — blessed, happy. The eight declarations
-               of blessing that open the Sermon on the Mount, describing the
-               character of kingdom citizens.
-
-Blessed       — Greek "makarios" — deeply happy, fortunate, to be envied.
-               Not a surface happiness but a deep well-being rooted in
-               relationship with God.
-
-Meek          — Controlled strength, power under authority. Not weakness or
-               passivity but strength submitted to God's will.
-
-Raca          — Aramaic term of contempt — "empty-headed," "worthless." Used
-               to dismiss and dehumanize another person.
-
-Jot           — The smallest letter in the Hebrew alphabet (yod) — like an
-               apostrophe. Jesus says even this will not pass from the Law.
-
-Tittle        — A small decorative stroke on a Hebrew letter that distinguishes
-               one letter from another. Even the smallest detail of Scripture
-               is permanent.
-
-Mammon        — Aramaic word for wealth, money, material possessions. Used
-               as a personification of wealth as a rival god.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -235,20 +130,8 @@ The Bible Project — Matthew Overview:
   https://bibleproject.com/explore/video/matthew/
 
 
-
 The Chosen — The Sermon on the Mount (Matthew 5-7):
   https://youtu.be/uDJTRC6LIOk?si=lDSf8oIBzJo7p7t6
 
 The Chosen — Matthew 5, The Beatitudes:
   https://youtu.be/vnpcrpfvKR8?si=bUQCnkm8MYcEXsUV
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

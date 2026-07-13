@@ -38,27 +38,6 @@ MAP & GEOGRAPHY NOTES
 - Decapolis (v.31): Jesus returned through the region of the Decapolis (ten Greek cities east of the Jordan and Sea of Galilee). The deaf man was healed here.
 - The geographic movement shows Jesus ministering among Gentiles — previewing the universal reach of the Gospel.
 
-KEY VERSES
-------------------------------------
-v.6-7 — "This people honors me with their lips, but their heart is far from
-        me; in vain do they worship me, teaching as doctrines the commandments
-        of men." (ESV) — The danger of external religion.
-
-v.15 — "There is nothing outside a person that by going into him can defile
-        him, but the things that come out of a person are what defile him." (ESV)
-        — Defilement is internal, not external.
-
-v.21-22 — "For from within, out of the heart of man, come evil thoughts,
-        sexual immorality, theft, murder, adultery, coveting, wickedness,
-        deceit, sensuality, envy, slander, pride, foolishness." (ESV)
-        — The comprehensive list of heart-sins.
-
-v.28 — "Yes, Lord; yet even the dogs under the table eat the children's
-        crumbs." (ESV) — Faith that won't be denied — turning apparent rejection
-        into an argument for inclusion.
-
-v.37 — "He has done all things well." (ESV) — The crowd's verdict on Jesus.
-
 CROSS-REFERENCES
 ------------------------------------
 v.6   — Isaiah 29:13 — The prophecy Jesus quotes.
@@ -94,80 +73,6 @@ Charles Spurgeon:
   exclude her and turned it into her argument. That is faith at its finest
   — faith that will not be denied, faith that finds a way even when the
   door seems closed."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.2  — NET: "they saw that some of Jesus' disciples ate their
-       bread with unclean hands, that is, unwashed" — adds the
-       explanatory gloss "that is, unwashed" which Mark includes
-       for his Gentile audience. All versions retain this.
-
-v.3  — KJV: "except they wash their hands oft" / ESV: "unless they wash their
-       hands properly" — The ESV uses "properly" where KJV uses "oft" (Greek
-       "pugmē" — literally "with the fist," meaning thoroughly). Mark explains
-       Jewish customs for his Gentile readers. This was not hygiene but ritual
-       purity — a tradition of the elders, not a command of Scripture.
-
-v.11 — KJV: "Corban, that is to say, a gift" / ESV: "Whatever you would have
-       gained from me is Corban (that is, given to God)" — Both equivalent.
-       Mark translates the Aramaic for his readers. A legal loophole allowing
-       people to declare resources "dedicated to God" while still using them —
-       avoiding the obligation to support aging parents.
-       NET: "'Corban' (that is, a gift for God)" — preserves the
-       Aramaic term with explanation. WEB: "Corban, which means
-       given to God." The vow of Corban allowed people to dedicate
-       money to the temple while still using it — effectively
-       avoiding the obligation to support aging parents.
-
-v.19 — KJV: "purging all meats" / ESV: "Thus he declared all foods clean" —
-       The ESV makes the editorial comment explicit. Mark's parenthetical note
-       (not Jesus' words) explains the implication: Jesus abolished the Old
-       Testament food laws. A revolutionary statement for Jewish readers.
-       NET: "For it does not enter his heart but his stomach, and
-       then goes out into the sewer. (Thus he declared all foods
-       clean.)" — the parenthetical editorial comment is present
-       in ESV/NET but NOT in KJV/ASV. This is Mark's (or an early
-       editor's) theological interpretation of Jesus' words.
-
-v.27 — KJV: "dogs" / ESV: "dogs" — Both identical. Greek "kunaria" —
-       diminutive: "little dogs" or "puppies" — household pets, not wild
-       scavengers. Jesus uses the softer term, and the woman picks up on it —
-       pets under the table get crumbs.
-       NET: "Let the children be satisfied first, for it is not
-       right to take the children's bread and to throw it to the
-       dogs" — "dogs" (Greek kunaria = little dogs/puppies). All
-       translations use "dogs" but the Greek diminutive softens it.
-
-v.34 — KJV: "Ephphatha, that is, Be opened" / ESV: "Ephphatha," that is, "Be
-       opened" — Both identical. Aramaic for "Be opened." Mark preserves
-       Jesus' actual word — an eyewitness detail. Jesus sighed (v.34) —
-       showing emotional engagement with the man's suffering.
-       NET: "'Ephphatha' (that is, 'Be opened')" — Aramaic
-       preserved with translation. WEB same. Another instance of
-       Peter's eyewitness memory captured in Mark's Gospel.
-
-GLOSSARY
-------------------------------------
-Corban        — Aramaic/Hebrew for "an offering" or "devoted to God." A vow
-               that could be used to avoid financial obligations to family
-               while keeping resources for personal use.
-
-Tradition of the elders — The oral law developed by rabbis to interpret the
-               Torah. Later codified as the Mishnah. Jesus distinguished
-               between God's commands and human additions.
-
-Defilement    — Ritual uncleanness that separated a person from worship and
-               community. Jesus redefines it as a heart condition, not a
-               dietary or ritual one.
-
-Syrophoenician — A woman from the region of Phoenicia in Syria (modern Lebanon).
-               A Gentile — outside the covenant community of Israel.
-
-Ephphatha     — Aramaic for "Be opened." Jesus' command to the deaf man's ears.
-               Mark preserves the original Aramaic — a vivid eyewitness detail.
-
-Decapolis     — "Ten cities" — a league of Greco-Roman cities east of the
-               Jordan. Largely Gentile territory where Jesus ministered.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -216,14 +121,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Mark Overview:
   https://bibleproject.com/explore/video/mark/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

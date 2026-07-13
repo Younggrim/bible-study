@@ -81,33 +81,6 @@ MAP & GEOGRAPHY NOTES
 - The kingdom divides after Solomon: Israel (north, capital eventually at Samaria) and Judah (south, capital Jerusalem).
 - Key locations: Gibeon (Solomon's dream, ch.3), Tyre (Hiram's city in Phoenicia, chs.5-7), Mount Carmel (Elijah vs. Baal prophets, ch.18), Zarephath (Sidonian widow, ch.17), Mount Horeb/Sinai (Elijah flees, ch.19), Ramoth-gilead (Ahab's death, ch.22).
 
-KEY VERSES
-------------------------------------
-v.7  — "If you will be a servant to this people this day, and
-        will serve them, and answer them, and speak good words to
-        them, then they will be your servants for ever." (ESV) — The
-        principle of servant-leadership. Authority is earned through
-        service, not demanded through force. Rehoboam rejects this
-        wisdom and loses his kingdom.
-
-v.10 — "My little finger shall be thicker than my father's loins."
-        (ESV) — Rehoboam's arrogant boast. He promises to be
-        harsher than Solomon — the very thing the people begged
-        relief from. Pride and inexperience produce catastrophic
-        leadership.
-
-v.15 — "The cause was from the LORD, that he might perform his
-        saying, which the LORD spake by Ahijah." (ESV) — Divine
-        sovereignty behind human events. Rehoboam's folly is real
-        and culpable — but God uses it to accomplish His declared
-        purpose. Human freedom and divine sovereignty coexist.
-
-v.28 — "Behold your gods, O Israel, which brought you up out of the
-        land of Egypt." (ESV) — Jeroboam's golden calves. The exact
-        words Aaron used at Sinai (Exodus 32:4). History repeats
-        because human hearts repeat. The sin of the golden calf is
-        never truly left behind.
-
 CROSS-REFERENCES
 ------------------------------------
 v.4   — 1 Kings 4:6; 5:13-14 — The forced labor system that built
@@ -149,45 +122,6 @@ Charles Spurgeon:
   cannot fill. The son of a great man is not necessarily great
   himself. Character is not inherited — it must be cultivated. And
   when a fool sits on a wise man's throne, the kingdom suffers."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.10 — KJV: "My little finger shall be thicker than my father's
-       loins" / ESV: "My little finger is thicker than my father's
-       thighs" — Hebrew "qotni" = my little one (euphemistic). The
-       boast is crude: even my smallest part is bigger than my
-       father's strongest part. Both translations soften the Hebrew
-       slightly. The point: I am more powerful than Solomon.
-
-v.11 — KJV: "scorpions" / ESV: "scorpions" — Hebrew "aqrabbim."
-       Not literal scorpions but a type of whip with barbed tips
-       or metal points that tore flesh — named "scorpions" for
-       their sting. The threat is of increased brutality.
-
-v.15 — KJV: "the cause was from the LORD" / ESV: "it was a turn of
-       affairs brought about by the LORD" — Hebrew "sibbah me'im
-       YHWH" = a turning/circumstance from Yahweh. The word "sibbah"
-       means a turn of events, a providential circumstance. ESV's
-       "turn of affairs" captures the sense of God orchestrating
-       events through human choices.
-
-v.28 — KJV: "calves of gold" / ESV: "calves of gold" — Hebrew
-       "egley zahav." These were likely young bulls — symbols of
-       strength and fertility throughout the ancient Near East. They
-       may have been intended as pedestals for the invisible Yahweh
-       (like the cherubim over the ark), but they inevitably became
-       objects of worship themselves.
-
-v.10 — ASV: "is" for KJV's "shall be"
-       NET: "burden.’ Say this to them: ‘I am a lot harsher" for KJV's "yoke heavy, but make thou it lighter unto us; thus shalt ..."
-       WEB: adds "“Tell these people who spoke to you,"
-v.11 — NET: "imposed heavy demands on you; I will make them even heavi..." for KJV's "did lade"
-       WEB: "burdened" for KJV's "did lade"
-v.15 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "prophetic announcement he had made through" for KJV's "LORD spake by"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.28 — NET: "had consulted with his advisers, he" for KJV's "took counsel, and"
-       WEB: "So the king took counsel, and made two calves of gold; and he said to them, “It ..."
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -231,14 +165,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — 1 Kings Overview:
   https://bibleproject.com/explore/video/1-2-kings/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

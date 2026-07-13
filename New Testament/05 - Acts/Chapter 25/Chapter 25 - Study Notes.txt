@@ -35,23 +35,6 @@ MAP & GEOGRAPHY NOTES
 - Caesarea (v.1): Festus arrived as the new governor in Caesarea. The Jewish leaders came from Jerusalem to bring charges against Paul.
 - Rome (v.11): Paul appealed to Caesar — the supreme court of the Roman Empire. This appeal would send him to Rome, fulfilling God's promise (Acts 23:11).
 
-KEY VERSES
-------------------------------------
-v.8  — "Neither against the law of the Jews, nor against the temple, nor
-        against Caesar have I committed any offense." (ESV) — Paul's
-        threefold innocence.
-
-v.11 — "I appeal to Caesar." (ESV) — The legal move that sends Paul to Rome
-        — fulfilling God's promise.
-
-v.19 — "Some points of dispute with him about their own religion and about a
-        certain Jesus, who was dead, but whom Paul asserted to be alive."
-        (ESV) — Festus' summary: the whole case is about whether Jesus is
-        alive.
-
-v.25 — "I found that he had done nothing deserving death." (ESV) — Another
-        declaration of Paul's innocence.
-
 CROSS-REFERENCES
 ------------------------------------
 v.3   — Acts 23:15 — The earlier ambush plot.
@@ -78,61 +61,6 @@ Charles Spurgeon:
   his rights to get to Rome. Sometimes faith means using every legitimate
   means available to fulfill God's calling."
 
-TRANSLATION COMPARISON
-------------------------------------
-v.8  — NET: "I have committed no offense against the Jewish
-       law or against the temple or against Caesar" — three charges
-       denied in order. WEB: "Neither against the law of the Jews,
-       nor against the temple, nor against Caesar, have I sinned
-       at all." Paul covers all jurisdictions.
-
-v.10 — NET: "I am standing before Caesar's judgment seat, where
-       I should be tried" — "Caesar's judgment seat" (epi tou
-       bEmatos Kaisaros). WEB: "I am standing before Caesar's
-       judgment seat." KJV: "I stand at Caesar's judgment seat."
-       Paul claims proper Roman jurisdiction.
-
-v.11 — KJV: "I appeal unto Caesar" / ESV: "I appeal to Caesar" — Both
-       equivalent. Latin: "Caesarem appello." An irrevocable legal action.
-       Once spoken, the case must go to Rome.
-       NET: "I appeal to Caesar!" — "I appeal" (epikaloumai =
-       I call upon). WEB: "I appeal to Caesar!" KJV: "I appeal
-       unto Caesar." A Roman citizen's right — once invoked, the
-       case must go to Rome. God's promise (23:11) fulfilled
-       through legal process.
-
-v.19 — KJV: "their own superstition" / ESV: "their own religion" — Greek
-       "deisidaimonias" — can be neutral ("religion") or negative
-       ("superstition"). ESV takes the neutral sense; KJV the negative.
-       Festus likely meant it neutrally — he was describing the dispute to
-       Agrippa without taking sides.
-       NET: "they had some points of disagreement with him about
-       their own religion and about a man named Jesus who was dead,
-       whom Paul claimed to be alive" — Festus' summary to Agrippa
-       — reductive but accurate. WEB: "about one Jesus, who was
-       dead, whom Paul affirmed to be alive." The resurrection
-       distilled to one sentence.
-
-v.25 — NET: "But I found that he had done nothing that deserved
-       death" — Festus' verdict: innocent — yet still imprisoned.
-       WEB: "I found that he had committed nothing worthy of
-       death." KJV: "I found that he had committed nothing worthy
-       of death." Echoes Pilate's verdict on Jesus.
-
-GLOSSARY
-------------------------------------
-Festus        — Porcius Festus, Roman governor of Judea (AD 59-62). More
-               competent than Felix but still politically motivated.
-
-Appeal to Caesar — A Roman citizen's legal right to have their case heard
-               by the emperor. Irrevocable once invoked.
-
-Agrippa II    — The last Herod. Great-grandson of Herod the Great. An expert
-               in Jewish affairs. He heard Paul's defense in chapter 26.
-
-Bernice       — Agrippa's sister, living with him (rumored incestuous
-               relationship). Later became mistress of Emperor Titus.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Paul appealed to Caesar — using legal rights to advance God's purpose. God
@@ -156,14 +84,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Acts Overview:
   https://bibleproject.com/explore/video/acts/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

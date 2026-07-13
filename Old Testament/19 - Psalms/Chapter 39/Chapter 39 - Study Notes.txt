@@ -59,46 +59,6 @@ Structure:
 - Final Plea: A Sojourner's Prayer (vv. 12-13)
 
 
-KEY VERSES
-------------------------------------
-Verse 4-5 — "LORD, make me to know mine end, and the measure of
-my days, what it is; that I may know how frail I am. Behold, thou
-hast made my days as an handbreadth; and mine age is as nothing
-before thee: verily every man at his best state is altogether
-vanity." (KJV)
-David asks not "how long will I live?" but "help me grasp how
-short life truly is." A "handbreadth" (tephach) is about four
-inches — the width of four fingers. This is life measured against
-eternity: microscopic. "At his best state" (nitsav) — even in
-the prime of life, the apex of health and success — humanity is
-hevel (vapor, breath, vanity).
-
-Verse 6 — "Surely every man walketh in a vain shew: surely they
-are disquieted in vain: he heapeth up riches, and knoweth not who
-shall gather them." (KJV)
-Human activity is a "vain shew" (tselem — shadow, image,
-phantom). People bustle and worry (disquieted) for nothing. The
-accumulation of wealth is exposed as absurd — you gather what
-others will inherit, and you have no control over who receives it.
-This verse powerfully anticipates Ecclesiastes 2:18-21.
-
-Verse 7 — "And now, Lord, what wait I for? my hope is in thee."
-(KJV)
-The turning point. After exposing life's vanity, David does not
-fall into nihilism. Instead, he redirects hope from temporal
-things (which are all vapor) to the eternal God. If everything
-under the sun is vanity, then only what is above the sun can bear
-the weight of hope.
-
-Verse 12 — "Hear my prayer, O LORD, and give ear unto my cry;
-hold not thy peace at my tears: for I am a stranger with thee,
-and a sojourner, as all my fathers were." (KJV)
-David identifies himself as a "stranger" (ger) and "sojourner"
-(toshav) — terms for resident aliens without permanent land
-rights. Life itself is a pilgrimage; we are passing through.
-This theology of pilgrimage shapes the entire biblical vision of
-the Christian life (Hebrews 11:13, 1 Peter 2:11).
-
 CROSS-REFERENCES
 ------------------------------------
 v.1 — James 1:26; James 3:2-10: Guarding the tongue — James'
@@ -135,58 +95,6 @@ pilgrimage-like.
 
 COMMENTARY REFERENCES
 ------------------------------------
-
-TRANSLATION COMPARISON
-------------------------------------
-v.1 — "I will keep my mouth with a bridle" (KJV) / "I will guard
-my mouth with a muzzle" (ESV): Hebrew machsom — a muzzle or
-gag, used for animals. KJV's "bridle" (which controls) is softer
-than ESV's "muzzle" (which silences completely). The Hebrew
-suggests total suppression of speech — David tried to completely
-silence himself.
-
-v.5 — "every man at his best state is altogether vanity" (KJV) /
-"Surely all mankind stands as a mere breath" (ESV): Hebrew kol-
-hevel kol-adam nitsav — literally "all vanity, all of man
-standing." The word hevel (vanity, breath, vapor) is the signature
-word of Ecclesiastes. KJV's "at his best state" interprets
-nitsav (standing firmly) as referring to man at his peak. ESV
-reads it more generally.
-
-v.6 — "in a vain shew" (KJV) / "as a shadow" (ESV): Hebrew
-be-tselem — literally "in an image/shadow/phantom." KJV's "vain
-shew" captures the theatrical sense — life as performance,
-appearance without substance. ESV's "shadow" emphasizes
-insubstantiality and transience.
-
-v.11 — "thou makest his beauty to consume away like a moth" (KJV)
-/ "you consume like a moth what is dear to him" (ESV): A
-significant interpretive difference. KJV says God consumes the
-person's beauty/desirability (chamudo — his desire/attractiveness).
-ESV says God consumes what the person holds dear (his treasured
-possessions). Hebrew chamud can mean either "what is desirable
-about him" or "what he desires." Both readings describe divine
-discipline stripping away what people value.
-
-v.13 — "O spare me" (KJV) / "Look away from me" (ESV): Hebrew
-hasha — meaning "look away, turn your gaze aside." ESV is more
-literal. David asks God to relent from His intense scrutinizing
-gaze — not to abandon him, but to give him breathing room before
-death. This is similar to Job 7:19: "How long wilt thou not
-depart from me?"
-
-v.1 — NET: adds "For the music director, Jeduthun; a psalm of David."
-       WEB: "watch" for KJV's "take heed to"
-v.5 — ASV: "[as] handbreadths; And my life-time" for KJV's "as an handbreadth; and mine age"
-       NET: "from your perspective. Surely all people, even those who ..." for KJV's "before thee: verily every man at his best state is altoge..."
-       WEB: "hand widths. My lifetime" for KJV's "as an handbreadth; and mine age"
-v.6 — ASV: "show; Surely" for KJV's "shew: surely"
-       NET: "people go through life as mere ghosts. Surely" for KJV's "every man walketh in a vain shew: surely"
-       WEB: "vain. He heaps up," for KJV's "a vain shew: surely they are disquieted in vain: he heape..."
-v.11 — NET: "moth you slowly devour their strength. Surely all people ..." for KJV's "moth: surely every man is vanity. Selah."
-       WEB: "you rebuke and" for KJV's "thou with rebukes dost"
-v.13 — ASV: adds "Psalm 40 For the Chief Musician. A Psalm of David."
-       NET: "Turn your angry gaze away from" for KJV's "O spare"
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -227,15 +135,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Psalms Overview:
   https://bibleproject.com/explore/video/psalms/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles
-Spurgeon (Public Domain)

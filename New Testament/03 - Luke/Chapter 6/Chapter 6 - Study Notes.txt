@@ -37,26 +37,6 @@ MAP & GEOGRAPHY NOTES
 - A plain (v.17): Luke's "Sermon on the Plain" was delivered on a level place, likely near Capernaum in Galilee. Crowds came from Judea, Jerusalem, and the coast of Tyre and Sidon.
 - A mountain (v.12): Before choosing the twelve apostles, Jesus went to a mountain to pray all night — likely a hill near the Sea of Galilee.
 
-KEY VERSES
-------------------------------------
-v.5  — "The Son of Man is lord of the Sabbath." (ESV) — Jesus' claim to
-        authority over God's own institution.
-
-v.12 — "In these days he went out to the mountain to pray, and all night he
-        continued in prayer to God." (ESV) — The foundation of Jesus'
-        leadership decisions: extended, focused prayer.
-
-v.27-28 — "Love your enemies, do good to those who hate you, bless those
-        who curse you, pray for those who abuse you." (ESV) —
-        The radical ethic of the kingdom.
-
-v.38 — "Give, and it will be given to you. Good measure, pressed down,
-        shaken together, running over." (ESV) — The principle of generous
-        return.
-
-v.46 — "Why do you call me 'Lord, Lord,' and not do what I tell you?" (ESV)
-        — The test of genuine faith: obedience, not just words.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — 1 Samuel 21:1-6 — David eating the showbread.
@@ -90,81 +70,6 @@ Charles Spurgeon:
   "The difference between the two builders is not what they heard but what
   they did. Both heard the same words. One obeyed; one did not. The storm
   revealed the difference. Your storm is coming — what is your foundation?"
-
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — KJV: "the second sabbath after the first" / ESV: "On a Sabbath" —
-       This phrase is textually uncertain (absent from many manuscripts).
-       ESV/NET simply say "on a Sabbath." The exact timing is unclear but
-       the event is consistent across all accounts.
-
-v.20 — KJV: "Blessed be ye poor" / ESV: "Blessed are you who are poor" —
-       Both equivalent. Luke's version is more direct than Matthew's "poor
-       in spirit." Luke likely preserves Jesus' original words to a specific
-       audience of literally poor disciples, while Matthew expands the
-       principle for a broader audience.
-       NET: "Blessed are you who are poor, for the kingdom of
-       God belongs to you" — Luke's version is "you who ARE poor"
-       (direct address, second person) vs. Matthew's "the poor in
-       spirit." The social dimension is more prominent in Luke.
-       WEB: "Blessed are you who are poor."
-
-v.24 — NET: "But woe to you who are rich, for you have received
-       your comfort already" — Luke alone includes the WOES (absent
-       from Matthew's Sermon on the Mount). WEB: "But woe to you
-       who are rich! For you have received your consolation." Four
-       blessings matched by four woes.
-
-v.27 — NET: "Love your enemies, do good to those who hate you" —
-       the most radical ethical command in human history. All
-       translations agree. WEB: "Love your enemies, do good to
-       those who hate you." No qualification, no exception.
-
-v.35 — NET: "love your enemies, and do good, and lend, expecting
-       nothing back" — "expecting nothing back" (mēden
-       apelpizontes). KJV: "hoping for nothing again." WEB: "lend,
-       expecting nothing back." Generosity without calculation.
-
-v.36 — KJV: "Be ye therefore merciful" / ESV: "Be merciful, even as your
-       Father is merciful" — Both equivalent. Matthew 5:48: "Be ye therefore
-       perfect." Luke emphasizes mercy; Matthew emphasizes completeness. Both
-       are aspects of the same call — to reflect the Father's character.
-
-v.38 — KJV: "good measure, pressed down, and shaken together, and running
-       over" / ESV: "Good measure, pressed down, shaken together, running
-       over" — Both identical. Imagery from the grain market. When measuring
-       grain, a generous seller would press it down, shake it to settle, and
-       let it overflow. God's generosity exceeds our giving.
-       NET: "Give, and it will be given to you: A good measure,
-       pressed down, shaken together, running over, will be poured
-       into your lap" — "poured into your lap" refers to the fold
-       of a robe used as a pouch. WEB: "pressed down, shaken
-       together, and running over." Market imagery — God is
-       generous beyond measure.
-
-GLOSSARY
-------------------------------------
-Lord of the Sabbath — A title Jesus claims for Himself (v.5) — asserting
-               divine authority over the day God instituted at creation.
-
-Apostles      — Greek "apostoloi" — "sent ones." The twelve men Jesus chose
-               and commissioned with authority to represent Him.
-
-Woes          — Pronouncements of grief and warning — the opposite of
-               blessings. Luke's woes warn the rich, full, laughing, and
-               popular that their comfort is temporary.
-
-Golden Rule   — "As ye would that men should do to you, do ye also to them
-               likewise" (v.31). The summary of ethical behavior — treating
-               others as you want to be treated.
-
-Mote/Beam     — A speck of sawdust vs. a plank of wood. Jesus' hyperbole
-               for the absurdity of criticizing others' small faults while
-               ignoring your own massive ones.
-
-Foundation    — The base on which a house is built. In the parable, it
-               represents obedience to Christ's words — the only foundation
-               that survives the storm.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -213,14 +118,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Luke Overview:
   https://bibleproject.com/explore/video/luke/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

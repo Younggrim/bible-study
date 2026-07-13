@@ -80,25 +80,6 @@ MAP & GEOGRAPHY NOTES
 - Beeroth: Hometown of the assassins Rechab and Baanah — a Gibeonite city in Benjamin's territory
 - The pool at Hebron: Where David hangs the murderers' hands and feet as a public display of justice
 
-KEY VERSES
-------------------------------------
-v.9  — "As the LORD lives, who has redeemed my soul out of all
-        adversity" — David's oath formula reveals his theology. God
-        has delivered him from every danger — from Saul's spear, from
-        Philistine territory, from the wilderness, from Ziklag's
-        destruction. He does not need human assassins to accomplish
-        what God has promised. His confidence is in God's redemption,
-        not human scheming.
-
-v.11 — "How much more, when wicked men have slain a righteous person
-        in his own house upon his bed? shall I not therefore now
-        require his blood of your hand?" — David's logic is
-        devastating. If he executed the Amalekite who merely claimed
-        to kill Saul (a warrior on a battlefield), how much more must
-        he punish men who actually murdered a sleeping, defenseless
-        man in his own home? The escalation of wickedness demands
-        escalation of justice.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — 2 Samuel 3:27 — Abner's death — the event that triggers
@@ -134,81 +115,6 @@ Charles Spurgeon:
   his bed. Let all men learn that God needs no help from wickedness
   to accomplish His purposes. Those who do evil that good may come
   shall find that their evil returns upon their own heads."
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — KJV: "his hands were feeble" / ESV: "his courage failed" —
-       Hebrew "raphah yadav" = literally "his hands dropped/sank."
-       This is an idiom for losing courage or strength. KJV is more
-       literal (feeble hands); ESV interprets the idiom (failed
-       courage). Both are correct — the physical image conveys the
-       emotional reality.
-
-v.4  — KJV: "lame of his feet" / ESV: "crippled in his feet" —
-       Hebrew "nekeh raglayim" = struck/smitten in the feet. KJV
-       "lame" and ESV "crippled" both convey permanent disability.
-       The injury occurred when his nurse dropped him while fleeing —
-       likely broken bones that healed improperly.
-
-v.6  — KJV: "as though they would have fetched wheat" / ESV: "as if
-       to get wheat" — Both translations agree. The murderers used a
-       routine errand as their cover story to enter the house without
-       suspicion. Some Hebrew manuscripts and the Septuagint read
-       differently here, but the sense is the same: they entered
-       under false pretenses.
-
-v.7  — KJV: "gat them away through the plain all night" / ESV: "went
-       by the way of the Arabah all night" — KJV "plain" is generic;
-       ESV "Arabah" preserves the geographic term for the Jordan Rift
-       Valley. They traveled the low route along the Jordan to reach
-       Hebron — a long night's journey to present their "trophy."
-
-v.11 — KJV: "a righteous person" / ESV: "a righteous man" — Hebrew
-       "ish tsaddiq." David calls Ish-bosheth "righteous" — meaning
-       innocent of any capital crime, not morally perfect. He was
-       murdered without cause, in his own home, while sleeping. The
-       term emphasizes the injustice of the act.
-
-v.1 — ASV: "[Ish-bosheth], Saul`s son," for KJV's "Saul’s son"
-       NET: "he was very disheartened," for KJV's "his hands were feeble,"
-       WEB: "When" for KJV's "And when"
-v.4 — NET: "arrived from Jezreel. His nurse picked him up" for KJV's "out of Jezreel,"
-       WEB: "fled. As" for KJV's "fled: and it came to pass, as"
-v.6 — ASV: "body:" for KJV's "fifth rib:"
-       NET: "pretense of getting wheat" for KJV's "fifth rib:"
-       WEB: "body:" for KJV's "fifth rib:"
-v.7 — ASV: "went by" for KJV's "gat them away through"
-       NET: "house while Ish Bosheth was resting" for KJV's "house, he lay"
-       WEB: "bedroom," for KJV's "bedchamber, and"
-v.11 — NET: "killed an innocent man as he slept" for KJV's "slain a righteous person"
-       WEB: "bed, should" for KJV's "bed? shall"
-
-GLOSSARY
-------------------------------------
-Beerothite     — A person from Beeroth, one of the four Gibeonite
-                 cities that made a treaty with Joshua (Joshua 9:17).
-                 Though originally Hivite/Gibeonite, Beeroth was
-                 absorbed into Benjamin's territory. Rechab and Baanah
-                 were Benjamites — from Saul's own tribe — making
-                 their betrayal of Ish-bosheth especially treacherous.
-
-Mephibosheth   — "From the mouth of shame" — originally Merib-baal
-                 ("contender with Baal" — 1 Chronicles 8:34). Like
-                 Ish-bosheth, his name was altered by scribes. He was
-                 Jonathan's son, crippled at age five, and the last
-                 significant heir of Saul's house. His introduction
-                 here prepares for chapter 9.
-
-The Arabah     — The Jordan Rift Valley — the deep geological trench
-                 running from the Sea of Galilee south through the
-                 Dead Sea and beyond. A natural travel corridor used
-                 by the murderers for their nighttime escape route
-                 from Mahanaim to Hebron.
-
-Pool of Hebron — A public gathering place and water source in Hebron
-                 where the mutilated bodies of Rechab and Baanah were
-                 displayed. Public execution sites served as warnings
-                 — visible to all who came for water.
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God does not need our sin to accomplish His purposes (vv.8-11).
@@ -248,14 +154,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — 2 Samuel Overview:
   https://bibleproject.com/explore/video/2-samuel/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

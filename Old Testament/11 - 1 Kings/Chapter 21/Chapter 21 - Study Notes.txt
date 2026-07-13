@@ -120,39 +120,6 @@ MAP & GEOGRAPHY NOTES
 - The kingdom divides after Solomon: Israel (north, capital eventually at Samaria) and Judah (south, capital Jerusalem).
 - Key locations: Gibeon (Solomon's dream, ch.3), Tyre (Hiram's city in Phoenicia, chs.5-7), Mount Carmel (Elijah vs. Baal prophets, ch.18), Zarephath (Sidonian widow, ch.17), Mount Horeb/Sinai (Elijah flees, ch.19), Ramoth-gilead (Ahab's death, ch.22).
 
-KEY VERSES
-------------------------------------
-v.3  — "The LORD forbid it me, that I should give the inheritance
-        of my fathers to you." (ESV) — Naboth's faithful refusal.
-        He values God's law above the king's favor, his covenant
-        inheritance above profit. This is the speech of a man who
-        fears God more than man — and it costs him his life.
-
-v.7  — "Do you now govern Israel?" (ESV) — Jezebel's contempt for
-        covenantal limits on royal power. In her worldview, the king
-        is absolute. In Israel's theology, even the king is subject
-        to God's law. This clash of worldviews drives the entire
-        chapter.
-
-v.19 — "Have you killed and also taken possession?" (ESV) — God's
-        accusation through Elijah. Two crimes in one question: murder
-        and theft. God holds Ahab responsible for both, though Jezebel
-        executed the plan. Authority that permits evil is guilty of
-        evil.
-
-v.20 — "I have found you, because you have sold yourself to do what
-        is evil in the sight of the LORD." (ESV) — Elijah's answer
-        to Ahab's "Have you found me, O my enemy?" Sin cannot hide
-        from God. You may evade human justice, but divine justice
-        always finds you — in the very place of your crime.
-
-v.29 — "Because he has humbled himself before me, I will not bring
-        the disaster in his days." (ESV) — God's response to even
-        partial, imperfect repentance. The judgment is delayed, not
-        cancelled. Yet even this delay reveals extraordinary mercy.
-        If the worst king in Israel can receive mercy through
-        humility, no one is beyond hope.
-
 CROSS-REFERENCES
 ------------------------------------
 v.3   — Leviticus 25:23 — "The land shall not be sold in perpetuity,
@@ -215,71 +182,6 @@ Charles Spurgeon:
   judgment came. It always does. You may not see justice in your
   lifetime, but God's court never adjourns permanently."
 
-TRANSLATION COMPARISON
-------------------------------------
-v.4  — KJV: "heavy and displeased" / ESV: "vexed and sullen" —
-       Hebrew "sar we-za'ef" = sulky/stubborn and angry/raging.
-       The same phrase appears in 20:43 after the prophet's rebuke.
-       It characterizes Ahab's response to any frustration: not
-       repentance but petulant anger. KJV "heavy" suggests
-       burdened; ESV "vexed" suggests irritated. Both capture
-       aspects of the Hebrew.
-
-v.10 — KJV: "sons of Belial" / ESV: "worthless men" — Hebrew
-       "bene beliya'al" = sons of worthlessness/wickedness. "Belial"
-       is not a proper name here but a descriptor meaning "without
-       profit" or "without worth." Later Jewish and Christian
-       tradition personified Belial as a demonic figure (2
-       Corinthians 6:15), but here it simply means "worthless,
-       wicked men" — men willing to commit perjury for pay.
-
-v.21 — KJV: "him that pisseth against the wall" / ESV: "every
-       male" — Hebrew "mashtin be-qir" literally means "one who
-       urinates against a wall" — a crude idiom for any male. KJV
-       preserves the literal Hebrew idiom; ESV translates the
-       meaning. The phrase occurs six times in the KJV (all in
-       Samuel-Kings) and always in contexts of total dynastic
-       destruction — every male, without exception.
-
-v.25 — KJV: "whom Jezebel his wife stirred up" / ESV: "whom
-       Jezebel his wife incited" — Hebrew "hesitah" from "sut" =
-       to incite, to entice, to instigate. The same verb used of
-       Satan inciting David (1 Chronicles 21:1) and of the
-       adversary inciting God against Job (Job 2:3). Jezebel
-       functions as a satanic figure — inciting Ahab toward evil
-       he might not have pursued alone.
-
-v.27 — KJV: "went softly" / ESV: "went about dejectedly" —
-       Hebrew "at" = gently, slowly, softly. The image is of a
-       man walking slowly, head down, subdued. KJV "softly"
-       captures the physical posture; ESV "dejectedly" interprets
-       the emotional state. Both are valid — Ahab moves like a
-       broken man, at least temporarily.
-
-v.29 — KJV: "I will not bring the evil in his days" / ESV: "I
-       will not bring the disaster in his days" — Hebrew "ra'ah"
-       can mean evil, disaster, calamity, or harm. KJV "evil"
-       might suggest moral evil; ESV "disaster" clarifies that God
-       is bringing judgment/calamity, not committing moral evil.
-       The distinction matters theologically: God sends just
-       punishment, not arbitrary malice.
-
-v.4 — NET: "ancestral inheritance.” He lay" for KJV's "fathers. And he laid him"
-       WEB: "fathers.” He" for KJV's "fathers. And he"
-v.10 — ASV: "base fellows," for KJV's "sons of Belial,"
-       NET: "villains opposite him and have them testify, ‘You cursed" for KJV's "men, sons of Belial, before him, to bear witness against ..."
-       WEB: "and let them testify" for KJV's "to bear witness"
-v.21 — ASV: "every man-child," for KJV's "him that pisseth against the wall,"
-       NET: adds "including even the weak and incapacitated."
-       WEB: "everyone who urinates" for KJV's "him that pisseth"
-v.25 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "(There had never been anyone like Ahab, who" for KJV's "But there"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.27 — NET: "fasted. He slept in sackcloth and walked around dejected." for KJV's "went softly."
-       WEB: "When" for KJV's "And it came to pass, when"
-v.29 — NET: adds "disaster on his dynasty during his lifetime, but during"
-       WEB: adds "I will bring the evil on his house"
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Covetousness destroys from within (vv.4-6). Ahab had a kingdom
@@ -322,14 +224,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — 1 Kings Overview:
   https://bibleproject.com/explore/video/1-2-kings/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

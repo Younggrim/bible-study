@@ -63,28 +63,6 @@ one is perfectly righteous, Job must have sinned enough to deserve
 this suffering.
 
 
-KEY VERSES
-------------------------------------
-v.7  — "Remember: who that was innocent ever perished? Or where
-        were the upright cut off?" (ESV) — Eliphaz's
-        foundational premise. It sounds wise but is demonstrably
-        false: Abel was innocent and perished. The entire book of
-        Job exists to refute this oversimplified theology.
-
-v.8  — "As I have seen, those who plow iniquity and sow trouble
-        reap the same." (ESV) — The agricultural metaphor of
-        sowing and reaping. This principle is true in
-        general (Galatians 6:7) but not absolute in every
-        individual case. Eliphaz mistakes a general principle for
-        a universal law.
-
-v.17 — "Can mortal man be in the right before God? Can a man be
-        pure before his Maker?" (ESV) — The message of the night
-        vision. The statement is true in itself — no human
-        is more righteous than God. But Eliphaz uses it to silence
-        Job's protest: you have no right to question God's
-        dealings because you are impure.
-
 CROSS-REFERENCES
 ------------------------------------
 v.7   — Psalm 37:25 — "I have been young, and now am old, yet I
@@ -135,68 +113,6 @@ Charles Spurgeon:
   past finding out. Eliphaz's theology was too small for God's
   reality. Many a man has been wounded by a theology that is
   technically correct but pastorally cruel."
-TRANSLATION COMPARISON
-------------------------------------
-v.2  — KJV: "If we assay to commune with thee, wilt thou be
-       grieved?" / ESV: "If one ventures a word with you, will you
-       be impatient?" — KJV "assay" = attempt/try. Eliphaz asks
-       permission to speak — a courtesy that disguises what will
-       become an accusation. ESV is more immediately clear.
-
-v.6  — KJV: "Is not this thy fear, thy confidence, thy hope, and
-       the uprightness of thy ways?" / ESV: "Is not your fear of
-       God your confidence, and the integrity of your ways your
-       hope?" — The ESV clarifies what KJV leaves ambiguous: "thy
-       fear" = your fear of God (your piety). ESV restructures for
-       clarity: your piety should give you confidence; your
-       integrity should give you hope.
-
-v.17 — KJV: "Shall mortal man be more just than God?" / ESV: "Can
-       mortal man be in the right before God?" — Hebrew can be read
-       either comparatively ("more just than God") or positionally
-       ("righteous before God"). The ESV "in the right before God"
-       captures the sense that no human can claim righteousness
-       when standing before the Creator.
-
-v.19 — KJV: "crushed before the moth" / ESV: "crushed like the
-       moth" — A slight difference: KJV suggests humans are
-       destroyed more easily than a moth; ESV says they are
-       crushed AS easily as a moth. Both convey extreme fragility.
-
-v.2 — NET: "“If someone should attempt a word" for KJV's "If we assay to commune"
-       WEB: "“If someone ventures" for KJV's "If we assay"
-v.6 — ASV: "[And]" for KJV's "thy hope, and"
-       NET: "your blameless ways your hope?" for KJV's "the uprightness of thy ways?"
-       WEB: "Isn’t your piety your confidence? Isn’t" for KJV's "Is not this thy fear, thy confidence, thy hope, and"
-v.17 — NET: "righteous before" for KJV's "be more just than"
-v.19 — ASV: "more" for KJV's "less in"
-       NET: "more to those who live" for KJV's "less in them that dwell"
-       WEB: "more, those who" for KJV's "less in them that"
-
-GLOSSARY
-------------------------------------
-Eliphaz       — "My God is gold/fine gold." The Temanite — from
-              Teman in Edom, a region famous for wisdom. Likely
-              the eldest and most eloquent of Job's three friends.
-              His speeches are the longest and most sophisticated.
-
-Retribution   — The theological principle that God rewards the
-Principle       righteous with prosperity and punishes the wicked
-              with suffering in this life. While partially true as
-              a general principle, the book of Job demonstrates it
-              cannot explain every individual case of suffering.
-
-Night Vision  — Eliphaz's supernatural experience (vv.12-16). Its
-              source is ambiguous — it may be divine, angelic, or
-              demonic. The content is partially true (humans are
-              not perfectly righteous) but the application is
-              false (therefore Job deserves his suffering).
-
-Houses of     — (v.19) A metaphor for the human body — fragile,
-Clay            earthen, temporary. The image emphasizes human
-              mortality and weakness before God. Cf. 2 Corinthians
-              4:7, "earthen vessels."
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Good theology wrongly applied causes harm (v.7). Eliphaz's
@@ -236,15 +152,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Job Overview:
   https://bibleproject.com/explore/video/job/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles
-Spurgeon (Public Domain)

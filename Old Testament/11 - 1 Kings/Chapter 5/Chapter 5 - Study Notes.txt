@@ -73,33 +73,6 @@ MAP & GEOGRAPHY NOTES
 - The kingdom divides after Solomon: Israel (north, capital eventually at Samaria) and Judah (south, capital Jerusalem).
 - Key locations: Gibeon (Solomon's dream, ch.3), Tyre (Hiram's city in Phoenicia, chs.5-7), Mount Carmel (Elijah vs. Baal prophets, ch.18), Zarephath (Sidonian widow, ch.17), Mount Horeb/Sinai (Elijah flees, ch.19), Ramoth-gilead (Ahab's death, ch.22).
 
-KEY VERSES
-------------------------------------
-v.4  — "But now the LORD my God has given me rest on every side,
-        so that there is neither adversary nor evil occurrent."
-        (ESV) — Peace as the precondition for building God's house.
-        War and conflict prevent worship from being established.
-        Rest enables construction. In our lives, we often cannot
-        build until God gives rest from our battles.
-
-v.5  — "I intend to build a house for the name of the LORD my God,
-        as the LORD said to David my father." (ESV) — Solomon's
-        purpose is rooted in God's word to David. He is not innovating
-        — he is fulfilling. The greatest works we do are those God has
-        already spoken into existence.
-
-v.7  — "Blessed be the LORD this day, who has given to David a wise
-        son over this great people." (ESV) — Even a pagan king
-        recognizes God's hand in Solomon's wisdom. When God's people
-        walk in wisdom, even outsiders acknowledge God's blessing.
-
-v.12 — "And the LORD gave Solomon wisdom, as he promised him. And
-        there was peace between Hiram and Solomon, and the two of
-        them made a treaty." (ESV) — Wisdom produces peace. The
-        diplomatic success is attributed to God's gift, not Solomon's
-        cleverness. Divine wisdom applied to human relationships
-        creates harmony.
-
 CROSS-REFERENCES
 ------------------------------------
 v.1   — 2 Samuel 5:11 — Hiram had previously sent cedar and
@@ -146,60 +119,6 @@ Charles Spurgeon:
   under your feet. Then, in the peace He gives, build the house of
   prayer and praise that He deserves."
 
-TRANSLATION COMPARISON
-------------------------------------
-v.1  — KJV: "in the room of his father" / ESV: "in place of his
-       father" — Hebrew "tachat" = under, in place of, instead of.
-       KJV "room" is archaic English for "place/stead"; ESV uses
-       modern phrasing.
-
-v.4  — KJV: "evil occurrent" / ESV: "misfortune" — Hebrew "pega
-       ra" = evil occurrence, bad happening, calamity. KJV's
-       "occurrent" is an archaic word meaning "occurrence/event";
-       ESV simplifies to "misfortune." Solomon means there is no
-       external threat or internal disaster to prevent building.
-
-v.6  — KJV: "can skill to hew timber" / ESV: "knows how to cut
-       timber" — KJV "can skill" is archaic for "has the skill/
-       ability." The Sidonians (Phoenicians) were renowned
-       throughout the ancient world for their woodworking expertise.
-       Israel was primarily an agricultural society without
-       forestry traditions.
-
-v.8  — KJV: "timber of fir" / ESV: "cypress timber" — Hebrew
-       "beroshim." The exact species is debated — possibly cypress,
-       juniper, or fir. KJV uses "fir"; ESV uses "cypress." Both
-       refer to a coniferous tree valued for construction, distinct
-       from the more prized cedar.
-
-v.11 — KJV: "twenty measures of pure oil" / ESV: "20,000 cors of
-       beaten oil" — There is a textual variant here. The Hebrew
-       Masoretic text reads "twenty cors" while the Septuagint and
-       2 Chronicles 2:10 indicate a much larger amount. ESV follows
-       the larger number based on the parallel passage. The
-       discrepancy likely arose from a scribal copying error.
-
-v.13 — KJV: "raised a levy" / ESV: "drafted forced labor" — Hebrew
-       "mas" = corvée, forced labor conscription. KJV "levy" is
-       technically accurate (a levy of workers) but ESV "forced
-       labor" makes the compulsory nature explicit.
-
-v.1 — NET: "his father’s place. (Hiram had always been an ally" for KJV's "the room"
-       WEB: "had always loved" for KJV's "was ever a lover of"
-v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "or dangerous threat." for KJV's "nor evil occurrent."
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.6 — ASV: "cedar-trees" for KJV's "cedar trees"
-       NET: "So now order some cedars of Lebanon to be cut for me. My ..." for KJV's "Now therefore command thou"
-       WEB: "you say. For you know" for KJV's "thou shalt appoint: for thou knowest"
-v.8 — ASV: "heard [the message]" for KJV's "considered the things"
-       NET: adds "then sent this message to Solomon: “I received the messag..."
-       WEB: "cypress timber." for KJV's "timber of fir."
-v.11 — NET: "royal court, as well as 120,000 gallons" for KJV's "household, and twenty measures"
-       WEB: "oil. Solomon" for KJV's "oil: thus"
-v.13 — NET: "conscripted work crews from throughout Israel, 30,000 men..." for KJV's "raised a levy out of all Israel; and the levy was thirty ..."
-       WEB: "King" for KJV's "And king"
-
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God's work requires God's timing (vv.3-4). David wanted to build
@@ -243,14 +162,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — 1 Kings Overview:
   https://bibleproject.com/explore/video/1-2-kings/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

@@ -81,33 +81,6 @@ MAP & GEOGRAPHY NOTES
 - The kingdom divides after Solomon: Israel (north, capital eventually at Samaria) and Judah (south, capital Jerusalem).
 - Key locations: Gibeon (Solomon's dream, ch.3), Tyre (Hiram's city in Phoenicia, chs.5-7), Mount Carmel (Elijah vs. Baal prophets, ch.18), Zarephath (Sidonian widow, ch.17), Mount Horeb/Sinai (Elijah flees, ch.19), Ramoth-gilead (Ahab's death, ch.22).
 
-KEY VERSES
-------------------------------------
-v.3  — "I have consecrated this house that you have built, by
-        putting my name there forever. My eyes and my heart will be
-        there for all time." (ESV) — God accepts the Temple. His
-        name, His attention, and His affection are permanently
-        connected to this place. Yet this promise is conditional on
-        what follows.
-
-v.4  — "And if you will walk before me, as David your father walked,
-        in integrity of heart and in uprightness, doing according to
-        all that I have commanded you." (ESV) — The condition. God's
-        blessing is not automatic — it requires ongoing faithfulness.
-        David is the standard: not perfection (David sinned) but
-        integrity of heart (David always returned).
-
-v.6  — "But if you turn aside from following me... and do not keep
-        my commandments... but go and serve other gods." (ESV) — The
-        warning. God knows the danger is real.
-
-v.7  — "Then I will cut off Israel from the land that I have given
-        them, and the house that I have consecrated for my name I
-        will cast out of my sight." (ESV) — The consequence. Even the
-        Temple — God's own house — is not immune to judgment. No
-        institution, no building, no tradition is safe if the people
-        abandon God.
-
 CROSS-REFERENCES
 ------------------------------------
 v.2   — 1 Kings 3:5 — God's first appearance at Gibeon. The two
@@ -150,51 +123,6 @@ Charles Spurgeon:
   the standard: not sinlessness but direction. Not perfection but
   integrity of heart. Are you walking toward God or away from Him?
   That is the question — not whether you have stumbled."
-
-TRANSLATION COMPARISON
-------------------------------------
-v.3  — KJV: "I have hallowed this house" / ESV: "I have consecrated
-       this house" — Hebrew "hiqdashtiy" = I have made holy, set
-       apart, consecrated. Both translations convey the same meaning:
-       God has set this building apart as sacred.
-
-v.8  — KJV: "this house, which is high" / ESV: "this house will
-       become a heap of ruins" — Significant difference. Hebrew
-       "elyon" can mean "high/exalted" (KJV reading) or, with a
-       different vowel pointing, "ruins" (ESV follows LXX and some
-       manuscripts). The ESV reading creates a sharper contrast:
-       the exalted house becomes ruins. KJV reads it as: this house,
-       though currently exalted, will cause astonishment.
-
-v.13 — KJV: "the land of Cabul" / ESV: "the land of Cabul" —
-       Hebrew "Kabul." The meaning is uncertain. Josephus suggests
-       it means "displeasing" in Phoenician. Others connect it to
-       Hebrew "kevel" = "as nothing" or "fettered." The point is
-       clear: Hiram was dissatisfied with the cities.
-
-v.15 — KJV: "the levy" / ESV: "the forced labor" — Hebrew "mas"
-       (same word as 5:13). The corvée system that built Solomon's
-       empire.
-
-v.18 — KJV: "Tadmor" / ESV: "Tamar" — A textual variant. "Tadmor"
-       (KJV, following the Qere/marginal reading) is the famous
-       oasis city later known as Palmyra in the Syrian desert.
-       "Tamar" (ESV, following the Ketiv/written text) is a location
-       in the Judean wilderness. The identification affects how far
-       Solomon's building program extended.
-
-v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: adds "“I have answered your prayer and your request for help th..."
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "This temple will become a heap of ruins; everyone who passes" for KJV's "And at this house, which is high, every one that passeth"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.13 — NET: adds "towns, my friend?” He called that area the region of Cabu..."
-       WEB: "brother?” He" for KJV's "brother? And he"
-v.15 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
-       NET: "Lord’s temple, his palace," for KJV's "house of"
-       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
-v.18 — WEB: "Tamar" for KJV's "and Tadmor"
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -239,14 +167,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — 1 Kings Overview:
   https://bibleproject.com/explore/video/1-2-kings/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles Spurgeon (Public Domain)

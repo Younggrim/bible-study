@@ -54,43 +54,6 @@ Structure:
 - Third Refrain: Self-Counsel to Hope (v. 5)
 
 
-KEY VERSES
-------------------------------------
-Verse 1 — "Judge me, O God, and plead my cause against an ungodly
-nation: O deliver me from the deceitful and unjust man."
-The psalmist appeals to God as judge and advocate — asking not for
-mercy (since he claims innocence in this matter) but for justice.
-"Judge me" is a bold request, implying confidence that God's
-verdict will be favorable. The "ungodly nation" and "unjust man"
-represent both corporate and individual opposition.
-
-Verse 3 — "O send out thy light and thy truth: let them lead me;
-let them bring me unto thy holy hill, and to thy tabernacles."
-The theological climax of Psalms 42-43. Light and truth are
-personified as divine guides leading the exile home. God's truth
-illuminates the path; His light dispels the darkness of despair.
-The destination is not merely geographic (Jerusalem) but spiritual
-(God's presence at the altar). This anticipates Christ as "the
-light of the world" and "the truth" (John 8:12; 14:6).
-
-Verse 4 — "Then will I go unto the altar of God, unto God my
-exceeding joy: yea, upon the harp will I praise thee, O God my
-God."
-The resolution of the psalmist's longing. "God my exceeding joy"
-(Hebrew: "el simchat gili" — God, the gladness of my rejoicing)
-expresses that God Himself — not merely the temple experience — is
-the source of joy. The altar represents restored access, sacrifice,
-and communion with God.
-
-Verse 5 — "Why art thou cast down, O my soul? and why art thou
-disquieted within me? hope in God: for I shall yet praise him, who
-is the health of my countenance, and my God."
-The final occurrence of the refrain. After active petition (vv.
-1-4), the self-counsel to hope carries greater conviction. The
-journey from Psalm 42:5 (raw despair) through 42:11 (continued
-struggle) reaches its resolution here with forward-looking
-confidence: "I shall yet praise him."
-
 CROSS-REFERENCES
 ------------------------------------
 v. 1 — Psalm 26:1 — "Judge me, O LORD; for I have walked in mine
@@ -124,22 +87,6 @@ as one's inheritance.
 
 COMMENTARY REFERENCES
 ------------------------------------
-
-TRANSLATION COMPARISON
-------------------------------------
-
-
-v.2 — NET: "who shelters me. Why do you reject me? Why must" for KJV's "of my strength: why dost thou cast me off? why go"
-       WEB: "strength. Why have you rejected me? Why do I" for KJV's "strength: why dost thou cast me off? why"
-v.3 — ASV: "me: Let" for KJV's "me; let"
-       NET: "your faithfulness. They will" for KJV's "thy truth: let them"
-       WEB: "your truth. Let" for KJV's "thy truth: let"
-v.4 — ASV: "joy; And" for KJV's "joy: yea,"
-       NET: adds "who gives me ecstatic joy, so that I may express"
-       WEB: "joy. I will praise you on" for KJV's "joy: yea, upon"
-v.5 — ASV: adds "Psalm 44 For the Chief Musician. [A Psalm] of the sons of..."
-       NET: "God for his saving intervention." for KJV's "countenance, and my God."
-       WEB: "Why are you disturbed" for KJV's "and why art thou disquieted"
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
@@ -177,15 +124,3 @@ VIDEO RESOURCES
 ------------------------------------
 The Bible Project — Psalms Overview:
   https://bibleproject.com/explore/video/psalms/
-
-
-PERSONAL NOTES
-------------------------------------
-[Your notes here]
-
-
-========================================
-Study Notes generated for personal Bible study use.
-Translations referenced: KJV, ESV, ASV, NET, WEB
-Commentary sources: Enduring Word (enduringword.com), Charles
-Spurgeon (Public Domain)
