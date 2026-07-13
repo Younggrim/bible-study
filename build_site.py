@@ -458,13 +458,7 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
     cross_refs = sections.get("CROSS-REFERENCES", "")
     commentary = sections.get("COMMENTARY REFERENCES", "")
     videos = sections.get("VIDEO RESOURCES", "")
-    reflection = sections.get("REFLECTION QUESTIONS", "")
-    personal = sections.get("PERSONAL REFLECTION & APPLICATION", "")
-
-    # Combine reflection sections
-    all_reflection = reflection
-    if personal:
-        all_reflection = (all_reflection + "\n\n" + personal) if all_reflection else personal
+    all_reflection = sections.get("REFLECTION", "")
 
     # Build tabs (only show tabs that have content)
     tabs_html = ""
