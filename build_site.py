@@ -580,7 +580,7 @@ def build_html_page(book_name, chapter_num, total_chapters, verses_html, tab_bar
     <title>''' + f'{book_name} {chapter_num}' + ''' — Bible Study</title>
     <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-    <link rel="stylesheet" href="site/style.css?v=8">
+    <link rel="stylesheet" href="site/style.css?v=9">
 </head>
 <body>
     <nav class="top-nav">
