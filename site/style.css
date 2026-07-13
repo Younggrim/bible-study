@@ -408,10 +408,11 @@ body {
     .main-content { margin-left: 0; margin-right: 0; padding: 20px 16px; }
     .hamburger { display: block; }
     .nav-brand { display: none; }
-    .top-nav { padding: 0 10px; }
-    .nav-center { gap: 4px; }
-    .nav-book-select, .nav-chapter-select { font-size: 0.8rem; padding: 5px 6px; max-width: 120px; }
+    .top-nav { padding: 0 10px; height: auto; min-height: 56px; flex-wrap: wrap; padding-top: 6px; padding-bottom: 6px; }
+    .nav-center { gap: 4px; justify-content: flex-start; flex-wrap: wrap; }
+    .nav-book-select, .nav-chapter-select { font-size: 0.8rem; padding: 5px 6px; max-width: 110px; }
     .nav-translation { font-size: 0.75rem; padding: 5px 8px; }
+    .trans-info-btn { display: none; }
     .scripture-container { padding: 20px 18px; }
     .verse { font-size: 0.95rem; line-height: 1.85; }
     .book-header h1 { font-size: 1.5rem; }
