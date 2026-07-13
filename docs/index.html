@@ -9,11 +9,15 @@
     <link rel="stylesheet" href="site/style.css?v=10">
     <style>
         .home-content { margin-top: 56px; padding: 0; max-width: 900px; margin-left: auto; margin-right: auto; padding-bottom: 60px; }
-        .intro-section { margin: 40px 32px 0; text-align: center; }
-        .intro-text { font-family: "Cormorant Garamond", serif; font-size: 1.4rem; font-weight: 600; line-height: 1.8; color: #5a4e44; margin-bottom: 20px; }
-        .intro-prayer { font-family: "Cormorant Garamond", serif; font-size: 1.25rem; font-weight: 500; font-style: italic; line-height: 1.8; color: #6b4c3b; margin-bottom: 0; }
+        .hero-banner { position: relative; margin: 0 -9999px; padding: 0 9999px; background: url('https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=1400&q=80') center center / cover no-repeat; }
+        .hero-overlay { background: rgba(30, 20, 10, 0.7); padding: 60px 32px 50px; text-align: center; }
+        .hero-icon { font-size: 2.5rem; color: #c9a96e; margin-bottom: 16px; }
+        .intro-section { max-width: 900px; margin: 0 auto; text-align: center; }
+        .intro-text { font-family: "Cormorant Garamond", serif; font-size: 1.4rem; font-weight: 600; line-height: 1.8; color: #f5ebe0; margin-bottom: 20px; }
+        .intro-prayer { font-family: "Cormorant Garamond", serif; font-size: 1.25rem; font-weight: 500; font-style: italic; line-height: 1.8; color: #e8d5b7; margin-bottom: 0; }
         .info-section { margin: 40px 32px 0; background: linear-gradient(180deg, #fdf9f4 0%, #faf5ed 50%, #f5ebe0 100%); border: 1px solid #e0d6c8; border-radius: 12px; padding: 32px 36px; }
         .info-section-title { font-family: "Cinzel", serif; font-size: 1.5rem; color: #8b3a2a; margin-bottom: 20px; text-align: center; letter-spacing: 1px; }
+        .section-icon { margin-right: 10px; color: #c9a96e; }
         .scroll-section { margin: 32px 32px 0; }
         .scroll-banner { display: flex; align-items: center; cursor: pointer; user-select: none; }
         .scroll-end { width: 40px; height: 100px; border-radius: 20px; background: linear-gradient(to right, #c9a96e, #a67c52, #c9a96e); box-shadow: inset 0 0 8px rgba(0,0,0,0.3), 2px 2px 6px rgba(0,0,0,0.15); }
@@ -44,7 +48,7 @@
         .trans-guide-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
         .trans-guide-item strong { font-size: 1rem; }
         .trans-guide-item p { font-size: 0.88rem; line-height: 1.7; color: #5a4e44; margin-top: 4px; }
-        @media (max-width: 768px) { .scroll-title { font-size: 1.4rem; } .scroll-subtitle { font-size: 0.85rem; } .scroll-end { width: 24px; height: 80px; } .scroll-body { padding: 16px 14px; } .parchment-body { margin: 0 16px; padding: 24px 16px; } .scroll-section { margin: 16px 16px 0; } .book-grid { grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); } .intro-section { margin: 24px 16px 0; } .info-section { margin: 24px 16px 0; padding: 24px 20px; } }
+        @media (max-width: 768px) { .scroll-title { font-size: 1.4rem; } .scroll-subtitle { font-size: 0.85rem; } .scroll-end { width: 24px; height: 80px; } .scroll-body { padding: 16px 14px; } .parchment-body { margin: 0 16px; padding: 24px 16px; } .scroll-section { margin: 16px 16px 0; } .book-grid { grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); } .hero-overlay { padding: 40px 16px 36px; } .intro-text { font-size: 1.2rem; } .intro-prayer { font-size: 1.1rem; } .info-section { margin: 24px 16px 0; padding: 24px 20px; } }
     </style>
 </head>
 <body>
@@ -54,15 +58,20 @@
     </nav>
     <main class="home-content">
 
-        <!-- Introduction & Prayer -->
-        <div class="intro-section">
-            <p class="intro-text">Welcome to this Bible Study resource. This site exists for one purpose: to help you draw closer to God through His Word. Whether you are new to Scripture or have walked with the Lord for decades, our prayer is that these study tools serve you well in your journey of faith.</p>
-            <p class="intro-prayer"><em>"Lord, we pray that this resource would be a blessing to all who seek You here. Open the eyes of those who are searching, strengthen the faith of those who believe, and let Your Word accomplish all that You intend. May every page point to Your glory and draw hearts nearer to You. In Jesus' name, Amen."</em></p>
+        <!-- Hero Banner with Introduction & Prayer -->
+        <div class="hero-banner">
+            <div class="hero-overlay">
+                <div class="intro-section">
+                    <div class="hero-icon"><i class="fas fa-cross"></i></div>
+                    <p class="intro-text">Welcome to this Bible Study resource. This site exists for one purpose: to help you draw closer to God through His Word. Whether you are new to Scripture or have walked with the Lord for decades, our prayer is that these study tools serve you well in your journey of faith.</p>
+                    <p class="intro-prayer"><em>"Lord, we pray that this resource would be a blessing to all who seek You here. Open the eyes of those who are searching, strengthen the faith of those who believe, and let Your Word accomplish all that You intend. May every page point to Your glory and draw hearts nearer to You. In Jesus' name, Amen."</em></p>
+                </div>
+            </div>
         </div>
 
         <!-- Translations Available -->
         <div class="info-section">
-            <h2 class="info-section-title">Translations Available</h2>
+            <h2 class="info-section-title"><i class="fas fa-language section-icon"></i>Translations Available</h2>
             <div class="trans-guide-item"><strong style="color:#8b3a2a;">ESV — English Standard Version (2001)</strong><p>An essentially literal translation balancing word-for-word accuracy with modern readability. Translated from the Masoretic Hebrew text and Nestle-Aland Greek text. Widely used for preaching, study, and memorization.</p></div>
             <div class="trans-guide-item"><strong style="color:#4a5a8a;">KJV — King James Version (1611)</strong><p>The most influential English Bible in history. Commissioned by King James I and translated by 47 scholars from the Textus Receptus. Known for majestic, poetic language that has shaped English literature for over 400 years.</p></div>
             <div class="trans-guide-item"><strong style="color:#7a5c2e;">ASV — American Standard Version (1901)</strong><p>A revision of the KJV using more accurate manuscript evidence. Extremely literal — almost word-for-word from the original languages. Excellent for detailed word studies. Uses "Jehovah" instead of "LORD."</p></div>
@@ -72,7 +81,7 @@
 
         <!-- Commentaries -->
         <div class="info-section">
-            <h2 class="info-section-title">Commentaries</h2>
+            <h2 class="info-section-title"><i class="fas fa-book-open section-icon"></i>Commentaries</h2>
             <div class="commentary-card">
                 <h4>David Guzik — Enduring Word</h4>
                 <p>David Guzik is a pastor, author, and Bible commentator whose verse-by-verse commentary covers the entire Bible. His work through Enduring Word (enduringword.com) is one of the most widely accessed Bible commentaries in the world, freely available online in multiple languages. Guzik writes for the everyday believer — combining solid evangelical scholarship with practical application. He draws from commentators across church history including Matthew Henry, Adam Clarke, and Charles Spurgeon. His commentary is used by pastors for sermon preparation, small group leaders for study material, and individuals for personal devotion.</p>
