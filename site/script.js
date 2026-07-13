@@ -86,12 +86,10 @@ function filterTranslations() {
         var entryTrans = entry.getAttribute('data-translations').split(' ');
 
         if (selected.length === 0) {
-            // Nothing selected — show all dimmed
-            entry.classList.add('dimmed');
-            entry.classList.remove('hidden');
+            // Nothing selected — hide all
+            entry.classList.add('hidden');
         } else if (entryTrans[0] === 'general') {
             // Entries without specific translations always show
-            entry.classList.remove('dimmed');
             entry.classList.remove('hidden');
         } else {
             // Check if any of the entry's translations are in the selected list
@@ -99,11 +97,9 @@ function filterTranslations() {
                 return selected.indexOf(t) !== -1;
             });
             if (hasMatch) {
-                entry.classList.remove('dimmed');
                 entry.classList.remove('hidden');
             } else {
-                entry.classList.add('dimmed');
-                entry.classList.remove('hidden');
+                entry.classList.add('hidden');
             }
         }
     });
