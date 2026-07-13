@@ -169,6 +169,22 @@ v.19 — "To the chief singer on my stringed instruments" — a
        corporate worship. "Neginoth" = stringed instruments.
        This theological wrestling match ends in the hymnal.
 
+v.1 — ASV: "prophet, set to" for KJV's "prophet upon"
+       NET: "prophet:" for KJV's "prophet upon Shigionoth."
+       WEB: "prophet, set to victorious music." for KJV's "prophet upon Shigionoth."
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "the report of what you did; I am awed, Lord, by what you ..." for KJV's "thy speech, and was afraid: O LORD, revive thy work"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — ASV: "rays [coming forth] from" for KJV's "horns coming out of"
+       NET: "outward display" for KJV's "light; he had horns coming out of his hand: and there was..."
+       WEB: "power is hidden." for KJV's "hand: and there was the hiding of his power."
+v.16 — ASV: "voice; Rottenness entereth" for KJV's "voice: rottenness entered"
+       NET: "quiver. My frame went limp, as if" for KJV's "quivered at the voice: rottenness entered into"
+       WEB: "voice. Rottenness enters" for KJV's "voice: rottenness entered"
+v.19 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "rugged terrain. (This prayer is for the song leader. It i..." for KJV's "chief singer on my"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "In wrath remember mercy" (v.2). Even when you know judgment

@@ -167,6 +167,18 @@ v.10 — KJV: "the joy of the LORD is your strength" / ESV: "the
        refuge). The LORD's joy — either His joy in them, or the
        joy He gives — becomes their fortification.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Water Gate. They asked" for KJV's "water gate; and they spake unto"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — NET: "towering wooden platform constructed" for KJV's "pulpit of wood, which they had made"
+       WEB: "Hashbaddanah," for KJV's "and Hashbadana,"
+v.8 — ASV: "so that they understood" for KJV's "and caused them to understand"
+       NET: "people gained understanding from what was read." for KJV's "law of God distinctly, and gave the sense, and caused the..."
+       WEB: "so that they understood" for KJV's "and caused them to understand"
+v.10 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord. Do not grieve," for KJV's "Lord: neither be ye sorry;"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Water Gate  — A gate on the eastern wall of Jerusalem near the

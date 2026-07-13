@@ -216,6 +216,24 @@ v.21 — KJV: "a goodly man" / ESV: "a handsome man" — Hebrew
        imposing — making Benaiah's victory with only a staff all
        the more remarkable.
 
+v.1 — ASV: "high saith, The" for KJV's "high, the"
+       NET: "Israel’s beloved singer" for KJV's "and the sweet psalmist"
+       WEB: "Israel:" for KJV's "Israel, said,"
+v.5 — ASV: "For it" for KJV's "for this"
+       NET: "My dynasty is approved by God, for he has made a perpetua..." for KJV's "Although my house be not so"
+       WEB: "God? Yet" for KJV's "God; yet"
+v.6 — ASV: "ungodly" for KJV's "sons of Belial"
+       NET: "evil people are like thorns—" for KJV's "the sons of Belial shall be"
+       WEB: "ungodly will" for KJV's "sons of Belial shall"
+v.8 — ASV: "Josheb-basshebeth a Tahchemonite," for KJV's "The Tachmonite that sat in the seat,"
+       NET: adds "David’s warriors:Josheb Basshebeth, a Tahkemonite, was he..."
+       WEB: "Josheb Basshebeth a Tahchemonite," for KJV's "The Tachmonite that sat in the seat,"
+v.20 — ASV: "[sons of] Ariel" for KJV's "lionlike men"
+       NET: "cistern on a snowy day." for KJV's "pit in time of snow:"
+       WEB: "mighty deeds, killed the" for KJV's "many acts, he slew"
+v.21 — NET: "spear, while Benaiah attacked" for KJV's "goodly man: and the Egyptian had a spear in his hand; but..."
+       WEB: "He killed a huge" for KJV's "And he slew an"
+
 GLOSSARY
 ------------------------------------
 Oracle         — Hebrew "ne'um" = utterance, declaration. A

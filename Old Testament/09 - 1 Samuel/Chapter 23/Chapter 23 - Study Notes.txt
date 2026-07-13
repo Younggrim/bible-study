@@ -196,6 +196,16 @@ v.28 — KJV: "Sela-hammahlekoth" / ESV: "the Rock of Escape" — Hebrew
        Saul from David). ESV's "Rock of Escape" captures the
        narrative significance.
 
+v.7 — NET: "has boxed himself into a corner" for KJV's "is shut in,"
+       WEB: "“God has" for KJV's "God hath"
+v.15 — NET: "life; at that time" for KJV's "life: and"
+       WEB: "life." for KJV's "life: and"
+v.16 — ASV: "Jonathan, Saul`s son," for KJV's "Jonathan Saul’s son"
+       NET: "at Horesh. He encouraged him through" for KJV's "into the wood, and strengthened his hand in"
+       WEB: "Jonathan," for KJV's "And Jonathan"
+v.28 — NET: "Philistines. Therefore" for KJV's "Philistines: therefore they called"
+       WEB: "Philistines. Therefore" for KJV's "Philistines: therefore"
+
 GLOSSARY
 ------------------------------------
 Ephod          — The priestly garment used for divine consultation

@@ -159,6 +159,19 @@ v.25 — KJV: "Ha, ha" / ESV: "Aha!" — Hebrew "heach" = an
        battle and responds with eagerness, not fear. Extraordinary
        anthropomorphic language for an animal.
 
+v.9 — ASV: "thee? Or will he" for KJV's "thee, or"
+       NET: "be your servant? Will it spend the night at your feeding ..." for KJV's "serve thee, or abide by thy crib?"
+       WEB: "you? Or will he stay" for KJV's "thee, or abide"
+v.13 — ASV: "ostrich wave proudly; [But] are they" for KJV's "goodly wings unto"
+       NET: "ostrich flap with joy, but are they" for KJV's "goodly wings unto"
+       WEB: "ostrich wave proudly; but are they" for KJV's "goodly wings unto"
+v.19 — ASV: "[his] might? Hast" for KJV's "strength? hast"
+       NET: "Do you clothe its" for KJV's "hast thou clothed his"
+       WEB: "might? Have you" for KJV's "strength? hast thou"
+v.25 — ASV: "trumpet [soundeth] he saith, Aha! And" for KJV's "trumpets, Ha, ha; and"
+       NET: "sound of the trumpet, it says, ‘Aha!’ And from a distance..." for KJV's "trumpets, Ha, ha;"
+       WEB: adds "As often as the trumpet sounds he snorts, ‘Aha!’"
+
 GLOSSARY
 ------------------------------------
 Wild ox/     — Hebrew "re'em" — the aurochs (Bos primigenius), an

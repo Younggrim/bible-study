@@ -113,6 +113,16 @@ v.10 — KJV: "threescore years and ten" / ESV: "seventy" — Same
        beauty; ESV is plain but clear. The observation: even in
        Moses' time, human lifespan was recognizably brief.
 
+v.3 — ASV: "destruction, And" for KJV's "destruction; and"
+       NET: "say, “Return, O people.”" for KJV's "sayest, Return, ye children of men."
+       WEB: "destruction, saying, “Return, you" for KJV's "destruction; and sayest, Return, ye"
+v.9 — ASV: adds "to an end"
+       NET: "lives pass quickly, like" for KJV's "years as"
+       WEB: "your wrath. We bring" for KJV's "thy wrath: we spend"
+v.10 — ASV: "pride but labor" for KJV's "strength labour"
+       NET: adds "lives add up to 70 years, or 80, if one is especially str..."
+       WEB: "seventy, or even" for KJV's "threescore years and ten; and if"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God is your dwelling place across generations (v.1). Before you

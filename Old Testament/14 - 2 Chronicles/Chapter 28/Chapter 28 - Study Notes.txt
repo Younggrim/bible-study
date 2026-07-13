@@ -218,6 +218,25 @@ v.24 — KJV: "shut up the doors of the house of the LORD" / ESV:
        "Sagar" means to close, shut, or lock — indicating complete
        termination of Temple worship, not mere restriction.
 
+v.2 — NET: "Israel; he also" for KJV's "Israel, and"
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "He offered sacrifices" for KJV's "Moreover he burnt incense"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.12 — NET: "Hadlai confronted those returning" for KJV's "Hadlai, stood up against them that came"
+       WEB: "those who" for KJV's "them that"
+v.15 — ASV: "that have been mentioned" for KJV's "which were expressed"
+       NET: "prisoners and find clothes among the plunder for those who" for KJV's "men which"
+       WEB: "who have been mentioned" for KJV's "which were expressed"
+v.19 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "was very unfaithful to" for KJV's "transgressed sore against"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.22 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "trouble King Ahaz was even" for KJV's "his distress did he trespass yet"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.24 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "on every street corner"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Valley of   — Hebrew "ge ben-Hinnom" (Valley of the son of Hinnom).

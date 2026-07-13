@@ -187,6 +187,22 @@ v.42 — KJV: "Mesha his firstborn, which was the father of Ziph" /
        "Mareshah" (a known Judean city); KJV follows the
        Masoretic reading "Mesha."
 
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Shelah. These" for KJV's "Shelah: which"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — ASV: "daughter-in-law" for KJV's "daughter in law"
+       NET: "Tamar, Judah’s daughter-in-law, bore to" for KJV's "And Tamar his daughter in law bare"
+       WEB: "daughter-in-law bore" for KJV's "daughter in law bare"
+v.6 — NET: "Kalkol, Dara—five" for KJV's "and Calcol, and Dara: five of them"
+       WEB: "The" for KJV's "And the"
+v.7 — ASV: "devoted thing." for KJV's "thing accursed."
+       NET: "disaster on Israel when he stole what was devoted to God." for KJV's "sons of Carmi; Achar, the troubler of Israel, who transgr..."
+       WEB: "devoted thing." for KJV's "thing accursed."
+v.11 — NET: "was the father of Boaz." for KJV's "begat Boaz,"
+v.42 — ASV: "first-born, who" for KJV's "firstborn, which"
+       NET: "Caleb, Jerahmeel’s brother:" for KJV's "Caleb the brother of Jerahmeel were, Mesha"
+       WEB: "The" for KJV's "Now the"
+
 GLOSSARY
 ------------------------------------
 Judah       — Fourth son of Jacob/Israel by Leah. His name means

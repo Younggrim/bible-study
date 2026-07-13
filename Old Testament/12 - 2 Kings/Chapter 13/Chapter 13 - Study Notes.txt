@@ -168,6 +168,18 @@ v.21 — KJV: "he revived, and stood up on his feet" / ESV: "he
        the Old Testament. This is not resuscitation but
        supernatural restoration of life.
 
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Syria’s power. The Israelites once more lived" for KJV's "under the hand of the Syrians: and the children of Israel..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.17 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord will give you over Syria. You will annihilate Syria" for KJV's "arrow of deliverance from Syria: for thou shalt smite the..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.19 — NET: "times, you would have annihilated Syria! But now, you wil..." for KJV's "times; then hadst thou smitten"
+       WEB: "times. Then you would have struck" for KJV's "times; then hadst thou smitten"
+v.21 — ASV: "band;" for KJV's "band of men;"
+       NET: "body touched Elisha’s bones," for KJV's "sepulchre of Elisha: and when"
+       WEB: "Elisha’s tomb. As soon as" for KJV's "the sepulchre of Elisha: and when"
+
 GLOSSARY
 ------------------------------------
 Jehoahaz    — Son of Jehu, second king of Jehu's dynasty. His

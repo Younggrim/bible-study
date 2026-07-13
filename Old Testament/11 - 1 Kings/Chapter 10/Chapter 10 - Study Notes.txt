@@ -179,6 +179,21 @@ v.28 — KJV: "linen yarn" / ESV: "Kue" — Significant difference.
        Turkey), a known horse-breeding region. ESV's reading is
        preferred by most modern scholars.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "about Solomon," for KJV's "of the fame of Solomon concerning the name of the LORD,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s temple, she" for KJV's "house of the LORD; there"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: "almug-trees" for KJV's "almug trees,"
+       NET: "(Hiram’s fleet, which carried" for KJV's "And the navy also of Hiram, that brought"
+       WEB: "The fleet" for KJV's "And the navy also"
+v.22 — NET: "large merchant ships that sailed" for KJV's "Tharshish with"
+       WEB: "Hiram’s fleet. Once every" for KJV's "the navy of Hiram: once in"
+v.28 — ASV: "them in droves, each drove" for KJV's "the linen yarn"
+       NET: "traders purchased them from Que." for KJV's "merchants received the linen yarn at a price."
+       WEB: "them in droves, each drove" for KJV's "the linen yarn"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "The half was not told me" (v.7). The Queen of Sheba heard

@@ -128,6 +128,17 @@ v.13 — "seething pot" (KJV) / "boiling pot" (ESV) — Hebrew "sir
       → the boiling judgment spills SOUTHWARD from Babylon toward
       Judah.
 
+v.1 — NET: "who lived at" for KJV's "that were in"
+v.5 — ASV: "thee;" for KJV's "thee, and"
+       NET: "chose you. Before you were born," for KJV's "knew thee; and before thou camest forth out of the womb"
+       WEB: "you. Before you were born," for KJV's "thee; and before thou camest forth out of the womb"
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "“What do you see, Jeremiah?”" for KJV's "saying, Jeremiah, what seest thou? And"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "pot of boiling water; it is tipped away from" for KJV's "seething pot; and"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Anathoth     — Levitical town in Benjamin, Jeremiah's hometown.

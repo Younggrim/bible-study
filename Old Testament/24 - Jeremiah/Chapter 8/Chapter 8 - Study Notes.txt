@@ -114,6 +114,17 @@ v.22 — "balm" (KJV/ESV) — Hebrew "tsori" = a resinous healing
       ointment from Gilead (east of Jordan), famous for medicinal
       properties. Used for wounds and bruises.
 
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "pay no attention to what I," for KJV's "know not"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord”? The truth is, those who teach it have used their w..." for KJV's "LORD is with us? Lo, certainly in vain made he it; the pe..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.20 — NET: "“They cry, ‘Harvest time has come and gone and" for KJV's "The harvest is past,"
+       WEB: "past. The" for KJV's "past, the"
+v.22 — NET: "There is still medicinal ointment available" for KJV's "Is there no balm"
+       WEB: "Gilead? Is" for KJV's "Gilead; is"
+
 GLOSSARY
 ------------------------------------
 Balm of Gilead — A healing resin exported from the Gilead region.

@@ -151,6 +151,16 @@ v.11 — "Hadadrimmon" — A place in the Valley of Megiddo (Jezreel
        killed in battle (609 BC). The greatest grief Israel ever
        experienced becomes the standard for future repentance.
 
+v.2 — ASV: "and upon Judah also" for KJV's "when they"
+       NET: "surrounding nations; indeed, Judah will also be included" for KJV's "people round about,"
+       WEB: "surrounding peoples, and it will also" for KJV's "people round about, when they shall"
+v.3 — ASV: adds "it shall come to pass"
+       NET: "seriously injured; yet" for KJV's "cut in pieces, though"
+       WEB: "severely wounded, and" for KJV's "cut in pieces, though"
+v.10 — NET: "pierced. They will lament" for KJV's "pierced, and they shall mourn"
+       WEB: "will grieve bitterly" for KJV's "shall be in bitterness"
+v.11 — NET: "the lamentation in Jerusalem will" for KJV's "shall there"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God is both Creator AND Redeemer (v.1). The same God who

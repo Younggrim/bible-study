@@ -257,6 +257,25 @@ v.19 — KJV: "the LORD made me understand in writing by his hand
        writing, but KJV's word order emphasizes God's hand
        resting on David as the medium of revelation.
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "said: “Listen to" for KJV's "said, Hear"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "understands every motive" for KJV's "understandeth all the imaginations"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: "mercy-seat;" for KJV's "mercy seat,"
+       NET: adds "its buildings, its treasuries, its upper areas, its inner..."
+       WEB: "temple, for its houses, for its treasuries, for its" for KJV's "porch, and of the houses thereof, and of the treasuries t..."
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "surrounding rooms, the storehouses" for KJV's "chambers round about,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.18 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "of the incense altar.He gave him the blueprint" for KJV's "by weight; and gold"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.19 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "David said, “All this I put" for KJV's "All this, said David, the LORD made me understand"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Pattern/    — Hebrew "tavnith" — a model, plan, or architectural

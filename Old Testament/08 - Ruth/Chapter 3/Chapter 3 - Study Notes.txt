@@ -263,6 +263,24 @@ v.15 — KJV: "Bring the vail that thou hast upon thee" / ESV: "Bring
        shawl that could be used to carry grain, not a face covering.
        ESV's "garment" is more appropriate.
 
+v.2 — ASV: "to-night" for KJV's "to night"
+       NET: "female servants you worked, is our close relative. Look, ..." for KJV's "maidens thou wast? Behold,"
+       WEB: "tonight on" for KJV's "to night in"
+v.3 — NET: "So bathe yourself, rub on some perfumed oil," for KJV's "Wash thyself therefore, and anoint thee, and put thy raim..."
+       WEB: "Therefore wash yourself, anoint yourself, get dressed," for KJV's "Wash thyself therefore,"
+v.7 — NET: "grain heap. Then Ruth crept up quietly," for KJV's "heap of corn: and she came softly, and"
+       WEB: "grain. She" for KJV's "corn: and she"
+v.9 — NET: "Ruth, your servant. Marry your servant," for KJV's "Ruth thine handmaid: spread therefore thy skirt over thin..."
+       WEB: "the corner of your garment" for KJV's "therefore thy skirt"
+v.10 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "He" for KJV's "And he"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — NET: "for you everything you propose, for everyone in the villa..." for KJV's "to thee all"
+       WEB: "don’t be afraid." for KJV's "fear not;"
+v.15 — ASV: "it; and" for KJV's "it. And when"
+       NET: "her shoulders. Then he" for KJV's "her: and she"
+       WEB: "her; then he" for KJV's "her: and she"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Bold faith within proper boundaries (v.9). Ruth's request is

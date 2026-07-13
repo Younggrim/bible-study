@@ -177,6 +177,24 @@ v.21 — KJV: "that perfect gold" / ESV: "of purest gold" — Hebrew
        and "perfect/purest gold" indicates different grades used for
        different purposes.
 
+v.2 — ASV: "compassed" for KJV's "did compass"
+       NET: "the big bronze basin called “The Sea.” It measured 15 feet" for KJV's "a molten sea of ten cubits"
+       WEB: "brim. It was round," for KJV's "brim, round in compass, and"
+v.3 — ASV: "cubits," for KJV's "in a cubit,"
+       NET: adds "every 18 inches all the way around. The bulls were"
+       WEB: "cubits, encircling" for KJV's "in a cubit, compassing"
+v.5 — ASV: "a handbreadth thick;" for KJV's "an handbreadth,"
+       NET: "cup shaped like a lily blossom. It could hold 18,000 gall..." for KJV's "cup, with flowers of lilies; and it received and held thr..."
+       WEB: "a handbreadth thick;" for KJV's "an handbreadth,"
+v.7 — ASV: "the ordinance concerning them;" for KJV's "their form,"
+       NET: "specifications" for KJV's "their form,"
+       WEB: "the ordinance concerning them;" for KJV's "their form,"
+v.16 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s temple were made from polished bronze." for KJV's "house of the LORD of bright brass."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.21 — NET: "pure gold flower-shaped ornaments," for KJV's "flowers, and the"
+       WEB: "tongs" for KJV's "tongs, made he"
+
 GLOSSARY
 ------------------------------------
 Molten Sea  — A massive circular bronze basin, 10 cubits (15 feet)

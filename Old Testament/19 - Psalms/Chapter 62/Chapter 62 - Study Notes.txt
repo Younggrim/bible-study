@@ -121,6 +121,16 @@ v.11 — KJV: "God hath spoken once; twice have I heard this" / ESV:
        "Once... twice" = definitively, with absolute clarity. What
        follows is beyond doubt.
 
+v.1 — ASV: "in silence for God only: From" for KJV's "upon God: from"
+       NET: "For the music director, Jeduthun; a psalm of David. For G..." for KJV's "Truly my soul waiteth upon God: from him cometh my salvat..."
+       WEB: "rests in God alone. My salvation is" for KJV's "waiteth upon God:"
+v.9 — ASV: adds "will go up; They"
+       NET: "nothing but a mere breath; human beings" for KJV's "vanity, and men of high degree"
+       WEB: adds "will go up. They"
+v.11 — ASV: "once, Twice" for KJV's "once; twice"
+       NET: "has declared one principle; two principles I" for KJV's "hath spoken once; twice"
+       WEB: "belongs to" for KJV's "belongeth unto"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Silence before God is strength, not weakness (v.1). In a world

@@ -235,6 +235,19 @@ v.16 — KJV: "Shophach the captain of the host of Hadarezer" / ESV:
        "Hadadezer" in ESV. The name means "Hadad is help" (with
        daleth) — Hadad being the Syrian storm god.
 
+v.3 — NET: "is trying to honor your father by sending these messenger..." for KJV's "doth honour thy father, that he hath sent comforters unto..."
+       WEB: "to you? Haven’t" for KJV's "unto thee? are not"
+v.4 — ASV: "middle, even to" for KJV's "midst hard by"
+       NET: "their beards off. He" for KJV's "them, and"
+       WEB: "middle at" for KJV's "midst hard by"
+v.6 — NET: "charioteers from Aram Naharaim, Aram Maacah," for KJV's "horsemen out of Mesopotamia,"
+       WEB: "When" for KJV's "And when"
+v.7 — NET: "The Ammonites also assembled" for KJV's "And the children of Ammon gathered themselves together"
+       WEB: "for themselves thirty-two" for KJV's "thirty and two"
+v.16 — ASV: "at their head." for KJV's "went before them."
+       NET: "for reinforcements from" for KJV's "messengers, and drew forth the Syrians that were"
+       WEB: "Hadadezer leading" for KJV's "Hadarezer went before"
+
 GLOSSARY
 ------------------------------------
 Nahash      — King of the Ammonites who had shown kindness to David,

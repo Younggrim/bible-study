@@ -122,6 +122,18 @@ v.4 — KJV: "The ungodly are not so" / ESV: "The wicked are not
       wicked get one dismissive phrase: "not so." They are defined
       only by what they are NOT.
 
+v.1 — ASV: "wicked, Nor" for KJV's "ungodly, nor"
+       NET: adds "follow the advice of the wicked, or stand"
+       WEB: "who doesn’t walk" for KJV's "that walketh not"
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "commands" for KJV's "delight is in the law of the LORD; and in his law doth he..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — ASV: "its season, Whose" for KJV's "his season; his"
+       NET: "proper time, and its leaves never fall off. He succeeds" for KJV's "rivers of water, that bringeth forth his fruit"
+       WEB: "its season, whose" for KJV's "his season; his"
+v.4 — ASV: "so, But" for KJV's "so: but"
+       NET: "Not so with the wicked! Instead they" for KJV's "The ungodly are not so: but"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Sin is progressive (v.1). Walking → standing → sitting. No one

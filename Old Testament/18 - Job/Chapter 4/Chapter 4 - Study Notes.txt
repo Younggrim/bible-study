@@ -163,6 +163,16 @@ v.19 — KJV: "crushed before the moth" / ESV: "crushed like the
        destroyed more easily than a moth; ESV says they are
        crushed AS easily as a moth. Both convey extreme fragility.
 
+v.2 — NET: "“If someone should attempt a word" for KJV's "If we assay to commune"
+       WEB: "“If someone ventures" for KJV's "If we assay"
+v.6 — ASV: "[And]" for KJV's "thy hope, and"
+       NET: "your blameless ways your hope?" for KJV's "the uprightness of thy ways?"
+       WEB: "Isn’t your piety your confidence? Isn’t" for KJV's "Is not this thy fear, thy confidence, thy hope, and"
+v.17 — NET: "righteous before" for KJV's "be more just than"
+v.19 — ASV: "more" for KJV's "less in"
+       NET: "more to those who live" for KJV's "less in them that dwell"
+       WEB: "more, those who" for KJV's "less in them that"
+
 GLOSSARY
 ------------------------------------
 Eliphaz       — "My God is gold/fine gold." The Temanite — from

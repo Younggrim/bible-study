@@ -203,6 +203,21 @@ v.39 — KJV: "we will not forsake the house of our God" / ESV: "We
        "not forsaking" His people (9:17, 19, 31) — now the people
        pledge the same loyalty back to God's house.
 
+v.1 — ASV: "were: Nehemiah" for KJV's "were, Nehemiah,"
+       NET: "Hacaliah, along with Zedekiah," for KJV's "Hachaliah, and Zidkijah,"
+       WEB: "were: Nehemiah" for KJV's "were, Nehemiah,"
+v.29 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "colleagues the town leaders" for KJV's "brethren, their nobles,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.31 — ASV: "and if the peoples of the land bring wares or any grain on the sabbath day to se..."
+       NET: adds "from the neighboring peoples who bring their wares and al..."
+       WEB: "from" for KJV's "it of"
+v.34 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "people—have cast lots concerning" for KJV's "people, for"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.39 — NET: "The Israelites" for KJV's "For the children of Israel"
+       WEB: adds "with the gatekeepers"
+
 GLOSSARY
 ------------------------------------
 Sealed/      — Hebrew "chatham" (to seal, affix a seal). The

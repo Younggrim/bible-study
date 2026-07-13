@@ -165,6 +165,17 @@ v.17 — KJV: "moveth his tail like a cedar" / ESV: "makes his tail
        euphemism for another body part, or that the comparison is
        to the cedar's movement in wind rather than its size.
 
+v.4 — ASV: "of small account; What" for KJV's "vile; what"
+       NET: "completely unworthy—how could" for KJV's "vile; what shall"
+       WEB: "of small account. What" for KJV's "vile; what"
+v.8 — ASV: "even annul" for KJV's "also disannul"
+       NET: "justice? Would you declare me guilty so" for KJV's "judgment? wilt thou condemn me,"
+       WEB: "Will you even annul" for KJV's "Wilt thou also disannul"
+v.15 — NET: "as I made you; it eats" for KJV's "with thee; he eateth"
+       WEB: "as well as you. He eats" for KJV's "with thee; he eateth"
+v.17 — NET: "tightly wound." for KJV's "wrapped together."
+       WEB: "cedar. The" for KJV's "cedar: the"
+
 GLOSSARY
 ------------------------------------
 Behemoth     — Hebrew intensive plural of "beast" — the ultimate

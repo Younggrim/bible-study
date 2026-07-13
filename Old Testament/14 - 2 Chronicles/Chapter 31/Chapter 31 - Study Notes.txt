@@ -202,6 +202,21 @@ v.21 — KJV: "he did it with all his heart, and prospered" / ESV:
        God's response to wholehearted devotion, not merely human
        achievement.
 
+v.1 — ASV: adds "in pieces"
+       NET: "throughout Judah, Benjamin, Ephraim," for KJV's "out of all Judah"
+       WEB: "Now when all this was finished, all Israel who were present went out to the citi..."
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "obedient to" for KJV's "encouraged in"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "as well as a tenth of the holy items consecrated to the L..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.20 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Judah. He did what the Lord his God considered" for KJV's "all Judah, and wrought that which was"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.21 — NET: "God’s temple" for KJV's "every work that he began in the service of the house of God,"
+       WEB: "God’s house," for KJV's "the house of God, and"
+
 GLOSSARY
 ------------------------------------
 Tithes      — Hebrew "ma'aser" (a tenth). The practice of giving

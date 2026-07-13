@@ -137,6 +137,19 @@ v.30 — KJV: "winneth souls" / ESV: "captures souls" — Hebrew
        likely means: the wise person attracts and influences others
        toward life — their character is magnetic.
 
+v.13 — ASV: "He that goeth about as a tale-bearer" for KJV's "A talebearer"
+       NET: "The one who goes about slandering others reveals secrets," for KJV's "A talebearer revealeth secrets:"
+       WEB: "One who brings gossip betrays a confidence," for KJV's "A talebearer revealeth secrets:"
+v.22 — ASV: "[So is]" for KJV's "so is"
+       NET: "pig’s snout" for KJV's "swine’s snout, so"
+       WEB: "who lacks" for KJV's "which is without"
+v.24 — ASV: "[it tendeth] only" for KJV's "it tendeth"
+       NET: "grows more wealthy, but another withholds" for KJV's "increaseth; and there is that withholdeth"
+       WEB: "one who scatters," for KJV's "that scattereth,"
+v.30 — ASV: adds "is wise"
+       NET: "the one who wins" for KJV's "he that winneth"
+       WEB: "life. He who" for KJV's "life; and he that winneth souls"
+
 GLOSSARY
 ------------------------------------
 False Balance  — Rigged scales used to cheat customers in

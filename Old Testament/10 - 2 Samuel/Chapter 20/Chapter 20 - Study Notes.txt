@@ -248,6 +248,24 @@ v.26 — KJV: "Ira also the Jairite was a chief ruler about
        directly as "priest." The term may indicate a personal
        chaplain or royal advisor with priestly functions.
 
+v.1 — ASV: "base fellow," for KJV's "man of Belial,"
+       NET: adds "trumpet and said, “We have no share in David; we have no ..."
+       WEB: "wicked fellow," for KJV's "man of Belial,"
+v.2 — ASV: "all the men" for KJV's "every man"
+       NET: "deserted David" for KJV's "went up from after David,"
+       WEB: "all the men" for KJV's "every man"
+v.8 — ASV: "Joab was girded with his apparel of war" for KJV's "Joab’s garment"
+       NET: "Now Joab was dressed in military attire and had a dagger ..." for KJV's "And Joab’s garment that"
+       WEB: "Joab was clothed in his apparel of war" for KJV's "And Joab’s garment"
+v.10 — ASV: "body," for KJV's "fifth rib,"
+       NET: "abdomen, causing Amasa’s intestines to spill" for KJV's "fifth rib, and shed"
+       WEB: "hand. So" for KJV's "hand: so"
+v.15 — NET: adds "its outer rampart. As all of Joab’s soldiers were trying ..."
+       WEB: "They" for KJV's "And they"
+v.26 — ASV: "minister unto" for KJV's "ruler about"
+       NET: "David’s personal priest." for KJV's "a chief ruler about David."
+       WEB: "minister to" for KJV's "ruler about"
+
 GLOSSARY
 ------------------------------------
 Man of Belial — Hebrew "ish beliya'al" = a worthless, wicked

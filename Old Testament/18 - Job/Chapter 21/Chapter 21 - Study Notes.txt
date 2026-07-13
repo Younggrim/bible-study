@@ -215,6 +215,20 @@ v.34 — KJV: "seeing in your answers there remaineth falsehood" /
        slightly softer: falsehood "remains" in your answers. Both
        are devastating evaluations.
 
+v.13 — ASV: "prosperity, And" for KJV's "wealth, and"
+       WEB: "prosperity. In an instant they" for KJV's "wealth, and in a moment"
+v.17 — ASV: "out? That their calamity" for KJV's "out! and how oft"
+       NET: "extinguished? How often does" for KJV's "put out! and how oft cometh"
+       WEB: "calamity comes on them, that" for KJV's "destruction upon them!"
+v.24 — ASV: "is moistened." for KJV's "are moistened with marrow."
+       NET: "his body well nourished, and the marrow" for KJV's "His breasts are full"
+       WEB: "milk. The marrow of" for KJV's "milk, and"
+v.30 — ASV: "are led" for KJV's "shall be brought"
+       NET: "his misfortune, that he is delivered from" for KJV's "destruction? they shall be brought forth to"
+       WEB: "are led out" for KJV's "shall be brought forth"
+v.34 — NET: "with your futile words? Nothing is left of" for KJV's "in vain, seeing in"
+       WEB: "remains only falsehood?”" for KJV's "remaineth falsehood?"
+
 GLOSSARY
 ------------------------------------
 Retribution   — The theological framework that expects direct,

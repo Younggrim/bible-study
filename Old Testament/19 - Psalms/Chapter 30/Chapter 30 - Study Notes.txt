@@ -111,6 +111,18 @@ v.11 — KJV: "girded me with gladness" / ESV: "clothed me with
        Like changing garments — sackcloth removed, gladness put on
        like a festive robe. Joy as clothing you wear visibly.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "A psalm, a song used at the dedication of the temple; by ..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — ASV: adds "life-time: Weeping may tarry for the"
+       NET: "good favor restores one’s life. One" for KJV's "favour is life: weeping"
+       WEB: adds "moment. His favor is for a lifetime. Weeping may stay for..."
+v.9 — NET: "life, in my descending into" for KJV's "blood, when I go down to"
+       WEB: "destruction, if" for KJV's "blood, when"
+v.11 — ASV: "dancing; Thou" for KJV's "dancing: thou"
+       NET: "dancing; you removed" for KJV's "dancing: thou hast put off"
+       WEB: "dancing for me. You have removed" for KJV's "dancing: thou hast put off"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Joy comes in the morning (v.5). Whatever night you are in, it

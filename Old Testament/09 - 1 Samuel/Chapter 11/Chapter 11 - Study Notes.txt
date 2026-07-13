@@ -207,6 +207,19 @@ v.13 — KJV: "the LORD hath wrought salvation in Israel" / ESV: "the
        the victory entirely to God — the proper response of a Spirit-
        empowered leader.
 
+v.1 — NET: "Jabesh Gilead. All" for KJV's "Jabesh-gilead: and all"
+v.2 — ASV: adds "I will"
+       NET: adds "the right eye of every one of you and in so doing humiliate"
+       WEB: "eyes be gouged out. I will make this dishonor" for KJV's "eyes, and lay it for a reproach upon"
+v.6 — NET: "he became very angry." for KJV's "his anger was kindled greatly."
+       WEB: "burned hot." for KJV's "was kindled greatly."
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Samuel should expect this to" for KJV's "Samuel, so shall it"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "“No one will be killed on this day. For today the Lord ha..." for KJV's "There shall not"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Nahash         — Hebrew "Nachash" = serpent. King of the Ammonites.

@@ -173,6 +173,17 @@ v.20 — KJV: "God will not cast away a perfect man" / ESV: "God
        Himself. Bildad uses the word not knowing he is actually
        describing Job.
 
+v.2 — ASV: "And [how long]" for KJV's "and how long"
+       NET: "things, seeing that" for KJV's "things? and how long shall"
+       WEB: "will you" for KJV's "wilt thou"
+v.11 — NET: "tall where there is no marsh? Can reeds flourish" for KJV's "up without mire? can the flag grow"
+v.14 — ASV: "break in sunder, And" for KJV's "be cut off, and"
+       NET: "is in something futile, whose security is" for KJV's "shall be"
+       WEB: "break apart, Whose" for KJV's "be cut off, and whose"
+v.20 — ASV: "evil-doers." for KJV's "evil doers:"
+       NET: "hand of the evildoers." for KJV's "evil doers:"
+       WEB: "evildoers." for KJV's "evil doers:"
+
 GLOSSARY
 ------------------------------------
 Bildad        — "Son of contention" or "Bel has loved." The

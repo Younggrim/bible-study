@@ -250,6 +250,18 @@ v.27 — KJV: "eat their own dung, and drink their own piss" / ESV:
        translations follow the written text (Ketiv), preserving
        the Rabshakeh's intentional crudeness.
 
+v.4 — NET: "Asherah pole. He also demolished" for KJV's "groves, and brake in pieces"
+       WEB: "Asherah. He also broke" for KJV's "groves, and brake"
+v.17 — ASV: "army unto" for KJV's "host against"
+       NET: "field where they wash and dry cloth." for KJV's "fuller’s field."
+       WEB: "army to" for KJV's "host against"
+v.26 — ASV: "Jews` language," for KJV's "Jews’ language"
+       NET: "Judahite dialect" for KJV's "Jews’ language"
+       WEB: "it. Don’t speak" for KJV's "it: and talk not"
+v.27 — ASV: "[hath he]" for KJV's "hath he"
+       NET: adds "your master and to you. His message is also for"
+       WEB: "your master" for KJV's "thy master,"
+
 GLOSSARY
 ------------------------------------
 Hezekiah    — King of Judah (c. 715-686 BC). Son of the wicked

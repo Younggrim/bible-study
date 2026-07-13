@@ -108,6 +108,18 @@ v.13 — "inhabitant of the valley, and rock of the plain" (KJV)
       on a rock plateau. The city trusted its terrain; God says
       terrain won't help.
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "perform one of his miracles as in times past and make him..." for KJV's "deal with"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Israel, says, ‘The forces at your disposal are now outsid..." for KJV's "Israel; Behold,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — NET: "Babylonians who are besieging it will live. They will esc..." for KJV's "Chaldeans that besiege you, he shall live, and his life s..."
+       WEB: adds "he will escape with"
+v.13 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord. ‘You boast, “No one can swoop" for KJV's "valley, and rock of the plain, saith the LORD; which say,..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Outstretched Arm Reversed — The most devastating image in

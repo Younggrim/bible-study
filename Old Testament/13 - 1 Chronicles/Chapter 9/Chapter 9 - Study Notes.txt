@@ -188,6 +188,24 @@ v.33 — KJV: "who remaining in the chambers were free" / ESV: "were
        entirely to music ministry. This is an early precedent for
        full-time worship ministry.
 
+v.1 — ASV: "Judah was" for KJV's "Judah, who were"
+       NET: "Israel.The people of Judah" for KJV's "Israel and Judah, who"
+       WEB: "Israel. Judah was" for KJV's "Israel and Judah, who were"
+v.2 — ASV: "were Israel," for KJV's "were, the Israelites,"
+       NET: "temple servants." for KJV's "the Nethinims."
+       WEB: "were Israel," for KJV's "were, the Israelites,"
+v.11 — NET: "leader in God’s temple;" for KJV's "ruler of the house of God;"
+       WEB: "God’s house;" for KJV's "the house of God;"
+v.17 — ASV: "brethren (Shallum" for KJV's "brethren: Shallum"
+       NET: "The gatekeepers were:Shallum," for KJV's "And the porters were, Shallum, and"
+       WEB: "brothers (Shallum" for KJV's "brethren: Shallum"
+v.22 — ASV: "office of trust." for KJV's "set office."
+       NET: "prophet had appointed them to" for KJV's "seer did ordain in"
+       WEB: "office of trust." for KJV's "set office."
+v.33 — ASV: "[and were] free [from other service];" for KJV's "were free:"
+       NET: "The musicians and Levite family leaders stayed in rooms at" for KJV's "And these are"
+       WEB: "fathers’ households" for KJV's "the fathers"
+
 GLOSSARY
 ------------------------------------
 Nethinim/   — "Given ones." Temple servants assigned to assist

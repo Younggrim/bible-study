@@ -201,6 +201,19 @@ v.15 — KJV: "the city Shushan was perplexed" / ESV: "the city of
        population — Jews and non-Jews alike were disturbed by the
        sudden, inexplicable decree of genocide.
 
+v.1 — NET: "Some time later King" for KJV's "After these things did king"
+       WEB: "King" for KJV's "did king"
+v.4 — NET: "him day after day without his paying any attention to them," for KJV's "pass, when"
+       WEB: "didn’t listen to" for KJV's "hearkened not unto"
+v.7 — ASV: "[month], which is" for KJV's "month, that is,"
+       NET: "King Ahasuerus’ reign, pur (that" for KJV's "king Ahasuerus, they cast Pur, that"
+       WEB: "which is" for KJV's "that is,"
+v.9 — NET: "issued to destroy them." for KJV's "written that they may be destroyed: and"
+       WEB: "who are in" for KJV's "that have the"
+v.15 — ASV: "forth in haste" for KJV's "out, being hastened"
+       NET: "order. The edict was issued in Susa" for KJV's "commandment, and"
+       WEB: "citadel of Susa. The" for KJV's "palace. And the"
+
 GLOSSARY
 ------------------------------------
 Agagite      — Descendant of Agag, king of the Amalekites

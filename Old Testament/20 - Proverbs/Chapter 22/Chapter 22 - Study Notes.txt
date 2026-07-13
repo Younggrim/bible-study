@@ -131,6 +131,15 @@ v.29 — KJV: "mean men" / ESV: "obscure men" — Hebrew "chashukkim"
        above obscurity to stand in the presence of nobility.
        Excellence elevates.
 
+v.1 — NET: "wealth, good favor more" for KJV's "riches, and loving favour rather"
+       WEB: "favor is better" for KJV's "favour rather"
+v.6 — ASV: "go, And even" for KJV's "go: and"
+v.13 — ASV: "sluggard" for KJV's "slothful man"
+       NET: "sluggard has said, “There" for KJV's "slothful man saith, There"
+       WEB: "sluggard says, “There" for KJV's "slothful man saith, There"
+v.29 — NET: "will take his position" for KJV's "shall stand"
+       WEB: "work? He will serve kings. He won’t serve obscure" for KJV's "business? he shall stand before kings; he shall not stand..."
+
 GLOSSARY
 ------------------------------------
 Good Name      — Hebrew "shem tov" = good name/reputation. The

@@ -140,6 +140,21 @@ v.23 — "ye shall pine away for your iniquities" (KJV) — Hebrew
       your sins. The grief will be internal and consuming, not
       expressed outwardly in normal mourning rituals.
 
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "“‘Therefore this is what" for KJV's "Wherefore thus saith"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.16 — ASV: adds "thou shalt"
+       NET: adds "the delight of your eyes"
+       WEB: adds "you shall"
+v.17 — ASV: "Sigh, but not aloud," for KJV's "Forbear to cry,"
+       NET: "but do not perform mourning rites. Bind on your turban" for KJV's "bind the tire of thine head upon thee,"
+       WEB: "dead. Bind your headdress on you," for KJV's "dead, bind the tire of thine head upon thee,"
+v.21 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "life’s passion. Your very own"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.23 — NET: "groan among yourselves." for KJV's "mourn one toward another."
+       WEB: "Your turbans will" for KJV's "And your tires shall"
+
 GLOSSARY
 ------------------------------------
 The Boiling Pot — Jerusalem under siege. The corroded cauldron

@@ -149,6 +149,19 @@ v.35 — "YHWH-Shammah" — Hebrew "Yahweh Shāmmāh" = "The LORD is
       Shalom (peace), YHWH-Shammah (is there). The final name.
       The ultimate revelation. God IS PRESENT.
 
+v.1 — ASV: "Damascus, northward beside Hamath, (and they shall have t..." for KJV's "Damascus northward, to the coast of Hamath; for these are..."
+       NET: "Damascus, toward the north beside Hamath), extending from..." for KJV's "Damascus northward,"
+       WEB: "Damascus, northward beside Hamath (and they shall have their" for KJV's "Damascus northward, to the coast of Hamath; for these are..."
+v.28 — ASV: "brook [of Egypt], unto" for KJV's "river toward"
+       NET: "Stream of Egypt, and on to" for KJV's "river toward"
+       WEB: "brook, to" for KJV's "river toward"
+v.31 — ASV: "northward: the" for KJV's "northward; one"
+       NET: "named for" for KJV's "after the names of"
+       WEB: "northward: the" for KJV's "northward; one"
+v.35 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "forward will be: ‘The Lord Is There.’”" for KJV's "shall be, The LORD is there."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 YHWH-Shammah — "The LORD Is There" — the eternal name of the

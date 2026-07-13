@@ -191,6 +191,20 @@ v.26 — KJV: "the daughter of Omri" / ESV: "a granddaughter of
        descendant of any generation. ESV clarifies; KJV preserves
        the Hebrew idiom.
 
+v.10 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "‘You will surely recover,’ but" for KJV's "Thou mayest certainly recover: howbeit"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — NET: "Hazael became uncomfortable. Then" for KJV's "he was ashamed: and"
+       WEB: "gaze steadfastly on him," for KJV's "countenance stedfastly,"
+v.15 — ASV: "the coverlet," for KJV's "a thick cloth,"
+       NET: "over Ben Hadad’s face until" for KJV's "on his face, so that"
+       WEB: "died. Then" for KJV's "died: and"
+v.19 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "the sake of his servant"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.26 — NET: "Ahaziah was twenty-two" for KJV's "Two and twenty"
+       WEB: "Ahaziah was twenty-two" for KJV's "Two and twenty"
+
 GLOSSARY
 ------------------------------------
 Hazael       — A court official who murdered Ben-hadad and became

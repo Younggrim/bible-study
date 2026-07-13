@@ -197,6 +197,20 @@ v.26 — KJV: "her bowels yearned upon her son" / ESV: "her heart
        the ancient understanding of deep emotion residing in the
        internal organs; ESV modernizes to "heart."
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Egypt; he married" for KJV's "Egypt, and took"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "father David, except that" for KJV's "father: only"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — NET: "a discerning mind so he can make judicial decisions for y..." for KJV's "an understanding heart to judge thy people, that I may di..."
+       WEB: "people of yours?”" for KJV's "a people?"
+v.16 — NET: adds "two prostitutes"
+       WEB: adds "two women who were prostitutes"
+v.26 — ASV: "It shall" for KJV's "Let it"
+       NET: "child! Whatever you do, don’t kill him!”" for KJV's "child, and in no wise slay it."
+       WEB: "yours. Divide him.”" for KJV's "thine, but divide it."
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. What would you ask for if God said "Ask what I shall give thee"?

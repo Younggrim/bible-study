@@ -188,6 +188,21 @@ v.40 — KJV: "choice and mighty men of valour, chief of the
        KJV's "choice" and ESV's "approved" both convey that these
        were elite warriors, the best of Asher.
 
+v.1 — ASV: "Issachar:" for KJV's "Issachar were,"
+       NET: "Shimron—four in all." for KJV's "Shimrom, four."
+       WEB: "Issachar:" for KJV's "Issachar were,"
+v.12 — NET: "Hushites were descendants" for KJV's "children of Ir, and Hushim, the sons"
+       WEB: "So were Shuppim," for KJV's "Shuppim also, and"
+v.14 — ASV: "Manasseh: Asriel," for KJV's "Manasseh; Ashriel,"
+       NET: "Manasseh: Asriel, who was born to Manasseh’s Aramean conc..." for KJV's "Manasseh; Ashriel, whom she bare: (but his concubine the ..."
+       WEB: "Manasseh: Asriel," for KJV's "Manasseh; Ashriel,"
+v.23 — NET: "He slept with his wife; she became pregnant and gave birt..." for KJV's "And when he went in"
+       WEB: "there was trouble" for KJV's "it went evil"
+v.27 — NET: "son Nun, and" for KJV's "son, Jehoshuah"
+v.40 — ASV: "reckoned by genealogy for service in" for KJV's "that were apt to the"
+       NET: "served as head chiefs. There were 26,000 warriors listed ..." for KJV's "mighty men"
+       WEB: "listed by genealogy for service in" for KJV's "that were apt to the"
+
 GLOSSARY
 ------------------------------------
 Issachar    — Ninth son of Jacob, fifth by Leah. His tribe settled

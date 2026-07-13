@@ -107,6 +107,19 @@ v.7  — "heart to know me" (KJV/ESV) — Hebrew "lev la-da'at oti"
       DESIGNED for knowledge of God — it's the new heart's
       intended function.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "deported Jehoiakim’s son, King" for KJV's "had carried away captive"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.2 — ASV: "first-ripe;" for KJV's "first ripe:"
+       NET: "good-looking figs in it. They looked" for KJV's "good figs, even"
+       WEB: "first-ripe;" for KJV's "first ripe:"
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Babylon are like those good figs. I consider them to be" for KJV's "the Chaldeans for their"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "acknowledge" for KJV's "know me,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Good Figs    — The exiles in Babylon (597 BC, first deportation).

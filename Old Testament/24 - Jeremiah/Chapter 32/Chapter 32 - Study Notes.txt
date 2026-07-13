@@ -109,6 +109,18 @@ v.27 — "is there any thing too hard for me?" (KJV/ESV) — Hebrew
       wonderful/extraordinary for Me? The word "pala" = miraculous,
       beyond human capacity.
 
+v.9 — NET: adds "at Anathoth from my cousin Hanamel. I weighed out seven o..."
+       WEB: adds "that was in Anathoth"
+v.11 — ASV: "sealed, [according to]" for KJV's "sealed according to"
+       NET: "the conditions of purchase. The other" for KJV's "custom, and that which"
+       WEB: "sealed, containing" for KJV's "sealed according to"
+v.14 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "be preserved for a long time to come.”’" for KJV's "continue many days."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.27 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "humankind. There is, indeed, nothing" for KJV's "flesh: is there any thing"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Field Purchase — Jeremiah buying real estate during a siege as a

@@ -137,6 +137,20 @@ TRANSLATION COMPARISON
 ------------------------------------
 
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "A psalm by Asaph. El," for KJV's "The mighty"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — ASV: "burnt-offerings are" for KJV's "burnt offerings, to have been"
+       NET: "condemning you because of your sacrifices, or because of ..." for KJV's "reprove thee for thy"
+       WEB: "your sacrifices. Your" for KJV's "thy sacrifices or thy"
+v.16 — ASV: "hast taken" for KJV's "shouldest take"
+       NET: "commands, and talk about" for KJV's "statutes, or that thou shouldest take"
+       WEB: "says, “What right" for KJV's "saith, What hast thou to"
+v.18 — NET: "men who are unfaithful to their wives." for KJV's "him, and hast been partaker with adulterers."
+       WEB: "have participated" for KJV's "hast been partaker"
+v.21 — NET: "silent, so you thought I was exactly like you. But now" for KJV's "altogether such an one as thyself: but"
+       WEB: "You have done these things," for KJV's "These things hast thou done,"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God does not need our worship — He wants our hearts. This

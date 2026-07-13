@@ -205,6 +205,20 @@ v.39 — KJV: "I am this day weak, though anointed king" / ESV: "And I
        choice. Both meanings are present — David is both unable and
        unwilling to match Joab's violence.
 
+v.6 — NET: "was becoming more influential in" for KJV's "made himself strong for"
+       WEB: "in Saul’s house." for KJV's "for the house of Saul."
+v.8 — ASV: "dog`s head that belongeth to Judah? This day" for KJV's "dog’s head, which against Judah"
+       NET: "dog that belongs to Judah? This very" for KJV's "dog’s head, which against Judah do shew kindness this"
+       WEB: "head that belongs to Judah? Today I show" for KJV's "head, which against Judah do shew"
+v.29 — ASV: "fall upon" for KJV's "rest on"
+       NET: "one who falls by the sword" for KJV's "that is a leper,"
+       WEB: "who lacks bread.”" for KJV's "that lacketh bread."
+v.33 — NET: "following lament for Abner: “Should" for KJV's "king lamented over Abner, and said, Died"
+       WEB: "The" for KJV's "And the"
+v.39 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord punish appropriately" for KJV's "LORD shall reward"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Concubine      — A secondary wife with legal status but lower rank

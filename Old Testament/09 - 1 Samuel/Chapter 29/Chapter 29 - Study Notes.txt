@@ -170,6 +170,21 @@ v.9  — KJV: "as an angel of God" / ESV: "as an angel of God" —
        can give — comparing David to a divine being in goodness and
        trustworthiness.
 
+v.2 — ASV: "thousands; and" for KJV's "thousands: but"
+       NET: "were passing in review at the head of their units of hund..." for KJV's "passed on by hundreds,"
+       WEB: "thousands; and" for KJV's "thousands: but"
+v.3 — ASV: "away [unto me]" for KJV's "unto me"
+       NET: "from the day of his defection until the present time!”" for KJV's "since he fell unto me unto this day?"
+       WEB: adds "the princes of the Philistines said, “What about these He..."
+v.4 — ASV: "the man" for KJV's "this fellow"
+       NET: "man back! Let him return to" for KJV's "princes of"
+       WEB: "us. For with what" for KJV's "us: for wherewith"
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "that you first came to me until the present time. But in ..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — NET: "“I am convinced" for KJV's "I know"
+       WEB: "God. Notwithstanding" for KJV's "God: notwithstanding"
+
 GLOSSARY
 ------------------------------------
 Lords of the Philistines — Hebrew "seranim" (vv.2, 6, 7) = the five

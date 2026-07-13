@@ -133,6 +133,20 @@ TRANSLATION COMPARISON
 ------------------------------------
 
 
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "stronghold. (Selah)" for KJV's "refuge. Selah."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord, who brings devastation to" for KJV's "LORD, what desolations he hath made in"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "stronghold! (Selah)" for KJV's "refuge. Selah."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.1 — NET: adds "For the music director, by the Korahites; according to th..."
+v.2 — ASV: "do change, And" for KJV's "be removed, and"
+       NET: "For this reason we do" for KJV's "Therefore will"
+       WEB: "are shaken" for KJV's "be carried"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God is refuge, not merely resource. He is not simply someone we

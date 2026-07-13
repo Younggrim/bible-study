@@ -208,6 +208,19 @@ v.31 — KJV: "Remember me, O my God, for good" / ESV: "Remember
        consideration. "For good" (le-tovah) trusts that God's
        remembrance will result in favorable treatment.
 
+v.4 — ASV: "chambers" for KJV's "oversight of the chamber"
+       NET: "temple" for KJV's "chamber of the house"
+       WEB: "to Tobiah," for KJV's "unto Tobiah:"
+v.8 — NET: "was very upset, and I threw" for KJV's "cast forth"
+       WEB: "severely. Therefore" for KJV's "sore: therefore"
+v.15 — ASV: "[against them]" for KJV's "against them"
+       NET: "loading them onto donkeys, along with" for KJV's "lading asses; as also"
+       WEB: "loading donkeys;" for KJV's "lading asses; as"
+v.25 — NET: adds "them. I called down a curse on"
+       WEB: "“You" for KJV's "saying, Ye"
+v.31 — ASV: "wood-offering," for KJV's "wood offering,"
+       NET: "Please remember me for good," for KJV's "Remember me,"
+
 GLOSSARY
 ------------------------------------
 Contended    — Hebrew "riv" (to strive, contend, bring a legal

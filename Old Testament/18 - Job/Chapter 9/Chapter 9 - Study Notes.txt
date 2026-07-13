@@ -170,6 +170,18 @@ v.33 — KJV: "daysman" / ESV: "arbiter" — Hebrew "mokiach" = one
        date) for both parties. ESV "arbiter" is clearer but loses
        the evocative quality of the archaic term.
 
+v.9 — NET: "He makes the Bear," for KJV's "Which maketh Arcturus,"
+       WEB: "He makes the Bear," for KJV's "Which maketh Arcturus,"
+v.13 — ASV: "anger; The" for KJV's "anger, the proud"
+       NET: "of Rahab lie crushed." for KJV's "do stoop under him."
+       WEB: "anger. The" for KJV's "anger, the proud"
+v.26 — ASV: "swoopeth on" for KJV's "hasteth to"
+       NET: "glide by like reed boats, like an" for KJV's "are passed away as the swift ships: as the"
+       WEB: "swoops on" for KJV's "hasteth to"
+v.33 — ASV: "no umpire" for KJV's "there any daysman"
+       NET: "an arbiter between" for KJV's "any daysman betwixt"
+       WEB: "no umpire between" for KJV's "there any daysman betwixt"
+
 GLOSSARY
 ------------------------------------
 Daysman       — (v.33, KJV) An archaic English term for an

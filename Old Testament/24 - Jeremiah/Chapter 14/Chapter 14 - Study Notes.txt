@@ -113,6 +113,18 @@ v.14 — "divination" (KJV/ESV) — Hebrew "qesem" = the practice of
       seeking omens or supernatural knowledge apart from God.
       False prophets' messages come from divination, not revelation.
 
+v.2 — NET: "are in mourning. The people in her cities are pining away..." for KJV's "mourneth, and"
+       WEB: adds "its gates languish. They sit in black on"
+v.4 — ASV: "are put to shame," for KJV's "were ashamed,"
+       NET: "land. The farmers, too, are dismayed and bury" for KJV's "earth, the plowmen were ashamed, they covered"
+       WEB: "are disappointed. They cover" for KJV's "were ashamed, they covered"
+v.6 — ASV: "bare heights," for KJV's "high places,"
+       NET: "are strained looking for food," for KJV's "did fail,"
+       WEB: "bare heights. They pant for air" for KJV's "wild asses did stand in the high places, they snuffed up ..."
+v.14 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "did not commission them. I did not speak to them. They ar..." for KJV's "commanded them, neither spake unto them: they prophesy un..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Drought as Judgment — In a land dependent on seasonal rains,

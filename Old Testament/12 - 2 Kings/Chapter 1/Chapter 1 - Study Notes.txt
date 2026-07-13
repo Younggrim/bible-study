@@ -184,6 +184,16 @@ v.13 — KJV: "be precious in thy sight" / ESV: "be precious in your
        captain asks Elijah to value their lives — to see them as
        having worth. This is the language of appeal, not demand.
 
+v.2 — NET: "messengers with these orders, “Go, ask Baal Zebub," for KJV's "messengers, and said unto them, Go, enquire of Baal-zebub"
+       WEB: "“Go, inquire" for KJV's "Go, enquire"
+v.8 — NET: "They replied, “He" for KJV's "And they answered him, He"
+       WEB: "waist.” He" for KJV's "loins. And he"
+v.10 — NET: "your 50 soldiers!” Fire then" for KJV's "thy fifty. And there"
+       WEB: "your fifty!” Then fire" for KJV's "thy fifty. And there"
+v.13 — ASV: "the" for KJV's "again a"
+       NET: "and his 50 soldiers. This third captain" for KJV's "of fifty"
+       WEB: "please" for KJV's "I pray thee,"
+
 GLOSSARY
 ------------------------------------
 Baal-zebub   — "Lord of the flies." The god of the Philistine city

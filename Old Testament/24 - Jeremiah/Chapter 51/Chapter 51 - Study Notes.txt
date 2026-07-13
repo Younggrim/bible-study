@@ -71,6 +71,18 @@ v.27 — "Ararat, Minni, and Ashchenaz" (KJV/ESV) — Kingdoms in modern Armenia
 
 v.59 — "Seraiah" (KJV/ESV) — Son of Neriah, brother of Baruch (Jeremiah's scribe). A high official who traveled with Zedekiah. His mission: carry and perform the prophetic act in Babylon itself.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "The Lord says: “I will cause a destructive wind to blow a..." for KJV's "Thus saith"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "whole world drunk. The nations had drunk from" for KJV's "earth drunken:"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.27 — NET: adds "to do battle. Prepare the nations to do battle"
+       WEB: "Ashkenaz! Appoint" for KJV's "Ashchenaz; appoint"
+v.59 — ASV: "chief chamberlain." for KJV's "a quiet prince."
+       NET: "This is the order" for KJV's "The word which"
+       WEB: "chief quartermaster." for KJV's "a quiet prince."
+
 GLOSSARY
 ------------------------------------
 Golden Cup — Babylon as God's precious instrument: beautiful, valuable, USED for divine purposes. But instruments have expiration dates. The cup that intoxicated nations is itself discarded.

@@ -183,6 +183,19 @@ v.18 — KJV: "Tadmor" / ESV: "Tamar" — A textual variant. "Tadmor"
        in the Judean wilderness. The identification affects how far
        Solomon's building program extended.
 
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "“I have answered your prayer and your request for help th..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "This temple will become a heap of ruins; everyone who passes" for KJV's "And at this house, which is high, every one that passeth"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — NET: adds "towns, my friend?” He called that area the region of Cabu..."
+       WEB: "brother?” He" for KJV's "brother? And he"
+v.15 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s temple, his palace," for KJV's "house of"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.18 — WEB: "Tamar" for KJV's "and Tadmor"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God's greatest warnings come at moments of greatest success

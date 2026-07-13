@@ -144,6 +144,16 @@ v.16 — "Gabriel" (KJV/ESV) — Hebrew "Gavri'el" = "mighty one of
       1:19,26). The same messenger for Israel's darkest hour and
       brightest hope.
 
+v.1 — NET: "King Belshazzar’s reign," for KJV's "the reign of king Belshazzar"
+       WEB: "to me," for KJV's "unto me"
+v.9 — ASV: "glorious [land]." for KJV's "pleasant land."
+       NET: "but it grew to be very great" for KJV's "which waxed exceeding great,"
+       WEB: "Out" for KJV's "And out"
+v.14 — NET: "“To 2,300 evenings" for KJV's "Unto two thousand"
+       WEB: "evenings and mornings. Then" for KJV's "days; then shall"
+v.16 — ASV: adds "[the banks of]"
+       NET: "the Ulai. It called out, “Gabriel, enable" for KJV's "Ulai, which called, and said, Gabriel, make"
+
 GLOSSARY
 ------------------------------------
 The Notable Horn — Alexander the Great (356-323 BC). Conquered

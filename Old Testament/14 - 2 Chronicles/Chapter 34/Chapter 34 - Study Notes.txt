@@ -206,6 +206,20 @@ v.27 — KJV: "thine heart was tender" / ESV: "your heart was
        God's Word. A tender heart is pliable, responsive,
        easily impressed by divine truth.
 
+v.3 — NET: "ancestor David. In his" for KJV's "father: and in the"
+       WEB: "Asherah poles," for KJV's "groves, and"
+v.6 — NET: "and in the ruins around them," for KJV's "with their mattocks round about."
+       WEB: "ruins." for KJV's "mattocks round about."
+v.14 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s temple," for KJV's "house of the LORD,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.22 — ASV: "[had commanded]," for KJV's "had appointed,"
+       NET: "Mishneh district.) They stated their business," for KJV's "college:) and they spake to her to that effect."
+       WEB: "So Hilkiah, and they whom the king had commanded, went to Huldah the prophetess,..."
+v.27 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "its residents. You humbled yourself before me, tore your ..." for KJV's "against the inhabitants thereof,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Book of     — Hebrew "sepher ha-torah" (scroll of the

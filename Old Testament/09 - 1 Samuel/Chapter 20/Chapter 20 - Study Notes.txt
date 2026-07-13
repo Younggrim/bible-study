@@ -206,6 +206,22 @@ v.41 — KJV: "until David exceeded" / ESV: "David weeping the most" —
        more to grieve — he was losing his friend, his home, his
        position, and his safety.
 
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "is very much aware of the fact" for KJV's "certainly knoweth"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.14 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "am still alive, extend to" for KJV's "live shew"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.29 — NET: "brothers.’ For that reason" for KJV's "brethren. Therefore"
+       WEB: "city. My brother has" for KJV's "city; and my brother, he hath"
+v.30 — NET: "Saul became angry with Jonathan" for KJV's "Then Saul’s anger was kindled against Jonathan,"
+       WEB: "you have" for KJV's "thou hast"
+v.40 — NET: "equipment" for KJV's "artillery unto his lad, and said unto him, Go, carry them"
+       WEB: "weapons to" for KJV's "artillery unto"
+v.41 — ASV: "[a place]" for KJV's "a place"
+       NET: "both wept, especially David." for KJV's "kissed one another, and wept one with another, until Davi..."
+       WEB: "times. They" for KJV's "times: and they"
+
 GLOSSARY
 ------------------------------------
 New Moon       — Hebrew "chodesh" (vv.5, 18, 24) = the first day of

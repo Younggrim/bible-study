@@ -145,6 +145,16 @@ v.24 — "brake all their bones in pieces" (KJV) — Aramaic "haddequ
       They didn't spare Daniel because they weren't hungry — God
       actively restrained them.
 
+v.3 — NET: adds "satraps, for he had an extraordinary spirit. In fact, the"
+v.10 — ASV: "house (now" for KJV's "house; and"
+       NET: adds "a written decree had been issued, he entered his home, where"
+       WEB: "house (now" for KJV's "house; and"
+v.22 — NET: "any harm to you, O king.”" for KJV's "no hurt."
+       WEB: "me; because" for KJV's "me: forasmuch"
+v.24 — ASV: "pieces, before" for KJV's "pieces or ever"
+       NET: "wives. They did not even reach" for KJV's "wives; and the lions had the mastery of them, and brake a..."
+       WEB: "pieces, before" for KJV's "pieces or ever"
+
 GLOSSARY
 ------------------------------------
 The Lions' Den — A pit or underground chamber where lions were

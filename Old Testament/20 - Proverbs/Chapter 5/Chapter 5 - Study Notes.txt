@@ -141,6 +141,21 @@ v.22 — KJV: "holden with the cords of his sins" / ESV: "held fast
        too strong to break. Progressive bondage through repeated
        sin.
 
+v.3 — ASV: "honey, And" for KJV's "as an honeycomb, and"
+       NET: "seductive words are" for KJV's "mouth is"
+       WEB: "adulteress drip honey. Her" for KJV's "honeycomb, and her"
+v.6 — ASV: "unstable, [and] she knoweth [it] not." for KJV's "moveable, that thou canst not know them."
+       NET: "paths have wandered, but she is" for KJV's "ways are moveable, that thou canst"
+       WEB: "crooked, and she doesn’t" for KJV's "moveable, that thou canst not"
+v.19 — ASV: "doe, Let" for KJV's "roe; let"
+       NET: "doe, a graceful deer; may" for KJV's "hind and pleasant roe; let"
+       WEB: "times. Be captivated" for KJV's "times; and be thou ravished"
+v.20 — NET: "should you be captivated," for KJV's "wilt thou,"
+       WEB: "an adulteress? Why" for KJV's "a strange woman, and"
+v.22 — ASV: "wicked, And" for KJV's "wicked himself, and"
+       NET: "iniquities," for KJV's "iniquities shall take the wicked himself,"
+       WEB: "The evil deeds of" for KJV's "His own iniquities shall take"
+
 GLOSSARY
 ------------------------------------
 Wormwood       — A bitter plant (Artemisia) used as a metaphor for

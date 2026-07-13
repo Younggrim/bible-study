@@ -240,6 +240,22 @@ v.32 — KJV: "Agag came unto him delicately" / ESV: "Agag came to him
        words — "Surely the bitterness of death is past" — support the
        reading that he thought he had been spared.
 
+v.3 — NET: "strike down the Amalekites. Destroy everything they have...." for KJV's "smite Amalek,"
+       WEB: "them;" for KJV's "them not;"
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "done what I told him to do.” Samuel became angry" for KJV's "performed my commandments. And it grieved Samuel;"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.22 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "sacrifice; paying attention is better" for KJV's "sacrifice, and to hearken"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.23 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "like the evil of" for KJV's "as iniquity and"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.29 — NET: "go back on his word or change his mind," for KJV's "lie nor repent:"
+       WEB: "Also" for KJV's "And also"
+v.32 — NET: "trembling, thinking to himself, “Surely" for KJV's "delicately. And Agag said, Surely the bitterness of"
+       WEB: "Amalekites here to me!”" for KJV's "Amalekites. And"
+
 GLOSSARY
 ------------------------------------
 Cherem/Ban     — Hebrew "cherem" = devotion to destruction. A form of

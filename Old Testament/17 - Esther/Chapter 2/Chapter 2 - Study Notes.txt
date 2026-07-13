@@ -199,6 +199,23 @@ v.23 — KJV: "they were both hanged on a tree" / ESV: "the men were
        practice) rather than hanging by a rope. KJV's "tree" is
        literal; ESV's "gallows" interprets the execution device.
 
+v.3 — NET: "him provide whatever cosmetics they desire." for KJV's "their things for purification be given them:"
+       WEB: "women. Let cosmetics" for KJV's "women; and let their things for purification"
+v.7 — ASV: "and" for KJV's "whom Mordecai,"
+       NET: "was acting as the guardian of Hadassah (that" for KJV's "brought up Hadassah, that"
+       WEB: "mother. The maiden" for KJV's "mother, and the maid"
+v.9 — ASV: "her portions," for KJV's "such things as belonged to her,"
+       NET: "found favor with him. He quickly provided her with her co..." for KJV's "obtained kindness of him;"
+       WEB: "from him. He quickly" for KJV's "of him; and he speedily"
+v.12 — ASV: adds "the turn of"
+       NET: "various ointments used by women—" for KJV's "with other things for the purifying of the women;)"
+       WEB: "her purification for" for KJV's "that she had been"
+v.18 — NET: "he provided for offerings at" for KJV's "gave gifts, according to"
+       WEB: "king’s bounty." for KJV's "state of the king."
+v.23 — ASV: "to be so," for KJV's "out; therefore"
+       NET: "to be so, had the two conspirators" for KJV's "was found out; therefore they were both"
+       WEB: "investigated, and" for KJV's "made of the matter,"
+
 GLOSSARY
 ------------------------------------
 Hadassah/    — Esther's two names reflect her dual identity.

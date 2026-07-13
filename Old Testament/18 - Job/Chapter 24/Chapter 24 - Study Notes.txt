@@ -144,6 +144,17 @@ v.18 — The ESV adds "You say" before v.18, indicating that vv.18-20
        statement. The Hebrew has no such marker — this is an
        interpretive choice.
 
+v.1 — ASV: "laid up by" for KJV's "hidden from"
+       NET: "appointed by" for KJV's "hidden from"
+       WEB: "Almighty? Why don’t those who" for KJV's "Almighty, do they that"
+v.9 — NET: "breast; the infant" for KJV's "breast, and take a pledge"
+v.12 — ASV: "populous city men groan, And" for KJV's "city, and"
+       NET: "charges no one with wrongdoing." for KJV's "layeth not folly to them."
+       WEB: "doesn’t regard the folly." for KJV's "layeth not folly to them."
+v.18 — ASV: "Swiftly they [pass away] upon the face of" for KJV's "He is swift as"
+       NET: "so that no one goes to their vineyard." for KJV's "in the earth: he beholdeth not the way of the vineyards."
+       WEB: "surface of the waters. Their" for KJV's "waters; their"
+
 GLOSSARY
 ------------------------------------
 Landmarks    — Boundary stones marking property lines. Moving them

@@ -148,6 +148,18 @@ v.34 — KJV: "thy want as an armed man" / ESV: "your poverty will
        — it storms in like a soldier. You won't be able to resist
        it once it arrives. The time to fight is before it comes.
 
+v.10 — NET: "You have slacked off" for KJV's "If thou faint"
+       WEB: "trouble, your" for KJV's "adversity, thy"
+v.16 — ASV: "are overthrown by calamity." for KJV's "shall fall into mischief."
+       NET: "guilty will collapse in calamity." for KJV's "wicked shall fall into mischief."
+       WEB: "are overthrown by calamity." for KJV's "shall fall into mischief."
+v.26 — ASV: "He kisseth the" for KJV's "Every man shall kiss his"
+       NET: "is the one who gives an honest" for KJV's "that giveth a right"
+       WEB: "An honest answer is like a" for KJV's "Every man shall"
+v.34 — ASV: "a robber, And" for KJV's "one that travelleth; and"
+       NET: "like a bandit," for KJV's "as one that travelleth;"
+       WEB: "a robber," for KJV's "one that travelleth;"
+
 GLOSSARY
 ------------------------------------
 Respect of Persons — Hebrew "hakker panim" = to recognize/

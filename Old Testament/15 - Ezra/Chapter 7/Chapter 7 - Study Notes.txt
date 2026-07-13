@@ -181,6 +181,20 @@ v.25 — KJV: "after the wisdom of thy God, that is in thine hand"
        carried the scrolls and carried their authority. The "wisdom
        of God" was not abstract philosophy but the concrete Law.
 
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "with everything he requested, for" for KJV's "all his request, according to"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — NET: "make the ascent" for KJV's "go up"
+v.12 — ASV: "so forth." for KJV's "at such a time."
+       NET: "heaven:" for KJV's "heaven, perfect peace, and at such a time."
+       WEB: "heaven. Now" for KJV's "heaven, perfect peace, and at such a time."
+v.22 — ASV: "unto a" for KJV's "Unto an"
+       NET: "unlimited salt." for KJV's "salt without prescribing how much."
+       WEB: "up to one" for KJV's "Unto an"
+v.25 — ASV: "And thou, Ezra, after the wisdom of thy God that is in thy hand, appoint magistr..."
+       NET: "court officials who can arbitrate cases on behalf of" for KJV's "judges, which may judge"
+       WEB: "him who doesn’t" for KJV's "ye them that"
+
 GLOSSARY
 ------------------------------------
 Ready/      — Hebrew "sopher mahir" — not merely a copyist but

@@ -60,6 +60,19 @@ v.17 — "but a noise" (KJV) / "is but a noise" (ESV) — Hebrew "sha'on" = tumu
 
 v.25 — "No" (KJV) / "Thebes" (ESV) — Hebrew "No-Amon" = the city of the god Amun (Thebes, Egypt's southern capital). Even Thebes, protected by Amun, will fall.
 
+v.2 — ASV: "Of Egypt: concerning" for KJV's "Against Egypt, against"
+       NET: "River at Carchemish. Now this was the army that King Nebu..." for KJV's "in Carchemish, which Nebuchadrezzar king"
+       WEB: "Of Egypt: concerning" for KJV's "Against Egypt, against"
+v.9 — ASV: "go forth: Cush" for KJV's "come forth; the Ethiopians"
+       NET: "charge into battle, you horsemen! Drive furiously, you ch..." for KJV's "rage, ye chariots;"
+       WEB: "you horses! Rage, you chariots! Let" for KJV's "ye horses; and rage, ye chariots; and let"
+v.17 — ASV: "cried" for KJV's "did cry"
+       NET: "There at home they will say, ‘Pharaoh" for KJV's "They did cry there, Pharaoh"
+       WEB: "has let" for KJV's "hath passed"
+v.25 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "says, “I will punish Amon, the god of Thebes." for KJV's "saith; Behold,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Battle of Carchemish — The decisive 605 BC battle that transferred Near Eastern supremacy from Egypt to Babylon. Nebuchadnezzar's victory ended any hope that Egypt could protect Judah.

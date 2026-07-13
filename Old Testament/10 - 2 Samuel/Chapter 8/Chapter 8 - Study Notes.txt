@@ -195,6 +195,22 @@ v.18 — KJV: "David's sons were chief rulers" / ESV: "David's sons
        actual priests. The term may be used loosely for "royal
        advisors" or "ministers of state."
 
+v.1 — NET: "Metheg Ammah from" for KJV's "Metheg-ammah out of the hand of"
+       WEB: "After this," for KJV's "And after this it came to pass, that"
+v.4 — NET: "20,000 infantrymen." for KJV's "seven hundred horsemen, and twenty thousand footmen: and"
+       WEB: "footmen." for KJV's "footmen: and"
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "tribute. The Lord protected" for KJV's "gifts. And the LORD preserved"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — NET: "Hadadezer’s cities, King" for KJV's "cities of Hadadezer, king"
+       WEB: "a great quantity of" for KJV's "exceeding much"
+v.13 — ASV: "Salt, even" for KJV's "salt, being"
+       NET: "Salt; he defeated 18,000 in all." for KJV's "salt, being eighteen thousand men."
+       WEB: "earned" for KJV's "gat him"
+v.18 — ASV: "[was over]" for KJV's "was over both"
+       NET: "supervised" for KJV's "was over both"
+       WEB: "Pelethites," for KJV's "Pelethites; and"
+
 GLOSSARY
 ------------------------------------
 Metheg-ammah   — "Bridle of the mother city" — a figurative

@@ -141,6 +141,16 @@ v.31 — "Darius the Median" (KJV/ESV) — Aramaic "Daryavesh
       The point is clear: Babylon's rule ended and Medo-Persian
       rule began that very night.
 
+v.2 — NET: "vessels—the ones that Nebuchadnezzar" for KJV's "vessels which"
+       WEB: "that" for KJV's "to bring"
+v.25 — NET: "inscribed: mene, mene, teqel, and pharsin." for KJV's "written, MENE, MENE, TEKEL, UPHARSIN."
+       WEB: "inscribed: ‘MENE," for KJV's "written, MENE,"
+v.28 — NET: "As for Peres—your" for KJV's "PERES; Thy"
+       WEB: "PERES: your" for KJV's "PERES; Thy"
+v.31 — ASV: "Mede received" for KJV's "Median took"
+       NET: "kingdom when he was" for KJV's "kingdom, being"
+       WEB: "Mede received" for KJV's "Median took"
+
 GLOSSARY
 ------------------------------------
 MENE — "Numbered." God has counted the days of your kingdom and

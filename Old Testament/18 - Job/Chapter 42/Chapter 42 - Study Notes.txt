@@ -192,6 +192,19 @@ v.15 — KJV/ESV: Daughters receiving inheritance — In the ancient
        sons. Job's gift of inheritance to his daughters is
        remarkable and suggests exceptional honor.
 
+v.2 — ASV: "all things, And" for KJV's "every thing, and"
+       NET: "all things;" for KJV's "every thing, and that"
+       WEB: "all things," for KJV's "every thing,"
+v.5 — ASV: "ear; But" for KJV's "ear: but"
+       NET: "has seen you." for KJV's "seeth thee."
+       WEB: "sees you." for KJV's "seeth thee."
+v.6 — ASV: "[myself], And" for KJV's "myself, and"
+v.10 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord restored what Job had lost after" for KJV's "LORD turned the captivity of Job, when"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.15 — NET: "beautiful as Job’s daughters," for KJV's "the daughters of Job:"
+       WEB: "Job. Their" for KJV's "Job: and their"
+
 GLOSSARY
 ------------------------------------
 Repentance   — Hebrew "nacham" in v.6 = to be sorry, to change

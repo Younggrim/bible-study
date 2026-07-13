@@ -185,6 +185,21 @@ v.33 — KJV: "between the joints of the harness" / ESV: "between
        point — impossible by human aim, inevitable by divine
        decree.
 
+v.1 — NET: "greatly respected. He made an alliance by marriage" for KJV's "honour in abundance, and joined affinity"
+       WEB: "he allied himself" for KJV's "joined affinity"
+v.2 — ASV: "[with him]" for KJV's "with him"
+       NET: "join in an attack against Ramoth Gilead." for KJV's "go up with him to Ramoth-gilead."
+       WEB: "After some years," for KJV's "And after certain years"
+v.9 — ASV: "entrance" for KJV's "entering in"
+       NET: "their respective thrones, dressed" for KJV's "his throne, clothed"
+       WEB: "entrance" for KJV's "entering in"
+v.19 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "will attack Ramoth Gilead" for KJV's "may go up"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.33 — ASV: "the driver of the chariot," for KJV's "his chariot man,"
+       NET: adds "his armor. The king ordered his charioteer, “Turn around ..."
+       WEB: "the driver of the chariot, “Turn your" for KJV's "his chariot man, Turn thine"
+
 GLOSSARY
 ------------------------------------
 Ramoth-     — A city in Gilead (Transjordan) designated as a city

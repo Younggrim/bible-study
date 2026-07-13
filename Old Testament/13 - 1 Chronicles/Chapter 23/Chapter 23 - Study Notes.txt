@@ -251,6 +251,23 @@ v.29 — KJV: "for the fine flour for meat offering" / ESV: "the
        entirely different meanings; the offering was flour-based,
        never involving animal flesh.
 
+v.3 — NET: "up were counted; there were 38,000 men." for KJV's "upward: and their number by their polls, man by man, was ..."
+       WEB: "thirty-eight" for KJV's "thirty and eight"
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s temple; 6,000 are to be officials" for KJV's "house of the LORD;"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "4,000 are to be gatekeepers;" for KJV's "Moreover four thousand were porters;"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.14 — ASV: "But as for" for KJV's "Now concerning"
+       NET: "considered Levites." for KJV's "named of the tribe of Levi."
+       WEB: "But as for" for KJV's "Now concerning"
+v.22 — NET: "died without having sons; he" for KJV's "died, and"
+v.27 — NET: "According to David’s final instructions," for KJV's "For by the last words of David"
+v.29 — ASV: "a meal-offering, whether of" for KJV's "meat offering, and for the"
+       NET: "bread that is displayed," for KJV's "shewbread, and for"
+       WEB: "wafers, or of" for KJV's "cakes, and for"
+
 GLOSSARY
 ------------------------------------
 Gershon,    — The three sons of Levi (Genesis 46:11) from whom all

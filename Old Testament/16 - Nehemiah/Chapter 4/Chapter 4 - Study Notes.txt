@@ -166,6 +166,16 @@ v.23 — KJV: "saving that every one put them off for washing" /
        armed even while performing basic hygiene. The translations
        reflect different interpretations of the same unclear Hebrew.
 
+v.2 — ASV: "rubbish, seeing they" for KJV's "the rubbish which"
+       NET: "and in the presence of" for KJV's "And he spake before"
+       WEB: "rubbish, since they" for KJV's "the rubbish which"
+v.9 — NET: "night." for KJV's "night, because of them."
+v.16 — NET: "day forward, half my men were doing" for KJV's "time forth, that"
+       WEB: "From" for KJV's "And it came to pass from"
+v.23 — ASV: "[went with] his weapon [to] the water." for KJV's "put them off for washing."
+       NET: "We did not change clothes—not" for KJV's "So neither"
+       WEB: "clothes. Everyone took his weapon to the water." for KJV's "clothes, saving that every one put them off for washing."
+
 GLOSSARY
 ------------------------------------
 Sanballat   — Governor of Samaria, the primary antagonist. His

@@ -199,6 +199,20 @@ v.10 — KJV: "shall we not receive evil?" / ESV: "shall we not
        Context demands "adversity" or "calamity" rather than moral
        wickedness.
 
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "turns away from evil. And he" for KJV's "escheweth evil? and"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "skin! Indeed, a man will give up" for KJV's "skin, yea,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "feet to the top of" for KJV's "foot unto"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — NET: "holding firmly to your" for KJV's "retain thine"
+       WEB: "maintain your" for KJV's "retain thine"
+v.10 — NET: "replied, “You’re talking like" for KJV's "said unto her, Thou speakest as"
+       WEB: "“You speak" for KJV's "Thou speakest"
+
 GLOSSARY
 ------------------------------------
 Skin for skin — An ancient proverbial expression meaning a person

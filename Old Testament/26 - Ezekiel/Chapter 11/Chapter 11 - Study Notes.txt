@@ -66,6 +66,18 @@ v.19 — "stony heart... heart of flesh" (KJV/ESV) — Hebrew "lev ha-even... le
 
 v.23 — "the mountain which is on the east side" (KJV/ESV) — The Mount of Olives (Hebrew "Har ha-Zeitim"), directly east of the temple mount across the Kidron Valley. Elevation: ~2,680 ft.
 
+v.3 — ASV: "near to" for KJV's "near; let us"
+       NET: "a cooking pot," for KJV's "the caldron,"
+       WEB: "houses. This" for KJV's "houses: this city"
+v.16 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "“Therefore say: ‘This is what" for KJV's "Therefore say, Thus saith"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.19 — NET: "tender hearts," for KJV's "an heart of flesh:"
+       WEB: "you." for KJV's "you; and"
+v.23 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "stopped over" for KJV's "stood upon"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Little Sanctuary — God as a portable, personal temple for exiles. You don't need a BUILDING for God's presence — He IS the sanctuary wherever His people are scattered.

@@ -168,6 +168,18 @@ v.16 — "north wind... south wind" = cold and warm winds together.
        garden — both release fragrance. Character is formed by
        both hardship and blessing.
 
+v.1 — ASV: "That lie along the side of" for KJV's "that appear from"
+       NET: "The Lover to His Beloved: Oh, you are beautiful," for KJV's "Behold, thou art fair,"
+       WEB: "love. Behold, you are beautiful. Your" for KJV's "love; behold, thou art fair; thou hast doves’"
+v.9 — ASV: "[my] bride; Thou" for KJV's "my spouse; thou"
+       NET: "bride! You have stolen" for KJV's "spouse; thou hast ravished"
+       WEB: "bride. You have" for KJV's "spouse; thou hast"
+v.12 — ASV: "[my] bride; A" for KJV's "my spouse; a"
+       NET: "The Lover to His Beloved: You are a locked garden," for KJV's "A garden inclosed is"
+       WEB: "locked up spring," for KJV's "spring shut up,"
+v.16 — NET: "send out their sweet smell. May" for KJV's "flow out. Let"
+       WEB: "you south! Blow on" for KJV's "thou south; blow upon"
+
 GLOSSARY
 ------------------------------------
 Wasf         — An Arabic literary term for a descriptive love poem

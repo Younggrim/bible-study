@@ -168,6 +168,22 @@ TRANSLATION COMPARISON
 ------------------------------------
 
 
+v.23 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "family become a permanent reality! Do" for KJV's "house be established for ever, and do"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "a palace made from cedar, while" for KJV's "an house of cedars, but"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "servant David: ‘This is what" for KJV's "servant, Thus saith"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "your work as a shepherd to make you a leader of" for KJV's "following the sheep, that thou shouldest be ruler over"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.10 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "your enemies.“‘“I declare to you" for KJV's "thine enemies. Furthermore I tell thee"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Davidic Covenant: The unconditional divine promise made to David

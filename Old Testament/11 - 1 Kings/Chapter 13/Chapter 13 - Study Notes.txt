@@ -183,6 +183,18 @@ v.24 — KJV: "a lion met him by the way, and slew him" / ESV: "a
        without harming the donkey. This was divine execution, not
        natural predation.
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s message, “O altar, altar! This is what" for KJV's "word of"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — ASV: "And it came to pass, when the king heard the saying of the man of God, which he ..."
+       NET: "“Seize him!” Then the hand that" for KJV's "Lay hold on him. And his hand, which"
+       WEB: "“Seize him!” His" for KJV's "Lay hold on him. And his"
+v.18 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Then the old prophet said, “I too" for KJV's "He said unto him, I"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.24 — NET: adds "on the road and killed him.There was his body lying on th..."
+       WEB: "killed him. His body" for KJV's "slew him: and his carcase"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God's word to you cannot be overridden by another person's claim

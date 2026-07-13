@@ -167,6 +167,18 @@ v.16 — "altogether lovely" = Hebrew "kullo machamaddim" = all of
        every dimension of him is desirable. The plural intensifies:
        not one loveliness but an aggregate of all lovely things.
 
+v.2 — ASV: "undefiled; For" for KJV's "undefiled: for"
+       NET: "mind was dreaming. Listen! My lover" for KJV's "heart waketh: it"
+       WEB: "who knocks: “Open" for KJV's "that knocketh, saying, Open"
+v.4 — ASV: "door], And" for KJV's "door, and"
+       NET: "lover thrust" for KJV's "beloved put in"
+       WEB: "latch opening. My heart pounded" for KJV's "hole of the door, and my bowels were moved"
+v.10 — NET: "ruddy; he stands out in comparison to all other men." for KJV's "ruddy, the chiefest among ten thousand."
+       WEB: "ruddy. The best" for KJV's "ruddy, the chiefest"
+v.16 — ASV: "sweet; Yea," for KJV's "sweet: yea,"
+       NET: "totally desirable." for KJV's "altogether lovely."
+       WEB: "sweetness; yes," for KJV's "most sweet: yea,"
+
 GLOSSARY
 ------------------------------------
 Altogether   — Hebrew "kullo machamaddim" = the totality of

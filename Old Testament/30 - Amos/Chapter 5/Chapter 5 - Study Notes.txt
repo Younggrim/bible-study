@@ -122,6 +122,21 @@ v.26 — "Moloch... Chiun" (KJV) / "Sikkuth... Kiyyun" (ESV) —
        Astral deities worshipped alongside the LORD. Israel mixed
        pagan star-worship with Yahweh worship.
 
+v.7 — ASV: "cast down" for KJV's "leave off"
+       NET: "The Israelites" for KJV's "Ye who"
+       WEB: "cast down" for KJV's "leave off"
+v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "But there is one who made" for KJV's "Seek him that maketh"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.15 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "what is wrong, love what is right. Promote justice at"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.24 — ASV: "justice roll" for KJV's "judgment run"
+       NET: "Justice must flow like torrents of water, righteous actio..." for KJV's "But let judgment run down as waters, and righteousness as"
+       WEB: "justice roll on like rivers," for KJV's "judgment run down as waters,"
+v.26 — NET: "You will pick up your images" for KJV's "But ye have borne the tabernacle"
+       WEB: "You also carried" for KJV's "But ye have borne"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "Seek me and LIVE" (v.4). God offers life to the dying. Not

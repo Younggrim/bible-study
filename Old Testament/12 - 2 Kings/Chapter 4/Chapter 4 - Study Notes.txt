@@ -211,6 +211,21 @@ v.42 — KJV: "full ears of corn in the husk thereof" / ESV: "fresh
        (ESV) reflects different readings of the Hebrew "tsiqlon" —
        either the grain's husk or a carrying bag.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "appealed to Elisha for help," for KJV's "unto Elisha,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — NET: adds "a prominent woman lived. She insisted that he stop for a ..."
+       WEB: "One day" for KJV's "And it fell on a day, that"
+v.16 — ASV: "cometh round," for KJV's "of life,"
+       NET: "next year you will be holding" for KJV's "of life, thou shalt embrace"
+       WEB: "comes around, you will" for KJV's "of life, thou shalt"
+v.34 — ASV: "him;" for KJV's "the child;"
+       NET: "against the boy’s palms. As" for KJV's "upon his hands: and"
+       WEB: "hands. He" for KJV's "hands: and he"
+v.42 — ASV: "his sack." for KJV's "the husk thereof."
+       NET: "grain. Elisha said, “Set it before" for KJV's "corn in"
+       WEB: "his sack. He" for KJV's "the husk thereof. And he"
+
 GLOSSARY
 ------------------------------------
 Shunem       — A town in the territory of Issachar, near Mount

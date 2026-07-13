@@ -146,6 +146,15 @@ v.12 — "blessed" (KJV/ESV) — Hebrew "ashre" = happy, fortunate,
       but for endurance. Waiting through 1,335 days of tribulation
       requires supernatural perseverance.
 
+v.2 — NET: "dusty ground will awake—" for KJV's "dust of the earth shall awake,"
+       WEB: "those who" for KJV's "them that"
+v.3 — NET: "heavenly expanse. And those bringing" for KJV's "firmament; and they that turn"
+       WEB: "expanse. Those who" for KJV's "firmament; and they that"
+v.4 — NET: "end. Many will dash about," for KJV's "end: many shall run to and fro,"
+       WEB: "end. Many will" for KJV's "end: many shall"
+v.12 — NET: "the one who waits" for KJV's "he that waiteth,"
+       WEB: "thirty-five" for KJV's "and five and thirty"
+
 GLOSSARY
 ------------------------------------
 Michael Stands Up — The archangel takes decisive action in

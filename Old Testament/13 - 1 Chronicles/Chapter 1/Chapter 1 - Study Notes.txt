@@ -193,6 +193,18 @@ v.43 — KJV: "the children of Israel" / ESV: "the people of Israel"
        "people" is a dynamic translation capturing the sense for
        modern readers. The Hebrew literally says "sons of Israel."
 
+v.6 — ASV: "Gomer: Ashkenaz," for KJV's "Gomer; Ashchenaz,"
+       NET: "Gomer: Ashkenaz," for KJV's "Gomer; Ashchenaz, and"
+       WEB: "Gomer: Ashkenaz, Diphath," for KJV's "Gomer; Ashchenaz, and Riphath,"
+v.7 — NET: adds "Tarshish, the Kittites,"
+       WEB: "The" for KJV's "And the"
+v.10 — NET: "was the father of Nimrod, who established himself as a" for KJV's "begat Nimrod: he began to be"
+       WEB: "became the father of Nimrod. He" for KJV's "begat Nimrod: he"
+v.17 — NET: "Aram.The sons of Aram:" for KJV's "Aram, and"
+       WEB: "Arpachshad," for KJV's "and Arphaxad, and"
+v.43 — ASV: adds "there resigned"
+       NET: "Israelites:" for KJV's "children of Israel;"
+
 GLOSSARY
 ------------------------------------
 Adam        — The first man, created by God (Genesis 1-2). His

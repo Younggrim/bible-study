@@ -215,6 +215,22 @@ v.12 — KJV: "Hitherto hath the LORD helped us" / ESV: "Till now the
        point, God has been our help. The declaration is both
        retrospective (remembering) and prospective (trusting).
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "It was quite a long time—some 20 years in all—that" for KJV's "And it came to pass, while"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "“If you are really turning to" for KJV's "saying, If ye do return unto"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "had assembled at Mizpah, they" for KJV's "gathered together to Mizpeh, and"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.10 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord thundered loudly against the Philistines. He caused ..." for KJV's "Philistines, and discomfited them;"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Shen. He named it Ebenezer, saying, “Up to here" for KJV's "Shen, and called"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Ebenezer       — Hebrew "Even ha-Ezer" = stone of help. The memorial

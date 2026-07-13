@@ -182,6 +182,18 @@ v.6  — KJV: "he prepared his ways before the LORD" / ESV: "he
        intentional nature of Jotham's faithfulness — this was not
        accidental virtue but chosen, directed living.
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "had done. (He did not, however, have" for KJV's "did: howbeit he entered not into"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Upper Gate to the Lord’s temple and did a lot" for KJV's "high gate"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — NET: "The Ammonites also paid this same amount of annual tribute" for KJV's "So much did"
+       WEB: "also gave that much to him in" for KJV's "pay unto him, both"
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "was determined to please" for KJV's "prepared his ways before"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Ophel       — Hebrew "ophel" (swelling, bulge, hill). The ridge

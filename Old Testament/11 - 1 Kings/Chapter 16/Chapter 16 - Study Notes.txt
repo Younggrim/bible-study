@@ -257,6 +257,22 @@ v.34 — KJV: "he laid the foundation thereof in Abiram his
        Whether this was intentional sacrifice or divine judgment is
        debated — either way, Joshua's curse was fulfilled exactly.
 
+v.2 — ASV: "Forasmuch as I exalted thee out of the dust, and made thee prince over my people..."
+       NET: "sin; their sins have made" for KJV's "sin, to provoke"
+       WEB: "“Because" for KJV's "Forasmuch as"
+v.11 — NET: "When he became king and occupied the throne, he killed Ba..." for KJV's "And it came"
+       WEB: "Baasha. He didn’t leave" for KJV's "Baasha: he left"
+v.13 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "commit. They angered" for KJV's "to sin, in provoking"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.18 — NET: "royal palace. He set the palace on fire" for KJV's "king’s house,"
+       WEB: "When" for KJV's "And it came to pass, when"
+v.31 — NET: "Nebat were not bad enough," for KJV's "Nebat, that"
+       WEB: "As" for KJV's "And it came to pass, as"
+v.34 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "rebuilt Jericho. Abiram, his firstborn son, died when" for KJV's "build Jericho:"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Being God's instrument does not guarantee God's approval

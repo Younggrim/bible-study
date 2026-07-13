@@ -158,6 +158,17 @@ v.10 — KJV: "childhood and youth are vanity" / ESV: "youth and
        the most vibrant season of life is hebel — fleeting as
        breath. This motivates urgency, not despair.
 
+v.1 — NET: "Send your grain overseas," for KJV's "Cast thy bread upon the waters:"
+       WEB: "you shall" for KJV's "thou shalt"
+v.5 — ASV: "wind, [nor]" for KJV's "spirit, nor"
+       NET: "a pregnant woman," for KJV's "her that is with child: even"
+       WEB: "you don’t know" for KJV's "thou knowest not"
+v.9 — ASV: "Rejoice, O young man, in thy youth, and let thy heart cheer thee in the days of ..."
+       NET: "your youth. Follow the impulses of your heart" for KJV's "thy youth,"
+       WEB: "your youth," for KJV's "thy youth;"
+v.10 — NET: "Banish emotional stress" for KJV's "Therefore remove sorrow"
+       WEB: "your flesh;" for KJV's "thy flesh:"
+
 GLOSSARY
 ------------------------------------
 Cast (shalach) — To send, dispatch, stretch out, release. In v.1,

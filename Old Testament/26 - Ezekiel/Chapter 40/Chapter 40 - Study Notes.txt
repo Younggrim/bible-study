@@ -139,6 +139,18 @@ v.16 — "narrow windows" (KJV) / "beveled windows" (NKJV) —
       let light in while maintaining structural strength. Light
       enters God's house; darkness is kept out.
 
+v.2 — ASV: "whereon" for KJV's "by which"
+       NET: "structure like a city, to" for KJV's "city on"
+       WEB: "whereon" for KJV's "by which"
+v.3 — NET: "stick in his hand. He was standing" for KJV's "reed; and he stood"
+       WEB: "He" for KJV's "And he"
+v.5 — ASV: "a handbreadth each:" for KJV's "an hand breadth:"
+       NET: "stick 10½ feet long. He" for KJV's "reed of six cubits long by the cubit and an hand breadth:..."
+       WEB: "Behold, there was" for KJV's "And behold"
+v.16 — ASV: "palm-trees." for KJV's "palm trees."
+       NET: "all around," for KJV's "round about,"
+       WEB: "around inward. Palm trees were on" for KJV's "round about inward: and upon"
+
 GLOSSARY
 ------------------------------------
 Measuring Reed — A rod approximately 10.5 feet long (6 long

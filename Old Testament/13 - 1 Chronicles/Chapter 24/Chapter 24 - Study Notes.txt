@@ -218,6 +218,23 @@ v.31 — KJV: "even the principal fathers over against their younger
        lot-casting. The ESV's "alike" makes the equality more
        explicit for modern readers.
 
+v.1 — ASV: "Aaron: Nadab" for KJV's "Aaron; Nadab,"
+       NET: "Aaron:" for KJV's "Aaron. The sons of Aaron;"
+       WEB: "These were" for KJV's "Now these are"
+v.3 — ASV: adds "divided them"
+       NET: "Ithamar) divided them into groups" for KJV's "the sons of Ithamar, according"
+       WEB: adds "divided them"
+v.5 — ASV: "there were princes" for KJV's "the governors"
+       NET: "both Eleazar" for KJV's "the house of God, were of the sons of Eleazar,"
+       WEB: "there were princes" for KJV's "the governors"
+v.15 — NET: "Hezir,the" for KJV's "Hezir, the"
+v.19 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "assigned responsibilities when they entered" for KJV's "service to come into"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.31 — ASV: "as those of his" for KJV's "the principal fathers over against their"
+       NET: "Like their relatives, the descendants of Aaron, they also" for KJV's "These likewise"
+       WEB: "as those of his" for KJV's "the principal fathers over against their"
+
 GLOSSARY
 ------------------------------------
 Divisions/  — Hebrew "machalaqoth" (from "chalaq," to divide). The

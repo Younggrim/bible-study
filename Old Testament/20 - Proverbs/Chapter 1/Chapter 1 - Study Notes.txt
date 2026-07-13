@@ -141,6 +141,21 @@ v.32 — KJV: "prosperity" / ESV: "complacency" — Hebrew "shalvah"
        inner attitude. The fool's comfort makes him feel no need
        for wisdom — and that ease destroys him.
 
+v.4 — NET: "impart shrewdness" for KJV's "give subtilty"
+       WEB: adds "knowledge and discretion"
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Fearing" for KJV's "The fear of"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — ASV: "a chaplet" for KJV's "an ornament"
+       NET: "like pendants around your" for KJV's "chains about thy"
+       WEB: "a garland to" for KJV's "an ornament of"
+v.22 — ASV: "scoffing, And" for KJV's "their scorning, and"
+       NET: "long have mockers delighted in mockery? And how long" for KJV's "long, ye simple ones,"
+       WEB: "How long will mockers" for KJV's "and the scorners"
+v.32 — ASV: "backsliding" for KJV's "turning away"
+       NET: "simpletons will kill" for KJV's "simple shall slay"
+       WEB: "will kill them. The careless ease" for KJV's "shall slay them, and the prosperity"
+
 GLOSSARY
 ------------------------------------
 Fear of the LORD — Not terror but reverence, awe, and willing

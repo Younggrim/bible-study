@@ -213,6 +213,17 @@ v.16 — KJV: "and if I perish, I perish" / ESV: "and if I perish,
        suggesting she considers herself already dead. She has
        counted the cost and accepted it before she acts.
 
+v.1 — NET: "crying out in" for KJV's "and cried with"
+       WEB: "wailed loudly" for KJV's "cried with a loud"
+v.4 — ASV: "And Esther`s maidens" for KJV's "So Esther’s maids"
+       NET: "informed her about Mordecai’s behavior," for KJV's "told it her. Then was"
+       WEB: "didn’t receive it." for KJV's "received it not."
+v.14 — ASV: "will perish:" for KJV's "shall be destroyed:"
+       NET: "that you have achieved royal status" for KJV's "destroyed: and who knoweth whether thou art come to the k..."
+       WEB: "will perish. Who knows if you haven’t" for KJV's "shall be destroyed: and who knoweth whether thou art"
+v.16 — NET: "fast in the same way. Afterward I" for KJV's "and my maidens"
+       WEB: "the same way. Then I" for KJV's "likewise; and so"
+
 GLOSSARY
 ------------------------------------
 Sackcloth    — Coarse dark fabric (goat or camel hair) worn as an

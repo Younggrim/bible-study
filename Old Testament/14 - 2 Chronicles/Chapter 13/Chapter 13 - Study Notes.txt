@@ -143,6 +143,16 @@ v.12 — KJV: "God himself is with us for our captain" / ESV: "God is
        position of leadership. KJV's "captain" interprets the
        military metaphor; ESV is more literal.
 
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "has given David and his dynasty lasting dominion" for KJV's "gave the kingdom"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — ASV: "base fellows, that" for KJV's "the children of Belial, and have"
+       NET: "Lawless good-for-nothing men" for KJV's "And there are"
+       WEB: "to him, wicked fellows who" for KJV's "unto him vain men, the children of Belial, and have"
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "are ready to blow the" for KJV's "with sounding"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Covenant    — An unbreakable, perpetual agreement. Salt was a

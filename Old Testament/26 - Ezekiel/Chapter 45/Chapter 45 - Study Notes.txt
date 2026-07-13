@@ -140,6 +140,16 @@ v.18 — "first month" — Hebrew "ḥōḏesh hārī'shôn" = Nisan/Abib
       (March-April). The month of Passover and new beginnings.
       The religious calendar begins with redemption — always.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "width 3⅓ miles. This entire area will" for KJV's "breadth shall"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.10 — NET: adds "a just dry measure (an ephah),"
+v.12 — NET: "20 gerahs. Sixty shekels will" for KJV's "twenty gerahs: twenty shekels, five and twenty shekels, f..."
+       WEB: "gerahs. Twenty shekels plus twenty-five shekels plus" for KJV's "gerahs: twenty shekels, five and twenty shekels,"
+v.18 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "“‘This is what" for KJV's "Thus saith"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Holy District  — Hebrew "terûmāh" — a sacred strip of land

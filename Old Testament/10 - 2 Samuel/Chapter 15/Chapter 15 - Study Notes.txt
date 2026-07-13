@@ -246,6 +246,22 @@ v.30 — KJV: "went up by the ascent of mount Olivet" / ESV: "went up
        mountain where Christ would later weep over Jerusalem and pray
        in Gethsemane.
 
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "After four years" for KJV's "And it came to pass after forty years, that"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord really does allow" for KJV's "LORD shall bring"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.12 — NET: "gaining momentum, and" for KJV's "strong; for"
+       WEB: "The" for KJV's "And the"
+v.20 — NET: "It seems as if you arrived just yesterday. Today" for KJV's "Whereas thou camest but yesterday,"
+       WEB: "your brothers. Mercy" for KJV's "thy brethren: mercy"
+v.27 — NET: "Abiathar’s son Jonathan may go" for KJV's "your two sons"
+       WEB: "“Aren’t you" for KJV's "Art not thou"
+v.30 — ASV: "the [mount of] Olives," for KJV's "mount Olivet,"
+       NET: "his feet were bare. All" for KJV's "he went barefoot: and all"
+       WEB: "the Mount of Olives," for KJV's "mount Olivet,"
+
 GLOSSARY
 ------------------------------------
 Cherethites and

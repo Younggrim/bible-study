@@ -133,6 +133,22 @@ TRANSLATION COMPARISON
 ------------------------------------
 
 
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "has ascended his throne amid loud shouts;" for KJV's "is gone up with a shout,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord Most High" for KJV's "LORD most high"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.1 — ASV: "peoples; Shout" for KJV's "people; shout"
+       NET: "hands. Shout out to" for KJV's "hands, all ye people; shout unto"
+       WEB: "you nations. Shout to" for KJV's "ye people; shout unto"
+v.3 — ASV: "subdueth peoples" for KJV's "shall subdue the people"
+       NET: "subdued nations beneath us" for KJV's "shall subdue the people under us,"
+       WEB: "subdues nations" for KJV's "shall subdue the people"
+v.4 — ASV: "The glory" for KJV's "the excellency"
+       NET: "us a special land to be a source" for KJV's "us, the excellency"
+       WEB: "chooses" for KJV's "shall choose"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Worship should be exuberant. This psalm commands clapping,

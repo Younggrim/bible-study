@@ -215,6 +215,23 @@ v.65 — KJV: "seven days and seven days, even fourteen days" / ESV:
        for the dedication + 7 days for the Feast of Tabernacles =
        14 days total, then sent home on the 8th day after the feast.
 
+v.2 — NET: "of Ethanim (the" for KJV's "Ethanim, which is the"
+       WEB: "All" for KJV's "And all"
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "to its assigned place in the inner sanctuary"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "carry out their duties" for KJV's "stand to minister"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.27 — NET: "“God does not really live" for KJV's "But will God indeed dwell"
+       WEB: "Behold," for KJV's "behold, the"
+v.47 — ASV: "dealt wickedly;" for KJV's "committed wickedness;"
+       NET: "When your people come to their senses" for KJV's "Yet if they shall bethink themselves"
+       WEB: "dealt wickedly;’" for KJV's "committed wickedness;"
+v.65 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "God for two entire weeks. This great assembly included pe..." for KJV's "God, seven days and seven days, even fourteen days."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God validates what He initiates (vv.10-11). The glory cloud

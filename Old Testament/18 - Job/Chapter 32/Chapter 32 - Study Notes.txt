@@ -148,6 +148,17 @@ v.22 — KJV: "flattering titles" / ESV: "flattery" — Hebrew
        commits to calling things as they are, regardless of
        social status.
 
+v.2 — NET: "Ram, became very angry. He was angry with" for KJV's "Ram: against"
+       WEB: "kindled" for KJV's "his wrath kindled,"
+v.8 — ASV: "man, And" for KJV's "man: and"
+       NET: "Almighty, that makes" for KJV's "Almighty giveth"
+v.19 — ASV: adds "Like new wine-skins"
+       NET: "outlet, like new wineskins" for KJV's "vent; it is"
+       WEB: adds "like new wineskins"
+v.22 — ASV: "[Else] would" for KJV's "in so doing"
+       NET: "quickly do away with me." for KJV's "soon take me away."
+       WEB: "or else" for KJV's "in so doing"
+
 GLOSSARY
 ------------------------------------
 Elihu        — "He is my God" or "My God is He." A theophoric

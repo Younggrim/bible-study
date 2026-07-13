@@ -120,6 +120,17 @@ v.11 — "partridge" (KJV/ESV) — Hebrew "qore" = a bird (partridge)
       that gathers/hatches eggs it didn't lay. Like the person who
       gains wealth unjustly — it will leave him mid-life.
 
+v.1 — NET: "their altars." for KJV's "your altars;"
+       WEB: "diamond. It" for KJV's "diamond: it"
+v.6 — NET: "they happen. It will be as though they were growing in" for KJV's "good cometh; but shall inhabit"
+       WEB: "an uninhabited" for KJV's "in a"
+v.9 — ASV: "it is exceedingly corrupt:" for KJV's "desperately wicked:"
+       NET: "than anything else. It is incurably bad. Who" for KJV's "above all things, and desperately wicked: who"
+       WEB: "it is exceedingly corrupt. Who" for KJV's "desperately wicked: who"
+v.11 — ASV: "[eggs] which she hath not laid," for KJV's "eggs, and hatcheth them not;"
+       NET: "that broods over eggs but does not hatch them. Before his..." for KJV's "sitteth on eggs, and hatcheth them not; so"
+       WEB: "eggs which she has not laid," for KJV's "eggs, and hatcheth them not;"
+
 GLOSSARY
 ------------------------------------
 Deceitful Heart — (v.9) The biblical doctrine of human depravity:

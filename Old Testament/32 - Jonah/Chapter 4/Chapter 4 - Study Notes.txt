@@ -127,6 +127,20 @@ v.11 — "sixscore thousand" = 120,000 people. "Cannot discern
        ignorant people. Either way: innocent, needing teaching,
        not destruction.
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "tried to prevent by attempting to escape to Tarshish, bec..." for KJV's "fled before unto Tarshish: for"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "very delighted about" for KJV's "exceeding glad of"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — NET: "at dawn" for KJV's "when the morning rose"
+       WEB: "at dawn" for KJV's "when the morning rose"
+v.8 — ASV: "requested for" for KJV's "wished in"
+       NET: "down on Jonah’s head, and he grew faint. So he despaired" for KJV's "upon the head"
+       WEB: "on Jonah’s head, so" for KJV's "upon the head of Jonah,"
+v.11 — NET: "from wrong, as well as many animals.”" for KJV's "hand and their left hand; and also much cattle?"
+       WEB: "Shouldn’t" for KJV's "And should not"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. You can have correct theology and wrong compassion (v.2). Jonah

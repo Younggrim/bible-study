@@ -146,6 +146,18 @@ v.28 — KJV/ESV: "the fear of the Lord" — Hebrew "yirat Adonai."
        submission. It is not cringing terror but worshipful
        recognition of God's absolute supremacy.
 
+v.1 — ASV: "refine." for KJV's "fine it."
+       NET: "is refined." for KJV's "where they fine it."
+       WEB: "refine." for KJV's "fine it."
+v.3 — ASV: adds "furthest bound, The"
+       NET: "farthest recesses for the ore in the deepest darkness." for KJV's "shadow of death."
+       WEB: "searches out, to the furthest bound," for KJV's "searcheth out all perfection:"
+v.18 — ASV: "crystal: Yea," for KJV's "pearls: for"
+       NET: "more than pearls." for KJV's "above rubies."
+       WEB: "crystal. Yes," for KJV's "pearls: for"
+v.28 — NET: "said to mankind, ‘The" for KJV's "said, Behold, the"
+       WEB: "wisdom. To" for KJV's "wisdom; and to"
+
 GLOSSARY
 ------------------------------------
 Fear of the  — Hebrew "yirat YHWH/Adonai" — the foundational

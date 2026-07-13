@@ -139,6 +139,18 @@ v.19 — "bruit" (KJV) = "news/report" (archaic English). Hebrew
        "shema" = report, rumor, fame. The news of Nineveh's fall
        spreads, and universal applause follows.
 
+v.1 — NET: "lies; she is filled with plunder; she has hoarded her spoil!" for KJV's "lies and robbery; the prey departeth not;"
+       WEB: "doesn’t depart." for KJV's "departeth not;"
+v.4 — NET: "you have acted like a wanton prostitute— a seductive" for KJV's "of the multitude of the whoredoms of the wellfavoured har..."
+       WEB: "witchcraft, who sells" for KJV's "witchcrafts, that selleth"
+v.8 — ASV: "No-amon," for KJV's "populous No,"
+       NET: "You are no more secure" for KJV's "Art thou better"
+       WEB: "No-Amon, who" for KJV's "populous No, that"
+v.17 — NET: "your officials are like a swarm of locusts! They encamp" for KJV's "and thy captains as the great grasshoppers, which camp"
+       WEB: "your officials like" for KJV's "thy captains as"
+v.19 — NET: adds "like an incurable wound; your demise is like a fatal inju..."
+       WEB: "who hasn’t felt your endless cruelty?" for KJV's "upon whom hath not thy wickedness passed continually?"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Sins have a cumulative weight (v.1). Nineveh's judgment came

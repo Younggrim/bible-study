@@ -133,6 +133,20 @@ TRANSLATION COMPARISON
 ------------------------------------
 
 
+v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "he gives me a song, a" for KJV's "his song shall be with me, and my"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.1 — NET: adds "For the music director, a well-written song by the Korahi..."
+       WEB: "deer pants for" for KJV's "hart panteth after"
+v.4 — ASV: adds "the throng, and led"
+       NET: "crowd as we celebrated the holy festival." for KJV's "voice of joy and praise, with a multitude that kept holyday."
+       WEB: "keeping a holy day." for KJV's "that kept holyday."
+v.11 — ASV: "[Who is]" for KJV's "who is"
+       NET: "God for his saving intervention." for KJV's "countenance, and my God."
+       WEB: "Why are you disturbed" for KJV's "and why art thou disquieted"
+v.2 — NET: "in God’s presence?”" for KJV's "before God?"
+       WEB: "God. When" for KJV's "God: when"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Spiritual thirst is not a sign of failure but of life. Only

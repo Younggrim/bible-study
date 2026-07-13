@@ -154,6 +154,17 @@ v.17 — KJV: "I was not cut off before the darkness" / ESV: "yet I
        darkness, Job is not reduced to silence. He continues to
        speak, cry out, and seek God.
 
+v.2 — ASV: "rebellious: My" for KJV's "bitter: my"
+       NET: "still bitter; his hand is heavy despite" for KJV's "heavier than"
+       WEB: "rebellious. His hand is heavy in spite of" for KJV's "heavier than"
+v.6 — ASV: "give heed unto" for KJV's "put strength in"
+       NET: "only pay attention to" for KJV's "put strength in"
+       WEB: "contend with" for KJV's "plead against"
+v.13 — NET: "unchangeable," for KJV's "in one mind,"
+       WEB: "stands alone," for KJV's "is in one mind,"
+v.17 — ASV: "Neither did" for KJV's "neither hath"
+       NET: "because of the thick darkness that" for KJV's "neither hath he"
+
 GLOSSARY
 ------------------------------------
 Tried/Refined — Hebrew "bachan" — to test, examine, prove. Used of

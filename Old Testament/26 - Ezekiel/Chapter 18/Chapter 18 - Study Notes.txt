@@ -72,6 +72,16 @@ v.6 — "eaten upon the mountains" (KJV) / "eaten on the mountains" (ESV) — Sa
 
 v.31 — "make you a new heart" (KJV/ESV) — Paradox: God COMMANDS what He also GIVES (11:19; 36:26). Human responsibility ("make yourselves") and divine sovereignty ("I will give you") held in tension.
 
+v.2 — NET: "Israel: “‘The" for KJV's "Israel, saying, The"
+       WEB: "“What do you mean," for KJV's "What mean ye,"
+v.4 — NET: "mine. The one who sins will" for KJV's "mine: the soul that sinneth, it shall"
+       WEB: "who sins, he" for KJV's "that sinneth, it"
+v.6 — ASV: "woman in her impurity," for KJV's "menstruous woman,"
+       NET: "woman for marital relations during her period;" for KJV's "menstruous woman,"
+       WEB: "woman in her impurity," for KJV's "menstruous woman,"
+v.31 — NET: "spirit! Why should you" for KJV's "spirit: for why will ye"
+       WEB: "in which you" for KJV's "whereby ye"
+
 GLOSSARY
 ------------------------------------
 Sour Grapes Proverb — "Fathers ate sour grapes, children's teeth are set on edge" — the fatalistic claim that present suffering is caused by ancestors' sin and therefore unavoidable. God rejects this.

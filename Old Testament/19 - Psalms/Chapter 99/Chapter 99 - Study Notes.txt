@@ -101,6 +101,13 @@ v.8 — KJV: "thou tookest vengeance of their inventions" / ESV:
       personally but still enforced consequences for their specific
       actions (Moses couldn't enter Canaan; Aaron's sons died).
 
+v.3 — ASV: "name: Holy" for KJV's "name; for it"
+       NET: "awesome name. He" for KJV's "terrible name; for it"
+       WEB: "awesome name. He" for KJV's "terrible name; for it"
+v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "God, you answered them. They found you to be" for KJV's "God: thou wast"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Holiness should produce trembling (v.1). Not casual familiarity

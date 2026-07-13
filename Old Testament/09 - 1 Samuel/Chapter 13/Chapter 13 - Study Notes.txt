@@ -212,6 +212,20 @@ v.19 — KJV: "no smith found throughout all the land" / ESV: "no
        superiority through an iron monopoly — a form of economic and
        military oppression.
 
+v.1 — ASV: "was [forty] years old when he began to reign;" for KJV's "reigned one year;"
+       NET: "began to reign; he ruled" for KJV's "had reigned two years"
+       WEB: "was thirty years old" for KJV's "reigned one year; and"
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "felt obligated to offer the" for KJV's "forced myself therefore, and offered a"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord your God gave you. Had you done that, the Lord" for KJV's "LORD thy God, which he commanded thee: for now"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.14 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "continue. The Lord has" for KJV's "continue: the LORD hath"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.19 — NET: "A blacksmith could not be" for KJV's "Now there was no smith"
+
 GLOSSARY
 ------------------------------------
 Gilgal         — The site where Samuel commanded Saul to wait (10:8)

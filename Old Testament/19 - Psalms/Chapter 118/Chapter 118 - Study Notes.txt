@@ -108,6 +108,16 @@ v.27 — KJV: "bind the sacrifice with cords, even unto the horns
        to the altar. Prophetically: Christ, the sacrifice, bound
        to the cross-altar.
 
+v.22 — ASV: "rejected Is" for KJV's "refused is"
+       NET: "discarded has" for KJV's "refused is"
+       WEB: "rejected has" for KJV's "refused is"
+v.25 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Please, Lord, deliver! Please, Lord, grant us success!" for KJV's "Save now, I beseech thee, O LORD: O LORD, I beseech thee,..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.27 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "God, and he has delivered us. Tie"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "What can man do unto me?" (v.6). Fear of man is neutralized

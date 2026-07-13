@@ -122,6 +122,15 @@ v.7 — "He shall drink of the brook in the way" — Enigmatic. Most
       pursuit (like Gideon's 300 at the brook), then lifts his
       head in victory. Brief refreshment amid unstoppable advance.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "A psalm of David. Here is the Lord’s proclamation to" for KJV's "The LORD said unto"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — ASV: "offer themselves willingly In" for KJV's "shall be willing in"
+       NET: "willingly follow you when you go into battle. On" for KJV's "shall be willing in"
+       WEB: "offer themselves willingly" for KJV's "shall be willing"
+v.7 — ASV: "Therefore will" for KJV's "therefore shall"
+       NET: "stream along" for KJV's "brook in"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Jesus is LORD, not merely a good teacher (v.1). This psalm

@@ -215,6 +215,27 @@ v.26 — KJV: "passing the love of women" / ESV: "surpassing the love
        the love of women (romantic/marital love). Jonathan's selfless
        devotion exceeded anything David had experienced in marriage.
 
+v.9 — ASV: "hath taken hold of" for KJV's "is come upon"
+       NET: "finish me off! I’m very dizzy, even though I’m still alive.’" for KJV's "slay me: for anguish is come upon me, because my life is ..."
+       WEB: "to me, ‘Please stand beside" for KJV's "unto me again, Stand, I pray thee, upon"
+v.10 — ASV: "So I stood beside him, and slew him, because I was sure that he could not live a..."
+       NET: "in such a condition. Then" for KJV's "after that he was fallen: and"
+       WEB: "had fallen." for KJV's "was fallen: and"
+v.13 — NET: "“Where are you from?” He replied, “I" for KJV's "Whence art thou? And he answered, I"
+       WEB: "“Where are you from?” He" for KJV's "Whence art thou? And he"
+v.18 — ASV: "[the song of]" for KJV's "the use of"
+       NET: "should be taught “The Bow.” Indeed," for KJV's "the use of the bow: behold,"
+v.19 — ASV: "Thy glory, O Israel," for KJV's "The beauty of Israel"
+       NET: "places! How" for KJV's "places: how are"
+       WEB: "“Your glory, Israel, was" for KJV's "The beauty of Israel is"
+v.21 — ASV: "dew nor rain" for KJV's "dew, neither let there be rain,"
+       NET: "grain offerings! For it was" for KJV's "offerings: for"
+       WEB: "was defiled and" for KJV's "is vilely"
+v.22 — NET: "warriors," for KJV's "the mighty,"
+       WEB: "didn’t turn back. Saul’s" for KJV's "of Jonathan turned not back, and the"
+v.26 — NET: "grieve over you," for KJV's "am distressed for thee,"
+       WEB: "to me. Your" for KJV's "hast thou been unto me: thy"
+
 GLOSSARY
 ------------------------------------
 The LORD's      — Hebrew "meshiach Yahweh" = the one anointed by God

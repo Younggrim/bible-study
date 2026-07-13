@@ -129,6 +129,18 @@ v.29 — "speak any thing amiss" (KJV) / "anything against" (ESV)
       challenged. The king who asked "who is that God?" now
       knows exactly who He is.
 
+v.1 — NET: "had a golden statue made. It" for KJV's "the king made an image of gold, whose height"
+       WEB: "cubits. He" for KJV's "cubits: he"
+v.25 — ASV: adds "a son of"
+       NET: "fire! No harm has come to them! And" for KJV's "fire, and they have no hurt; and"
+       WEB: "are unharmed. The appearance" for KJV's "have no hurt; and the form"
+v.27 — ASV: "that" for KJV's "upon whose bodies"
+       NET: "that those men were physically unharmed by" for KJV's "these men, upon whose bodies"
+       WEB: "wasn’t singed. Their pants weren’t" for KJV's "singed, neither were their coats"
+v.29 — ASV: "anything" for KJV's "any thing"
+       NET: "or language group that blasphemes" for KJV's "and language, which speak any thing amiss against"
+       WEB: "god who is able to" for KJV's "God that can"
+
 GLOSSARY
 ------------------------------------
 "But If Not" — The pinnacle of faith: trust in God's character

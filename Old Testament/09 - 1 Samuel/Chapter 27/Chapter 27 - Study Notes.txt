@@ -165,6 +165,18 @@ v.12 — KJV: "He hath made his people Israel utterly to abhor him" /
        ESV's "utter stench" captures the Hebrew metaphor more vividly
        than KJV's "utterly to abhor."
 
+v.1 — ASV: "all the borders" for KJV's "any coast"
+       NET: "thought to himself, “One of these days I’m going to be sw..." for KJV's "said in his heart, I shall now perish one day"
+       WEB: "all the borders" for KJV's "any coast"
+v.8 — ASV: adds "who were of old,"
+       NET: "Amalekites. (They had been living in that land for a long..." for KJV's "Gezrites, and"
+       WEB: "who were of old, on the way" for KJV's "as thou goest"
+v.10 — ASV: "raid to-day?" for KJV's "road to day?"
+       NET: "Judah” or “The Negev of Jerahmeel” or “The Negev" for KJV's "Judah, and against the south"
+       WEB: "raid today?”" for KJV's "road to day? And"
+v.12 — NET: "thinking to himself, “He is really hated among" for KJV's "saying, He hath made"
+       WEB: "him. Therefore" for KJV's "him; therefore"
+
 GLOSSARY
 ------------------------------------
 Ziklag         — A town in the Negev given to David by Achish (v.6).

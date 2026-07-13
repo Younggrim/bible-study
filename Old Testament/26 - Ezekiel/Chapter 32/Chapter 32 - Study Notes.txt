@@ -147,6 +147,18 @@ v.27 — "gone down to hell with their weapons of war" (KJV) —
       Sheol, they still have their weapons — but can no longer
       use them. Powerless in death.
 
+v.2 — ASV: "wast likened unto" for KJV's "art like"
+       NET: "seas; you thrash about in your streams, stir up the water" for KJV's "seas: and thou camest forth"
+       WEB: "“You were likened to" for KJV's "Thou art like"
+v.18 — NET: "Egypt. Bring it down; bring her" for KJV's "Egypt, and cast them down, even her,"
+       WEB: "those who" for KJV's "them that"
+v.21 — ASV: adds "still, even the"
+       NET: "his allies, saying: ‘The uncircumcised have come down;" for KJV's "them that help him: they are gone down,"
+       WEB: "down. The uncircumcised" for KJV's "down, they"
+v.27 — ASV: "bones; for [they were]" for KJV's "bones, though they were"
+       NET: "ancient times, who went" for KJV's "the uncircumcised, which are gone"
+       WEB: "bones; for" for KJV's "bones, though"
+
 GLOSSARY
 ------------------------------------
 Sheol — The Old Testament realm of the dead. Not identical to

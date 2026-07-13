@@ -144,6 +144,19 @@ v.26 — KJV: "a man is brought to a piece of bread" / ESV: "the
        adulteress costs everything (your life). The ESV contrast
        is sharper: the cheap sin has an expensive consequence.
 
+v.1 — ASV: "neighbor, If" for KJV's "friend, if"
+       NET: "you have become a guarantor for" for KJV's "thou hast stricken thy hand with"
+       WEB: "you have struck your hands in pledge for" for KJV's "thou hast stricken thy hand with"
+v.12 — ASV: "man of iniquity, Is he that" for KJV's "wicked man,"
+       NET: "person walks around saying perverse things;" for KJV's "man, walketh with a froward mouth."
+       WEB: "man of iniquity, is he who walks" for KJV's "wicked man, walketh"
+v.16 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord hates, even" for KJV's "LORD hate: yea,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.26 — ASV: "on account" for KJV's "by means"
+       NET: "wife of another man preys on your" for KJV's "adulteress will hunt for the"
+       WEB: "prostitute reduces you" for KJV's "whorish woman a man is brought"
+
 GLOSSARY
 ------------------------------------
 Sluggard        — Hebrew "'atsel" = the lazy, slothful person.

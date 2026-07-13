@@ -196,6 +196,18 @@ v.19 — Note: A genealogical puzzle exists here. Ezra 3:2 and
        (Deuteronomy 25:5-6). Thus Zerubbabel was biologically
        Pedaiah's son but legally Shealtiel's.
 
+v.1 — NET: "from Jezreel;" for KJV's "the Jezreelitess;"
+v.5 — NET: "Solomon—the mother" for KJV's "Solomon, four,"
+v.15 — ASV: "Josiah:" for KJV's "Josiah were,"
+       NET: "firstborn; Jehoiakim was born second; Zedekiah third, and..." for KJV's "firstborn Johanan, the second Jehoiakim, the third Zedeki..."
+       WEB: "Josiah:" for KJV's "Josiah were,"
+v.17 — ASV: "Jeconiah, the captive: Shealtiel" for KJV's "Jeconiah; Assir, Salathiel"
+       NET: "Jehoiachin the exile: Shealtiel" for KJV's "Jeconiah; Assir, Salathiel"
+       WEB: "Jeconiah, the captive: Shealtiel" for KJV's "Jeconiah; Assir, Salathiel"
+v.19 — ASV: "Shimei. And" for KJV's "Shimei: and"
+       NET: "Zerubbabel: Meshullam" for KJV's "Zerubbabel; Meshullam,"
+       WEB: "Zerubbabel: Meshullam" for KJV's "Zerubbabel; Meshullam,"
+
 GLOSSARY
 ------------------------------------
 David       — King of Israel (c. 1010-970 BC). Second king after

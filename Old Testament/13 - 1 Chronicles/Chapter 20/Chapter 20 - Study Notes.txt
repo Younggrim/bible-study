@@ -246,6 +246,22 @@ v.6  — KJV: "whose fingers and toes were four and twenty, six on
        Rephaim/giant lineage. The detail authenticates the account
        with specificity that a fabricator would not include.
 
+v.1 — ASV: "[to battle], that" for KJV's "to battle,"
+       NET: "normally conduct wars," for KJV's "go out to battle,"
+       WEB: "time of the return of the year," for KJV's "year was expired,"
+v.3 — ASV: "And thus did" for KJV's "Even so dealt"
+       NET: "Ammonite cities. Then" for KJV's "cities of the children of Ammon. And"
+       WEB: "iron picks," for KJV's "harrows of iron,"
+v.4 — ASV: "Philistines: then Sibbecai" for KJV's "Philistines; at which time Sibbechai"
+       NET: "Philistines in Gezer. At that" for KJV's "Philistines; at which"
+       WEB: "Philistines. Then Sibbecai" for KJV's "Philistines; at which time Sibbechai"
+v.5 — ASV: adds "the staff of"
+       NET: "had a shaft as big as the crossbeam of" for KJV's "staff was like"
+       WEB: adds "the staff of"
+v.6 — ASV: "born unto" for KJV's "the son of"
+       NET: "a large man who had six fingers on each hand and six toes..." for KJV's "war at Gath, where"
+       WEB: "There was" for KJV's "And yet"
+
 GLOSSARY
 ------------------------------------
 Rabbah      — Capital city of the Ammonites, modern-day Amman,

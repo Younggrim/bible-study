@@ -206,6 +206,19 @@ v.43 — KJV: "the joy of Jerusalem was heard even afar off" / ESV:
        became audible testimony to surrounding peoples — an
        involuntary witness to God's goodness.
 
+v.8 — NET: "songs of thanksgiving." for KJV's "thanksgiving, he and his brethren."
+v.27 — NET: "the places they lived" for KJV's "their places,"
+       WEB: "At" for KJV's "And at"
+v.31 — ASV: "thanks and went in procession; [whereof" for KJV's "thanks, whereof"
+       NET: "large choirs to give thanks. One was to proceed" for KJV's "great companies of them that gave thanks, whereof one went"
+       WEB: "thanks and went in procession. One" for KJV's "thanks, whereof one"
+v.39 — ASV: "gate of the guard." for KJV's "prison gate."
+       NET: "Hananel," for KJV's "Ephraim, and above the old gate, and above the fish gate,"
+       WEB: "gate of the guard." for KJV's "prison gate."
+v.43 — ASV: "And" for KJV's "Also that day"
+       NET: "joy. The women and children" for KJV's "joy: the wives"
+       WEB: "far away." for KJV's "afar off."
+
 GLOSSARY
 ------------------------------------
 Dedication   — Hebrew "chanukkah" (dedication, consecration). The

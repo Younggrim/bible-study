@@ -132,6 +132,19 @@ v.27 — KJV: "The slothful man roasteth not that which he took in
        but cannot follow through (cooking). He leaves tasks
        unfinished. He starts but doesn't complete.
 
+v.4 — ASV: "husband; But" for KJV's "husband: but"
+       NET: "the wife who acts shamefully" for KJV's "she that maketh ashamed"
+       WEB: adds "the crown of her husband, but"
+v.9 — ASV: "Than" for KJV's "is better than"
+       NET: "one who pretends to be somebody important yet has no food." for KJV's "he that honoureth himself, and lacketh bread."
+       WEB: "who honors" for KJV's "that honoureth"
+v.16 — ASV: "fool`s vexation" for KJV's "fool’s wrath"
+       NET: "conceals dishonor." for KJV's "man covereth shame."
+       WEB: "fool shows his annoyance the same day, but one who overlo..." for KJV's "fool’s wrath"
+v.27 — ASV: "men [is to] the diligent." for KJV's "a diligent man is precious."
+       NET: adds "personal possessions are precious to"
+       WEB: "doesn’t roast his game," for KJV's "roasteth not that which he took in hunting:"
+
 GLOSSARY
 ------------------------------------
 Virtuous/Excellent — Hebrew "chayil" = strength, valor, worth,

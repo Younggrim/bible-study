@@ -120,6 +120,15 @@ v.9  — KJV: "in a corner of the housetop" / ESV: "in a corner of
        comfortable indoors with a contentious woman. Peace over
        comfort.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord like channels" for KJV's "LORD, as the rivers"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "righteousness and"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — NET: "quarrelsome wife." for KJV's "brawling woman in a wide house."
+       WEB: "contentious woman." for KJV's "brawling woman in a wide house."
+
 GLOSSARY
 ------------------------------------
 King's Heart   — The most powerful human will on earth — yet God

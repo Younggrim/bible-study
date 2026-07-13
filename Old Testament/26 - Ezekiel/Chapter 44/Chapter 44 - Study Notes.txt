@@ -150,6 +150,22 @@ v.28 — "inheritance" — Hebrew "naḥălāh" = hereditary possession,
       the priests, naḥălāh means GOD. The most radical
       redefining of wealth in the Old Testament.
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "to me: “This" for KJV's "the LORD unto me; This"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "prince may" for KJV's "prince; the prince, he shall"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.17 — ASV: "be that," for KJV's "come to pass, that"
+       NET: "they must not have any" for KJV's "and no"
+       WEB: "“‘“It will be that," for KJV's "And it shall come to pass, that"
+v.18 — ASV: "[anything" for KJV's "any thing"
+       NET: "Linen turbans will be on their heads and" for KJV's "They shall have"
+       WEB: "waists. They" for KJV's "loins; they"
+v.28 — ASV: "have" for KJV's "be unto them for"
+       NET: "“‘This will" for KJV's "And it shall"
+       WEB: "“‘They" for KJV's "And it"
+
 GLOSSARY
 ------------------------------------
 Sons of Zadok — The priestly line descended from Zadok, David's

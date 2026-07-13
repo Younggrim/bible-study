@@ -204,6 +204,13 @@ v.3  — KJV: "seeking the wealth of his people, and speaking peace
        peace not just to present generations but to those yet
        to come.
 
+v.1 — NET: "land and on" for KJV's "king Ahasuerus laid a tribute upon"
+       WEB: "King" for KJV's "And the king"
+v.2 — NET: "great achievements, along with an exact statement concerning" for KJV's "might, and the declaration of"
+       WEB: "All" for KJV's "And all"
+v.3 — NET: "second only to King Ahasuerus. He was the highest-ranking..." for KJV's "next unto king Ahasuerus,"
+       WEB: "to King" for KJV's "unto king"
+
 GLOSSARY
 ------------------------------------
 Next unto/   — Hebrew "mishneh la-melekh" (second to the king).

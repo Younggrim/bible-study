@@ -165,6 +165,18 @@ v.20 — KJV: "My friends scorn me: but mine eye poureth out tears
        friends scorn while Job weeps to God. Human failure drives
        him to divine appeal.
 
+v.9 — ASV: "and persecuted me; He hath gnashed" for KJV's "who hateth me: he gnasheth"
+       NET: "His anger has torn" for KJV's "He teareth"
+       WEB: "and persecuted me. He has gnashed on" for KJV's "who hateth me: he gnasheth upon"
+v.12 — ASV: "pieces: He hath also" for KJV's "pieces, and"
+       NET: "has shattered me. He has seized" for KJV's "hath broken me asunder: he hath also taken"
+       WEB: "pieces. He has also" for KJV's "pieces, and"
+v.19 — ASV: "And he that voucheth for me" for KJV's "and my record"
+       NET: "Even now" for KJV's "Also now, behold,"
+       WEB: "heaven. He who vouches for me" for KJV's "heaven, and my record"
+v.20 — NET: "intercessor is my friend as my eyes pour" for KJV's "friends scorn me: but mine eye poureth"
+       WEB: "scoff at me. My eyes pour" for KJV's "scorn me: but mine eye poureth"
+
 GLOSSARY
 ------------------------------------
 Miserable     — (v.2) Those whose comfort increases misery. Not

@@ -241,6 +241,20 @@ v.33 — KJV: "the king's companion" / ESV: "the king's friend" —
        nuances of this advisory role that combined personal
        loyalty with political function.
 
+v.1 — ASV: "heads of fathers` [houses]" for KJV's "chief fathers"
+       NET: "various matters. Each division was assigned to serve for ..." for KJV's "any matter"
+       WEB: "heads of fathers’ households" for KJV's "chief fathers"
+v.7 — NET: "Zebadiah succeeded him. His division consisted of 24,000 ..." for KJV's "after him: and in his course were twenty and four thousand."
+       WEB: "twenty-four" for KJV's "twenty and four"
+v.22 — NET: "Jeroham led Dan.These" for KJV's "Jeroham. These"
+v.25 — NET: "Azmaveth son of Adiel was in charge of" for KJV's "And over"
+       WEB: "Over" for KJV's "And over"
+v.32 — ASV: "Jonathan, David`s uncle," for KJV's "Jonathan David’s uncle"
+       NET: "Hacmoni cared for" for KJV's "Hachmoni was with"
+       WEB: "man of understanding," for KJV's "wise man,"
+v.33 — ASV: "king`s friend:" for KJV's "king’s companion:"
+       NET: "adviser;Hushai" for KJV's "counsellor: and Hushai"
+
 GLOSSARY
 ------------------------------------
 Course      — Hebrew "machalaqah" (division/rotation). The monthly

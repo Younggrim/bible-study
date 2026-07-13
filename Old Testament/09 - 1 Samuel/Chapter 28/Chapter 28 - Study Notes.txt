@@ -193,6 +193,18 @@ v.19 — KJV: "tomorrow shalt thou and thy sons be with me" / ESV:
        necessarily imply the same eternal destiny — it means they will
        join the dead. The prophecy is fulfilled in chapter 31.
 
+v.7 — NET: "medium in Endor.”" for KJV's "familiar spirit at Endor."
+       WEB: "her.” His" for KJV's "her. And his"
+v.13 — ASV: "see a god coming up" for KJV's "saw gods ascending"
+       NET: "have you seen?” The woman replied to Saul, “I have seen a..." for KJV's "sawest thou? And"
+       WEB: "“Don’t be afraid! What do you see?” The" for KJV's "Be not afraid: for what sawest thou? And the"
+v.14 — ASV: "did obeisance." for KJV's "bowed himself."
+       NET: "“What about his appearance?” She" for KJV's "What form is he of? And she"
+       WEB: "look like?” She" for KJV's "said unto her, What form is he of? And she"
+v.19 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Philistines!”" for KJV's "hand of the Philistines."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Medium/Familiar spirit — Hebrew "ob" (v.7) = a spirit of the dead, a

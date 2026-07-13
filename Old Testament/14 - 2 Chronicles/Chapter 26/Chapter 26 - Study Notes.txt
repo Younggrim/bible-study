@@ -207,6 +207,22 @@ v.21 — KJV: "dwelt in a several house" / ESV: "lived in a
        from both Temple and palace — free from duties but cut off
        from God's presence.
 
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "taught him how to honor God. As" for KJV's "had understanding in the visions of God: and as"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.10 — ASV: "lowland also," for KJV's "low country,"
+       NET: "foothills and on the plain. He had workers in the fields ..." for KJV's "low country,"
+       WEB: "plain. He had farmers" for KJV's "plains: husbandmen also,"
+v.14 — ASV: "stones for slinging." for KJV's "slings to cast stones."
+       NET: "slingstones for the entire army." for KJV's "slings to cast stones."
+       WEB: "stones for slinging." for KJV's "slings to cast stones."
+v.16 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "pride destroyed him. He disobeyed the Lord his God. He en..." for KJV's "heart was lifted up"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.21 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "he died. He lived in separate quarters, afflicted by a sk..." for KJV's "of his death,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Uzziah/     — King of Judah, also called Azariah (2 Kings 15). His

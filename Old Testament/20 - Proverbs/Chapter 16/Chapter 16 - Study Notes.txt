@@ -147,6 +147,19 @@ v.33 — KJV: "the whole disposing thereof" / ESV: "every decision"
        Acts 1:26) precisely because they trusted God's sovereignty
        over the result.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "tongue comes" for KJV's "tongue, is"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord has worked everything" for KJV's "LORD hath made all things"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.24 — ASV: "[as] a" for KJV's "as an"
+       NET: "like a" for KJV's "as an"
+       WEB: "a" for KJV's "as an"
+v.33 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "their every decision is from"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Commit (galal)  — To roll, transfer weight. The image is of rolling

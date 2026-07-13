@@ -182,6 +182,18 @@ v.20 — KJV: "Surely he shall not feel quietness in his belly" /
        satisfied. He consumed everything and was never content —
        therefore God empties him by force.
 
+v.2 — ASV: "me, Even by reason of my haste that is in me." for KJV's "answer, and for this I make haste."
+       NET: "back— because of my feelings within me." for KJV's "to answer, and for this I make haste."
+       WEB: "me, even by reason of my haste that is in me." for KJV's "answer, and for this I make haste."
+v.7 — ASV: "They that" for KJV's "they which"
+       NET: "excrement; those who used to see" for KJV's "dung: they which have seen"
+       WEB: "dung. Those who" for KJV's "dung: they which"
+v.14 — NET: "stomach;" for KJV's "bowels is turned,"
+       WEB: "cobra venom" for KJV's "the gall of asps"
+v.20 — ASV: "within him, He" for KJV's "in his belly, he"
+       NET: "knows no satisfaction" for KJV's "shall not feel quietness"
+       WEB: "within him," for KJV's "in his belly,"
+
 GLOSSARY
 ------------------------------------
 Portion       — (v.29) Hebrew "cheleq" — allotment, assigned share.

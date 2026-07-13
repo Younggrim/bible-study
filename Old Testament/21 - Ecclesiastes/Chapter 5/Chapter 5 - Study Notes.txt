@@ -154,6 +154,16 @@ v.20 — KJV: "God answereth him in the joy of his heart" / ESV:
        person's heart with enough joy that they do not obsess over
        life's brevity. Joy is God's distraction from vanity.
 
+v.1 — ASV: "God; for" for KJV's "God, and be more ready"
+       NET: "(4:17) Be careful what you do" for KJV's "Keep thy foot"
+       WEB: "Guard your steps" for KJV's "Keep thy foot"
+v.6 — NET: "sin, and do not tell" for KJV's "cause thy flesh to sin; neither say thou before"
+       WEB: "lead you into sin. Don’t protest" for KJV's "cause thy flesh to sin; neither say thou"
+v.8 — ASV: "one" for KJV's "he that is"
+       NET: adds "the government, do not be astonished by the matter. For t..."
+       WEB: "are officials over them." for KJV's "be higher than they."
+v.20 — WEB: "often reflect on" for KJV's "much remember"
+
 GLOSSARY
 ------------------------------------
 Vow (neder) — A solemn promise made to God, often conditional

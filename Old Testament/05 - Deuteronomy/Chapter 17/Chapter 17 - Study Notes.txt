@@ -202,6 +202,26 @@ v.18  — Hebrew "mishneh ha-torah ha-zot." — "Mishneh" = copy, duplicate.
        ESV: "a copy of this law"
        Analysis: Hebrew "mishneh ha-torah ha-zot." "Mishneh" = copy, duplicate. The Greek translation (LXX) rendered this "deuteronomion" (second law) — giving the book its name "Deuteronomy." The king personally copies the law — not delegated to a scribe.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "sheep that has a blemish" for KJV's "sheep, wherein is blemish,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — NET: "other heavenly bodies that" for KJV's "of the host of heaven, which"
+       WEB: "and has" for KJV's "And hath"
+v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "you to judge—bloodshed, legal claim, or assault—matters" for KJV's "thee in judgment, between blood and blood, between plea a..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "currently serving the Lord your God there, or to the judg..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.15 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "your fellow citizens you must appoint a king—you may" for KJV's "thy brethren shalt thou set king over thee: thou mayest"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.16 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "for himself or allow" for KJV's "to himself, nor cause"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.18 — NET: "scroll given to him by" for KJV's "book out of that which is before"
+       WEB: "sits on" for KJV's "sitteth upon"
+
 GLOSSARY
 ------------------------------------
 Two-Witness Rule — The requirement that no person be convicted of a

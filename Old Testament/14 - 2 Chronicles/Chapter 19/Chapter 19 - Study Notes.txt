@@ -197,6 +197,22 @@ v.11 — KJV: "the LORD shall be with the good" / ESV: "may the
        is subtle: KJV makes it a certain promise; ESV makes it
        a prayerful benediction.
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord? Because you have done this, the Lord" for KJV's "LORD? therefore"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — ASV: "set thy" for KJV's "prepared thine"
+       NET: "things; you removed" for KJV's "things found in thee, in that thou hast taken away"
+       WEB: "have set your" for KJV's "hast prepared thine"
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "injustice, partiality," for KJV's "the LORD be upon you; take heed"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "to settle disputes among the residents"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "in every matter pertaining to" for KJV's "for all"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Seer        — Hebrew "chozeh" (one who sees/perceives). A prophet

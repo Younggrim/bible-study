@@ -164,6 +164,18 @@ v.26 — "trusteth in his own heart" — Hebrew "boteach belibbo."
        the act of trusting but the object: trusting the heart
        (fallen self) vs. trusting the LORD.
 
+v.1 — ASV: "pursueth; But" for KJV's "pursueth: but"
+       NET: "person can be as confident" for KJV's "are bold"
+       WEB: "one pursues;" for KJV's "man pursueth:"
+v.13 — NET: "whoever confesses them" for KJV's "whoso confesseth"
+       WEB: "whoever confesses" for KJV's "whoso confesseth"
+v.14 — ASV: "alway; But" for KJV's "alway: but"
+       NET: "one who is always cautious," for KJV's "man that feareth alway:"
+       WEB: "who always fears;" for KJV's "that feareth alway:"
+v.26 — ASV: "fool; But" for KJV's "fool: but"
+       NET: "the one who walks in wisdom will escape." for KJV's "whoso walketh wisely, he shall be delivered."
+       WEB: "one who walks in wisdom is kept safe." for KJV's "whoso walketh wisely, he shall be delivered."
+
 GLOSSARY
 ------------------------------------
 Usury (v.8)   — Hebrew "neshek" (literally "a bite") — interest

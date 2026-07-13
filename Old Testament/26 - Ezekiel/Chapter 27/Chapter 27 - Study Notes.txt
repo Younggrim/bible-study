@@ -133,6 +133,18 @@ v.26 — "east wind" (KJV/ESV) — Hebrew "ruach haqadim" = the same
       destructive east wind as 19:12. Consistently symbolizes
       Babylon's devastating force sweeping from the east.
 
+v.5 — ASV: "fir-trees from Senir;" for KJV's "fir trees of Senir:"
+       NET: "your planks out" for KJV's "thy ship boards"
+       WEB: "from Senir. They" for KJV's "of Senir: they"
+v.6 — ASV: "ivory inlaid in boxwood, from" for KJV's "ivory, brought out of"
+       NET: "your deck with cypress wood from" for KJV's "thine oars;"
+       WEB: "ivory inlaid in boxwood from the islands" for KJV's "ivory, brought out"
+v.7 — ASV: "thee for an ensign;" for KJV's "be thy sail;"
+       NET: "were used for your deck’s awning." for KJV's "was that which covered thee."
+       WEB: "you for a banner. Blue" for KJV's "be thy sail; blue"
+v.26 — NET: "surging waters. The" for KJV's "great waters: the"
+       WEB: "waters. The" for KJV's "waters: the"
+
 GLOSSARY
 ------------------------------------
 Ship-Lament — A poetic genre depicting a city or nation as a

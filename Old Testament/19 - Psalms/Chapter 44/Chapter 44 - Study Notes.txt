@@ -133,6 +133,22 @@ TRANSLATION COMPARISON
 ------------------------------------
 
 
+v.2 — ASV: adds "didst plant: Thou"
+       NET: "You, by your power, defeated nations and settled our fath..." for KJV's "How thou didst drive out"
+       WEB: "but you planted them. You afflicted" for KJV's "and plantedst them; how thou didst afflict"
+v.3 — ASV: "wast favorable" for KJV's "hadst a favour"
+       NET: "good favor, for you were partial to" for KJV's "thine arm, and the light of thy countenance, because thou..."
+       WEB: "you were favorable to" for KJV's "thou hadst a favour unto"
+v.5 — ASV: "adversaries: Through" for KJV's "enemies: through"
+       NET: adds "drive back our enemies; by your strength"
+       WEB: "adversaries. Through your name," for KJV's "enemies: through thy name"
+v.13 — ASV: "neighbors, A scoffing" for KJV's "neighbours, a scorn"
+       NET: "neighbors; those who live on our borders taunt" for KJV's "neighbours, a scorn"
+       WEB: "those who" for KJV's "them that"
+v.14 — ASV: "nations, A" for KJV's "heathen, a"
+       NET: "nations; foreigners treat us with contempt." for KJV's "heathen, a shaking of the head among the people."
+       WEB: "You make" for KJV's "Thou makest"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Faith does not guarantee freedom from suffering. This psalm

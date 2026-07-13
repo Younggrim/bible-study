@@ -161,6 +161,17 @@ v.6  — KJV: "the silver cord" / ESV: "the silver cord" — Four
        cistern (circulatory system). All describe life's mechanism
        breaking irreparably.
 
+v.1 — ASV: "come, and" for KJV's "come not, nor"
+       NET: "your youth— before" for KJV's "thy youth, while"
+       WEB: "also your" for KJV's "now thy"
+v.3 — NET: "those who keep watch over" for KJV's "the keepers of"
+v.5 — ASV: "terrors [shall be]" for KJV's "fears shall be"
+       NET: "the caper berry shrivels up—" for KJV's "desire shall fail:"
+       WEB: "terrors will" for KJV's "fears shall"
+v.6 — ASV: "before" for KJV's "Or ever"
+       NET: "is removed," for KJV's "be loosed,"
+       WEB: "is severed," for KJV's "be loosed,"
+
 GLOSSARY
 ------------------------------------
 Creator (bore') — The One who formed and made you. From "bara'"

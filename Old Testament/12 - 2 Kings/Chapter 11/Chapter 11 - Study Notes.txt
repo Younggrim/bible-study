@@ -177,6 +177,18 @@ v.14 — KJV: "Treason, Treason" / ESV: "Treason! Treason!" —
        and usurp the throne cries "conspiracy" when the rightful
        king is restored.
 
+v.1 — NET: "was determined to destroy" for KJV's "arose and destroyed all"
+       WEB: "royal offspring." for KJV's "seed royal."
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s temple. He made an agreement with them" for KJV's "house of the LORD,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.12 — ASV: "[Long] live" for KJV's "God save"
+       NET: "poured olive oil on his head. They" for KJV's "they made him king, and anointed him; and they"
+       WEB: "“Long live" for KJV's "God save"
+v.14 — ASV: "Treason! treason!" for KJV's "Treason, Treason."
+       NET: "blowing trumpets. Athaliah tore her clothes" for KJV's "blew with trumpets:"
+       WEB: "“Treason! Treason!”" for KJV's "Treason, Treason."
+
 GLOSSARY
 ------------------------------------
 Athaliah     — Daughter of Ahab and Jezebel (or granddaughter of

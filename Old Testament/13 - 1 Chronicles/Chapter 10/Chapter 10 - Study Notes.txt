@@ -183,6 +183,20 @@ v.14 — KJV: "therefore he slew him" / ESV: "Therefore the LORD put
        ("the LORD"). The Hebrew is clear: God is the subject. The
        Philistine arrows were the means; God was the cause.
 
+v.4 — ASV: "Then said Saul unto his armor-bearer, Draw thy sword, and thrust me through ther..."
+       NET: "armor-bearer refused to do it because" for KJV's "armourbearer would not; for"
+       WEB: "armor bearer, “Draw your" for KJV's "armourbearer, Draw thy"
+v.6 — NET: "sons died;" for KJV's "sons, and all"
+       WEB: "died with" for KJV's "died, and"
+v.10 — NET: "They placed" for KJV's "And they put"
+       WEB: "They" for KJV's "And they"
+v.13 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "conjure up underworld spirits." for KJV's "enquire of it;"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.14 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s guidance, so the Lord killed him" for KJV's "LORD: therefore he slew him,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Saul        — First king of Israel, son of Kish, of Benjamin.

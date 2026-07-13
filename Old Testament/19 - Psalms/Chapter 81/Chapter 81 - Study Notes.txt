@@ -105,6 +105,13 @@ v.12 — KJV: "I gave them up unto their own hearts' lust" / ESV:
        ESV emphasizes stubbornness; KJV emphasizes desire. Both
        describe the same reality: self-will as divine punishment.
 
+v.5 — ASV: "He appointed it" for KJV's "This he ordained"
+       NET: "He decreed it as a regulation" for KJV's "This he ordained"
+       WEB: "He appointed it" for KJV's "This he ordained"
+v.12 — ASV: "go after the stubbornness of" for KJV's "up unto"
+       NET: "did what seemed right to them." for KJV's "walked in their own counsels."
+       WEB: "go after the stubbornness of" for KJV's "up unto"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "Open your mouth wide and I will fill it" (v.10). God's

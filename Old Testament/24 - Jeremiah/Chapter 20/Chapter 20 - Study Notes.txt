@@ -112,6 +112,17 @@ v.14 — "cursed" (KJV/ESV) — Hebrew "arur" = the formal curse
       formula. Not casual frustration but LITURGICAL cursing of
       the day — the same word used in Deuteronomy's curses.
 
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "“The Lord’s name for you is" for KJV's "The LORD hath"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "have become a constant laughingstock. Everyone ridicules" for KJV's "am in derision daily, every one mocketh"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — ASV: "name, then there is" for KJV's "name. But his word was"
+       NET: "speak as his messenger anymore.” But then his message bec..." for KJV's "make mention"
+       WEB: "name, then there is" for KJV's "name. But his word was"
+v.14 — NET: "born! May that day" for KJV's "born: let"
+
 GLOSSARY
 ------------------------------------
 Magor-Missabib — "Terror on Every Side" — the prophetic name

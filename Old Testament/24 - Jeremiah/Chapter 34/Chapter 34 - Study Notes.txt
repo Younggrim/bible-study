@@ -56,6 +56,15 @@ v.17 — "proclaim a liberty for you" (KJV/ESV) — Hebrew "qore lakhem deror." 
 
 v.18 — "cut the calf in twain" (KJV) / "cut the calf in two" (ESV) — Hebrew "karat ha-egel." The self-maledictory oath: "let me be cut like this if I fail." They failed. The curse activates.
 
+v.14 — ASV: adds "ye shall"
+       NET: "each of you must free any fellow Hebrews who have" for KJV's "let ye go every man his brother an Hebrew, which hath been"
+       WEB: adds "of you shall release"
+v.17 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "really obeyed me and granted freedom to your neighbor and..." for KJV's "hearkened unto me,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.18 — NET: "calf they cut in two and passed between its pieces. I wil..." for KJV's "men that have transgressed my covenant, which have"
+       WEB: "its parts:" for KJV's "the parts thereof,"
+
 GLOSSARY
 ------------------------------------
 Slave-Release Covenant — Zedekiah's forced implementation of the long-ignored Exodus law: Hebrew slaves freed after 7 years. Made under siege-pressure, broken when pressure lifted.

@@ -253,6 +253,31 @@ v.28 — KJV: "I have lent him to the LORD" / ESV: "I have lent him to
        him back. Both translations capture this, though "lent" in
        English undersells the permanence — Samuel is given for life.
 
+v.1 — NET: adds "from Ramathaim Zophim, from the hill country"
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "double portion because" for KJV's "worthy portion; for"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "to the point of exasperation, just to irritate her, since..." for KJV's "adversary also provoked"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "life. His hair will never be cut.”" for KJV's "life, and there shall no razor come upon his head."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.16 — ASV: "wicked woman;" for KJV's "daughter of Belial:"
+       NET: "wicked woman. It’s just that, to this point, I have spoke..." for KJV's "daughter of Belial: for out of the abundance of"
+       WEB: "Don’t consider your servant a wicked woman;" for KJV's "Count not thine handmaid"
+v.20 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Then Hannah became pregnant. In the course of time she ga..." for KJV's "Wherefore it came"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.24 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "wine. She came to" for KJV's "wine, and brought him unto"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.25 — NET: "They slaughtered the bull, then" for KJV's "And they slew a bullock, and"
+       WEB: "They killed the bull," for KJV's "And they slew a bullock,"
+v.28 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord. For all the days of his life" for KJV's "LORD; as long as"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Ramathaim-zophim — Hebrew "the two heights of the watchers/seers."

@@ -168,6 +168,16 @@ v.40 — Both translations: "The words of Job are ended" — This is a
        the close of Job's defense and prepares for the new voice
        of Elihu in chapter 32.
 
+v.1 — NET: "entertain thoughts against" for KJV's "think upon"
+       WEB: "look lustfully at" for KJV's "think upon"
+v.33 — ASV: "transgressions, By" for KJV's "transgressions as Adam, by"
+       WEB: "transgressions," for KJV's "transgressions as Adam,"
+v.35 — ASV: "me); And [that I had] the indictment which" for KJV's "me, and that"
+       NET: "me! If only I had an indictment" for KJV's "me, and"
+       WEB: "me! Let the accuser write my indictment!" for KJV's "me, and that mine adversary had written a book."
+v.40 — NET: "then let thorns sprout up in place" for KJV's "Let thistles grow instead"
+       WEB: "let briers" for KJV's "Let thistles"
+
 GLOSSARY
 ------------------------------------
 Self-        — An ancient legal form in which the speaker invokes

@@ -152,6 +152,15 @@ v.15 — "Ariel" — Hebrew "ari'ēl" = "lion of God" or "hearth of
       the "hearth" — warm, sustaining. Isaiah 29:1 also uses
       "Ariel" for Jerusalem's altar.
 
+v.2 — ASV: "the sound" for KJV's "a noise"
+       NET: "rushing water," for KJV's "many waters:"
+       WEB: "east. His" for KJV's "east: and his"
+v.7 — ASV: adds "[this is]"
+       NET: "forever. The house of Israel will no longer profane" for KJV's "for ever, and"
+       WEB: "forever. The house of Israel will no more defile" for KJV's "for ever, and"
+v.15 — NET: "hearth, 7 feet," for KJV's "shall be four cubits;"
+       WEB: "The upper" for KJV's "So the"
+
 GLOSSARY
 ------------------------------------
 Glory (Kāḇôḏ) — The visible, weighty manifestation of God's

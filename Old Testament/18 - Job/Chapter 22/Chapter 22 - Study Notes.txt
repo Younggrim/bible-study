@@ -143,6 +143,21 @@ v.24 — KJV: "lay up gold as dust" / ESV: "lay gold in the dust" —
        Hebrew supports the ESV: if you abandon gold, God becomes
        your treasure (v.25).
 
+v.3 — ASV: "[to him]," for KJV's "to him"
+       NET: "you should be righteous," for KJV's "thou art righteous?"
+       WEB: "you make your" for KJV's "thou makest thy"
+v.8 — ASV: "honorable man, he" for KJV's "honourable man"
+       NET: "Although you were a powerful" for KJV's "But as for the mighty"
+       WEB: "earth. The honorable man, he lived" for KJV's "earth; and the honourable man dwelt"
+v.21 — NET: "peace with him; in this way your prosperity will be good." for KJV's "peace: thereby good shall come unto thee."
+       WEB: "“Acquaint yourself" for KJV's "Acquaint now thyself"
+v.24 — ASV: "[thy] treasure in the dust, And [the" for KJV's "lay up"
+       NET: "and throw your" for KJV's "Then shalt thou lay up"
+       WEB: "Lay your treasure in the" for KJV's "Then shalt thou lay up gold as"
+v.25 — ASV: "treasure, And precious silver unto thee." for KJV's "defence, and thou shalt have plenty of silver."
+       NET: "the choicest silver for you." for KJV's "thou shalt have plenty of silver."
+       WEB: "precious silver to you." for KJV's "thou shalt have plenty of silver."
+
 GLOSSARY
 ------------------------------------
 Pledge       — A garment or possession taken as security for a

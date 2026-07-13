@@ -107,6 +107,16 @@ v.27 — "whoredoms" (KJV) / "adulteries" (ESV) — Hebrew
       "na'aphuyikh" = your acts of adultery. Spiritual unfaith-
       fulness described in the most visceral relational terms.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "The Lord said to" for KJV's "Thus saith the LORD unto"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — NET: "Perath. Bury the shorts" for KJV's "Euphrates, and hide it"
+       WEB: "you have bought," for KJV's "thou hast got,"
+v.23 — NET: adds "But there is little hope for you ever doing good, you who..."
+v.27 — ASV: adds "thine abominations, even"
+       NET: "your lustful pursuit of, other gods. I have seen your dis..." for KJV's "thy neighings, the lewdness"
+       WEB: "clean. How long will" for KJV's "clean? when shall"
+
 GLOSSARY
 ------------------------------------
 Linen Girdle — The priestly undergarment that clings closest to

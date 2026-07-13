@@ -235,6 +235,19 @@ v.35 — KJV: "the higher gate of the house of the LORD" / ESV:
        Jotham's construction project shows his devotion to
        maintaining the Temple infrastructure.
 
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "he died. He lived in separate quarters, while his son Jot..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.10 — NET: "took" for KJV's "smote him before the people, and slew him, and reigned in"
+v.16 — ASV: "borders thereof," for KJV's "coasts thereof"
+       NET: adds "attacked Tiphsah. He struck down"
+       WEB: "didn’t open their gates" for KJV's "opened not"
+v.19 — ASV: "Assyria;" for KJV's "Assyria came against the land:"
+       NET: "paid him 1,000" for KJV's "gave Pul a thousand"
+v.35 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s temple." for KJV's "house of the LORD."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Azariah/     — The same king known by two names. "Azariah" means

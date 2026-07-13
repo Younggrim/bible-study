@@ -133,6 +133,15 @@ v.34 — KJV: "lieth upon the top of a mast" / ESV: "lies on the
        doesn't realize the danger of his position — like sleeping
        at the top of a ship's mast in a storm.
 
+v.7 — ASV: "within himself," for KJV's "in his heart,"
+       NET: "mind. “Eat" for KJV's "heart, so is he: Eat"
+       WEB: "thinks about the cost," for KJV's "thinketh in his heart,"
+v.31 — ASV: "goeth down smoothly:" for KJV's "moveth itself aright."
+       NET: "goes down smoothly." for KJV's "moveth itself aright."
+       WEB: "goes down smoothly." for KJV's "moveth itself aright."
+v.34 — NET: "and like one who lies down on" for KJV's "or as he that lieth upon"
+       WEB: "Yes, you will" for KJV's "Yea, thou shalt"
+
 GLOSSARY
 ------------------------------------
 Mixed Wine     — Hebrew "mimsak" = spiced, mixed, blended wine.

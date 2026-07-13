@@ -135,6 +135,21 @@ v.17 — KJV: "guide of her youth" / ESV: "companion of her youth"
        This refers to her husband — the one she married young.
        She has abandoned her marriage covenant.
 
+v.1 — ASV: "And lay up" for KJV's "and hide"
+       NET: "commands inside yourself," for KJV's "commandments with thee;"
+       WEB: "within you;" for KJV's "with thee;"
+v.7 — ASV: "upright; [He is]" for KJV's "righteous: he is"
+       NET: "shield for those who live with integrity," for KJV's "buckler to them that walk uprightly."
+       WEB: "upright. He" for KJV's "righteous: he"
+v.12 — ASV: "speak perverse" for KJV's "speaketh froward"
+       NET: "those speaking perversity," for KJV's "the man that speaketh froward things;"
+       WEB: "men who speak perverse" for KJV's "man that speaketh froward"
+v.16 — ASV: "foreigner that" for KJV's "stranger which"
+       NET: "loose woman who has flattered you" for KJV's "stranger which flattereth"
+       WEB: "foreigner who flatters" for KJV's "stranger which flattereth"
+v.17 — NET: "has ignored her marriage" for KJV's "forgetteth the"
+       WEB: "who forsakes" for KJV's "Which forsaketh"
+
 GLOSSARY
 ------------------------------------
 Sound Wisdom   — Hebrew "tushiyyah" = effective wisdom, success,

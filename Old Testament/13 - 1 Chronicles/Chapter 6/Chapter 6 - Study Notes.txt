@@ -191,6 +191,20 @@ v.57 — KJV: "the city of refuge" / ESV: "the cities of refuge" —
        refuge is theologically rich: mercy and priesthood
        coexisted.
 
+v.10 — NET: "who served as a priest" for KJV's "(he it is that executed the priest’s office"
+       WEB: "who" for KJV's "(he it is that"
+v.28 — ASV: "first-born [Joel]," for KJV's "firstborn Vashni,"
+       NET: "The" for KJV's "And the"
+       WEB: "firstborn, Joel," for KJV's "firstborn Vashni,"
+v.33 — ASV: "waited, and" for KJV's "waited with"
+       NET: "the ones who served along" for KJV's "they that waited"
+       WEB: "those who served, and" for KJV's "they that waited with"
+v.54 — ASV: "dwelling-places according to" for KJV's "dwelling places throughout"
+       NET: "areas where Aaron’s descendants lived: The following belo..." for KJV's "sons of Aaron, of"
+       WEB: "Kohathites (for" for KJV's "Kohathites: for"
+v.57 — NET: "its pasturelands, Jattir, Eshtemoa" for KJV's "Libnah with her suburbs,"
+       WEB: "Eshtemoa" for KJV's "and Eshtemoa,"
+
 GLOSSARY
 ------------------------------------
 Levi        — Third son of Jacob by Leah. His tribe received no

@@ -189,6 +189,21 @@ v.15 — KJV: "were employed about this matter" / ESV: "opposed
        administrative support. The four names may be dissenters or
        administrators — context is unclear.
 
+v.2 — ASV: "married foreign women" for KJV's "taken strange wives"
+       NET: "God by marrying foreign women from" for KJV's "God, and have taken strange wives of"
+       WEB: "married foreign women" for KJV's "taken strange wives"
+v.3 — NET: "their offspring, in keeping with your counsel," for KJV's "such as are born of them, according to the counsel of"
+       WEB: "God. Let" for KJV's "God; and let"
+v.8 — ASV: "the captivity." for KJV's "those that had been carried away."
+       NET: "days would thereby forfeit all his property, in keeping with" for KJV's "days, according to"
+       WEB: "whoever didn’t" for KJV's "whosoever would not"
+v.9 — ASV: "broad place before" for KJV's "street of"
+       NET: "that month.) All" for KJV's "the month; and all"
+       WEB: "God’s house," for KJV's "the house of God,"
+v.15 — ASV: "stood up against" for KJV's "were employed about"
+       NET: "against this, assisted by" for KJV's "employed about this matter: and"
+       WEB: "stood up against this;" for KJV's "were employed about this matter:"
+
 GLOSSARY
 ------------------------------------
 Put Away/   — Hebrew "lehotsi" (to send out) — formal divorce

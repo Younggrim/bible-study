@@ -186,6 +186,18 @@ v.23 — KJV: "those that dwelt among plants and hedges" / ESV:
        possible. ESV's reading is preferred by most modern scholars
        as these appear to be town names.
 
+v.9 — NET: "for she said, “I experienced pain when" for KJV's "saying, Because"
+       WEB: "brothers. His" for KJV's "brethren: and his"
+v.10 — ASV: "to my sorrow!" for KJV's "grieve me!"
+       NET: "“If only you would greatly" for KJV's "saying, Oh that thou wouldest"
+       WEB: "border! May your" for KJV's "coast, and that thine"
+v.14 — ASV: "Ge-harashim;" for KJV's "the valley of Charashim;"
+       NET: "was the father of Ophrah.Seraiah was the father of" for KJV's "begat Ophrah: and Seraiah begat"
+       WEB: "became" for KJV's "begat Joab,"
+v.23 — ASV: "the inhabitants of Netaim" for KJV's "those that dwelt among plants"
+       NET: "Gederah; they lived there" for KJV's "those that dwelt among plants"
+       WEB: "the inhabitants of Netaim" for KJV's "those that dwelt among plants"
+
 GLOSSARY
 ------------------------------------
 Jabez       — A man "more honorable than his brothers" whose name

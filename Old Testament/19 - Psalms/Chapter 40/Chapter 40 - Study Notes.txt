@@ -182,6 +182,25 @@ toward me." The same verb (chashab) used for "imputing" sin in
 Psalm 32:2 is here used positively — God "reckons" the poor and
 needy as worthy of attention. He actively plans on their behalf.
 
+v.2 — ASV: "clay; And he" for KJV's "clay, and"
+       NET: "gave me secure footing." for KJV's "established my goings."
+       WEB: "gave me a firm place to stand." for KJV's "established my goings."
+v.6 — ASV: "hast no delight in; Mine" for KJV's "didst not desire; mine"
+       NET: "your primary concern. You make that quite clear to me. Yo..." for KJV's "desire; mine ears hast thou opened:"
+       WEB: "you didn’t desire. You have opened my ears. You have" for KJV's "thou didst"
+v.7 — ASV: "am come; In" for KJV's "come: in"
+       NET: "scroll pertains to me." for KJV's "volume of the book it is written of me,"
+       WEB: "book in" for KJV's "volume of"
+v.8 — ASV: "God; Yea," for KJV's "God: yea,"
+       NET: "what pleases you," for KJV's "thy will, O"
+       WEB: "God. Yes, your" for KJV's "God: yea, thy"
+v.12 — ASV: "my head; And" for KJV's "mine head: therefore"
+       NET: "dangers surround me. My sins overtake" for KJV's "evils have compassed"
+       WEB: "surrounded me. My" for KJV's "compassed me about: mine"
+v.17 — ASV: adds "Psalm 41 For the Chief Musician. A Psalm of David."
+       NET: "pay attention to me. You are" for KJV's "thinketh upon me: thou art"
+       WEB: "think about me. You are" for KJV's "thinketh upon me: thou art"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "I waited patiently for the LORD" (v.1) — the Hebrew doubles

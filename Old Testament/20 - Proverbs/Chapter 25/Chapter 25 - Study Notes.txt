@@ -150,6 +150,16 @@ v.22 — KJV: "heap coals of fire upon his head" / ESV: same — The
        conviction. Paul quotes this in Romans 12:20 without
        explaining the metaphor, treating it as self-evident.
 
+v.1 — NET: "copied:" for KJV's "copied out."
+v.11 — ASV: "Is [like]" for KJV's "is like"
+       NET: "Like" for KJV's "A word fitly spoken is like"
+v.20 — ASV: "[As] one" for KJV's "As he"
+       NET: "Like one who takes off" for KJV's "As he that taketh away"
+       WEB: "one who takes" for KJV's "he that taketh"
+v.22 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "for you will" for KJV's "For thou shalt"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Apples of Gold — Hebrew "tappuche zahav" = possibly golden apples,

@@ -210,6 +210,20 @@ v.24 — KJV: "tare forty and two children" / ESV: "tore forty-two
        killed them. The number forty-two suggests a large,
        organized group, not a few stray children.
 
+v.9 — NET: "that energizes you?”" for KJV's "be upon me."
+       WEB: "“Please" for KJV's "I pray thee,"
+v.11 — ASV: "[there appeared]" for KJV's "there appeared"
+       NET: "windstorm." for KJV's "whirlwind into heaven."
+       WEB: "fire separated them," for KJV's "fire, and parted them both asunder;"
+v.12 — NET: "was crying out, “My" for KJV's "cried, My"
+       WEB: "its horsemen!” He" for KJV's "the horsemen thereof. And he"
+v.23 — ASV: "young lads" for KJV's "little children"
+       NET: "saying, “Go on up, baldy!" for KJV's "and said unto him,"
+       WEB: "there to Bethel. As" for KJV's "thence unto Bethel: and as"
+v.24 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "them. Two female bears" for KJV's "them, and cursed them in the name of the LORD. And there"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Double Portion — The inheritance share of the firstborn son, who

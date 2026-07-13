@@ -129,6 +129,18 @@ TRANSLATION COMPARISON
 ------------------------------------
 
 
+v.2 — NET: "who shelters me. Why do you reject me? Why must" for KJV's "of my strength: why dost thou cast me off? why go"
+       WEB: "strength. Why have you rejected me? Why do I" for KJV's "strength: why dost thou cast me off? why"
+v.3 — ASV: "me: Let" for KJV's "me; let"
+       NET: "your faithfulness. They will" for KJV's "thy truth: let them"
+       WEB: "your truth. Let" for KJV's "thy truth: let"
+v.4 — ASV: "joy; And" for KJV's "joy: yea,"
+       NET: adds "who gives me ecstatic joy, so that I may express"
+       WEB: "joy. I will praise you on" for KJV's "joy: yea, upon"
+v.5 — ASV: adds "Psalm 44 For the Chief Musician. [A Psalm] of the sons of..."
+       NET: "God for his saving intervention." for KJV's "countenance, and my God."
+       WEB: "Why are you disturbed" for KJV's "and why art thou disquieted"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. When lost in darkness, pray for light and truth. The psalmist

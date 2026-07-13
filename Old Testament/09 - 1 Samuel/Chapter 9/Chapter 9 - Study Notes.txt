@@ -217,6 +217,21 @@ v.24 — KJV: "the shoulder" / ESV: "the leg" — Hebrew "ha-shoq." This
        KJV "shoulder" and ESV "leg" reflect different understandings
        of the cut of meat.
 
+v.1 — ASV: adds "the son of"
+       NET: "prominent person." for KJV's "Benjamite, a mighty man of power."
+       WEB: adds "the son of"
+v.2 — NET: "he was; he stood head and" for KJV's "he: from his"
+       WEB: "an impressive" for KJV's "a choice"
+v.16 — ASV: "Israel; and" for KJV's "Israel, that"
+       NET: "Benjamin. You must consecrate" for KJV's "Benjamin, and thou shalt anoint"
+       WEB: "Israel. He will" for KJV's "Israel, that he may"
+v.17 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "told you about. He will rule" for KJV's "spake to thee of! this same shall reign"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.24 — ASV: "hath been reserved!" for KJV's "is left!"
+       NET: "you for this meeting time, from the time" for KJV's "thee since"
+       WEB: "has been reserved! Set" for KJV's "is left! set"
+
 GLOSSARY
 ------------------------------------
 Nagid          — Hebrew "leader, prince, captain." A title for one

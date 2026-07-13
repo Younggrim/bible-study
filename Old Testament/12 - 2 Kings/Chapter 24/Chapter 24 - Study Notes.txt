@@ -253,6 +253,19 @@ v.17 — KJV: "Mattaniah his father's brother" / ESV: "Mattaniah,
        enough to control. Changing his name to Zedekiah ("the LORD
        is my righteousness") was ironic given his subsequent evil.
 
+v.1 — NET: "During Jehoiakim’s reign, King" for KJV's "In his days"
+       WEB: "years. Then" for KJV's "years: then"
+v.6 — NET: "Jehoiachin replaced him as king." for KJV's "reigned in his stead."
+v.12 — NET: "Judah, along with his mother, his servants, his officials..." for KJV's "Judah went out"
+v.14 — NET: "those who worked with metal. No one was left except for" for KJV's "smiths: none remained, save"
+       WEB: "the smiths. No one" for KJV's "smiths: none"
+v.16 — ASV: "of them" for KJV's "that were"
+       NET: "deported" for KJV's "brought captive"
+       WEB: "of them" for KJV's "that were"
+v.17 — ASV: "Mattaniah, [Jehoiachin`s] father`s brother," for KJV's "Mattaniah his father’s brother"
+       NET: "Jehoiachin’s place. He renamed him" for KJV's "his stead, and changed his name to"
+       WEB: "Mattaniah, Jehoiachin’s" for KJV's "Mattaniah his"
+
 GLOSSARY
 ------------------------------------
 Jehoiakim   — King of Judah (609-598 BC), originally named

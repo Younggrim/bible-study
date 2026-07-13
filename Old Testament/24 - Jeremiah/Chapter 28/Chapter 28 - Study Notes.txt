@@ -64,6 +64,19 @@ v.9 — "prophesieth of peace" (KJV/ESV) — The biblical principle: prophets of
 
 v.13 — "yokes of iron" (KJV/ESV) — From Deuteronomy 28:48: the intensified covenant curse. Wooden yokes can be broken; iron yokes cannot.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "The following events occurred in that" for KJV's "And it came to pass the"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "are over, I"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "prophesied peace and prosperity, it was only known" for KJV's "which prophesieth of peace, when the word of the prophet ..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "wooden yoke. But you have only succeeded in replacing it ..." for KJV's "yokes of wood; but thou shalt make for them yokes of iron."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Hananiah — False prophet whose name means "the LORD is gracious." Publicly contradicted Jeremiah, predicted two-year return, broke the yoke, and died within two months. The case study for false prophecy.

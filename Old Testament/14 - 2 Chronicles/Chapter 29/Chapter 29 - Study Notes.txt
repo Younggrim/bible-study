@@ -224,6 +224,21 @@ v.36 — KJV: "God had prepared the people" / ESV: "God had provided
        response. The Hebrew supports both nuances — God both
        prepared their hearts and provided the means for worship.
 
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "sanctuary what is ceremonially unclean." for KJV's "filthiness out of the holy place."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "offer sacrifices.”" for KJV's "that ye should minister unto him, and burn incense."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.25 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "prophet had ordered. (The Lord had actually given these o..." for KJV's "prophet: for so was the commandment of the LORD by"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.34 — ASV: "burnt-offerings:" for KJV's "burnt offerings:"
+       NET: adds "could consecrate themselves. (The Levites"
+       WEB: "offerings. Therefore" for KJV's "offerings: wherefore"
+v.36 — ASV: adds "because of"
+       NET: "people were happy about what" for KJV's "people, that"
+
 GLOSSARY
 ------------------------------------
 Consecrate/ — Hebrew "qadash" (to be holy, set apart, consecrated).

@@ -199,6 +199,18 @@ v.19 — KJV: "children and sucklings" / ESV: "child and infant" —
        echoes the destruction Saul was supposed to bring on Amalek
        (15:3) but now brings on God's own people.
 
+v.2 — NET: "trouble or owed someone money or were discontented" for KJV's "distress, and every one that was in debt, and every one t..."
+       WEB: "Everyone who" for KJV's "And every one that"
+v.6 — ASV: "the tamarisk-tree" for KJV's "a tree"
+       NET: "found out the whereabouts of" for KJV's "heard that"
+       WEB: "around him." for KJV's "about him;)"
+v.8 — ASV: "maketh" for KJV's "hath made"
+       NET: "is the case today!”" for KJV's "at this day?"
+       WEB: "no one who discloses to" for KJV's "none that sheweth"
+v.18 — NET: "85 men who wore the" for KJV's "fourscore and five persons that did wear a"
+       WEB: "eighty-five people who wore" for KJV's "fourscore and five persons that did wear"
+v.19 — NET: "Doeg struck down" for KJV's "smote he with the edge of the sword, both"
+
 GLOSSARY
 ------------------------------------
 Adullam        — A large cave (or cave complex) in the Judean

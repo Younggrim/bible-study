@@ -170,6 +170,18 @@ v.31 — KJV: "the gate Miphkad" / ESV: "the Muster Gate" —
        This may have been where troops were mustered/inspected, or
        where goods were counted for taxation.
 
+v.1 — NET: "erected its doors, working as far as" for KJV's "they builded"
+       WEB: "its doors. They sanctified it" for KJV's "the doors of it;"
+v.5 — NET: "The men of Tekoa worked on" for KJV's "And next unto them"
+       WEB: "Next to them," for KJV's "And next unto them"
+v.6 — NET: "Besodeiah worked on the Jeshanah Gate. They" for KJV's "Besodeiah; they"
+       WEB: "Besodeiah repaired the old gate. They" for KJV's "Besodeiah; they"
+v.8 — NET: "perfumers’ guild, worked on the section adjacent to him. ..." for KJV's "apothecaries, and they fortified"
+       WEB: "goldsmiths, made repairs." for KJV's "of the goldsmiths."
+v.31 — ASV: "goldsmiths" for KJV's "goldsmith’s son"
+       NET: "goldsmiths, worked as far as the house" for KJV's "Nethinims, and"
+       WEB: "made repairs opposite" for KJV's "over against"
+
 GLOSSARY
 ------------------------------------
 Sheep Gate  — Located on the northeast wall near the Temple.

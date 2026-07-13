@@ -128,6 +128,19 @@ v.14 — "by the hand of my people Israel" (KJV/ESV) — Hebrew
       by the Maccabees' conquest of Idumea (the Edomite
       territory) in the 2nd century BC.
 
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "Sovereign Lord. This is what the Sovereign"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — ASV: "therefore, behold," for KJV's "Behold, therefore"
+       NET: "tribes of the east. They will make camps among you" for KJV's "east for a possession,"
+       WEB: "possession. They will" for KJV's "possession, and they shall"
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "hand you over as plunder to the nations. I will"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.14 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Israel. They will carry out" for KJV's "Israel: and they shall do"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Oracles Against the Nations — A standard prophetic genre where

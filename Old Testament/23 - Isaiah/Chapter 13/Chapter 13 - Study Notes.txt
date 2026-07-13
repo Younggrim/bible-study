@@ -125,6 +125,18 @@ v.21 — "satyrs" (KJV) / "wild goats" (ESV) — Hebrew "se'irim"
       beings inhabiting the ruins is debated. The LXX renders
       "demons" — desolate places associated with evil spirits.
 
+v.1 — NET: "This is an oracle about Babylon that" for KJV's "The burden of Babylon, which"
+       WEB: "saw." for KJV's "did see."
+v.3 — NET: "summoned the warriors through whom I will vent" for KJV's "also called"
+       WEB: "consecrated ones; yes," for KJV's "sanctified ones,"
+v.10 — NET: "as soon as it rises," for KJV's "in his going forth,"
+       WEB: "light. The" for KJV's "light: the"
+v.19 — ASV: "Chaldeans` pride," for KJV's "Chaldees’ excellency,"
+       NET: "honor and pride, will" for KJV's "the Chaldees’ excellency, shall"
+       WEB: "Chaldeans’ pride, will" for KJV's "Chaldees’ excellency, shall"
+v.21 — NET: "wild goats will skip among the ruins." for KJV's "and satyrs shall dance there."
+       WEB: "jackals. Ostriches will" for KJV's "doleful creatures; and owls shall"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God "consecrates" even pagan armies for His purposes (v.3).

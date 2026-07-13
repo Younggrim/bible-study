@@ -132,6 +132,18 @@ v.20 — "the pit" (KJV/ESV) — Hebrew "bor" = a cistern, dungeon,
       or the underworld (Sheol). Tyre's descent to "the pit" =
       consignment to the realm of the dead. A nation buried alive.
 
+v.4 — NET: "They will" for KJV's "And they shall"
+       WEB: "They will" for KJV's "And they shall"
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "says: Take note that" for KJV's "GOD; Behold,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.14 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "are spread. You will never" for KJV's "upon; thou shalt"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.20 — ASV: "will make" for KJV's "shall set"
+       NET: "earth among the primeval ruins," for KJV's "earth, in places desolate of old,"
+       WEB: "will make you dwell" for KJV's "shall set thee"
+
 GLOSSARY
 ------------------------------------
 Tyre — The premier Phoenician port city on the Mediterranean

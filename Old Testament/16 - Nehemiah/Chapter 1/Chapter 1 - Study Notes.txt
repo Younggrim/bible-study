@@ -186,6 +186,20 @@ v.11 — KJV: "who desire to fear thy name" / ESV: "who delight to
        rich — genuine reverence for God is not reluctant duty but
        joyful devotion.
 
+v.1 — ASV: "Hacaliah. Now" for KJV's "Hachaliah. And"
+       NET: "Hacaliah:It so happened that" for KJV's "Hachaliah. And it came to pass"
+       WEB: "Hacaliah. Now" for KJV's "Hachaliah. And it came to pass"
+v.3 — NET: "experiencing considerable adversity" for KJV's "in great affliction"
+       WEB: "reproach. The" for KJV's "reproach: the"
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "who keeps his loving" for KJV's "that keepeth"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — NET: "Moses: ‘If you act unfaithfully," for KJV's "Moses, saying, If ye transgress,"
+       WEB: "you commanded your" for KJV's "thou commandedst thy"
+v.11 — ASV: adds "cupbearer to"
+       NET: "your name. Grant your servant success today" for KJV's "fear thy name:"
+       WEB: "please prosper your" for KJV's "prosper, I pray thee, thy"
+
 GLOSSARY
 ------------------------------------
 Cupbearer   — A high court official who tasted the king's wine

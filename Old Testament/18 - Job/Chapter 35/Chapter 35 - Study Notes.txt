@@ -140,6 +140,16 @@ v.15 — KJV: "he hath visited in his anger" / ESV: "his anger does
        therefore Job presumes too much. The KJV suggests God has
        visited in anger but Job doesn't recognize it.
 
+v.2 — ASV: "[Or] sayest thou," for KJV's "that thou saidst,"
+       NET: "just when you say, ‘My right before God’?" for KJV's "right, that thou saidst, My righteousness is more than Go..."
+       WEB: "or do you say, ‘My" for KJV's "that thou saidst, My"
+v.10 — ASV: "Maker, Who" for KJV's "maker, who"
+       NET: "no one says, ‘Where" for KJV's "none saith, Where"
+       WEB: "no one says, ‘Where" for KJV's "none saith, Where"
+v.15 — ASV: "greatly regard arrogance;" for KJV's "knoweth it not in great extremity:"
+       NET: "And further, when you say that his anger does" for KJV's "But now, because it is"
+       WEB: "greatly regard arrogance." for KJV's "knoweth it not in great extremity:"
+
 GLOSSARY
 ------------------------------------
 Songs in the — A metaphor for God-given worship, comfort, and hope

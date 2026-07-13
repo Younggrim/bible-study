@@ -154,6 +154,20 @@ TRANSLATION COMPARISON
 ------------------------------------
 
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Israel and that he had elevated" for KJV's "Israel, for"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.10 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "over to me?” The Lord" for KJV's "into mine hand? And the LORD"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.17 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "lands; the Lord caused" for KJV's "fame of David went out into"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: "waters. Therefore" for KJV's "waters: therefore"
+       NET: "marched against Baal Perazim" for KJV's "came up to Baal-perazim;"
+       WEB: "out. Therefore" for KJV's "forth of waters: therefore"
+v.3 — NET: "fathered" for KJV's "David begat"
+
 GLOSSARY
 ------------------------------------
 Baal-perazim: Hebrew בַּעַל פְּרָצִים, meaning "Lord/Master of

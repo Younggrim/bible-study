@@ -237,6 +237,19 @@ v.18 — KJV: "the covert for the sabbath" / ESV: "the covered way
        possibly to avoid any appearance of independent worship
        that might offend his overlord.
 
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "a horrible sin practiced by" for KJV's "according to"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.6 — WEB: "lived there, to" for KJV's "dwelt there unto"
+v.15 — ASV: "king`s burnt-offering," for KJV's "king’s burnt sacrifice,"
+       NET: "other sacrifices on it. The bronze" for KJV's "all the blood of the sacrifice: and the brasen"
+       WEB: "sacrifice; but" for KJV's "sacrifice: and"
+v.17 — NET: "on the stone pavement." for KJV's "upon a pavement of stones."
+       WEB: "King" for KJV's "And king"
+v.18 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "outer entranceway to" for KJV's "entry without, turned he from"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Ahaz        — King of Judah (c. 735-715 BC). Son of Jotham,

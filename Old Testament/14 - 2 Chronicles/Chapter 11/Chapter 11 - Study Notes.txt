@@ -143,6 +143,18 @@ v.23 — KJV: "And he desired many wives" / ESV: "[he] procured wives
        himself; ESV reads it as him procuring wives for his dispersed
        sons. The ESV reading fits the context better.
 
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "attack and make war with your brothers. Each of you"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.15 — NET: "Jeroboam appointed his own" for KJV's "And he ordained him"
+       WEB: "He himself appointed" for KJV's "And he ordained him"
+v.16 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "who were determined" for KJV's "of Israel such as set their hearts"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.23 — ASV: "And he dealt wisely, and dispersed of all his sons throughout all the lands of J..."
+       NET: "Benjamin in the various fortified cities. He supplied the..." for KJV's "Benjamin, unto every fenced city:"
+       WEB: "fortified city. He gave them food in abundance" for KJV's "fenced city:"
+
 GLOSSARY
 ------------------------------------
 Shemaiah    — A prophet ("man of God") who delivered God's word to

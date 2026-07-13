@@ -216,6 +216,21 @@ v.45 — KJV: "the people rescued Jonathan" / ESV: "the people ransomed
        substitutionary payment; KJV's "rescued" is broader. The people
        may have offered a substitute sacrifice to satisfy the oath.
 
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "armor-bearer, “Come on, let’s" for KJV's "armour, Come, and let us"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.15 — ASV: "an exceeding" for KJV's "a very"
+       NET: "Then fear overwhelmed those who were" for KJV's "And there was trembling"
+       WEB: "an exceedingly" for KJV's "a very"
+v.24 — ASV: adds "it be"
+       NET: "army agree to this oath: “Cursed" for KJV's "people, saying, Cursed"
+       WEB: "of my enemies.”" for KJV's "on mine enemies."
+v.27 — NET: "the honeycomb. When he ate it," for KJV's "an honeycomb, and put his hand to his mouth; and"
+       WEB: "oath. Therefore" for KJV's "oath: wherefore"
+v.45 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Israel, die? May it never be! As surely" for KJV's "Israel? God forbid:"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Armor-bearer   — A young warrior who carried the shield and weapons of

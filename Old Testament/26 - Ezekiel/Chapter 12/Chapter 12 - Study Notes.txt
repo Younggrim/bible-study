@@ -67,6 +67,15 @@ v.12 — "prince" (KJV/ESV) — Hebrew "nasi" = prince/leader (not "melek"/king)
 
 v.22 — "proverb" (KJV/ESV) — Hebrew "mashal" = proverb, saying, popular wisdom. A cynical folk-saying that had become conventional wisdom among the exiles.
 
+v.3 — NET: "exile. During the day, while they are watching, pretend t..." for KJV's "removing, and remove by day in their sight; and thou shal..."
+       WEB: "sight. You shall move" for KJV's "sight; and thou shalt remove"
+v.6 — NET: "While they are watching, raise your baggage onto your sho..." for KJV's "In their sight shalt thou bear it upon thy shoulders,"
+       WEB: "on your shoulder," for KJV's "upon thy shoulders,"
+v.12 — ASV: adds "shall not"
+       NET: "will raise his belongings onto" for KJV's "shall bear upon"
+       WEB: "that way. He will" for KJV's "thereby: he shall"
+v.22 — NET: "pass slowly," for KJV's "are prolonged,"
+
 GLOSSARY
 ------------------------------------
 Sign-Act of Escape — Ezekiel enacts Zedekiah's future flight: packing, wall-digging, face-covering, twilight departure. Every detail fulfilled literally in 586 BC.

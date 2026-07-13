@@ -111,6 +111,14 @@ v.20 — KJV: "The prayers of David the son of Jesse are ended" /
        of the Psalter. It doesn't mean David wrote no other psalms
        after this but that a Davidic collection concludes here.
 
+v.1 — NET: "the ability to make just decisions. Grant" for KJV's "thy judgments, O God, and thy righteousness unto"
+       WEB: "your justice; your" for KJV's "thy judgments, O God, and thy"
+v.6 — ASV: "grass, As" for KJV's "grass: as"
+       NET: "will descend" for KJV's "shall come down"
+v.20 — ASV: adds "BOOK III Psalm 73 A Psalm of Asaph."
+       NET: "ends here." for KJV's "are ended."
+       WEB: "by David," for KJV's "of David"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. The ideal king prioritizes the poor and needy (vv.12-14). Jesus

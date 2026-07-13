@@ -161,6 +161,18 @@ v.12 — "the voice of the turtle" = the turtledove, not a reptile.
        signals spring. Its cooing was associated with the arrival
        of the warm season in ancient Israel.
 
+v.1 — ASV: "A" for KJV's "and the"
+       NET: adds "The Beloved to Her Lover:"
+       WEB: "a" for KJV's "and the"
+v.4 — ASV: "banqueting-house, And" for KJV's "banqueting house, and"
+       NET: adds "The Beloved about Her Lover:"
+       WEB: "banquet hall. His" for KJV's "banqueting house, and his"
+v.7 — NET: "awaken or arouse love until it pleases!" for KJV's "up, nor awake my love, till he please."
+       WEB: "until it so desires." for KJV's "till he please."
+v.12 — ASV: "[of birds]" for KJV's "of birds"
+       NET: "Blossoms have appeared in" for KJV's "The flowers appear on"
+       WEB: "earth. The" for KJV's "earth; the"
+
 GLOSSARY
 ------------------------------------
 Rose of Sharon — A common wildflower of the Sharon plain (the

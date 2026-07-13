@@ -185,6 +185,19 @@ v.25 — "snare" = Hebrew "moqesh" = a trap, a bird-snare. The fear
        a military metaphor of being placed in an impregnable
        position above the enemy's reach.
 
+v.1 — ASV: "neck Shall" for KJV's "neck, shall"
+       NET: "neck after numerous rebukes will" for KJV's "neck, shall"
+       WEB: "destroyed suddenly, with no" for KJV's "destroyed, and that without"
+v.11 — ASV: "back and stilleth it." for KJV's "in till afterwards."
+       NET: "person keeps" for KJV's "man keepeth"
+       WEB: "brings himself under control." for KJV's "keepeth it in till afterwards."
+v.18 — ASV: "cast off restraint; But" for KJV's "perish: but"
+       NET: "the one who keeps" for KJV's "he that keepeth"
+       WEB: "one who keeps" for KJV's "he that keepeth"
+v.25 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "people becomes" for KJV's "man bringeth"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Vision (v.18) — Hebrew "chazon" — not personal ambition or

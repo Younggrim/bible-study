@@ -148,6 +148,19 @@ v.27 — "abomination" (KJV/ESV) — Hebrew "shiqquts" = detestable
       causes horror/desolation. Jesus references this in Matthew
       24:15 as a yet-future event.
 
+v.24 — ASV: "Seventy weeks are decreed upon thy people and upon thy holy city, to finish tran..."
+       NET: "rebellion, to bring sin to completion, to atone" for KJV's "make reconciliation"
+       WEB: "decreed on your" for KJV's "determined upon thy"
+v.25 — ASV: adds "with street"
+       NET: "until an anointed one, a prince arrives, there will" for KJV's "unto the Messiah the Prince shall"
+       WEB: "sixty-two weeks. It will" for KJV's "threescore and two weeks: the street shall"
+v.26 — ASV: "and shall have nothing:" for KJV's "but not for himself:"
+       NET: "that has been decreed there will be destruction." for KJV's "desolations are determined."
+       WEB: "the Anointed One will" for KJV's "shall Messiah"
+v.27 — ASV: "[shall come] one that maketh desolate; and" for KJV's "he shall make it desolate,"
+       NET: "will bring sacrifices and offerings to a halt. On" for KJV's "shall cause"
+       WEB: "will come one who makes desolate; and" for KJV's "he shall make it desolate,"
+
 GLOSSARY
 ------------------------------------
 Seventy Weeks — 490 years (70 × 7) decreed for Israel. Divided

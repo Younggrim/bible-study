@@ -172,6 +172,18 @@ v.15 — KJV: "the bread of the governor" / ESV: "the food
        Previous governors collected 40 shekels of silver daily
        plus food and wine — a heavy burden on a poor community.
 
+v.7 — ASV: "contended with" for KJV's "I rebuked"
+       NET: "you is seizing the collateral from your own countrymen!” ..." for KJV's "his brother. And"
+       WEB: "contended with" for KJV's "I rebuked"
+v.11 — NET: "interest that you are exacting from them on" for KJV's "hundredth part of"
+       WEB: "you are charging them.”" for KJV's "ye exact of them."
+v.13 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "property every person who does" for KJV's "labour, that performeth"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.15 — ASV: "were" for KJV's "had been"
+       NET: "silver. Their associates were also domineering" for KJV's "silver; yea, even their servants bare rule"
+       WEB: "wine from them, plus" for KJV's "wine, beside"
+
 GLOSSARY
 ------------------------------------
 Usury/      — Lending money at interest to fellow Israelites.

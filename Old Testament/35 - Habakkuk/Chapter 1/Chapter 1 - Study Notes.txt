@@ -145,6 +145,21 @@ v.12 — One of the "Tiqqune Sopherim" (scribal corrections): the
        "we shall not die" to avoid seeming to question God's
        immortality.
 
+v.1 — NET: "This is the oracle that" for KJV's "The burden which Habakkuk"
+       WEB: "saw." for KJV's "did see."
+v.4 — ASV: "justice goeth forth perverted." for KJV's "wrong judgment proceedeth."
+       NET: "innocent. For this reason justice is perverted." for KJV's "righteous; therefore wrong judgment proceedeth."
+       WEB: "justice comes out perverted." for KJV's "wrong judgment proceedeth."
+v.6 — ASV: "dwelling-places" for KJV's "the dwellingplaces"
+       NET: "greedy nation. They sweep across" for KJV's "hasty nation, which shall march through"
+       WEB: "dwelling places" for KJV's "the dwellingplaces"
+v.9 — ASV: "is forwards;" for KJV's "shall sup up as the east wind,"
+       NET: adds "All of them intend to do violence; every face is determined."
+       WEB: "desert. He gathers prisoners like" for KJV's "east wind, and they shall gather the captivity as the"
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "your instrument of judgment. Protector, you have appointed" for KJV's "for judgment; and, O mighty God, thou hast established"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Honest questions are not faithless questions (v.2). Habakkuk

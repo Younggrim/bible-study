@@ -198,6 +198,21 @@ v.21 — KJV: "I have played the fool" / ESV: "I have acted foolishly"
        ESV's "acted foolishly" is more literal. Both capture Saul's
        self-assessment — he knows his pursuit of David is irrational.
 
+v.5 — ASV: "And David arose, and came to the place where Saul had encamped; and David beheld..."
+       NET: "army was camped all around" for KJV's "people pitched round about"
+       WEB: "were encamped around" for KJV's "pitched round about"
+v.7 — ASV: "place of the wagons, with" for KJV's "trench, and"
+       NET: "army were lying all around" for KJV's "people lay round about"
+       WEB: "place of the wagons, with" for KJV's "trench, and"
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "But may the Lord prevent me from extending my" for KJV's "The LORD forbid that I should stretch forth mine"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.19 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "men have instigated this, may"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.21 — NET: "Saul replied, “I have sinned. Come back, my son David. I ..." for KJV's "Then said Saul,"
+       WEB: "sinned. Return," for KJV's "sinned: return,"
+
 GLOSSARY
 ------------------------------------
 Deep sleep     — Hebrew "tardemah" (v.12) = a supernatural deep sleep

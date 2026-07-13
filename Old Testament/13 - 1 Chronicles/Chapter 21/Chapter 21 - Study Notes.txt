@@ -256,6 +256,20 @@ v.25 — KJV: "six hundred shekels of gold by weight" / ESV: "600
        not just the threshing floor but the entire hilltop site
        for the future Temple complex.
 
+v.1 — NET: "count how many warriors Israel had." for KJV's "number Israel."
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "replied, “May the Lord" for KJV's "answered, The LORD"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.6 — NET: "edict disgusted him." for KJV's "word was abominable to Joab."
+       WEB: adds "he didn’t count"
+v.15 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "who was destroying, “That’s enough! Stop now!” Now" for KJV's "that destroyed, It is enough, stay now thine hand. And"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.20 — ASV: adds "that were"
+       NET: adds "was threshing wheat, he"
+       WEB: adds "who were"
+v.25 — NET: "bought the place from" for KJV's "gave to"
+
 GLOSSARY
 ------------------------------------
 Satan       — Hebrew "satan" means "adversary, accuser." Here used

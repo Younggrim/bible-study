@@ -212,6 +212,20 @@ v.24 — KJV: "tarrieth by the stuff" / ESV: "stays by the baggage" —
        principle: guarding the supply line is as essential as fighting
        on the front line.
 
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "drew strength from" for KJV's "encouraged himself in"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "carry out a rescue!”" for KJV's "without fail recover all."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.10 — NET: "400 men continued the pursuit, but 200 men who" for KJV's "four hundred men: for two hundred abode behind, which"
+       WEB: "couldn’t" for KJV's "could not"
+v.22 — ASV: "base fellows," for KJV's "men of Belial,"
+       NET: "retrieved! They may take only their wives" for KJV's "have recovered, save to every man his wife"
+       WEB: "worthless fellows," for KJV's "men of Belial,"
+v.24 — NET: "portion of the one who remained with the equipment! Let t..." for KJV's "battle, so shall his part"
+       WEB: "who stays with" for KJV's "that tarrieth by"
+
 GLOSSARY
 ------------------------------------
 Encouraged himself in the LORD — Hebrew "vayitchazzeq ba-Yahweh"

@@ -207,6 +207,22 @@ v.23 — KJV: "Amon trespassed more and more" / ESV: "this Amon
        encompasses both the act of transgression and its
        resulting guilt/obligation.
 
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Ben Hinnom and practiced divination, omen reading, and so..." for KJV's "the son"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Assyria. They seized Manasseh, put hooks in his nose," for KJV's "Assyria, which took Manasseh among the thorns, and"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "In his pain Manasseh asked" for KJV's "And when he was in affliction, he besought"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "to the Lord, the Lord responded to him" for KJV's "unto him:"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.23 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "was guilty of great sin." for KJV's "trespassed more and more."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Manasseh    — Son of Hezekiah, king of Judah (697-642 BC). His

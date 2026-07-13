@@ -133,6 +133,19 @@ v.28 — KJV: "counted wise" / ESV: "thought to be wise" — The
        merely counted as wise because no one can hear his folly.
        Silence is the fool's one path to appearing intelligent.
 
+v.8 — ASV: "it; Whithersoever" for KJV's "it: whithersoever"
+       NET: "charm for the one who offers it;" for KJV's "precious stone"
+       WEB: "who gives it; wherever he turns, he prospers." for KJV's "that hath it: whithersoever it turneth, it prospereth."
+v.14 — ASV: "there is quarrelling." for KJV's "it be meddled with."
+       NET: "Starting a quarrel is like letting out water; abandon" for KJV's "The beginning of"
+       WEB: "quarreling breaks out." for KJV's "it be meddled with."
+v.22 — ASV: "medicine; But" for KJV's "like a medicine: but"
+       NET: "healing," for KJV's "like a medicine:"
+       WEB: "medicine," for KJV's "like a medicine:"
+v.28 — ASV: "[esteemed as] prudent." for KJV's "esteemed a man of understanding."
+       NET: "fool who remains silent is considered wise, and the one w..." for KJV's "fool, when he holdeth"
+       WEB: "thought to be discerning." for KJV's "esteemed a man of understanding."
+
 GLOSSARY
 ------------------------------------
 Fining Pot     — Hebrew "matsreph" = a crucible for melting and

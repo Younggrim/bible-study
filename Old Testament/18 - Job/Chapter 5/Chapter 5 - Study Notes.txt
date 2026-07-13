@@ -170,6 +170,15 @@ v.26 — KJV: "like as a shock of corn cometh in in his season" /
        modernizes the image. The point: dying at the right time,
        fully mature, like a harvest gathered at its proper moment.
 
+v.1 — ASV: "thee? And" for KJV's "thee; and"
+       NET: "holy ones will you" for KJV's "saints wilt thou"
+       WEB: "holy ones will you" for KJV's "saints wilt thou"
+v.7 — NET: "but people are" for KJV's "Yet man is"
+v.17 — NET: "“Therefore, blessed" for KJV's "Behold, happy"
+       WEB: "corrects. Therefore do not" for KJV's "correcteth: therefore"
+v.26 — NET: "grain are harvested" for KJV's "corn cometh"
+       WEB: "grain comes" for KJV's "corn cometh"
+
 GLOSSARY
 ------------------------------------
 Discipline    — Divine correction intended to produce growth and

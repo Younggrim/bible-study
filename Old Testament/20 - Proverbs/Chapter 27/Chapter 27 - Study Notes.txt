@@ -147,6 +147,13 @@ v.20 — KJV: "Hell and destruction are never full" / ESV: "Sheol
        eyes of man that are "never satisfied." Human desire, like
        death, is bottomless.
 
+v.14 — NET: "If someone blesses" for KJV's "He that blesseth"
+       WEB: "who blesses" for KJV's "that blesseth"
+v.17 — NET: "As iron sharpens iron," for KJV's "Iron sharpeneth iron;"
+       WEB: "sharpens" for KJV's "sharpeneth the countenance of"
+v.20 — ASV: "satisfied; And" for KJV's "full; so"
+       WEB: "satisfied; and a man’s" for KJV's "full; so the"
+
 GLOSSARY
 ------------------------------------
 Iron Sharpeneth Iron — The process of mutual sharpening between

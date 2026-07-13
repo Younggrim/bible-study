@@ -186,6 +186,16 @@ v.20 — KJV: "O thou preserver of men" / ESV: "you watcher of
        Hebrew word can mean guard/keep/watch — either protectively
        or restrictively.
 
+v.5 — ASV: "breaketh out afresh." for KJV's "become loathsome."
+       NET: "dirty scabs;" for KJV's "clods of dust;"
+       WEB: "breaks out afresh." for KJV's "become loathsome."
+v.12 — ASV: "sea-monster, That" for KJV's "whale, that"
+       NET: "you must put me under guard?" for KJV's "thou settest a watch over me?"
+       WEB: "you put" for KJV's "thou settest"
+v.15 — NET: "I would prefer strangling" for KJV's "my soul chooseth strangling,"
+v.20 — NET: "your target? Have" for KJV's "a mark against thee, so that"
+       WEB: "to you, you watcher" for KJV's "unto thee, O thou preserver"
+
 GLOSSARY
 ------------------------------------
 Weaver's      — (v.6) The shuttle carries thread rapidly back and

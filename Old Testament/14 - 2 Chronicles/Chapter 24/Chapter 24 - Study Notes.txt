@@ -191,6 +191,22 @@ v.22 — KJV: "The LORD look upon it, and require it" / ESV: "May
        "darash" means to seek, inquire, or require an accounting —
        broader than "avenge" but including it.
 
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "“Why have you" for KJV's "Why hast thou"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "(Wicked Athaliah and her" for KJV's "For the"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.18 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "idols. Because of this sinful activity, God was angry with" for KJV's "idols: and wrath came upon"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.20 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "“This is what God says: ‘Why are you violating" for KJV's "Thus saith God, Why transgress ye"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.22 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "shown him and killed Jehoiada’s" for KJV's "done to him, but slew his"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Jehoiada    — High priest who preserved the infant Joash, organized

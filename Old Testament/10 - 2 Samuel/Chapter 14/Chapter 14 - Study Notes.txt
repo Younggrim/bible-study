@@ -203,6 +203,22 @@ v.30 — KJV: "go and set it on fire" / ESV: "go and set it on fire" —
        is one of the rare moments where Absalom's violent temperament
        is displayed through action rather than speech.
 
+v.1 — NET: "king longed to see" for KJV's "king’s heart was toward"
+v.7 — ASV: "also. Thus will" for KJV's "also: and so"
+       NET: "your servant, saying, ‘Turn over the one who struck down" for KJV's "thine handmaid, and they said, Deliver him that smote"
+       WEB: "your servant," for KJV's "thine handmaid,"
+v.14 — ASV: "take away life, but deviseth" for KJV's "respect any person: yet doth he devise"
+       NET: "does not take away life; instead" for KJV's "respect any person: yet doth"
+       WEB: "take away life, but devises" for KJV's "respect any person: yet doth he devise"
+v.20 — ASV: "to change the face" for KJV's "To fetch about this form"
+       NET: "so as to change this situation. But" for KJV's "thing: and"
+       WEB: "the matter has your" for KJV's "speech hath thy"
+v.26 — ASV: "head (now" for KJV's "head, (for"
+       NET: "would shave it—he used to weigh" for KJV's "polled it: because the hair was heavy on him, therefore h..."
+       WEB: "head (now" for KJV's "head, (for"
+v.30 — NET: "“Look, Joab has a portion of" for KJV's "See, Joab’s"
+       WEB: "there. Go" for KJV's "there; go"
+
 GLOSSARY
 ------------------------------------
 Tekoa          — A town approximately ten miles south of Jerusalem in

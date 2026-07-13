@@ -138,6 +138,18 @@ v.24 — KJV: "spareth his rod" / ESV: "spares the rod" — Hebrew
        (KJV) = "early/diligently" (Hebrew "shichar" = to seek
        early). Love disciplines promptly, not eventually.
 
+v.7 — NET: "has nothing; another pretends to be poor and" for KJV's "hath nothing: there is that maketh himself poor,"
+       WEB: "have nothing. There are some who pretend to be" for KJV's "hath nothing: there is that maketh himself"
+v.12 — ASV: "sick; But" for KJV's "sick: but"
+       NET: "a longing fulfilled" for KJV's "when the desire cometh, it"
+       WEB: "longing is fulfilled," for KJV's "the desire cometh,"
+v.20 — ASV: "men, and thou shalt" for KJV's "men shall"
+       NET: "The one who associates" for KJV's "He that walketh"
+       WEB: "One who walks" for KJV's "He that walketh"
+v.24 — ASV: "son; But" for KJV's "son: but"
+       NET: "the one who loves his child is diligent in disciplining him." for KJV's "he that loveth him chasteneth him betimes."
+       WEB: "is careful to discipline him." for KJV's "chasteneth him betimes."
+
 GLOSSARY
 ------------------------------------
 Hope Deferred  — The painful experience of prolonged waiting for

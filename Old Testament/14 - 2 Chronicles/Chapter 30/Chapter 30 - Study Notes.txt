@@ -190,6 +190,21 @@ v.27 — KJV: "his holy dwelling place, even unto heaven" / ESV:
        heavenly residence. KJV's "dwelling place" and ESV's
        "habitation" are synonymous renderings of "me'on."
 
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "nationwide scale as prescribed" for KJV's "long time"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Judah. This royal edict read: “O Israelites, return" for KJV's "Judah, and according"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.10 — NET: "The messengers journeyed" for KJV's "So the posts passed"
+       WEB: "people ridiculed" for KJV's "they laughed"
+v.22 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Levites, who demonstrated great skill in serving" for KJV's "Levites that taught"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.27 — ASV: "habitation," for KJV's "dwelling place,"
+       NET: "people. The Lord responded favorably to them as" for KJV's "priests the Levites arose and blessed the people: and"
+       WEB: "people. Their" for KJV's "people: and their"
+
 GLOSSARY
 ------------------------------------
 Passover    — Hebrew "pesach" (to pass over/spare). The annual

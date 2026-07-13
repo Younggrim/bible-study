@@ -183,6 +183,21 @@ v.12 — KJV: "ancient men" / ESV: "old men" — Hebrew "zeqenim"
        Temple destroyed in 586 BC. Their survival through exile
        itself testifies to God's preserving grace.
 
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "on its foundations, even though they were in terror" for KJV's "upon his bases; for fear was upon them because"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — ASV: "burnt-offerings" for KJV's "burnt offerings"
+       NET: "requirement for each day." for KJV's "custom, as the duty of every day required;"
+v.7 — ASV: "cedar-trees" for KJV's "cedar trees"
+       NET: "So they provided" for KJV's "They gave"
+       WEB: "carpenters. They also gave food," for KJV's "carpenters; and meat, and"
+v.10 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "priests, ceremonially attired and with" for KJV's "temple of the LORD, they set the priests in"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.12 — ASV: adds "fathers` [houses],"
+       NET: "others raised their voice in a joyous shout." for KJV's "shouted aloud for joy:"
+       WEB: adds "fathers’ households,"
+
 GLOSSARY
 ------------------------------------
 Altar       — The bronze altar of burnt offering, the central

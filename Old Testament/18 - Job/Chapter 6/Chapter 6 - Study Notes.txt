@@ -175,6 +175,18 @@ v.14 — KJV: "To him that is afflicted pity should be shewed from
        as Job forsaking God — but ESV's reading better fits the
        context: the friends fail Job, and in doing so, fail God.
 
+v.3 — ASV: "seas: Therefore have" for KJV's "sea: therefore"
+       NET: "sea, that is why" for KJV's "sea: therefore"
+       WEB: "been rash." for KJV's "are swallowed up."
+v.6 — ASV: "hath no savor" for KJV's "is unsavoury"
+       WEB: "has no flavor" for KJV's "is unsavoury"
+v.10 — ASV: "And be it still my consolation, Yea, let me exult" for KJV's "Then should I yet have comfort; yea, I would harden myself"
+       NET: "spite of pitiless pain," for KJV's "sorrow: let him not spare;"
+       WEB: "Be it still my consolation, yes, let me exult" for KJV's "Then should I yet have comfort; yea, I would harden myself"
+v.14 — ASV: "ready to faint kindness [should" for KJV's "afflicted pity should"
+       NET: "“To the one in despair, kindness" for KJV's "To him that is afflicted pity"
+       WEB: "ready to faint, kindness" for KJV's "afflicted pity"
+
 GLOSSARY
 ------------------------------------
 Wadi          — A seasonal streambed in the desert, full during

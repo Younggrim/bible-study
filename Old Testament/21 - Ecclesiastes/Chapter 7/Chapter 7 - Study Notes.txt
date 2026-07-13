@@ -155,6 +155,18 @@ v.29 — KJV: "inventions" / ESV: "schemes" — Hebrew "chishbonot"
        path. The root is the same as "accounting" — humanity's
        self-invented moral calculations.
 
+v.16 — ASV: "overmuch;" for KJV's "over much;"
+       NET: "or excessively wise; otherwise you might be disappointed." for KJV's "over much; neither make thyself over wise: why shouldest ..."
+       WEB: "yourself overly wise. Why should you" for KJV's "thyself over wise: why shouldest thou"
+v.27 — ASV: "Preacher, [laying]" for KJV's "preacher, counting"
+       NET: "while trying to discover" for KJV's "have I found, saith"
+       WEB: "found this,” says" for KJV's "I found, saith"
+v.28 — ASV: "have not found:" for KJV's "find not:"
+       NET: "have continually sought, I have not found; I have found only" for KJV's "find not:"
+       WEB: "have not found. I have found" for KJV's "find not:"
+v.29 — NET: "humankind upright," for KJV's "man upright;"
+       WEB: "Behold, I have" for KJV's "Lo, this"
+
 GLOSSARY
 ------------------------------------
 Upright (yashar) — Straight, right, just. In v.29, it describes

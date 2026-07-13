@@ -177,6 +177,19 @@ v.11 — KJV: "deadly destruction" / ESV: "deathly panic" — Hebrew
        terror. Both elements are present — the Philistines experienced
        both fatal plague and overwhelming panic.
 
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "threshold. Only Dagon’s body" for KJV's "threshold; only the stump of Dagon"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "Ashdod severely, bringing devastation on them. He struck"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "panic. He struck all"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: "people. For" for KJV's "people: for"
+       NET: "people!” The terror of death" for KJV's "people: for there"
+       WEB: "people.” For" for KJV's "people: for"
+
 GLOSSARY
 ------------------------------------
 Dagon          — The chief deity of the Philistines. Likely a grain/

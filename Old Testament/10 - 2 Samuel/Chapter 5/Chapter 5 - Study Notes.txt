@@ -222,6 +222,25 @@ v.24 — KJV: "the sound of a going" / ESV: "the sound of marching" —
        imagery — the sound of God's invisible army advancing through
        the treetops.
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "our king, you were the real leader" for KJV's "king over us, thou wast he that leddest out and broughtest"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.6 — ASV: "land, who" for KJV's "land: which"
+       NET: "lame will turn you back, saying, ‘David" for KJV's "lame, thou shalt not come in hither: thinking, David"
+       WEB: "lame will keep you out of here”; thinking, “David can’t" for KJV's "lame, thou shalt not"
+v.8 — ASV: "say, There are the" for KJV's "said, The"
+       NET: "‘blind’ who are David’s enemies by going through" for KJV's "lame and"
+       WEB: "“Whoever strikes the Jebusites, let him go" for KJV's "Whosoever getteth"
+v.20 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "“The Lord has burst out against my" for KJV's "The LORD hath broken forth upon mine"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.23 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "should do. This time the Lord said to him, “Don’t march s..." for KJV's "said, Thou shalt not go up; but fetch a compass"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.24 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "act decisively. For at"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Zion           — Originally the Jebusite fortress captured by David,

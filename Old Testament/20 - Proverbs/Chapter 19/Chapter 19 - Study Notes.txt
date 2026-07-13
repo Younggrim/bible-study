@@ -113,6 +113,16 @@ v.17 — KJV: "lendeth unto the LORD" / ESV: "lending to the LORD" —
        Astonishing condescension — the Creator indebts Himself to
        the compassionate.
 
+v.11 — ASV: "maketh him slow to" for KJV's "deferreth his"
+       NET: "A person’s wisdom has made him slow to anger," for KJV's "The discretion of a man deferreth his anger;"
+       WEB: "makes him slow to anger. It" for KJV's "deferreth his anger; and it"
+v.13 — ASV: "father; And" for KJV's "father: and"
+       NET: "constant dripping." for KJV's "continual dropping."
+       WEB: "father. A wife’s quarrels" for KJV's "father: and the contentions of a wife"
+v.17 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "The one who is gracious to" for KJV's "He that hath pity upon"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Pass Over      — To overlook, to choose not to address or avenge

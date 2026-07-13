@@ -165,6 +165,14 @@ v.69 — KJV: "drams of gold" / ESV: "darics of gold" — Hebrew
        identifies the specific coin. The 61,000 darics represent
        enormous wealth — approximately 1,100 pounds of gold.
 
+v.1 — ASV: "that returned" for KJV's "came again"
+       NET: "forced into exile in Babylon. They returned to" for KJV's "carried away unto Babylon, and came again unto"
+       WEB: "who returned to" for KJV's "came again unto"
+v.63 — NET: "The governor instructed them" for KJV's "And the Tirshatha said unto them, that they should"
+       WEB: "The governor told them" for KJV's "And the Tirshatha said unto them,"
+v.69 — NET: "100 priestly robes." for KJV's "one hundred priests garments."
+       WEB: "sixty-one" for KJV's "threescore and one"
+
 GLOSSARY
 ------------------------------------
 Zerubbabel  — "Seed/shoot of Babylon" — a Davidic descendant

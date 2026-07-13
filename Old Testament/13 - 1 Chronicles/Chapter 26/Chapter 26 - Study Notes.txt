@@ -234,6 +234,19 @@ v.31 — KJV: "In the fortieth year of the reign of David they were
        expanded administrative roles — a last organizational
        effort before Solomon's accession.
 
+v.1 — ASV: "doorkeepers: of" for KJV's "porters: Of"
+       NET: "Korahites: Meshelemiah," for KJV's "Korhites was Meshelemiah the"
+       WEB: "doorkeepers: of" for KJV's "porters: Of"
+v.5 — NET: "eighth Peullethai. (Indeed," for KJV's "eighth: for"
+v.15 — ASV: "store-house." for KJV's "house of Asuppim."
+       NET: "Obed-Edom was assigned the south gate," for KJV's "To Obed-edom southward;"
+       WEB: "storehouse." for KJV's "house of Asuppim."
+v.18 — NET: "the court on the west there were" for KJV's "Parbar westward,"
+v.29 — NET: "Izharites: Kenaniah" for KJV's "Izharites, Chenaniah"
+v.31 — ASV: "by fathers` [houses]." for KJV's "of his fathers."
+       NET: adds "David’s reign, they examined"
+       WEB: "by fathers’ households. They were sought for in" for KJV's "of his fathers. In"
+
 GLOSSARY
 ------------------------------------
 Porters/    — Hebrew "sho'arim" (from "sha'ar," gate). Levites

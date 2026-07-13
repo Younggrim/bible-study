@@ -166,6 +166,20 @@ animal from approaching, while ESV suggests the bit near.
 The Hebrew is genuinely ambiguous; the point is that God desires
 willing obedience rather than forced compliance.
 
+v.1 — NET: "rebellious acts are" for KJV's "transgression is"
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "one whose wrongdoing" for KJV's "man unto whom"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — ASV: "was changed [as] with" for KJV's "is turned into"
+       NET: "you tormented me; you tried to destroy me in" for KJV's "thy hand was heavy upon me: my moisture is turned into"
+       WEB: "on me. My strength was sapped in" for KJV's "upon me: my moisture is turned into"
+v.6 — ASV: "Surely when" for KJV's "surely in"
+       NET: "surging water rises, it will" for KJV's "floods of great waters they shall"
+       WEB: "this, let everyone who" for KJV's "this shall every one that"
+v.9 — ASV: "understanding; Whose trappings" for KJV's "understanding: whose mouth"
+       NET: "will not obey you unless they are controlled by a bridle" for KJV's "have no understanding: whose mouth must be held in with bit"
+       WEB: "understanding, who are controlled by" for KJV's "understanding: whose mouth must be held in with"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. David's three words for sin (rebellion, missing the mark,

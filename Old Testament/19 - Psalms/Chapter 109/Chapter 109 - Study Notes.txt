@@ -107,6 +107,15 @@ v.16 — "the poor and needy man, that he might even slay the
        enemy persecuted the vulnerable. The imprecations are not
        petty — they respond to cruelty against the helpless.
 
+v.4 — NET: "with accusations," for KJV's "they are my adversaries:"
+       WEB: "am in" for KJV's "give myself unto"
+v.6 — ASV: "him; And" for KJV's "him: and"
+       NET: "to testify against him. May an accuser" for KJV's "over him: and let Satan"
+       WEB: "him. Let an adversary" for KJV's "him: and let Satan"
+v.16 — ASV: "show kindness, But" for KJV's "shew mercy, but"
+       NET: "show kindness; he harassed" for KJV's "shew mercy, but persecuted"
+       WEB: "didn’t remember" for KJV's "remembered not"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "But I — prayer" (v.4). When betrayed, when slandered, when

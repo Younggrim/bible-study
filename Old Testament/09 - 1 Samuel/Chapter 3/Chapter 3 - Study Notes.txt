@@ -240,6 +240,24 @@ v.19 — KJV: "did let none of his words fall to the ground" / ESV:
        that fail, that come to nothing. Samuel's words all stand —
        every prophecy is fulfilled, every statement proves true.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord under Eli’s supervision. Receiving a message from" for KJV's "LORD before Eli. And"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "had not yet been extinguished. Samuel was lying down" for KJV's "went out"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.10 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "he had previously done, “Samuel! Samuel!”" for KJV's "at other times, Samuel, Samuel. Then"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — ASV: "did bring a curse upon themselves," for KJV's "made themselves vile,"
+       NET: "did not rebuke them." for KJV's "restrained them not."
+       WEB: "brought a curse on themselves," for KJV's "made themselves vile,"
+v.14 — NET: "or by grain offering.’”" for KJV's "nor offering for ever."
+       WEB: "Therefore" for KJV's "And therefore"
+v.19 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "prophecies fell" for KJV's "words fall"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Precious/Rare  — Hebrew "yaqar." When applied to God's word (v.1), it

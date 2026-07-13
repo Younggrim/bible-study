@@ -166,6 +166,19 @@ v.13 — "mandrakes" = Hebrew "duda'im" = a plant believed to have
        love and fertility make it appropriate in this context of
        intimate invitation.
 
+v.1 — ASV: "in sandals," for KJV's "with shoes,"
+       NET: adds "The Lover to His Beloved: (7:2)"
+       WEB: "Your rounded" for KJV's "the joints of thy"
+v.4 — ASV: "Bath-rabbim; Thy" for KJV's "Bath-rabbim: thy"
+       NET: "Bath Rabbim. Your" for KJV's "Bath-rabbim: thy"
+       WEB: "like an ivory tower. Your" for KJV's "as a tower of ivory; thine"
+v.10 — ASV: "beloved`s; And" for KJV's "beloved’s, and"
+       NET: adds "The Beloved about Her Lover:"
+       WEB: "beloved’s. His" for KJV's "beloved’s, and his"
+v.13 — ASV: "forth fragrance; And" for KJV's "a smell, and"
+       NET: "send out their fragrance; over" for KJV's "give a smell, and at"
+       WEB: "produce fragrance. At" for KJV's "give a smell, and at"
+
 GLOSSARY
 ------------------------------------
 Prince's     — Hebrew "bat-nadiv." The Bride's transformed identity.

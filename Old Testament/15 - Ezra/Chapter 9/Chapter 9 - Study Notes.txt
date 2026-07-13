@@ -196,6 +196,19 @@ v.15 — KJV: "thou art righteous" / ESV: "you are just" — Hebrew
        whether in judgment or mercy. The prayer ends not with a
        request but with a declaration of God's character.
 
+v.2 — NET: "race has become intermingled" for KJV's "seed have mingled themselves"
+       WEB: "the lands. Yes," for KJV's "those lands: yea,"
+v.3 — NET: "down, quite devastated." for KJV's "down astonied."
+       WEB: "pulled" for KJV's "plucked off"
+v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "briefly we have received mercy" for KJV's "for a little space grace hath been shewed"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — NET: adds "in that he has revived us"
+       WEB: "loving kindness to" for KJV's "mercy unto"
+v.15 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "guilt. However, because of this guilt no one can really" for KJV's "trespasses: for we cannot"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Holy Seed   — Hebrew "zera ha-qodesh" — Israel's identity as a

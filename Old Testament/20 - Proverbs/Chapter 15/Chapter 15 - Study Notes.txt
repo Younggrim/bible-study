@@ -131,6 +131,18 @@ v.17 — KJV: "a stalled ox" / ESV: "a fattened ox" — Hebrew "shor
        meal available. Even the finest food is bitter when served
        with hatred. Better simple food with genuine love.
 
+v.1 — ASV: "word stirreth" for KJV's "words stir"
+       NET: "gentle response turns" for KJV's "soft answer turneth"
+       WEB: "a harsh word stirs" for KJV's "grievous words stir"
+v.4 — ASV: "breaking of" for KJV's "breach in"
+       NET: "perverse speech breaks" for KJV's "breach in"
+       WEB: adds "it crushes"
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "humans!" for KJV's "the children of men?"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.17 — NET: adds "a meal of vegetables where there"
+       WEB: "fattened calf with hatred." for KJV's "stalled ox and hatred therewith."
+
 GLOSSARY
 ------------------------------------
 Soft Answer     — Hebrew "ma'aneh rakh" = a gentle, tender response.

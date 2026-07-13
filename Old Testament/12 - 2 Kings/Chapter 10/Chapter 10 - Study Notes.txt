@@ -180,6 +180,21 @@ v.31 — KJV: "took no heed" / ESV: "was not careful" — Hebrew "lo
        "keep" or "guard" God's law — he was careless with it, not
        deliberately rebellious but negligently unfaithful.
 
+v.6 — ASV: "to-morrow" for KJV's "to morrow"
+       NET: "city were raising them." for KJV's "city, which brought them up."
+       WEB: "“If you are on my side," for KJV's "If ye be mine,"
+v.7 — ASV: adds "them, even"
+       NET: "executed all 70 of them. They" for KJV's "slew seventy persons, and"
+       WEB: adds "him to"
+v.15 — NET: "Rekab who had been looking for him. Jehu greeted him and ..." for KJV's "Rechab coming"
+       WEB: "him. He greeted" for KJV's "him: and he saluted"
+v.27 — ASV: "draught-house," for KJV's "draught house"
+       NET: "They demolished" for KJV's "And they brake down"
+       WEB: "latrine, to" for KJV's "draught house unto"
+v.31 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "did not carefully and wholeheartedly obey" for KJV's "took no heed to walk in"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Golden Calves — The two golden calf images set up by Jeroboam I at

@@ -254,6 +254,31 @@ v.29 — KJV: "kick ye at my sacrifice" / ESV: "scorn my sacrifices" —
        "scorn" interprets the metaphor. The image is of contemptuous
        rejection — treating holy things as worthless.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "has been raised high because of" for KJV's "is exalted in"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — ASV: "have ceased [to hunger]: Yea," for KJV's "ceased: so that"
+       NET: "woman has given birth to seven, but the one with" for KJV's "hath born seven; and she that hath"
+       WEB: "has borne seven. She who has" for KJV's "hath born seven; and she that hath"
+v.9 — ASV: "holy ones; But" for KJV's "saints, and"
+       NET: "are made speechless" for KJV's "shall be silent"
+       WEB: "holy ones, but" for KJV's "saints, and"
+v.10 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord shatters his adversaries; he thunders against them from" for KJV's "adversaries of"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "wicked men. They did" for KJV's "sons of Belial; they knew"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.16 — ASV: "They will surely" for KJV's "Let them not fail to"
+       NET: "for yourself whatever you wish,”" for KJV's "as much as thy soul desireth;"
+       WEB: "say, “No," for KJV's "answer him, Nay;"
+v.25 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "may appeal to God on his behalf. But" for KJV's "man sin against another, the judge shall judge him: but"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.29 — ASV: "[my] habitation," for KJV's "my habitation;"
+       NET: adds "commanded for my dwelling place? You"
+       WEB: "honor your" for KJV's "honourest thy"
+
 GLOSSARY
 ------------------------------------
 Horn           — Hebrew "qeren." A symbol of strength, power, and

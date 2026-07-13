@@ -135,6 +135,16 @@ v.18 — KJV: "as a moth" / ESV: "like a moth's" — The wicked
        — or as a watchman's temporary shelter (booth). Both images
        emphasize impermanence.
 
+v.1 — NET: "discourse again:" for KJV's "parable, and said,"
+v.5 — ASV: "Far be it from me" for KJV's "God forbid"
+       NET: adds "you three are in the right; until"
+       WEB: "Far be it from me" for KJV's "God forbid"
+v.8 — ASV: "get him gain, When" for KJV's "hath gained, when"
+       NET: adds "hope does the godless have when he"
+       WEB: "godless, when" for KJV's "hypocrite, though"
+v.18 — NET: adds "he builds is as fragile"
+       WEB: "watchman makes." for KJV's "keeper maketh."
+
 GLOSSARY
 ------------------------------------
 Integrity    — Hebrew "tummah" — from the same root as "tam"

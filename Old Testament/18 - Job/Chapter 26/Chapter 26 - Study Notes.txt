@@ -148,6 +148,18 @@ v.12 — KJV: "the proud" / ESV: "Rahab" — Rahab here is not the
        primordial chaos. God's "understanding" (not merely brute
        force) defeats chaos — He is wise as well as powerful.
 
+v.5 — ASV: "deceased tremble Beneath" for KJV's "formed from under"
+       NET: "“The dead tremble— those beneath" for KJV's "Dead things are formed from under"
+       WEB: "“The departed spirits tremble, those beneath" for KJV's "Dead things are formed from under"
+v.6 — ASV: "[God], And Abaddon" for KJV's "him, and destruction"
+       NET: "God; the place of" for KJV's "him, and"
+       WEB: "Abaddon has" for KJV's "destruction hath"
+v.7 — ASV: "space, And" for KJV's "place, and"
+       NET: "space; he suspends" for KJV's "place, and hangeth"
+v.12 — ASV: "Rahab." for KJV's "the proud."
+       NET: "By his power he stills" for KJV's "He divideth"
+       WEB: "Rahab." for KJV's "the proud."
+
 GLOSSARY
 ------------------------------------
 Rahab        — A sea monster or chaos dragon in ancient Near

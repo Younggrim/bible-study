@@ -252,6 +252,19 @@ v.16 — KJV: "Arise therefore, and be doing, and the LORD be with
        (arise, work) with the divine blessing (the LORD be with
        you) — effort and dependence united.
 
+v.2 — NET: "be called together. He appointed some of them to be stone..." for KJV's "hew wrought"
+       WEB: "foreigners who" for KJV's "strangers that"
+v.3 — NET: "braces, more bronze than could be weighed," for KJV's "the joinings; and brass in abundance without weight;"
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "especially magnificent so it will become famous" for KJV's "exceeding magnifical, of fame"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.14 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "made every effort to supply what is needed to build" for KJV's "prepared for"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.16 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord" for KJV's "silver, and the brass, and the iron, there is no number. ..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Magnifical  — An archaic English adjective meaning supremely

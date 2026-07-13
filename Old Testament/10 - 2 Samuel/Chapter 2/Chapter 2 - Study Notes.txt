@@ -193,6 +193,20 @@ v.29 — KJV: "walked all that night through the plain" / ESV: "went
        proper noun. Abner's retreat took him east through the Jordan
        Valley back to Mahanaim.
 
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "lord Saul by burying" for KJV's "lord, even unto Saul, and have buried"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.14 — ASV: "men, I pray thee, arise" for KJV's "men now arise,"
+       NET: "soldiers get up" for KJV's "young men now arise,"
+       WEB: "arise" for KJV's "now arise,"
+v.18 — ASV: "the" for KJV's "there were"
+       NET: "the gazelles in the field.)" for KJV's "foot as a wild roe."
+       WEB: "The" for KJV's "And there were"
+v.23 — ASV: "body, so" for KJV's "fifth rib,"
+       NET: "his back; Asahel collapsed on the spot" for KJV's "behind him; and he fell down there,"
+       WEB: "away. Therefore" for KJV's "aside: wherefore"
+v.29 — NET: "the whole region of Bitron" for KJV's "all Bithron,"
+
 GLOSSARY
 ------------------------------------
 Hebron         — An ancient city approximately 19 miles south of

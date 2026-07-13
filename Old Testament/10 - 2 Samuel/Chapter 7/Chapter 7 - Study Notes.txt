@@ -226,6 +226,22 @@ v.19 — KJV: "And is this the manner of man, O Lord GOD?" / ESV: "and
        far beyond himself — it is God's plan for all humanity
        (fulfilled in Christ).
 
+v.2 — NET: "sits in the middle of a tent.”" for KJV's "dwelleth within curtains."
+       WEB: "dwells" for KJV's "of God dwelleth"
+v.7 — NET: "made from cedar?”’" for KJV's "of cedar?"
+       WEB: "‘Why have you" for KJV's "Why build ye"
+v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "your work as a shepherd" for KJV's "following the sheep,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Israel. Instead, I will give you relief" for KJV's "Israel, and have caused thee to rest"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.15 — NET: "loyal love will" for KJV's "mercy shall"
+       WEB: "loving kindness will" for KJV's "mercy shall"
+v.19 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "you didn’t stop there," for KJV's "this was yet a small thing in thy sight,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Davidic        — God's unconditional promise to David (vv.11-16) that

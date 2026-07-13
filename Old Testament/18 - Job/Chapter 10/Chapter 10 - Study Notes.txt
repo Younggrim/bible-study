@@ -172,6 +172,18 @@ v.22 — KJV: "A land of darkness, as darkness itself; and of the
        "Without any order" suggests death's realm is the opposite
        of creation's order — chaos returned.
 
+v.1 — ASV: "complaint;" for KJV's "complaint upon myself;"
+       NET: "complain freely without restraint;" for KJV's "leave my complaint upon myself;"
+       WEB: "complaint." for KJV's "complaint upon myself;"
+v.10 — NET: "like milk" for KJV's "as milk,"
+       WEB: "Haven’t you" for KJV's "Hast thou not"
+v.15 — ASV: "head; Being filled with ignominy, And looking upon" for KJV's "head. I am full of confusion; therefore see thou"
+       NET: "shame and satiated with my affliction." for KJV's "confusion; therefore see thou mine affliction;"
+       WEB: "head, being filled with disgrace, and conscious" for KJV's "head. I am full"
+v.22 — ASV: "midnight, [The land]" for KJV's "darkness itself; and"
+       NET: "like the deepest darkness," for KJV's "as darkness itself;"
+       WEB: "midnight," for KJV's "darkness itself; and"
+
 GLOSSARY
 ------------------------------------
 Eyes of       — (v.4) A rhetorical question: does God see with

@@ -221,6 +221,22 @@ v.23 — KJV: "let him go up" / ESV: "Let him go up" — Hebrew
        "alah" (to go up) is the same root as "aliyah" — the
        term still used for Jewish return to the land of Israel.
 
+v.9 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Jerusalem. He" for KJV's "Jerusalem: and he"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.15 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "for he felt compassion for his people" for KJV's "rising up betimes,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.16 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord got very angry at" for KJV's "wrath of the LORD arose against"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.21 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "experienced its sabbatical years. All the time of its des..." for KJV's "had enjoyed her sabbaths: for as long as she lay desolate..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.23 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Persia says: ‘The Lord God of heaven has given me all" for KJV's "Persia, All"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Chaldeans/  — The Chaldeans (Hebrew "kasdim") were a Semitic

@@ -180,6 +180,20 @@ v.14 — KJV: "the glory of the LORD had filled the house" / ESV:
        had such substance that it overwhelmed the priests' ability
        to function.
 
+v.3 — NET: "festival" for KJV's "feast which was"
+v.9 — ASV: "were so long" for KJV's "of the ark,"
+       NET: "The poles were so long their ends extending" for KJV's "And they drew"
+       WEB: "The poles were so long" for KJV's "And they drew out the staves of the ark,"
+v.12 — ASV: "them, even" for KJV's "them of"
+       NET: "altar. They were accompanied by 120" for KJV's "altar, and with them an hundred and twenty"
+       WEB: "them, even" for KJV's "them of"
+v.13 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "loyal love endures!” Then a cloud filled" for KJV's "mercy endureth for ever: that then"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.14 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "carry out their duties because" for KJV's "stand to minister by reason"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Ark of the  — The gold-covered chest (approximately 3.75 x 2.25 x

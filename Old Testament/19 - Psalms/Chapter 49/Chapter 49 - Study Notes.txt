@@ -141,6 +141,18 @@ TRANSLATION COMPARISON
 ------------------------------------
 
 
+v.2 — NET: "Pay attention, all you people, both" for KJV's "Both low and high,"
+v.3 — NET: "I will declare a wise saying; I will share" for KJV's "My mouth shall speak of wisdom; and the meditation of"
+       WEB: "wisdom. My" for KJV's "wisdom; and the meditation of my"
+v.8 — ASV: "costly, And" for KJV's "precious, and"
+       NET: "(the ransom price for a human life is too high, and peopl..." for KJV's "(For the redemption of"
+       WEB: "costly, no payment is ever enough," for KJV's "precious, and it ceaseth for ever:)"
+v.12 — NET: "but, despite their wealth, people do not last. They are" for KJV's "Nevertheless man being in honour abideth not: he is"
+       WEB: "But man, despite his riches, doesn’t endure. He" for KJV's "Nevertheless man being in honour abideth not: he"
+v.14 — ASV: "be for Sheol to consume, That there be no habitation for it." for KJV's "consume in the grave from their dwelling."
+       NET: adds "when the day of vindication dawns. Sheol will consume the..."
+       WEB: "appointed as a flock for Sheol. Death" for KJV's "laid in the grave; death"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Wealth cannot save. This psalm demolishes the idol of money with

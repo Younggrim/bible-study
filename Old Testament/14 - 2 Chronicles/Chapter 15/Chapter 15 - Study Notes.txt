@@ -135,6 +135,17 @@ v.17 — KJV: "the heart of Asa was perfect all his days" / ESV: "the
        chapter 16's failure. "Perfect" here likely means "oriented
        toward God in fundamental direction" rather than "sinless."
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "you when you are loyal to him. If you" for KJV's "you, while ye be with him; and if ye"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — ASV: "was" for KJV's "hath been"
+       NET: "priest to instruct them, or the" for KJV's "teaching priest, and without"
+       WEB: "was" for KJV's "hath been"
+v.15 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "responded to them. He made" for KJV's "was found of them: and the LORD gave"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.17 — NET: "wholeheartedly devoted to the Lord throughout" for KJV's "perfect all"
+
 GLOSSARY
 ------------------------------------
 Covenant    — Hebrew "berith" — a formal, binding agreement between

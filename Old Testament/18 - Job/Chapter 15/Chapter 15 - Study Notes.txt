@@ -168,6 +168,17 @@ v.33 — KJV: "He shall shake off his unripe grape as the vine" /
        before maturity. The wicked man's efforts never come to
        fruition — his "fruit" falls before it matures.
 
+v.2 — ASV: "himself" for KJV's "his belly"
+       NET: "answer with blustery" for KJV's "utter vain"
+       WEB: "himself" for KJV's "his belly"
+v.11 — ASV: "Are the consolations of God too small for thee, Even the word that is gentle tow..."
+       NET: "too trivial for you, or a word spoken in gentleness to you?" for KJV's "of God small with thee? is there any secret thing with thee?"
+       WEB: "for you, even the word that" for KJV's "with thee?"
+v.26 — ASV: "him with a [stiff]" for KJV's "him, even on his"
+       NET: "defiantly charging against him with a thick, strong shield!" for KJV's "He runneth upon him, even on his neck, upon the thick bos..."
+       WEB: "he runs at him with a stiff" for KJV's "He runneth upon him, even on his"
+v.33 — NET: "like an olive tree he will shed" for KJV's "shall cast off"
+
 GLOSSARY
 ------------------------------------
 East Wind     — (v.2) The sirocco — a hot, destructive wind from

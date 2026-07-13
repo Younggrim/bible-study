@@ -194,6 +194,17 @@ v.32 — KJV: "this son of a murderer" / ESV: "this murderer" —
        The king's violent intent proves he has inherited his
        parents' character.
 
+v.5 — ASV: "axe-head" for KJV's "axe head"
+       NET: "water. He shouted, “Oh no, my" for KJV's "water: and he cried, and said, Alas,"
+       WEB: "water. Then" for KJV's "water: and"
+v.6 — NET: "The prophet asked, “Where did it drop in?” When" for KJV's "And the man of God said, Where fell it? And"
+       WEB: "asked, “Where did it fall?” He showed" for KJV's "said, Where fell it? And he shewed"
+v.25 — NET: "Samaria’s food supply ran out. They laid siege to it so l..." for KJV's "And there was"
+       WEB: "Samaria. Behold," for KJV's "Samaria: and, behold,"
+v.32 — ASV: "against him:" for KJV's "at the door:"
+       NET: "lean against it. His master will certainly be right" for KJV's "hold him fast at the door: is not the sound of his master..."
+       WEB: "door shut against him. Isn’t" for KJV's "door: is not"
+
 GLOSSARY
 ------------------------------------
 Dothan       — A city approximately 10 miles north of Samaria,

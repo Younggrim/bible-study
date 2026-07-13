@@ -255,6 +255,22 @@ v.33 — KJV: "They feared the LORD, and served their own gods" /
        capture the essence of syncretism: adding God to existing
        loyalties rather than giving Him exclusive devotion.
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "to the same degree"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord their God" for KJV's "children of Israel did secretly those things"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.15 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "had commanded them to obey. They paid allegiance to worth..." for KJV's "testified against them;"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.25 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "When they first moved in, they did not worship" for KJV's "And so it was at"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.33 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "gods in accordance with" for KJV's "gods, after"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Samaria     — Capital of the northern kingdom of Israel, built by

@@ -190,6 +190,19 @@ v.11 — KJV: "tribute silver" / ESV: "silver for tribute" — The
        (7,700 rams and 7,700 goats). The differing forms of
        tribute reflect each nation's economic base.
 
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "his ancestor David’s footsteps at"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "became very wealthy" for KJV's "had riches"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "committed to following" for KJV's "lifted up in"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: "silver for tribute;" for KJV's "tribute silver; and"
+       NET: "tribute, including a load of silver. The Arabs" for KJV's "presents, and tribute silver; and the Arabians"
+       WEB: "silver for tribute. The" for KJV's "tribute silver; and the"
+
 GLOSSARY
 ------------------------------------
 Baalim/     — Hebrew plural of "Baal" (lord/master). The

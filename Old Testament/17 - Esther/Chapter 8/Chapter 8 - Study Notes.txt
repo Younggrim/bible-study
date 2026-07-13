@@ -206,6 +206,19 @@ v.17 — KJV: "many of the people of the land became Jews" / ESV:
        The motivation ("fear of the Jews fell upon them") suggests
        mixed motives — genuine conversion and prudent alliance.
 
+v.1 — NET: "estate of Haman, that adversary of" for KJV's "king Ahasuerus give"
+       WEB: "day, King" for KJV's "day did the king"
+v.10 — ASV: "swift steeds that were used in the king`s service, bred o..." for KJV's "mules, camels, and young dromedaries:"
+       NET: "couriers, who rode royal horses that were very swift." for KJV's "posts on horseback, and riders on mules, camels, and youn..."
+       WEB: "royal horses that were bred from swift steeds." for KJV's "mules, camels, and young dromedaries:"
+v.11 — ASV: "wherein the king granted the Jews that were in every city to gather themselves t..."
+       NET: "should become their adversaries, including their women" for KJV's "would assault them, both little ones"
+       WEB: "plunder their possessions," for KJV's "take the spoil of them for a prey,"
+v.15 — NET: "Susa shouted with joy." for KJV's "Shushan rejoiced and was glad."
+       WEB: "Susa shouted" for KJV's "Shushan rejoiced"
+v.17 — NET: "resident peoples pretended to be Jews, because" for KJV's "people of the land became Jews; for"
+       WEB: "Many from among" for KJV's "And many of"
+
 GLOSSARY
 ------------------------------------
 Signet Ring  — Hebrew "taba'ath" (ring/seal ring). The king's

@@ -203,6 +203,18 @@ v.36 — KJV: "we are servants this day" / ESV: "we are slaves this
        physically returned, they are politically subjugated — the
        exile's consequences persist.
 
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "name be blessed; may it be lifted up" for KJV's "name, which is exalted"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.17 — ASV: "abundant in lovingkindness," for KJV's "of great kindness,"
+       NET: "unfailing in your loyal love. You did not abandon them," for KJV's "of great kindness, and forsookest them not."
+       WEB: "bondage. But you are" for KJV's "bondage: but thou art"
+v.25 — ASV: "good things, cisterns hewn out," for KJV's "goods, wells digged,"
+       NET: "They captured fortified cities and fertile land. They" for KJV's "And they"
+       WEB: "good things, cisterns dug out," for KJV's "goods, wells digged,"
+v.36 — NET: "you gave to" for KJV's "that thou gavest unto"
+       WEB: "you gave to" for KJV's "thou gavest unto"
+
 GLOSSARY
 ------------------------------------
 Sackcloth    — Coarse, dark cloth (typically goat hair) worn as an

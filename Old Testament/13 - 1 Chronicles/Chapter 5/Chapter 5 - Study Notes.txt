@@ -195,6 +195,23 @@ v.26 — KJV: "Pul king of Assyria" / ESV: "Pul king of Assyria" —
        "Pul" in Babylon and "Tiglath-pileser" in Assyria. Both
        names refer to the same king.
 
+v.1 — ASV: "father`s couch," for KJV's "father’s bed,"
+       NET: "Reuben, Israel’s firstborn—(Now" for KJV's "Reuben the firstborn of Israel, (for"
+       WEB: "listed according to" for KJV's "reckoned after"
+v.2 — ASV: "prince;" for KJV's "chief ruler;"
+       NET: adds "a leader descended from him, the right"
+       WEB: "prince;" for KJV's "chief ruler;"
+v.6 — NET: "King Tiglath-Pileser" for KJV's "Tilgath-pilneser king"
+       WEB: "captive. He" for KJV's "captive: he"
+v.20 — NET: "They received divine help in fighting" for KJV's "And they were helped against"
+       WEB: "answered them," for KJV's "was intreated of them;"
+v.25 — ASV: "played the harlot" for KJV's "went a whoring"
+       NET: "were unfaithful to" for KJV's "transgressed against"
+       WEB: "played the prostitute" for KJV's "went a whoring"
+v.26 — ASV: "half-tribe" for KJV's "half tribe"
+       NET: adds "Gadites, and half-tribe of Manasseh and took them to Hala..."
+       WEB: "half-tribe" for KJV's "half tribe"
+
 GLOSSARY
 ------------------------------------
 Reuben      — Jacob's firstborn by Leah. Lost the birthright due

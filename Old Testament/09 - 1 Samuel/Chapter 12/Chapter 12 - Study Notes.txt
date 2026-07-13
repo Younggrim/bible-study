@@ -218,6 +218,23 @@ v.25 — KJV: "ye shall be consumed" / ESV: "you shall be swept away"
        your king" — the monarchy provides no protection from covenant
        judgment.
 
+v.2 — NET: "youth till the present" for KJV's "childhood unto this"
+       WEB: "gray-headed. Behold," for KJV's "grayheaded; and, behold,"
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "so that I would overlook something? Tell me," for KJV's "to blind mine eyes therewith?"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "you were able to live securely." for KJV's "ye dwelled safe."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.17 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "what a great sin you" for KJV's "that your wickedness is great, which ye"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.22 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "reputation. The Lord was" for KJV's "name’s sake: because it hath"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.25 — NET: "you continue to" for KJV's "ye shall still"
+       WEB: "you keep doing evil, you will" for KJV's "ye shall still do wickedly, ye shall"
+
 GLOSSARY
 ------------------------------------
 Farewell address — A formal speech by a departing leader, reviewing

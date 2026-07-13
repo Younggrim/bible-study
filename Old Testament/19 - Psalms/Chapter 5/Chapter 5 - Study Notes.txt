@@ -115,6 +115,21 @@ v.10 — KJV: "Destroy thou them, O God" / ESV: "Make them bear
        judicial sense — let them bear the consequences of their own
        guilt. KJV intensifies to outright destruction.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "be accompanied by wind instruments; a psalm of David. Lis..." for KJV's "my words, O LORD,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.2 — ASV: "God; For" for KJV's "God: for"
+       NET: "Pay attention to" for KJV's "Hearken unto the voice of"
+       WEB: "Listen to" for KJV's "Hearken unto"
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "then wait expectantly for an answer." for KJV's "will look up."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — NET: "your presence; you hate" for KJV's "thy sight: thou hatest"
+       WEB: "your sight. You hate" for KJV's "thy sight: thou hatest"
+v.10 — ASV: "Hold them guilty," for KJV's "Destroy thou them,"
+       NET: "schemes be their downfall. Drive" for KJV's "counsels; cast"
+       WEB: "Hold them guilty, God. Let" for KJV's "Destroy thou them, O God; let"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Morning prayer is arranged, not accidental (v.3). David

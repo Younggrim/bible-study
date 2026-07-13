@@ -195,6 +195,20 @@ v.24 — KJV: "lay down naked" / ESV: "lay naked" — Hebrew "arom" =
        (wearing only a loincloth). Either way, for a king to lie
        exposed and helpless before a prophet is deeply humiliating.
 
+v.9 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "was playing the lyre." for KJV's "played with his hand."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — ASV: "goats` [hair] at the head thereof," for KJV's "goats hair for his bolster,"
+       NET: adds "it on the bed. She put"
+       WEB: "the teraphim," for KJV's "an image,"
+v.20 — NET: "capture David. When" for KJV's "take David: and when"
+       WEB: "came on Saul’s messengers," for KJV's "of God was upon the messengers of Saul,"
+v.22 — NET: "arrived at the large cistern" for KJV's "also to Ramah, and came to a great well"
+       WEB: "asked, “Where" for KJV's "asked and said, Where"
+v.24 — ASV: "clothes," for KJV's "clothes also,"
+       NET: "reason it is asked, “Is" for KJV's "night. Wherefore they say, Is"
+       WEB: "He also stripped" for KJV's "And he stript"
+
 GLOSSARY
 ------------------------------------
 Teraphim       — Hebrew "teraphim" (v.13) = household idols or

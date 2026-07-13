@@ -171,6 +171,18 @@ v.20 — KJV: "the house of Millo" / ESV: "the house of Millo" —
        part of the city's defensive structure. Joash was murdered
        in a government building — killed by insiders, not invaders.
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord approved" for KJV's "sight of the LORD"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "entrance of the Lord’s temple. The"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.15 — ASV: "give to them that did the work;" for KJV's "be bestowed on workmen:"
+       NET: "treasurers who disbursed" for KJV's "men, into whose hand they delivered"
+       WEB: "didn’t demand an accounting from" for KJV's "reckoned not with"
+v.20 — NET: "road that goes" for KJV's "house of Millo, which goeth"
+       WEB: "on the way that goes" for KJV's "which goeth"
+
 GLOSSARY
 ------------------------------------
 Jehoiada     — The high priest who saved Joash as an infant,

@@ -142,6 +142,18 @@ v.31 — KJV: "harp... organ" / ESV: "lyre... pipe" — Ancient
        joy now produce only mourning. Music itself has become
        lamentation.
 
+v.11 — ASV: "cast off" for KJV's "also let loose"
+       NET: "people throw off all restraint in my presence." for KJV's "they have also let loose the bridle before me."
+       WEB: "thrown off restraint" for KJV's "also let loose the bridle"
+v.18 — ASV: "disfigured; It" for KJV's "changed: it"
+       NET: "clothing; he binds" for KJV's "disease is my garment changed: it bindeth"
+       WEB: "disfigured. It binds" for KJV's "changed: it bindeth"
+v.29 — ASV: "jackals, And" for KJV's "dragons, and"
+       NET: "of ostriches." for KJV's "to owls."
+v.31 — ASV: "[turned]" for KJV's "also is turned"
+       NET: "used for mourning" for KJV's "turned to mourning,"
+       WEB: "those who" for KJV's "them that"
+
 GLOSSARY
 ------------------------------------
 Byword       — Hebrew "milah" (word/proverb). Job has become a

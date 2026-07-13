@@ -233,6 +233,27 @@ v.51 — KJV: "He is the tower of salvation for his king" / ESV:
        great." The Psalm 18:50 parallel has "great deliverance
        giveth he to his king," supporting the ESV reading.
 
+v.3 — ASV: "refuge; My saviour," for KJV's "refuge, my saviour;"
+       NET: adds "rocky summit where I take shelter, my"
+       WEB: "refuge. My savior, you save" for KJV's "refuge, my saviour; thou savest"
+v.5 — ASV: "ungodliness" for KJV's "ungodly men"
+       NET: "chaos overwhelmed me." for KJV's "ungodly men made me afraid;"
+       WEB: "surrounded me. The" for KJV's "compassed me, the"
+v.6 — ASV: "Sheol were round about me; The" for KJV's "hell compassed me about; the"
+       NET: "Sheol tightened around me;" for KJV's "hell compassed me about;"
+       WEB: "Sheol were around me. The" for KJV's "hell compassed me about; the"
+v.12 — NET: "He shrouded himself in darkness, in" for KJV's "And he made darkness pavilions round about him, dark wate..."
+       WEB: "a shelter around himself: gathering of" for KJV's "pavilions round about him, dark"
+v.31 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "The one true God acts in a faithful manner; the Lord’s pr..." for KJV's "As for God, his way"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.36 — ASV: "salvation; And" for KJV's "salvation: and"
+       NET: "your protective shield; your willingness to help enables" for KJV's "the shield of thy salvation: and thy gentleness hath made"
+       WEB: "your salvation. Your" for KJV's "thy salvation: and thy"
+v.51 — ASV: "king, And showeth lovingkindness" for KJV's "king: and sheweth mercy"
+       NET: adds "gives his king magnificent victories; he"
+       WEB: "gives great deliverance to" for KJV's "is the tower of salvation for"
+
 GLOSSARY
 ------------------------------------
 Rock (Tsur)    — Hebrew "tsur" = rock, cliff, boulder. One of

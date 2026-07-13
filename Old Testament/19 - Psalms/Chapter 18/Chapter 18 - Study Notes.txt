@@ -129,6 +129,18 @@ v.35 — KJV: "thy gentleness hath made me great" / ESV: "your
        help" or "your answering." The idea: God stooped down to
        David's level, and that condescension elevated David.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "For the music director, by the Lord’s servant David, who ..." for KJV's "I will"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — ASV: "ungodliness" for KJV's "ungodly men"
+       NET: "chaos overwhelmed me." for KJV's "ungodly men made me afraid."
+       WEB: "surrounded me. The" for KJV's "compassed me, and the"
+v.26 — NET: "You prove to be reliable to one who is blameless, but you..." for KJV's "With the pure thou wilt shew thyself pure; and with the f..."
+       WEB: "pure, you will show yourself pure. With" for KJV's "pure thou wilt shew thyself pure; and with"
+v.35 — ASV: "salvation; And" for KJV's "salvation: and"
+       NET: "supports me. Your willingness to help enables" for KJV's "hath holden"
+       WEB: "your salvation. Your" for KJV's "thy salvation: and thy"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God delights to deliver (v.19). He does not rescue reluctantly.

@@ -146,6 +146,16 @@ v.18 — KJV: "multiply my days as the sand" / ESV: "multiply my
        symbol of long life in the ancient Near East). The standard
        reading is "sand" — innumerable days.
 
+v.4 — ASV: "days, When" for KJV's "youth, when"
+       NET: "God’s intimate friendship" for KJV's "the secret of God"
+v.6 — ASV: adds "were washed"
+       NET: adds "were bathed"
+       WEB: adds "were washed"
+v.14 — ASV: "My justice" for KJV's "my judgment"
+       WEB: "me. My justice" for KJV's "me: my judgment"
+v.18 — NET: "thought, ‘I will" for KJV's "said, I shall"
+       WEB: "own house," for KJV's "nest, and"
+
 GLOSSARY
 ------------------------------------
 Secret/      — Hebrew "sod" — the inner circle, the confidential

@@ -133,6 +133,17 @@ v.30 — "stand in the gap" (KJV/ESV) — Hebrew "omed bapperetz" =
       to prevent the enemy from pouring through. No one would
       stand.
 
+v.2 — ASV: "then cause" for KJV's "yea, thou shalt shew"
+       NET: "are you willing to pronounce judgment? Are you willing to..." for KJV's "wilt thou judge, wilt thou judge"
+       WEB: "will you judge? Will you" for KJV's "wilt thou judge, wilt thou"
+v.18 — NET: "me. All of them" for KJV's "me become dross: all they"
+       WEB: "me. All of them" for KJV's "me become dross: all they"
+v.28 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "‘This is what the Sovereign Lord says,’ when" for KJV's "Thus saith"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.30 — NET: "them who would repair" for KJV's "them, that should make up"
+       WEB: "them who would build" for KJV's "them, that should make"
+
 GLOSSARY
 ------------------------------------
 The Bloody City — God's legal title for Jerusalem in this

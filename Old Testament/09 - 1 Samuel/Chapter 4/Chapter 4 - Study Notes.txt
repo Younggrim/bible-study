@@ -205,6 +205,22 @@ v.21 — KJV: "I-chabod" / ESV: "Ichabod" — Hebrew "I-kavod." The
        theology: God's manifest glory has departed from Israel. Both
        translations transliterate the name identically in meaning.
 
+v.1 — NET: "Israel.The Ark of the Covenant is Lost to the Philistines..." for KJV's "Israel. Now Israel"
+       WEB: "The" for KJV's "And the"
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Heaven’s Armies, who sits" for KJV's "hosts, which dwelleth"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — NET: "or else you will wind up serving" for KJV's "that ye be not servants unto"
+       WEB: "you. Strengthen" for KJV's "you: quit"
+v.13 — NET: "was sitting in his chair on the lookout" for KJV's "sat upon a seat"
+       WEB: "was sitting on his" for KJV's "sat upon a"
+v.18 — ASV: "[Eli] feel" for KJV's "he fell"
+       NET: "gate. He broke" for KJV's "seat backward by the side of the gate, and"
+       WEB: "God’s ark, Eli" for KJV's "the ark of God, that he"
+v.21 — ASV: "father-in-law" for KJV's "father in law"
+       NET: "Israel,” referring to the capture of" for KJV's "Israel: because"
+       WEB: "father-in-law" for KJV's "father in law"
+
 GLOSSARY
 ------------------------------------
 Ark of the Covenant — Hebrew "aron ha-berit." The gold-covered wooden

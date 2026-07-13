@@ -199,6 +199,18 @@ v.30 — "Favour" = Hebrew "chen" = grace, charm, attractiveness.
        but it is VAPOR — transient, insubstantial, unreliable as a
        measure of worth.
 
+v.1 — ASV: "oracle which" for KJV's "prophecy that"
+       NET: "an oracle" for KJV's "the prophecy"
+       WEB: "revelation which" for KJV's "prophecy that"
+v.10 — ASV: "find? For" for KJV's "find a virtuous woman? for"
+       NET: "wife of noble character? For" for KJV's "virtuous woman? for"
+v.26 — ASV: "And" for KJV's "and in her tongue is"
+       NET: "wisdom, with loving instruction on" for KJV's "wisdom; and in"
+       WEB: "wisdom. Faithful instruction is on" for KJV's "wisdom; and in"
+v.30 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord—she makes herself praiseworthy." for KJV's "LORD, she shall be praised."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Eshet Chayil (v.10) — Hebrew phrase meaning "woman of valor" or

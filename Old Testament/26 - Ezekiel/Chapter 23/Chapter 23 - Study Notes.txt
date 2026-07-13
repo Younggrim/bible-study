@@ -138,6 +138,15 @@ v.25 — "jealousy" (KJV/ESV) — Hebrew "qin'ah" = passionate
       Not petty envy but the righteous fury of violated covenant
       love.
 
+v.4 — ASV: "And as for" for KJV's "Thus were"
+       NET: "Oholibah is Jerusalem." for KJV's "Jerusalem Aholibah."
+       WEB: "sister. They became" for KJV's "sister: and they were"
+v.14 — NET: "carved in bright red," for KJV's "pourtrayed with vermilion,"
+       WEB: "portrayed on" for KJV's "pourtrayed upon"
+v.25 — ASV: "And I will set my jealousy against thee, and they shall deal with thee in fury; ..."
+       NET: "you in rage. They will cut off your" for KJV's "thee: they shall take away thy"
+       WEB: "you in fury. They will" for KJV's "thee: they shall"
+
 GLOSSARY
 ------------------------------------
 Oholah — "Her own tent" — the Northern Kingdom (Samaria), which

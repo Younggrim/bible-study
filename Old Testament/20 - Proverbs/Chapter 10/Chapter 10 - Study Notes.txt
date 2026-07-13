@@ -139,6 +139,16 @@ v.26 — KJV: "as vinegar to the teeth" / ESV: "like vinegar to the
        depending on him. He is an annoyance, a source of
        frustration to everyone who entrusts him with responsibility.
 
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord satisfies" for KJV's "LORD will not suffer"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — ASV: "commandments; But" for KJV's "commandments: but"
+       NET: "person accepts instructions, but the one who speaks fooli..." for KJV's "in heart"
+       WEB: "accept commandments," for KJV's "will receive commandments:"
+v.12 — ASV: "strifes; But" for KJV's "strifes: but"
+v.26 — NET: "those who" for KJV's "them that"
+       WEB: "those who" for KJV's "them that"
+
 GLOSSARY
 ------------------------------------
 Antithetical Parallelism — The dominant literary form in Proverbs

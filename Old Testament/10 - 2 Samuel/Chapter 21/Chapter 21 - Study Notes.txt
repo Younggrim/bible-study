@@ -194,6 +194,22 @@ v.19 — KJV: "slew the brother of Goliath the Gittite" / ESV:
        written. The Chronicles passage likely preserves the
        original reading.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "for three consecutive years. So" for KJV's "in the days of"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — ASV: "bare to" for KJV's "brought up for"
+       NET: adds "Armoni and Mephibosheth,"
+       WEB: "bore to" for KJV's "bare unto"
+v.9 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord. The seven of them died together;" for KJV's "LORD: and"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.16 — ASV: "and Ishbibenob, who" for KJV's "And Ishbi-benob, which"
+       NET: "weapon. He had said that he would kill" for KJV's "sword, thought to have slain"
+       WEB: "and Ishbibenob, who" for KJV's "And Ishbi-benob, which"
+v.19 — ASV: "Jaareoregim the Beth-lehemite" for KJV's "Jaare-oregim, a Bethlehemite,"
+       NET: "Philistines in Gob. On that occasion" for KJV's "Philistines, where"
+       WEB: "Philistines at Gob; and" for KJV's "Philistines, where"
+
 GLOSSARY
 ------------------------------------
 Gibeonites    — Descendants of the Hivite inhabitants of Gibeon

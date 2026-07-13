@@ -187,6 +187,25 @@ v.38 — KJV: "with a perfect heart" / ESV: "with a whole heart" —
        means complete/whole, not sinless. These warriors came with
        full conviction, holding nothing back.
 
+v.8 — ASV: "trained" for KJV's "of war fit"
+       NET: "wilderness. They were warriors who were trained for battl..." for KJV's "wilderness men of might,"
+       WEB: "Some Gadites joined David in" for KJV's "And of"
+v.14 — ASV: "he that was" for KJV's "one of the"
+       NET: "led a hundred men," for KJV's "was over an hundred, and"
+       WEB: "army: he who was" for KJV's "host: one of the"
+v.18 — ASV: "thirty, [and" for KJV's "captains, and"
+       NET: "Jesse! May you greatly prosper. May those who help you pr..." for KJV's "Jesse: peace, peace be unto thee, and peace be to thine h..."
+       WEB: "Jesse. Peace," for KJV's "Jesse: peace,"
+v.22 — ASV: "from" for KJV's "at that time"
+       NET: "his army became very large." for KJV's "it was a great host, like the host of God."
+       WEB: "God’s army." for KJV's "the host of God."
+v.33 — ASV: "order [the battle array, and were]" for KJV's "keep rank: they were"
+       NET: "From Zebulun there were 50,000 warriors who were prepared..." for KJV's "Of Zebulun, such as went forth to"
+       WEB: "command and" for KJV's "keep rank: they"
+v.38 — ASV: "order the battle array," for KJV's "keep rank,"
+       NET: "were warriors who were ready to march. They" for KJV's "of war, that could keep rank,"
+       WEB: "order the battle array, and" for KJV's "keep rank,"
+
 GLOSSARY
 ------------------------------------
 Ziklag      — A Philistine city given to David by King Achish of

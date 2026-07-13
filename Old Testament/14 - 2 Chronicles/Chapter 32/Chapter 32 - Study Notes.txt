@@ -209,6 +209,20 @@ v.31 — KJV: "God left him, to try him" / ESV: "God left him to
        verb "nasah" (test/prove) is the same used of Abraham's
        testing in Genesis 22:1.
 
+v.1 — ASV: "this faithfulness," for KJV's "the establishment thereof,"
+       NET: "faithful deeds were accomplished, King" for KJV's "things, and the establishment thereof,"
+       WEB: "this faithfulness," for KJV's "the establishment thereof,"
+v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "mere human strength, but the Lord our God"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.18 — ASV: "Jews` language" for KJV's "Jews’ speech"
+       NET: "They called out loudly" for KJV's "Then they cried with a loud voice"
+       WEB: "They called out" for KJV's "Then they cried"
+v.25 — NET: "was ungrateful; he had a proud attitude, provoking God" for KJV's "rendered not again according"
+       WEB: "didn’t reciprocate appropriate" for KJV's "rendered not again according"
+v.31 — NET: "Babylonian officials to visit him and inquire about" for KJV's "ambassadors of"
+       WEB: "However concerning" for KJV's "Howbeit in the business of"
+
 GLOSSARY
 ------------------------------------
 Sennacherib — King of Assyria (705-681 BC), son of Sargon II.

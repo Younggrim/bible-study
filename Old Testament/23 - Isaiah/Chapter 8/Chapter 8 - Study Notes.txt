@@ -135,6 +135,19 @@ v.20 — "to the law and to the testimony" (KJV/ESV) — Hebrew
       attested word. The double standard by which all claims to
       spiritual authority must be tested.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "an ordinary stylus: ‘Maher Shalal Hash Baz.’" for KJV's "a man’s pen concerning Maher-shalal-hash-baz."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.6 — NET: "the son of Remaliah." for KJV's "Remaliah’s son;"
+       WEB: "“Because" for KJV's "Forasmuch as"
+v.14 — NET: "that makes a person trip" for KJV's "of stumbling"
+       WEB: "He will" for KJV's "And he shall"
+v.19 — NET: "“Seek oracles at the pits used to conjure up underworld" for KJV's "Seek unto them that have familiar"
+       WEB: "with the wizards, who chirp" for KJV's "unto wizards that peep,"
+v.20 — ASV: "morning for" for KJV's "light in"
+       NET: "prophetic testimony of what would happen. Certainly" for KJV's "testimony: if"
+       WEB: "testimony! If" for KJV's "testimony: if"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Judah rejected "the waters of Shiloah that go softly" (v.6).

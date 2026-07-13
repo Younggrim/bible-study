@@ -177,6 +177,18 @@ v.11 — KJV: "Perez-uzza" / ESV: "Perez-uzza" — "Perez" means
        breaking-out against Uzzah" — a permanent memorial to the
        cost of disobedience.
 
+v.5 — ASV: adds "[the brook]"
+       NET: "to Lebo Hamath," for KJV's "even unto the entering of Hemath,"
+       WEB: adds "the brook"
+v.9 — NET: "Kidon, Uzzah reached out" for KJV's "Chidon, Uzza put forth"
+       WEB: "to Chidon’s threshing floor," for KJV's "unto the threshingfloor of Chidon,"
+v.10 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "so furious with Uzzah," for KJV's "kindled against Uzza, and"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Perez Uzzah, which remains its name" for KJV's "is called Perez-uzza"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Ark of God  — The gold-covered wooden chest containing the tablets

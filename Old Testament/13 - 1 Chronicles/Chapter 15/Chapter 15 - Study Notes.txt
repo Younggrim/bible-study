@@ -166,6 +166,22 @@ TRANSLATION COMPARISON
 ------------------------------------
 
 
+v.13 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "proper way to carry it.”" for KJV's "first, the LORD our God made a breach upon us, for that w..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "“Only the Levites may carry the ark of God, for the Lord ..." for KJV's "None ought"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "relatives must consecrate yourselves and" for KJV's "brethren, that ye may"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.15 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s instruction." for KJV's "word of the LORD."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.28 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "blowing trumpets, sounding cymbals,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Ark of the Covenant: Hebrew אֲרוֹן בְּרִית יְהוָה, the sacred gold-

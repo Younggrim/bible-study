@@ -150,6 +150,16 @@ v.10 — KJV: "who had come and gone from the place of the holy" /
        oblivion. The verse is also rendered differently depending
        on Hebrew manuscript variants.
 
+v.1 — ASV: "A man`s" for KJV's "a man’s"
+       NET: "solution to a problem? A person’s wisdom brightens his ap..." for KJV's "wise man?"
+       WEB: "is" for KJV's "shall be"
+v.8 — ASV: "war:" for KJV's "that war;"
+       NET: "one can be discharged during the battle, so" for KJV's "discharge in that war; neither shall"
+       WEB: "death. There" for KJV's "death: and there"
+v.10 — ASV: "done right went away" for KJV's "come and gone"
+       NET: "temple, and as they left" for KJV's "place of"
+       WEB: "buried. Indeed they came also from holiness. They went" for KJV's "buried, who had come"
+
 GLOSSARY
 ------------------------------------
 Sentence (pithgam) — A decree, pronouncement, or judicial

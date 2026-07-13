@@ -150,6 +150,17 @@ v.16 — KJV: "the house of the LORD was perfected" / ESV: "the house
        and "shalom" (peace). The man of peace completed the house to
        perfection — a wordplay connecting the builder to his work.
 
+v.2 — NET: "settled Israelites" for KJV's "caused the children of Israel to dwell"
+v.4 — ASV: "store-cities," for KJV's "store cities,"
+       NET: "storage cities" for KJV's "store cities, which"
+       WEB: "He" for KJV's "And he"
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord has entered are holy.”" for KJV's "LORD hath come."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.16 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s temple was laid" for KJV's "house of the LORD, and"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Tadmor      — A major oasis city in the Syrian desert, later known

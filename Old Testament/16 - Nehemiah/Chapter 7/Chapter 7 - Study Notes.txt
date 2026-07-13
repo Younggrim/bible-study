@@ -124,6 +124,11 @@ v.65 — KJV: "the Tirshatha" / ESV: "the governor" — Persian
        title (see Ezra 2:63 note). Here referring to Nehemiah
        himself in his capacity as Persian-appointed governor.
 
+v.2 — NET: "more than many do." for KJV's "above many."
+       WEB: "of Jerusalem;" for KJV's "over Jerusalem:"
+v.65 — NET: "The governor instructed them" for KJV's "And the Tirshatha said unto them, that they should"
+       WEB: "things until a priest" for KJV's "things, till there"
+
 GLOSSARY
 ------------------------------------
 Gatekeepers — Levitical guards responsible for opening and closing

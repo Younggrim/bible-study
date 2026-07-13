@@ -182,6 +182,19 @@ v.13 — KJV: "the dragon well" / ESV: "the Dragon Spring" —
        sea serpent, or jackal — the name may reflect local legend
        or the spring's serpentine course.
 
+v.1 — ASV: "him, that" for KJV's "him: and"
+       NET: "King Artaxerxes, when" for KJV's "Artaxerxes the king, that"
+       WEB: "him," for KJV's "him: and"
+v.3 — NET: "ancestors lies desolate" for KJV's "fathers’ sepulchres, lieth waste,"
+       WEB: "forever! Why shouldn’t" for KJV's "for ever: why should not"
+v.8 — NET: "me these requests, for" for KJV's "me, according to"
+       WEB: "my requests, because of" for KJV's "me, according to"
+v.10 — NET: "all this, they were very displeased" for KJV's "of it, it grieved them exceedingly"
+       WEB: "exceedingly, because" for KJV's "exceedingly that there was come"
+v.13 — ASV: "valley gate, even toward" for KJV's "gate of"
+       NET: "proceeded through the Valley Gate" for KJV's "went out"
+       WEB: "valley gate, even toward" for KJV's "gate of"
+
 GLOSSARY
 ------------------------------------
 Arrow       — A brief, instantaneous prayer lifted to God in the

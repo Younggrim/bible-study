@@ -168,6 +168,20 @@ v.11 — KJV: "a righteous person" / ESV: "a righteous man" — Hebrew
        murdered without cause, in his own home, while sleeping. The
        term emphasizes the injustice of the act.
 
+v.1 — ASV: "[Ish-bosheth], Saul`s son," for KJV's "Saul’s son"
+       NET: "he was very disheartened," for KJV's "his hands were feeble,"
+       WEB: "When" for KJV's "And when"
+v.4 — NET: "arrived from Jezreel. His nurse picked him up" for KJV's "out of Jezreel,"
+       WEB: "fled. As" for KJV's "fled: and it came to pass, as"
+v.6 — ASV: "body:" for KJV's "fifth rib:"
+       NET: "pretense of getting wheat" for KJV's "fifth rib:"
+       WEB: "body:" for KJV's "fifth rib:"
+v.7 — ASV: "went by" for KJV's "gat them away through"
+       NET: "house while Ish Bosheth was resting" for KJV's "house, he lay"
+       WEB: "bedroom," for KJV's "bedchamber, and"
+v.11 — NET: "killed an innocent man as he slept" for KJV's "slain a righteous person"
+       WEB: "bed, should" for KJV's "bed? shall"
+
 GLOSSARY
 ------------------------------------
 Beerothite     — A person from Beeroth, one of the four Gibeonite

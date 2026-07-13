@@ -159,6 +159,17 @@ v.33 — KJV: "the cattle also concerning the vapour" / ESV: "the
        animals sense the approaching storm that declares God's
        power.
 
+v.5 — ASV: "of understanding." for KJV's "and wisdom."
+       NET: "his intent." for KJV's "strength and wisdom."
+       WEB: "doesn’t despise anyone. He" for KJV's "despiseth not any: he"
+v.14 — WEB: "youth. Their" for KJV's "youth, and their"
+v.16 — ASV: "distress Into" for KJV's "the strait into"
+       NET: adds "distress, to a wide place, unrestricted, and to"
+       WEB: "restriction. That" for KJV's "straitness; and that"
+v.33 — ASV: "[the storm] that cometh up." for KJV's "the vapour."
+       NET: "His thunder announces the coming storm," for KJV's "The noise thereof sheweth concerning it,"
+       WEB: "tells about him, and" for KJV's "thereof sheweth concerning it,"
+
 GLOSSARY
 ------------------------------------
 Discipline   — Hebrew "musar" = instruction, correction, training.

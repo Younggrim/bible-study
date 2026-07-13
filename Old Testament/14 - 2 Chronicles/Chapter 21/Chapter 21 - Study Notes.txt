@@ -210,6 +210,21 @@ v.20 — KJV: "departed without being desired" / ESV: "departed
        reality: this king's death brought relief, not mourning.
        No one wished him back.
 
+v.2 — NET: "His brothers, Jehoshaphat’s sons, were Azariah, Jechiel, ..." for KJV's "And he had brethren the"
+       WEB: "Shephatiah. All" for KJV's "Shephatiah: all"
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord was unwilling to" for KJV's "LORD would not"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: "play the harlot," for KJV's "commit fornication,"
+       NET: "be unfaithful to the Lord" for KJV's "commit fornication,"
+       WEB: "play the prostitute," for KJV's "to commit fornication,"
+v.19 — ASV: "sickness, and" for KJV's "sickness: so"
+       NET: "a very painful death. His people did not make a bonfire t..." for KJV's "of sore diseases. And"
+       WEB: "sickness, and" for KJV's "sickness: so"
+v.20 — ASV: "desired; and" for KJV's "desired. Howbeit"
+       NET: "Jerusalem. No one regretted his death; he was" for KJV's "Jerusalem eight years, and departed without being desired..."
+       WEB: "He was thirty-two" for KJV's "Thirty and two"
+
 GLOSSARY
 ------------------------------------
 Edom/       — The territory southeast of the Dead Sea, populated

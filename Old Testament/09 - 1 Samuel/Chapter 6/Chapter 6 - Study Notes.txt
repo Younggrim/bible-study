@@ -206,6 +206,20 @@ v.19 — KJV: "fifty thousand and threescore and ten men" / ESV:
        theological point remains: God struck those who violated His
        holiness.
 
+v.3 — ASV: "trespass-offering:" for KJV's "trespass offering:"
+       NET: "They replied, “If you are going to" for KJV's "And they said, If ye"
+       WEB: "offering to him. Then you will" for KJV's "offering: then ye shall"
+v.7 — NET: "that have never had a yoke placed" for KJV's "take two milch kine,"
+       WEB: "milk cows," for KJV's "milch kine,"
+v.9 — NET: "But keep an eye on it. If" for KJV's "And see, if"
+       WEB: "struck us. It" for KJV's "smote us; it"
+v.18 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "five leaders, from the fortified cities" for KJV's "Philistines belonging"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.19 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "hard blow." for KJV's "great slaughter."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Beth-shemesh   — Hebrew "Beit Shemesh" = house of the sun. A Levitical

@@ -189,6 +189,20 @@ v.13 — KJV: "feigned himself mad... and scrabbled on the doors of the
        scrawling. ESV "made marks" is clearer. David's performance
        was convincing enough to fool a king.
 
+v.1 — ASV: "came to meet David trembling," for KJV's "was afraid at the meeting of David,"
+       NET: "shaking with fear when he met" for KJV's "afraid at the meeting of"
+       WEB: "came to meet David trembling," for KJV's "was afraid at the meeting of David,"
+v.4 — NET: adds "“I don’t have any ordinary bread at my disposal. Only hol..."
+       WEB: "“I have" for KJV's "There is"
+v.5 — ASV: "was but a common journey; how much more then to-day shall..." for KJV's "were sanctified this day in the vessel."
+       NET: "even on an ordinary journey. How much more so will they b..." for KJV's "and the bread is in a manner common, yea, though it were ..."
+       WEB: "was only a common journey. How much more then today shall..." for KJV's "were sanctified this day in the vessel."
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Saul’s shepherds.)" for KJV's "the herdmen that belonged to Saul."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — NET: "presence. Since he was in their power, he pretended to be..." for KJV's "hands, and scrabbled"
+       WEB: "pretended to be insane" for KJV's "feigned himself mad"
+
 GLOSSARY
 ------------------------------------
 Showbread      — Hebrew "lechem ha-panim" = literally "bread of the

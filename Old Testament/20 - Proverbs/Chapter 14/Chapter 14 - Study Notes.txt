@@ -142,6 +142,15 @@ v.30 — KJV: "A sound heart is the life of the flesh" / ESV: "A
        The connection between spiritual/emotional state and physical
        health is biblical.
 
+v.4 — ASV: "clean; But" for KJV's "clean: but"
+       NET: "an abundant harvest" for KJV's "much increase"
+v.9 — ASV: "A trespass-offering mocketh fools; But" for KJV's "Fools make a mock at sin: but"
+v.10 — NET: "its joy no one else can share." for KJV's "his joy."
+       WEB: adds "joy; he will not share these with"
+v.30 — ASV: "flesh; But" for KJV's "flesh: but"
+       NET: "tranquil spirit revives" for KJV's "sound heart is"
+       WEB: "rots" for KJV's "the rottenness of"
+
 GLOSSARY
 ------------------------------------
 Fear of the LORD — Referenced twice (vv.26-27) as strong

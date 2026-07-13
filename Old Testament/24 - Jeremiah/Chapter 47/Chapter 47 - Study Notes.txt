@@ -54,6 +54,16 @@ v.4 — "Caphtor" (KJV/ESV) — Crete or the Aegean region. The Philistines' anc
 
 v.5 — "baldness" (KJV/ESV) — Hebrew "qorchah" = shaved head (mourning ritual). Gaza in deep mourning — shaving the head in grief.
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "their inhabitants. People will cry out in alarm. Everyone..." for KJV's "all that is therein;"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "that remnant that came from"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — ASV: "brought to nought," for KJV's "cut off with"
+       NET: "The people of Gaza will shave their heads in mourning. Th..." for KJV's "Baldness is come upon Gaza;"
+       WEB: "brought to nothing," for KJV's "cut off with"
+
 GLOSSARY
 ------------------------------------
 Flood from the North — Babylon's invasion described as an unstoppable flood. The northern approach (through Syria) is both geographic reality and Jeremiah's recurring motif.

@@ -200,6 +200,17 @@ v.14 — KJV: "go thou in merrily with the king" / ESV: "go joyfully
        (joyful) forms an ironic contrast with the "joyful" (v.9)
        that was instantly destroyed by seeing Mordecai.
 
+v.1 — NET: "It so happened that" for KJV's "Now it came to pass"
+       WEB: "house. The" for KJV's "house: and the"
+v.6 — NET: adds "the king said to Esther, “What is your request? It shall ..."
+       WEB: "you. What" for KJV's "thee: and what"
+v.9 — ASV: "filled with wrath" for KJV's "full of indignation"
+       NET: "rise or tremble in his presence, Haman" for KJV's "up, nor moved for him, he"
+       WEB: "filled with wrath" for KJV's "full of indignation"
+v.14 — ASV: "in the morning" for KJV's "to morrow"
+       NET: "banquet contented.” It seemed like a good idea to Haman, so" for KJV's "banquet. And the thing pleased Haman; and"
+       WEB: adds "in the morning speak"
+
 GLOSSARY
 ------------------------------------
 Golden       — The royal scepter (Hebrew "sharvit") extended as a

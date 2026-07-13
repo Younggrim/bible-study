@@ -189,6 +189,22 @@ v.14 — KJV: "whom he had made governor" / ESV: "whom he had made
        building project a state-sanctioned enterprise from its
        inception.
 
+v.1 — ASV: "Israel [prophesied they]" for KJV's "Israel, even"
+       NET: "Israel who was over" for KJV's "Israel, even unto"
+       WEB: "Israel." for KJV's "Israel, even unto them."
+v.3 — ASV: adds "a decree"
+       NET: adds "Tattenai governor of Trans-Euphrates, Shethar-Bozenai, an..."
+       WEB: adds "Tattenai, the governor beyond the River"
+v.5 — ASV: "it." for KJV's "this matter."
+       NET: adds "were not stopped until a report"
+       WEB: "an answer should be" for KJV's "then they"
+v.8 — ASV: "on with diligence" for KJV's "fast on,"
+       NET: "timbers are being placed" for KJV's "timber is laid"
+       WEB: "prospers" for KJV's "this work goeth fast on, and prospereth"
+v.14 — ASV: adds "vessels also"
+       NET: "had brought to the palace of Babylon—even those things Ki..." for KJV's "they were delivered unto one, whose"
+       WEB: "God’s house," for KJV's "the house of God,"
+
 GLOSSARY
 ------------------------------------
 Haggai      — Prophet active in 520 BC whose four recorded messages

@@ -189,6 +189,21 @@ v.27 — KJV: "great indignation against Israel" / ESV: "great wrath
        revulsion. The ambiguity may be intentional, leaving the
        reader to wrestle with the horror of the event.
 
+v.4 — ASV: "rams." for KJV's "rams, with the wool."
+       NET: "sheep breeder. He would send as tribute to" for KJV's "sheepmaster, and rendered unto"
+       WEB: "he supplied" for KJV's "rendered unto"
+v.9 — NET: adds "Edom set out together. They wandered around on"
+       WEB: "circuitous route. There" for KJV's "compass of seven days’ journey: and there"
+v.15 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord energized him," for KJV's "hand of the LORD came upon him."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.25 — ASV: "trees, until" for KJV's "trees: only"
+       NET: "chopped down every productive tree. Only Kir Hareseth was..." for KJV's "filled it;"
+       WEB: "men armed with slings" for KJV's "stones thereof; howbeit the slingers"
+v.27 — ASV: "burnt-offering" for KJV's "burnt offering"
+       NET: "firstborn son, who was to succeed him as king," for KJV's "eldest son that should have reigned in his stead,"
+       WEB: "who would" for KJV's "that should"
+
 GLOSSARY
 ------------------------------------
 Mesha         — King of Moab who rebelled against Israel after

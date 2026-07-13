@@ -144,6 +144,15 @@ v.37 — "abase" (KJV) / "humble" (ESV) — Aramaic "hashpalah" =
       — God ACTIVELY brings down the proud. It is not merely that
       pride eventually fails; God personally intervenes against it.
 
+v.13 — NET: "on" for KJV's "of my head upon"
+v.16 — NET: "periods of time go by for" for KJV's "times pass over"
+       WEB: "to him. Then" for KJV's "unto him; and"
+v.27 — NET: "pleasing to you. Break away from your" for KJV's "acceptable unto thee, and break off thy"
+       WEB: "your tranquility.”" for KJV's "thy tranquility."
+v.37 — ASV: "I, Nebuchadnezzar," for KJV's "I Nebuchadnezzar"
+       NET: "I, Nebuchadnezzar," for KJV's "I Nebuchadnezzar"
+       WEB: "I, Nebuchadnezzar," for KJV's "I Nebuchadnezzar"
+
 GLOSSARY
 ------------------------------------
 The Great Tree — Nebuchadnezzar himself: visible to all the

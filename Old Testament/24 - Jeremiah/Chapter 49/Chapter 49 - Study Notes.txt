@@ -63,6 +63,19 @@ v.16 — "clefts of the rock" (KJV/ESV) — Hebrew "chagvey ha-sela" = the crevi
 
 v.28 — "Kedar... Hazor" (KJV/ESV) — Kedar = Ishmaelite nomadic tribe (tent-dwellers). Hazor = not the Canaanite city but unwalled Arabian settlements. Nebuchadnezzar campaigned against Arabian tribes (599/598 BC).
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "remaining? Do you think there are not any of them remaini..." for KJV's "no sons? hath he no heir?"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Can Edom’s counselors not give her any good advice? Has all" for KJV's "is counsel perished from the prudent? is"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.16 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "your heart have deceived you. You may make your home" for KJV's "thine heart, O thou that dwellest"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.28 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "conquered: “Army of Babylon, go and attack Kedar. Lay was..." for KJV's "shall smite, thus saith"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Edom in the Clefts — Edom's cities carved into sandstone cliffs (most famously Petra). Their geography WAS their fortress — high, hidden, seemingly unreachable. Pride in position.

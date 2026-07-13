@@ -180,6 +180,21 @@ v.16 — KJV: "linen yarn" / ESV: "Kue" — Hebrew "miqveh" is difficult.
        Turkey), a region known for horse breeding. Most modern
        scholars favor the geographical reading.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "royal authority, for" for KJV's "kingdom, and"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — ASV: "king" for KJV's "to reign"
+       NET: "loyalty to my father" for KJV's "mercy unto"
+       WEB: "loving kindness to" for KJV's "mercy unto"
+v.10 — NET: "great nation of yours.”" for KJV's "thy people, that is so great?"
+       WEB: "great people of yours?”" for KJV's "thy people, that is so great?"
+v.15 — ASV: "sycomore-trees" for KJV's "sycomore trees"
+       NET: "plentiful as sycamore fig" for KJV's "stones, and cedar"
+       WEB: "lowland." for KJV's "vale for abundance."
+v.16 — ASV: "them in droves, each drove" for KJV's "the linen yarn"
+       NET: "traders purchased them from Que." for KJV's "merchants received the linen yarn at a price."
+       WEB: "purchased them from Kue." for KJV's "received the linen yarn at a price."
+
 GLOSSARY
 ------------------------------------
 Gibeon      — A city approximately 6 miles northwest of Jerusalem,

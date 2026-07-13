@@ -120,6 +120,16 @@ v.52 — This verse is the doxology closing Book III of the Psalter.
        addition marking the book division: "Blessed be the LORD
        for evermore. Amen, and Amen."
 
+v.10 — ASV: adds "the arm of"
+       NET: "You crushed the Proud One and killed it; with your strong..." for KJV's "Thou hast broken Rahab in pieces, as one that is slain; t..."
+       WEB: "of the slain. You have" for KJV's "that is slain; thou hast"
+v.19 — ASV: "saints, And" for KJV's "holy one, and"
+       NET: "raised up a young man from" for KJV's "laid help upon one that is mighty; I have exalted one cho..."
+       WEB: "given strength to the warrior." for KJV's "laid help upon one that is mighty;"
+v.52 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "The Lord deserves praise forevermore! We agree! We agree!" for KJV's "Blessed be the LORD for evermore. Amen, and Amen."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. You can celebrate God's faithfulness AND question His apparent

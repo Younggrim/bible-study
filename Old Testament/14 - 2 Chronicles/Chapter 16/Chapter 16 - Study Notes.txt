@@ -150,6 +150,16 @@ v.12 — KJV: "he sought not to the LORD, but to the physicians" / ESV:
        seeking ONLY doctors. Asa completely excluded God from his
        crisis — a final demonstration of hardened self-reliance.
 
+v.9 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "strengthen those who are devoted to him. You have acted f..." for KJV's "shew himself strong"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.10 — ASV: "the prison-house;" for KJV's "a prison house;"
+       NET: "so angry at" for KJV's "wroth with"
+       WEB: "the prison;" for KJV's "a prison house;"
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "reign, Asa developed a foot disease, and his disease beca..." for KJV's "reign was diseased"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Ramah       — A city approximately 5 miles north of Jerusalem that

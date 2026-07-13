@@ -140,6 +140,19 @@ v.29 — "poured out" — Hebrew "shāphaḵtî" = to pour out
       abundantly, like water. Same root used in Joel 2:28. The
       Spirit is not given sparingly but lavished without measure.
 
+v.11 — ASV: "them that pass through:" for KJV's "the noses of the passengers:"
+       NET: "those who travel" for KJV's "the passengers on the"
+       WEB: "those who pass through. They will" for KJV's "the noses of the passengers: and there shall they"
+v.16 — ASV: adds "Hamonah shall"
+       NET: "Hamonah will also" for KJV's "the city shall"
+       WEB: "a city." for KJV's "the city shall be Hamonah."
+v.17 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "come! Gather from all around" for KJV's "come; gather yourselves on every side"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.29 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Sovereign Lord.”" for KJV's "Lord GOD."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Hamon-gog    — Hebrew meaning "multitude of Gog." The name given

@@ -160,6 +160,17 @@ v.21 — KJV: "Tarshish" / ESV: "Tarshish" — A distant maritime
        class of large ocean-going vessels rather than ships heading to
        a specific destination.
 
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s temple, she" for KJV's "house of the LORD; there"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.14 — ASV: "brought: and" for KJV's "brought. And"
+       NET: "besides what he collected from the merchants" for KJV's "Beside that which chapmen"
+       WEB: "All" for KJV's "And all"
+v.15 — NET: "hammered gold; 600 measures" for KJV's "beaten gold: six hundred shekels"
+       WEB: "gold. Six" for KJV's "gold: six"
+v.21 — NET: "into port with cargoes" for KJV's "the ships"
+       WEB: "Huram’s servants. Once" for KJV's "the servants of Huram:"
+
 GLOSSARY
 ------------------------------------
 Queen of    — A monarch from Sheba (most likely the Sabean kingdom

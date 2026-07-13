@@ -188,6 +188,16 @@ v.15 — KJV: "I will maintain mine own ways before him" / ESV:
        he will NOT confess sins he has not committed, even if God
        kills him. Faith and honesty coexist.
 
+v.4 — ASV: "lies; Ye" for KJV's "lies, ye"
+       NET: "worthless physicians!" for KJV's "all physicians of no value."
+       WEB: "lies. You" for KJV's "lies, ye"
+v.12 — ASV: "Your defences are defences" for KJV's "your bodies to bodies"
+       NET: "defenses are defenses" for KJV's "bodies to bodies"
+       WEB: "Your defenses are defenses" for KJV's "your bodies to bodies"
+v.15 — ASV: "have no hope: Nevertheless" for KJV's "trust in him: but"
+       NET: "hope in him; I will surely defend my" for KJV's "maintain mine own"
+       WEB: "have no hope. Nevertheless," for KJV's "trust in him: but"
+
 GLOSSARY
 ------------------------------------
 Forgers of    — (v.4) Those who fabricate false explanations. The

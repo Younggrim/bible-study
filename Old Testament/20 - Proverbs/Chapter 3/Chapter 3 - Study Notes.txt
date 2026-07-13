@@ -152,6 +152,19 @@ v.35 — KJV: "shame shall be the promotion of fools" / ESV: "fools
        fools are "promoted" to is shame. Their advancement is
        degradation. ESV simplifies but loses the irony.
 
+v.3 — NET: "around your neck," for KJV's "about thy neck;"
+       WEB: "around your neck. Write" for KJV's "about thy neck; write"
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "rely on your" for KJV's "unto thine"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — NET: "This will bring healing" for KJV's "It shall be health"
+       WEB: "your body," for KJV's "thy navel,"
+v.32 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "for one who goes astray" for KJV's "For the froward"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.35 — ASV: "glory; But" for KJV's "glory: but"
+       NET: "he holds fools up to public contempt." for KJV's "shame shall be the promotion of fools."
+
 GLOSSARY
 ------------------------------------
 Tree of Life   — Imagery from Eden (Genesis 2-3). Used four times

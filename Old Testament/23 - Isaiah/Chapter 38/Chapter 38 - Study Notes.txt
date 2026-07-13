@@ -113,6 +113,19 @@ v.17 — "pit of corruption" (KJV) / "pit of destruction" (ESV)
       — Hebrew "shachat beli" = the pit of nothingness/
       annihilation. The grave as total loss.
 
+v.8 — ASV: "steps on the dial whereon" for KJV's "degrees, by which degrees"
+       NET: adds "go back 10 steps on the stairs"
+       WEB: "steps on the sundial on" for KJV's "degrees, by"
+v.10 — ASV: "said, In" for KJV's "said in"
+       NET: "must walk through" for KJV's "shall go to"
+       WEB: "said, “In" for KJV's "said in"
+v.12 — ASV: adds "the loom: From"
+       NET: adds "rolls cloth; from the loom he cuts me off. You turn day i..."
+       WEB: adds "the loom. From"
+v.17 — ASV: "corruption; For" for KJV's "corruption: for"
+       NET: "oblivion. For you removed" for KJV's "corruption: for thou hast cast"
+       WEB: "you have" for KJV's "thou hast"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "Set thine house in order" (v.1). Even apart from terminal

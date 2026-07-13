@@ -145,6 +145,16 @@ v.21 — KJV: "Who knoweth the spirit of man that goeth upward" /
        "under the sun" perspective, who can empirically verify it?
        Faith affirms what observation cannot prove.
 
+v.11 — ASV: "everything" for KJV's "every thing"
+       NET: "its appropriate time, but he has" for KJV's "his time:"
+       WEB: "its time. He has" for KJV's "his time:"
+v.18 — ASV: "my heart, [It is] because" for KJV's "mine heart concerning the estate"
+       NET: "also thought to myself, “It is for" for KJV's "said in mine heart concerning"
+       WEB: "my heart, “As for" for KJV's "mine heart concerning the estate of"
+v.21 — ASV: "beast, whether it" for KJV's "beast that"
+       NET: "ascends" for KJV's "of man that goeth"
+       WEB: "animal, whether it goes" for KJV's "beast that goeth"
+
 GLOSSARY
 ------------------------------------
 Season (zman) — An appointed time, a fixed period. In Ecclesiastes

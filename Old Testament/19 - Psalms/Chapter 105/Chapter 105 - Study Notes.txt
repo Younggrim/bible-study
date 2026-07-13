@@ -105,6 +105,15 @@ v.28 — KJV: "they rebelled not against his word" / ESV: "they did
        obeying God's commands regarding the plagues. Some
        manuscripts and versions differ on this reading.
 
+v.15 — ASV: "anointed ones, And" for KJV's "anointed, and"
+       NET: "chosen ones. Don’t harm my prophets.”" for KJV's "prophets no harm."
+       WEB: "“Don’t touch my anointed ones! Do" for KJV's "Saying, Touch not mine anointed, and do"
+v.19 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "prediction came true. The Lord’s"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.28 — NET: "Aaron did" for KJV's "they rebelled"
+       WEB: "dark. They didn’t rebel" for KJV's "dark; and they rebelled not"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Tell the story (vv.1-2). "Make known his deeds among the

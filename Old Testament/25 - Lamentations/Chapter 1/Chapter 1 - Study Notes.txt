@@ -140,6 +140,16 @@ v.12 — "all ye that pass by" (KJV/ESV) — Hebrew "kol overey
       IGNORED. The suffering is public but the compassion is
       absent.
 
+v.1 — ASV: "nations! She that was a" for KJV's "nations, and"
+       NET: "now sits all alone! The prominent lady" for KJV's "how is she become as a widow she that was great"
+       WEB: "nations! She who was a" for KJV's "nations, and"
+v.8 — ASV: "become as an unclean thing; All" for KJV's "removed: all"
+       NET: "became an object of scorn. All who admired" for KJV's "is removed: all that honoured"
+       WEB: "has become unclean. All who honored" for KJV's "is removed: all that honoured"
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "mine? The Lord has afflicted" for KJV's "unto my sorrow, which is done unto"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 'Ekhah (How!) — The Hebrew title of Lamentations. A cry of

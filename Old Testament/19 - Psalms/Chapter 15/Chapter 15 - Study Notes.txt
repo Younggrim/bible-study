@@ -113,6 +113,19 @@ v.5 — KJV: "putteth not out his money to usury" / ESV: "does not
       about exploitation of the vulnerable, not all financial
       transactions.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "your home? Who may live on your" for KJV's "thy tabernacle? who shall dwell in thy"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — ASV: "friend, Nor" for KJV's "neighbour, nor"
+       NET: "neighbor." for KJV's "tongue, nor doeth evil to his neighbour, nor taketh up a ..."
+       WEB: "who doesn’t slander" for KJV's "that backbiteth not"
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "makes firm commitments and does not renege on" for KJV's "that sweareth to"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — ASV: adds "Psalm 16 Michtam of David."
+       NET: "The one who lives like this will" for KJV's "He that doeth these things shall"
+       WEB: "he who doesn’t lend" for KJV's "He that putteth not"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Access to God is ethical, not merely ceremonial (v.1). God does

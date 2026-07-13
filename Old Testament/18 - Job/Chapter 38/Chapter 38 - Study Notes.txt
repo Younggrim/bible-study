@@ -176,6 +176,18 @@ v.32 — KJV: "Mazzaroth" / ESV: "Mazzaroth" — Likely the zodiacal
        uncertain, but the point is clear: God guides celestial
        bodies that humans can only observe.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "whirlwind:" for KJV's "whirlwind, and said,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — NET: "Get ready for a difficult task" for KJV's "Gird up now thy loins"
+       WEB: "question you, then you" for KJV's "demand of thee, and"
+v.31 — ASV: "cluster" for KJV's "sweet influences"
+       NET: adds "the Pleiades or release the cords of"
+       WEB: "“Can you" for KJV's "Canst thou"
+v.32 — ASV: "her train?" for KJV's "his sons?"
+       NET: "Can you lead out the constellations" for KJV's "Canst thou bring forth Mazzaroth"
+       WEB: "Can you lead the constellations out" for KJV's "Canst thou bring forth Mazzaroth"
+
 GLOSSARY
 ------------------------------------
 Whirlwind    — Hebrew "se'arah" — a storm wind, tempest. God's

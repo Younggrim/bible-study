@@ -137,6 +137,19 @@ v.8  — "defile himself" (KJV) / "defile himself" (ESV) — Hebrew
       unclean animals (Leviticus 11). This wasn't preference —
       it was Torah obedience.
 
+v.2 — ASV: "treasure-house" for KJV's "treasure house"
+       NET: "God. He brought them to" for KJV's "God: which he carried into"
+       WEB: "God; and" for KJV's "God: which"
+v.4 — ASV: "king`s palace;" for KJV's "king’s palace,"
+       NET: "physical defect and who were handsome," for KJV's "blemish, but"
+       WEB: "that he should" for KJV's "whom they might"
+v.7 — ASV: "names unto them: unto Daniel" for KJV's "names: for"
+       NET: "Belteshazzar, Hananiah he named Shadrach, Mishael he name..." for KJV's "of Belteshazzar;"
+       WEB: "names to them: to Daniel" for KJV's "names: for"
+v.8 — ASV: "king`s dainties," for KJV's "portion of the king’s meat,"
+       NET: "court officials for permission" for KJV's "king’s meat, nor with the wine which he drank: therefore ..."
+       WEB: "drank. Therefore" for KJV's "drank: therefore"
+
 GLOSSARY
 ------------------------------------
 Purposed in His Heart — Pre-decided conviction. The resolve was

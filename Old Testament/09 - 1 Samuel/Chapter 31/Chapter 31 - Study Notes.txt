@@ -207,6 +207,20 @@ v.13 — KJV: "under a tree at Jabesh" / ESV: "under the tamarisk tree
        tamarisk). The definite article suggests a well-known tree —
        a landmark in Jabesh.
 
+v.3 — ASV: "greatly distressed by reason" for KJV's "sore wounded"
+       NET: "thick of the battle;" for KJV's "battle went sore against Saul, and"
+       WEB: "greatly distressed by reason" for KJV's "sore wounded"
+v.4 — ASV: "Then said Saul to his armorbearer, Draw thy sword, and thrust me through therewi..."
+       NET: "armor-bearer refused to do it, because" for KJV's "armourbearer would not; for"
+       WEB: "armor bearer, “Draw your" for KJV's "armourbearer, Draw thy"
+v.9 — ASV: "carry the tidings unto" for KJV's "publish it in"
+       NET: "among their people throughout" for KJV's "sent into"
+       WEB: "carry the news to" for KJV's "publish it in"
+v.12 — NET: "where they burned them." for KJV's "and burnt them there."
+v.13 — ASV: "the tamarisk-tree in" for KJV's "a tree at"
+       NET: "Jabesh; then they" for KJV's "Jabesh, and"
+       WEB: "They" for KJV's "And they"
+
 GLOSSARY
 ------------------------------------
 Mount Gilboa   — A mountain range on the southern edge of the Jezreel

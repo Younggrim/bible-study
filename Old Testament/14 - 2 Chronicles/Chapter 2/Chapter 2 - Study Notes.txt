@@ -170,6 +170,18 @@ v.16 — KJV: "in flotes by sea" / ESV: "in rafts by sea" — Hebrew
        was the standard method for transporting heavy timber in the
        ancient Near East.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "be built to honor the Lord, as well as a royal palace" for KJV's "build an house"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — NET: adds "of Tyre: “Help me as you did my father David, when you se..."
+       WEB: "“As you dealt" for KJV's "As thou didst deal"
+v.6 — NET: "a temple! It will really be" for KJV's "an house, save"
+       WEB: "except just" for KJV's "save only"
+v.10 — NET: "pay your servants who cut" for KJV's "give to thy servants,"
+       WEB: "cutters who" for KJV's "hewers that"
+v.16 — NET: "get all the timber you need from Lebanon" for KJV's "cut wood out of Lebanon, as much as thou shalt need:"
+       WEB: "you need. We" for KJV's "thou shalt need: and we"
+
 GLOSSARY
 ------------------------------------
 Huram/      — King of Tyre (a Phoenician coastal city in modern

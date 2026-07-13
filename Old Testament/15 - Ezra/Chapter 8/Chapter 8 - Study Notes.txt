@@ -181,6 +181,18 @@ v.27 — KJV: "fine copper, precious as gold" / ESV: "fine bright
        This was likely a rare alloy — polished bronze so fine it
        rivaled gold in appearance and value.
 
+v.15 — ASV: "encamped" for KJV's "in tents"
+       NET: "canal that flows toward Ahava," for KJV's "river than runneth to Ahava;"
+       WEB: "that runs" for KJV's "than runneth"
+v.17 — ASV: "forth" for KJV's "with commandment"
+       NET: adds "to say to Iddo and his relatives, who were the temple ser..."
+       WEB: "out to" for KJV's "with commandment unto"
+v.21 — NET: "Ahava Canal, so" for KJV's "river of Ahava,"
+v.22 — NET: "on everyone who is seeking him," for KJV's "upon all them for good that seek him;"
+       WEB: "those who" for KJV's "them that"
+v.27 — NET: "20 gold bowls worth 1,000 darics," for KJV's "Also twenty basons of gold, of a thousand drams;"
+       WEB: "gold weighing one" for KJV's "gold, of a"
+
 GLOSSARY
 ------------------------------------
 Ahava       — A river or canal near Babylon where Ezra assembled

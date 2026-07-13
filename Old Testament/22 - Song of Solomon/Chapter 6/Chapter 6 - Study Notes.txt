@@ -171,6 +171,18 @@ v.13 — "Shulamite" = the only occurrence of this name in Scripture.
        from "Shunem," a town in Issachar. The name identifies her
        uniquely — she has a name, an identity, not merely a role.
 
+v.4 — NET: "The Lover to His Beloved: My darling, you are as beautiful" for KJV's "Thou art beautiful, O my love,"
+       WEB: "You are" for KJV's "Thou art"
+v.10 — ASV: "Terrible" for KJV's "and terrible"
+       NET: "the stars in procession?”" for KJV's "an army with banners?"
+       WEB: "who looks out" for KJV's "that looketh forth"
+v.12 — ASV: "Before" for KJV's "Or ever"
+       NET: "princely people." for KJV's "soul made me like the chariots of Amminadib."
+       WEB: "with my royal people’s chariots." for KJV's "like the chariots of Amminadib."
+v.13 — ASV: "Shulammite; Return," for KJV's "Shulamite; return,"
+       NET: "The Lover to His Beloved: (7:1) Turn, turn," for KJV's "Return, return,"
+       WEB: "gaze at you. Lover Why do you desire to gaze at" for KJV's "look upon thee. What will ye see in"
+
 GLOSSARY
 ------------------------------------
 Tirzah       — A beautiful ancient city in the hill country of

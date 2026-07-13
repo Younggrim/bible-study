@@ -122,6 +122,21 @@ v.6 — KJV: "goodness and mercy shall follow me" / ESV: "goodness
       goodness and mercy PURSUE you with the same intensity an
       enemy would. You cannot outrun grace.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "A psalm of David."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.2 — ASV: "pastures; He" for KJV's "pastures: he"
+       NET: "to refreshing water." for KJV's "beside the still waters."
+       WEB: "pastures. He leads" for KJV's "pastures: he leadeth"
+v.4 — NET: "darkest valley," for KJV's "valley of the shadow of death,"
+       WEB: "your staff," for KJV's "thy staff"
+v.5 — ASV: "Thou hast anointed" for KJV's "thou anointest"
+       NET: "my enemies. You refresh" for KJV's "mine enemies: thou anointest"
+       WEB: "my enemies. You anoint" for KJV's "mine enemies: thou anointest"
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "faithfulness will pursue" for KJV's "mercy shall follow"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "MY shepherd" — personal, possessive (v.1). Not "a shepherd" or

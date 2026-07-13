@@ -197,6 +197,19 @@ v.11 — KJV: "as one of the king's sons" / ESV: "like one of the
        has the privileges of sonship without the legal status — a
        picture of our adoption into God's family through grace.
 
+v.1 — NET: "asked, “Is anyone still" for KJV's "said, Is there yet any that is"
+       WEB: "Saul’s house," for KJV's "the house of Saul,"
+v.3 — NET: "someone left from Saul’s family" for KJV's "yet any of the house of Saul,"
+       WEB: "“Jonathan still has" for KJV's "Jonathan hath yet"
+v.4 — NET: "asked" for KJV's "said unto"
+       WEB: "he?”" for KJV's "he? And"
+v.8 — ASV: "did obeisance," for KJV's "bowed himself,"
+       NET: "“Of what importance am I, your" for KJV's "What is thy"
+       WEB: "you should" for KJV's "thou shouldest"
+v.11 — ASV: "commandeth" for KJV's "hath commanded"
+       NET: "to do.” So Mephibosheth was a regular guest at David’s ta..." for KJV's "do. As for Mephibosheth, said the king,"
+       WEB: "will do.” So Mephibosheth ate at" for KJV's "do. As for Mephibosheth, said"
+
 GLOSSARY
 ------------------------------------
 Hesed          — Hebrew covenant love — the central concept of this

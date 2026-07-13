@@ -211,6 +211,20 @@ v.26 — KJV: "there was not any shut up, nor any left" / ESV:
        "bond or free" is a clearer rendering of this merism
        meaning "absolutely no one."
 
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "assassins. He obeyed the Lord’s commandment as recorded" for KJV's "murderers he slew not: according unto that which is written"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — NET: "Salt Valley; he captured Sela in battle" for KJV's "valley of salt ten thousand,"
+       WEB: "killed ten thousand Edomites" for KJV's "slew of Edom"
+v.9 — NET: "animal of Lebanon came by" for KJV's "beast that was in Lebanon,"
+       WEB: "as wife. Then" for KJV's "to wife: and there passed by"
+v.25 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "prophet from Gath Hepher." for KJV's "prophet, which was of Gath-hepher."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.26 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "weak and incapacitated and Israel had no deliverer." for KJV's "very bitter: for there was not any shut up, nor any left,..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Beth-shemesh — "House of the Sun" — A Judean border town in the

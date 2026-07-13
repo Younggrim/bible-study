@@ -143,6 +143,19 @@ v.37 — KJV: "clappeth his hands among us" / ESV: "claps his hands
        Job of adding arrogant rebellion to whatever sin originally
        caused his suffering.
 
+v.10 — ASV: "wickedness, And" for KJV's "wickedness; and"
+       NET: "“Therefore, listen to" for KJV's "Therefore hearken unto"
+       WEB: "“Therefore listen to" for KJV's "Therefore hearken unto"
+v.14 — ASV: "himself, [If]" for KJV's "man, if"
+       NET: "on it, and" for KJV's "upon man, if he"
+       WEB: "on himself, If" for KJV's "upon man, if"
+v.36 — ASV: "answering like" for KJV's "answers for"
+       NET: "tested to" for KJV's "tried unto"
+       WEB: "answering like" for KJV's "answers for"
+v.37 — ASV: "sin; He" for KJV's "sin, he"
+       NET: "adds transgression to" for KJV's "addeth rebellion unto"
+       WEB: "sin. He claps" for KJV's "sin, he clappeth"
+
 GLOSSARY
 ------------------------------------
 Respect of   — Hebrew "nasa panim" = to lift the face (of another),

@@ -198,6 +198,19 @@ v.25 — KJV: "dowry" / ESV: "bride-price" — Hebrew "mohar." ESV is
        bride-price at 100 Philistine foreskins — a death sentence
        disguised as a bargain.
 
+v.1 — NET: adds "David became bound together in close friendship."
+       WEB: "finished" for KJV's "made an end of"
+v.5 — NET: "David achieved success. So" for KJV's "and behaved himself wisely: and"
+       WEB: "war. It" for KJV's "war, and he"
+v.10 — ASV: "he did day by day. And Saul had his spear" for KJV's "at other times: and there was a javelin"
+       NET: "The next day an" for KJV's "And it came to pass on the morrow, that the"
+       WEB: "he did day by day. Saul had his spear" for KJV's "at other times: and there was a javelin"
+v.21 — ASV: "son-in-law a second time." for KJV's "son in law in the one of the twain."
+       NET: "“Today is the second time for you to become" for KJV's "Thou shalt this day be"
+       WEB: "son-in-law a second time.”" for KJV's "son in law in the one of the twain."
+v.25 — NET: "bride except 100 Philistine foreskins, so that he can" for KJV's "Philistines, to"
+       WEB: "desires no dowry except one" for KJV's "desireth not any dowry, but an"
+
 GLOSSARY
 ------------------------------------
 Covenant       — Hebrew "berith" = a binding agreement between two

@@ -170,6 +170,18 @@ v.14 — KJV: "I have said to corruption, Thou art my father: to the
        and decay are now Job's closest relatives. What was his
        family has been replaced by the grave.
 
+v.1 — ASV: "The grave is [ready]" for KJV's "the graves are ready"
+       NET: "have faded out;" for KJV's "are extinct,"
+       WEB: adds "“My spirit is consumed."
+v.6 — ASV: "And they spit in my face." for KJV's "and aforetime I was as a tabret."
+       NET: "one in whose face they spit." for KJV's "people; and aforetime I was as a tabret."
+       WEB: "people. They spit in my face." for KJV's "people; and aforetime I was as a tabret."
+v.9 — NET: "man holds to" for KJV's "also shall hold on"
+       WEB: "way. He who has" for KJV's "way, and he that hath"
+v.14 — ASV: "father; To" for KJV's "father: to"
+       NET: "‘My mother,’ or ‘My sister,’" for KJV's "Thou art my mother, and my sister."
+       WEB: "‘My mother,’" for KJV's "Thou art my mother,"
+
 GLOSSARY
 ------------------------------------
 Surety        — (v.3) A person who guarantees another's debt or

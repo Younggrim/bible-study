@@ -176,6 +176,17 @@ v.40 — KJV: "mighty men of valour, archers" / ESV: "mighty
        convey the dual qualification: general military excellence
        and specific skill in archery.
 
+v.29 — NET: adds "Gibeon lived in"
+       WEB: "The" for KJV's "And at Gibeon dwelt the"
+v.33 — NET: "was the father of Saul." for KJV's "begat Saul, and"
+       WEB: "became the father of Kish." for KJV's "begat Kish, and"
+v.34 — NET: "the father of" for KJV's "Merib-baal; and Merib-baal begat"
+       WEB: "Merib Baal. Merib Baal became the father of" for KJV's "Merib-baal; and Merib-baal begat"
+v.36 — NET: "was the father of Jehoaddah," for KJV's "begat Jehoadah;"
+       WEB: "became the father of Jehoaddah. Jehoaddah became the fath..." for KJV's "begat Jehoadah; and Jehoadah begat"
+v.40 — NET: "warriors who were adept archers. They" for KJV's "mighty men of valour, archers, and"
+       WEB: "The" for KJV's "And the"
+
 GLOSSARY
 ------------------------------------
 Benjamin    — Youngest son of Jacob by Rachel (who died giving him

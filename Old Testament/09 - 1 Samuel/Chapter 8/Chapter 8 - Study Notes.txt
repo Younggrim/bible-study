@@ -217,6 +217,18 @@ v.17 — KJV: "ye shall be his servants" / ESV: "you shall be his
        The irony: God delivered them from slavery in Egypt, and now
        they choose a king who will enslave them again.
 
+v.3 — NET: "ways. Instead, they made money dishonestly, accepted" for KJV's "ways, but turned aside after lucre, and took"
+       WEB: "dishonest gain," for KJV's "lucre, and"
+v.5 — NET: "don’t follow your ways. So" for KJV's "walk not in thy ways:"
+       WEB: "“Behold, you are" for KJV's "Behold, thou art"
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "request of you. For it is not you" for KJV's "in all"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — NET: "So now do as they say. But you must warn them" for KJV's "Now therefore hearken unto their voice: howbeit yet prote..."
+       WEB: "voice. However you shall" for KJV's "voice: howbeit yet"
+v.17 — NET: "you yourselves will" for KJV's "ye shall"
+       WEB: "you will" for KJV's "ye shall"
+
 GLOSSARY
 ------------------------------------
 Theocracy      — Government by God. Israel's original design: God as

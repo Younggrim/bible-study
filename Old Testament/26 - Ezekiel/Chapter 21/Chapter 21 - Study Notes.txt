@@ -133,6 +133,16 @@ v.27 — "whose right it is" (KJV/ESV) — Hebrew "asher lo
       A direct echo of Genesis 49:10's "Shiloh" — the one to
       whom kingship rightfully belongs.
 
+v.10 — ASV: "be as lightning: shall" for KJV's "glitter: should"
+       NET: "polished to flash like lightning!“‘Should" for KJV's "furbished that it may glitter: should"
+       WEB: "make a slaughter. It is polished that it may be as lightn..." for KJV's "glitter: should"
+v.21 — ASV: "the teraphim," for KJV's "with images,"
+       NET: "routes. He looks for omens: He shakes arrows," for KJV's "ways, to use divination:"
+       WEB: "divination. He shook the" for KJV's "divination: he made his"
+v.27 — ASV: "this also" for KJV's "and it"
+       NET: "make it! Indeed, this will not" for KJV's "overturn, overturn, overturn, it: and it shall"
+       WEB: "overturn it. This also will" for KJV's "overturn, it: and it shall"
+
 GLOSSARY
 ------------------------------------
 Sword of the LORD — God's instrument of judgment, here wielded

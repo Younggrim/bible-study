@@ -162,6 +162,20 @@ v.15 — This verse's vocabulary influenced the 13th-century Latin
        hymn "Dies Irae" ("Day of Wrath"), used in Requiem masses
        for centuries.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s message that" for KJV's "LORD which"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — NET: adds "“I will attack Judah and all who live in Jerusalem."
+       WEB: "idolatrous and pagan priests," for KJV's "Chemarims with the priests;"
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "I will remove those who" for KJV's "And them that"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "sin, those who think to themselves, ‘The Lord" for KJV's "heart, The LORD will not do good,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.15 — NET: "dark skies," for KJV's "thick darkness,"
+       WEB: "blackness," for KJV's "thick darkness,"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God "searches with candles" (v.12). There is no hiding from

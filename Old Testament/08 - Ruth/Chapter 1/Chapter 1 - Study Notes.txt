@@ -246,6 +246,26 @@ v.21 — KJV: "the LORD hath testified against me" / ESV: "the LORD has
        me" for "hera li Shaddai" where KJV has "the Almighty hath
        afflicted me."
 
+v.1 — ASV: "And it came to pass in the days when the judges judged, that there was a famine ..."
+       NET: "from Bethlehem in Judah" for KJV's "of Bethlehemjudah"
+       WEB: "judged," for KJV's "ruled, that"
+v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "daughters-in-law, “Listen to me! Each of you should" for KJV's "daughters in law, Go,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "daughters, you must not return with me. For my intense su..." for KJV's "daughters; for it grieveth me"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.14 — ASV: "mother-in-law," for KJV's "mother in law;"
+       NET: "mother-in-law goodbye," for KJV's "mother in law;"
+       WEB: "mother-in-law," for KJV's "mother in law;"
+v.16 — NET: "abandon you! For wherever you go," for KJV's "leave thee, or to return from following after thee: for w..."
+       WEB: "where you go," for KJV's "whither thou goest,"
+v.20 — NET: "‘Mara’ because the Sovereign One has treated" for KJV's "not Naomi, call"
+       WEB: adds "“Don’t call me Naomi."
+v.21 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Sovereign One has caused me to suffer?”" for KJV's "Almighty hath afflicted me?"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God works in the ordinary (vv.1-5). There are no miracles in Ruth,

@@ -124,6 +124,15 @@ v.6  — KJV: "man, that is a worm... son of man, which is a worm" —
        (worm/crimson worm). The ESV renders the first as "maggot."
        Bildad uses the most degrading possible language for humanity.
 
+v.2 — ASV: "him; He" for KJV's "him, he"
+       NET: "awesome might belong to God;" for KJV's "fear are with him,"
+       WEB: "him. He makes" for KJV's "him, he maketh"
+v.4 — NET: "righteous before" for KJV's "justified with"
+       WEB: "who" for KJV's "be clean that"
+v.6 — ASV: "worm! And" for KJV's "worm? and"
+       NET: "maggot— a" for KJV's "worm? and the"
+       WEB: "worm," for KJV's "worm? and"
+
 GLOSSARY
 ------------------------------------
 Worm/Maggot  — Hebrew "rimmah" and "toleah." Used to express

@@ -200,6 +200,19 @@ v.9  — KJV: "who had spoken good for the king" / ESV: "whose word
        to execute the very man who preserved the king's life —
        making the crime doubly heinous.
 
+v.2 — NET: adds "It shall be granted to you. And what is your petition? As..."
+       WEB: "you. What" for KJV's "thee: and what"
+v.4 — NET: "such distress would not have been sufficient for troubling" for KJV's "bondmen and bondwomen, I had held my tongue, although"
+v.6 — ASV: "an enemy, even" for KJV's "enemy is"
+       NET: "became terrified in the presence of" for KJV's "was afraid before"
+       WEB: "an enemy, even" for KJV's "enemy is"
+v.8 — ASV: "Then the king returned out of the palace garden into the place of the banquet of..."
+       NET: "was lying. The king exclaimed, “Will" for KJV's "was. Then said the king, Will"
+       WEB: "king said, “Will" for KJV's "king, Will"
+v.9 — ASV: "chamberlains that were" for KJV's "chamberlains, said"
+       NET: "king’s behalf. It stands near Haman’s home and is 75 feet..." for KJV's "king, standeth in the house of Haman. Then the"
+       WEB: "is standing at Haman’s house.” The" for KJV's "standeth in the house of Haman. Then the"
+
 GLOSSARY
 ------------------------------------
 Adversary    — Hebrew "tsar" (narrow, enemy, one who oppresses).

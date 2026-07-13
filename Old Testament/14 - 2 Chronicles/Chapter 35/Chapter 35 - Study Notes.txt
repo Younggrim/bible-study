@@ -208,6 +208,19 @@ v.22 — KJV: "hearkened not unto the words of Necho from the mouth
        Josiah's failure was a failure of spiritual discernment,
        not merely military miscalculation.
 
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Israel about things consecrated to" for KJV's "Israel, which were holy unto"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — ASV: "passover-offerings, unto" for KJV's "passover offerings, for"
+       NET: "Passover sacrifice, as well as 3,000 cattle." for KJV's "passover offerings, for all that were present, to the num..."
+       WEB: adds "the children of"
+v.13 — ASV: adds "children of the"
+       NET: "Passover sacrifices over the open" for KJV's "passover with"
+       WEB: "ordinance. They boiled" for KJV's "ordinance: but"
+v.20 — NET: "do battle at Carchemish on the Euphrates River." for KJV's "fight against Charchemish by Euphrates: and"
+v.22 — NET: "himself for battle. He did" for KJV's "himself, that he might fight with him, and hearkened"
+       WEB: "didn’t listen to" for KJV's "hearkened not unto"
+
 GLOSSARY
 ------------------------------------
 Passover    — Hebrew "pesach" (to pass over/spare). The

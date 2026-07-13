@@ -214,6 +214,21 @@ v.25 — KJV: "the sword devoureth one as well as another" / ESV: "the
        speaks as if Uriah's death were an accident of war rather than
        a calculated murder.
 
+v.1 — ASV: "return of the year," for KJV's "year was expired,"
+       NET: "entire Israelite army. They defeated the Ammonites" for KJV's "children of Ammon,"
+       WEB: "return of the year," for KJV's "year was expired,"
+v.2 — ASV: "at eventide," for KJV's "in an eveningtide,"
+       NET: "bathing. Now this" for KJV's "washing herself; and the"
+       WEB: "At evening," for KJV's "And it came to pass in an eveningtide, that"
+v.4 — ASV: "her (for" for KJV's "her; for"
+       NET: "some messengers to get her. She" for KJV's "messengers, and took her; and she"
+       WEB: "her (for" for KJV's "her; for"
+v.8 — ASV: "[of food]" for KJV's "of meat"
+       NET: "palace, the king sent" for KJV's "king’s house, and there followed him"
+       WEB: "your feet.”" for KJV's "thy feet. And"
+v.25 — NET: "upset you. There is no way to anticipate whom" for KJV's "displease thee, for"
+       WEB: "it.’ Encourage him.”" for KJV's "it: and encourage thou him."
+
 GLOSSARY
 ------------------------------------
 Uriah the      — One of David's "mighty men" (23:39) — an elite

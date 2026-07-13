@@ -239,6 +239,22 @@ v.21 — KJV: "thou art abhorred of thy father" / ESV: "you have made
        so offensive that reconciliation becomes impossible, forcing
        Absalom's followers to commit fully.
 
+v.1 — NET: "was there to meet him. He had" for KJV's "met him, with"
+       WEB: "When" for KJV's "And when"
+v.7 — ASV: "Begone, begone," for KJV's "Come out, come out, thou bloody man, and"
+       NET: "said, “Leave! Leave! You" for KJV's "when he cursed, Come out, come out, thou bloody man, and ..."
+       WEB: "“Be gone, be gone, you" for KJV's "Come out, come out, thou bloody man, and thou"
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "notice my affliction" for KJV's "look on mine affliction,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.14 — NET: "him arrived exhausted at their destination, where David" for KJV's "him, came weary, and"
+       WEB: "The" for KJV's "And the"
+v.16 — ASV: "[Long] live" for KJV's "God save"
+       NET: "When David’s friend Hushai the Arkite" for KJV's "And it"
+       WEB: "king! Long live" for KJV's "king, God save"
+v.21 — NET: "you have made yourself repulsive to your father. Then you..." for KJV's "thou art abhorred of thy father: then shall the hands of ..."
+       WEB: "by your father. Then" for KJV's "of thy father: then shall"
+
 GLOSSARY
 ------------------------------------
 Bahurim        — A village in Benjamin's territory, east of Jerusalem

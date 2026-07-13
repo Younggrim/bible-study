@@ -191,6 +191,18 @@ v.21 — KJV: "the Nethinims" / ESV: "the temple servants" — Hebrew
        performing menial tasks that freed Levites for worship
        duties.
 
+v.1 — NET: "settled in Jerusalem, while" for KJV's "dwelt at Jerusalem:"
+       WEB: "lived in Jerusalem. The" for KJV's "dwelt at Jerusalem: the"
+v.2 — NET: "men who volunteered" for KJV's "men, that willingly offered themselves"
+       WEB: "men who" for KJV's "men, that"
+v.14 — ASV: "Haggedolim." for KJV's "one of the great men."
+       NET: "his colleagues who were exceptional men—128. The officer ..." for KJV's "eight: and their overseer"
+       WEB: "twenty-eight;" for KJV's "twenty and eight:"
+v.16 — NET: "external work for the temple" for KJV's "outward business"
+       WEB: "God’s house;" for KJV's "the house of God."
+v.21 — NET: "The temple attendants were living on Ophel," for KJV's "But the Nethinims dwelt in Ophel:"
+       WEB: "temple servants lived" for KJV's "Nethinims dwelt"
+
 GLOSSARY
 ------------------------------------
 Holy City    — Hebrew "ir ha-qodesh." Jerusalem's designation as

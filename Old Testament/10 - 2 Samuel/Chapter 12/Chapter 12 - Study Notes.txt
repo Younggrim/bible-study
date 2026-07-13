@@ -225,6 +225,20 @@ v.31 — KJV: "put them under saws, and under harrows of iron, and
        supports ESV's reading — David put the Ammonites to hard labor,
        not to death by torture.
 
+v.3 — NET: "acquired. He raised it," for KJV's "bought and nourished up:"
+       WEB: "children. It ate" for KJV's "children; it did eat"
+v.9 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Why have you shown contempt for" for KJV's "Wherefore hast thou despised"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.14 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "matter, the son who has been born" for KJV's "deed thou hast given great occasion"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.25 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "should be named Jedidiah for" for KJV's "called his name Jedidiah, because of"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.31 — NET: "labor with saws, iron picks, and iron axes, putting them ..." for KJV's "pass through"
+       WEB: "iron picks," for KJV's "harrows of iron, and"
+
 GLOSSARY
 ------------------------------------
 Nathan         — The prophet who served in David's court throughout

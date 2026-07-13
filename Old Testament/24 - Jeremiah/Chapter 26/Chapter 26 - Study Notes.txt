@@ -62,6 +62,13 @@ v.18 — "Micah the Morasthite" (KJV/ESV) — Micah of Moresheth, the 8th-centur
 
 v.24 — "Ahikam the son of Shaphan" (KJV/ESV) — A powerful court official from a pro-reform family. His father Shaphan was Josiah's scribe. Ahikam's protection of Jeremiah was politically risky.
 
+v.6 — NET: adds "be used in curses by people from"
+v.18 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Heaven’s Armies says, “‘Zion will become a" for KJV's "hosts; Zion shall be"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.24 — NET: "used his influence to keep Jeremiah from being handed ove..." for KJV's "was with Jeremiah, that they should not give him into"
+       WEB: "didn’t" for KJV's "should not"
+
 GLOSSARY
 ------------------------------------
 Prophet's Trial — Religious authorities charging God's prophet with blasphemy. The pattern repeats: Jesus faced the same charge from the same institution.

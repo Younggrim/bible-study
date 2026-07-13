@@ -112,6 +112,17 @@ v.24 — "Coniah" (KJV) / "Coniah" (ESV) — Shortened form of
       "Jeconiah/Jehoiachin." God strips even the divine element
       ("Yeho-") from his name — calling him just "Coniah."
 
+v.10 — NET: "king who was killed. Do not grieve for him. But" for KJV's "dead, neither bemoan him: but"
+       WEB: "who goes away," for KJV's "that goeth away:"
+v.15 — ASV: "strivest to excel" for KJV's "closest thyself"
+       NET: "Does it make you any more of a king that you outstrip eve..." for KJV's "Shalt thou reign, because thou closest thyself"
+       WEB: "you strive to excel" for KJV's "thou closest thyself"
+v.19 — NET: "left unburied just like a dead donkey. His body will be d..." for KJV's "buried with the burial of an ass, drawn"
+       WEB: "a donkey," for KJV's "an ass,"
+v.24 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Jehoiakim, will not be the earthly representative" for KJV's "Jehoiakim king"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Knowing God = Justice — (v.16) Jeremiah's radical definition:

@@ -145,6 +145,18 @@ v.13 — "sons of Greece" — Hebrew "bene Yavan" = sons of Ionia/
        with the Greek/Seleucid empire (168-165 BC), centuries
        before it occurred.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "with its focus on Damascus: The" for KJV's "and Damascus shall be the rest thereof: when the"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — NET: "Jerusalem! Look! Your king" for KJV's "Jerusalem: behold, thy King cometh unto thee: he"
+       WEB: "Jerusalem! Behold, your" for KJV's "Jerusalem: behold, thy"
+v.12 — ASV: "stronghold," for KJV's "strong hold,"
+       NET: "stronghold, you prisoners, with hope; today" for KJV's "strong hold, ye prisoners of hope: even to day do"
+       WEB: "hope! Even today" for KJV's "hope: even to day do"
+v.13 — ASV: adds "I have"
+       NET: "I will make you, Zion, like" for KJV's "made thee as the sword of"
+       WEB: "will make you like" for KJV's "made thee as"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Your King comes humble (v.9). In a world that worships power,

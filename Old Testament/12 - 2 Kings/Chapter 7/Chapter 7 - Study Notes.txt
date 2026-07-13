@@ -194,6 +194,21 @@ v.9  — KJV: "this day is a day of good tidings" / ESV: "this day
        derives. The lepers recognize that good news creates
        obligation — it must be shared.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "replied, “Listen to the Lord’s message. This is what the ..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "king’s right-hand man responded to" for KJV's "king leaned answered"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — ASV: "entrance" for KJV's "entering in"
+       NET: adds "another, “Why are we just sitting here waiting"
+       WEB: "gate. They" for KJV's "gate: and they"
+v.6 — NET: "large army. Then" for KJV's "noise of horses, even the noise of a great host: and"
+       WEB: "attack us.”" for KJV's "come upon us."
+v.9 — ASV: "overtake us;" for KJV's "come upon us:"
+       NET: "wait until dawn, we’ll be punished. So" for KJV's "tarry till the morning light, some mischief will"
+       WEB: "“We aren’t doing right. Today" for KJV's "We do not well: this day"
+
 GLOSSARY
 ------------------------------------
 Measure/     — A seah: approximately 7 quarts or 6.5 liters. A

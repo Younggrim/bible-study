@@ -104,6 +104,17 @@ v.9  — "eat the flesh of their sons" (KJV/ESV) — Siege
       will drive parents to eat their own children. Horrifically
       fulfilled (Lamentations 4:10).
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "clay jar from a potter. Take with you some" for KJV's "potter’s earthen bottle, and take"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.2 — ASV: "gate Harsith," for KJV's "east gate,"
+       NET: "Potsherd Gate. Announce" for KJV's "east gate, and proclaim"
+       WEB: "gate Harsith," for KJV's "east gate,"
+v.7 — NET: "dead bodies food" for KJV's "enemies, and by the hands of them that seek their lives: ..."
+       WEB: "life. I will give" for KJV's "lives: and"
+v.9 — NET: adds "and daughters"
+       WEB: "in the distress, with which" for KJV's "straitness, wherewith"
+
 GLOSSARY
 ------------------------------------
 Hardened Flask vs. Soft Clay — The critical difference between

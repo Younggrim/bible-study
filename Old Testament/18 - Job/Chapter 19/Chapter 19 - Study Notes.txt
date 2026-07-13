@@ -206,6 +206,18 @@ v.27 — KJV: "though my reins be consumed within me" / ESV: "My
        overwhelm. The point: this hope so overwhelms Job that his
        inner being is consumed with longing.
 
+v.20 — NET: "bones stick" for KJV's "bone cleaveth"
+       WEB: "bones stick" for KJV's "bone cleaveth"
+v.25 — ASV: "And at last" for KJV's "and that"
+       NET: "Redeemer lives," for KJV's "redeemer liveth,"
+       WEB: "Redeemer lives. In the end," for KJV's "redeemer liveth, and that"
+v.26 — ASV: "[body], is destroyed, Then without" for KJV's "body, yet in"
+       NET: "has been destroyed," for KJV's "worms destroy this body,"
+       WEB: "is destroyed, then" for KJV's "worms destroy this body, yet"
+v.27 — ASV: "as a stranger. My heart is" for KJV's "another; though my reins be"
+       NET: "another. My heart grows faint" for KJV's "another; though my reins be consumed"
+       WEB: "as a stranger. “My heart is" for KJV's "another; though my reins be"
+
 GLOSSARY
 ------------------------------------
 Redeemer      — Hebrew "go'el" — kinsman-redeemer. In Israelite

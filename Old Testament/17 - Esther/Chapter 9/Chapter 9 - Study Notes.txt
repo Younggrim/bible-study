@@ -207,6 +207,17 @@ v.29 — KJV: "wrote with all authority" / ESV: "gave full written
        power to establish the feast permanently. This second letter
        confirmed and strengthened Mordecai's initial decree.
 
+v.1 — ASV: "which is" for KJV's "that is,"
+       NET: "had supposed that they would gain" for KJV's "hoped to have"
+       WEB: "conquered those who" for KJV's "had rule over them that"
+v.3 — ASV: "they that did" for KJV's "officers of"
+       NET: "king’s business were assisting" for KJV's "lieutenants, and"
+       WEB: adds "the satraps, the governors,"
+v.19 — NET: "rural country—those who live in rural villages—set aside" for KJV's "unwalled towns, made"
+       WEB: "who live" for KJV's "that dwelt"
+v.24 — NET: "pur (that" for KJV's "Pur, that"
+v.29 — NET: "So Queen Esther," for KJV's "Then Esther the queen,"
+
 GLOSSARY
 ------------------------------------
 Purim        — The annual feast (Adar 14-15) commemorating Jewish

@@ -154,6 +154,17 @@ v.22 — "But thou hast utterly rejected us" (KJV) / "unless you
       point. The book ends without resolution, without knowing
       the answer.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "has happened to us; consider" for KJV's "is come upon us: consider,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.16 — ASV: "us! for" for KJV's "us, that"
+       WEB: "head. Woe to" for KJV's "head: woe unto"
+v.21 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "may return to you;" for KJV's "shall be turned;"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.22 — NET: "us and are angry with us beyond measure." for KJV's "us; thou art very wroth against us."
+       WEB: "us. You are" for KJV's "us; thou art"
+
 GLOSSARY
 ------------------------------------
 "Remember, O LORD" — A covenantal appeal: calling God to act on

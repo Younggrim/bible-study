@@ -172,6 +172,18 @@ v.16 — KJV: "they were much cast down in their own eyes" / ESV:
        because they recognized a power greater than themselves at
        work.
 
+v.2 — ASV: "[one of]" for KJV's "some one of"
+       NET: "“Come on! Let’s set up a time to" for KJV's "Come, let us"
+       WEB: "harm me." for KJV's "do me mischief."
+v.5 — NET: "this way, he had" for KJV's "like manner the fifth time with"
+       WEB: "the same way" for KJV's "in like manner"
+v.11 — ASV: "I," for KJV's "I am,"
+       NET: "like me run away? Would someone like me flee to" for KJV's "as I flee? and who is there, that, being as I am, would g..."
+       WEB: "“Should" for KJV's "Should such"
+v.16 — ASV: "[thereof], that" for KJV's "thereof, and"
+       NET: "had been accomplished with the help" for KJV's "was wrought"
+       WEB: "were afraid, and" for KJV's "saw these things,"
+
 GLOSSARY
 ------------------------------------
 Plain of    — A valley northwest of Jerusalem, on the border

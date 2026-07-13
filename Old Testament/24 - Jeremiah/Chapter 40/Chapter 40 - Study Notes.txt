@@ -54,6 +54,15 @@ v.5 — "Gedaliah the son of Ahikam the son of Shaphan" (KJV/ESV) — Three gene
 
 v.14 — "Ishmael the son of Nethaniah" (KJV/ESV) — Of the royal seed (41:1). His motive: jealousy that a non-royal (Gedaliah) governed. Also possibly a pawn of Ammon's king Baalis.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "free at Ramah. He" for KJV's "go from Ramah, when he"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — NET: "Before Jeremiah could turn to leave, the captain of the g..." for KJV's "Now while he was not yet gone back, he said, Go"
+       WEB: adds "“Go back then,”"
+v.14 — ASV: "take thy life?" for KJV's "slay thee?"
+       NET: "would not believe them." for KJV's "believed them not."
+       WEB: "children of Ammon has" for KJV's "Ammonites hath"
+
 GLOSSARY
 ------------------------------------
 Gedaliah — Son of Ahikam (Jeremiah's protector). Appointed governor by Babylon over Judah's remaining poor. A good, trusting man — killed by the very trust that made him good.

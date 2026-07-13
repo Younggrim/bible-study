@@ -328,6 +328,28 @@ v.12 — KJV: "the house of Pharez, whom Tamar bare unto Judah" / ESV:
        unconventional means, involving a woman who took bold action to
        secure her rights within the levirate system.
 
+v.1 — NET: "there. Then along came" for KJV's "him down there: and, behold,"
+       WEB: "by. He said to him, “Come over here, friend, and" for KJV's "by; unto whom he said, Ho, such a one! turn aside,"
+v.3 — NET: "guardian, “Naomi, who has returned from" for KJV's "kinsman, Naomi, that is come again out of"
+       WEB: "“Naomi, who has" for KJV's "Naomi, that is"
+v.4 — ASV: "them that sit here," for KJV's "the inhabitants,"
+       NET: "will know. For you possess the first option" for KJV's "may know: for there is none"
+       WEB: "those who sit here," for KJV's "the inhabitants,"
+v.5 — NET: "our deceased relative, in order" for KJV's "the dead,"
+       WEB: "Boaz said, “On the" for KJV's "said Boaz, What"
+v.6 — ASV: "of redemption on thee;" for KJV's "to thyself;"
+       NET: "The guardian" for KJV's "And the kinsman"
+       WEB: "of redemption for yourself;" for KJV's "to thyself;"
+v.7 — ASV: "the [manner of] attestation" for KJV's "a testimony"
+       NET: "Israel: A man would remove his sandal" for KJV's "former time in Israel concerning redeeming"
+       WEB: "the way of formalizing transactions" for KJV's "a testimony"
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "both of whom built up" for KJV's "which two did build"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "May your family become" for KJV's "And let thy house be"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. True redemption costs the redeemer (vv.5-6,10). The nearer kinsman

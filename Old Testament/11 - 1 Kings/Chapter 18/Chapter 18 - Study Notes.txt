@@ -251,6 +251,27 @@ v.46 — KJV: "he girded up his loins" / ESV: "he gathered up his
        idiom; ESV explains the action. Both convey that Elijah
        prepared physically for supernatural exertion.
 
+v.21 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "are you going to be paralyzed by indecision? If" for KJV's "halt ye between two opinions? if"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.26 — NET: "sound and no answer. They jumped around on" for KJV's "voice, nor any that answered. And they leaped upon"
+       WEB: "and nobody" for KJV's "nor any that"
+v.27 — ASV: "And it came to pass at noon, that Elijah mocked them, and said, Cry aloud; for h..."
+       NET: "“Yell louder! After all," for KJV's "and said, Cry aloud: for"
+       WEB: "“Cry aloud;" for KJV's "Cry aloud:"
+v.29 — ASV: "[evening] oblation; but" for KJV's "evening sacrifice, that"
+       NET: "were in an ecstatic frenzy, but" for KJV's "prophesied until the time of the offering of the evening ..."
+       WEB: "and nobody paid attention." for KJV's "nor any that regarded."
+v.32 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "large enough to" for KJV's "about the altar, as great as would"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.44 — ASV: "Make ready [thy chariot]," for KJV's "Prepare thy chariot,"
+       NET: "hand, is rising up from the sea.” Elijah then" for KJV's "hand. And he"
+       WEB: "small cloud, like a man’s hand, is rising" for KJV's "little cloud"
+v.46 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord energized Elijah with power;" for KJV's "hand of the LORD was on Elijah; and"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. There is no neutral ground (v.21). "How long halt ye between

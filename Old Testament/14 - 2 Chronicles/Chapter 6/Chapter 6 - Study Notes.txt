@@ -188,6 +188,22 @@ v.42 — KJV: "remember the mercies of David" / ESV: "Remember your
        God's covenant promises to David — making God's own word the
        basis of his petition.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Solomon said, “The Lord has" for KJV's "said Solomon, The LORD hath"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — NET: "bronze platform" for KJV's "brasen scaffold, of five cubits long, and five cubits bro..."
+       WEB: "(for Solomon had made a bronze scaffold, five cubits long, and five cubits wide,..."
+v.14 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "heaven or on earth! You maintain covenantal loyalty to yo..." for KJV's "the heaven, nor in the earth; which keepest covenant, and..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.37 — NET: "When your people come to their senses" for KJV's "Yet if they bethink themselves"
+       WEB: "make supplication to you" for KJV's "pray unto thee"
+v.40 — NET: "prayers offered" for KJV's "prayer that is made"
+       WEB: "beg you, your" for KJV's "beseech thee, thine"
+v.42 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "faithful promises you made to your servant David!”" for KJV's "face of thine anointed: remember the mercies of David thy..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Seven       — Solomon's seven petitions cover: (1) Oaths/justice

@@ -161,6 +161,22 @@ TRANSLATION COMPARISON
 ------------------------------------
 
 
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "That" for KJV's "Then on that"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s name." for KJV's "name of the LORD."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.23 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "earth! Announce every" for KJV's "earth; shew forth from"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.25 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "and certainly worthy of praise, he"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.28 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "nations, ascribe to" for KJV's "people, give unto"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Peace Offerings: Hebrew שְׁלָמִים (shelamim), from שָׁלוֹם (shalom,

@@ -114,6 +114,19 @@ v.31 — "daughter of Zion" (KJV/ESV) — Jerusalem personified as
       a woman in labor — gasping, stretching out her hands,
       fainting. The city in death-throes.
 
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "no one will be able to extinguish. That will happen" for KJV's "none can quench it,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.23 — ASV: "waste" for KJV's "without form,"
+       NET: "an empty wasteland. I looked up at the sky," for KJV's "without form,"
+       WEB: "waste" for KJV's "without form,"
+v.30 — ASV: "enlargest thine eyes" for KJV's "rentest thy face"
+       NET: "you, Zion, city doomed to destruction, you accomplish not..." for KJV's "when thou art spoiled, what wilt thou do? Though thou clo..."
+       WEB: "you are made desolate," for KJV's "thou art spoiled,"
+v.31 — ASV: "gaspeth for breath," for KJV's "bewaileth herself,"
+       NET: "Daughter Zion gasping for breath, reaching out for help," for KJV's "the daughter of Zion, that bewaileth herself, that spread..."
+       WEB: "who gasps for breath, who spreads" for KJV's "that bewaileth herself, that spreadeth"
+
 GLOSSARY
 ------------------------------------
 Fallow Ground — Hard, unplowed soil that can't receive seed.

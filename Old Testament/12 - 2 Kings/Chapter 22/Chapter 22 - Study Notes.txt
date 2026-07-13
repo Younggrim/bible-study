@@ -246,6 +246,17 @@ v.16 — KJV: "I will bring evil upon this place" / ESV: "I will
        wickedness. The distinction is theologically significant —
        God is righteous in all His acts, including judgment.
 
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s temple with these orders:" for KJV's "house of the LORD, saying,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — ASV: "hand; for" for KJV's "hand, because"
+       NET: "foremen who disburse the silver, for" for KJV's "money that was delivered into their hand, because"
+       WEB: "hand; for" for KJV's "hand, because"
+v.14 — NET: "Mishneh district.) They stated their business," for KJV's "college;) and they communed with her."
+v.16 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord has said: ‘I am about to" for KJV's "LORD, Behold, I will"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Book of     — The scroll discovered by Hilkiah, almost certainly

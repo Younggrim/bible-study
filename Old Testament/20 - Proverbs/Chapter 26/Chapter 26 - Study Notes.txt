@@ -146,6 +146,18 @@ v.23 — KJV: "Burning lips and a wicked heart are like a potsherd
        worthless material underneath. Beautiful words + wicked
        heart = deception.
 
+v.2 — ASV: "sparrow in her" for KJV's "bird by"
+       NET: "or like a flying swallow," for KJV's "by wandering, as the swallow by flying,"
+       WEB: "Like a fluttering sparrow, like a darting swallow," for KJV's "As the bird by wandering, as the swallow by flying,"
+v.11 — ASV: "that repeateth" for KJV's "returneth to"
+       NET: "repeats" for KJV's "returneth to"
+       WEB: "who repeats" for KJV's "returneth to"
+v.16 — NET: "people who respond with good sense." for KJV's "men that can render a reason."
+       WEB: "who answer with discretion." for KJV's "that can render a reason."
+v.23 — ASV: "Are [like] an earthen vessel overlaid" for KJV's "are like a potsherd covered"
+       NET: "an evil heart." for KJV's "silver dross."
+       WEB: "an evil heart." for KJV's "silver dross."
+
 GLOSSARY
 ------------------------------------
 Talebearer     — Hebrew "nirgan" = one who whispers, a gossip,

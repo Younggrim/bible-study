@@ -91,6 +91,19 @@ v.9  — "Dimon" (KJV/ESV) — likely a variant of "Dibon" with a
       wordplay on "dam" (blood). "The waters of Dimon shall be
       full of blood" — dam/Dimon sound-play.
 
+v.1 — ASV: "nought; for" for KJV's "silence; because"
+       NET: "This is an oracle about Moab: Indeed," for KJV's "The burden of Moab. Because"
+       WEB: "nothing. For" for KJV's "silence; because"
+v.2 — ASV: "They are" for KJV's "He is"
+       NET: "the temple; the people of Dibon went up" for KJV's "Bajith, and"
+       WEB: "heads. Every" for KJV's "heads shall be baldness, and every"
+v.5 — ASV: "to Eglath-shelishi-yah:" for KJV's "an heifer of three years old:"
+       NET: "stretched out as far as Zoar and Eglath Shelishiyah. For ..." for KJV's "shall flee unto Zoar, an heifer"
+       WEB: "to Eglath Shelishiyah;" for KJV's "an heifer of three years old:"
+v.9 — ASV: "escape," for KJV's "escapeth of Moab,"
+       NET: "trouble on Dimon. A lion will attack the Moabite fugitives" for KJV's "upon Dimon, lions upon him that escapeth of Moab,"
+       WEB: "a lion on those" for KJV's "lions upon him that escapeth"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God judges nations that aren't part of His covenant people.

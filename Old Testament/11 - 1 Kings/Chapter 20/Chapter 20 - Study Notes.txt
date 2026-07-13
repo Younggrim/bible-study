@@ -250,6 +250,19 @@ v.42 — KJV: "a man whom I appointed to utter destruction" / ESV:
        had devoted him to destruction, and Ahab had no authority
        to release what God had condemned.
 
+v.11 — ASV: "[his armor]" for KJV's "his harness"
+       NET: "like one who is taking" for KJV's "himself as he that putteth"
+       WEB: "answered, “Tell" for KJV's "answered and said, Tell"
+v.12 — NET: "their quarters. He ordered" for KJV's "the pavilions, that he said unto"
+       WEB: "“Prepare to attack!” They prepared to attack" for KJV's "Set yourselves in array. And they set themselves in array..."
+v.27 — ASV: "victualled," for KJV's "all present,"
+       NET: "Israelites had mustered and received their supplies, they..." for KJV's "children of Israel"
+       WEB: "given provisions," for KJV's "were all present,"
+v.38 — NET: "by putting a bandage down over" for KJV's "with ashes upon"
+v.42 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "had determined should die, you will pay with your" for KJV's "appointed to utter destruction, therefore thy life shall ..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God gives grace to the undeserving for His own name's sake

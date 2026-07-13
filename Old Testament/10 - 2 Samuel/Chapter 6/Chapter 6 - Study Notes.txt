@@ -206,6 +206,22 @@ v.22 — KJV: "I will yet be more vile than thus, and will be base in
        while ESV has "in your eyes" — a textual variant. The Hebrew
        Masoretic text supports "in my own eyes" (KJV).
 
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "playing various stringed instruments, tambourines, rattles," for KJV's "on psalteries,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.6 — ASV: "the threshing-floor of Nacon," for KJV's "Nachon’s threshingfloor,"
+       NET: "arrived at the threshing floor of Nacon," for KJV's "came to Nachon’s threshingfloor,"
+       WEB: "the threshing floor of Nacon," for KJV's "Nachon’s threshingfloor,"
+v.19 — ASV: "portion [of flesh]," for KJV's "good piece of flesh,"
+       NET: "He then handed out to each member of" for KJV's "And he dealt among all"
+       WEB: "men and women," for KJV's "the women as men,"
+v.20 — ASV: "to-day" for KJV's "to day"
+       NET: "this day! He has exposed himself today before his servant..." for KJV's "to day in"
+       WEB: "uncovers himself!”" for KJV's "uncovereth himself!"
+v.22 — ASV: "handmaids of whom" for KJV's "maidservants which"
+       NET: "am willing to shame and humiliate myself even more than t..." for KJV's "will yet"
+       WEB: "whom you have spoken, they will honor me.”" for KJV's "them shall I be had in honour."
+
 GLOSSARY
 ------------------------------------
 Ark of God     — The gold-covered wooden chest containing the tablets

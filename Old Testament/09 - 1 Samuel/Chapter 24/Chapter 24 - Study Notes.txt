@@ -190,6 +190,20 @@ v.14 — KJV: "after a dead dog, after a flea" / ESV: "After a dead
        He is saying: "I am not worth your pursuit. I am no threat to
        you." This is genuine humility, not false modesty.
 
+v.3 — ASV: "feet. Now" for KJV's "feet: and"
+       NET: "relieve himself. Now" for KJV's "cover his feet: and"
+       WEB: "relieve himself. Now" for KJV's "cover his feet: and"
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "whatever seems appropriate to you.’” So" for KJV's "as it shall seem good unto thee. Then"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — NET: "conscience bothered him" for KJV's "heart smote him,"
+       WEB: "Afterward," for KJV's "And it came to pass afterward, that"
+v.11 — ASV: "thee, though" for KJV's "thee; yet"
+       NET: "your robe, I didn’t kill you. So realize" for KJV's "thy robe"
+       WEB: "you, though you hunt for" for KJV's "thee; yet thou huntest"
+v.14 — NET: "out after? Who is it that you are pursuing? A" for KJV's "out? after whom dost thou pursue? after a"
+       WEB: "dog? A flea?" for KJV's "dog, after a flea."
+
 GLOSSARY
 ------------------------------------
 En-gedi        — Hebrew "Ein Gedi" = "spring of the kid/young goat"

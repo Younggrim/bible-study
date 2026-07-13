@@ -135,6 +135,16 @@ v.24 — KJV: "A man that hath friends must shew himself friendly" /
        Hebrew is textually difficult; ESV's reading creates a
        sharper contrast with the second half.
 
+v.1 — ASV: "[his own] desire, And rageth against" for KJV's "and intermeddleth with"
+       NET: "One who has isolated himself seeks his own desires; he re..." for KJV's "Through desire a man, having separated himself, seeketh a..."
+       WEB: "An unfriendly man pursues selfishness," for KJV's "Through desire a man, having separated himself, seeketh"
+v.10 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "person runs to it" for KJV's "runneth into it,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.24 — ASV: "[doeth it] to his own destruction; But" for KJV's "must shew himself friendly: and"
+       NET: "There are companions who harm one another, but" for KJV's "A man that hath friends must shew himself friendly: and"
+       WEB: "of many companions may be ruined, but" for KJV's "that hath friends must shew himself friendly: and"
+
 GLOSSARY
 ------------------------------------
 Strong Tower   — A military fortification — the highest, most

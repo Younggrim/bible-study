@@ -223,6 +223,24 @@ v.25 — KJV: "the manner of the kingdom" / ESV: "the rights and duties
        rights and responsibilities of kingship under God. Samuel writes
        it as a binding document.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "“The Lord has chosen you to lead his people Israel! You w..." for KJV's "Is it not because"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — ASV: "will be prophesying:" for KJV's "shall prophesy:"
+       NET: "place. They will have harps, tambourines, flutes," for KJV's "place with a psaltery,"
+       WEB: "will be prophesying." for KJV's "shall prophesy:"
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "a different person." for KJV's "another man."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — NET: "changed his inmost person. All these" for KJV's "gave him another heart: and all those"
+       WEB: "happened" for KJV's "came to pass"
+v.22 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "arrived here yet?” The Lord said, “He has hidden" for KJV's "should yet come thither. And the LORD answered, Behold, h..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.25 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "kingship would work. He" for KJV's "manner of the kingdom, and"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Anointing      — The act of pouring oil on a person's head to

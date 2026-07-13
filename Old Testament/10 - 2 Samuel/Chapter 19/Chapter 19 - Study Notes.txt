@@ -242,6 +242,22 @@ v.43 — KJV: "we have also more right in David than ye" / ESV:
        leaves it more ambiguous ("more" — more share? more
        claim?). The Hebrew supports both readings.
 
+v.3 — NET: "stole away to go to" for KJV's "gat them by stealth that day into"
+       WEB: "sneaked" for KJV's "gat them by stealth that day"
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "give some encouragement to your servants. For" for KJV's "speak comfortably unto thy servants: for"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.18 — ASV: "ferry-boat" for KJV's "ferry boat"
+       NET: "appropriate.Now after he had crossed the Jordan," for KJV's "good. And"
+       WEB: "A" for KJV's "And there went over a"
+v.26 — NET: "He replied, “My lord the" for KJV's "And he answered, My lord, O"
+       WEB: "me. For your" for KJV's "me: for thy"
+v.29 — ASV: "say," for KJV's "have said,"
+       NET: "“Why should you continue speaking like this? You" for KJV's "Why speakest thou any more of thy matters? I have said, Thou"
+       WEB: "“Why do you speak" for KJV's "Why speakest thou"
+v.43 — NET: "you do! Why do you want to curse us? Weren’t we the" for KJV's "ye: why then did ye despise us, that our advice should no..."
+       WEB: "king?” The" for KJV's "king? And the"
+
 GLOSSARY
 ------------------------------------
 Gate          — The city gate was the place of public business,

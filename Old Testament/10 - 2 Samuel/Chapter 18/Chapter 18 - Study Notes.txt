@@ -250,6 +250,19 @@ v.33 — KJV: "would God I had died for thee" / ESV: "Would I had
        Hebrew "tachtekha" (in your place, instead of you) is
        explicitly substitutionary language.
 
+v.3 — NET: "won’t be concerned. But you are like 10,000" for KJV's "care for us: but now thou art worth ten thousand"
+       WEB: "you are ready to help" for KJV's "thou succour"
+v.8 — NET: "forest consumed" for KJV's "wood devoured"
+v.9 — NET: "happened to come across David’s men. Now as" for KJV's "met the servants of David. And"
+       WEB: "happened to meet David’s servants." for KJV's "met the servants of David. And"
+v.14 — NET: "wait around like this for you!” He" for KJV's "tarry thus with thee. And he"
+       WEB: "going to wait like this" for KJV's "tarry thus"
+v.22 — ASV: "reward for the tidings?" for KJV's "tidings ready?"
+       NET: adds "“Whatever happens, let me go after the Cushite.”"
+       WEB: "“But come what may, please" for KJV's "But howsoever,"
+v.33 — NET: "then became very upset. He" for KJV's "was much moved, and"
+       WEB: adds "Absalom! I wish I had died for you,"
+
 GLOSSARY
 ------------------------------------
 Forest of     — Not in the tribal territory of Ephraim (which

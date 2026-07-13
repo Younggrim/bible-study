@@ -255,6 +255,25 @@ v.22 — KJV: "anointed him unto the LORD to be the chief governor" /
        Solomon's kingship belongs to God; he rules as God's
        representative, not as autonomous sovereign.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "entire assembly: “My son Solomon," for KJV's "king said unto all"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.2 — ASV: "stones for inlaid work," for KJV's "glistering stones,"
+       NET: "gold, silver, bronze, iron, wood, as well as a large amount" for KJV's "gold for things to be made"
+       WEB: "stones for inlaid work," for KJV's "glistering stones, and"
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "contribute to" for KJV's "be made by"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — ASV: "talents." for KJV's "talents of iron."
+       NET: "10,000 darics of gold, 10,000 talents of silver, 18,000 t..." for KJV's "ten thousand drams,"
+       WEB: "talents." for KJV's "talents of iron."
+v.18 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "Israel, always maintain these motives"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.22 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "designated Solomon, David’s son, as king a second time; b..." for KJV's "made Solomon"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Talents     — Hebrew "kikkar" — the largest unit of weight in the

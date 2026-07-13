@@ -245,6 +245,20 @@ v.8  — KJV: "ward against ward, as well the small as the great,
        translate "talmid" — one who learns. The KJV/ESV pair shows
        master-apprentice equality before God's lot.
 
+v.1 — ASV: "set apart for" for KJV's "separated to"
+       NET: "cymbals. The following men were assigned this responsibil..." for KJV's "with cymbals: and the number of the workmen according to ..."
+       WEB: "army set apart for" for KJV's "host separated to"
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Mattithiah—six in all," for KJV's "Mattithiah, six,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — NET: "make him prestigious." for KJV's "lift up the horn. And"
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord, numbered 288." for KJV's "number of them, with their brethren that were instructed ..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — ASV: "lots for their offices, all alike," for KJV's "lots, ward against ward,"
+       NET: "lots to determine their responsibilities—oldest" for KJV's "lots, ward against ward,"
+       WEB: "lots for their offices, all alike, the small" for KJV's "lots, ward against ward,"
+
 GLOSSARY
 ------------------------------------
 Prophesied  — Hebrew "naba" — to prophesy, speak under divine

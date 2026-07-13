@@ -194,6 +194,17 @@ v.18 — KJV: "The thistle that was in Lebanon" / ESV: "A thistle
        passing "wild beast" (Assyria?) would trample the thistle
        without effort.
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "wholehearted devotion." for KJV's "a perfect heart."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — ASV: "will cast" for KJV's "shall make"
+       NET: "is capable of helping or defeating.”" for KJV's "hath power to help, and to cast down."
+       WEB: "will overthrow you" for KJV's "shall make thee fall"
+v.14 — NET: "offered them sacrifices." for KJV's "burned incense unto them."
+       WEB: "Now after Amaziah had come from the slaughter of the Edomites, he brought the go..."
+v.18 — NET: "animal of Lebanon came by" for KJV's "beast that was in Lebanon,"
+       WEB: "as his wife. Then" for KJV's "to wife: and there passed by"
+
 GLOSSARY
 ------------------------------------
 Perfect/    — Hebrew "shalem" (complete, whole, at peace). From the

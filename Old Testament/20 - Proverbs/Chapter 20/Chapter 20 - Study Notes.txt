@@ -122,6 +122,15 @@ v.27 — KJV: "The spirit of man is the candle of the LORD" / ESV:
        spirit — that illuminates our inner being. God searches
        hearts through the spirit He placed within.
 
+v.1 — ASV: "a brawler; And" for KJV's "is raging: and"
+       NET: "a brawler; whoever goes astray by them" for KJV's "raging: and whosoever is deceived thereby"
+       WEB: "a brawler. Whoever" for KJV's "raging: and whosoever"
+v.4 — ASV: "winter; Therefore he" for KJV's "cold; therefore"
+       NET: "planting season, so at harvest time" for KJV's "cold; therefore shall"
+v.27 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "his innermost parts." for KJV's "the inward parts of the belly."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Mocker         — Hebrew "lets" = scoffer, mocker. Wine personified

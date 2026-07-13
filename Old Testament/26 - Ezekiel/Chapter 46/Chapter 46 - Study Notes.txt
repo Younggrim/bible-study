@@ -148,6 +148,19 @@ v.17 — "his inheritance" — Hebrew "naḥălāṯô" — the prince's own
       land, but he may NEVER take from the people's portions.
       Generosity with your own is virtue; taking others' is theft.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "“‘This is what" for KJV's "Thus saith"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "out straight ahead." for KJV's "forth over against it."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.16 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "will belong to his sons; it is" for KJV's "shall be"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.17 — ASV: adds "a gift"
+       NET: "prince. His inheritance will only remain with" for KJV's "prince: but"
+       WEB: adds "a gift"
+
 GLOSSARY
 ------------------------------------
 Sabbath       — The seventh day of rest, commanded at creation

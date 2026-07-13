@@ -223,6 +223,23 @@ v.25 — KJV: "Ithra an Israelite" / ESV: "Ithra the Ishmaelite"
        original reading, with "Israelite" being a scribal error
        (the Hebrew letters are very similar).
 
+v.2 — ASV: "weak-handed," for KJV's "weak handed,"
+       NET: "rout him, and the entire army that" for KJV's "come upon him while he"
+       WEB: "afraid. All" for KJV's "afraid: and all"
+v.3 — NET: "you are seeking, you will get back everyone. The entire a..." for KJV's "whom thou seekest is as if all returned: so all the peopl..."
+       WEB: "returned. All" for KJV's "returned: so all"
+v.8 — ASV: "moreover, Thou" for KJV's "Hushai, thou"
+       NET: "Hushai went on to say, “You know your" for KJV's "For, said Hushai, thou knowest thy"
+       WEB: "moreover, “You know your" for KJV's "Hushai, thou knowest thy"
+v.9 — ASV: "are fallen" for KJV's "be overthrown"
+       NET: "should turn out that he attacks our troops" for KJV's "will come to pass, when some of them be overthrown at the"
+       WEB: "whoever hears" for KJV's "whosoever heareth"
+v.13 — NET: "left there!”" for KJV's "not one small stone found there."
+       WEB: "has gone" for KJV's "be gotten"
+v.25 — ASV: "Zeruiah, Joab`s" for KJV's "Zeruiah Joab’s"
+       NET: "Israelite man named Jether, who had married" for KJV's "Israelite, that went in to"
+       WEB: adds "the son of"
+
 GLOSSARY
 ------------------------------------
 Ahithophel    — David's former counselor whose advice was like

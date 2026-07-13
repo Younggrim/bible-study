@@ -142,6 +142,19 @@ v.27 — "saints of the most High" (KJV/ESV) — Aramaic "qaddishe
       people who endure persecution (v.25) and inherit the kingdom
       (v.27). The suffering precedes the reigning.
 
+v.9 — ASV: "one that was ancient" for KJV's "the Ancient"
+       NET: "Days took his seat. His attire" for KJV's "days did sit, whose garment"
+       WEB: "one who was ancient" for KJV's "the Ancient"
+v.13 — ASV: "night-visions," for KJV's "night visions,"
+       NET: "the sky, one like a son of man was approaching. He went up" for KJV's "heaven, and came"
+       WEB: "there" for KJV's "one like the Son of man"
+v.25 — ASV: "Most High;" for KJV's "most High,"
+       NET: "Most High continually. His intention will be" for KJV's "most High, and think"
+       WEB: "Most High. He will plan" for KJV's "most High, and think"
+v.27 — ASV: "Most High: his" for KJV's "most High, whose"
+       NET: "eternal kingdom;" for KJV's "everlasting kingdom, and"
+       WEB: "Most High. His" for KJV's "most High, whose"
+
 GLOSSARY
 ------------------------------------
 The Ancient of Days — God the Father in His eternal majesty.

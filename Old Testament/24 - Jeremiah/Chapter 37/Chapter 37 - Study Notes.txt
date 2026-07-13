@@ -57,6 +57,15 @@ v.15 — "the house of Jonathan the scribe" (KJV/ESV) — A private house conver
 
 v.21 — "court of the prison" (KJV) / "court of the guard" (ESV) — Hebrew "chatsar ha-mattarah" = the guardhouse courtyard. Better than the dungeon — open air, some freedom of movement.
 
+v.12 — ASV: "receive his portion there," for KJV's "separate himself thence"
+       NET: "make sure he got his share" for KJV's "separate himself thence in the midst"
+       WEB: "receive his portion there," for KJV's "separate himself thence"
+v.15 — NET: "converted into a place for confining prisoners." for KJV's "made that the prison."
+       WEB: "The" for KJV's "Wherefore the"
+v.21 — ASV: "commanded, and" for KJV's "commanded that"
+       NET: adds "ordered that Jeremiah be committed to"
+       WEB: "guard. They gave" for KJV's "prison, and that they should give"
+
 GLOSSARY
 ------------------------------------
 Temporary Withdrawal — Babylon's pause when Egypt's army approached. Not retreat but tactical repositioning. Jerusalem mistook it for deliverance — a fatal self-deception.

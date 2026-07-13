@@ -142,6 +142,21 @@ v.15 — "good tidings" (KJV) / "good news" (ESV) — Hebrew
        "mebasser" = one who brings good news, the herald. This
        is the verbal root behind "gospel" (evangelion in Greek).
 
+v.1 — NET: "This is an oracle about Nineveh; the" for KJV's "The burden of Nineveh. The"
+       WEB: "A revelation about" for KJV's "The burden of"
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "very angry. The Lord takes" for KJV's "is furious; the LORD will take"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "wicked to go unpunished. He marches out" for KJV's "wicked: the LORD hath his way"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "protects those who seek refuge" for KJV's "knoweth them that trust"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.15 — ASV: adds "Keep thy feasts,"
+       NET: "mountains! A messenger is proclaiming deliverance: “Celeb..." for KJV's "mountains the feet of him that bringeth good tidings, tha..."
+       WEB: "Judah! Perform your vows," for KJV's "perform thy vows:"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God's patience is not God's permission (v.3). Assyria's long

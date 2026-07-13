@@ -209,6 +209,18 @@ v.37 — KJV: "as dung upon the face of the field" / ESV: "as dung
        the soil. "They shall not say, This is Jezebel" — she is
        erased from memory.
 
+v.8 — ASV: "every man-child," for KJV's "him that pisseth against the wall,"
+       NET: "Ahab’s entire family will die." for KJV's "For the whole house of Ahab shall perish: and"
+       WEB: adds "everyone who urinates against a wall, both"
+v.11 — NET: "rejoined his master’s servants, they asked him, “Is every..." for KJV's "came forth to"
+       WEB: "how he talks.”" for KJV's "his communication."
+v.20 — NET: "lead chariot drives" for KJV's "watchman told, saying, He came even unto them, and cometh..."
+       WEB: "isn’t coming back. The" for KJV's "cometh not again: and the"
+v.30 — NET: "the news, she put on some eye liner, fixed up her hair," for KJV's "of it;"
+       WEB: "When" for KJV's "And when"
+v.37 — NET: "be able to even recognize her.’”" for KJV's "say, This is Jezebel."
+       WEB: "on Jezreel’s land," for KJV's "in the portion of Jezreel;"
+
 GLOSSARY
 ------------------------------------
 Jehu         — Son of Jehoshaphat (not the king of Judah), son of

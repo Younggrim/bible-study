@@ -132,6 +132,18 @@ v.20 — "profane" — Hebrew "ḥōl" = common, ordinary, not sacred.
       Not "sinful" but simply "not set apart." The distinction
       is not moral condemnation but category recognition.
 
+v.13 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "chambers that face the courtyard" for KJV's "chambers, which"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.14 — ASV: "pertaineth to" for KJV's "are for"
+       NET: "outer court without taking off" for KJV's "utter court, but there they shall lay"
+       WEB: "holy. Then they" for KJV's "holy; and"
+v.16 — NET: "stick as 875 feet by" for KJV's "reed, five hundred reeds, with"
+       WEB: "all around." for KJV's "round about."
+v.20 — ASV: "that which was common." for KJV's "the profane place."
+       NET: "around it, 875 feet long" for KJV's "round about, five hundred reeds long,"
+       WEB: "that which was common." for KJV's "the profane place."
+
 GLOSSARY
 ------------------------------------
 Holy Chambers — Sacred rooms where priests ate consecrated

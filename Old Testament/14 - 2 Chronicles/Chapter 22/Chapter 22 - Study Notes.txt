@@ -209,6 +209,17 @@ v.10 — KJV: "destroyed all the seed royal" / ESV: "destroyed all
        very "seed" through which God's redemptive promise would
        be fulfilled.
 
+v.2 — ASV: "Jerusalem: and his mother`s" for KJV's "Jerusalem. His mother’s"
+       NET: "Ahaziah was twenty-two" for KJV's "Forty and two"
+       WEB: "Ahaziah was forty-two" for KJV's "Forty and two"
+v.6 — ASV: "And he returned to be healed in Jezreel of the wounds which they had given him a..."
+       NET: "he received from the Syrians in Ramah" for KJV's "which were given him at Ramah,"
+       WEB: "He" for KJV's "And he"
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "God brought about Ahaziah’s downfall through his visit to..." for KJV's "And the destruction of"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.10 — NET: "was determined to destroy" for KJV's "arose and destroyed all"
+
 GLOSSARY
 ------------------------------------
 Athaliah    — Daughter of Ahab and Jezebel (or granddaughter of

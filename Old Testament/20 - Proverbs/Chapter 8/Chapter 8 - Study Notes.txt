@@ -146,6 +146,18 @@ v.36 — KJV: "he that sinneth against me" / ESV: "he who fails to
        the tragic miss. Both are true: rejecting wisdom is both sin
        and self-harm.
 
+v.12 — ASV: "have made prudence my dwelling, And" for KJV's "dwell with prudence, and"
+       NET: "“I, wisdom, have dwelt" for KJV's "I wisdom dwell"
+       WEB: "“I, wisdom, have made prudence my dwelling. Find" for KJV's "I wisdom dwell with prudence, and find"
+v.22 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord created" for KJV's "LORD possessed"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.30 — ASV: "[as] a master workman; And" for KJV's "as one brought up with him: and"
+       NET: "a master craftsman," for KJV's "one brought up with him:"
+       WEB: "a delight day by day, always" for KJV's "daily his delight,"
+v.36 — NET: "brings harm to himself;" for KJV's "wrongeth his own soul:"
+       WEB: "soul. All those who" for KJV's "soul: all they that"
+
 GLOSSARY
 ------------------------------------
 Personified Wisdom — In chapters 1-9, Wisdom is portrayed as a

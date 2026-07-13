@@ -109,6 +109,15 @@ v.6 — KJV: "When God bringeth back the captivity" / ESV: "When
       ESV's broader rendering works better as the psalm predates
       the Babylonian exile.
 
+v.1 — ASV: "iniquity; There" for KJV's "iniquity: there"
+       NET: "For the music director, according to the machalath style;..." for KJV's "The fool hath said in his heart, There"
+       WEB: "iniquity. There" for KJV's "iniquity: there"
+v.5 — ASV: "was; For" for KJV's "was: for"
+       NET: "They are absolutely terrified, even by things that do not..." for KJV's "There were they in great fear, where no fear was: for"
+       WEB: "you. You have" for KJV's "thee: thou hast"
+v.6 — ASV: adds "Psalm 54 For the Chief Musician; on stringed instruments...."
+       NET: "restores" for KJV's "bringeth back"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Atheism is a heart condition, not a head condition (v.1). "Said

@@ -158,6 +158,19 @@ v.34 — KJV: "children of pride" / ESV: "sons of pride" — Hebrew
        proud creatures. Only God rules over Leviathan. The
        implication: human pride is beneath even a beast's notice.
 
+v.1 — ASV: "a fishhook? Or press down" for KJV's "an hook? or"
+       NET: "(40:25) “Can you pull in Leviathan" for KJV's "Canst thou draw out leviathan"
+       WEB: "a fish hook," for KJV's "an hook?"
+v.10 — ASV: "he that can" for KJV's "able to"
+       NET: "awakened? Who is he, then," for KJV's "so fierce that dare stir him up:"
+       WEB: "he who can" for KJV's "able to"
+v.18 — ASV: "His sneezings flash forth light, And" for KJV's "By his neesings a light doth shine, and"
+       NET: "Its snorting throws out flashes of light; its" for KJV's "By his neesings a light doth shine, and his"
+       WEB: "His sneezing flashes out light. His" for KJV's "By his neesings a light doth shine, and his"
+v.34 — ASV: "everything that" for KJV's "all high things: he"
+       NET: "It looks on every haughty being; it" for KJV's "He beholdeth all high things: he"
+       WEB: "sees everything that" for KJV's "beholdeth all high things: he"
+
 GLOSSARY
 ------------------------------------
 Leviathan    — Hebrew "livyatan" = twisted one, coiled one. A

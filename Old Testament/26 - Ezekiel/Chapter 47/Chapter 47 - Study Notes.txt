@@ -158,6 +158,19 @@ v.11 — "marshes" / "marishes" (KJV) — Hebrew "biṣṣā'ōṯ" =
       and a theological reminder: even in restoration, some
       consequences remain as memorials.
 
+v.1 — ASV: "eastward; (for" for KJV's "eastward: for"
+       NET: "temple faced east). The water was flowing" for KJV's "waters came"
+       WEB: "east. The" for KJV's "east, and the"
+v.3 — ASV: "went forth eastward with" for KJV's "that had"
+       NET: "water, which was ankle deep." for KJV's "the waters; the waters were to the ancles."
+       WEB: "went out eastward with" for KJV's "that had"
+v.8 — ASV: "were made to issue forth; and" for KJV's "being brought forth into the sea,"
+       NET: "rift valley; when they enter" for KJV's "desert, and go into"
+       WEB: "will be made to flow out; and" for KJV's "being brought forth into the sea,"
+v.11 — ASV: "marshes thereof," for KJV's "marishes thereof"
+       NET: "will remain salty." for KJV's "shall be given to salt."
+       WEB: "its marshes, will" for KJV's "the marishes thereof shall"
+
 GLOSSARY
 ------------------------------------
 Temple River  — The supernatural river flowing from beneath the

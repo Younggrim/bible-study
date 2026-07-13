@@ -194,6 +194,20 @@ v.39 — KJV: "the soul of king David longed to go forth unto Absalom"
        son. David is torn between justice (Absalom murdered Amnon) and
        love (Absalom is still his son).
 
+v.3 — ASV: "Shimeah, David`s brother;" for KJV's "Shimeah David’s brother:"
+       NET: "brother Shimeah." for KJV's "brother: and"
+v.13 — ASV: "shame?" for KJV's "shame to go?"
+       NET: adds "How could I ever be rid of my humiliation?"
+       WEB: adds "As for me, where would I carry my shame?"
+v.18 — NET: "used to wear.) So Amnon’s attendant removed" for KJV's "that were virgins apparelled. Then his servant brought"
+       WEB: "various colors on her;" for KJV's "divers colours upon her:"
+v.20 — NET: adds "said to her, “Was Amnon your brother with you? Now be qui..."
+       WEB: "your brother. Don’t take" for KJV's "thy brother; regard not"
+v.22 — NET: "said nothing to Amnon, either bad or good, yet" for KJV's "spake unto his brother Amnon neither good nor bad: for"
+       WEB: "spoke to" for KJV's "spake unto his brother"
+v.39 — NET: "had since been consoled over the death of Amnon." for KJV's "was comforted concerning Amnon, seeing he was dead."
+       WEB: "out to Absalom;" for KJV's "forth unto Absalom:"
+
 GLOSSARY
 ------------------------------------
 Tamar          — David's daughter by Maacah, full sister of Absalom.

@@ -66,6 +66,16 @@ v.4 — "mark" (KJV/ESV) — Hebrew "tav" = the letter tav (ת), the last letter
 
 v.4 — "sigh and cry" (KJV) / "groan and lament" (ESV) — Hebrew "ne'enachim ve-ne'enaqim" = groaning and moaning. Visceral, audible grief — not quiet disapproval but vocal anguish over the city's sin.
 
+v.2 — ASV: "side. And" for KJV's "side: and"
+       NET: "each with his war club" for KJV's "and every man a slaughter weapon"
+       WEB: "side. They" for KJV's "side: and they"
+v.3 — ASV: "house: and" for KJV's "house. And"
+       NET: "cherub where it had rested" for KJV's "cherub, whereupon he was,"
+       WEB: "house; and" for KJV's "house. And"
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "people who moan" for KJV's "men that sigh"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 The Mark (Tav) — A visible sign on the forehead identifying those who grieve over sin. The precedent for Revelation's seal of God. Preservation through identification with God's grief.

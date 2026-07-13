@@ -142,6 +142,15 @@ v.11 — KJV: "a babbler is no better" / ESV: "the charmer has no
        charmer is useless. Timing matters — wisdom applied too
        late is no wisdom at all.
 
+v.1 — ASV: "an evil odor; [so]" for KJV's "a stinking savour: so"
+       NET: "can outweigh much wisdom." for KJV's "him that is in reputation for wisdom and honour."
+       WEB: "produce an evil odor;" for KJV's "send forth a stinking savour:"
+v.10 — NET: adds "an iron axhead is blunt and a workman does not sharpen it..."
+       WEB: "skill brings success." for KJV's "wisdom is profitable to direct."
+v.11 — ASV: adds "charmed, then is there"
+       NET: "charmed, the snake charmer is in trouble." for KJV's "no better."
+       WEB: adds "charmed, then is there"
+
 GLOSSARY
 ------------------------------------
 Ointment (shemen) — Oil, perfume, precious aromatic ointment.

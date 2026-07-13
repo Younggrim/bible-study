@@ -153,6 +153,21 @@ v.15 — "I am, and there is none beside me" — Hebrew "ani ve'aphsi
        Babylon in Isaiah 47:8. When creatures use the Creator's
        language, judgment is assured.
 
+v.1 — ASV: "that hath no shame;" for KJV's "not desired;"
+       NET: "together like straw, you undesirable nation," for KJV's "together, yea, gather together, O nation not desired;"
+       WEB: "that has no shame," for KJV's "not desired;"
+v.3 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "commands! Strive to do what is right! Strive to" for KJV's "judgment; seek righteousness, seek meekness: it may"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — NET: "heap of ruins. Invaders will" for KJV's "desolation: they shall"
+       WEB: "desolation. They will" for KJV's "desolation: they shall"
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "earth. All the distant nations will" for KJV's "earth; and men shall"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.15 — ASV: "This is the joyous city that dwelt carelessly, that said in her heart, I am, and..."
+       NET: "was so secure. She thought to herself, “I am unique! No o..." for KJV's "dwelt carelessly, that said in her heart, I am, and there..."
+       WEB: "no one besides me.” How" for KJV's "none beside me: how is"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "Seek the LORD... PERHAPS you may be hidden" (v.3). There is

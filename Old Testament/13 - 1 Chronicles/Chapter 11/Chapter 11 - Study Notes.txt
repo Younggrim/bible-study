@@ -186,6 +186,25 @@ v.22 — KJV: "two lionlike men of Moab" / ESV: "two heroes of
        linguistically possible. The word "ariel" appears also as
        a name for Jerusalem (Isaiah 29:1).
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "you were Israel’s commanding general. The Lord your" for KJV's "thou wast he that leddest out and broughtest in Israel: a..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — ASV: "Zion; the same" for KJV's "Zion, which"
+       NET: "“You cannot invade this place!” But" for KJV's "Thou shalt not come hither. Nevertheless"
+       WEB: "Zion. The same" for KJV's "Zion, which"
+v.9 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "David’s power steadily grew," for KJV's "So David waxed greater and greater:"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: "and slew them" for KJV's "slain by him"
+       NET: "in a single battle." for KJV's "against three hundred slain by him at one time."
+       WEB: "and killed them" for KJV's "slain by him"
+v.19 — ASV: "this:" for KJV's "this thing:"
+       NET: "who risked their lives?” Because they risked" for KJV's "that have put"
+       WEB: "jeopardy?” For they risked" for KJV's "jeopardy? for with the jeopardy of"
+v.22 — ASV: "[sons of] Ariel" for KJV's "lionlike men"
+       NET: "cistern on" for KJV's "pit in"
+       WEB: "mighty deeds, killed the" for KJV's "many acts; he slew"
+
 GLOSSARY
 ------------------------------------
 Mighty Men  — David's elite warriors — a core group of "the Three"

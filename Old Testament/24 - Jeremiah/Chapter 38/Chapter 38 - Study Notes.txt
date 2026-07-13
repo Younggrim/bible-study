@@ -64,6 +64,18 @@ v.11 — "old cast clouts and old rotten rags" (KJV) / "worn-out clothes and rag
 
 v.19 — "afraid of the Jews" (KJV/ESV) — Judeans who had already defected to Babylon. Zedekiah feared they would mock, torture, or kill him if he surrendered.
 
+v.6 — ASV: "king`s son," for KJV's "son of Hammelech,"
+       NET: "cistern, only mud. So when they lowered" for KJV's "dungeon there was no water, but mire: so"
+       WEB: "king’s son," for KJV's "son of Hammelech,"
+v.7 — ASV: "a eunuch, who" for KJV's "one of the eunuchs which"
+       NET: "Ebed Melech, a court official" for KJV's "one of the eunuchs which was"
+       WEB: "Benjamin’s gate)," for KJV's "the gate of Benjamin;"
+v.11 — ASV: "worn-out garments," for KJV's "old rotten rags,"
+       NET: "treasure room in the palace. He got some worn-out clothes" for KJV's "treasury, and took thence old cast clouts"
+       WEB: "worn-out garments," for KJV's "old rotten rags,"
+v.19 — NET: "Babylonians. The Babylonians might hand" for KJV's "Chaldeans, lest they deliver"
+       WEB: "who have defected" for KJV's "that are fallen"
+
 GLOSSARY
 ------------------------------------
 Cistern — A bell-shaped underground chamber for storing rainwater. When empty, it became a prison (muddy, dark, nearly inescapable). Joseph (Genesis 37:24) and Jeremiah both experienced cistern imprisonment.

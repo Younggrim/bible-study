@@ -261,6 +261,19 @@ v.29 — KJV: "Pharaoh-nechoh king of Egypt went up against the
        (605 BC). The ESV rendering fits the historical context:
        Egypt was allied with Assyria against rising Babylon.
 
+v.5 — NET: "area right around Jerusalem. (They offered sacrifices to" for KJV's "places round about Jerusalem; them also that burned incen..."
+       WEB: "He got rid of" for KJV's "And he put down"
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "male cultic prostitutes in the Lord’s temple, where women" for KJV's "sodomites, that"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.10 — NET: "The king ruined Topheth" for KJV's "And he defiled Topheth, which is"
+       WEB: "He" for KJV's "And he"
+v.13 — ASV: "Moab," for KJV's "the Moabites,"
+       NET: "detestable Sidonian goddess Astarte," for KJV's "abomination of"
+       WEB: "Ammon." for KJV's "Ammon, did the king defile."
+v.29 — NET: "marched toward the Euphrates River to help" for KJV's "went up against"
+       WEB: "Pharaoh Necoh killed" for KJV's "he slew"
+
 GLOSSARY
 ------------------------------------
 Josiah      — King of Judah (c. 640-609 BC), son of Amon, grandson

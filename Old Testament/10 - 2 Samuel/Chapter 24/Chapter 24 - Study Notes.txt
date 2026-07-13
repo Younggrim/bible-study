@@ -245,6 +245,23 @@ v.24 — KJV: "fifty shekels of silver" / 1 Chronicles 21:25:
        purchase of the entire surrounding site for the Temple
        complex.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "them, saying, “Go count" for KJV's "them to say, Go, number"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.6 — NET: "on around" for KJV's "they came"
+v.13 — ASV: "thy foes" for KJV's "thine enemies,"
+       NET: "from your enemies with them in hot pursuit? Or shall" for KJV's "before thine enemies, while they pursue thee? or that"
+       WEB: "you? Or shall" for KJV's "thee? or that"
+v.16 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord relented from his judgment. He told" for KJV's "LORD repented him of the evil, and said to"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.23 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "I, the servant of my lord the" for KJV's "All these things did Araunah, as a"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.24 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "“No, I insist on buying it from you!" for KJV's "Nay; but"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Census/        — Hebrew "manah" = to count, number. A military

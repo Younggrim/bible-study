@@ -155,6 +155,18 @@ v.25 — KJV: "fresher than a child's" / ESV: "fresh with youth" —
        The ransomed person's flesh is restored to youthful health.
        This reversal of suffering is the fruit of the ransom.
 
+v.6 — ASV: "toward God even as thou art:" for KJV's "according to thy wish in God’s stead:"
+       NET: "too have been molded from" for KJV's "also am formed out of the"
+       WEB: "toward God even as you are." for KJV's "according to thy wish in God’s stead:"
+v.23 — ASV: "what is right for him;" for KJV's "his uprightness:"
+       NET: "tell a person what constitutes" for KJV's "shew unto man"
+       WEB: "is beside him an angel," for KJV's "be a messenger with him,"
+v.24 — NET: "says, ‘Spare" for KJV's "saith, Deliver"
+       WEB: "says, ‘Deliver" for KJV's "saith, Deliver"
+v.25 — ASV: "child`s; He returneth" for KJV's "child’s: he shall return"
+       NET: "is restored like" for KJV's "shall be fresher than"
+       WEB: "child’s. He returns" for KJV's "child’s: he shall return"
+
 GLOSSARY
 ------------------------------------
 Ransom       — Hebrew "kopher" — the price paid to release someone

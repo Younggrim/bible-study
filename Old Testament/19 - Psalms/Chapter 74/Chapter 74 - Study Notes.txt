@@ -114,6 +114,15 @@ v.19 — KJV: "O deliver not the soul of thy turtledove" / ESV: "Do
        vulnerable dove amid the "wild beasts" (predatory nations).
        A tender image of helplessness needing divine protection.
 
+v.5 — ASV: "a thicket of" for KJV's "the thick"
+       NET: "They invade like lumberjacks swinging their" for KJV's "A man was famous according as he had lifted up"
+       WEB: "They behaved like men wielding axes, cutting through a th..." for KJV's "A man was famous according as he had lifted up axes upon ..."
+v.13 — NET: "your strength; you shattered" for KJV's "thy strength: thou brakest"
+       WEB: "your strength. You broke" for KJV's "thy strength: thou brakest"
+v.19 — ASV: "wild beast: Forget" for KJV's "multitude of the wicked: forget"
+       NET: "your dove over to a wild animal. Do not continue to disre..." for KJV's "thy turtledove unto"
+       WEB: "your dove to wild beasts. Don’t forget" for KJV's "thy turtledove unto"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "How long?" is a valid prayer (v.10). When God seems absent and

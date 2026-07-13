@@ -151,6 +151,17 @@ v.32 — "a very lovely song" (KJV) — Hebrew "shir agavim" = a
       emotionally moving, but not requiring obedience. Entertainment
       religion.
 
+v.2 — ASV: "from among them," for KJV's "of their coasts,"
+       NET: adds "a sword against"
+       WEB: "from among them," for KJV's "of their coasts,"
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "change his behavior and live. Turn back,"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.21 — NET: "a refugee came to me from" for KJV's "that one that had escaped out of"
+       WEB: "has been defeated!”" for KJV's "is smitten."
+v.32 — NET: "skilled musician. They" for KJV's "can play well on an instrument: for they"
+       WEB: "Behold, you are to" for KJV's "And, lo, thou art unto"
+
 GLOSSARY
 ------------------------------------
 The Watchman — The prophet's role as sentinel: seeing danger

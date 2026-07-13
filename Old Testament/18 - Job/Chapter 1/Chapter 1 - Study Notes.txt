@@ -179,6 +179,20 @@ v.17 — KJV: "Chaldeans" / ESV: "Chaldeans" — A semi-nomadic people
        Their appearance as raiding bands (not an empire) confirms
        the early dating of the story.
 
+v.1 — NET: adds "one who feared God"
+       WEB: "Job. That" for KJV's "Job; and that"
+v.5 — ASV: "burnt-offerings" for KJV's "burnt offerings"
+       NET: "hearts.” This was Job’s customary practice." for KJV's "hearts. Thus did Job continually."
+       WEB: "had run their course," for KJV's "were gone about,"
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord—and" for KJV's "LORD, and"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.15 — ASV: "[upon them]," for KJV's "upon them,"
+       NET: "sword! And I—only" for KJV's "edge of the sword; and"
+       WEB: "away. Yes," for KJV's "away; yea,"
+v.17 — NET: "still speaking another messenger arrived" for KJV's "yet speaking, there came also another,"
+       WEB: "swept down on" for KJV's "fell upon"
+
 GLOSSARY
 ------------------------------------
 Uz            — A region likely in Edom or northern Arabia, east of

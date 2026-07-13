@@ -208,6 +208,20 @@ v.37 — KJV: "his heart died within him, and he became as a stone" /
        ("as a stone") and dies ten days later when "the LORD smote"
        him.
 
+v.3 — NET: "was Abigail. She was both wise" for KJV's "of his wife Abigail:"
+       WEB: "doings. He" for KJV's "doings; and he"
+v.17 — ASV: "worthless fellow," for KJV's "son of Belial,"
+       NET: "you can do. For disaster has been planned" for KJV's "thou wilt do;"
+       WEB: "worthless fellow" for KJV's "son of Belial,"
+v.22 — ASV: "so much as one man-child." for KJV's "any that pisseth against the wall."
+       NET: "will severely punish" for KJV's "unto the enemies of"
+       WEB: "so much as one who urinates on a wall.”" for KJV's "any that pisseth against the wall."
+v.29 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "your enemies from the sling’s pocket!" for KJV's "a sling."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.37 — NET: "matters. He had a stroke" for KJV's "things, that his heart died within him,"
+       WEB: "In" for KJV's "But it came to pass in"
+
 GLOSSARY
 ------------------------------------
 Nabal          — Hebrew "Naval" = fool, senseless one (v.3, 25). His

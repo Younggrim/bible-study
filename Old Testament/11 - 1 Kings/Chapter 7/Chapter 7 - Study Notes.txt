@@ -210,6 +210,22 @@ v.26 — KJV: "two thousand baths" / ESV: "two thousand baths" —
        fill level (2,000). One bath ≈ 6 gallons, so 2,000 baths ≈
        12,000 gallons.
 
+v.2 — NET: "150 feet long, 75 feet wide," for KJV's "an hundred cubits,"
+       WEB: "Lebanon. Its" for KJV's "Lebanon; the"
+v.14 — ASV: adds "the son of"
+       NET: "works of bronze. He reported to King Solomon" for KJV's "Tyre, a worker in brass:"
+       WEB: adds "the son of"
+v.16 — NET: "bronze tops for" for KJV's "chapiters of molten brass, to set upon"
+       WEB: "pillars. The" for KJV's "pillars: the"
+v.21 — NET: "main hall. He erected one pillar on" for KJV's "temple: and he set up"
+       WEB: "temple. He" for KJV's "temple: and he"
+v.23 — ASV: adds "brim, round in compass, and"
+       NET: "the large bronze basin called “The Sea.” It measured 15 feet" for KJV's "a molten sea, ten cubits"
+       WEB: "in shape. Its" for KJV's "all about, and his"
+v.26 — ASV: "a handbreadth thick:" for KJV's "an hand breadth thick,"
+       NET: "cup shaped like a lily blossom. It could hold about 12,00..." for KJV's "cup, with flowers of lilies: it contained two thousand ba..."
+       WEB: "width thick. Its" for KJV's "breadth thick, and the"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God values artistic excellence in worship (v.14). Hiram was

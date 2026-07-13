@@ -242,6 +242,22 @@ v.21 — KJV: "instruments of the oxen" / ESV: "yokes of the oxen"
        sacrificed oxen — a dramatic, irreversible break with his
        former life. There is no plow to return to.
 
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "asked the Lord to take his life: “I’ve had enough! Now," for KJV's "he requested for himself that he might die; and said, It ..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "soft whisper." for KJV's "still small voice."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — ASV: "entrance" for KJV's "entering in"
+       NET: "“Why are you" for KJV's "and said, What doest thou"
+       WEB: "“What are you doing" for KJV's "What doest thou"
+v.19 — ASV: "[of oxen]" for KJV's "of oxen"
+       NET: "Elijah went from there" for KJV's "So he departed thence,"
+       WEB: "went over to" for KJV's "passed by"
+v.21 — ASV: "And he returned from following him, and took the yoke of oxen, and slew them, an..."
+       NET: adds "his pair of oxen and slaughtered them. He cooked the meat..."
+       WEB: "served" for KJV's "ministered unto"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Spiritual depression is not spiritual failure (vv.3-4). Elijah

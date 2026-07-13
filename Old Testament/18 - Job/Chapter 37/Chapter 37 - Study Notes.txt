@@ -156,6 +156,19 @@ v.23 — KJV: "he will not afflict" / ESV: "he will not violate" —
        (unjustly). ESV: God will not violate (justice). Both
        assert that God's power is governed by His righteousness.
 
+v.7 — ASV: adds "whom he hath made"
+       NET: "causes everyone to stop working, so" for KJV's "sealeth up the hand of every man;"
+       WEB: adds "whom he has made"
+v.9 — ASV: "storm, And" for KJV's "whirlwind: and"
+       NET: "A tempest blows out from its chamber, icy cold from" for KJV's "Out of"
+       WEB: adds "its room comes"
+v.22 — ASV: "north cometh golden splendor:" for KJV's "north: with"
+       NET: "north he comes in golden splendor; around" for KJV's "north: with"
+       WEB: "north comes golden splendor. With" for KJV's "north: with"
+v.23 — ASV: "plenteous righteousness" for KJV's "in judgment, and in plenty of justice:"
+       NET: "abundant righteousness" for KJV's "in judgment, and in plenty of justice:"
+       WEB: "great righteousness," for KJV's "in judgment, and in plenty of justice:"
+
 GLOSSARY
 ------------------------------------
 Mazzaroth/   — The constellations or zodiacal stars (mentioned in

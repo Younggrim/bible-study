@@ -68,6 +68,22 @@ TRANSLATION COMPARISON
 ------------------------------------
 
 
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "will be honored even" for KJV's "shall stand and feed"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "nations. They will be like the" for KJV's "people as a"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.10 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "your horses from your midst and smash your chariots." for KJV's "thy chariots:"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.1 — ASV: adds "shalt thou"
+       NET: adds "surrounded by soldiers! We are besieged! With a scepter t..."
+       WEB: "us. They will strike" for KJV's "us: they shall smite"
+v.2 — ASV: "Beth-lehem Ephrathah, which art little to" for KJV's "Bethlehem Ephratah, though thou"
+       NET: "Judah— from you a king will emerge who will rule over Isr..." for KJV's "Judah, yet out of thee shall he come forth unto me that i..."
+       WEB: "Ephrathah, being small" for KJV's "Ephratah, though thou be little"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God works through smallness. Bethlehem was insignificant by every human measure, yet God chose it for His greatest work. Never despise small beginnings, small places, or small callings—God is not limited by size or status.

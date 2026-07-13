@@ -241,6 +241,21 @@ v.19 — KJV: "Is it not good, if peace and truth be in my days?" /
        suggests Hezekiah's relief that judgment falls after his
        lifetime — a more critical reading of his attitude.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "stricken with a terminal illness. The" for KJV's "Hezekiah sick unto death. And the"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "after tomorrow you will" for KJV's "thou shalt"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.9 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "replied, “This is your" for KJV's "said, This"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.12 — NET: "gift to Hezekiah," for KJV's "present unto Hezekiah:"
+       WEB: "to Hezekiah;" for KJV's "unto Hezekiah:"
+v.19 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "Hezekiah said to Isaiah, “The Lord’s message which you ha..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Dial/Steps  — Hebrew "ma'aloth" — The "dial of Ahaz" (KJV) or

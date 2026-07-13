@@ -171,6 +171,18 @@ v.11 — KJV: "five thousand and four hundred" / ESV: "5,400" —
        The difference represents additional smaller or
        uncategorized vessels included in the total count.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s message spoken through Jeremiah," for KJV's "LORD by"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — ASV: "freewill-offering" for KJV's "freewill offering"
+       NET: "is a resident foreigner must be helped by" for KJV's "sojourneth, let the men of"
+       WEB: "Whoever is left," for KJV's "And whosoever remaineth"
+v.9 — NET: "these items was as follows: 30 gold basins, 1,000 silver ..." for KJV's "them: thirty chargers of gold, a thousand chargers of sil..."
+       WEB: "twenty-nine" for KJV's "nine and twenty"
+v.11 — ASV: "up, when they" for KJV's "up with them"
+       NET: "vessels totaled 5,400." for KJV's "were five thousand and four hundred. All these did"
+       WEB: "captives" for KJV's "captivity that"
+
 GLOSSARY
 ------------------------------------
 Cyrus       — Cyrus II ("the Great"), founder of the Achaemenid

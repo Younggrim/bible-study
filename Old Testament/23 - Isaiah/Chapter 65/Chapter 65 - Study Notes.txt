@@ -107,6 +107,17 @@ v.25 — "dust shall be the serpent's meat" (KJV/ESV) — The
       creation, the serpent remains humbled — a reminder of
       defeated evil.
 
+v.1 — ASV: "[for me];" for KJV's "for me;"
+       NET: "appeared to those who did not look for me." for KJV's "am found of them that sought me not:"
+       WEB: "by those who didn’t seek me." for KJV's "of them that sought me not:"
+v.17 — NET: "remembered; no one will think about them anymore." for KJV's "remembered, nor come into mind."
+v.20 — ASV: "old, and" for KJV's "old; but"
+       NET: "age of one hundred; anyone who fails to reach the age of one" for KJV's "child shall die an"
+       WEB: "“No more will there" for KJV's "There shall"
+v.25 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "a lamb will graze together; a lion, like an ox, will eat ..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God is found by those not looking (v.1). Grace is surprising.

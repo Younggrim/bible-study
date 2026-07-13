@@ -110,6 +110,15 @@ v.31 — "Evil-merodach" (KJV/ESV) — Babylonian "Amel-Marduk" = "man of Marduk
 
 v.34 — "until the day of his death" (KJV/ESV) — Jehoiachin was sustained at the Babylonian court until he died. Archaeological evidence: the "Jehoiachin tablets" from Babylon list rations allocated to "Yaukin, king of Judah" — confirming this biblical detail.
 
+v.12 — ASV: "who stood before" for KJV's "which served"
+       NET: "arrived in Jerusalem." for KJV's "into Jerusalem,"
+v.28 — NET: adds "official record of the number of"
+       WEB: "twenty-three Jews;" for KJV's "Jews and three and twenty:"
+v.31 — NET: "reign, pardoned King Jehoiachin" for KJV's "reign lifted up the head"
+       WEB: "thirty-seventh" for KJV's "seven and thirtieth"
+v.34 — NET: "Babylon for the rest of his life" for KJV's "Babylon, every day a portion"
+       WEB: "For" for KJV's "And for"
+
 GLOSSARY
 ------------------------------------
 Historical Appendix — Chapter 52 serves as the PROOF that Jeremiah's prophecies were fulfilled — added to validate the book's claims against Jerusalem, Zedekiah, and the temple.

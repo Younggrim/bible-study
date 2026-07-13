@@ -127,6 +127,15 @@ v.4  — "he shall not fail nor be discouraged" (KJV) / "he will
       wick) or "broken" (like the reed). He endures what they
       endure but doesn't succumb.
 
+v.1 — ASV: "my chosen," for KJV's "mine elect,"
+       NET: "will make just decrees for" for KJV's "shall bring forth judgment to"
+       WEB: "Spirit on him. He will" for KJV's "spirit upon him: he shall"
+v.3 — ASV: "a dimly burning wick will" for KJV's "the smoking flax shall"
+       NET: "will faithfully make just decrees." for KJV's "shall bring forth judgment unto truth."
+       WEB: "reed. He won’t quench a dimly burning wick. He will faith..." for KJV's "reed shall he not break, and the smoking flax shall he no..."
+v.4 — NET: "crushed before establishing justice on the earth; the coa..." for KJV's "discouraged, till he have set judgment"
+       WEB: "islands will" for KJV's "isles shall"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. "A bruised reed shall he not break" (v.3). If you feel barely

@@ -194,6 +194,18 @@ v.28 — "spider" — Hebrew "semamith." The identification is debated:
        remains: a small, seemingly insignificant creature that can
        be found in the highest places of human power.
 
+v.1 — ASV: "Jakeh; The oracle. The" for KJV's "Jakeh, even the prophecy: the"
+       NET: "Jakeh; an oracle: This" for KJV's "Jakeh, even the prophecy: the"
+       WEB: "says to" for KJV's "spake unto"
+v.5 — ASV: "take refuge" for KJV's "put their trust"
+       NET: "for those who take refuge" for KJV's "unto them that put their trust"
+       WEB: "to those who take refuge" for KJV's "unto them that put their trust"
+v.8 — ASV: "lies; Give" for KJV's "lies: give"
+       NET: "my allotted portion of bread," for KJV's "food convenient for me:"
+       WEB: "riches. Feed" for KJV's "riches; feed"
+v.28 — NET: "the hand, but it gets into the palaces of the king." for KJV's "her hands, and is in kings’ palaces."
+       WEB: "You can catch a lizard" for KJV's "The spider taketh hold"
+
 GLOSSARY
 ------------------------------------
 Numerical Proverbs — A distinctive literary form in Hebrew wisdom

@@ -177,6 +177,20 @@ v.18 — KJV: "seven hundred chariots... forty thousand horsemen" / ESV:
        "footmen" instead of "horsemen" — another discrepancy between
        the Samuel and Chronicles accounts.
 
+v.4 — NET: adds "each one’s beard. He cut the lower part of"
+v.6 — ASV: "were become odious to" for KJV's "stank before"
+       NET: adds "20,000 foot soldiers from Aram Beth Rehob and Aram Zobah,..."
+       WEB: "had become odious to" for KJV's "stank before"
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "strong! Let’s fight bravely for the sake"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.16 — ASV: "at their head." for KJV's "went before them."
+       NET: "Then Hadadezer sent for Arameans from" for KJV's "And Hadarezer sent, and brought out the Syrians that were"
+       WEB: "Hadadezer at their head." for KJV's "Hadarezer went before them."
+v.18 — ASV: adds "Syrians [the"
+       NET: "40,000 foot soldiers. He also struck down Shobach," for KJV's "David slew"
+       WEB: "army, so that he" for KJV's "host, who"
+
 GLOSSARY
 ------------------------------------
 Ammonites      — Descendants of Ben-ammi, Lot's son (Genesis 19:38).

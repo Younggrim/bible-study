@@ -172,6 +172,22 @@ TRANSLATION COMPARISON
 ------------------------------------
 
 
+v.6 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "tribute. The Lord protected" for KJV's "gifts. Thus the LORD preserved"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.11 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "the nations, including" for KJV's "these nations; from"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "subjects. The Lord protected" for KJV's "servants. Thus the LORD preserved"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.4 — ASV: "hocked" for KJV's "also houghed"
+       NET: "cut the hamstrings of" for KJV's "also houghed"
+       WEB: "hamstrung" for KJV's "also houghed"
+v.10 — ASV: "salute him," for KJV's "enquire of his welfare,"
+       NET: "pronounce a blessing on him for his victory over Hadadeze..." for KJV's "congratulate him, because he"
+       WEB: "Greet him," for KJV's "enquire of his welfare,"
+
 GLOSSARY
 ------------------------------------
 Garrisons: Hebrew נְצִיבִים (netsivim), military outposts or

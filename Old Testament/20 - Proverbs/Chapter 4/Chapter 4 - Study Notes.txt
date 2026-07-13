@@ -142,6 +142,12 @@ v.23 — KJV: "issues of life" / ESV: "springs of life" — Hebrew
        from which the river of your life flows. Contaminate the
        spring and the whole river is poisoned.
 
+v.7 — ASV: "wisdom; Yea," for KJV's "wisdom: and"
+       NET: "whatever you acquire, acquire understanding!" for KJV's "with all thy getting get understanding."
+       WEB: "supreme. Get wisdom. Yes, though it costs" for KJV's "the principal thing; therefore get wisdom: and with"
+v.22 — NET: "one’s entire body." for KJV's "all their flesh."
+v.23 — NET: "Guard your" for KJV's "Keep thy"
+
 GLOSSARY
 ------------------------------------
 Heart (lev)    — In Hebrew thought, the heart is not merely the

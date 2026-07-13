@@ -154,6 +154,20 @@ v.14 — KJV: "he prepared not his heart" / ESV: "he did not set his
        evil was not preparation for wickedness but absence of
        preparation for righteousness.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "After Rehoboam’s rule was" for KJV's "And it came to pass, when Rehoboam had"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.5 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "over to Shishak.’”" for KJV's "in the hand of Shishak."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.7 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "soon. My anger will" for KJV's "some deliverance; and my wrath shall"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — NET: "can experience how serving me differs from serving" for KJV's "may know my service, and"
+v.14 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "determined" for KJV's "his heart"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Shishak     — Egyptian Pharaoh Shoshenq I (reigned c. 943-922 BC),

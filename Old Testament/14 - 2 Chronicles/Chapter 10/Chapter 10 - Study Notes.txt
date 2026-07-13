@@ -143,6 +143,18 @@ v.18 — KJV: "Hadoram that was over the tribute" / ESV: "Hadoram, who
        official who represented their oppression became Rehoboam's
        ambassador. His stoning was inevitable.
 
+v.7 — NET: "from this time forward.”" for KJV's "for ever."
+       WEB: "They spoke to" for KJV's "And they spake unto"
+v.11 — ASV: "yoke," for KJV's "yoke upon you,"
+       NET: "make them even heavier. My" for KJV's "put more to your yoke: my"
+       WEB: "yoke. My" for KJV's "yoke: my"
+v.15 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "people, because God was instigating this turn of events s..." for KJV's "king hearkened not unto"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.18 — ASV: "Hadoram, who" for KJV's "Hadoram that"
+       NET: "work crews, out after them, but the Israelites" for KJV's "children of Israel"
+       WEB: "Hadoram, who" for KJV's "Hadoram that"
+
 GLOSSARY
 ------------------------------------
 Shechem     — A city in the territory of Ephraim (the dominant

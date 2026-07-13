@@ -134,6 +134,21 @@ v.18 — "Valley of Shittim" = "Valley of Acacias" — an arid area
        east of the Jordan. Even the driest places will be watered
        by God's fountain. Life flows where death once reigned.
 
+v.2 — ASV: "execute judgment upon" for KJV's "plead with"
+       NET: adds "to the Valley of Jehoshaphat. I will enter"
+       WEB: "nations. They have divided" for KJV's "nations, and parted"
+v.10 — NET: "spears. Let" for KJV's "spears: let"
+       WEB: "spears. Let" for KJV's "spears: let"
+v.13 — ASV: "tread ye;" for KJV's "get you down;"
+       NET: "full! The vats overflow. Indeed," for KJV's "full, the fats overflow; for"
+       WEB: "ripe. Come, tread," for KJV's "ripe: come, get you down;"
+v.14 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Crowds, great crowds are" for KJV's "Multitudes, multitudes"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.18 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "water. A spring will flow out from the temple" for KJV's "waters, and a fountain shall come forth"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God holds nations accountable (v.2). How nations treat God's

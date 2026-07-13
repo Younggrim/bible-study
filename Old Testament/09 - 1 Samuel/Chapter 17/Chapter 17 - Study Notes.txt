@@ -258,6 +258,25 @@ v.45 — KJV: "a shield" / ESV: "a javelin" — Hebrew "kidon." This word
        The point remains: Goliath comes with multiple weapons; David
        comes with God's name.
 
+v.4 — NET: "Goliath; he was from Gath. He was close to seven feet tall." for KJV's "six cubits and a span."
+       WEB: "A" for KJV's "And there went out a"
+v.5 — NET: "wearing scale body armor. The" for KJV's "armed with a coat of mail; and the"
+       WEB: "wore" for KJV's "was armed with"
+v.20 — ASV: "dummy verses inserted by amos" for KJV's "And David rose up early in the morning, and left the shee..."
+       NET: "flock to someone else who would watch over it. After load..." for KJV's "sheep with a keeper, and took, and went,"
+       WEB: "him. He" for KJV's "him; and he"
+v.22 — NET: "battlefront. When he arrived, he asked" for KJV's "carriage, and ran into the army, and came and saluted"
+v.28 — ASV: "come down?" for KJV's "down hither?"
+       NET: "am familiar with your pride" for KJV's "know thy pride,"
+       WEB: "“Why have you come down? With" for KJV's "Why camest thou down hither? and with"
+v.29 — NET: "done now? Can’t I say anything?”" for KJV's "now done? Is there not a cause?"
+v.40 — ASV: "the shepherd`s" for KJV's "a shepherd’s"
+       NET: "stream, placed" for KJV's "brook, and put"
+       WEB: "had. His" for KJV's "had, even in a scrip; and his"
+v.45 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "“You are coming against" for KJV's "Thou comest to"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Champion       — Hebrew "ish ha-benayim" = literally "man of the

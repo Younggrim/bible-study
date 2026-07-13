@@ -166,6 +166,17 @@ v.10 — "paved with love" = Hebrew "ratsuf ahavah" = inlaid with
        the structure — the foundation and interior of the marriage
        is love itself.
 
+v.4 — ASV: "It was but a little that I passed from them, When I found him whom my soul lovet..."
+       NET: "Scarcely had" for KJV's "It was but a little that"
+       WEB: adds "had scarcely"
+v.6 — ASV: "up from" for KJV's "out of"
+       NET: "every kind of fragrant powder" for KJV's "with all powders"
+       WEB: "who comes up from" for KJV's "that cometh out of"
+v.9 — ASV: "palanquin Of" for KJV's "chariot of"
+       NET: adds "a sedan chair for"
+v.10 — NET: adds "of silver; its back was made of gold. Its seat was uphols..."
+       WEB: "middle of it" for KJV's "midst thereof"
+
 GLOSSARY
 ------------------------------------
 Watchmen     — Guards who patrolled the city streets at night for

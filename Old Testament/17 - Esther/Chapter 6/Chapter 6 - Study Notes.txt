@@ -204,6 +204,21 @@ v.13 — KJV: "thou shalt surely fall before him" / ESV: "you will
        theological certainty: opposing God's people guarantees
        destruction.
 
+v.1 — NET: adds "was unable to"
+       WEB: "couldn’t sleep. He" for KJV's "sleep, and he"
+v.3 — ASV: "bestowed on" for KJV's "done to"
+       NET: "attendants who served him responded, “Not a thing was" for KJV's "servants that ministered unto him, There is nothing"
+       WEB: "who attended him said, “Nothing has been" for KJV's "that ministered unto him, There is nothing"
+v.8 — ASV: adds "head of which a"
+       NET: "himself has ridden—one bearing" for KJV's "rideth upon, and"
+       WEB: adds "head of which a"
+v.12 — ASV: "house, mourning" for KJV's "house mourning,"
+       NET: "home, mournful" for KJV's "house mourning,"
+       WEB: "house, mourning" for KJV's "house mourning,"
+v.13 — ASV: "everything" for KJV's "every thing"
+       NET: "fall is Jewish, you will" for KJV's "fall, thou shalt"
+       WEB: "is of Jewish descent, you will" for KJV's "thou shalt"
+
 GLOSSARY
 ------------------------------------
 Book of      — Hebrew "sefer ha-zikronoth" (book of remembrances).

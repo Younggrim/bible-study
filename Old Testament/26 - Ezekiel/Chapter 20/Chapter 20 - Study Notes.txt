@@ -137,6 +137,20 @@ v.37 — "bond of the covenant" (KJV) — Hebrew "masoret habberit"
       under a shepherd's rod for counting — God will sort every
       individual.
 
+v.6 — ASV: "in that" for KJV's "In the"
+       NET: "On that" for KJV's "In the"
+       WEB: "swore to" for KJV's "lifted up mine hand unto"
+v.9 — ASV: "profaned in" for KJV's "polluted before"
+       NET: "lived, before whom" for KJV's "were, in whose sight"
+       WEB: "profaned in" for KJV's "polluted before"
+v.25 — ASV: "ordinances wherein" for KJV's "judgments whereby"
+       NET: "regulations by which" for KJV's "judgments whereby"
+       WEB: "ordinances in which" for KJV's "judgments whereby"
+v.26 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "all their firstborn"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.37 — WEB: "“I" for KJV's "And I"
+
 GLOSSARY
 ------------------------------------
 "For My Name's Sake" — God's primary motivation for mercy: His

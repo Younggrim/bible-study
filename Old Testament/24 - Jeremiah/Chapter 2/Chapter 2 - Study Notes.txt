@@ -118,6 +118,14 @@ v.23 — "dromedary" (KJV) / "restless young camel" (ESV) —
       heat — frantic, unfocused, driven by appetite rather than
       direction.
 
+v.2 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "had never been planted." for KJV's "was not sown."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — NET: "they have dug cisterns for themselves, cracked cisterns" for KJV's "hewed them out cisterns, broken cisterns,"
+v.23 — ASV: "[thou art]" for KJV's "thou art"
+       NET: "Valley of Hinnom! Think about the things you have done th..." for KJV's "valley, know what thou hast done: thou art"
+       WEB: "you have done. You are" for KJV's "thou hast done: thou art"
+
 GLOSSARY
 ------------------------------------
 Fountain of Living Waters — God as the SOURCE of fresh, flowing,

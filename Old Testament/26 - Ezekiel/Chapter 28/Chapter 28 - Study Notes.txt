@@ -151,6 +151,19 @@ v.16 — "cast thee as profane" (KJV) — Hebrew "va'achall'lekha"
       profane — from sacred guardian to expelled rebel. The
       ultimate demotion.
 
+v.12 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "says: “‘You were" for KJV's "GOD; Thou sealest up"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — ASV: "wast" for KJV's "hast been"
+       NET: "you were created they were prepared." for KJV's "that thou wast created."
+       WEB: adds "emerald, chrysolite, onyx, jasper, sapphire, turquoise,"
+v.14 — ASV: "thee, [so that]" for KJV's "thee so:"
+       NET: "guardian cherub; you were on" for KJV's "cherub that covereth; and I have set thee so: thou wast upon"
+       WEB: "who covers. Then" for KJV's "that covereth; and"
+v.16 — ASV: "have destroyed" for KJV's "will destroy"
+       NET: "God— the guardian cherub expelled you" for KJV's "God: and I will destroy thee, O covering cherub,"
+       WEB: "your commerce, your insides were" for KJV's "thy merchandise they have"
+
 GLOSSARY
 ------------------------------------
 The Anointed Cherub — The highest-ranking angelic being, created

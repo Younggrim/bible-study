@@ -177,6 +177,17 @@ v.24 — KJV: "my roarings are poured out like the waters" / ESV:
        "roarings" captures the volume and intensity; ESV
        "groanings" captures the inward anguish. Both are valid.
 
+v.5 — ASV: "claim it for their own; Let" for KJV's "stain it; let"
+       NET: "whatever blackens" for KJV's "the blackness of"
+       WEB: "on it. Let all that makes black" for KJV's "upon it; let the blackness of"
+v.8 — ASV: "leviathan." for KJV's "their mourning."
+       NET: "rouse Leviathan." for KJV's "raise up their mourning."
+       WEB: "leviathan." for KJV's "their mourning."
+v.17 — WEB: "troubling. There" for KJV's "troubling; and there"
+v.24 — ASV: "water." for KJV's "the waters."
+       NET: "comes in place of my food," for KJV's "cometh before I eat,"
+       WEB: "eat. My groanings" for KJV's "eat, and my roarings"
+
 GLOSSARY
 ------------------------------------
 Anti-creation — A literary technique where the language of Genesis

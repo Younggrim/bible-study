@@ -110,6 +110,16 @@ v.4 — KJV: "A froward heart" / ESV: "A perverse heart" — Hebrew
       "iqqesh" = twisted, crooked. Not merely sinful but
       deliberately distorted — a heart that bends truth.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "A psalm of David."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.2 — ASV: "way: Oh" for KJV's "way. O"
+       NET: "walkin the way of integrity. When will you" for KJV's "behave myself wisely in a perfect way. O when wilt thou"
+       WEB: "blameless life. When will you" for KJV's "perfect way. O when wilt thou"
+v.4 — ASV: "no evil thing." for KJV's "a wicked person."
+       NET: "I will have nothing to do with a perverse person;" for KJV's "A froward heart shall depart from me:"
+       WEB: "have nothing to do with evil." for KJV's "not know a wicked person."
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Integrity starts at home (v.2). David's first commitment is

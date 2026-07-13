@@ -111,6 +111,16 @@ v.9  — "roll of a book" (KJV) / "scroll" (ESV) — Hebrew
       Ezekiel's eyes so he can see its contents (lamentations)
       before ingesting them.
 
+v.1 — NET: "on your feet" for KJV's "upon thy feet,"
+       WEB: "with you.”" for KJV's "unto thee."
+v.3 — ASV: "nations" for KJV's "a rebellious nation"
+       NET: "nations who have" for KJV's "nation that hath"
+       WEB: "of rebels who have" for KJV's "that hath"
+v.6 — NET: adds "surround you and you live among scorpions—do not fear the..."
+       WEB: "you do" for KJV's "thou dost"
+v.9 — NET: "stretched out to me, and in it was" for KJV's "sent unto me; and, lo,"
+       WEB: "stretched out to" for KJV's "sent unto"
+
 GLOSSARY
 ------------------------------------
 Son of Man   — God's address to Ezekiel 93 times. Emphasizes

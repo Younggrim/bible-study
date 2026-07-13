@@ -264,6 +264,22 @@ v.29 — KJV: "I will not bring the evil in his days" / ESV: "I
        The distinction matters theologically: God sends just
        punishment, not arbitrary malice.
 
+v.4 — NET: "ancestral inheritance.” He lay" for KJV's "fathers. And he laid him"
+       WEB: "fathers.” He" for KJV's "fathers. And he"
+v.10 — ASV: "base fellows," for KJV's "sons of Belial,"
+       NET: "villains opposite him and have them testify, ‘You cursed" for KJV's "men, sons of Belial, before him, to bear witness against ..."
+       WEB: "and let them testify" for KJV's "to bear witness"
+v.21 — ASV: "every man-child," for KJV's "him that pisseth against the wall,"
+       NET: adds "including even the weak and incapacitated."
+       WEB: "everyone who urinates" for KJV's "him that pisseth"
+v.25 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "(There had never been anyone like Ahab, who" for KJV's "But there"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.27 — NET: "fasted. He slept in sackcloth and walked around dejected." for KJV's "went softly."
+       WEB: "When" for KJV's "And it came to pass, when"
+v.29 — NET: adds "disaster on his dynasty during his lifetime, but during"
+       WEB: adds "I will bring the evil on his house"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. Covetousness destroys from within (vv.4-6). Ahab had a kingdom

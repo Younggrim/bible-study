@@ -136,6 +136,20 @@ TRANSLATION COMPARISON
 ------------------------------------
 
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "certainly worthy of praise" for KJV's "greatly to be praised"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "permanently secure. (Selah)" for KJV's "for ever. Selah."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.3 — NET: "its fortresses; he reveals himself as its defender." for KJV's "her palaces for a refuge."
+       WEB: "has shown himself" for KJV's "is known"
+v.5 — ASV: "then were" for KJV's "and so"
+       NET: "are shocked; they are terrified, they quickly retreat." for KJV's "were troubled, and hasted away."
+       WEB: "amazed. They were dismayed. They hurried" for KJV's "troubled, and hasted"
+v.6 — ASV: "Pain," for KJV's "and pain,"
+       NET: "shake uncontrollably, like" for KJV's "there, and pain, as of"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God's presence transforms ordinary places into holy ground.

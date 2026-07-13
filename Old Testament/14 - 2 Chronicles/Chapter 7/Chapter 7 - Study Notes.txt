@@ -189,6 +189,16 @@ v.20 — KJV: "pluck them up by the roots" / ESV: "pluck you up from
        uprooted like a tree torn from soil. The violence of the
        image matches the severity of the judgment.
 
+v.1 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Lord’s splendor" for KJV's "glory of the LORD"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.8 — ASV: adds "at that time"
+       NET: adds "Lebo Hamath in"
+       WEB: adds "at that time for"
+v.14 — NET: adds "pray, seek to please me,"
+v.20 — NET: "you an object of mockery" for KJV's "it to be a proverb"
+       WEB: "then I will pluck them up by the roots out of my land which I have given them; a..."
+
 GLOSSARY
 ------------------------------------
 Fire from   — Supernatural fire descending from God to consume

@@ -58,6 +58,16 @@ v.19 — "without our men" (KJV) / "without our husbands' approval" (ESV) — Th
 
 v.30 — "Pharaoh-hophra" (KJV/ESV) — Egyptian name: Wahibre (Greek: Apries). Reigned 589-570 BC. Overthrown by his general Amasis in a military revolt — fulfilling Jeremiah's sign precisely.
 
+v.17 — ASV: "perform every word that is gone" for KJV's "do whatsoever thing goeth"
+       NET: "everything we vowed we would do. We will sacrifice" for KJV's "whatsoever thing goeth forth out of our own mouth, to bur..."
+       WEB: "perform every word that has gone" for KJV's "do whatsoever thing goeth forth"
+v.19 — ASV: "drink-offerings" for KJV's "drink offerings"
+       NET: "The women added, “We did indeed sacrifice and pour out dr..." for KJV's "And when we burned incense"
+       WEB: "“When" for KJV's "And when"
+v.30 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "enemies who are seeking to kill him. I will do" for KJV's "enemies, and into the hand of them"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Queen of Heaven — Ishtar/Astarte: ancient Near Eastern goddess of fertility, love, and war. Worshipped with incense, drink offerings, and cakes baked in her image. The chief competitor to Yahweh in Judah's worship.

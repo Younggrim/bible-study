@@ -68,6 +68,13 @@ v.23 — "penknife" (KJV) / "knife" (ESV) — Hebrew "ta'ar ha-sopher" = the scr
 
 v.23 — "leaves" (KJV) / "columns" (ESV) — Hebrew "delathot" = doors/columns. Scrolls were written in columns; Jehoiakim cut off 3-4 columns at a time and burned them.
 
+v.2 — NET: "scroll. Write on it everything I have told you to say abo..." for KJV's "roll of a book,"
+       WEB: "spoke to you," for KJV's "spake unto thee,"
+v.18 — NET: "answered, “Yes, they came from his own mouth." for KJV's "answered them,"
+       WEB: "“He dictated" for KJV's "He pronounced"
+v.23 — NET: "firepot. He kept doing so until the whole scroll" for KJV's "fire that"
+       WEB: "When" for KJV's "And it came to pass, that when"
+
 GLOSSARY
 ------------------------------------
 The Scroll — Jeremiah's collected prophecies (23 years' worth) dictated to Baruch. The first "edition" of the book of Jeremiah — burned by the king but rewritten by God's command.

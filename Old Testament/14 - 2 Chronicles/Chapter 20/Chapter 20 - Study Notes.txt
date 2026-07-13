@@ -215,6 +215,22 @@ v.26 — KJV: "the valley of Berachah" / ESV: "the Valley of
        locations after God's acts preserves testimony for future
        generations.
 
+v.1 — ASV: "some of" for KJV's "other beside"
+       NET: "Meunites, attacked Jehoshaphat." for KJV's "children of Ammon, and with them other beside the Ammonit..."
+       WEB: "After this," for KJV's "It came to pass after this also, that"
+v.2 — ASV: "are in Hazazon-tamar (the same" for KJV's "be Hazazon-tamar, which"
+       NET: "of the Dead Sea, from the direction of Edom. Look," for KJV's "Syria; and, behold,"
+       WEB: "are in Hazazon Tamar” (that is, En Gedi)." for KJV's "be Hazazon-tamar, which is En-gedi."
+v.21 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: adds "praise his majestic splendor. As they marched ahead of th..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.22 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "men from Mount Seir who" for KJV's "mount Seir, which"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.26 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Valley" for KJV's "valley of Berachah; for there they blessed the LORD: ther..."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 En-gedi     — Hebrew "Ein Gedi" (spring of the young goat). An

@@ -134,6 +134,17 @@ v.18 — "two faces" — The cherubim here have only TWO faces (man
       or that in this context only human dignity (man) and royal
       power (lion) are emphasized.
 
+v.1 — NET: "jambs; the jambs were 10½ feet wide" for KJV's "posts, six cubits broad"
+       WEB: "He" for KJV's "Afterward he"
+v.4 — NET: "its width as 35 feet," for KJV's "the breadth, twenty cubits,"
+       WEB: "its length," for KJV's "the length thereof,"
+v.6 — ASV: "hold [therein], and" for KJV's "hold, but they had"
+       NET: "each story. There were offsets in" for KJV's "order; and they entered into"
+       WEB: "rooms all around," for KJV's "chambers round about,"
+v.18 — ASV: "palm-trees; and" for KJV's "palm trees, so that"
+       NET: "each cherub. Each" for KJV's "a cherub and a cherub; and every"
+       WEB: "trees. A" for KJV's "trees, so that a"
+
 GLOSSARY
 ------------------------------------
 Holy Place    — The main hall (nave) of the temple where priests

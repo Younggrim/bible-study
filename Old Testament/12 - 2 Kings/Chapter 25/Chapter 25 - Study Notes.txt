@@ -266,6 +266,19 @@ v.27 — KJV: "Evil-merodach" / ESV: "Evil-merodach" — Both retain
        name honoring the god Marduk. He reigned only two years
        before being assassinated.
 
+v.4 — ASV: "king`s garden" for KJV's "king’s garden:"
+       NET: "city during the night. They went through" for KJV's "way of"
+       WEB: "around it);" for KJV's "round about:)"
+v.7 — ASV: "in fetters," for KJV's "with fetters of brass,"
+       NET: adds "were executed while Zedekiah was forced to watch. The king"
+       WEB: "They killed Zedekiah’s" for KJV's "And they slew the"
+v.8 — NET: "arrived in Jerusalem." for KJV's "unto Jerusalem:"
+       WEB: "came to Jerusalem." for KJV's "unto Jerusalem:"
+v.12 — NET: adds "behind some"
+       WEB: "work the vineyards" for KJV's "be vinedressers"
+v.27 — NET: "and released him from prison." for KJV's "out of prison;"
+       WEB: "thirty-seventh" for KJV's "seven and thirtieth"
+
 GLOSSARY
 ------------------------------------
 Nebuzaradan — Captain of Nebuchadnezzar's bodyguard ("chief of

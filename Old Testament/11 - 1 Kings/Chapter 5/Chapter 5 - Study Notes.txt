@@ -184,6 +184,22 @@ v.13 — KJV: "raised a levy" / ESV: "drafted forced labor" — Hebrew
        technically accurate (a levy of workers) but ESV "forced
        labor" makes the compulsory nature explicit.
 
+v.1 — NET: "his father’s place. (Hiram had always been an ally" for KJV's "the room"
+       WEB: "had always loved" for KJV's "was ever a lover of"
+v.4 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "or dangerous threat." for KJV's "nor evil occurrent."
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.6 — ASV: "cedar-trees" for KJV's "cedar trees"
+       NET: "So now order some cedars of Lebanon to be cut for me. My ..." for KJV's "Now therefore command thou"
+       WEB: "you say. For you know" for KJV's "thou shalt appoint: for thou knowest"
+v.8 — ASV: "heard [the message]" for KJV's "considered the things"
+       NET: adds "then sent this message to Solomon: “I received the messag..."
+       WEB: "cypress timber." for KJV's "timber of fir."
+v.11 — NET: "royal court, as well as 120,000 gallons" for KJV's "household, and twenty measures"
+       WEB: "oil. Solomon" for KJV's "oil: thus"
+v.13 — NET: "conscripted work crews from throughout Israel, 30,000 men..." for KJV's "raised a levy out of all Israel; and the levy was thirty ..."
+       WEB: "King" for KJV's "And king"
+
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------
 1. God's work requires God's timing (vv.3-4). David wanted to build

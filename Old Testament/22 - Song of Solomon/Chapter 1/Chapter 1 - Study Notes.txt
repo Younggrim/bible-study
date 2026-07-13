@@ -152,6 +152,15 @@ v.12 — "spikenard" = Hebrew "nerd" = a costly aromatic ointment
        to anoint Jesus (John 12:3) — associating extravagant love
        with this fragrance.
 
+v.1 — NET: "Solomon’s Most Excellent Love Song." for KJV's "The song of songs, which is Solomon’s."
+v.2 — ASV: "mouth; For" for KJV's "mouth: for"
+       NET: "The Beloved to Her Lover: Oh, how I wish you would" for KJV's "Let him"
+v.5 — NET: adds "The Beloved to the Maidens:"
+       WEB: "like Kedar’s tents, like Solomon’s curtains." for KJV's "as the tents of Kedar, as the curtains of Solomon."
+v.12 — ASV: "its fragrance." for KJV's "the smell thereof."
+       NET: adds "The Beloved about Her Lover:"
+       WEB: "perfume spread its fragrance." for KJV's "spikenard sendeth forth the smell thereof."
+
 GLOSSARY
 ------------------------------------
 Shulamite    — The Bride's designation (appearing in 6:13). Likely

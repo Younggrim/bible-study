@@ -141,6 +141,15 @@ v.14 — KJV: "vexation of spirit" / ESV: "striving after wind" —
        tend, chase). Both are legitimate: chasing the wind is
        inherently vexing.
 
+v.2 — NET: "Teacher. “Absolutely futile! Everything" for KJV's "Preacher, vanity of vanities; all"
+       WEB: "“Vanity of vanities,” says the Preacher; “Vanity of vanities, all is vanity.”"
+v.13 — ASV: adds "that God"
+       NET: "people a burdensome task that keeps them occupied." for KJV's "to the sons of man to be exercised therewith."
+       WEB: "the sky. It is a heavy burden that" for KJV's "heaven: this sore travail hath"
+v.14 — ASV: "a striving after wind." for KJV's "vexation of spirit."
+       NET: "reflected on everything that is accomplished by man on ea..." for KJV's "have seen all"
+       WEB: "a chasing after wind." for KJV's "vexation of spirit."
+
 GLOSSARY
 ------------------------------------
 Hebel (vanity) — Literally "breath" or "vapor." The key word of

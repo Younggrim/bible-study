@@ -142,6 +142,18 @@ v.17 — KJV: "Stolen waters are sweet" / ESV: "Stolen water is
        pleasure (cf. 5:15-18 where water = marital intimacy). Stolen
        water = sexual pleasure taken outside of marriage covenant.
 
+v.1 — ASV: "house; She" for KJV's "house, she"
+       NET: "has carved" for KJV's "hath hewn"
+       WEB: "house. She has carved" for KJV's "house, she hath hewn"
+v.10 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "Holy One" for KJV's "knowledge of the holy"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+v.13 — ASV: "clamorous; [She is]" for KJV's "clamorous: she is"
+       NET: "does not know anything." for KJV's "knoweth nothing."
+       WEB: "loud, undisciplined," for KJV's "clamorous: she is simple,"
+v.17 — NET: "food obtained" for KJV's "bread eaten"
+       WEB: "“Stolen water is sweet. Food" for KJV's "Stolen waters are sweet, and bread"
+
 GLOSSARY
 ------------------------------------
 Seven Pillars  — The structural supports of Wisdom's house.

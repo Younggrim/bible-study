@@ -184,6 +184,19 @@ v.22 — KJV: "king of Assyria" / ESV: "king of Assyria" — Both
        successors to Assyrian dominion. The title emphasizes
        continuity of the empire that originally exiled Israel.
 
+v.1 — NET: "deposited there" for KJV's "laid up"
+v.2 — ASV: adds "thus written for"
+       NET: "inscribed as follows:“Memorandum:" for KJV's "a record thus written:"
+       WEB: "Media, and in it this was written for" for KJV's "the Medes,"
+v.11 — NET: "“I hereby give orders that if anyone changes this directive" for KJV's "Also I have made"
+       WEB: "lifted up and fastened on it;" for KJV's "hanged thereon;"
+v.14 — ASV: "prospered," for KJV's "they prospered"
+       NET: "Iddo continued prophesying. They built" for KJV's "Iddo. And they builded,"
+       WEB: "prospered," for KJV's "they prospered"
+v.22 — ASV: uses "Jehovah" for KJV's "LORD" (Hebrew YHWH).
+       NET: "toward them so that he assisted them" for KJV's "unto them, to strengthen their hands"
+       WEB: uses "Yahweh" for KJV's "LORD" (Hebrew YHWH).
+
 GLOSSARY
 ------------------------------------
 Ecbatana/   — Ancient capital of Media (modern Hamadan, Iran),
