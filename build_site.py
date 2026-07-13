@@ -303,29 +303,86 @@ LOCATION_WIKI_LINKS = {
 
 
 def render_authorship(text):
-    """Render authorship & historical background as clean bullet points by paragraph."""
-    paragraphs = re.split(r'\n\s*\n', text.strip())
-    items = []
+    """Render authorship & historical background with bold colored labels and nested lists."""
+    lines = text.strip().split("\n")
+    html_parts = []
+    current_paragraph = []
+    in_sublist = False
+    sublist_items = []
 
-    for para in paragraphs:
-        if not para.strip():
-            continue
-        # Join multi-line paragraphs into single lines
-        joined = " ".join(line.strip() for line in para.strip().split("\n") if line.strip())
-        if not joined:
-            continue
+    def flush_paragraph():
+        """Process accumulated paragraph lines into HTML."""
+        if not current_paragraph:
+            return
+        joined = " ".join(current_paragraph)
+        current_paragraph.clear()
 
-        # Check if paragraph has a label like "Author:", "Historical Context:", etc.
-        label_match = re.match(r'^([A-Za-z][^:]{2,40}):\s*(.+)', joined)
+        # Check if paragraph has a label like "Author:", "Title:", "Purpose:", etc.
+        label_match = re.match(r'^([A-Za-z][^:]{2,50}):\s*(.+)', joined)
         if label_match:
             label = label_match.group(1).strip()
             content = label_match.group(2).strip()
-            items.append(f'                    <li><strong>{escape(label)}:</strong> {escape(content)}</li>')
+            html_parts.append(
+                f'                    <div class="auth-item">'
+                f'<span class="auth-label">{escape(label)}:</span> '
+                f'{escape(content)}</div>'
+            )
         else:
-            items.append(f'                    <li>{escape(joined)}</li>')
+            html_parts.append(f'                    <div class="auth-item">{escape(joined)}</div>')
 
-    if items:
-        return "<ul>\n" + "\n".join(items) + "\n                </ul>"
+    def flush_sublist():
+        """Process accumulated sublist items into HTML."""
+        if not sublist_items:
+            return
+        html_parts.append('                    <ul class="auth-sublist">')
+        for item in sublist_items:
+            html_parts.append(f'                        <li>{escape(item)}</li>')
+        html_parts.append('                    </ul>')
+        sublist_items.clear()
+
+    for line in lines:
+        stripped = line.strip()
+
+        if not stripped:
+            # Blank line — flush current paragraph
+            if in_sublist:
+                flush_sublist()
+                in_sublist = False
+            else:
+                flush_paragraph()
+            continue
+
+        # Check if line is a sub-list item (starts with - or •)
+        if stripped.startswith('-') or stripped.startswith('•'):
+            # Flush any pending paragraph first
+            if current_paragraph:
+                flush_paragraph()
+            in_sublist = True
+            sublist_items.append(stripped.lstrip('-•').strip())
+            continue
+
+        # Check if line is indented continuation of a sub-list item
+        if in_sublist and (line.startswith('  ') or line.startswith('\t')):
+            # Append to last sublist item
+            if sublist_items:
+                sublist_items[-1] += ' ' + stripped
+            continue
+
+        # Regular line — if we were in a sublist, flush it
+        if in_sublist:
+            flush_sublist()
+            in_sublist = False
+
+        current_paragraph.append(stripped)
+
+    # Flush remaining content
+    if in_sublist:
+        flush_sublist()
+    if current_paragraph:
+        flush_paragraph()
+
+    if html_parts:
+        return "\n".join(html_parts)
     return "<p>No authorship information available for this chapter.</p>"
 
 
