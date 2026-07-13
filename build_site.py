@@ -891,14 +891,10 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
 
     if summary:
         tab_headers.append(('summary', 'Summary'))
-    if key_verses:
-        tab_headers.append(('keyverses', 'Key Verses'))
     if authorship:
         tab_headers.append(('authorship', 'Authorship & Background'))
     if map_geo:
         tab_headers.append(('mapgeo', 'Map & Geography'))
-    # Glossary is auto-generated from translation text, always show
-    tab_headers.append(('glossary', 'Glossary'))
     if cross_refs:
         tab_headers.append(('crossref', 'Cross-References'))
     if commentary:
@@ -920,14 +916,10 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
         active = " active" if i == 0 else ""
         if tid == "summary":
             content = f"<p>{escape(summary)}</p>"
-        elif tid == "keyverses":
-            content = render_key_verses(key_verses)
         elif tid == "authorship":
             content = render_authorship(authorship)
         elif tid == "mapgeo":
             content = render_map_geography(map_geo)
-        elif tid == "glossary":
-            content = render_auto_glossary(all_verses)
         elif tid == "crossref":
             content = f"<ul>\n{render_section_as_list(cross_refs)}\n                </ul>"
         elif tid == "commentary":
