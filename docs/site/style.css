@@ -163,20 +163,22 @@ body {
     align-items: center;
     justify-content: center;
     font-size: 0.8rem;
-    border: 1px solid var(--border-light);
+    border: 1px solid #d4c4a8;
     border-radius: var(--radius-sm);
-    background: var(--bg-card);
-    color: var(--text-secondary);
+    background: #faf5ed;
+    color: var(--accent-brown);
     cursor: pointer;
     transition: all 0.15s;
     text-decoration: none;
+    font-weight: 500;
 }
 
-.chapter-btn:hover { background: var(--bg-secondary); color: var(--text-primary); }
+.chapter-btn:hover { background: #f0e4d4; color: var(--text-primary); border-color: #c9a96e; }
 .chapter-btn.active {
-    background: var(--accent-brown);
-    color: #fff;
-    border-color: var(--accent-brown);
+    background: #8b3a2a;
+    color: #faf5ed;
+    border-color: #8b3a2a;
+    font-weight: 700;
 }
 
 /* RIGHT PANEL */
@@ -300,6 +302,7 @@ body {
     -webkit-overflow-scrolling: auto;
     user-select: none;
     -webkit-user-select: none;
+    position: relative;
 }
 
 .study-tab {
@@ -406,13 +409,18 @@ body {
     .right-panel { display: none; }
     .main-content { margin-left: 0; margin-right: 0; padding: 20px 16px; }
     .hamburger { display: block; }
-    .nav-brand { font-size: 1rem; }
+    .nav-brand { display: none; }
+    .top-nav { padding: 0 10px; height: auto; min-height: 56px; flex-wrap: wrap; padding-top: 6px; padding-bottom: 6px; }
+    .nav-center { gap: 4px; justify-content: flex-start; flex-wrap: wrap; }
+    .nav-book-select, .nav-chapter-select { font-size: 0.8rem; padding: 5px 6px; max-width: 110px; }
+    .nav-translation { font-size: 0.75rem; padding: 5px 8px; }
+    .trans-info-btn { display: none; }
     .scripture-container { padding: 20px 18px; }
     .verse { font-size: 0.95rem; line-height: 1.85; }
     .book-header h1 { font-size: 1.5rem; }
-    .study-tabs { gap: 0; }
-    .study-tab { padding: 8px 12px; font-size: 0.8rem; }
-    .tab-content { padding: 20px 18px; }
+    .study-tabs { gap: 0; overflow-x: hidden; flex-wrap: wrap; touch-action: manipulation; }
+    .study-tab { padding: 8px 12px; font-size: 0.8rem; touch-action: manipulation; }
+    .tab-content { padding: 20px 18px; touch-action: pan-y; -webkit-overflow-scrolling: auto; }
 }
 
 .sidebar-overlay {

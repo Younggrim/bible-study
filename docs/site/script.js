@@ -34,6 +34,14 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
+    // Prevent touch-drag on the tab bar (mobile fix)
+    var tabBar = document.querySelector('.study-tabs');
+    if (tabBar) {
+        tabBar.addEventListener('touchmove', function(e) {
+            e.preventDefault();
+        }, { passive: false });
+    }
+
     // Book select navigation
     const bookSelect = document.querySelector('.nav-book-select');
     const chapterSelect = document.querySelector('.nav-chapter-select');
