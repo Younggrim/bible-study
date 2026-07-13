@@ -107,26 +107,46 @@ Charles Spurgeon:
   overwhelm. Not through our own strength but through Him that loved us.
   His love is the power behind our victory."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "who walk not after the flesh, but after the Spirit" / ESV: "for those who are in Christ Jesus" — This
        clause is absent from the oldest manuscripts (ESV/NET omit it here).
        It likely was added from v.4. The point stands: no condemnation for
        those in Christ — period.
+       NET: "There is therefore now no condemnation for those
+       who are in Christ Jesus" — "no condemnation" (ouden katakrima)
+       — a legal verdict: NOT GUILTY. WEB: "There is therefore now
+       no condemnation to those who are in Christ Jesus." Some
+       manuscripts add "who walk not after the flesh" — NET/ESV omit
+       this as likely imported from v.4.
 
 v.15 — KJV: "Abba, Father" / ESV: "we cry, “Abba! Father!”" — Aramaic + Greek for "Father." The intimate
        family word (like "Dad") combined with the formal title. Believers
        have both intimate access and reverent respect.
+       NET: "you received the Spirit of adoption, by whom we cry
+       'Abba, Father'" — "adoption" (huiothesias = placement as
+       sons). WEB: "the Spirit of adoption." KJV: "the Spirit of
+       adoption." Not just forgiveness but FAMILY — full rights as
+       heirs. "Abba" = Aramaic intimate address for father.
 
 v.26 — KJV: "the Spirit itself" — ESV: "the Spirit himself" — The Greek
        "auto" is neuter (matching "pneuma," a neuter noun) but refers to a
        person. Modern translations use "himself" to reflect the Spirit's
        personhood.
+       NET: "the Spirit himself intercedes for us with inexpressible
+       groanings" — "inexpressible groanings" (stenagmois
+       alalEtois = wordless/unspeakable groans). WEB: "with
+       groanings which can't be uttered." KJV: "with groanings
+       which cannot be uttered." Prayer beyond language.
 
 v.28 — KJV: "all things work together for good" / ESV: Both equivalent. — Not that all things ARE
        good but that God WORKS them together for good. The individual
        ingredients may be bitter; the final product is good.
+       NET: "And we know that all things work together for good
+       for those who love God" — "work together" (synergei = co-
+       operate). WEB: "all things work together for good." KJV:
+       "all things work together for good." Not that all things
+       ARE good, but that God weaves them toward good.
 
 v.29 — KJV: "foreknow... predestinate... called... justified... glorified" / ESV: "For those whom he foreknew he also predestined to be conformed" —
        All aorist (past) tense — including "glorified." Our future
@@ -134,33 +154,6 @@ v.29 — KJV: "foreknow... predestinate... called... justified... glorified" / E
 
 v.37 — KJV: "more than conquerors" / ESV: Both equivalent. — Greek "hupernikōmen" — super-conquerors,
        overwhelming victors. Not just winning but winning decisively.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "There is therefore now no condemnation for those
-       who are in Christ Jesus" — "no condemnation" (ouden katakrima)
-       — a legal verdict: NOT GUILTY. WEB: "There is therefore now
-       no condemnation to those who are in Christ Jesus." Some
-       manuscripts add "who walk not after the flesh" — NET/ESV omit
-       this as likely imported from v.4.
-
-v.15 — NET: "you received the Spirit of adoption, by whom we cry
-       'Abba, Father'" — "adoption" (huiothesias = placement as
-       sons). WEB: "the Spirit of adoption." KJV: "the Spirit of
-       adoption." Not just forgiveness but FAMILY — full rights as
-       heirs. "Abba" = Aramaic intimate address for father.
-
-v.26 — NET: "the Spirit himself intercedes for us with inexpressible
-       groanings" — "inexpressible groanings" (stenagmois
-       alalEtois = wordless/unspeakable groans). WEB: "with
-       groanings which can't be uttered." KJV: "with groanings
-       which cannot be uttered." Prayer beyond language.
-
-v.28 — NET: "And we know that all things work together for good
-       for those who love God" — "work together" (synergei = co-
-       operate). WEB: "all things work together for good." KJV:
-       "all things work together for good." Not that all things
-       ARE good, but that God weaves them toward good.
 
 v.38 — NET: "For I am convinced that neither death, nor life...
        will be able to separate us from the love of God" —

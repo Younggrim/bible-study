@@ -98,12 +98,23 @@ Charles Spurgeon:
   All have sinned and come short. The ground is level at the foot of the
   cross — every person stands equally condemned and equally in need of grace."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.10 — NET: "There is no one righteous, not even one" — Paul
+       begins a catena of OT quotations (Psalms, Isaiah, Ecclesiastes).
+       WEB: "There is no one righteous; no, not one." KJV: "There
+       is none righteous, no, not one." The universal indictment.
 
 v.20 — KJV: "by the deeds of the law there shall no flesh be justified" / ESV: "For by works of the law no human being will be justified" —
        The Law was never designed to save — only to reveal sin. It is a
        mirror, not a soap. It shows you the dirt; it cannot wash it off.
+
+v.21 — NET: "But now apart from the law the righteousness of God
+       has been disclosed" — "disclosed" (pephanerOtai = made
+       manifest/revealed). WEB: "a righteousness of God has been
+       revealed." KJV: "the righteousness of God without the law
+       is manifested." A new era: righteousness available without
+       law-keeping.
 
 v.22 — KJV: "the righteousness of God which is by faith of Jesus Christ" —
        ESV: "through faith in Jesus Christ" — The Greek can mean "faith in
@@ -113,43 +124,27 @@ v.22 — KJV: "the righteousness of God which is by faith of Jesus Christ" —
 v.24 — KJV: "justified freely" / ESV: "and are justified by his grace as" — Greek "dorean" — as a gift, without cost,
        gratis. Justification costs the believer nothing — it cost Christ
        everything.
-
-v.25 — KJV: "propitiation" / ESV: Both equivalent. — Greek "hilastērion" — the mercy seat (the lid
-       of the Ark of the Covenant where blood was sprinkled on the Day of
-       Atonement). Christ IS the mercy seat — the place where God's wrath
-       is satisfied and mercy is dispensed.
-
-v.26 — KJV: "just, and the justifier" / ESV: "he might be just and the justifier" — The great theological problem: how
-       can a just God forgive guilty sinners without compromising His justice?
-       Answer: Christ bore the penalty, satisfying justice, so God can justify
-       believers without being unjust.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.10 — NET: "There is no one righteous, not even one" — Paul
-       begins a catena of OT quotations (Psalms, Isaiah, Ecclesiastes).
-       WEB: "There is no one righteous; no, not one." KJV: "There
-       is none righteous, no, not one." The universal indictment.
-
-v.21 — NET: "But now apart from the law the righteousness of God
-       has been disclosed" — "disclosed" (pephanerOtai = made
-       manifest/revealed). WEB: "a righteousness of God has been
-       revealed." KJV: "the righteousness of God without the law
-       is manifested." A new era: righteousness available without
-       law-keeping.
-
-v.24 — NET: "justified freely by his grace through the redemption
+       NET: "justified freely by his grace through the redemption
        that is in Christ Jesus" — "freely" (dOrean = as a gift/
        without cause). WEB: "being justified freely by his grace."
        KJV: "justified freely by his grace." We contribute nothing
        to our justification.
 
-v.25 — NET: "God publicly displayed him at his death as the mercy
+v.25 — KJV: "propitiation" / ESV: Both equivalent. — Greek "hilastērion" — the mercy seat (the lid
+       of the Ark of the Covenant where blood was sprinkled on the Day of
+       Atonement). Christ IS the mercy seat — the place where God's wrath
+       is satisfied and mercy is dispensed.
+       NET: "God publicly displayed him at his death as the mercy
        seat accessible through faith" — "mercy seat" (hilastErion)
        — the lid of the Ark where blood was sprinkled on Atonement
        Day. KJV: "propitiation." WEB: "a sacrifice of atonement."
        NET's rendering connects Christ directly to the Day of
        Atonement imagery.
+
+v.26 — KJV: "just, and the justifier" / ESV: "he might be just and the justifier" — The great theological problem: how
+       can a just God forgive guilty sinners without compromising His justice?
+       Answer: Christ bore the penalty, satisfying justice, so God can justify
+       believers without being unjust.
 
 v.28 — NET: "For we consider that a person is declared righteous
        by faith apart from the works of the law" — "declared

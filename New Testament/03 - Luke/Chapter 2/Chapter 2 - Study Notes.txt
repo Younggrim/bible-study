@@ -107,8 +107,14 @@ Charles Spurgeon:
   is not instruction about what you must do; it is announcement of what
   God has done."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.1  — NET: "Now in those days a decree went out from Caesar
+       Augustus to register all the empire" — "register all the
+       empire" vs. KJV "that all the world should be taxed." WEB:
+       "a decree went out from Caesar Augustus that all the world
+       should be enrolled." The census was for taxation purposes.
+
 v.2  — KJV: "this taxing was first made when Cyrenius was governor of Syria"
        / ESV: "This was the first registration when Quirinius was governor
        of Syria" — Both equivalent in meaning. This has been a historical
@@ -122,33 +128,18 @@ v.7  — KJV: "inn" / ESV: "inn" — Both identical. Greek "kataluma" — could
        room in Luke 22:11). Some scholars suggest it was a guest room in a
        relative's house, not a commercial inn. The point: there was no proper
        space for the birth.
+       NET: "she wrapped him in strips of cloth and laid him in
+       a manger" — "strips of cloth" (sparganōsen) vs. KJV
+       "swaddling clothes." WEB: "wrapped him in bands of cloth."
+       The King of Glory placed where animals eat — humility from
+       His first breath.
 
 v.14 — KJV: "good will toward men" — ESV: "among those with whom he is
        pleased" — The Greek manuscripts differ. KJV follows the majority
        text (eudokia — nominative); ESV follows older manuscripts (eudokias —
        genitive). The difference: God's general goodwill vs. peace for those
        God has chosen.
-
-v.49 — KJV: "about my Father's business" — ESV: "in my Father's house" —
-       Greek "en tois tou patros mou" — literally "in the things of my Father."
-       Both translations are valid — Jesus is claiming God as His Father and
-       His affairs/house as His proper place.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "Now in those days a decree went out from Caesar
-       Augustus to register all the empire" — "register all the
-       empire" vs. KJV "that all the world should be taxed." WEB:
-       "a decree went out from Caesar Augustus that all the world
-       should be enrolled." The census was for taxation purposes.
-
-v.7  — NET: "she wrapped him in strips of cloth and laid him in
-       a manger" — "strips of cloth" (sparganōsen) vs. KJV
-       "swaddling clothes." WEB: "wrapped him in bands of cloth."
-       The King of Glory placed where animals eat — humility from
-       His first breath.
-
-v.14 — NET: "Glory to God in the highest, and on earth peace
+       NET: "Glory to God in the highest, and on earth peace
        among people with whom he is pleased!" — "people with whom
        he is pleased" vs. KJV "good will toward men." A significant
        difference: God's peace directed toward those He favors,
@@ -160,6 +151,11 @@ v.29 — NET: "Now, according to your word, Sovereign Lord, permit
        (despota) — not the usual kyrios but a word emphasizing
        absolute authority. KJV: "Lord." WEB: "Now you are
        releasing your servant, Master."
+
+v.49 — KJV: "about my Father's business" — ESV: "in my Father's house" —
+       Greek "en tois tou patros mou" — literally "in the things of my Father."
+       Both translations are valid — Jesus is claiming God as His Father and
+       His affairs/house as His proper place.
 
 v.52 — NET: "And Jesus increased in wisdom and in stature, and
        in favor with God and with people" — all translations

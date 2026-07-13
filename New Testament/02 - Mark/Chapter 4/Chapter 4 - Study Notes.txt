@@ -91,7 +91,7 @@ Charles Spurgeon:
   Without effort. If He can calm the sea with a word, He can calm your
   storm too."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.12 — KJV: "lest at any time they should be converted" / ESV: "lest they
        should turn and be forgiven" — The ESV is more literal to the Greek.
@@ -99,6 +99,11 @@ v.12 — KJV: "lest at any time they should be converted" / ESV: "lest they
        in parables to prevent understanding. The purpose is judicial — those
        who have already rejected clear teaching are given parables that further
        conceal truth from hard hearts while revealing it to seeking hearts.
+       NET: "so that although they look they may look but not
+       see, and although they hear they may hear but not understand,
+       so they may not repent and be forgiven" — makes explicit
+       the purpose clause. The "so that" (Greek hina) is debated:
+       purpose or result? NET takes it as purpose.
 
 v.19 — KJV: "the cares of this world, and the deceitfulness of riches, and
        the lusts of other things" / ESV: "the cares of the world and the
@@ -107,33 +112,24 @@ v.19 — KJV: "the cares of this world, and the deceitfulness of riches, and
        (2) the false promise of wealth, (3) desire for anything that competes
        with God. These are the most common killers of spiritual fruitfulness.
 
-v.38 — KJV: "asleep on a pillow" / ESV: "asleep on the cushion" — Both
-       equivalent. Only Mark mentions the pillow/cushion (Greek:
-       proskephalaion). A vivid eyewitness detail (likely from Peter). Jesus
-       was genuinely exhausted — fully human — yet fully in control.
-
-v.39 — KJV: "Peace, be still" / ESV: "Peace! Be still!" — Both identical.
-       Greek "siōpa, pephimōso" — literally "Be silent! Be muzzled!" — the
-       same language used for silencing demons (1:25). Jesus commands nature
-       with the same authority He commands the spiritual realm.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.12 — NET: "so that although they look they may look but not
-       see, and although they hear they may hear but not understand,
-       so they may not repent and be forgiven" — makes explicit
-       the purpose clause. The "so that" (Greek hina) is debated:
-       purpose or result? NET takes it as purpose.
-
 v.29 — NET: "he sends for the sickle because the harvest has
        come" — "sends for the sickle" rather than KJV "putteth in
        the sickle." ASV: "putteth forth the sickle." The imagery
        is of dispatching reapers, not personal action.
 
-v.38 — NET: "Teacher, don't you care that we are about to die?"
+v.38 — KJV: "asleep on a pillow" / ESV: "asleep on the cushion" — Both
+       equivalent. Only Mark mentions the pillow/cushion (Greek:
+       proskephalaion). A vivid eyewitness detail (likely from Peter). Jesus
+       was genuinely exhausted — fully human — yet fully in control.
+       NET: "Teacher, don't you care that we are about to die?"
        — more colloquial and urgent than KJV "Master, carest thou
        not that we perish?" WEB: "Teacher, don't you care that
        we are dying?" The panic is palpable in all versions.
+
+v.39 — KJV: "Peace, be still" / ESV: "Peace! Be still!" — Both identical.
+       Greek "siōpa, pephimōso" — literally "Be silent! Be muzzled!" — the
+       same language used for silencing demons (1:25). Jesus commands nature
+       with the same authority He commands the spiritual realm.
 
 v.41 — NET: "they were overwhelmed by fear" — stronger than KJV
        "feared exceedingly" or ESV "filled with great fear." WEB:

@@ -100,7 +100,7 @@ Charles Spurgeon:
  everything? Smyrna was asked to pay the highest price — and promised the
  highest reward: the crown of life."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "angel" / ESV: Both equivalent. — Greek "angelos" — messenger. Could be: (1) a literal
  angel assigned to each church, (2) the pastor/leader of each church,
@@ -112,12 +112,23 @@ v.4 — KJV: "left thy first love" / ESV: "abandoned the love you had at
  but deliberately left. ESV uses "abandoned" making the deliberate
  action more explicit. "First love" — the initial passionate devotion
  to Christ.
+       NET: "you have left your first love" — "left"
+       (aphEkes = abandoned/forsaken). WEB: "you left your first
+       love." KJV: "thou hast left thy first love." Ephesus had
+       orthodoxy and labor but lost passionate devotion — activity
+       without affection.
 
 v.6 — KJV: "Nicolaitanes" / ESV: "Nicolaitans" — Greek "Nikolaitōn" — A
  sect whose exact identity is debated. The name means "conqueror of the
  people." Likely promoted moral compromise — mixing Christianity with
  pagan practices. Both translations transliterate; KJV uses older
  English spelling.
+
+v.7  — NET: "To the one who conquers, I will permit him to eat
+       from the tree of life" — "conquers" (tO nikOnti = the one
+       who overcomes/is victorious). WEB: "To him who overcomes."
+       KJV: "To him that overcometh." Each of the seven letters
+       ends with a promise to the overcomer.
 
 v.9 — KJV: "synagogue of Satan" / ESV: Both equivalent. — Jews who persecuted Christians. They
  claimed to be God's people but served Satan's purposes through
@@ -126,6 +137,12 @@ v.9 — KJV: "synagogue of Satan" / ESV: Both equivalent. — Jews who persecute
 v.10 — KJV: "ten days" / ESV: Both equivalent. — Could be: (1) literal ten days, (2) ten specific
  persecutions, or (3) a brief, limited period. The point: suffering is
  real but limited.
+       NET: "Do not be afraid of the things you are about to
+       suffer... Be faithful until death, and I will give you the
+       crown of life" — "crown" (stephanon = victor's wreath).
+       WEB: "the crown of life." KJV: "a crown of life." Smyrna
+       receives no rebuke — only encouragement for coming
+       martyrdom.
 
 v.13 — KJV: "Satan's seat" / ESV: "Satan's throne" — Greek "thronos tou
  Satana" — ESV translates "thronos" more precisely as "throne" (same
@@ -137,29 +154,7 @@ v.17 — KJV: "white stone" / ESV: Both equivalent. — Possibly: (1) a voting s
  ticket of admission (to a feast), (3) a victory token (in games).
  "New name" — a personal, intimate name known only to the recipient
  and Christ.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.4  — NET: "you have left your first love" — "left"
-       (aphEkes = abandoned/forsaken). WEB: "you left your first
-       love." KJV: "thou hast left thy first love." Ephesus had
-       orthodoxy and labor but lost passionate devotion — activity
-       without affection.
-
-v.7  — NET: "To the one who conquers, I will permit him to eat
-       from the tree of life" — "conquers" (tO nikOnti = the one
-       who overcomes/is victorious). WEB: "To him who overcomes."
-       KJV: "To him that overcometh." Each of the seven letters
-       ends with a promise to the overcomer.
-
-v.10 — NET: "Do not be afraid of the things you are about to
-       suffer... Be faithful until death, and I will give you the
-       crown of life" — "crown" (stephanon = victor's wreath).
-       WEB: "the crown of life." KJV: "a crown of life." Smyrna
-       receives no rebuke — only encouragement for coming
-       martyrdom.
-
-v.17 — NET: "I will give him some of the hidden manna, and I will
+       NET: "I will give him some of the hidden manna, and I will
        give him a white stone, and on that stone will be written a
        new name" — "white stone" (psEphon leukEn) — debated:
        acquittal stone? admission ticket? victory token? Personal

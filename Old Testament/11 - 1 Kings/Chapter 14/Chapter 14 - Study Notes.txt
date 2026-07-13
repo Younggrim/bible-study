@@ -197,7 +197,7 @@ Charles Spurgeon:
   themselves rich! How many Christians keep up the outward show of
   devotion while the heart has long since departed from God!"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3  — KJV: "cracknels" / ESV: "some cakes" — Hebrew "niqqudim"
        = a type of hard biscuit or crumbled cake. KJV uses the
@@ -232,51 +232,6 @@ v.24 — KJV: "sodomites" / ESV: "male cult prostitutes" — Hebrew
        to ritual sexual acts in pagan worship. KJV's "sodomites"
        reflects the association with Genesis 19; ESV clarifies the
        cultic/religious context of the practice.
-
-GLOSSARY
-------------------------------------
-Ahijah        — "Brother of Yahweh" — the prophet from Shiloh who
-              first promised Jeroboam the kingdom (11:29-39) and now
-              pronounces its destruction. His blindness in old age
-              contrasts with his spiritual sight — he sees what the
-              disguised woman cannot hide.
-
-Tirzah        — The capital of the northern kingdom of Israel before
-              Omri built Samaria (16:24). A city of noted beauty
-              (Song of Solomon 6:4). Located about 7 miles northeast
-              of Shechem. Jeroboam's royal residence.
-
-Shishak       — Pharaoh Shoshenq I of Egypt (943-922 BC), founder
-              of the 22nd Dynasty. His invasion of Judah is
-              confirmed by the Bubastite Portal inscription at
-              Karnak, which lists over 150 conquered cities. He had
-              previously sheltered Jeroboam (11:40).
-
-Naamah        — "Pleasant" — an Ammonitess, one of Solomon's
-              foreign wives and mother of Rehoboam. Mentioned twice
-              in this chapter (vv.21, 31), emphasizing that Solomon's
-              forbidden marriages produced the next generation's
-              unfaithful kings.
-
-Asherim/      — Wooden poles or carved images representing Asherah,
-Groves          the Canaanite mother-goddess and consort of Baal.
-              Often set up beside altars on high places. Their
-              presence in Judah indicates full adoption of Canaanite
-              worship practices.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.7 — ASV: "I exalted thee from among the people, and made thee prince over my people Israel" / WEB: "I exalted you from among the people, and made you prince over my people Israel" / NET: "I raised you up from among the people and made you ruler over my people Israel" — Hebrew "nagid" = prince/leader/designated ruler. ASV/WEB use "prince" which preserves the Hebrew sense of a divinely appointed leader under God's ultimate sovereignty; NET's "ruler" is equivalent but loses the nuance of subordinate authority.
-
-- v.9 — ASV: "hast cast me behind thy back" / WEB: "have cast me behind your back" / NET: "you have completely disregarded me" — Hebrew "vatashlek 'oti 'acharei gavveka" = literally "you have thrown me behind your back." This vivid idiom pictures God being discarded like refuse — thrown over the shoulder and forgotten. NET's "completely disregarded" captures the meaning but loses the physical, violent imagery of the Hebrew.
-
-- v.10 — ASV: "will cut off from Jeroboam every man-child" / WEB: "will cut off from Jeroboam everyone who urinates on a wall" / NET: "I will cut off every last male belonging to Jeroboam" — Hebrew "mashtin b'qir" = literally "one urinating against a wall" (a crude idiom for males). WEB is most literal; ASV euphemizes to "man-child"; NET smooths to "every last male." The vulgar Hebrew idiom expresses divine contempt for the dynasty.
-
-- v.15 — ASV: "they have made their Asherim, provoking Jehovah to anger" / WEB: "they have made their Asherah poles, provoking Yahweh to anger" / NET: "they angered the Lord by making Asherah poles" — Hebrew "Asherim" = Asherah poles (wooden cult objects representing the Canaanite goddess). ASV uses the Hebrew plural form; WEB/NET translate as "Asherah poles." These were idolatrous worship objects planted near altars, representing the fertility goddess.
-
-- v.22 — ASV: "Judah did that which was evil in the sight of Jehovah" / WEB: "Judah did that which was evil in Yahweh's sight" / NET: "Judah did evil in the sight of the Lord" — The formulaic judgment phrase (Heb. "vaya'as ha-ra b'einei YHWH") now applied to the southern kingdom also. This formula evaluates every king in 1-2 Kings and structures the entire narrative.
-
-- v.24 — ASV: "there were also sodomites in the land" / WEB: "There were also sodomites in the land" / NET: "There were also male cultic prostitutes in the land" — Hebrew "qadeshim" = literally "holy ones/consecrated ones" (from qadash = holy). These were males dedicated to pagan worship involving ritual sexuality. ASV/WEB's "sodomites" is an older translation reflecting KJV tradition; NET's "male cultic prostitutes" more precisely describes the religious function of these figures in Canaanite worship.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

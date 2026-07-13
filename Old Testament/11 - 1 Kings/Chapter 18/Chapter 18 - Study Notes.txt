@@ -204,7 +204,7 @@ Charles Spurgeon:
   worship, repair what sin has broken — and then the fire will
   fall. It always does."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.21 — KJV: "How long halt ye between two opinions?" / ESV: "How
        long will you go limping between two different opinions?" —
@@ -250,55 +250,6 @@ v.46 — KJV: "he girded up his loins" / ESV: "he gathered up his
        tuck the robe into the belt for running. KJV preserves the
        idiom; ESV explains the action. Both convey that Elijah
        prepared physically for supernatural exertion.
-
-GLOSSARY
-------------------------------------
-Mount Carmel  — A prominent ridge extending into the Mediterranean
-              Sea in northern Israel, rising 1,742 feet. Its name
-              means "vineyard of God" or "garden-land." It was a
-              boundary between Israelite and Phoenician territory,
-              making it the perfect location for a contest between
-              Yahweh and the Phoenician Baal. Its height made the
-              events visible to a large audience.
-
-Baal          — Literally "lord" or "master." The chief Canaanite/
-              Phoenician deity, a storm and fertility god believed
-              to control rain, thunder, and agricultural abundance.
-              Jezebel, a Sidonian princess, had imported his worship
-              as state religion. The drought directly challenged
-              Baal's supposed domain.
-
-Asherah       — A Canaanite mother-goddess, consort of El (or Baal
-              in some traditions). Her worship involved sacred poles
-              or trees (asherim) and ritual prostitution. The 400
-              prophets of Asherah "ate at Jezebel's table" — they
-              were state-funded clergy of the queen's religion.
-
-Brook Kishon  — A seasonal river/wadi at the base of Mount Carmel,
-              flowing northwest to the Mediterranean. The site of
-              Deborah's victory over Sisera (Judges 4-5) and now
-              the site of judgment on Baal's prophets. A place
-              associated with God's victories over pagan enemies.
-
-Obadiah       — "Servant of Yahweh" — Ahab's palace administrator
-              who secretly feared the LORD and hid 100 prophets
-              from Jezebel's purge. He represents faithful believers
-              serving in hostile environments — compromised in
-              position but not in conviction.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.21 — ASV: "How long go ye limping between the two sides?" / WEB: "How long will you waver between the two sides?" / NET: "How long are you going to be paralyzed by indecision?" — Hebrew "pasach" = to limp/hop (used of the Baal prophets' dance in v.26). ASV's "limping" is most literal — the people are limping between two opinions like crippled birds. WEB's "waver" and NET's "paralyzed by indecision" lose the physical/mocking image of hobbling back and forth. This verb deliberately connects to the Baal prophets' frantic dancing later.
-
-- v.39 — ASV: "Jehovah, he is God; Jehovah, he is God" / WEB: "Yahweh, he is God! Yahweh, he is God!" / NET: "The Lord is the true God! The Lord is the true God!" — Hebrew "YHWH hu ha-elohim" = "YHWH, He is THE God." The people's confession uses God's covenant name. NET adds "true" (not in Hebrew) and loses the emphatic pronoun "hu" (He!) which makes this a personal identification: YHWH — HE is God, not Baal. This confession becomes the name "Elijah" itself (Eli-Yahu = "My God is YHWH").
-
-- v.36 — ASV: "O Jehovah, the God of Abraham, of Isaac, and of Israel" / WEB: "Yahweh, the God of Abraham, of Isaac, and of Israel" / NET: "O Lord God of Abraham, Isaac, and Israel" — Elijah deliberately invokes the patriarchal covenant God — establishing continuity with Abraham's faith against Baal's claim. Note: "Israel" (not "Jacob") — the covenant name given by God at Bethel, the very place Jeroboam desecrated.
-
-- v.27 — ASV: "he is musing, or he is gone aside, or he is on a journey, or peradventure he sleepeth" / WEB: "he is deep in thought, or he has gone somewhere, or he is on a journey, or perhaps he sleeps" / NET: "he may be deep in thought, or perhaps he stepped out for a moment or has taken a trip. Perhaps he is sleeping" — Hebrew "siyach" = musing/meditating; "sig" = "gone aside" (possibly a euphemism for using the toilet). ASV's "gone aside" preserves this crude prophetic mockery; WEB/NET soften it. Elijah's sarcasm is devastating — contrasting Baal's impotence with YHWH's immediate power.
-
-- v.37 — ASV: "thou hast turned their heart back again" / WEB: "you have turned their heart back again" / NET: "you are winning back their allegiance" — Hebrew "hasibota et-libbam achoranit" = "you have turned their heart backward/back." ASV/WEB preserve the heart-turning language (teshuvah/repentance theology — God turns hearts). NET's "winning back their allegiance" is political language that replaces the biblical concept of God sovereignly turning human hearts.
-
-- v.17 — ASV: "thou troubler of Israel" / WEB: "you troubler of Israel" / NET: "the one who brings disaster on Israel" — Hebrew "'oker yisra'el" = "troubler/disturber of Israel" (from 'akar = to trouble/bring disaster). Ahab's accusation is ironic — the true troubler is Ahab himself (v.18). All translations convey this adequately.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

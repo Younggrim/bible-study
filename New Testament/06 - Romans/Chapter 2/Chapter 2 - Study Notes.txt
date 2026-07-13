@@ -89,33 +89,20 @@ Charles Spurgeon:
   Spirit on the heart. External religion without internal transformation is
   worthless. God looks at the heart, not the ritual."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.4  — KJV: "leadeth thee to repentance" / ESV: "is meant to lead you to repentance?" — Greek "agei" — leads, guides,
        brings. God's kindness is not passive — it actively leads toward
        repentance. But it can be "despised" (v.4) — resisted and ignored.
-
-v.5  — KJV: "treasurest up unto thyself wrath" / ESV: "heart you are storing up wrath for yourself" — A terrifying image: every
-       day of unrepentance adds to a growing treasury of wrath that will be
-       revealed on judgment day.
-
-v.14 — KJV: "do by nature the things contained in the law" / ESV: "by nature do what the law requires, they are a law" — Gentiles who
-       never received the Mosaic Law still have moral awareness — conscience
-       (v.15). This is "natural law" — God's moral requirements written on
-       every human heart.
-
-v.29 — KJV: "circumcision is that of the heart, in the spirit" / ESV: "circumcision is a matter of the heart, by the Spirit, not" — Paul echoes
-       Deuteronomy 10:16 and 30:6. True covenant membership is marked by
-       internal transformation, not external ritual.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.4  — NET: "do you not realize that God's kindness leads you
+       NET: "do you not realize that God's kindness leads you
        to repentance?" — "leads" (agei = actively draws/guides).
        WEB: "the goodness of God leads you to repentance." KJV:
        "the goodness of God leadeth thee to repentance." God's
        kindness is not passive tolerance but active invitation.
+
+v.5  — KJV: "treasurest up unto thyself wrath" / ESV: "heart you are storing up wrath for yourself" — A terrifying image: every
+       day of unrepentance adds to a growing treasury of wrath that will be
+       revealed on judgment day.
 
 v.11 — NET: "For there is no partiality with God" — "partiality"
        (prosOpolEmpsia = face-receiving/favoritism). WEB: "For
@@ -123,7 +110,11 @@ v.11 — NET: "For there is no partiality with God" — "partiality"
        respect of persons with God." KJV: "no respect of persons."
        God doesn't evaluate externals.
 
-v.14 — NET: "For whenever the Gentiles, who do not have the law,
+v.14 — KJV: "do by nature the things contained in the law" / ESV: "by nature do what the law requires, they are a law" — Gentiles who
+       never received the Mosaic Law still have moral awareness — conscience
+       (v.15). This is "natural law" — God's moral requirements written on
+       every human heart.
+       NET: "For whenever the Gentiles, who do not have the law,
        do by nature the things required by the law" — "by nature"
        (physei) — the moral law written on conscience. WEB: "do by
        nature the things of the law." Gentiles have an internal
@@ -135,7 +126,10 @@ v.16 — NET: "on the day when God will judge the secrets of people,
        men." Nothing hidden will remain so. KJV: "the secrets of
        men by Jesus Christ."
 
-v.29 — NET: "but someone who is a Jew inwardly; and circumcision
+v.29 — KJV: "circumcision is that of the heart, in the spirit" / ESV: "circumcision is a matter of the heart, by the Spirit, not" — Paul echoes
+       Deuteronomy 10:16 and 30:6. True covenant membership is marked by
+       internal transformation, not external ritual.
+       NET: "but someone who is a Jew inwardly; and circumcision
        is of the heart, by the Spirit and not by the written code"
        — "by the Spirit" (en pneumati) — the true mark is spiritual,
        not physical. WEB: "in the spirit, not in the letter." KJV:

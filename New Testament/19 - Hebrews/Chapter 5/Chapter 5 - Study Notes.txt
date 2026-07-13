@@ -103,7 +103,7 @@ Charles Spurgeon:
  through practice — using what you know, applying what you learn, exercising
  your spiritual faculties daily."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2 — KJV: "have compassion" / ESV: "deal gently" — Greek "metriopathein" — to deal gently, to
  moderate one's feelings. A human priest can sympathize because he
@@ -119,46 +119,37 @@ v.7 — KJV: "strong crying and tears" / ESV: "loud cries and tears" — Greek "
  possibly the cross. "Was heard in that he feared" — Greek "eisakoustheis
  apo tēs eulabeias" — heard because of His reverent submission. God
  didn't save Him FROM death but THROUGH death (resurrection).
-
-v.8 — KJV: "learned obedience" / ESV: Both equivalent. — Greek "emathen... tēn hupakoēn" — He
- learned obedience experientially. Not that He was disobedient and
- learned to obey, but that He experienced what obedience costs in a
- fallen world — through suffering.
-
-v.9 — KJV: "made perfect" / ESV: Both equivalent. — Greek "teleiōtheis" — completed, brought to
- the goal. Not moral perfection (He was always sinless) but vocational
- completion — fully qualified as Savior through the experience of
- suffering and death.
-
-v.11 — KJV: "dull of hearing" / ESV: Both equivalent. — Greek "nōthroi tais akoais" — sluggish in
- hearing, slow to understand. Not inability but unwillingness — they've
- become lazy listeners.
-
-v.14 — KJV: "senses exercised" / ESV: "powers of discernment trained by constant practice" — Greek "aisthētēria gegumnasmena" — faculties
- trained through practice. "Gymnasium-trained" perception. Discernment
- comes through repeated use, not just knowledge.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.7  — NET: "During his earthly life Christ offered both
+       NET: "During his earthly life Christ offered both
        requests and supplications, with loud cries and tears" —
        "loud cries and tears" (meta kraugEs ischyras kai dakryOn).
        WEB: "with strong crying and tears." KJV: "with strong
        crying and tears." Gethsemane — Jesus' prayers were not
        calm and composed but agonized.
 
-v.8  — NET: "Although he was a son, he learned obedience through
+v.8 — KJV: "learned obedience" / ESV: Both equivalent. — Greek "emathen... tēn hupakoēn" — He
+ learned obedience experientially. Not that He was disobedient and
+ learned to obey, but that He experienced what obedience costs in a
+ fallen world — through suffering.
+       NET: "Although he was a son, he learned obedience through
        the things he suffered" — "learned" (emathen = learned by
        experience). WEB: "though he was a Son, yet learned
        obedience by the things which he suffered." Even the Son
        needed experiential learning — obedience was not automatic
        for His human nature.
 
-v.9  — NET: "he became the source of eternal salvation to all who
+v.9 — KJV: "made perfect" / ESV: Both equivalent. — Greek "teleiōtheis" — completed, brought to
+ the goal. Not moral perfection (He was always sinless) but vocational
+ completion — fully qualified as Savior through the experience of
+ suffering and death.
+       NET: "he became the source of eternal salvation to all who
        obey him" — "source" (aitios = cause/author). WEB: "author
        of eternal salvation." KJV: "the author of eternal
        salvation." Christ didn't just procure salvation — He IS
        its origin and cause.
+
+v.11 — KJV: "dull of hearing" / ESV: Both equivalent. — Greek "nōthroi tais akoais" — sluggish in
+ hearing, slow to understand. Not inability but unwillingness — they've
+ become lazy listeners.
 
 v.12 — NET: "you have come to need milk, not solid food" — "milk"
        (galaktos) vs. "solid food" (stereas trophEs). WEB: "you
@@ -166,7 +157,10 @@ v.12 — NET: "you have come to need milk, not solid food" — "milk"
        of milk." A rebuke: by now they should be teachers, but
        they've regressed to infancy.
 
-v.14 — NET: "solid food is for the mature, whose perceptions are
+v.14 — KJV: "senses exercised" / ESV: "powers of discernment trained by constant practice" — Greek "aisthētēria gegumnasmena" — faculties
+ trained through practice. "Gymnasium-trained" perception. Discernment
+ comes through repeated use, not just knowledge.
+       NET: "solid food is for the mature, whose perceptions are
        trained by practice to discern both good and evil" — "trained
        by practice" (gegymnasmenOn = exercised/gymnasiumed). WEB:
        "those who by reason of use have their senses exercised."

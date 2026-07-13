@@ -92,16 +92,25 @@ Charles Spurgeon:
   over his own circumstances. That is faith: being fully persuaded that
   God can do what He said He would do."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.3  — KJV: "counted unto him for righteousness" / ESV: "and it was counted to him as righteousness.”" — Greek "elogisthē" — to
        reckon, to credit, to impute. An accounting term: righteousness was
        credited to Abraham's account — not earned but deposited.
+       NET: "Abraham believed God, and it was credited to him
+       as righteousness" — "credited" (elogisthE = counted/reckoned
+       to his account). WEB: "it was accounted to him for
+       righteousness." KJV: "it was counted unto him for
+       righteousness." Accounting language — deposited to his
+       ledger by God.
 
 v.5  — KJV: "him that justifieth the ungodly" / ESV: "believes in him who justifies the ungodly, his" — A shocking statement. God
        justifies the UNGODLY — not the righteous. This is the scandal of
        grace: God declares guilty sinners righteous through faith.
+       NET: "his faith is credited as righteousness" — the one
+       who does NOT work but BELIEVES. WEB: "his faith is accounted
+       for righteousness." The paradox: the non-worker receives
+       the worker's reward. Faith receives what it cannot earn.
 
 v.11 — KJV: "a seal of the righteousness of the faith" / ESV: "as a seal of the righteousness that he had by faith" — Circumcision was
        not the cause of Abraham's righteousness but the SEAL (confirmation)
@@ -111,27 +120,7 @@ v.11 — KJV: "a seal of the righteousness of the faith" / ESV: "as a seal of th
 v.17 — KJV: "calleth those things which be not as though they were" / ESV: "to the dead and calls into existence the things that do not" — God
        speaks of non-existent things as if they already exist. He called
        Abraham "father of many nations" before he had a single child.
-
-v.25 — KJV: "raised again for our justification" / ESV: "and raised for our justification" — Christ's resurrection
-       is not just proof of His deity — it is the basis of our justification.
-       His resurrection declares that His sacrifice was accepted and our
-       debt is paid.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "Abraham believed God, and it was credited to him
-       as righteousness" — "credited" (elogisthE = counted/reckoned
-       to his account). WEB: "it was accounted to him for
-       righteousness." KJV: "it was counted unto him for
-       righteousness." Accounting language — deposited to his
-       ledger by God.
-
-v.5  — NET: "his faith is credited as righteousness" — the one
-       who does NOT work but BELIEVES. WEB: "his faith is accounted
-       for righteousness." The paradox: the non-worker receives
-       the worker's reward. Faith receives what it cannot earn.
-
-v.17 — NET: "the God who makes the dead alive and summons the
+       NET: "the God who makes the dead alive and summons the
        things that do not yet exist as though they already do" —
        "summons things that do not yet exist" (kalountos ta mE
        onta hOs onta). WEB: "calls the things that are not, as
@@ -144,7 +133,11 @@ v.19 — NET: "he did not weaken in faith, contemplating his own
        as good as dead." KJV: "his own body now dead." Abraham was
        ~100 years old — biologically hopeless.
 
-v.25 — NET: "He was given over because of our transgressions and
+v.25 — KJV: "raised again for our justification" / ESV: "and raised for our justification" — Christ's resurrection
+       is not just proof of His deity — it is the basis of our justification.
+       His resurrection declares that His sacrifice was accepted and our
+       debt is paid.
+       NET: "He was given over because of our transgressions and
        was raised for the sake of our justification" — "for the
        sake of our justification" (dia tEn dikaiOsin hEmOn). WEB:
        "raised for our justification." KJV: "raised again for our

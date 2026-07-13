@@ -85,7 +85,7 @@ Charles Spurgeon:
   yourself — with the same instinctive care you give to your own needs.
   On these two hang everything."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.11 — KJV: "wedding garment" / ESV: "wedding garment" — Both identical. In
        ancient Near Eastern culture, the host often provided garments for
@@ -93,35 +93,25 @@ v.11 — KJV: "wedding garment" / ESV: "wedding garment" — Both identical. In
        garment represents the righteousness of Christ provided freely — to
        enter without it is to reject God's provision.
 
-v.17 — KJV: "tribute" — ESV: "taxes" — Greek "kēnsos" (from Latin census) —
-       the poll tax paid directly to Rome. A deeply resented tax that
-       symbolized Jewish subjection to a pagan empire.
-
-v.21 — KJV: "Render" / ESV: "render" — Both identical. Greek "apodote" — to
-       give back what is owed, to pay a debt. Caesar's image is on the coin
-       — give it back to him. God's image is on you (Genesis 1:27) — give
-       yourself back to Him.
-
-v.44 — KJV: "The LORD said unto my Lord" / ESV: "The Lord said to my Lord" —
-       Both identical. Psalm 110:1 — Hebrew: "YHWH said to Adonai." David
-       calls the Messiah "my Lord" — but how can David's descendant also be
-       David's Lord? Only if the Messiah is both human (David's son) and
-       divine (David's Lord).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
 v.14 — NET: "For many are called, but few are chosen" —
        "called" (klEtoi) vs. "chosen" (eklektoi). WEB: "many are
        called, but few chosen." KJV: "many are called, but few are
        chosen." The wedding invitation goes widely; those who
        respond properly are the elect.
 
-v.17 — NET: "Is it right to pay taxes to Caesar or not?" — "taxes"
+v.17 — KJV: "tribute" — ESV: "taxes" — Greek "kēnsos" (from Latin census) —
+       the poll tax paid directly to Rome. A deeply resented tax that
+       symbolized Jewish subjection to a pagan empire.
+       NET: "Is it right to pay taxes to Caesar or not?" — "taxes"
        (kEnson = census tax/poll tax — Latin loanword). WEB: "Is
        it lawful to pay taxes to Caesar, or not?" A trap: yes =
        lose the crowd; no = face Rome. Jesus transcends the binary.
 
-v.21 — NET: "Give to Caesar the things that are Caesar's, and to
+v.21 — KJV: "Render" / ESV: "render" — Both identical. Greek "apodote" — to
+       give back what is owed, to pay a debt. Caesar's image is on the coin
+       — give it back to him. God's image is on you (Genesis 1:27) — give
+       yourself back to Him.
+       NET: "Give to Caesar the things that are Caesar's, and to
        God the things that are God's" — "give" (apodote = render/
        give back what is owed). WEB: "Give therefore to Caesar."
        KJV: "Render therefore unto Caesar." Coins bear Caesar's
@@ -134,7 +124,12 @@ v.37 — NET: "Love the Lord your God with all your heart, with all
        heart, with all your soul, and with all your mind." Total
        love: emotional (heart), volitional (soul), intellectual (mind).
 
-v.44 — NET: "The Lord said to my lord, 'Sit at my right hand,
+v.44 — KJV: "The LORD said unto my Lord" / ESV: "The Lord said to my Lord" —
+       Both identical. Psalm 110:1 — Hebrew: "YHWH said to Adonai." David
+       calls the Messiah "my Lord" — but how can David's descendant also be
+       David's Lord? Only if the Messiah is both human (David's son) and
+       divine (David's Lord).
+       NET: "The Lord said to my lord, 'Sit at my right hand,
        until I put your enemies under your feet'" — quoting Psalm
        110:1. WEB: "The Lord said to my Lord." KJV: "The LORD said
        unto my Lord." David's Son is also David's Lord — an

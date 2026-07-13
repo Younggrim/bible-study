@@ -87,30 +87,7 @@ Charles Spurgeon:
   with God, all things are possible. Salvation is a miracle, not an
   achievement."
 
-TRANSLATION NOTES
-------------------------------------
-v.9  — KJV: "except it be for fornication" — ESV: "except for sexual
-       immorality" — Greek "porneia" — a broad term covering all forms of
-       sexual sin (adultery, incest, prostitution). This is the "exception
-       clause" — found only in Matthew. Its interpretation is debated:
-       some see it as allowing divorce and remarriage; others see it as
-       allowing only separation.
-
-v.12 — KJV: "eunuchs, which have made themselves eunuchs for the kingdom of
-       heaven's sake" / ESV: "eunuchs who have made themselves eunuchs for
-       the sake of the kingdom of heaven" — Both essentially identical. Not
-       literal self-mutilation but voluntary celibacy for the sake of kingdom
-       service. Jesus acknowledges this is a special calling, not a universal
-       requirement.
-
-v.24 — KJV: "a camel to go through the eye of a needle" / ESV: "a camel to
-       go through the eye of a needle" — Both identical. Some suggest a small
-       gate in Jerusalem called "the eye of the needle" — but there is no
-       historical evidence for this. Jesus is using deliberate hyperbole —
-       an impossibility — to make the point that wealth creates a barrier to
-       dependence on God.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.4  — NET: "the one who made them at the beginning made them
        male and female" — "at the beginning" (ap' archEs). WEB:
@@ -125,6 +102,20 @@ v.6  — NET: "So they are no longer two, but one flesh. Therefore
        asunder." Marriage is God's work — human dissolution
        contradicts divine action.
 
+v.9  — KJV: "except it be for fornication" — ESV: "except for sexual
+       immorality" — Greek "porneia" — a broad term covering all forms of
+       sexual sin (adultery, incest, prostitution). This is the "exception
+       clause" — found only in Matthew. Its interpretation is debated:
+       some see it as allowing divorce and remarriage; others see it as
+       allowing only separation.
+
+v.12 — KJV: "eunuchs, which have made themselves eunuchs for the kingdom of
+       heaven's sake" / ESV: "eunuchs who have made themselves eunuchs for
+       the sake of the kingdom of heaven" — Both essentially identical. Not
+       literal self-mutilation but voluntary celibacy for the sake of kingdom
+       service. Jesus acknowledges this is a special calling, not a universal
+       requirement.
+
 v.14 — NET: "Let the little children come to me and do not try to
        stop them, for the kingdom of heaven belongs to such as
        these" — "do not try to stop them" (mE kOlyete = stop
@@ -137,7 +128,13 @@ v.21 — NET: "If you wish to be perfect, go sell your possessions
        "If thou wilt be perfect." Not sinlessness but wholeness —
        total devotion unhindered by possessions.
 
-v.24 — NET: "it is easier for a camel to go through the eye of a
+v.24 — KJV: "a camel to go through the eye of a needle" / ESV: "a camel to
+       go through the eye of a needle" — Both identical. Some suggest a small
+       gate in Jerusalem called "the eye of the needle" — but there is no
+       historical evidence for this. Jesus is using deliberate hyperbole —
+       an impossibility — to make the point that wealth creates a barrier to
+       dependence on God.
+       NET: "it is easier for a camel to go through the eye of a
        needle than for a rich person to enter the kingdom of God"
        — "eye of a needle" (trypEmatos rhaphidos). WEB: "the eye
        of a needle." A literal impossibility — no "small gate"

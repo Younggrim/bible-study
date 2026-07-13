@@ -92,18 +92,32 @@ Charles Spurgeon:
   It is the summary of the Gospel: righteousness is received by faith, not
   earned by works."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "separated unto the gospel" / ESV: "set apart for the gospel of God" — Greek "aphōrismenos" — set apart,
        designated. Paul's entire life was devoted to one thing: the Gospel.
+       NET: "called to be an apostle, set apart for the gospel
+       of God" — "set apart" (aphorismenos) echoes Paul's Pharisee
+       identity (pharisaios = separated one). WEB: "set apart for
+       the Good News of God." He was separated FOR something, not
+       just FROM something.
 
 v.16 — KJV: "the power of God" / ESV: Both equivalent. — Greek "dunamis theou" — dynamite, dynamic
        power. The Gospel is not information about power — it IS power.
+       NET: "For I am not ashamed of the gospel, for it is God's
+       power for salvation to everyone who believes, to the Jew
+       first and also to the Greek" — "God's power" (dynamis theou).
+       WEB: "the power of God for salvation." KJV: "the power of
+       God unto salvation." The gospel IS power, not just describes it.
 
 v.17 — KJV: "from faith to faith" / ESV: "from faith for faith" — Debated: (1) from God's faithfulness to
        our faith, (2) from one degree of faith to another, (3) by faith from
        start to finish. The point: faith is the sole instrument throughout.
+       NET: "the righteousness of God is revealed in the gospel
+       from faith to faith" — "from faith to faith" (ek pisteOs
+       eis pistin) is debated. WEB: "from faith to faith." ASV:
+       "from faith unto faith." NET preserves the ambiguity — faith
+       as starting point AND destination.
 
 v.18 — KJV: "hold the truth in unrighteousness" — ESV: "suppress the truth"
        — Greek "katechontōn" — to hold down, to suppress. Humanity doesn't
@@ -113,26 +127,6 @@ v.24,26,28 — KJV: "God gave them up/over" / ESV: "gave them up in the lusts" �
        humanity to the consequences of their choices. This is not active
        punishment but judicial abandonment — letting people have what they
        insist on.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "called to be an apostle, set apart for the gospel
-       of God" — "set apart" (aphorismenos) echoes Paul's Pharisee
-       identity (pharisaios = separated one). WEB: "set apart for
-       the Good News of God." He was separated FOR something, not
-       just FROM something.
-
-v.16 — NET: "For I am not ashamed of the gospel, for it is God's
-       power for salvation to everyone who believes, to the Jew
-       first and also to the Greek" — "God's power" (dynamis theou).
-       WEB: "the power of God for salvation." KJV: "the power of
-       God unto salvation." The gospel IS power, not just describes it.
-
-v.17 — NET: "the righteousness of God is revealed in the gospel
-       from faith to faith" — "from faith to faith" (ek pisteOs
-       eis pistin) is debated. WEB: "from faith to faith." ASV:
-       "from faith unto faith." NET preserves the ambiguity — faith
-       as starting point AND destination.
 
 v.25 — NET: "They exchanged the truth of God for a lie and
        worshiped and served the creation rather than the Creator"

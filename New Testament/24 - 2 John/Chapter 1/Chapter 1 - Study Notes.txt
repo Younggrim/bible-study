@@ -76,14 +76,24 @@ Charles Spurgeon:
  the pastor's deepest satisfaction — not numbers, not programs — people
  walking in truth."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "the elder" / ESV: Both equivalent. — Greek "ho presbuteros" —
  the old man, the elder. John's self-designation in his later years.
+       NET: "To the elect lady and her children, whom I love
+       in truth" — "elect lady" (eklektE kyria) — debated: a
+       specific woman or a church personified? WEB: "the chosen
+       lady." KJV: "the elect lady." If a church, "her children"
+       are its members; "her sister" (v.13) is another church.
 
 v.1 — KJV: "elect lady" / ESV: Both equivalent. — Greek "eklektē kuria" —
  chosen lady. Either a proper name (Lady Electa or Kyria) or a
  personification of a church.
+       NET: "To the elect lady and her children, whom I love
+       in truth" — "elect lady" (eklektE kyria) — debated: a
+       specific woman or a church personified? WEB: "the chosen
+       lady." KJV: "the elect lady." If a church, "her children"
+       are its members; "her sister" (v.13) is another church.
 
 v.6 — KJV: "walk after his commandments" / ESV: "walk according to his
  commandments" — Both equivalent. Love defined as obedience to God's
@@ -93,50 +103,38 @@ v.7 — KJV: "confess not that Jesus Christ is come in the flesh" / ESV:
  "do not confess the coming of Jesus Christ in the flesh" — Greek
  "erchomenon en sarki" — present participle: coming in flesh. The
  Gnostic heresy denied Christ's true, ongoing humanity.
-
-v.8 — KJV: "look to yourselves, that we lose not those things which we have
- wrought" / ESV: "watch yourselves, so that you may not lose what we
- have worked for" — Greek "misthon plērē" — complete reward. Don't
- lose what you've built through association with false teaching.
-
-v.9 — KJV: "transgresseth" / ESV: "goes on ahead" — Greek "proagōn" — goes
- ahead, goes beyond. Those who "progress" beyond Christ's teaching
- actually regress away from God.
-
-v.10 — KJV: "receive him not into your house" / ESV: Both equivalent. — In
- the first century, traveling teachers depended on hospitality. Hosting
- a false teacher = supporting his ministry. Don't provide a platform
- for error.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "To the elect lady and her children, whom I love
-       in truth" — "elect lady" (eklektE kyria) — debated: a
-       specific woman or a church personified? WEB: "the chosen
-       lady." KJV: "the elect lady." If a church, "her children"
-       are its members; "her sister" (v.13) is another church.
-
-v.7  — NET: "many deceivers have gone out into the world, people
+       NET: "many deceivers have gone out into the world, people
        who do not confess Jesus as Christ coming in the flesh" —
        "coming in the flesh" (erchomenon en sarki = present
        participle). WEB: "who don't confess that Jesus Christ came
        in the flesh." The incarnation as the test of orthodoxy —
        deny it and you have "the deceiver and the antichrist."
 
-v.8  — NET: "Watch out, so that you do not lose the things we
+v.8 — KJV: "look to yourselves, that we lose not those things which we have
+ wrought" / ESV: "watch yourselves, so that you may not lose what we
+ have worked for" — Greek "misthon plērē" — complete reward. Don't
+ lose what you've built through association with false teaching.
+       NET: "Watch out, so that you do not lose the things we
        have worked for" — "worked for" (eirgasametha). WEB: "Watch
        yourselves, that we don't lose the things which we have
        accomplished." KJV: "that we lose not those things which we
        have wrought." Progress can be lost — vigilance required.
 
-v.9  — NET: "Everyone who goes on ahead and does not remain in
+v.9 — KJV: "transgresseth" / ESV: "goes on ahead" — Greek "proagōn" — goes
+ ahead, goes beyond. Those who "progress" beyond Christ's teaching
+ actually regress away from God.
+       NET: "Everyone who goes on ahead and does not remain in
        the teaching of Christ does not have God" — "goes on ahead"
        (proagOn = progresses beyond). WEB: "Whoever transgresses
        and doesn't remain in the teaching of Christ." "Progress"
        beyond Christ's teaching is actually regress — departure
        from God.
 
-v.10 — NET: "do not receive him into your house and do not give
+v.10 — KJV: "receive him not into your house" / ESV: Both equivalent. — In
+ the first century, traveling teachers depended on hospitality. Hosting
+ a false teacher = supporting his ministry. Don't provide a platform
+ for error.
+       NET: "do not receive him into your house and do not give
        him any greeting" — "greeting" (chairein = rejoice/welcome).
        WEB: "don't receive him into your house, and don't welcome
        him." Hospitality to false teachers = partnership in their

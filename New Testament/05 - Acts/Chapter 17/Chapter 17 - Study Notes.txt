@@ -101,8 +101,14 @@ Charles Spurgeon:
   into the light. That is evangelism — taking what people already sense and
   showing them it is fulfilled in Christ."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.2  — NET: "he reasoned with them from the scriptures" —
+       "reasoned" (dielexato = dialogued/discussed). WEB: "reasoned
+       with them from the Scriptures." KJV: "reasoned with them
+       out of the scriptures." Paul's method: argument from the
+       OT, not mere assertion.
+
 v.6  — KJV: "turned the world upside down" / ESV: "turned the world upside
        down" — Both identical. Greek "anastatōsantes tēn oikoumenēn" — to
        upset, to cause trouble, to overturn. The enemies meant it as an
@@ -113,6 +119,12 @@ v.11 — KJV: "more noble" / ESV: "more noble" — Both identical. Greek
        "eugenesteroi" — more noble-minded, more fair, more open. Nobility
        here is intellectual honesty — willingness to examine evidence rather
        than react emotionally.
+       NET: "these Jews were more open-minded than those in
+       Thessalonica, for they received the message with great
+       eagerness, examining the scriptures every day" — "more
+       open-minded" (eugenesteroi = more noble). WEB: "more noble."
+       KJV: "more noble." The Bereans' nobility was their eagerness
+       to test teaching against Scripture.
 
 v.22 — KJV: "too superstitious" / ESV: "very religious" — Greek
        "deisidaimonesterous" — can mean either "very religious" (neutral) or
@@ -120,41 +132,25 @@ v.22 — KJV: "too superstitious" / ESV: "very religious" — Greek
        negative. Paul likely intended the neutral sense — building a bridge,
        not burning one.
 
-v.28 — KJV: "certain also of your own poets" / ESV: "some of your own poets"
-       — Both equivalent. Paul quotes Epimenides ("in him we live and move
-       and have our being") and Aratus ("we are his offspring"). He uses pagan
-       literature as a bridge to biblical truth.
-
-v.30 — KJV: "the times of this ignorance God winked at" / ESV: "The times of
-       ignorance God overlooked" — ESV's "overlooked" is clearer than KJV's
-       "winked at." God was patient with pagan ignorance in the past, but now
-       that Christ has come, the command is universal: repent.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "he reasoned with them from the scriptures" —
-       "reasoned" (dielexato = dialogued/discussed). WEB: "reasoned
-       with them from the Scriptures." KJV: "reasoned with them
-       out of the scriptures." Paul's method: argument from the
-       OT, not mere assertion.
-
-v.11 — NET: "these Jews were more open-minded than those in
-       Thessalonica, for they received the message with great
-       eagerness, examining the scriptures every day" — "more
-       open-minded" (eugenesteroi = more noble). WEB: "more noble."
-       KJV: "more noble." The Bereans' nobility was their eagerness
-       to test teaching against Scripture.
-
 v.23 — NET: "as I went around and observed closely your objects
        of worship, I even found an altar with this inscription:
        'To an unknown god'" — "unknown god" (agnOstO theO). WEB:
        "TO AN UNKNOWN GOD." Paul uses their own religiosity as a
        bridge — not condemnation but connection point.
 
-v.28 — NET: "For in him we live and move and have our being" —
+v.28 — KJV: "certain also of your own poets" / ESV: "some of your own poets"
+       — Both equivalent. Paul quotes Epimenides ("in him we live and move
+       and have our being") and Aratus ("we are his offspring"). He uses pagan
+       literature as a bridge to biblical truth.
+       NET: "For in him we live and move and have our being" —
        Paul quotes pagan poets (Epimenides and Aratus) to establish
        common ground. WEB: "In him we live, move, and have our
        being." Using secular sources to point toward the true God.
+
+v.30 — KJV: "the times of this ignorance God winked at" / ESV: "The times of
+       ignorance God overlooked" — ESV's "overlooked" is clearer than KJV's
+       "winked at." God was patient with pagan ignorance in the past, but now
+       that Christ has come, the command is universal: repent.
 
 v.32 — NET: "when they heard about the resurrection of the dead,
        some began to scoff" — "scoff" (echleuazon = mock/jeer).

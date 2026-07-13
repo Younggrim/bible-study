@@ -104,17 +104,29 @@ Charles Spurgeon:
  coming, Paul's crown will be the Thessalonians themselves — standing before
  Christ because Paul brought them the gospel. What will your crown be?"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2 — KJV: "shamefully entreated" / ESV: "shamefully" — Greek "hubristhentes" — treated with
  outrage, physically abused. Refers to the beating and imprisonment at
  Philippi (Acts 16:22-24). Despite this, Paul was "bold" in
  Thessalonica.
 
+v.4  — NET: "we have been approved by God to be entrusted with
+       the gospel" — "approved" (dedokimasmetha = tested and found
+       reliable). WEB: "approved by God to be entrusted with the
+       Good News." KJV: "allowed of God to be put in trust with the
+       gospel." God tested them before trusting them with the message.
+
 v.7 — KJV: "gentle... as a nurse cherisheth her children" / ESV: "gentle among you, like a nursing mother taking care of her own children" — Greek "trophos"
  — a nursing mother (not a hired nurse). Paul compares himself to a
  mother nursing her own babies. Some manuscripts read "nēpioi" (infants)
  instead of "ēpioi" (gentle) — a one-letter difference in Greek.
+       NET: "we became little children among you. Like a nursing
+       mother caring for her own children" — textual variant:
+       "little children" (nEpioi) vs. "gentle" (Epioi). NET
+       includes both readings in notes. WEB: "we were gentle among
+       you." KJV: "we were gentle among you." One Greek letter
+       difference (n vs no n) changes the meaning significantly.
 
 v.8 — KJV: "our own souls" / ESV: "own" — Greek "tas heautōn psuchas" — our very selves,
  our own lives. Paul gave not just the gospel message but himself.
@@ -122,6 +134,12 @@ v.8 — KJV: "our own souls" / ESV: "own" — Greek "tas heautōn psuchas" — o
 v.13 — KJV: "effectually worketh" / ESV: "is at work" — Greek "energeitai" — is at work, is
  active, operates powerfully. The Word of God is not passive text — it
  actively works in those who believe. Present tense = keeps working.
+       NET: "you received it not as a human word, but as it truly
+       is, God's word, which is at work in you who believe" — "at
+       work" (energeitai = actively operating). WEB: "which also
+       works in you who believe." KJV: "which effectually worketh
+       also in you that believe." The word is not inert text but
+       active divine energy.
 
 v.17 — KJV: "being taken from you" / ESV: "you" — Greek "aporphanisthentes" — orphaned,
  torn away. Paul felt like a parent separated from children. The
@@ -130,40 +148,16 @@ v.17 — KJV: "being taken from you" / ESV: "you" — Greek "aporphanisthentes" 
 v.18 — KJV: "Satan hindered us" / ESV: Both equivalent. — Greek "enekopsen" — cut in on, blocked
  the road. A military term for breaking up a road to prevent an army's
  advance. Satan actively opposes gospel work.
-
-v.19 — KJV: "crown of rejoicing" / ESV: "crown" — Greek "stephanos kauchēseōs" — the
- victor's wreath of boasting/exultation. Not a royal crown (diadēma)
- but an athlete's victory wreath. Paul's victory prize: people.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.4  — NET: "we have been approved by God to be entrusted with
-       the gospel" — "approved" (dedokimasmetha = tested and found
-       reliable). WEB: "approved by God to be entrusted with the
-       Good News." KJV: "allowed of God to be put in trust with the
-       gospel." God tested them before trusting them with the message.
-
-v.7  — NET: "we became little children among you. Like a nursing
-       mother caring for her own children" — textual variant:
-       "little children" (nEpioi) vs. "gentle" (Epioi). NET
-       includes both readings in notes. WEB: "we were gentle among
-       you." KJV: "we were gentle among you." One Greek letter
-       difference (n vs no n) changes the meaning significantly.
-
-v.13 — NET: "you received it not as a human word, but as it truly
-       is, God's word, which is at work in you who believe" — "at
-       work" (energeitai = actively operating). WEB: "which also
-       works in you who believe." KJV: "which effectually worketh
-       also in you that believe." The word is not inert text but
-       active divine energy.
-
-v.18 — NET: "Satan hindered us" — "hindered" (enekopsen = cut
+       NET: "Satan hindered us" — "hindered" (enekopsen = cut
        into/blocked the road). WEB: "Satan hindered us." KJV:
        "Satan hindered us." Military language — the enemy cutting
        the road to prevent advance. The spiritual opposition to
        ministry is real and personal.
 
-v.19 — NET: "For who is our hope or joy or crown of boasting
+v.19 — KJV: "crown of rejoicing" / ESV: "crown" — Greek "stephanos kauchēseōs" — the
+ victor's wreath of boasting/exultation. Not a royal crown (diadēma)
+ but an athlete's victory wreath. Paul's victory prize: people.
+       NET: "For who is our hope or joy or crown of boasting
        before our Lord Jesus at his coming? Is it not you?" —
        "crown of boasting" (stephanos kauchEseOs = wreath of
        exultation). WEB: "crown of rejoicing." People are Paul's

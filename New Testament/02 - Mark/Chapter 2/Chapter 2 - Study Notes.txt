@@ -91,7 +91,7 @@ Charles Spurgeon:
   — and there are many. If you know you are sick, the Physician is here.
   If you think you are well, you will never come to Him."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.4  — KJV: "uncovered the roof" / ESV: "they removed the roof above him" —
        Both equivalent. Palestinian houses had flat roofs made of beams,
@@ -99,30 +99,16 @@ v.4  — KJV: "uncovered the roof" / ESV: "they removed the roof above him" —
        roof material. Luke says "through the tiling" (Luke 5:19) — different
        construction styles in different regions.
 
-v.14 — KJV: "Levi the son of Alphaeus" / ESV: "Levi the son of Alphaeus" —
-       Both identical. This is Matthew the apostle (Matthew 9:9). "Levi" was
-       his given name; "Matthew" (gift of God) was likely the name Jesus gave
-       him.
-
-v.22 — KJV: "bottles" / ESV: "wineskins" — The ESV modernizes the language.
-       Not glass bottles but animal skins used to store wine. New wine
-       ferments and expands — requiring flexible new skins. Old, brittle
-       skins would burst.
-
-v.26 — KJV: "in the days of Abiathar the high priest" / ESV: "in the time of
-       Abiathar the high priest" — Both equivalent. A textual difficulty —
-       1 Samuel 21 says Ahimelech was priest, not Abiathar (his son).
-       Solutions: (1) Abiathar was present though not yet high priest, (2) the
-       phrase means "in the section about Abiathar," (3) a scribal error.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
 v.5  — NET: "When Jesus saw their faith, he said to the
        paralytic, 'Son, your sins are forgiven'" — clarifies the
        collective "their faith" (the friends who dug through the
        roof), not just the paralytic's own faith.
 
-v.14 — NET: "he saw Levi, the son of Alphaeus, sitting at the tax
+v.14 — KJV: "Levi the son of Alphaeus" / ESV: "Levi the son of Alphaeus" —
+       Both identical. This is Matthew the apostle (Matthew 9:9). "Levi" was
+       his given name; "Matthew" (gift of God) was likely the name Jesus gave
+       him.
+       NET: "he saw Levi, the son of Alphaeus, sitting at the tax
        booth" — identifies Levi with his patronymic; WEB same.
        KJV/ASV simply "Levi the son of Alphaeus."
 
@@ -131,9 +117,19 @@ v.17 — NET: "I have not come to call the righteous, but sinners"
        (found in some KJV manuscripts), following earlier Greek
        texts. The omission sharpens the statement.
 
-v.22 — WEB: "new wine into fresh wineskins" — uses "fresh" rather
+v.22 — KJV: "bottles" / ESV: "wineskins" — The ESV modernizes the language.
+       Not glass bottles but animal skins used to store wine. New wine
+       ferments and expands — requiring flexible new skins. Old, brittle
+       skins would burst.
+       WEB: "new wine into fresh wineskins" — uses "fresh" rather
        than "new" (KJV/ASV) for the second adjective, distinguishing
        the wine (new in age) from the skins (fresh/unused).
+
+v.26 — KJV: "in the days of Abiathar the high priest" / ESV: "in the time of
+       Abiathar the high priest" — Both equivalent. A textual difficulty —
+       1 Samuel 21 says Ahimelech was priest, not Abiathar (his son).
+       Solutions: (1) Abiathar was present though not yet high priest, (2) the
+       phrase means "in the section about Abiathar," (3) a scribal error.
 
 v.27 — NET: "The Sabbath was made for people, not people for the
        Sabbath" — modern inclusive "people" vs. KJV's "man" and

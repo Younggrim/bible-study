@@ -94,7 +94,7 @@ Charles Spurgeon:
   your impossible circumstances — and spread them before God.
   Let HIM read them. Then wait for His answer."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.14 — "spread it" (KJV/ESV) — Hebrew "vayiphresehu" = he
       unrolled/spread it out. Physical action: Hezekiah literally
@@ -115,42 +115,6 @@ v.36 — "angel of the LORD" (KJV/ESV) — Hebrew "malakh YHWH" =
       the messenger of the LORD. Whether a single angel or the
       pre-incarnate Christ (who bears this title elsewhere), the
       result is one supernatural being vs. 185,000 soldiers.
-
-GLOSSARY
-------------------------------------
-Angel of the LORD — God's supernatural agent of judgment and
-              deliverance. In a single night, accomplished what no
-              human army could: total defeat of Assyria's force.
-
-Spread Before the LORD — Hezekiah's physical act of opening the
-              threatening letter in God's presence. A model for
-              prayer: presenting the situation honestly before God.
-
-Hook in the Nose — Assyrian captive-leading technique turned
-              against Assyria's own king. God treats the world's
-              most powerful monarch as a captured animal led by
-              a ring.
-
-Sennacherib  — "Sin (the moon-god) has replaced the brothers" —
-              King of Assyria 705-681 BC. Conquered most of Judah
-              but FAILED to take Jerusalem. Murdered by his sons
-              Adrammelech and Sharezer in 681 BC.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "went into the house of Jehovah" / WEB: "went into Yahweh's house" / NET: "went to the Lord's temple" — The divine name in Hezekiah's crisis moment: ASV/WEB preserve the covenant name (Jehovah/Yahweh), while NET uses "the Lord's temple." NET also substitutes "temple" for "house" (Hebrew "beth"), an interpretive choice.
-
-- v.7 — KJV: "I will send a blast upon him" / ASV: "I will put a spirit in him" / WEB: "I will put a spirit in him" / NET: "I will take control of his mind" — A major divergence. The Hebrew "ruach" (spirit/wind/blast) is rendered literally by ASV/WEB, ambiguously by KJV ("blast"), and with heavy interpretation by NET ("take control of his mind"). NET makes explicit what the Hebrew leaves mysterious.
-
-- v.16 — ASV: "O Jehovah of hosts" / WEB: "Yahweh of Armies" / NET: "O Lord of Heaven's Armies" — Hezekiah's prayer opens with the divine title "YHWH Tseva'ot." WEB uniquely translates "tseva'ot" as "Armies" (literal), while NET expands to "Heaven's Armies" (interpretive addition of "Heaven's"). KJV retains "hosts."
-
-- v.23 — ASV: "against the Holy One of Israel" / WEB: "Against the Holy One of Israel" / NET: "At the Holy One of Israel!" — All versions preserve Isaiah's distinctive title "the Holy One of Israel" (qedosh yisra'el), a signature phrase occurring 25+ times in Isaiah. This is the theological climax: Sennacherib's real enemy is identified.
-
-- v.32 — ASV: "The zeal of Jehovah of hosts will perform this" / WEB: "The zeal of Yahweh of Armies will perform this" / NET: "The zeal of the Lord of Heaven's Armies will accomplish this" — The divine name plus title combination. NET's "accomplish" for Hebrew "ta'aseh" (will do/perform) is less forceful than "perform" (KJV/ASV/WEB), which suggests something dramatic and decisive.
-
-- v.36 — ASV: "the angel of Jehovah went forth, and smote" / WEB: "Yahweh's angel went out and struck" / NET: "The angel of the Lord went out and killed 185,000 troops" — NET adds "troops" (not in Hebrew, which says simply "men") and uses "killed" where KJV has "smote." WEB's possessive form "Yahweh's angel" is a notable structural difference from the traditional "angel of Yahweh/the LORD."
-
-- v.38 — KJV: "the land of Armenia" / ASV: "the land of Ararat" / WEB: "the land of Ararat" / NET: "the land of Ararat" — KJV uniquely translates the Hebrew "Ararat" as "Armenia" (following older geographic conventions). All modern versions retain the Hebrew place name "Ararat."
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

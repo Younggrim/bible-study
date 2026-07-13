@@ -86,35 +86,22 @@ Charles Spurgeon:
   through Jesus Christ. He is the deliverer. The struggle is real; the
   deliverance is also real."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.4  — KJV: "ye also are become dead to the law" / ESV: "you also have died to the law through" — Not that the Law died but
        that YOU died to it — through union with Christ's death. The Law still
        exists; your obligation to it as a means of righteousness is ended.
 
-v.14 — KJV: "I am carnal, sold under sin" / ESV: "but I am of the flesh, sold under sin" — The shift to present tense
-       (from past tense in vv.7-13) is significant. Many scholars see this
-       as Paul's current experience as a believer — the ongoing struggle
-       with remaining sin.
-
-v.18 — KJV: "in me (that is, in my flesh)" / ESV: "that nothing good dwells in me, that is" — Paul qualifies: the problem is
-       not his entire being but his "flesh" — the remaining sinful nature
-       that coexists with his new nature in Christ.
-
-v.24 — KJV: "the body of this death" / ESV: "me from this body of death?" — Possibly an allusion to a Roman
-       punishment where a corpse was strapped to a living person until the
-       decay killed them. The flesh is like a dead body strapped to the
-       believer.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
 v.7  — NET: "Is the law sin? Absolutely not!" — "Absolutely
        not!" (mE genoito = may it never be!). KJV: "God forbid."
        WEB: "May it never be!" ASV: "God forbid." Paul's strongest
        denial — the law reveals sin but is not itself sinful.
 
-v.14 — NET: "For we know that the law is spiritual — but I am
+v.14 — KJV: "I am carnal, sold under sin" / ESV: "but I am of the flesh, sold under sin" — The shift to present tense
+       (from past tense in vv.7-13) is significant. Many scholars see this
+       as Paul's current experience as a believer — the ongoing struggle
+       with remaining sin.
+       NET: "For we know that the law is spiritual — but I am
        unspiritual, sold into slavery to sin" — "unspiritual"
        (sarkinos = fleshly/made of flesh). WEB: "but I am fleshly,
        sold under sin." KJV: "I am carnal, sold under sin." The
@@ -126,12 +113,19 @@ v.15 — NET: "For I don't understand what I am doing. For I do not
        "For I don't know what I am doing." KJV: "that which I do I
        allow not." The divided self — wanting good but doing evil.
 
-v.18 — NET: "For I know that nothing good lives in me, that is,
+v.18 — KJV: "in me (that is, in my flesh)" / ESV: "that nothing good dwells in me, that is" — Paul qualifies: the problem is
+       not his entire being but his "flesh" — the remaining sinful nature
+       that coexists with his new nature in Christ.
+       NET: "For I know that nothing good lives in me, that is,
        in my flesh" — "in my flesh" is Paul's qualifier. WEB:
        "that is, in my flesh." KJV: "that is, in my flesh." The
        indwelling Spirit IS good; the flesh is the problem domain.
 
-v.24 — NET: "Wretched man that I am! Who will rescue me from this
+v.24 — KJV: "the body of this death" / ESV: "me from this body of death?" — Possibly an allusion to a Roman
+       punishment where a corpse was strapped to a living person until the
+       decay killed them. The flesh is like a dead body strapped to the
+       believer.
+       NET: "Wretched man that I am! Who will rescue me from this
        body of death?" — "wretched" (talaipOros = miserable/
        exhausted from the struggle). WEB: "What a wretched man I
        am!" KJV: "O wretched man that I am!" The cry of genuine

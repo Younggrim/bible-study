@@ -90,7 +90,7 @@ Charles Spurgeon:
   of cleansing. Everything we need for salvation and sanctification flowed
   from the wounded side of Christ."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "Pilate therefore took Jesus, and scourged him" / ESV: "Then Pilate took Jesus and flogged him" — Greek "emastigōsen" — KJV uses "scourged"; ESV uses "flogged." Both refer to the brutal Roman flagellum — a whip with multiple leather thongs embedded with bone and metal.
 
@@ -135,7 +135,6 @@ v.34 — KJV: "one of the soldiers with a spear pierced his side, and forthwith 
        physician John.
 
 v.39 — KJV: "about an hundred pound weight" / ESV: "about seventy-five pounds in weight" — Greek "litras hekaton" — KJV uses Roman pounds (100 litrai ≈ 75 modern pounds). ESV converts to modern measurement. An extravagant amount — fit for a king's burial.
-
 
 GLOSSARY
 ------------------------------------

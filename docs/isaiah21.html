@@ -492,13 +492,19 @@
             </div>
             <div class="tab-content" id="tab-translations">
                 <h3>Translations</h3>
-                <ul>
-                    <li><strong>v.1</strong> → "desert of the sea" (KJV → ESV) — Hebrew "midbar-yam." Babylon was located in marshlands between the Tigris and Euphrates. "Desert of the sea" = the arid region that becomes like a sea (flooded marshland).</li>
-                    <li><strong>v.2</strong> → "Elam... Media" (KJV → ESV) — The nations God sends to besiege Babylon. Elam (southwestern Iran) and Media (northwestern Iran) = the Medo-Persian empire that conquered Babylon under Cyrus in 539 BC.</li>
-                    <li><strong>v.11</strong> → "Dumah" (KJV → ESV) — Wordplay: "Dumah" means "silence" in Hebrew. It's also a region of Edom (cf. Genesis 25:14). The oracle about Edom is the "silence" oracle — appropriate for its cryptic, unanswered quality.</li>
-                    <li><strong>v.13</strong> → "Dedanites" (ESV) / "Dedanim" (KJV) — Arabian merchant tribe descended from Abraham through Keturah (Genesis 25:3). Major traders in the Arabian peninsula.</li>
-                    <li><strong>v.16</strong> → "as the years of an hireling" (KJV) — Precisely counted time (a hired worker counts each day exactly). Within exactly one year — no ambiguity.</li>
-                </ul>
+                                    <div class="trans-filter">
+                        <span class="trans-filter-label">Show translations:</span>
+                        <label class="trans-check trans-check-kjv"><input type="checkbox" value="KJV" checked onchange="filterTranslations()"><span class="trans-badge trans-kjv">KJV</span></label>
+                        <label class="trans-check trans-check-esv"><input type="checkbox" value="ESV" checked onchange="filterTranslations()"><span class="trans-badge trans-esv">ESV</span></label>
+                        <label class="trans-check trans-check-asv"><input type="checkbox" value="ASV" checked onchange="filterTranslations()"><span class="trans-badge trans-asv">ASV</span></label>
+                        <label class="trans-check trans-check-net"><input type="checkbox" value="NET" checked onchange="filterTranslations()"><span class="trans-badge trans-net">NET</span></label>
+                        <label class="trans-check trans-check-web"><input type="checkbox" value="WEB" checked onchange="filterTranslations()"><span class="trans-badge trans-web">WEB</span></label>
+                    </div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.1</strong> — &quot;desert of the sea&quot; (<span class="trans-label trans-kjv">KJV</span>/<span class="trans-label trans-esv">ESV</span>) — Hebrew &quot;midbar-yam.&quot;<br>Babylon was located in marshlands between the Tigris and<br>Euphrates. &quot;Desert of the sea&quot; = the arid region that<br>becomes like a sea (flooded marshland).</p></div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.2</strong> — &quot;Elam... Media&quot; (<span class="trans-label trans-kjv">KJV</span>/<span class="trans-label trans-esv">ESV</span>) — The nations God sends to<br>besiege Babylon. Elam (southwestern Iran) and Media<br>(northwestern Iran) = the Medo-Persian empire that<br>conquered Babylon under Cyrus in 539 BC.</p></div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.11</strong> — &quot;Dumah&quot; (<span class="trans-label trans-kjv">KJV</span>/<span class="trans-label trans-esv">ESV</span>) — Wordplay: &quot;Dumah&quot; means &quot;silence&quot;<br>in Hebrew. It&#x27;s also a region of Edom (cf. Genesis 25:14).<br>The oracle about Edom is the &quot;silence&quot; oracle — appropriate<br>for its cryptic, unanswered quality.</p></div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.13</strong> — &quot;Dedanites&quot; (<span class="trans-label trans-esv">ESV</span>) / &quot;Dedanim&quot; (<span class="trans-label trans-kjv">KJV</span>) — Arabian merchant<br>tribe descended from Abraham through Keturah (Genesis 25:3).<br>Major traders in the Arabian peninsula.</p></div>
+                    <div class="trans-entry" data-translations="KJV"><p><strong class="verse-ref">v.16</strong> — &quot;as the years of an hireling&quot; (<span class="trans-label trans-kjv">KJV</span>) — Precisely counted<br>time (a hired worker counts each day exactly). Within<br>exactly one year — no ambiguity.</p></div>
             </div>
             <div class="tab-content" id="tab-videos">
                 <h3>Videos</h3>

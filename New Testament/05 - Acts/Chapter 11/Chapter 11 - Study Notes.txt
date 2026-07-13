@@ -96,7 +96,7 @@ Charles Spurgeon:
   occasionally visit Him — cleave. Stick. Hold fast. With deliberate
   intention. Purpose of heart means this is not accidental; it is chosen."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3  — KJV: "they that were of the circumcision contended with him" / ESV:
        "the circumcision party criticized him" — Both equivalent. The
@@ -104,10 +104,20 @@ v.3  — KJV: "they that were of the circumcision contended with him" / ESV:
        become Jewish to be saved. They would remain a problem throughout Acts
        (chapter 15) and Paul's letters (Galatians).
 
+v.14 — NET: "a message by which you and your entire household
+       will be saved" — "your entire household" (pas ho oikos sou)
+       — household salvation is a pattern in Acts (16:15, 16:31,
+       18:8). WEB: "you and all your house will be saved."
+
 v.18 — KJV: "granted repentance unto life" / ESV: "granted repentance that
        leads to life" — Both equivalent. Repentance is described as a gift
        God grants — not merely a human decision. God gives the ability to
        repent (see also Acts 5:31, 2 Timothy 2:25).
+       NET: "God has granted the repentance that leads to life
+       even to the Gentiles" — "granted" (edOken = gave as a gift).
+       WEB: "God has also granted to the Gentiles repentance to
+       life." KJV: "Then hath God also to the Gentiles granted
+       repentance unto life." Repentance itself is a divine gift.
 
 v.20 — KJV: "spake unto the Grecians" / ESV: "spoke to the Hellenists" —
        Some manuscripts read "Hellenists" (Greek-speaking Jews); others read
@@ -115,31 +125,17 @@ v.20 — KJV: "spake unto the Grecians" / ESV: "spoke to the Hellenists" —
        intentional Gentile evangelism by ordinary believers (not apostles).
        The textual variant is significant.
 
-v.26 — KJV: "Christians" / ESV: "Christians" — Both identical. Greek
-       "Christianoi" — "Christ-ones" or "belonging to Christ." The -iani
-       suffix (Latin) indicates belonging to a party or household. They were
-       identified as Christ's household.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.14 — NET: "a message by which you and your entire household
-       will be saved" — "your entire household" (pas ho oikos sou)
-       — household salvation is a pattern in Acts (16:15, 16:31,
-       18:8). WEB: "you and all your house will be saved."
-
-v.18 — NET: "God has granted the repentance that leads to life
-       even to the Gentiles" — "granted" (edOken = gave as a gift).
-       WEB: "God has also granted to the Gentiles repentance to
-       life." KJV: "Then hath God also to the Gentiles granted
-       repentance unto life." Repentance itself is a divine gift.
-
 v.21 — NET: "The hand of the Lord was with them, and a great
        number who believed turned to the Lord" — "the hand of the
        Lord" — OT idiom for divine power/favor. WEB: "the hand of
        the Lord was with them." KJV: "the hand of the Lord was
        with them." Human preaching + divine power = conversions.
 
-v.26 — NET: "the disciples were first called Christians at
+v.26 — KJV: "Christians" / ESV: "Christians" — Both identical. Greek
+       "Christianoi" — "Christ-ones" or "belonging to Christ." The -iani
+       suffix (Latin) indicates belonging to a party or household. They were
+       identified as Christ's household.
+       NET: "the disciples were first called Christians at
        Antioch" — "Christians" (Christianous = Christ-followers).
        WEB: "The disciples were called Christians first in
        Antioch." KJV: "the disciples were called Christians first

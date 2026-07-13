@@ -82,40 +82,31 @@ Charles Spurgeon:
   against us in righteous wrath, not God without us in cold indifference —
   God WITH us. In our flesh, in our weakness, in our world."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "The book of the generation" — ESV: "The book of the genealogy"
        — Greek "biblos geneseos" — literally "book of genesis/origin." Matthew
        deliberately echoes Genesis 2:4 and 5:1 — Jesus is the new beginning,
        the new Adam.
+       NET: "This is the record of the genealogy" — uniquely
+       renders "biblos geneseos" as "record of the genealogy"
+       rather than "book of the generation/genealogy," emphasizing
+       the document nature of what follows.
 
 v.16 — KJV: "Jacob begat Joseph the husband of Mary, of whom was born Jesus"
        — The Greek "of whom" (ex hes) is feminine singular — "of her" — making
        clear that Jesus was born of Mary, not begotten by Joseph. The genealogy
        shifts from "begat" to "was born of" at this crucial point.
 
-v.19 — KJV: "a just man" — ESV: "a just man" — NET: "a righteous man" —
-       Greek "dikaios" — righteous, upright, law-abiding. Joseph's righteousness
-       was shown both in his desire to protect Mary and in his obedience to God.
-
-v.23 — KJV: "a virgin" — ESV/NET: "a virgin" — Hebrew "almah" in Isaiah 7:14
-       means "young woman" (which in context implies virginity); the Greek
-       Septuagint translated it "parthenos" (virgin). Matthew uses "parthenos"
-       — the specific word for a woman who has never had sexual relations.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "This is the record of the genealogy" — uniquely
-       renders "biblos geneseos" as "record of the genealogy"
-       rather than "book of the generation/genealogy," emphasizing
-       the document nature of what follows.
-
 v.18 — WEB: "she was found pregnant by the Holy Spirit" — more
        direct modern phrasing than KJV's "with child of the Holy
        Ghost" or ESV's "to be with child from the Holy Spirit."
        NET similarly: "found to be pregnant through the Holy Spirit."
 
-v.19 — NET: "because he did not want to disgrace her, he intended
+v.19 — KJV: "a just man" — ESV: "a just man" — NET: "a righteous man" —
+       Greek "dikaios" — righteous, upright, law-abiding. Joseph's righteousness
+       was shown both in his desire to protect Mary and in his obedience to God.
+       NET: "because he did not want to disgrace her, he intended
        to divorce her privately" — clarifies Joseph's two motives
        (righteousness + compassion) more explicitly than KJV's
        condensed "not willing to make her a publick example."
@@ -124,6 +115,11 @@ v.20 — NET: "the child conceived in her is from the Holy Spirit"
        — renders the angel's explanation with "conceived in" rather
        than ASV/KJV "that which is conceived in her is of the Holy
        Spirit," making the active divine agency clearer.
+
+v.23 — KJV: "a virgin" — ESV/NET: "a virgin" — Hebrew "almah" in Isaiah 7:14
+       means "young woman" (which in context implies virginity); the Greek
+       Septuagint translated it "parthenos" (virgin). Matthew uses "parthenos"
+       — the specific word for a woman who has never had sexual relations.
 
 v.25 — WEB: "didn't know her sexually until she had given birth
        to her firstborn son" — the most explicit modern rendering.

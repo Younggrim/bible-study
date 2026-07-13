@@ -104,52 +104,34 @@ Charles Spurgeon:
  — given full inheritance rights. This is what grace does: it takes slaves
  and makes them sons, takes beggars and makes them heirs."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "principalities and powers" / ESV: "rulers and authorities" — Here referring to civil
  authorities (not spiritual beings as in Eph 6:12). KJV: "obey magistrates"
  / ESV: "to be obedient" — Greek "peitharchein" — to obey those in authority.
 
-v.4 — KJV: "kindness and love" / ESV: "kindness" — Greek "chrēstotēs kai philanthrōpia" —
- kindness and love-for-humanity. "Philanthropy" comes from this word.
- God's love is specifically directed toward humanity.
-
-v.5 — KJV: "washing of regeneration" / ESV: Both equivalent. — Greek "loutrou palingenesias" — the
- bath/washing of new birth. "Regeneration" (palingenesia) = being born
- again. Used only here and Matt 19:28 in the NT. The "washing" likely
- refers to spiritual cleansing (not baptism as the means of salvation,
- given the context of "not by works").
-
-v.5 — KJV: "renewing of the Holy Ghost" / ESV: "renewal of the Holy Spirit" — Greek "anakainōseōs pneumatos
- hagiou" — the Spirit's work of making new. Regeneration (new birth)
- and renewal (ongoing transformation) — both the Spirit's work.
-
-v.8 — KJV: "faithful saying" / ESV: "saying" — The fifth and final "faithful saying" in the
- Pastoral Epistles. "Maintain good works" — Greek "proistasthai kalōn
- ergōn" — to be devoted to, to engage in, to give attention to good
- works.
-
-v.10 — KJV: "heretick" / ESV: "a person who stirs up division" — Greek "hairetikon" — a factious person, one who
- causes division. Not primarily about wrong doctrine but about divisive
- behavior. "After the first and second admonition reject" — two
- warnings, then separation.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
 v.3  — NET: "For we too were once foolish, disobedient,
        misled, enslaved to various passions and desires" — "we too"
        (Emen... kai hEmeis = we ourselves also). WEB: "For we were
        also once foolish." The "we" prevents self-righteousness —
        Paul includes himself in the pre-conversion description.
 
-v.4  — NET: "But when the kindness of God our Savior and his love
+v.4 — KJV: "kindness and love" / ESV: "kindness" — Greek "chrēstotēs kai philanthrōpia" —
+ kindness and love-for-humanity. "Philanthropy" comes from this word.
+ God's love is specifically directed toward humanity.
+       NET: "But when the kindness of God our Savior and his love
        for mankind appeared" — "love for mankind" (philanthrOpia =
        philanthropy). WEB: "the kindness of God our Savior and his
        love toward mankind appeared." KJV: "the kindness and love
        of God our Saviour toward man appeared." God is a
        philanthropist — He loves humanity.
 
-v.5  — NET: "he saved us not by works of righteousness that we
+v.5 — KJV: "washing of regeneration" / ESV: Both equivalent. — Greek "loutrou palingenesias" — the
+ bath/washing of new birth. "Regeneration" (palingenesia) = being born
+ again. Used only here and Matt 19:28 in the NT. The "washing" likely
+ refers to spiritual cleansing (not baptism as the means of salvation,
+ given the context of "not by works").
+       NET: "he saved us not by works of righteousness that we
        have done but on the basis of his mercy, through the washing
        of the new birth and the renewing of the Holy Spirit" —
        "washing of the new birth" (loutrou palingenesias = bath of
@@ -157,13 +139,32 @@ v.5  — NET: "he saved us not by works of righteousness that we
        "the washing of regeneration." Baptismal language connected
        to spiritual rebirth — the relationship is debated.
 
-v.8  — NET: "This saying is trustworthy" — "trustworthy" (pistos
+v.5 — KJV: "renewing of the Holy Ghost" / ESV: "renewal of the Holy Spirit" — Greek "anakainōseōs pneumatos
+ hagiou" — the Spirit's work of making new. Regeneration (new birth)
+ and renewal (ongoing transformation) — both the Spirit's work.
+       NET: "he saved us not by works of righteousness that we
+       have done but on the basis of his mercy, through the washing
+       of the new birth and the renewing of the Holy Spirit" —
+       "washing of the new birth" (loutrou palingenesias = bath of
+       regeneration). WEB: "the washing of regeneration." KJV:
+       "the washing of regeneration." Baptismal language connected
+       to spiritual rebirth — the relationship is debated.
+
+v.8 — KJV: "faithful saying" / ESV: "saying" — The fifth and final "faithful saying" in the
+ Pastoral Epistles. "Maintain good works" — Greek "proistasthai kalōn
+ ergōn" — to be devoted to, to engage in, to give attention to good
+ works.
+       NET: "This saying is trustworthy" — "trustworthy" (pistos
        ho logos = faithful is the word — a Pastoral Epistles
        formula). WEB: "This saying is faithful." KJV: "This is a
        faithful saying." Paul uses this formula five times in the
        Pastorals to mark key doctrinal statements.
 
-v.10 — NET: "Reject a divisive person after one or two warnings"
+v.10 — KJV: "heretick" / ESV: "a person who stirs up division" — Greek "hairetikon" — a factious person, one who
+ causes division. Not primarily about wrong doctrine but about divisive
+ behavior. "After the first and second admonition reject" — two
+ warnings, then separation.
+       NET: "Reject a divisive person after one or two warnings"
        — "divisive person" (hairetikon anthrOpon = factious/
        heretical person). WEB: "Avoid a man who is causing
        divisions." KJV: "A man that is an heretick after the first

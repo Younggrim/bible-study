@@ -110,7 +110,7 @@ Charles Spurgeon:
   Look back over your life — has God ever failed you? Has one word of
   His fallen to the ground? Then trust Him for the future. What He has
   been, He will be. What He has done, He will do."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "Joshua waxed old and stricken in age" / ESV: "Joshua was
        old and well advanced in years" — Hebrew "zaqen ba bayamim."
@@ -150,41 +150,6 @@ v.14 — KJV: "I am going the way of all the earth" / ESV: "I am about
        kol ha-aretz." A euphemism for death — "the way all the earth
        goes." Every human walks this path. Joshua faces death with the
        same courage he brought to battle.
-
-GLOSSARY
-------------------------------------
-Way of All the Earth — A euphemism for death (cf. 1 Kings 2:2 — David
-               uses the same phrase). Every person, no matter how great,
-               must walk this path. Joshua faces it with faith and uses
-               his final moments to exhort faithfulness.
-
-Cleave/Cling (davaq) — To adhere, hold fast, be joined to. Used of
-               marriage (Genesis 2:24) and of devotion to God. Joshua
-               uses it both positively (cleave to God, v.8) and as a
-               warning (do not cleave to the nations, v.12). We will
-               cling to something — the question is what.
-
-Snares and Traps — Hebrew "pach" (snare, bird trap) and "moqesh" (bait,
-               lure, trap). The remaining nations will entice Israel
-               into sin — not through open warfare but through subtle
-               attraction. The danger is seduction, not assault.
-
-Scourges/Whips — Hebrew "shotet." What Israel tolerated would become
-               what tormented them. The nations they failed to drive out
-               would become instruments of divine discipline.
-
-Book of the Law of Moses — The written Torah, the Pentateuch. Joshua's
-               authority rests on this written Word. Obedience to it is
-               the condition for continued blessing in the land.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.4 — ASV: "I have allotted unto you these nations that remain, to be an inheritance for your tribes" / NET: "I have parceled out to your tribes these remaining nations" — ASV preserves "inheritance" (nachalah); NET uses "parceled out" (casual). Joshua's final address emphasizes that the remaining land is still Israel's God-given inheritance to be claimed.
-- v.6 — ASV: "be ye very courageous to keep and to do all that is written in the book of the law of Moses" / NET: "Be very strong! Carefully obey all that is written in the law scroll of Moses" — ASV/KJV's "courageous to keep and do" echoes God's original commission to Joshua (1:7). The courage required is not military but moral — courage to obey. NET separates "strong" from obedience, weakening the connection.
-- v.8 — ASV: "cleave unto Jehovah your God" / WEB: "hold fast to Yahweh your God" / NET: "you must be loyal to the Lord your God" — Again, "davak" (cleave/cling) becomes mere "loyalty" in NET. The Hebrew implies intimate, unbreakable attachment — the marriage verb of Genesis 2:24 applied to the divine-human relationship.
-- v.13 — ASV: "they shall be a snare and a trap unto you, and a scourge in your sides, and thorns in your eyes" / NET: "They will trap and ensnare you; they will be a whip that tears your sides and thorns that blind your eyes" — NET adds "that tears" and "that blind" (interpretive expansions). ASV/KJV preserve the stark Hebrew imagery without embellishment.
-- v.14 — ASV: "not one thing hath failed of all the good things which Jehovah your God spake concerning you; all are come to pass" / NET: "not even one of all the faithful promises the Lord your God made to you is left unfulfilled; every one was realized" — Joshua's deathbed testimony. ASV's double emphasis ("not one thing hath failed...all are come to pass") is stronger than NET's single statement. The repetition hammers home God's absolute faithfulness.
-- v.16 — ASV: "When ye transgress the covenant of Jehovah your God" / NET: "If you violate the covenantal laws of the Lord your God" — ASV's "transgress the covenant" (avar b'rit — to cross over/break the covenant) uses the same verb as "crossing the Jordan." The tragic irony: just as they crossed (avar) the Jordan into blessing, they can cross (avar) God's covenant into judgment.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

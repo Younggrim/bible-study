@@ -145,7 +145,7 @@ Charles Spurgeon:
   silent, observing. The wise builder counts the cost before
   announcing the project. Nehemiah inspected before he inspired."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "I had not been beforetime sad in his presence" /
        ESV: "I had not been sad in his presence" — Nehemiah had

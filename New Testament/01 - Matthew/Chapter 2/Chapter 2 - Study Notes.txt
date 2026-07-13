@@ -84,34 +84,13 @@ Charles Spurgeon:
   High Priest. Myrrh for burial — He came to die. The Magi brought gifts
   that told the whole story of Christ without knowing it."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "wise men from the east" — ESV/NET: "wise men from the east" —
        Greek "magoi" — Magi, a priestly caste of scholars and astrologers.
        The tradition of "three kings" comes from the three gifts, not from
        Scripture. The number of Magi is not stated.
-
-v.11 — KJV: "young child" / ESV: "the child" — Greek "paidion" — a young
-       child, not an infant (Greek "brephos"). Both equivalent in meaning.
-       This, combined with Herod killing children up to 2 years old (v.16),
-       suggests the Magi arrived months or up to 2 years after the birth —
-       not at the manger.
-
-v.15 — KJV: "Out of Egypt have I called my son" / ESV: "Out of Egypt I called
-       my son" — Both identical in meaning. Matthew applies Hosea 11:1
-       (originally about Israel) to Jesus. This is typological fulfillment —
-       Jesus recapitulates Israel's history, succeeding where Israel failed.
-
-v.23 — KJV: "He shall be called a Nazarene" / ESV: "he would be called a
-       Nazarene" — Both equivalent. This is not a direct quote from any single
-       OT text. Matthew says "spoken by the prophets" (plural). Most scholars
-       connect it to Isaiah 11:1 ("netzer" = branch/shoot) or to the general
-       OT theme of the Messiah being despised (Nazareth was looked down upon —
-       John 1:46).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "After Jesus was born in Bethlehem in Judea, in
+       NET: "After Jesus was born in Bethlehem in Judea, in
        the time of King Herod, wise men from the East came to
        Jerusalem" — "wise men" (magoi = Magi/astrologers). WEB:
        "wise men from the east." KJV: "wise men from the east."
@@ -130,10 +109,20 @@ v.6  — NET: "a ruler who will shepherd my people Israel" —
        Israel." Quoting Micah 5:2 — the Messiah is a shepherd-
        king, not merely a political ruler.
 
-v.11 — NET: "they offered him gifts: gold, frankincense, and
+v.11 — KJV: "young child" / ESV: "the child" — Greek "paidion" — a young
+       child, not an infant (Greek "brephos"). Both equivalent in meaning.
+       This, combined with Herod killing children up to 2 years old (v.16),
+       suggests the Magi arrived months or up to 2 years after the birth —
+       not at the manger.
+       NET: "they offered him gifts: gold, frankincense, and
        myrrh" — "offered" (prosEnenkan = presented formally). WEB:
        "they offered him gifts." Traditional interpretation: gold
        (kingship), frankincense (deity), myrrh (death/burial).
+
+v.15 — KJV: "Out of Egypt have I called my son" / ESV: "Out of Egypt I called
+       my son" — Both identical in meaning. Matthew applies Hosea 11:1
+       (originally about Israel) to Jesus. This is typological fulfillment —
+       Jesus recapitulates Israel's history, succeeding where Israel failed.
 
 v.16 — NET: "he sent men to kill all the children in Bethlehem
        and throughout the surrounding region who were two years old
@@ -142,6 +131,13 @@ v.16 — NET: "he sent men to kill all the children in Bethlehem
        appeared. WEB: "from two years old and under." The massacre
        of innocents — not recorded outside Matthew but consistent
        with Herod's documented paranoia.
+
+v.23 — KJV: "He shall be called a Nazarene" / ESV: "he would be called a
+       Nazarene" — Both equivalent. This is not a direct quote from any single
+       OT text. Matthew says "spoken by the prophets" (plural). Most scholars
+       connect it to Isaiah 11:1 ("netzer" = branch/shoot) or to the general
+       OT theme of the Messiah being despised (Nazareth was looked down upon —
+       John 1:46).
 
 GLOSSARY
 ------------------------------------

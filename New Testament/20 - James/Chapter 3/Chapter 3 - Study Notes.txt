@@ -98,7 +98,7 @@ Charles Spurgeon:
  consistent, not playing favorites. Without hypocrisy — genuine, not fake.
  This is wisdom from above — and it looks nothing like the world's wisdom."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "masters" / ESV: "teachers" — Greek "didaskaloi" — teachers.
  Don't rush to become teachers — they face stricter judgment. Teaching
@@ -107,17 +107,31 @@ v.1 — KJV: "masters" / ESV: "teachers" — Greek "didaskaloi" — teachers.
 v.2 — KJV: "offend" / ESV: "stumble" — Greek "ptaiō" — to stumble, to
  trip. "Perfect" — Greek "teleios" — mature, complete. Tongue control
  indicates overall maturity.
+       NET: "For we all stumble in many ways" — "stumble"
+       (ptaiomen = trip/fail/make mistakes). WEB: "For in many
+       things we all stumble." KJV: "For in many things we offend
+       all." James includes himself — tongue control is universal
+       struggle. No one has mastered it.
 
 v.6 — KJV: "course of nature" / ESV: "entire course of life" — Greek
  "trochos tēs geneseōs" — the wheel of existence, the cycle of life.
  The tongue affects the entire course of human life. "Set on fire of
  hell" — Greek "geennēs" — Gehenna. The tongue's destructive power
  has a hellish source.
+       NET: "the tongue is a fire, the world of unrighteousness
+       among our members" — "world of unrighteousness" (ho kosmos
+       tEs adikias). WEB: "a world of iniquity." KJV: "a world of
+       iniquity." The tongue contains an entire cosmos of evil —
+       small in size, infinite in destructive capacity.
 
 v.8 — KJV: "no man can tame" / ESV: "no human being can tame" — Human
  effort alone cannot control the tongue. Only divine power (the Spirit)
  can accomplish what human willpower cannot. KJV: "unruly evil" / ESV:
  "restless evil" — Greek "akatastaton kakon" — unstable, restless evil.
+       NET: "But no human being can subdue the tongue" — "subdue"
+       (damasai = tame — used of wild animals). WEB: "no man can
+       tame the tongue." KJV: "the tongue can no man tame." We can
+       tame lions and dolphins — but not the tongue. Only God can.
 
 v.15 — KJV: "earthly, sensual, devilish" / ESV: "earthly, unspiritual,
  demonic" — Three descending levels: earthly (epigeos — from below,
@@ -130,38 +144,17 @@ v.17 — KJV: "easy to be intreated" / ESV: "open to reason" — Greek
  / ESV: "impartial" — Greek "adiakritos." KJV: "without hypocrisy" /
  ESV: "sincere" — Greek "anupokritos." Eight characteristics of
  heavenly wisdom listed in both translations with equivalent meaning.
-
-v.18 — KJV: "the fruit of righteousness is sown in peace of them that make
- peace" / ESV: "a harvest of righteousness is sown in peace by those
- who make peace" — Both equivalent in meaning. Greek "karpos
- dikaiosunēs" — fruit/harvest of righteousness.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "For we all stumble in many ways" — "stumble"
-       (ptaiomen = trip/fail/make mistakes). WEB: "For in many
-       things we all stumble." KJV: "For in many things we offend
-       all." James includes himself — tongue control is universal
-       struggle. No one has mastered it.
-
-v.6  — NET: "the tongue is a fire, the world of unrighteousness
-       among our members" — "world of unrighteousness" (ho kosmos
-       tEs adikias). WEB: "a world of iniquity." KJV: "a world of
-       iniquity." The tongue contains an entire cosmos of evil —
-       small in size, infinite in destructive capacity.
-
-v.8  — NET: "But no human being can subdue the tongue" — "subdue"
-       (damasai = tame — used of wild animals). WEB: "no man can
-       tame the tongue." KJV: "the tongue can no man tame." We can
-       tame lions and dolphins — but not the tongue. Only God can.
-
-v.17 — NET: "the wisdom from above is first pure, then peaceable,
+       NET: "the wisdom from above is first pure, then peaceable,
        gentle, accommodating, full of mercy and good fruit" —
        "accommodating" (eupeithEs = easily persuaded/open to
        reason). WEB: "gentle, reasonable." KJV: "easy to be
        intreated." Heavenly wisdom is not stubborn or combative.
 
-v.18 — NET: "the fruit of righteousness is sown in peace among
+v.18 — KJV: "the fruit of righteousness is sown in peace of them that make
+ peace" / ESV: "a harvest of righteousness is sown in peace by those
+ who make peace" — Both equivalent in meaning. Greek "karpos
+ dikaiosunēs" — fruit/harvest of righteousness.
+       NET: "the fruit of righteousness is sown in peace among
        those who make peace" — "sown in peace" (en eirEnE speiretai).
        WEB: "the fruit of righteousness is sown in peace by those
        who make peace." Righteousness grows in peaceful conditions

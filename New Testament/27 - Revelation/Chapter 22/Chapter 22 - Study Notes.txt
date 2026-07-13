@@ -117,7 +117,7 @@ Charles Spurgeon:
  except willingness. The Bible ends not with a threat but with an invitation.
  Come."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "a pure river of water of life, clear as crystal, proceeding out
  of the throne of God and of the Lamb" / ESV: "the river of the water of
@@ -126,6 +126,11 @@ v.1 — KJV: "a pure river of water of life, clear as crystal, proceeding out
  radiant) rather than KJV's "clear." Greek "hudatos zōēs" — living
  water. The river flows from "the throne of God AND of the Lamb" —
  Father and Son together as the source of life.
+       NET: "Then the angel showed me the river of the water
+       of life — Loss clear as crystal — flowing from the throne
+       of God and of the Lamb" — "water of life" (hydatos zOEs).
+       WEB: "a river of water of life, clear as crystal." Echoing
+       Ezekiel 47 and Genesis 2 — paradise restored and surpassed.
 
 v.2 — KJV: "the tree of life, which bare twelve manner of fruits, and
  yielded her fruit every month: and the leaves of the tree were for the
@@ -135,6 +140,11 @@ v.2 — KJV: "the tree of life, which bare twelve manner of fruits, and
  tree of life from Genesis 2:9, now restored. "Healing" — Greek
  "therapeian" — health/wholeness, not curing sickness but providing
  ongoing vitality.
+       NET: "On each side of the river is the tree of life
+       producing twelve kinds of fruit, yielding its fruit every
+       month" — "tree of life" (xylon zOEs = wood/tree of life).
+       WEB: "the tree of life." Genesis 3 barred access; Revelation
+       22 restores it — no more cherubim guarding the way.
 
 v.3 — KJV: "there shall be no more curse" / ESV: "No longer will there be
  anything accursed" — ESV's "anything accursed" (Greek "katathema") is
@@ -146,6 +156,11 @@ v.4 — KJV: "they shall see his face; and his name shall be in their
  their foreheads" — Both equivalent. The beatific vision. In the OT, no
  one could see God's face and live (Exodus 33:20). In eternity, believers
  see Him face to face — the ultimate intimacy.
+       NET: "They will see his face, and his name will be on
+       their foreheads" — "see his face" (opsontai to prosOpon
+       autou). WEB: "They will see his face." The beatific vision
+       — what Moses was denied (Exodus 33:20) believers receive
+       eternally. Face-to-face with God.
 
 v.5 — KJV: "there shall be no night there; and they need no candle, neither
  light of the sun; for the Lord God giveth them light: and they shall
@@ -200,6 +215,13 @@ v.17 — KJV: "the Spirit and the bride say, Come... And whosoever will, let
  — ESV uses "without price" (Greek "dōrean" — as a gift, without
  payment) for KJV's "freely." Greek "ho thelōn" — the one who wills/
  desires. The final invitation is to anyone who wants to come.
+       NET: "And the Spirit and the bride say, 'Come!' And let
+       the one who hears say, 'Come!' And let the one who is
+       thirsty come; let the one who wants it take the water of
+       life free of charge" — "free of charge" (dOrean = as a
+       gift). WEB: "let him who desires take the water of life
+       freely." The final gospel invitation — free, universal,
+       Spirit-empowered.
 
 v.19 — KJV: "God shall take away his part out of the book of life" / ESV:
  "God will take away his share in the tree of life" — Significant textual
@@ -211,47 +233,18 @@ v.20 — KJV: "Surely I come quickly. Amen. Even so, come, Lord Jesus" / ESV:
  for "quickly." Greek "Nai, erchou, Kurie Iēsou" — Yes, come, Lord
  Jesus. The church's final prayer. Echoes the Aramaic "Maranatha" (1 Cor
  16:22).
+       NET: "The one who testifies to these things says, 'Yes, I
+       am coming soon!' Amen! Come, Lord Jesus!" — "Come, Lord
+       Jesus" (erchou kyrie IEsou — Maranatha in Aramaic). WEB:
+       "Amen! Yes, come, Lord Jesus." KJV: "Even so, come, Lord
+       Jesus." The last prayer of the Bible — the church's longing
+       across two millennia, still unanswered, still urgent.
 
 v.21 — KJV: "The grace of our Lord Jesus Christ be with you all. Amen." /
  ESV: "The grace of the Lord Jesus be with all. Amen." — ESV omits
  "Christ" and "you" (following shorter manuscript readings). The Bible's
  final word is GRACE. From Genesis to Revelation, grace has the last
  word.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "Then the angel showed me the river of the water
-       of life — Loss clear as crystal — flowing from the throne
-       of God and of the Lamb" — "water of life" (hydatos zOEs).
-       WEB: "a river of water of life, clear as crystal." Echoing
-       Ezekiel 47 and Genesis 2 — paradise restored and surpassed.
-
-v.2  — NET: "On each side of the river is the tree of life
-       producing twelve kinds of fruit, yielding its fruit every
-       month" — "tree of life" (xylon zOEs = wood/tree of life).
-       WEB: "the tree of life." Genesis 3 barred access; Revelation
-       22 restores it — no more cherubim guarding the way.
-
-v.4  — NET: "They will see his face, and his name will be on
-       their foreheads" — "see his face" (opsontai to prosOpon
-       autou). WEB: "They will see his face." The beatific vision
-       — what Moses was denied (Exodus 33:20) believers receive
-       eternally. Face-to-face with God.
-
-v.17 — NET: "And the Spirit and the bride say, 'Come!' And let
-       the one who hears say, 'Come!' And let the one who is
-       thirsty come; let the one who wants it take the water of
-       life free of charge" — "free of charge" (dOrean = as a
-       gift). WEB: "let him who desires take the water of life
-       freely." The final gospel invitation — free, universal,
-       Spirit-empowered.
-
-v.20 — NET: "The one who testifies to these things says, 'Yes, I
-       am coming soon!' Amen! Come, Lord Jesus!" — "Come, Lord
-       Jesus" (erchou kyrie IEsou — Maranatha in Aramaic). WEB:
-       "Amen! Yes, come, Lord Jesus." KJV: "Even so, come, Lord
-       Jesus." The last prayer of the Bible — the church's longing
-       across two millennia, still unanswered, still urgent.
 
 GLOSSARY
 ------------------------------------

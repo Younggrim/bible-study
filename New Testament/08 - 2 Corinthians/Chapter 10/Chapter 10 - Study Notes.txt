@@ -77,26 +77,7 @@ Charles Spurgeon:
   is for the mind. Every thought must be captured and brought to Christ.
   Every imagination that exalts itself against God must be demolished."
 
-TRANSLATION NOTES
-------------------------------------
-
-v.4  — KJV: "mighty through God" / ESV: "of the flesh but have divine" — Greek "dunata tō theō" — powerful in God,
-       divinely powerful. Not human strength but God's power working through
-       spiritual weapons.
-
-v.5  — KJV: "imaginations" / ESV: "We destroy arguments and" — Greek "logismous" — reasonings, arguments,
-       thought patterns. The battle is intellectual/spiritual — wrong thinking
-       must be demolished and replaced with Christ's truth.
-
-v.5  — KJV: "bringing into captivity every thought" / ESV: "of God, and take every thought captive" — Military language:
-       taking prisoners of war. Every thought that rebels against Christ must
-       be captured and made obedient.
-
-v.12 — KJV: "are not wise" / ESV: "without understanding" — Understatement. Comparing yourself to others
-       (rather than to God's standard) is foolish — it always produces either
-       pride or despair.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.3  — NET: "the weapons of our warfare are not human weapons,
        but are made powerful by God for tearing down strongholds"
@@ -105,12 +86,28 @@ v.3  — NET: "the weapons of our warfare are not human weapons,
        before God to the throwing down of strongholds." Spiritual
        warfare requires spiritual weapons.
 
-v.4  — NET: "We tear down arguments" — "arguments" (logismous =
+v.4  — KJV: "mighty through God" / ESV: "of the flesh but have divine" — Greek "dunata tō theō" — powerful in God,
+       divinely powerful. Not human strength but God's power working through
+       spiritual weapons.
+       NET: "We tear down arguments" — "arguments" (logismous =
        reasonings/speculations). WEB: "throwing down imaginations."
        KJV: "Casting down imaginations." The battlefield is the
        mind — false ideologies and human reasoning opposed to God.
 
-v.5  — NET: "and every arrogant obstacle that is raised up against
+v.5  — KJV: "imaginations" / ESV: "We destroy arguments and" — Greek "logismous" — reasonings, arguments,
+       thought patterns. The battle is intellectual/spiritual — wrong thinking
+       must be demolished and replaced with Christ's truth.
+       NET: "and every arrogant obstacle that is raised up against
+       the knowledge of God, and we take every thought captive to
+       make it obey Christ" — "every thought captive" (pan noEma
+       aichmalOtizontes). WEB: "bringing every thought into
+       captivity to the obedience of Christ." Comprehensive mental
+       discipline — no thought exempt from Christ's lordship.
+
+v.5  — KJV: "bringing into captivity every thought" / ESV: "of God, and take every thought captive" — Military language:
+       taking prisoners of war. Every thought that rebels against Christ must
+       be captured and made obedient.
+       NET: "and every arrogant obstacle that is raised up against
        the knowledge of God, and we take every thought captive to
        make it obey Christ" — "every thought captive" (pan noEma
        aichmalOtizontes). WEB: "bringing every thought into
@@ -123,7 +120,10 @@ v.10 — NET: "His letters are weighty and powerful, but his
        is weak, and his speech is despised." Paul may have had
        physical ailments and lacked rhetorical polish.
 
-v.12 — NET: "we do not dare to classify or compare ourselves with
+v.12 — KJV: "are not wise" / ESV: "without understanding" — Understatement. Comparing yourself to others
+       (rather than to God's standard) is foolish — it always produces either
+       pride or despair.
+       NET: "we do not dare to classify or compare ourselves with
        some of those who recommend themselves" — "compare ourselves"
        (synkrinai heautous) — measuring ministry by comparison is
        foolish. WEB: "comparing themselves with themselves." Self-

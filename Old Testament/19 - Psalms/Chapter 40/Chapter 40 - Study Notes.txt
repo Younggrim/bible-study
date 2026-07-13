@@ -140,7 +140,7 @@ urgent prayer for help.
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2 — "an horrible pit" (KJV) / "the pit of destruction" (ESV):
 Hebrew bor sha'on — bor means pit, cistern, or dungeon; sha'on
@@ -181,22 +181,6 @@ thought for me" (ESV): Hebrew yachashav li — "He thinks/plans
 toward me." The same verb (chashab) used for "imputing" sin in
 Psalm 32:2 is here used positively — God "reckons" the poor and
 needy as worthy of attention. He actively plans on their behalf.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "I waited patiently for Jehovah" / WEB: "I waited patiently for Yahweh" / NET: "I relied completely on the Lord" — NET changes "waited patiently" to "relied completely" — a significant shift. Hebrew "qavvoh qivviti" is literally "waiting I waited" (emphatic doubling). The concept is patient, expectant waiting — not mere reliance. NET loses the temporal/patience dimension.
-
-- v.2 — NET: "He lifted me out of the watery pit, out of the slimy mud" — NET adds "watery" to clarify "horrible pit" (bor sha'on). KJV's "horrible pit" and ASV's "horrible pit" preserve the terror; NET's "watery pit" specifies but domesticates the image.
-
-- v.6 — KJV: "mine ears hast thou opened" / ASV: "Mine ears hast thou opened" / WEB: "You have opened my ears" / NET: "You make that quite clear to me" — NET completely removes the "ears opened" phrase, paraphrasing the entire verse. This eliminates the crucial Hebrew "oznayim karita li" (ears you have dug/pierced for me) — the very phrase the LXX rendered as "a body you prepared for me" (quoted in Hebrews 10:5). A major loss.
-
-- v.10 — ASV: "I have not concealed thy lovingkindness and thy truth" / WEB: "I have not concealed your loving kindness and your truth" / NET: "I have not neglected to tell the great assembly about your loyal love and faithfulness" — NET's "loyal love" for chesed and "faithfulness" for emet. ASV/WEB preserve "lovingkindness and truth" — the traditional rendering of the great Hebrew word-pair "chesed v'emet."
-
-- v.11 — ASV: "Let thy lovingkindness and thy truth continually preserve me" / WEB: "Let your loving kindness and your truth continually preserve me" / NET: "May your loyal love and faithfulness continually protect me" — Again NET's "loyal love" vs. ASV/WEB's "lovingkindness." NET's "protect" replaces "preserve" (natsar = guard, watch over, preserve) — a subtle but important difference between protection from attack and preservation of existence.
-
-- v.16 — ASV: "Jehovah be magnified" / WEB: "Let Yahweh be exalted" / NET: "May the Lord be praised" — Three different renderings: magnified (made great), exalted (lifted up), praised (thanked). Hebrew "yigdal YHWH" = let YHWH be great/magnified. ASV is most literal; NET's "praised" is weakest — magnification implies God's greatness being recognized, not merely verbal praise.
-
-- v.17 — KJV: "yet the Lord thinketh upon me" / ASV: "Yet the Lord thinketh upon me" / WEB: "May the Lord think about me" / NET: "May the Lord pay attention to me" — NET's "pay attention" is dismissive compared to the Hebrew "chashab" (to think, plan, reckon toward). God doesn't merely "pay attention" — He actively plans and purposes good for the needy.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

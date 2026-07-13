@@ -87,7 +87,7 @@ Charles Spurgeon:
   testify. You need a changed life. 'I was blind, now I see' — that is the
   most powerful argument in the world."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3  — KJV: "that the works of God should be made manifest in him" / ESV: "that the works of God might be displayed in him" — Greek "phanerōthē" — Both equivalent. KJV uses "manifest"; ESV uses "displayed." Both convey that suffering can be the stage for God's glory.
   [ASV/NET/WEB]: NET: "Neither this man nor his parents sinned, but he
@@ -132,7 +132,6 @@ v.39 — NET: "For judgment I have come into this world, so that
        become blind." Irony as theology.
 
 v.41 — KJV: "ye should have no sin: but now ye say, We see; therefore your sin remaineth" / ESV: "you would have no guilt; but now that you say, 'We see,' your guilt remains" — Greek "hamartia" — KJV uses "sin"; ESV uses "guilt." Both convey that claiming spiritual sight while rejecting Christ leaves one without excuse.
-
 
 GLOSSARY
 ------------------------------------

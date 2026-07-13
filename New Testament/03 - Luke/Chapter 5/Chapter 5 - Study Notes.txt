@@ -93,33 +93,13 @@ Charles Spurgeon:
   if you know you are a sinner — then He is exactly what you need. The
   hospital is for the sick, not the healthy."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "lake of Gennesaret" / ESV: "lake of Gennesaret" — Both
        identical. Another name for the Sea of Galilee (also called Sea of
        Tiberias in John). Gennesaret refers to the fertile plain on its
        northwest shore.
 
-v.12 — KJV: "a man full of leprosy" / ESV: "a man full of leprosy" — Both
-       identical. Luke the physician notes the severity — "full of leprosy"
-       indicates advanced disease. Only Luke uses this medical precision.
-
-v.19 — KJV: "through the tiling" / ESV: "through the tiles" — Both
-       equivalent. Luke says tiles; Mark says they "uncovered the roof"
-       (Mark 2:4). Palestinian houses had flat roofs made of beams, branches,
-       and packed earth — sometimes with tiles. Both descriptions are accurate
-       for different construction styles.
-
-v.39 — KJV: "No man also having drunk old wine straightway desireth new: for
-       he saith, The old is better." / ESV: "And no one after drinking old
-       wine desires new, for he says, 'The old is good.'" — KJV: "better" /
-       ESV: "good" — Greek "chrēstos" can mean either. Only in Luke. Jesus
-       acknowledges that people prefer the familiar — the old religious system
-       feels comfortable. But the new wine of the kingdom requires new
-       containers.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
 v.5  — NET: "Master, we worked hard all night and caught
        nothing! But at your word I will lower the nets" — "Master"
        (epistatēs) — a term of respect unique to Luke, different
@@ -132,6 +112,16 @@ v.8  — NET: "Go away from me, Lord, for I am a sinful man" —
        power reveals human unworthiness. ASV: "Depart from me;
        for I am a sinful man, O Lord."
 
+v.12 — KJV: "a man full of leprosy" / ESV: "a man full of leprosy" — Both
+       identical. Luke the physician notes the severity — "full of leprosy"
+       indicates advanced disease. Only Luke uses this medical precision.
+
+v.19 — KJV: "through the tiling" / ESV: "through the tiles" — Both
+       equivalent. Luke says tiles; Mark says they "uncovered the roof"
+       (Mark 2:4). Palestinian houses had flat roofs made of beams, branches,
+       and packed earth — sometimes with tiles. Both descriptions are accurate
+       for different construction styles.
+
 v.20 — NET: "Friend, your sins are forgiven" — "Friend" (anthrōpe
        = "man/fellow") is Luke's distinctive address. KJV: "Man,
        thy sins are forgiven thee." WEB: "Man, your sins are
@@ -143,7 +133,14 @@ v.26 — NET: "Then astonishment seized them all, and they glorified
        = paradoxes/things contrary to expectation. KJV: "strange
        things." WEB: "strange things."
 
-v.39 — NET: "No one after drinking old wine wants the new, for he
+v.39 — KJV: "No man also having drunk old wine straightway desireth new: for
+       he saith, The old is better." / ESV: "And no one after drinking old
+       wine desires new, for he says, 'The old is good.'" — KJV: "better" /
+       ESV: "good" — Greek "chrēstos" can mean either. Only in Luke. Jesus
+       acknowledges that people prefer the familiar — the old religious system
+       feels comfortable. But the new wine of the kingdom requires new
+       containers.
+       NET: "No one after drinking old wine wants the new, for he
        says, 'The old is good enough'" — unique to Luke. A warning:
        people comfortable with the old system resist Jesus' new
        wine. WEB: "The old is better." NET's "good enough" captures

@@ -118,7 +118,7 @@ be courageous, a repeated refrain throughout the Psalter.
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.5 — "commit" (KJV) / "commit" (ESV): Both translate Hebrew
 'apqid (from paqad — to entrust, deposit). The word carries the
@@ -149,22 +149,6 @@ Hebrew rokes can mean either "pride/arrogance" or "plots/
 conspiracies." The ESV interpretation connects to the context of
 enemies scheming, while KJV emphasizes the general hostility of
 proud men.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.5 — ASV: "Into thy hand I commend my spirit: Thou hast redeemed me, O Jehovah, thou God of truth" / WEB: "Into your hand I commend my spirit. You redeem me, Yahweh, God of truth" / NET: "Into your hand I entrust my life; you will rescue me, O Lord, the faithful God" — NET changes "spirit" (ruach) to "life" and "redeemed" to "rescue," diminishing the spiritual depth. Christ quoted this verse on the cross (Luke 23:46) — "spirit" is theologically significant.
-
-- v.7 — KJV: "thy mercy" / ASV: "thy lovingkindness" / WEB: "your loving kindness" / NET: "your faithfulness" — Hebrew "chesed" rendered four ways. NET's "faithfulness" emphasizes God's reliability; KJV's "mercy" emphasizes compassion; ASV/WEB's "lovingkindness" captures the covenant-loyalty dimension.
-
-- v.16 — KJV: "save me for thy mercies' sake" / ASV: "Save me in thy lovingkindness" / WEB: "Save me in your loving kindness" / NET: "Deliver me because of your faithfulness" — Again chesed varies. The prayer grounds deliverance not in David's merit but in God's own character — whether called mercy, lovingkindness, or faithfulness.
-
-- v.17 — KJV: "let them be silent in the grave" / ASV: "let them be silent in Sheol" / WEB: "Let them be silent in Sheol" / NET: "May they go wailing to the grave" — KJV translates Sheol as "grave"; ASV/WEB retain the Hebrew term. NET adds "wailing" — not in the Hebrew — and changes "silent" to its opposite in emphasis. The Hebrew requests silence (dumbness) in Sheol for the wicked.
-
-- v.19 — NET: "How great is your favor, which you store up for your loyal followers" / KJV: "Oh how great is thy goodness, which thou hast laid up for them that fear thee" — NET renders "goodness" (tuv) as "favor" and "them that fear thee" as "loyal followers." "Fear" (yirah) implies reverent awe, not merely loyalty — NET's paraphrase flattens the relationship.
-
-- v.21 — ASV: "he hath showed me his marvellous lovingkindness in a strong city" / WEB: "he has shown me his marvelous loving kindness in a strong city" / NET: "he demonstrated his amazing faithfulness to me when I was besieged by enemies" — NET interprets "strong city" as being "besieged by enemies," adding a military context. The Hebrew simply says "in a fortified city" — God showed chesed in that location.
-
-- v.22 — NET: "I jumped to conclusions and said" / KJV: "I said in my haste" / ASV: "I said in my haste" — NET's "jumped to conclusions" is colloquial and interpretive. Hebrew "chaphaz" = to be in a hurry, to be alarmed. The idea is panic-driven speech, not merely premature judgment.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

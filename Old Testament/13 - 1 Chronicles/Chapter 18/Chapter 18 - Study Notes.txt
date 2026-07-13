@@ -168,47 +168,9 @@ Charles Spurgeon:
   whithersoever we go. In every trial, every temptation, every valley
   of shadow—the LORD preserves."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-Verse 1 — "her towns" (KJV) vs. "its villages" (ESV): The Hebrew
-  וּבְנֹתֶיהָ (uvnoteyha) literally means "and her daughters," a
-  common Hebrew idiom for satellite towns or dependent villages
-  surrounding a major city. The KJV's "towns" and ESV's "villages" both
-  convey the meaning, though the Hebrew metaphor of "daughters" is lost
-  in both translations.
 
-Verse 3 — "Hadarezer" (KJV) vs. "Hadadezer" (ESV): The KJV follows
-  the Hebrew spelling הֲדַרְעֶזֶר with a resh (r), while the ESV
-  uses הֲדַדְעֶזֶר with a daleth (d), following the 2 Samuel 8:3
-  spelling. The name means "Hadad is my help" (referencing the Syrian
-  storm god), making the daleth reading more etymologically correct.
-
-Verse 4 — "houghed" (KJV) vs. "hamstrung" (ESV): The Hebrew וַיְעַקֵּר
-  (vay'aqqer) means to sever the hamstring tendons. "Houghed" (also
-  spelled "hocked") is archaic English for this procedure. The ESV's
-  "hamstrung" is the modern equivalent. David disabled the horses rather
-  than keeping them, likely in obedience to Deuteronomy 17:16.
-
-Verse 6 — "brought gifts" (KJV) vs. "brought tribute" (ESV): The
-  Hebrew מִנְחָה (minhah) can mean either a voluntary gift or
-  compulsory tribute. In this military context, the ESV's "tribute"
-  better captures the forced nature of the payment from a conquered
-  people. The KJV's "gifts" is more neutral but potentially misleading.
-
-Verse 6 — "the LORD preserved David" (KJV) vs. "the LORD gave victory
-  to David" (ESV): The Hebrew וַיּוֹשַׁע יְהוָה (vayyosha Yahweh)
-  uses the root יָשַׁע (yasha), meaning to save, deliver, or give
-  victory. The KJV's "preserved" emphasizes protection; the ESV's "gave
-  victory" emphasizes triumph. The Hebrew encompasses both—God both
-  protected David and granted him conquest.
-
-Verse 17 — "chief about the king" (KJV) vs. "chief officials in the
-  service of the king" (ESV): The Hebrew הָרִאשֹׁנִים לְיַד הַמֶּלֶךְ
-  (harishonim leyad hammelek) means "the first/chief ones at the hand
-  of the king." In 2 Samuel 8:18, David's sons are called "priests"
-  (כֹּהֲנִים), which the Chronicler apparently adjusts since non-
-  Levites could not serve as priests, rendering it instead as "chief
-  officials."
 
 GLOSSARY
 ------------------------------------

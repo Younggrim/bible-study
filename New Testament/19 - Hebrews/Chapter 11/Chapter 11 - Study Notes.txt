@@ -107,17 +107,30 @@ Charles Spurgeon:
  — sin HAS pleasures, but they are 'for a season.' Moses calculated: eternal
  reward vs. temporary pleasure. He chose wisely. What are you choosing?"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "substance" / ESV: "assurance" — Greek "hupostasis" — foundation, reality,
  assurance. Faith gives substance/reality to what is hoped for. It is
  not wishful thinking but confident assurance. "Evidence" — Greek
  "elegchos" — proof, conviction, demonstration.
+       NET: "Now faith is being sure of what we hope for,
+       being convinced of what we do not see" — "being sure"
+       (hypostasis = substance/foundation/confidence). "Being
+       convinced" (elenchos = proof/evidence/conviction). WEB:
+       "faith is assurance of things hoped for, proof of things
+       not seen." KJV: "substance... evidence." Faith is itself
+       the proof — not blind but substantive.
 
 v.3 — KJV: "framed" / ESV: "created" — Greek "katērtisthai" — prepared, put in order,
  created. "Things which are seen were not made of things which do
  appear" — creation ex nihilo (out of nothing). The visible came from
  the invisible by God's word.
+       NET: "By faith we understand that the worlds were set in
+       order at God's command" — "set in order" (katErtisthai =
+       framed/prepared/equipped). WEB: "the universe has been
+       framed by the word of God." KJV: "the worlds were framed
+       by the word of God." Creation by divine speech — the first
+       act of faith-understanding.
 
 v.5 — KJV: "translated" / ESV: "taken up" — Greek "metatethēnai" — transferred, removed.
  Enoch was taken directly to God without dying.
@@ -125,10 +138,19 @@ v.5 — KJV: "translated" / ESV: "taken up" — Greek "metatethēnai" — transf
 v.6 — KJV: "impossible to please him" / ESV: Both equivalent. — Without faith, nothing pleases God.
  Not works, not morality, not religion — faith is the prerequisite for
  pleasing God.
+       NET: "without faith it is impossible to please him" —
+       "impossible" (adynaton = without power/unable). WEB: "without
+       faith it is impossible to be well pleasing to him." The most
+       absolute statement: no faith = no pleasing God. Period.
 
 v.13 — KJV: "strangers and pilgrims" / ESV: "strangers" — Greek "xenoi kai parepidēmoi" —
  foreigners and temporary residents. They lived as aliens on earth
  because their true home was elsewhere.
+       NET: "These all died in faith without receiving the
+       things promised" — "without receiving" (mE labontes = not
+       having obtained). WEB: "not having received the promises."
+       KJV: "not having received the promises." Faith's greatest
+       test: dying without seeing the fulfillment.
 
 v.17 — KJV: "offered up" / ESV: Both equivalent. — Greek "prosenenoken" — perfect tense: has offered.
  In Abraham's heart, the sacrifice was complete — even though God
@@ -146,36 +168,7 @@ v.40 — KJV: "some better thing for us" / ESV: "something better" — Christ an
  OT saints' faith is completed in what we now possess. "They without us
  should not be made perfect" — their story is incomplete without ours;
  we share in the same salvation.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "Now faith is being sure of what we hope for,
-       being convinced of what we do not see" — "being sure"
-       (hypostasis = substance/foundation/confidence). "Being
-       convinced" (elenchos = proof/evidence/conviction). WEB:
-       "faith is assurance of things hoped for, proof of things
-       not seen." KJV: "substance... evidence." Faith is itself
-       the proof — not blind but substantive.
-
-v.3  — NET: "By faith we understand that the worlds were set in
-       order at God's command" — "set in order" (katErtisthai =
-       framed/prepared/equipped). WEB: "the universe has been
-       framed by the word of God." KJV: "the worlds were framed
-       by the word of God." Creation by divine speech — the first
-       act of faith-understanding.
-
-v.6  — NET: "without faith it is impossible to please him" —
-       "impossible" (adynaton = without power/unable). WEB: "without
-       faith it is impossible to be well pleasing to him." The most
-       absolute statement: no faith = no pleasing God. Period.
-
-v.13 — NET: "These all died in faith without receiving the
-       things promised" — "without receiving" (mE labontes = not
-       having obtained). WEB: "not having received the promises."
-       KJV: "not having received the promises." Faith's greatest
-       test: dying without seeing the fulfillment.
-
-v.40 — NET: "God had planned something better for us, so that
+       NET: "God had planned something better for us, so that
        they would be made perfect together with us" — "something
        better for us" (peri hEmOn kreitton ti problepsamenos). WEB:
        "God having provided some better thing concerning us." OT

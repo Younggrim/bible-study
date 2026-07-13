@@ -82,31 +82,12 @@ Charles Spurgeon:
   — does it BUILD UP the body? If it doesn't edify, it doesn't belong in
   corporate worship, no matter how spectacular it seems."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.2  — KJV: "unknown tongue" / ESV: "in a tongue speaks not" — "Unknown" is italicized in KJV (not in the
        Greek). It was added by translators for clarity. The gift may be known
        languages (as at Pentecost) or ecstatic speech — debated.
-
-v.19 — KJV: "five words with my understanding" / ESV: "I would rather speak five words with my" — Paul values intelligible
-       communication over impressive but incomprehensible speech. Teaching
-       that people understand is more valuable than displays they don't.
-
-v.33 — KJV: "God is not the author of confusion" / ESV: "For God is not a God of confusion but of peace. As" — Greek "akatastasia" —
-       disorder, instability, chaos. God's character is orderly and peaceful;
-       worship should reflect His nature.
-
-v.34 — KJV: "Let your women keep silence" / ESV: "the women should keep silent" — One of the most debated verses.
-       Interpretations: (1) absolute silence for women in all church settings,
-       (2) silence regarding judging prophecy (v.29), (3) silence regarding
-       disruptive questioning (v.35), (4) a Corinthian quote Paul corrects
-       (v.36). Context and 11:5 (women praying/prophesying) suggest a limited
-       application.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "For the one who speaks in a tongue does not speak
+       NET: "For the one who speaks in a tongue does not speak
        to people but to God" — "to God" (theO lalei) — tongues
        directed Godward, not humanward. WEB: "speaks not to men,
        but to God." KJV: "speaketh not unto men, but unto God."
@@ -119,18 +100,31 @@ v.5  — NET: "I wish you all spoke in tongues, but even more I
        that you all spoke with other languages, but rather that
        you would prophesy."
 
-v.19 — NET: "in the church I want to speak five words with my
+v.19 — KJV: "five words with my understanding" / ESV: "I would rather speak five words with my" — Paul values intelligible
+       communication over impressive but incomprehensible speech. Teaching
+       that people understand is more valuable than displays they don't.
+       NET: "in the church I want to speak five words with my
        mind to instruct others, rather than ten thousand words in a
        tongue" — "five words... ten thousand" — hyperbolic ratio.
        WEB: "I would rather speak five words with my understanding
        ...than ten thousand words in another language." Intelligibility
        over impressiveness.
 
-v.33 — NET: "for God is not characterized by disorder but by
+v.33 — KJV: "God is not the author of confusion" / ESV: "For God is not a God of confusion but of peace. As" — Greek "akatastasia" —
+       disorder, instability, chaos. God's character is orderly and peaceful;
+       worship should reflect His nature.
+       NET: "for God is not characterized by disorder but by
        peace" — "disorder" (akatastasias = instability/confusion).
        WEB: "God is not a God of confusion, but of peace." KJV:
        "God is not the author of confusion, but of peace." The
        character of God defines proper worship.
+
+v.34 — KJV: "Let your women keep silence" / ESV: "the women should keep silent" — One of the most debated verses.
+       Interpretations: (1) absolute silence for women in all church settings,
+       (2) silence regarding judging prophecy (v.29), (3) silence regarding
+       disruptive questioning (v.35), (4) a Corinthian quote Paul corrects
+       (v.36). Context and 11:5 (women praying/prophesying) suggest a limited
+       application.
 
 v.40 — NET: "But everything must be done in a proper and orderly
        manner" — "proper and orderly" (euschEmonOs kai kata taxin).

@@ -98,30 +98,7 @@ Charles Spurgeon:
   and repentance led to restoration. Judas felt remorse — and remorse
   without repentance led to destruction."
 
-TRANSLATION NOTES
-------------------------------------
-v.26 — KJV: "This is my body" / ESV: "This is my body" — Both identical. The
-       meaning of "is" (Greek: estin) is debated: (1) Catholic/Orthodox:
-       literal — transubstantiation; (2) Lutheran: "in, with, and under" —
-       consubstantiation; (3) Reformed: "represents" or "signifies" —
-       memorial. Jesus was physically present when He said it, making a
-       purely literal reading difficult.
-
-v.28 — KJV: "new testament" — ESV: "covenant" — Greek "diathēkē" — a covenant,
-       not a "testament" in the modern sense. The new covenant replaces the
-       old Mosaic covenant (Jeremiah 31:31-34).
-
-v.39 — KJV: "this cup" / ESV: "this cup" — Both identical. The cup of God's
-       wrath against sin (Isaiah 51:17, Psalm 75:8). Jesus was not merely
-       afraid of physical death but of bearing the full weight of divine
-       judgment against all human sin.
-
-v.64 — KJV: "Thou hast said" / ESV: "You have said so" — Both identical in
-       meaning. A Jewish idiom for "yes, you are correct." Jesus affirms He
-       is the Christ, then adds the Daniel 7:13 claim — making His deity
-       explicit. This is what the high priest calls "blasphemy."
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.15 — NET: "What are you willing to give me to betray him to
        you?" — "willing to give" (thelete moi dounai). WEB: "What
@@ -129,25 +106,42 @@ v.15 — NET: "What are you willing to give me to betray him to
        Judas initiates. "They set out for him thirty pieces of
        silver" — the price of a slave (Exodus 21:32).
 
-v.26 — NET: "Take, eat, this is my body" — "this is" (touto estin)
+v.26 — KJV: "This is my body" / ESV: "This is my body" — Both identical. The
+       meaning of "is" (Greek: estin) is debated: (1) Catholic/Orthodox:
+       literal — transubstantiation; (2) Lutheran: "in, with, and under" —
+       consubstantiation; (3) Reformed: "represents" or "signifies" —
+       memorial. Jesus was physically present when He said it, making a
+       purely literal reading difficult.
+       NET: "Take, eat, this is my body" — "this is" (touto estin)
        — the words of institution. WEB: "Take, eat; this is my
        body." Debated across church history: literal? spiritual?
        memorial? The simplicity of the words conceals centuries of
        theological debate.
 
-v.28 — NET: "this is my blood of the covenant, that is poured out
+v.28 — KJV: "new testament" — ESV: "covenant" — Greek "diathēkē" — a covenant,
+       not a "testament" in the modern sense. The new covenant replaces the
+       old Mosaic covenant (Jeremiah 31:31-34).
+       NET: "this is my blood of the covenant, that is poured out
        for many for the forgiveness of sins" — "blood of the
        covenant" (to haima mou tEs diathEkEs). WEB: "my blood of
        the new covenant." KJV: "my blood of the new testament."
        Some manuscripts omit "new" — NET/ESV omit; KJV includes.
 
-v.39 — NET: "My Father, if possible, let this cup pass from me!
+v.39 — KJV: "this cup" / ESV: "this cup" — Both identical. The cup of God's
+       wrath against sin (Isaiah 51:17, Psalm 75:8). Jesus was not merely
+       afraid of physical death but of bearing the full weight of divine
+       judgment against all human sin.
+       NET: "My Father, if possible, let this cup pass from me!
        Yet not what I will, but what you will" — "if possible"
        (ei dynaton estin). WEB: "if it is possible." KJV: "if it
        be possible." Honest prayer + total submission — the model
        for all prayer in suffering.
 
-v.64 — NET: "You have said it yourself. But I tell you, from now
+v.64 — KJV: "Thou hast said" / ESV: "You have said so" — Both identical in
+       meaning. A Jewish idiom for "yes, you are correct." Jesus affirms He
+       is the Christ, then adds the Daniel 7:13 claim — making His deity
+       explicit. This is what the high priest calls "blasphemy."
+       NET: "You have said it yourself. But I tell you, from now
        on you will see the Son of Man sitting at the right hand of
        the Power" — "You have said it" (sy eipas = affirmative
        answer in rabbinic idiom). WEB: "You have said so." KJV:

@@ -64,7 +64,7 @@ v.3   — Psalm 121:2 — "My help cometh from the LORD, which made
 COMMENTARY REFERENCES
 ------------------------------------
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 - v.1 — KJV: "Behold, bless ye the LORD" / WEB: "Look! Praise Yahweh" / NET: "Attention! Praise the Lord" — NET's "Attention!" is a striking rendering of Hebrew "hinneh" (behold/look). It commands alertness rather than inviting observation.
 - v.1 — NET: "who serve in the Lord's temple during the night" — Expands KJV's "which by night stand in the house of the LORD." NET adds "serve" and changes "house" to "temple," making the priestly function explicit.

@@ -80,7 +80,7 @@ v.9   — Psalm 96:13 — Nearly identical ending: God coming to judge
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "gotten him the victory" / ESV: "worked salvation for
       him" — Hebrew "hoshia lo" = saved/delivered for him(self).
@@ -94,22 +94,6 @@ v.4 — KJV: "Make a joyful noise unto the LORD, all the earth:
       into joyous song and sing praises!" — Four commands: noise,
       loud noise, rejoice, sing. The escalation from general
       shout to specific song.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "Oh sing unto Jehovah a new song" / WEB: "Sing to Yahweh a new song" — Both use the personal divine name (YHWH) where KJV has "the LORD." ASV renders it "Jehovah" (older English convention); WEB uses "Yahweh" (closer to scholarly reconstruction of Hebrew pronunciation).
-
-- v.1 — NET: "he performs amazing deeds. His right hand and his mighty arm accomplish deliverance" — NET paraphrases freely here. KJV "hath done marvellous things" becomes "performs amazing deeds," and "hath gotten him the victory" becomes "accomplish deliverance." NET interprets the Hebrew "hoshia lo" as ongoing deliverance rather than a completed victory.
-
-- v.2 — KJV: "in the sight of the heathen" / NET: "in the sight of the nations he reveals his justice" / ASV: "openly showed in the sight of the nations" — KJV's "heathen" (Hebrew "goyim") is rendered "nations" by ASV, NET, and WEB. NET also replaces "righteousness" with "justice," an interpretive choice reflecting the public/judicial dimension of God's act.
-
-- v.3 — KJV: "his mercy and his truth" / ASV: "his lovingkindness and his faithfulness" / WEB: "his loving kindness and his faithfulness" / NET: "He remains loyal and faithful" — The Hebrew pair "hesed ve-emunah" shows the full range: KJV "mercy/truth," ASV/WEB "lovingkindness/faithfulness," and NET paraphrases as "loyal and faithful" (turning nouns into adjectives).
-
-- v.6 — ASV: "Make a joyful noise before the King, Jehovah" / WEB: "make a joyful noise before the King, Yahweh" / NET: "shout out praises before the king, the Lord" — All three identify the King as Yahweh/the Lord explicitly. NET's "blaring of the ram's horn" for KJV's "sound of cornet" is more literal to the Hebrew "shofar."
-
-- v.8 — KJV: "Let the floods clap their hands" / WEB: "Let the rivers clap their hands" / NET: "Let the rivers clap their hands!" — Hebrew "neharoth" = rivers/streams. KJV's "floods" is archaic English for flowing waters. WEB and NET use the modern "rivers." ASV also has "floods" (following KJV convention).
-
-- v.9 — NET: "He judges the world fairly, and the nations in a just manner" — NET renders "righteousness" and "equity" (KJV/ASV/WEB) as "fairly" and "in a just manner," shifting from theological vocabulary to plain-English paraphrase. This loses the richness of "righteousness" as a divine attribute but gains accessibility.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

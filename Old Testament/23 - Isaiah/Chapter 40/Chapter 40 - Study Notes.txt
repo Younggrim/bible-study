@@ -109,7 +109,7 @@ Charles Spurgeon:
   it spreads its wings and catches the updraft. Wait for God's
   wind."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — "Comfort ye" (KJV) / "Comfort, comfort" (ESV) — Hebrew
       "nachamu, nachamu" = comfort/console (imperative plural,
@@ -139,38 +139,6 @@ v.31 — "mount up with wings" (KJV/ESV) — Hebrew "ya'alu ever" =
       ascend on pinions. Eagle flight: not powered by frantic
       effort but by catching thermals — resting on wind currents.
       A picture of Spirit-empowered life.
-
-GLOSSARY
-------------------------------------
-Comfort      — Hebrew "nacham" = to comfort, console, show
-              compassion. The word implies MORE than feeling better
-              — it means to be strengthened and restored.
-
-Voice in the Wilderness — The forerunner who prepares for God's
-              arrival. Fulfilled in John the Baptist, who preached
-              in the Judean wilderness, calling people to repentance
-              before Jesus' public ministry.
-
-Wait Upon the LORD — Hebrew "qavah" = to wait, to hope, to look
-              eagerly for. NOT passive sitting but active,
-              expectant trust. Like a taut rope stretched toward
-              its anchor point.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — ASV: "she hath received of Jehovah's hand double for all her sins" / WEB: "she has received of Yahweh's hand double for all her sins" / NET: "For the Lord has made her pay double for all her sins" — ASV and WEB use the divine name (Jehovah/Yahweh) where KJV has "the LORD's hand." NET paraphrases "received" as "made her pay," shifting the tone from passive reception to active divine punishment.
-
-- v.3 — ASV: "Prepare ye in the wilderness the way of Jehovah" / WEB: "Prepare the way of Yahweh in the wilderness" / NET: "In the wilderness clear a way for the Lord" — The divine name stands out: ASV uses "Jehovah," WEB uses "Yahweh," NET uses "the Lord." NET also replaces "prepare" with "clear a way," a more dynamic paraphrase. The placement of "in the wilderness" varies, affecting whether the voice or the preparation is in the wilderness.
-
-- v.7 — ASV: "the breath of Jehovah bloweth upon it" / WEB: "Yahweh's breath blows on it" / KJV: "the spirit of the LORD bloweth upon it" / NET: "the wind sent by the Lord blows on them" — Hebrew "ruach" can mean spirit, breath, or wind. KJV chooses "spirit," ASV/WEB choose "breath," and NET interprets it as "the wind sent by the Lord" — adding agency not in the original text.
-
-- v.10 — ASV: "the Lord Jehovah will come as a mighty one" / WEB: "the Lord Yahweh will come as a mighty one" / NET: "the Sovereign Lord comes as a victorious warrior" / KJV: "the Lord GOD will come with strong hand" — NET expands "mighty one" to "victorious warrior" and renders the compound divine name (Adonai YHWH) as "Sovereign Lord." ASV/WEB preserve the tetragrammaton distinctly (Lord Jehovah/Lord Yahweh).
-
-- v.13 — ASV: "Who hath directed the Spirit of Jehovah" / WEB: "Who has directed Yahweh's Spirit" / NET: "Who comprehends the mind of the Lord" — A major theological difference: ASV/WEB/KJV retain "Spirit" (ruach), while NET renders it as "mind," losing the personal, Trinitarian reference to the Holy Spirit. Paul quotes this passage in Romans 11:34.
-
-- v.27 — ASV: "My way is hid from Jehovah" / WEB: "My way is hidden from Yahweh" / NET: "The Lord is not aware of what is happening to me" — NET completely paraphrases the complaint, expanding a concise Hebrew clause into an interpretive sentence. ASV/WEB retain the more literal "my way is hidden from" with the divine name, matching KJV's structure.
-
-- v.31 — ASV: "they that wait for Jehovah shall renew their strength" / WEB: "those who wait for Yahweh will renew their strength" / NET: "those who wait for the Lord's help find renewed strength" — NET adds "help" (not in Hebrew) and changes "shall renew" to "find renewed strength," softening the active verb. The divine name pattern continues: Jehovah (ASV), Yahweh (WEB), "the Lord" (NET).
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

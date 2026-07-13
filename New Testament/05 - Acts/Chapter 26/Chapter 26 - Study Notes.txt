@@ -93,26 +93,7 @@ Charles Spurgeon:
   a vision and he obeyed it. For 30 years, through beatings, shipwrecks,
   imprisonments, and rejection — he was not disobedient. That is faithfulness."
 
-TRANSLATION NOTES
-------------------------------------
-v.14 — KJV: "it is hard for thee to kick against the pricks" / ESV: "It is
-       hard for you to kick against the goads" — Both equivalent. KJV's
-       "pricks" and ESV's "goads" are the same thing — pointed sticks used
-       to drive oxen. Kicking against them only causes more pain. Paul had
-       been fighting against God's prodding — and losing.
-
-v.18 — KJV: "from darkness to light, and from the power of Satan unto God" /
-       ESV: "from darkness to light and from the power of Satan to God" —
-       Both identical. Two transfers: from darkness to light (intellectual/
-       spiritual) and from Satan's power to God's (authority/dominion).
-       Salvation is both illumination and liberation.
-
-v.28 — KJV: "Almost thou persuadest me to be a Christian" / ESV: "In a short
-       time would you persuade me to be a Christian?" — The Greek is debated.
-       KJV reads it as "almost" (sincere); ESV reads it as "in a short time"
-       (sarcastic/dismissive). Either way, Agrippa did not commit.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.9  — NET: "I too was convinced that I had to do many things
        hostile to the name of Jesus the Nazarene" — "I was
@@ -120,20 +101,34 @@ v.9  — NET: "I too was convinced that I had to do many things
        myself that I ought to do many things contrary to the name
        of Jesus of Nazareth." Zeal without knowledge (Rom 10:2).
 
-v.14 — NET: "Saul, Saul, why are you persecuting me? You are
+v.14 — KJV: "it is hard for thee to kick against the pricks" / ESV: "It is
+       hard for you to kick against the goads" — Both equivalent. KJV's
+       "pricks" and ESV's "goads" are the same thing — pointed sticks used
+       to drive oxen. Kicking against them only causes more pain. Paul had
+       been fighting against God's prodding — and losing.
+       NET: "Saul, Saul, why are you persecuting me? You are
        hurting yourself by kicking against the goads" — "kicking
        against the goads" (pros kentra laktizein) — a proverb: an
        ox kicking the sharp stick only hurts itself. WEB: "It is
        hard for you to kick against the goads." Resistance to God
        is self-destructive.
 
-v.18 — NET: "to open their eyes so that they turn from darkness
+v.18 — KJV: "from darkness to light, and from the power of Satan unto God" /
+       ESV: "from darkness to light and from the power of Satan to God" —
+       Both identical. Two transfers: from darkness to light (intellectual/
+       spiritual) and from Satan's power to God's (authority/dominion).
+       Salvation is both illumination and liberation.
+       NET: "to open their eyes so that they turn from darkness
        to light and from the power of Satan to God" — Paul's
        commission summarized: illumination, conversion, transfer of
        allegiance. WEB: "to turn them from darkness to light." The
        gospel as rescue operation.
 
-v.28 — NET: "In a short time you will persuade me to become a
+v.28 — KJV: "Almost thou persuadest me to be a Christian" / ESV: "In a short
+       time would you persuade me to be a Christian?" — The Greek is debated.
+       KJV reads it as "almost" (sincere); ESV reads it as "in a short time"
+       (sarcastic/dismissive). Either way, Agrippa did not commit.
+       NET: "In a short time you will persuade me to become a
        Christian!" — "in a short time" (en oligO) — whether
        sarcastic or sincere is debated. WEB: "With a little
        persuasion you would make me a Christian!" KJV: "Almost thou

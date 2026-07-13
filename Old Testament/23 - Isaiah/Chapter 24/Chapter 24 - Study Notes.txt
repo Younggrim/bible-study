@@ -93,7 +93,7 @@ Charles Spurgeon:
   anchored in heaven will remain unmoved. Build on the Rock —
   everything else is sinking sand dressed up as solid ground."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — "turneth it upside down" (KJV) / "twists its surface"
       (ESV) — Hebrew "ivvah paneyha" = distorts/twists its face.
@@ -112,42 +112,6 @@ v.16 — "my leanness" (KJV) / "I waste away" (ESV) — Hebrew
 v.23 — "ancients" (KJV) / "elders" (ESV) — Hebrew "zekenim" =
       elders. God reigns before His elders — anticipating the
       24 elders before God's throne (Revelation 4:4).
-
-GLOSSARY
-------------------------------------
-Little Apocalypse — Scholarly name for Isaiah 24-27, which
-              shifts from historical oracles to eschatological/
-              universal judgment and hope. The scope is cosmic
-              rather than national.
-
-Everlasting Covenant — The Noahic covenant (Genesis 9) — God's
-              universal moral order for all humanity, including
-              the sanctity of life and basic justice. Broken by
-              universal human rebellion.
-
-Day of the LORD — The recurring OT concept of God's decisive
-              intervention in judgment and salvation. In Isaiah
-              24-27, it expands to cosmic proportions.
-
-Host of heaven — (v.21) Spiritual powers behind earthly kingdoms.
-              God judges both the spiritual rebellion in the
-              heavens and the political rebellion on earth.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "Jehovah maketh the earth empty" / WEB: "Yahweh makes the earth empty" / NET: "the Lord is ready to devastate the earth" — ASV/WEB retain the divine name (Jehovah/Yahweh) while NET uses "Lord." NET also adds "ready to" which softens the immediacy of the Hebrew present participle.
-
-- v.5 — NET: "broken the permanent treaty" — KJV/ASV/WEB all retain "everlasting covenant" (berit olam). NET's "permanent treaty" reduces a theological covenant concept to political/legal language, obscuring the connection to Genesis 9's Noahic covenant.
-
-- v.16 — NET: "I'm wasting away! I'm wasting away! I'm doomed!" — KJV has "my leanness, my leanness, woe unto me!" ASV/WEB: "I pine away, I pine away." NET interprets the Hebrew "razi li" (literally "my leanness/emaciation") dynamically but loses the physical imagery of a prophet wasting under prophetic burden.
-
-- v.21 — ASV: "Jehovah will punish the host of the high ones on high" / WEB: "Yahweh will punish the army of the high ones on high" / NET: "the Lord will punish the heavenly forces in the heavens" — NET clarifies the ambiguous Hebrew "tseva ha-marom" as "heavenly forces," making explicit what KJV/ASV leave mysterious with "host of the high ones."
-
-- v.23 — WEB: "Yahweh of Armies will reign on Mount Zion" / ASV: "Jehovah of hosts" / NET: "the Lord of Heaven's Armies will rule" — Three renderings of YHWH Sabaoth. NET adds "in majestic splendor" to interpret "before his elders shall be glory" (KJV's "before his ancients gloriously").
-
-- v.20 — NET: "it will sway back and forth like a hut in a windstorm" — KJV has "removed like a cottage," ASV/WEB have "sway like a hammock." NET's "hut in a windstorm" is interpretive but captures the vulnerability imagery. The Hebrew "melunah" (watchman's hut/lodge) is what all are translating differently.
-
-- v.10 — KJV: "city of confusion" / ASV: "waste city" / WEB: "confused city" / NET: "ruined town" — The Hebrew "tohu" is the same word from Genesis 1:2 ("without form"). The earth is returning to pre-creation chaos — a connection NET's "ruined" misses entirely.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

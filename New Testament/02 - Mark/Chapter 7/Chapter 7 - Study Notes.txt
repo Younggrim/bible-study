@@ -95,8 +95,13 @@ Charles Spurgeon:
   — faith that will not be denied, faith that finds a way even when the
   door seems closed."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.2  — NET: "they saw that some of Jesus' disciples ate their
+       bread with unclean hands, that is, unwashed" — adds the
+       explanatory gloss "that is, unwashed" which Mark includes
+       for his Gentile audience. All versions retain this.
+
 v.3  — KJV: "except they wash their hands oft" / ESV: "unless they wash their
        hands properly" — The ESV uses "properly" where KJV uses "oft" (Greek
        "pugmē" — literally "with the fist," meaning thoroughly). Mark explains
@@ -108,47 +113,36 @@ v.11 — KJV: "Corban, that is to say, a gift" / ESV: "Whatever you would have
        Mark translates the Aramaic for his readers. A legal loophole allowing
        people to declare resources "dedicated to God" while still using them —
        avoiding the obligation to support aging parents.
-
-v.19 — KJV: "purging all meats" / ESV: "Thus he declared all foods clean" —
-       The ESV makes the editorial comment explicit. Mark's parenthetical note
-       (not Jesus' words) explains the implication: Jesus abolished the Old
-       Testament food laws. A revolutionary statement for Jewish readers.
-
-v.27 — KJV: "dogs" / ESV: "dogs" — Both identical. Greek "kunaria" —
-       diminutive: "little dogs" or "puppies" — household pets, not wild
-       scavengers. Jesus uses the softer term, and the woman picks up on it —
-       pets under the table get crumbs.
-
-v.34 — KJV: "Ephphatha, that is, Be opened" / ESV: "Ephphatha," that is, "Be
-       opened" — Both identical. Aramaic for "Be opened." Mark preserves
-       Jesus' actual word — an eyewitness detail. Jesus sighed (v.34) —
-       showing emotional engagement with the man's suffering.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "they saw that some of Jesus' disciples ate their
-       bread with unclean hands, that is, unwashed" — adds the
-       explanatory gloss "that is, unwashed" which Mark includes
-       for his Gentile audience. All versions retain this.
-
-v.11 — NET: "'Corban' (that is, a gift for God)" — preserves the
+       NET: "'Corban' (that is, a gift for God)" — preserves the
        Aramaic term with explanation. WEB: "Corban, which means
        given to God." The vow of Corban allowed people to dedicate
        money to the temple while still using it — effectively
        avoiding the obligation to support aging parents.
 
-v.19 — NET: "For it does not enter his heart but his stomach, and
+v.19 — KJV: "purging all meats" / ESV: "Thus he declared all foods clean" —
+       The ESV makes the editorial comment explicit. Mark's parenthetical note
+       (not Jesus' words) explains the implication: Jesus abolished the Old
+       Testament food laws. A revolutionary statement for Jewish readers.
+       NET: "For it does not enter his heart but his stomach, and
        then goes out into the sewer. (Thus he declared all foods
        clean.)" — the parenthetical editorial comment is present
        in ESV/NET but NOT in KJV/ASV. This is Mark's (or an early
        editor's) theological interpretation of Jesus' words.
 
-v.27 — NET: "Let the children be satisfied first, for it is not
+v.27 — KJV: "dogs" / ESV: "dogs" — Both identical. Greek "kunaria" —
+       diminutive: "little dogs" or "puppies" — household pets, not wild
+       scavengers. Jesus uses the softer term, and the woman picks up on it —
+       pets under the table get crumbs.
+       NET: "Let the children be satisfied first, for it is not
        right to take the children's bread and to throw it to the
        dogs" — "dogs" (Greek kunaria = little dogs/puppies). All
        translations use "dogs" but the Greek diminutive softens it.
 
-v.34 — NET: "'Ephphatha' (that is, 'Be opened')" — Aramaic
+v.34 — KJV: "Ephphatha, that is, Be opened" / ESV: "Ephphatha," that is, "Be
+       opened" — Both identical. Aramaic for "Be opened." Mark preserves
+       Jesus' actual word — an eyewitness detail. Jesus sighed (v.34) —
+       showing emotional engagement with the man's suffering.
+       NET: "'Ephphatha' (that is, 'Be opened')" — Aramaic
        preserved with translation. WEB same. Another instance of
        Peter's eyewitness memory captured in Mark's Gospel.
 

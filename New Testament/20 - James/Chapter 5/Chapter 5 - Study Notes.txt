@@ -116,7 +116,7 @@ Charles Spurgeon:
  day brings it nearer. Stablish your hearts — settle them, firm them up.
  He is coming."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.4 — KJV: "Lord of sabaoth" / ESV: "Lord of hosts" — Greek "kuriou
  sabaōth" — Lord of hosts/armies. A title emphasizing God's power to
@@ -127,6 +127,12 @@ v.7 — KJV: "early and latter rain" / ESV: "early and the late rains" — The
  Palestinian agricultural cycle: early rain (October-November) for
  planting, latter rain (March-April) for ripening. Both necessary for
  harvest.
+       NET: "Be patient, then, brothers and sisters, until the
+       Lord's return" — "patient" (makrothymEsate = be long-
+       tempered/endure without retaliation). WEB: "Be patient,
+       therefore, brothers." KJV: "Be patient therefore, brethren."
+       The farmer waits for rain — patience is not passive but
+       purposeful waiting.
 
 v.11 — KJV: "patience of Job" / ESV: "steadfastness of Job" — Greek
  "hupomonēn Iōb" — the endurance of Job. Not passive patience but
@@ -135,10 +141,22 @@ v.11 — KJV: "patience of Job" / ESV: "steadfastness of Job" — Greek
  — Greek "polusplagchnos... oiktirmōn" — very compassionate and
  merciful.
 
+v.12 — NET: "do not swear, either by heaven or by earth or by any
+       other oath. But let your 'Yes' be yes and your 'No' be no"
+       — "let your yes be yes" (hEtO hymOn to nai nai). WEB: "let
+       your 'yes' be 'yes'." Simple truthfulness removes the need
+       for oaths — your word should be enough.
+
 v.14 — KJV: "anointing him with oil" / ESV: Both equivalent. — Greek
  "aleipsantes elaiō" — rubbing with oil. Could be: (1) medicinal (oil
  as medicine), (2) symbolic (representing the Spirit's work), or (3)
  sacramental. Combined with prayer — both physical and spiritual care.
+       NET: "Is anyone among you ill? He should call the elders
+       of the church... and anoint him with oil in the name of the
+       Lord" — "anoint" (aleipsantes = rubbing with oil). WEB:
+       "anointing him with oil." KJV: "anointing him with oil."
+       Whether medicinal (olive oil as medicine) or sacramental
+       is debated — likely both.
 
 v.15 — KJV: "the prayer of faith shall save the sick" / ESV: "the prayer of
  faith will save the one who is sick" — Both equivalent. "Save" (sōsei)
@@ -150,6 +168,13 @@ v.16 — KJV: "effectual fervent prayer" / ESV: "the prayer of a righteous
  energoumenē" — a prayer that is energized, working, active. Not
  passive words but Spirit-empowered petition. KJV: "availeth much" /
  ESV: "has great power" — Greek "ischyei polu" — is very strong.
+       NET: "The prayer of a righteous person has great power in
+       its effects" — "great power in its effects" (poly ischyei
+       energoumenE = is strong when it works/is energized). WEB:
+       "The insistent prayer of a righteous person is powerfully
+       effective." KJV: "the effectual fervent prayer of a righteous
+       man availeth much." Prayer that works is both fervent AND
+       righteous.
 
 v.17 — KJV: "subject to like passions" / ESV: "a man with a nature like
  ours" — Greek "homoiopathēs" — of similar nature/feelings. Elijah was
@@ -159,38 +184,7 @@ v.17 — KJV: "subject to like passions" / ESV: "a man with a nature like
 v.20 — KJV: "hide a multitude of sins" / ESV: "cover a multitude of sins" —
  Both equivalent. Restoring a wanderer covers/prevents the sins that
  would have accumulated had they continued wandering. Cf. 1 Peter 4:8.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.7  — NET: "Be patient, then, brothers and sisters, until the
-       Lord's return" — "patient" (makrothymEsate = be long-
-       tempered/endure without retaliation). WEB: "Be patient,
-       therefore, brothers." KJV: "Be patient therefore, brethren."
-       The farmer waits for rain — patience is not passive but
-       purposeful waiting.
-
-v.12 — NET: "do not swear, either by heaven or by earth or by any
-       other oath. But let your 'Yes' be yes and your 'No' be no"
-       — "let your yes be yes" (hEtO hymOn to nai nai). WEB: "let
-       your 'yes' be 'yes'." Simple truthfulness removes the need
-       for oaths — your word should be enough.
-
-v.14 — NET: "Is anyone among you ill? He should call the elders
-       of the church... and anoint him with oil in the name of the
-       Lord" — "anoint" (aleipsantes = rubbing with oil). WEB:
-       "anointing him with oil." KJV: "anointing him with oil."
-       Whether medicinal (olive oil as medicine) or sacramental
-       is debated — likely both.
-
-v.16 — NET: "The prayer of a righteous person has great power in
-       its effects" — "great power in its effects" (poly ischyei
-       energoumenE = is strong when it works/is energized). WEB:
-       "The insistent prayer of a righteous person is powerfully
-       effective." KJV: "the effectual fervent prayer of a righteous
-       man availeth much." Prayer that works is both fervent AND
-       righteous.
-
-v.20 — NET: "whoever turns a sinner back from his wandering path
+       NET: "whoever turns a sinner back from his wandering path
        will save that person's soul from death and will cover a
        multitude of sins" — "cover a multitude of sins" (kalypsei
        plEthos hamartiOn). WEB: "will cover a multitude of sins."

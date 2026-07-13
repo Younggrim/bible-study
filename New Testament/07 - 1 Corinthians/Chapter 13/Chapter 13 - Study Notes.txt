@@ -86,19 +86,36 @@ Charles Spurgeon:
   it is most like God. God IS love. Faith and hope serve love; love serves
   God and others forever."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "charity" / ESV: "love" — Greek "agapē" — self-giving, sacrificial love. Not
        romantic love (eros) or friendship love (philia) but deliberate,
        unconditional, action-oriented love. Modern translations use "love."
+       NET: "If I speak in the tongues of men and of angels,
+       but I do not have love, I am a noisy gong or a clanging
+       cymbal" — "noisy gong" (chalkos EchOn). WEB: "sounding
+       brass or a clanging cymbal." KJV: "sounding brass, or a
+       tinkling cymbal." Without love, even supernatural speech is
+       empty noise — no content, just volume.
 
 v.4  — KJV: "suffereth long" / ESV: "Love is patient and kind" — Greek "makrothumei" — patient under provocation,
        slow to anger, enduring offense without retaliation.
+       NET: "Love is patient, love is kind, it is not envious.
+       Love does not brag, it is not puffed up" — fifteen
+       descriptors of love, mostly negatives (what love does NOT
+       do). WEB: "Love is patient and is kind." ASV: "Love
+       suffereth long, and is kind." The portrait fits Christ
+       perfectly.
 
 v.5  — KJV: "thinketh no evil" / ESV: "irritable or resentful" — Greek "ou logizetai to kakon" — does not
        keep a record of wrongs (an accounting term). Love doesn't maintain a
        ledger of offenses.
+
+v.7  — NET: "It bears all things, believes all things, hopes all
+       things, endures all things" — four "all things" (panta) —
+       comprehensive, without exception. WEB: "bears all things,
+       believes all things, hopes all things, endures all things."
+       Love's capacity is unlimited.
 
 v.10 — KJV: "when that which is perfect is come" / ESV: "but when the perfect comes" — Debated: (1) the completed
        canon of Scripture, (2) the return of Christ, (3) the eternal state.
@@ -108,30 +125,7 @@ v.10 — KJV: "when that which is perfect is come" / ESV: "but when the perfect 
 v.12 — KJV: "through a glass, darkly" / ESV: "we see in a mirror dimly" — Ancient mirrors were polished metal
        — giving a dim, distorted reflection. Our current knowledge of God is
        real but partial. One day: face to face.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "If I speak in the tongues of men and of angels,
-       but I do not have love, I am a noisy gong or a clanging
-       cymbal" — "noisy gong" (chalkos EchOn). WEB: "sounding
-       brass or a clanging cymbal." KJV: "sounding brass, or a
-       tinkling cymbal." Without love, even supernatural speech is
-       empty noise — no content, just volume.
-
-v.4  — NET: "Love is patient, love is kind, it is not envious.
-       Love does not brag, it is not puffed up" — fifteen
-       descriptors of love, mostly negatives (what love does NOT
-       do). WEB: "Love is patient and is kind." ASV: "Love
-       suffereth long, and is kind." The portrait fits Christ
-       perfectly.
-
-v.7  — NET: "It bears all things, believes all things, hopes all
-       things, endures all things" — four "all things" (panta) —
-       comprehensive, without exception. WEB: "bears all things,
-       believes all things, hopes all things, endures all things."
-       Love's capacity is unlimited.
-
-v.12 — NET: "For now we see in a mirror indirectly, but then we
+       NET: "For now we see in a mirror indirectly, but then we
        will see face to face" — "in a mirror indirectly" (di'
        esoptrou en ainigmati = through a mirror in a riddle). WEB:
        "now we see in a mirror, dimly." Ancient bronze mirrors gave

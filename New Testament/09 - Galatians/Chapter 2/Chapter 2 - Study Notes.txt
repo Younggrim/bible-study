@@ -91,29 +91,7 @@ Charles Spurgeon:
   Every time you try to earn God's favor through performance, you are
   saying 'the cross wasn't enough.' It was enough. Rest in it."
 
-TRANSLATION NOTES
-------------------------------------
-
-v.11 — KJV: "I withstood him to the face" / ESV: "Antioch, I opposed him to his face" — Greek "kata prosōpon" — face to
-       face, publicly. Paul didn't gossip behind Peter's back — he confronted
-       him directly and publicly because the sin was public.
-
-v.16 — KJV: "by the faith of Jesus Christ" / ESV: "the law but through faith in Jesus Christ" — Greek can mean "faith IN Christ"
-       (objective genitive) or "the faithfulness OF Christ" (subjective
-       genitive). Most translations favor "faith in Christ" — our trust in Him.
-
-v.16 — Paul states justification by faith THREE TIMES in one verse — for
-       emphasis. "Not justified by works of the law" appears twice; "justified
-       by faith in Christ" appears twice. The repetition is deliberate.
-
-v.20 — KJV: "I am crucified with Christ" / ESV: "I have been crucified with Christ. It is no" — Perfect tense in Greek: "I have
-       been crucified" — a past event with ongoing results. The crucifixion
-       happened once; its effects continue permanently.
-
-v.21 — KJV: "frustrate the grace of God" / ESV: "I do not nullify the grace of God, for if" — Greek "atheteō" — to nullify, to
-       set aside, to make void. Adding works to grace nullifies grace entirely.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.9  — NET: "James, Cephas, and John, who had a reputation as
        pillars, gave to Barnabas and me the right hand of
@@ -121,26 +99,47 @@ v.9  — NET: "James, Cephas, and John, who had a reputation as
        "who were reputed to be pillars." KJV: "who seemed to be
        pillars." The metaphor: they hold up the church structure.
 
-v.11 — NET: "I opposed him to his face, because he had clearly
+v.11 — KJV: "I withstood him to the face" / ESV: "Antioch, I opposed him to his face" — Greek "kata prosōpon" — face to
+       face, publicly. Paul didn't gossip behind Peter's back — he confronted
+       him directly and publicly because the sin was public.
+       NET: "I opposed him to his face, because he had clearly
        done wrong" — "to his face" (kata prosOpon) — public sin
        required public correction. WEB: "I resisted him to his
        face." KJV: "I withstood him to the face." Paul rebukes
        Peter — apostolic authority doesn't exempt one from rebuke.
 
-v.16 — NET: "a person is not justified by the works of the law
+v.16 — KJV: "by the faith of Jesus Christ" / ESV: "the law but through faith in Jesus Christ" — Greek can mean "faith IN Christ"
+       (objective genitive) or "the faithfulness OF Christ" (subjective
+       genitive). Most translations favor "faith in Christ" — our trust in Him.
+       NET: "a person is not justified by the works of the law
        but by the faithfulness of Jesus Christ" — "faithfulness of
        Jesus Christ" (pisteOs IEsou Christou) — major debate:
        "faith IN Christ" (objective genitive, KJV/WEB) vs. "faith
        OF Christ" (subjective genitive, NET option). Both meanings
        may be intended.
 
-v.20 — NET: "I have been crucified with Christ, and it is no
+v.16 — Paul states justification by faith THREE TIMES in one verse — for
+       emphasis. "Not justified by works of the law" appears twice; "justified
+       by faith in Christ" appears twice. The repetition is deliberate.
+       NET: "a person is not justified by the works of the law
+       but by the faithfulness of Jesus Christ" — "faithfulness of
+       Jesus Christ" (pisteOs IEsou Christou) — major debate:
+       "faith IN Christ" (objective genitive, KJV/WEB) vs. "faith
+       OF Christ" (subjective genitive, NET option). Both meanings
+       may be intended.
+
+v.20 — KJV: "I am crucified with Christ" / ESV: "I have been crucified with Christ. It is no" — Perfect tense in Greek: "I have
+       been crucified" — a past event with ongoing results. The crucifixion
+       happened once; its effects continue permanently.
+       NET: "I have been crucified with Christ, and it is no
        longer I who live, but Christ lives in me" — "crucified
        with" (Christoi synestaurOmai = co-crucified, perfect tense
        — completed action with ongoing result). WEB: "I have been
        crucified with Christ." The old self permanently executed.
 
-v.21 — NET: "if righteousness could come through the law, then
+v.21 — KJV: "frustrate the grace of God" / ESV: "I do not nullify the grace of God, for if" — Greek "atheteō" — to nullify, to
+       set aside, to make void. Adding works to grace nullifies grace entirely.
+       NET: "if righteousness could come through the law, then
        Christ died for nothing!" — "for nothing" (dOrean = without
        cause/gratuitously). WEB: "then Christ died for nothing."
        KJV: "then Christ is dead in vain." The logical conclusion:

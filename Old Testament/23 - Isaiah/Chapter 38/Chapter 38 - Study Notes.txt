@@ -92,7 +92,7 @@ Charles Spurgeon:
   that God cannot see them; it is that He WILL not. The blood of
   Christ gives God reason to turn His back on your past."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.8  — "sun dial of Ahaz" (KJV) / "steps of Ahaz" (ESV) —
       Hebrew "ma'alot Achaz" = the steps/degrees of Ahaz.
@@ -112,40 +112,6 @@ v.12 — "I have cut off like a weaver my life" (KJV/ESV) —
 v.17 — "pit of corruption" (KJV) / "pit of destruction" (ESV)
       — Hebrew "shachat beli" = the pit of nothingness/
       annihilation. The grave as total loss.
-
-GLOSSARY
-------------------------------------
-Dial of Ahaz — A staircase or stepped structure built by King
-              Ahaz whose shadow served as a timepiece. The shadow
-              moving backward = supernatural reversal of time's
-              normal progression.
-
-Sheol        — The Hebrew underworld/realm of the dead. Not
-              identical to the NT concept of hell; rather the
-              shadowy abode of all the dead in OT understanding.
-              Hezekiah dreaded it because praise of God was thought
-              to cease there (v.18).
-
-Fig Poultice — (v.21) A medicinal application of pressed figs
-              applied to the boil/infection. God used natural
-              means alongside supernatural healing — divine power
-              does not exclude practical remedies.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "Thus saith Jehovah, Set thy house in order" / WEB: "Yahweh says, 'Set your house in order'" / NET: "This is what the Lord says, 'Give instructions to your household'" — NET paraphrases "Set thine house in order" (KJV) as "Give instructions to your household," making explicit what the idiom means but losing the concise force of the original. The divine name distinction (Jehovah/Yahweh/the Lord) continues throughout.
-
-- v.1 — NET: "Hezekiah was stricken with a terminal illness" — NET interprets "sick unto death" (KJV/ASV) as "stricken with a terminal illness," a medical modernization. WEB preserves the literal Hebrew with "sick and near death." NET's phrasing adds clinical precision but removes the poetic quality.
-
-- v.10 — ASV: "In the noontide of my days I shall go into the gates of Sheol" / WEB: "In the middle of my life I go into the gates of Sheol" / NET: "In the middle of my life I must walk through the gates of Sheol" — KJV's "cutting off of my days" becomes "noontide" (ASV) and "middle" (WEB/NET). ASV's "noontide" beautifully captures the Hebrew idea of life cut short at its brightest point. All modern versions retain "Sheol" instead of KJV's "the grave."
-
-- v.11 — WEB: "I won't see Yah, Yah in the land of the living" — WEB uniquely preserves the shortened divine name "Yah" (Hebrew "Yah") where KJV has "the LORD, even the LORD" and ASV has "Jehovah, even Jehovah." This shortened form (as in "Hallelu-Yah") appears in the Hebrew text and WEB renders it distinctively.
-
-- v.14 — ASV: "O Lord, I am oppressed, be thou my surety" / WEB: "Lord, I am oppressed. Be my security" / NET: "O Lord, I am oppressed; help me!" — The Hebrew "areveni" means "be my guarantor/surety" (a legal/financial term — someone who takes responsibility for another's debt). ASV/WEB preserve this rich metaphor; NET reduces it to generic "help me," losing the covenantal imagery of God as guarantor.
-
-- v.17 — WEB: "you have in love for my soul delivered it from the pit of corruption; for you have cast all my sins behind your back" / NET: "You delivered me from the Pit of oblivion. For you removed all my sins from your sight" — NET's "Pit of oblivion" interprets Hebrew "shachat beli" differently than KJV's "pit of corruption." NET also changes "behind thy back" to "from your sight" — a significant theological shift that weakens the vivid Hebrew image of God deliberately placing sins where He refuses to look.
-
-- v.20 — ASV: "Jehovah is ready to save me" / WEB: "Yahweh will save me" / NET: "The Lord is about to deliver me" — KJV: "The LORD was ready to save me." The divine name and tense variations: ASV/KJV present readiness (ongoing), WEB presents certainty (future), NET presents imminence ("about to"). Each captures a different nuance of the Hebrew.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

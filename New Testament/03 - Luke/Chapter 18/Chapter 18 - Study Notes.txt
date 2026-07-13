@@ -91,31 +91,12 @@ Charles Spurgeon:
   When you start praying again, you stop fainting. Prayer is not optional
   equipment; it is the engine."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "not to faint" / ESV: "not lose heart" — Both equivalent. Greek
        "enkakein" — to lose heart, to give up, to become weary and quit. The
        opposite of persistent prayer is not silence but surrender.
-
-v.13 — KJV: "God be merciful to me a sinner" / ESV: "God, be merciful to me,
-       a sinner!" — Both equivalent. Greek "hilasthēti moi" — literally "be
-       propitiated toward me" — the same word used for the mercy seat
-       (hilastērion) where blood was sprinkled on the Day of Atonement. The
-       tax collector is asking for atoning mercy.
-
-v.14 — KJV: "justified" / ESV: "justified" — Both identical. Greek
-       "dikaiōmenon" — declared righteous, acquitted. The tax collector was
-       declared righteous by God — not because of his works but because of
-       his humble dependence on mercy. This is justification by faith.
-
-v.25 — KJV: "a camel to go through a needle's eye" / ESV: "a camel to go
-       through the eye of a needle" — Both equivalent. See Matthew 19:24
-       note. Deliberate hyperbole — an impossibility. Wealth creates a
-       barrier to dependence on God.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "Then Jesus told them a parable to show them they
+       NET: "Then Jesus told them a parable to show them they
        should always pray and not lose heart" — Luke states the
        parable's purpose upfront. WEB: "that they ought always to
        pray, and not give up." KJV: "that men ought always to pray,
@@ -127,13 +108,27 @@ v.8  — NET: "But when the Son of Man comes, will he find faith on
        concern isn't God's willingness to answer but humanity's
        willingness to persist.
 
-v.13 — NET: "God, be merciful to me, sinner that I am!" — "be
+v.13 — KJV: "God be merciful to me a sinner" / ESV: "God, be merciful to me,
+       a sinner!" — Both equivalent. Greek "hilasthēti moi" — literally "be
+       propitiated toward me" — the same word used for the mercy seat
+       (hilastērion) where blood was sprinkled on the Day of Atonement. The
+       tax collector is asking for atoning mercy.
+       NET: "God, be merciful to me, sinner that I am!" — "be
        merciful" (hilasthēti = be propitiated/make atonement for
        me). KJV: "God be merciful to me a sinner." WEB: "God, be
        merciful to me, a sinner!" The tax collector asks for
        atoning mercy, not just kindness.
 
-v.25 — NET: "it is easier for a camel to go through the eye of a
+v.14 — KJV: "justified" / ESV: "justified" — Both identical. Greek
+       "dikaiōmenon" — declared righteous, acquitted. The tax collector was
+       declared righteous by God — not because of his works but because of
+       his humble dependence on mercy. This is justification by faith.
+
+v.25 — KJV: "a camel to go through a needle's eye" / ESV: "a camel to go
+       through the eye of a needle" — Both equivalent. See Matthew 19:24
+       note. Deliberate hyperbole — an impossibility. Wealth creates a
+       barrier to dependence on God.
+       NET: "it is easier for a camel to go through the eye of a
        needle than for a rich person to enter the kingdom of God" —
        all translations agree. No "small gate" theory is supported.
        WEB: "easier for a camel to enter in through a needle's

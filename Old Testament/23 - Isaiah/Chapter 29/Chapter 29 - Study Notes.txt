@@ -92,7 +92,7 @@ Charles Spurgeon:
   the sin of millions. God is not deceived by beautiful prayers
   from distant hearts. He reads the postmark, not just the letter."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — "Ariel" (KJV/ESV) — Hebrew "ari'el" = lion of God or
       altar-hearth of God. The altar-hearth meaning connects
@@ -113,42 +113,6 @@ v.16 — "potter's clay" (KJV/ESV) — The creature presuming to
       counsel the Creator. Radical reversal: clay saying "the
       potter didn't make me" — absurd self-deception about one's
       own origin and purpose.
-
-GLOSSARY
-------------------------------------
-Ariel        — "Lion of God" or "Altar-Hearth of God" — a poetic
-              name for Jerusalem emphasizing its identity as God's
-              altar (place of sacrifice) and God's lion (fierce,
-              defended by God).
-
-Sealed Book  — (vv.11-12) The prophetic word that becomes
-              inaccessible — not because God hides it but because
-              spiritual blindness makes people UNABLE to receive it.
-
-Lip-Service  — (v.13) Religious behavior that imitates devotion
-              without genuine heart engagement. External ritual
-              divorced from internal reality.
-
-Marvellous Work — (v.14) God's paradoxical action that defies
-              human expectations. The cross is the ultimate
-              "marvellous work" — wisdom through apparent
-              foolishness, power through weakness.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "Ariel is as good as dead" — A dramatic departure from KJV/ASV/WEB's "Woe to Ariel." The Hebrew "hoy" is traditionally rendered "Woe" (a funeral cry/lament). NET interprets it as a death sentence rather than a prophetic lament, losing the liturgical mourning connotation.
-
-- v.6 — ASV: "Jehovah of hosts" / WEB: "Yahweh of Armies" / NET: "the Lord of Heaven's Armies" — At the moment of divine intervention (thunder, earthquake, fire), the name of the acting God differs across translations. ASV/WEB use the covenant name; NET uses the interpretive title.
-
-- v.13 — NET: "These people say they are loyal to me; they say wonderful things about me, but they are not really loyal to me" — KJV/ASV/WEB retain the literal "draw near me with their mouth... their heart far from me." NET's paraphrase loses the physical imagery of "drawing near" and "removing the heart far" — the spatial metaphor of religious proximity without spiritual intimacy.
-
-- v.19 — ASV: "The meek also shall increase their joy in Jehovah" / WEB: "The humble also will increase their joy in Yahweh" / NET: "The downtrodden will again rejoice in the Lord" — ASV/WEB use divine name. Also, "meek" (KJV/ASV) vs. "humble" (WEB) vs. "downtrodden" (NET) — the Hebrew "anavim" connotes both humility and affliction. NET emphasizes oppression; KJV/ASV emphasize character.
-
-- v.19 — "the Holy One of Israel" — This signature Isaianic title appears identically across all translations, a rare point of agreement. It appears 25+ times in Isaiah and is his distinctive name for God, emphasizing both transcendence (Holy) and covenant relationship (of Israel).
-
-- v.4 — NET: "Your voice will sound like a spirit speaking from the underworld; from the dust you will chirp as if muttering an incantation" — KJV has "one that hath a familiar spirit." NET explicitly interprets the Hebrew "ov" as necromantic spirit and adds "incantation," making the forbidden occult imagery more vivid than the original.
-
-- v.22 — ASV: "Thus saith Jehovah, who redeemed Abraham" / WEB: "Yahweh, who redeemed Abraham" / NET: "the Lord, the one who delivered Abraham" — NET's "delivered" is weaker than "redeemed" (Hebrew "padah" — purchased, ransomed). Redemption implies a price paid; deliverance does not.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

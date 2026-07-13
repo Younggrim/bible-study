@@ -93,30 +93,7 @@ Charles Spurgeon:
   turned them into an argument for inclusion. That is great faith — faith
   that will not let go."
 
-TRANSLATION NOTES
-------------------------------------
-v.5  — KJV: "It is a gift" — ESV: "What you would have gained from me is
-       given to God" — The Hebrew/Aramaic word is "corban" (Mark 7:11) — a
-       vow dedicating something to God, making it unavailable for other uses.
-
-v.22 — KJV: "a woman of Canaan" — ESV: "a Canaanite woman" — Mark calls her
-       "Syrophoenician" (Mark 7:26). Both identify her as a Gentile from the
-       ancient enemy territory of Israel. Her faith is all the more remarkable
-       given the historical hostility between these peoples.
-
-v.26 — KJV: "dogs" / ESV: "dogs" — Both identical. Greek "kunarion" —
-       diminutive form meaning "little dogs" or "household pets," not the wild
-       scavenger dogs of the streets. Jesus uses the softer term — referring to
-       pets under the table, not unclean animals. The woman picks up on this
-       distinction in her reply.
-
-v.38 — KJV: "four thousand men, beside women and children" / ESV: "four
-       thousand men, besides women and children" — Both identical in meaning.
-       A different miracle from the feeding of the 5,000 (ch.14). Different
-       location, different numbers, different baskets (Greek "spuris" here vs.
-       "kophinos" in ch.14).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.3  — NET: "Why do you also break the commandment of God
        because of your tradition?" — "tradition" (paradosin =
@@ -125,17 +102,31 @@ v.3  — NET: "Why do you also break the commandment of God
        traditions elevated above divine commands — the perennial
        temptation of religion.
 
+v.5  — KJV: "It is a gift" — ESV: "What you would have gained from me is
+       given to God" — The Hebrew/Aramaic word is "corban" (Mark 7:11) — a
+       vow dedicating something to God, making it unavailable for other uses.
+
 v.11 — NET: "it is not what goes into the mouth that defiles a
        person, but what comes out of the mouth" — "defiles" (koinoi
        = makes common/ritually unclean). WEB: "that which proceeds
        out of the mouth, this defiles the man." A revolutionary
        principle overturning the entire Jewish purity system.
 
-v.22 — NET: "Have mercy on me, Lord, Son of David! My daughter
+v.22 — KJV: "a woman of Canaan" — ESV: "a Canaanite woman" — Mark calls her
+       "Syrophoenician" (Mark 7:26). Both identify her as a Gentile from the
+       ancient enemy territory of Israel. Her faith is all the more remarkable
+       given the historical hostility between these peoples.
+       NET: "Have mercy on me, Lord, Son of David! My daughter
        is horribly demon-possessed" — "have mercy" (eleEson =
        show compassion). WEB: "Have mercy on me." KJV: "Have mercy
        on me." A Canaanite woman uses the messianic title "Son of
        David" — greater faith from a pagan than from Israel.
+
+v.26 — KJV: "dogs" / ESV: "dogs" — Both identical. Greek "kunarion" —
+       diminutive form meaning "little dogs" or "household pets," not the wild
+       scavenger dogs of the streets. Jesus uses the softer term — referring to
+       pets under the table, not unclean animals. The woman picks up on this
+       distinction in her reply.
 
 v.28 — NET: "Woman, your faith is great! Let what you want be
        done for you" — "great" (megalE = large). WEB: "great is
@@ -148,6 +139,12 @@ v.32 — NET: "I have compassion on the crowd, because they have
        (splanchnizomai) again — the same visceral emotion as 14:14.
        WEB: "I have compassion on the multitude." Jesus feeds 4,000
        — a second feeding miracle.
+
+v.38 — KJV: "four thousand men, beside women and children" / ESV: "four
+       thousand men, besides women and children" — Both identical in meaning.
+       A different miracle from the feeding of the 5,000 (ch.14). Different
+       location, different numbers, different baskets (Greek "spuris" here vs.
+       "kophinos" in ch.14).
 
 GLOSSARY
 ------------------------------------

@@ -87,31 +87,7 @@ Charles Spurgeon:
   anxious thought. Plan without panic. Prepare without worry. The birds
   don't worry, and your Father feeds them. Are you not much better than they?"
 
-TRANSLATION NOTES
-------------------------------------
-v.11 — KJV: "Give us this day our daily bread" / ESV: "Give us this day our
-       daily bread" — Both identical. The Greek "epiousios" (translated
-       "daily") is one of the rarest words in the NT — found only here and
-       in Luke 11:3. Its exact meaning is debated: "for today," "for the
-       coming day," or "necessary for existence." All translations use "daily"
-       but the word is unique.
-
-v.13 — KJV: "For thine is the kingdom, and the power, and the glory, for ever.
-       Amen." / ESV: [omitted from main text; footnoted] — This doxology is
-       absent from the oldest manuscripts. ESV/NET place it in a footnote. It
-       was likely added by the early church for liturgical use. It is
-       theologically sound but probably not original.
-
-v.22 — KJV: "if thine eye be single" — ESV: "if your eye is healthy" — NET:
-       "if your eye is good" — Greek "haplous" means single, simple, generous.
-       A "single eye" is one focused on God alone — not divided between God
-       and money.
-
-v.24 — KJV: "mammon" — Aramaic word for wealth/money personified as a rival
-       god. ESV/NET: "money." KJV preserves the Aramaic to emphasize that
-       money can become an idol — a master demanding worship.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.6  — NET: "go into your inner room, close the door, and
        pray to your Father in secret" — "inner room" (tameion =
@@ -125,17 +101,37 @@ v.9  — NET: "So pray this way: Our Father in heaven, may your
        "Hallowed be thy name." NET interprets the passive
        imperative; KJV preserves the traditional form.
 
-v.11 — NET: "Give us today our daily bread" — "daily" (epiousion
+v.11 — KJV: "Give us this day our daily bread" / ESV: "Give us this day our
+       daily bread" — Both identical. The Greek "epiousios" (translated
+       "daily") is one of the rarest words in the NT — found only here and
+       in Luke 11:3. Its exact meaning is debated: "for today," "for the
+       coming day," or "necessary for existence." All translations use "daily"
+       but the word is unique.
+       NET: "Give us today our daily bread" — "daily" (epiousion
        = a unique word, meaning debated: for today? for tomorrow?
        necessary? supernatural?). WEB: "Give us today our daily
        bread." The word appears nowhere else in Greek literature —
        its exact meaning remains uncertain.
 
-v.22 — NET: "The eye is the lamp of the body" — "lamp" (lychnos
+v.13 — KJV: "For thine is the kingdom, and the power, and the glory, for ever.
+       Amen." / ESV: [omitted from main text; footnoted] — This doxology is
+       absent from the oldest manuscripts. ESV/NET place it in a footnote. It
+       was likely added by the early church for liturgical use. It is
+       theologically sound but probably not original.
+
+v.22 — KJV: "if thine eye be single" — ESV: "if your eye is healthy" — NET:
+       "if your eye is good" — Greek "haplous" means single, simple, generous.
+       A "single eye" is one focused on God alone — not divided between God
+       and money.
+       NET: "The eye is the lamp of the body" — "lamp" (lychnos
        = oil lamp). WEB: "The lamp of the body is the eye." KJV:
        "The light of the body is the eye." How you see determines
        what enters you — healthy eyes let in light; bad eyes fill
        you with darkness.
+
+v.24 — KJV: "mammon" — Aramaic word for wealth/money personified as a rival
+       god. ESV/NET: "money." KJV preserves the Aramaic to emphasize that
+       money can become an idol — a master demanding worship.
 
 v.34 — NET: "So then, do not worry about tomorrow, for tomorrow
        will worry about itself" — "worry" (merimnEsEte = be anxious/

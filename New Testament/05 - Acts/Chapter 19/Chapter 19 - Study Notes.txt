@@ -96,13 +96,25 @@ Charles Spurgeon:
   is what genuine repentance looks like. Not hiding sin, not gradually
   reducing it — destroying it. Publicly. Completely. Regardless of cost."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.2  — NET: "Did you receive the Holy Spirit when you believed?"
+       — the crucial question to Ephesian disciples. WEB: "Did you
+       receive the Holy Spirit when you believed?" KJV: "Have ye
+       received the Holy Ghost since ye believed?" The grammar is
+       debated: simultaneous ("when") or subsequent ("since").
+
 v.9  — KJV: "the school of one Tyrannus" / ESV: "the hall of Tyrannus" —
        Both equivalent. A lecture hall Paul rented for daily teaching after
        leaving the synagogue. One manuscript adds "from the fifth to the
        tenth hour" (11 AM to 4 PM) — the siesta hours when the hall was
        available.
+
+v.11 — NET: "God was performing extraordinary miracles through
+       the hands of Paul" — "extraordinary" (ou tas tychousas =
+       not the ordinary kind). WEB: "God worked special miracles."
+       KJV: "God wrought special miracles." Even for Acts, these
+       miracles were unusual.
 
 v.15 — KJV: "Jesus I know, and Paul I know; but who are ye?" / ESV: "Jesus
        I know, and Paul I recognize, but who are you?" — ESV distinguishes
@@ -114,27 +126,16 @@ v.19 — KJV: "curious arts" / ESV: "magic arts" — Greek "periergos" — magic
        sorcery, occult practices. ESV's "magic arts" is clearer to modern
        readers. Ephesus was famous for magic — "Ephesian letters" was a term
        for magical spells throughout the ancient world.
+       NET: "many of those who had practiced magic collected their
+       books and burned them in public" — the value: 50,000 silver
+       coins (v.19). WEB: "burned them in the sight of all." A
+       dramatic public break with the occult — costly repentance.
 
 v.19 — KJV: "fifty thousand pieces of silver" / ESV: "fifty thousand pieces
        of silver" — Both identical. If drachmas, this equals about 50,000
        days' wages — roughly 137 years of labor. An enormous sum, showing
        how deeply the occult had penetrated the community.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "Did you receive the Holy Spirit when you believed?"
-       — the crucial question to Ephesian disciples. WEB: "Did you
-       receive the Holy Spirit when you believed?" KJV: "Have ye
-       received the Holy Ghost since ye believed?" The grammar is
-       debated: simultaneous ("when") or subsequent ("since").
-
-v.11 — NET: "God was performing extraordinary miracles through
-       the hands of Paul" — "extraordinary" (ou tas tychousas =
-       not the ordinary kind). WEB: "God worked special miracles."
-       KJV: "God wrought special miracles." Even for Acts, these
-       miracles were unusual.
-
-v.19 — NET: "many of those who had practiced magic collected their
+       NET: "many of those who had practiced magic collected their
        books and burned them in public" — the value: 50,000 silver
        coins (v.19). WEB: "burned them in the sight of all." A
        dramatic public break with the occult — costly repentance.

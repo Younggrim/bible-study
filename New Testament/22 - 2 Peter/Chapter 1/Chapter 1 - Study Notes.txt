@@ -82,7 +82,7 @@ Charles Spurgeon:
  along by the Spirit so that what they wrote was God's word. Human authors,
  divine authority."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "Simon Peter" / ESV: "Simeon Peter" — ESV uses the more Hebraic
  "Simeon" (Greek "Sumeōn"). KJV: "like precious faith" / ESV: "a
@@ -93,15 +93,32 @@ v.3 — KJV: "all things that pertain unto life and godliness" / ESV: "all
  things that pertain to life and godliness" — Both equivalent.
  Everything needed for both physical life and spiritual godliness.
  Already given (perfect tense) — not still coming.
+       NET: "His divine power has bestowed on us everything
+       necessary for life and godliness" — "everything necessary"
+       (panta... ta pros zOEn). WEB: "seeing that his divine power
+       has granted to us all things." KJV: "all things that pertain
+       unto life and godliness." Complete provision — nothing
+       lacking for spiritual life.
 
 v.4 — KJV: "partakers of the divine nature" / ESV: Both equivalent. — Greek
  "theias koinōnoi phuseōs" — sharers in God's nature. Not becoming God
  but sharing in His moral character — holiness, love, righteousness.
+       NET: "precious and most magnificent promises, so that
+       through them you may become partakers of the divine nature"
+       — "partakers of divine nature" (theias koinOnoi physeOs).
+       WEB: "partakers of the divine nature." KJV: "partakers of
+       the divine nature." Not becoming God but sharing in His
+       moral character — the Eastern church's concept of theosis.
 
 v.5 — KJV: "giving all diligence, add to your faith virtue" / ESV: "make
  every effort to supplement your faith with virtue" — Greek
  "epichorēgēsate" — supply generously, furnish abundantly. Not minimal
  effort but lavish investment in growth.
+       NET: "make every effort to supplement your faith with
+       excellence" — "supplement" (epichorEgEsate = supply/furnish
+       generously). WEB: "adding on your part all diligence." A
+       chain of virtues: faith, virtue, knowledge, self-control,
+       perseverance, godliness, brotherly love, love.
 
 v.10 — KJV: "make your calling and election sure" / ESV: "confirm your
  calling and election" — Not that election is uncertain but that you
@@ -116,42 +133,18 @@ v.19 — KJV: "more sure word of prophecy" / ESV: "the prophetic word more
  fully confirmed" — Scripture is even more reliable than eyewitness
  experience. Peter saw the Transfiguration — but Scripture is "more
  sure."
-
-v.21 — KJV: "moved by the Holy Ghost" / ESV: "carried along by the Holy
- Spirit" — Greek "pheromenoi hupo pneumatos hagiou" — carried along by
- the Holy Spirit. Like wind carrying a sailing ship. Human authors,
- divine direction.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "His divine power has bestowed on us everything
-       necessary for life and godliness" — "everything necessary"
-       (panta... ta pros zOEn). WEB: "seeing that his divine power
-       has granted to us all things." KJV: "all things that pertain
-       unto life and godliness." Complete provision — nothing
-       lacking for spiritual life.
-
-v.4  — NET: "precious and most magnificent promises, so that
-       through them you may become partakers of the divine nature"
-       — "partakers of divine nature" (theias koinOnoi physeOs).
-       WEB: "partakers of the divine nature." KJV: "partakers of
-       the divine nature." Not becoming God but sharing in His
-       moral character — the Eastern church's concept of theosis.
-
-v.5  — NET: "make every effort to supplement your faith with
-       excellence" — "supplement" (epichorEgEsate = supply/furnish
-       generously). WEB: "adding on your part all diligence." A
-       chain of virtues: faith, virtue, knowledge, self-control,
-       perseverance, godliness, brotherly love, love.
-
-v.19 — NET: "we possess the prophetic word as an altogether
+       NET: "we possess the prophetic word as an altogether
        reliable thing" — "altogether reliable" (bebaioteron =
        more sure/more confirmed). WEB: "the more sure word of
        prophecy." KJV: "a more sure word of prophecy." Scripture
        is more reliable than even eyewitness experiences (v.18 —
        the Transfiguration).
 
-v.21 — NET: "men spoke from God as they were carried along by the
+v.21 — KJV: "moved by the Holy Ghost" / ESV: "carried along by the Holy
+ Spirit" — Greek "pheromenoi hupo pneumatos hagiou" — carried along by
+ the Holy Spirit. Like wind carrying a sailing ship. Human authors,
+ divine direction.
+       NET: "men spoke from God as they were carried along by the
        Holy Spirit" — "carried along" (pheromenoi = borne/moved —
        same word for a ship driven by wind). WEB: "moved by the
        Holy Spirit." KJV: "moved by the Holy Ghost." Human authors

@@ -90,7 +90,7 @@ v.6   — Romans 11:26 — "There shall come out of Sion the
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "Corrupt are they, and have done abominable iniquity" /
       ESV: "They are corrupt, doing abominable iniquity" — Minor
@@ -108,20 +108,6 @@ v.6 — KJV: "When God bringeth back the captivity" / ESV: "When
       either "return the captivity" or "restore the fortunes."
       ESV's broader rendering works better as the psalm predates
       the Babylonian exile.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "Fools say to themselves, 'There is no God.' They sin and commit evil deeds" — NET modernizes "The fool hath said in his heart" to "Fools say to themselves" (plural), and renders "abominable iniquity" as the blander "evil deeds." KJV/ASV/WEB all preserve "abominable iniquity," retaining the moral horror.
-
-- v.2 — NET: "God looks down from heaven at the human race, to see if there is anyone who is wise" — NET adds "the human race" (not in Hebrew, which says "children of men") and changes "understand" to "wise," connecting this to wisdom literature. ASV/WEB stay with KJV's "children of men."
-
-- v.3 — NET: "Everyone rejects God; they are all morally corrupt" — NET interprets "gone back" (sarag) as specifically "rejects God" and "filthy" as "morally corrupt." KJV/ASV/WEB: "gone back... become filthy" — more vivid, physical language suggesting decay and turning away.
-
-- v.5 — NET: "For God annihilates those who attack you" vs. KJV: "God hath scattered the bones of him that encampeth against thee" — NET dramatically intensifies with "annihilates" and loses the vivid Hebrew image of scattered bones (unburied enemy dead). ASV/WEB preserve the bones imagery.
-
-- v.5 — ASV: "God hath rejected them" vs. KJV: "God hath despised them" — The Hebrew "ma'as" means to reject, refuse, or despise. ASV/WEB use "rejected" (more neutral); KJV's "despised" conveys stronger divine contempt. NET: "God has rejected them."
-
-- v.6 — NET: "When God restores the well-being of his people" vs. KJV: "When God bringeth back the captivity of his people" — NET interprets "shub shebut" as restoring well-being (prosperity) rather than returning from captivity. WEB: "When God brings back his people from captivity" — keeps the exile language.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

@@ -92,7 +92,7 @@ Charles Spurgeon:
   human (fruit of the earth). Beautiful in His deity, excellent
   in His humanity. One person, two natures, infinite glory."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — "branch" (KJV/ESV) — Hebrew "tsemach" = a sprout/growth.
       A technical messianic term in the prophets — something
@@ -114,45 +114,6 @@ v.5  — "defence" (KJV) / "canopy" (ESV) — Hebrew "chuppah" =
 v.6  — "tabernacle" (KJV) / "booth" (ESV) — Hebrew "sukkah" =
       a temporary shelter (as in the Feast of Tabernacles/Sukkot).
       Shelter from heat, storm, and rain — comprehensive protection.
-
-GLOSSARY
-------------------------------------
-Branch of the LORD — (Hebrew: tsemach Yahweh) A messianic title
-               emphasizing Christ's divine origin. He "branches out"
-               from God — growing from the royal line of David after
-               it appears cut down and dead. Used in Isaiah 4:2,
-               Jeremiah 23:5, 33:15, Zechariah 3:8, 6:12.
-
-Remnant       — Those who survive judgment. A key Isaiah concept:
-               not all Israel perishes; God preserves a holy seed
-               (6:13). The faithful few who remain after the
-               unfaithful majority is judged.
-
-Spirit of burning — Not destructive fire but REFINING fire. The
-               Holy Spirit's purifying work, removing impurity and
-               leaving holiness — like a silversmith's flame that
-               removes dross without destroying the silver.
-
-Chuppah       — A canopy or covering. In Jewish weddings, the
-               couple stands under a chuppah symbolizing God's
-               covering/protection. Here God Himself creates a
-               wedding-canopy over all Zion.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — ASV: "the branch of Jehovah" / WEB: "Yahweh's branch" / NET: "the crops given by the Lord" — A critical messianic difference. ASV/WEB preserve "tsemach" as "branch" (a messianic title), while NET renders it as "crops" — completely losing the messianic connection to Jeremiah 23:5 and Zechariah 6:12. NET treats this as agricultural rather than prophetic.
-
-- v.2 — NET: "the produce of the land will be a source of pride and delight to those who remain in Israel" vs. KJV "the fruit of the earth shall be excellent and comely for them that are escaped of Israel" — NET interprets "escaped of Israel" (peleitah) as merely "those who remain," softening the remnant theology. KJV/ASV preserve the sense of survivors of catastrophe.
-
-- v.4 — ASV/WEB: "by the spirit of justice, and by the spirit of burning" vs. NET: "as he comes to judge and to bring devastation" — ASV/WEB retain "spirit" (ruach) in both phrases, preserving the possible Holy Spirit reference. NET removes "spirit" entirely, reducing it to divine action ("judge" and "devastation"), losing the pneumatological dimension.
-
-- v.4 — NET: "wash the excrement from Zion's women" vs. KJV "washed away the filth of the daughters of Zion" — NET uses shockingly explicit language ("excrement") where KJV/ASV/WEB use the general "filth" (tso'ah). The Hebrew does mean excrement/refuse, but NET's graphic rendering is unusual for translations.
-
-- v.5 — ASV: "Jehovah will create" / WEB: "Yahweh will create" — Both preserve the divine name with "bara" (create), linking back to Genesis 1:1. NET has "the Lord will create" — same verb but generic title instead of the personal name.
-
-- v.5 — ASV: "over all the glory shall be spread a covering" / WEB: "over all the glory will be a canopy" / NET: "indeed a canopy will accompany the Lord's glorious presence" — Hebrew "chuppah" (wedding canopy). NET adds "accompany" and "Lord's glorious presence" interpretively. ASV/WEB stay closer to the spare beauty of the Hebrew.
-
-- v.6 — ASV: "a pavilion for a shade" / WEB: "a pavilion for a shade" / NET: "a shelter to provide shade" — Hebrew "sukkah" = booth/tabernacle. ASV/WEB retain "pavilion" (a grander term), while NET uses "shelter." KJV uniquely uses "tabernacle" — connecting to the Feast of Tabernacles/Sukkot.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

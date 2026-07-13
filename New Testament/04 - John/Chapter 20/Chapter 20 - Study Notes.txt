@@ -93,7 +93,7 @@ Charles Spurgeon:
   in the New Testament. His doubt, honestly faced and honestly answered,
   produced the deepest faith. God is not afraid of your honest questions."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — NET: "Now very early on the first day of the week,
        while it was still dark, Mary Magdalene came to the tomb" —
@@ -135,7 +135,6 @@ v.28 — KJV: "My Lord and my God" / ESV: "My Lord and my God!" — Greek "ho ku
        see" to "my God" — doubt resolved into devotion.
 
 v.31 — KJV: "that ye might believe that Jesus is the Christ, the Son of God" / ESV: "that you may believe that Jesus is the Christ, the Son of God" — Both equivalent. The stated purpose of John's Gospel — everything serves this aim.
-
 
 GLOSSARY
 ------------------------------------

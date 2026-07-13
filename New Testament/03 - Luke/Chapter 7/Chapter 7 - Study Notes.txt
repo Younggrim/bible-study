@@ -95,7 +95,7 @@ Charles Spurgeon:
   been forgiven. If your love is cold, it may be because you've forgotten
   the size of your debt."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.7  — KJV: "say in a word, and my servant shall be healed" / ESV: "say
        the word, and let my servant be healed" — Both equivalent. The
@@ -103,30 +103,17 @@ v.7  — KJV: "say in a word, and my servant shall be healed" / ESV: "say
        word — just as a military commander's orders are carried out without
        his physical presence.
 
-v.13 — KJV: "the Lord" / ESV: "the Lord" — Both identical. Luke uses "the
-       Lord" (ho kurios) for Jesus here — one of the few times in the
-       narrative sections of the Gospels. It signals Jesus' divine authority
-       over death.
-
-v.35 — KJV: "wisdom is justified of all her children" / ESV: "wisdom is
-       justified by all her children" — Both equivalent. Meaning: true wisdom
-       is proven right by its results. Both John's asceticism and Jesus'
-       engagement with sinners are vindicated by the fruit they produce.
-
-v.47 — KJV: "for she loved much" / ESV: "for she loved much" — Both
-       identical. The "for" (Greek: hoti) indicates evidence, not cause. Her
-       love is the evidence of forgiveness already received, not the cause of
-       it. Verse 50 confirms: "Thy faith hath saved thee."
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
 v.9  — NET: "I tell you, not even in Israel have I found such
        faith!" — Jesus MARVELS (ethaumasen) at a Gentile soldier's
        faith. WEB: "I haven't found so great a faith, no, not in
        Israel." Only two occasions record Jesus marveling —
        here (at faith) and Mark 6:6 (at unbelief).
 
-v.13 — NET: "When the Lord saw her, he had compassion for her and
+v.13 — KJV: "the Lord" / ESV: "the Lord" — Both identical. Luke uses "the
+       Lord" (ho kurios) for Jesus here — one of the few times in the
+       narrative sections of the Gospels. It signals Jesus' divine authority
+       over death.
+       NET: "When the Lord saw her, he had compassion for her and
        said, 'Do not weep'" — "the Lord" (ho kyrios) — Luke uses
        this title narratively for Jesus more than any other Gospel.
        WEB: "When the Lord saw her, he had compassion on her."
@@ -137,13 +124,22 @@ v.22 — NET: "Go tell John what you have seen and heard: The blind
        — Jesus answers John's doubt with evidence, not argument.
        WEB same pattern. His works ARE His credentials.
 
+v.35 — KJV: "wisdom is justified of all her children" / ESV: "wisdom is
+       justified by all her children" — Both equivalent. Meaning: true wisdom
+       is proven right by its results. Both John's asceticism and Jesus'
+       engagement with sinners are vindicated by the fruit they produce.
+
 v.38 — NET: "she began to wet his feet with her tears. She wiped
        them with her hair, kissed them, and anointed them" — the
        sequence of four actions — each more intimate and risky than
        the last. WEB: "began to wet his feet with her tears." An
        uninvited woman, weeping, touching a rabbi — scandalous.
 
-v.47 — NET: "her sins, which were many, are forgiven, thus she
+v.47 — KJV: "for she loved much" / ESV: "for she loved much" — Both
+       identical. The "for" (Greek: hoti) indicates evidence, not cause. Her
+       love is the evidence of forgiveness already received, not the cause of
+       it. Verse 50 confirms: "Thy faith hath saved thee."
+       NET: "her sins, which were many, are forgiven, thus she
        loved much" — the causal direction matters: forgiveness
        CAUSES love (not love earning forgiveness). KJV: "for she
        loved much." WEB: "for she loved much." The "for" is

@@ -136,7 +136,7 @@ pilgrimage-like.
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — "I will keep my mouth with a bridle" (KJV) / "I will guard
 my mouth with a muzzle" (ESV): Hebrew machsom — a muzzle or
@@ -174,22 +174,6 @@ literal. David asks God to relent from His intense scrutinizing
 gaze — not to abandon him, but to give him breathing room before
 death. This is similar to Job 7:19: "How long wilt thou not
 depart from me?"
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.4 — ASV: "Jehovah, make me to know mine end" / WEB: "Yahweh, show me my end" / NET: "O Lord, help me understand my mortality and the brevity of life" — NET extensively paraphrases, adding "mortality" and "brevity of life" to interpret the Hebrew. The simple, stark prayer "make me to know mine end" (ASV/KJV) is more poignant — a direct request to understand one's death.
-
-- v.5 — KJV: "every man at his best state is altogether vanity" / ASV: "Surely every man at his best estate is altogether vanity" / WEB: "Surely every man stands as a breath" / NET: "Surely all people, even those who seem secure, are nothing but vapor" — Hebrew "hevel" = breath, vapor, vanity. NET's "vapor" and WEB's "breath" emphasize transience; KJV/ASV's "vanity" (following Ecclesiastes tradition) emphasizes futility. NET adds "even those who seem secure" — interpreting "nitsav" (standing firmly).
-
-- v.6 — KJV: "walketh in a vain shew" / ASV: "walketh in a vain show" / WEB: "walks like a shadow" / NET: "go through life as mere ghosts" — Hebrew "be-tselem" = in an image/shadow/phantom. NET's "ghosts" is evocative but perhaps too supernatural; WEB's "shadow" captures insubstantiality; KJV/ASV's "vain show" emphasizes empty appearance.
-
-- v.11 — KJV: "thou makest his beauty to consume away like a moth" / ASV: "Thou makest his beauty to consume away like a moth" / WEB: "You consume his wealth like a moth" / NET: "like a moth you slowly devour their strength" — Hebrew "chamudo" is debated: beauty (KJV/ASV), wealth (WEB), or strength (NET)? Each translation interprets what God consumes through discipline. WEB's "wealth" and NET's "strength" are interpretive; KJV/ASV's "beauty" preserves the ambiguity.
-
-- v.12 — KJV: "I am a stranger with thee, and a sojourner" / ASV: "I am a stranger with thee, A sojourner" / WEB: "I am a stranger with you, a foreigner" / NET: "I am a resident foreigner with you, a temporary settler" — NET elaborates with "resident foreigner" and "temporary settler," making the legal status explicit. Hebrew "ger" and "toshav" describe someone living in a land that isn't home — theological language for humanity's earthly existence.
-
-- v.13 — KJV: "O spare me" / ASV: "Oh spare me" / WEB: "Oh spare me" / NET: "Turn your angry gaze away from me" — NET adds "angry gaze" — interpreting the Hebrew as God looking with anger. The Hebrew "hasha" means simply "look away" or "cease to gaze." NET makes God's disposition more hostile than the text warrants.
-
-- v.5 — ASV: "my life-time is as nothing before thee" / WEB: "My lifetime is as nothing before you" / NET: "my life span is nothing from your perspective" — NET adds "from your perspective," framing the brevity as a matter of divine viewpoint rather than absolute reality. The Hebrew states it plainly: "my age is as nothing before you" — it IS nothing, not merely appears so.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

@@ -102,7 +102,7 @@ Charles Spurgeon:
   us learn: before you draw the sword, send the messenger. Before you
   condemn, ask. Before you judge, listen. Many an 'altar of rebellion'
   is actually an altar of witness."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.5  — KJV: "cleave unto him" / ESV: "cling to him" — Hebrew
        "u-l'davqah bo." "Davaq" = to cling, stick to, adhere. The same
@@ -146,45 +146,6 @@ v.34 — KJV: "called the altar Ed" / ESV: "called the altar Witness" —
        Hebrew "Ed" = witness, testimony. KJV transliterates the Hebrew
        name; ESV translates it. The altar's name encapsulates its
        purpose: it testifies that the eastern tribes belong to the LORD.
-
-GLOSSARY
-------------------------------------
-Phinehas       — Son of Eleazar, grandson of Aaron. Known for his zeal
-               at Peor where he executed an Israelite man and Midianite
-               woman engaged in idolatrous immorality, stopping the
-               plague (Numbers 25:7-13). God gave him a "covenant of
-               peace" and perpetual priesthood. His selection to lead
-               this delegation was strategic — he was zealous for God's
-               honor but also a man of discernment.
-
-Ed (Witness)   — The name given to the altar built by the eastern tribes.
-               Hebrew "ed" = witness, testimony. The altar testified to
-               future generations that the Transjordan tribes were part
-               of Israel and worshiped the LORD.
-
-Peor           — Baal-peor, the Moabite deity. At Shittim, Israel was
-               seduced into idolatry and sexual immorality with Moabite
-               women (Numbers 25). 24,000 died in the resulting plague.
-               The delegation cites this as a warning of corporate
-               consequences for apostasy.
-
-Achan          — Son of Zerah, of the tribe of Judah. He took devoted
-               things from Jericho (Joshua 7), bringing defeat at Ai
-               and judgment on all Israel. Cited here (v.20) as proof
-               that one person's sin affects the entire community.
-
-Cleave/Cling (davaq) — To adhere, stick to, hold fast. Used of marriage
-               (Genesis 2:24) and of devotion to God (Deuteronomy 10:20;
-               11:22). Implies intimate, unbreakable attachment.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.5 — ASV: "to love Jehovah your God, and to walk in all his ways, and to keep his commandments, and to cleave unto him" / NET: "Love the Lord your God, follow all his instructions, obey his commands, be loyal to him" / WEB: "to love Yahweh your God, to walk in all his ways, to keep his commandments, to hold fast to him" — NET renders "davak" (cleave/cling) as "be loyal," losing the physical imagery. KJV/ASV "cleave" and WEB "hold fast" preserve the Hebrew picture of clinging to God as in marriage (same verb as Genesis 2:24).
-- v.16 — ASV: "Thus saith the whole congregation of Jehovah, What trespass is this?" / NET: "The entire community of the Lord says, 'Why have you disobeyed the God of Israel?'" — ASV/KJV's "trespass" (ma'al — unfaithfulness/breach of trust) is more precise than NET's general "disobeyed." Ma'al implies covenant violation — a betrayal of trust, not mere disobedience.
-- v.20 — ASV: "Did not Achan the son of Zerah commit a trespass in the devoted thing" / NET: "When Achan son of Zerah disobeyed the command about the city's riches" — NET again replaces "devoted thing" (cherem) with "city's riches," losing the sacred-ban concept. The parallel to Achan's sin is about violating cherem, not stealing riches.
-- v.22 — ASV: "The Mighty One, God, Jehovah, the Mighty One, God, Jehovah, he knoweth" / WEB: "The Mighty One, God, Yahweh, the Mighty One, God, Yahweh! He knows!" / NET: "El, God, the Lord! El, God, the Lord! He knows the truth!" — A powerful triple divine invocation: El (Mighty One), Elohim (God), YHWH (LORD). ASV/WEB preserve all three names in their full weight. NET transliterates "El" but uses "the Lord" for YHWH.
-- v.27 — ASV: "a witness between us and you...that we may do the service of Jehovah" / NET: "a reminder to us and you...that we will honor the Lord" — ASV/KJV's "witness" (ed) is the altar's purpose and name. NET's "reminder" is weaker; a witness testifies before God and man. NET also replaces "service" (avodah — worship/service) with "honor."
-- v.34 — ASV: "the children of Reuben and the children of Gad called the altar Ed: For, said they, it is a witness between us that Jehovah is God" / NET: "The Reubenites and Gadites named the altar, 'Surely it is a Reminder to us that the Lord is God'" — ASV preserves the altar name "Ed" (witness) with its explanation. NET substitutes "Reminder" and loses the proper name. WEB: "a witness between us that Yahweh is God."
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

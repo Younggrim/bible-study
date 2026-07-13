@@ -103,9 +103,8 @@ Charles Spurgeon:
   mystery hidden for ages, now revealed. The glory of the gospel is not just
   that Christ died for you but that Christ lives in you."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.13 — KJV: "translated" / ESV: "and transferred us" — Greek "methistēmi" — to transfer, relocate. A
        kingdom transfer: removed from darkness's domain, placed in Christ's
        kingdom. Past tense — already done.
@@ -113,24 +112,52 @@ v.13 — KJV: "translated" / ESV: "and transferred us" — Greek "methistēmi" �
 v.15 — KJV: "image" / ESV: Both equivalent. — Greek "eikōn" — exact representation, visible
        manifestation. Christ makes the invisible God visible. Not a copy but
        the reality itself.
+       NET: "He is the image of the invisible God, the
+       firstborn over all creation" — "firstborn" (prOtotokos) —
+       not first created but preeminent/supreme (as firstborn has
+       rights of inheritance). WEB: "the firstborn of all creation."
+       KJV: "the firstborn of every creature." Supremacy, not
+       origin — v.16 clarifies: all things were created BY Him.
 
 v.15 — KJV: "firstborn of every creature" / ESV: "God, the firstborn of all creation" — Greek "prōtotokos pasēs
        ktiseōs" — does NOT mean Christ was created. "Firstborn" = rank and
        supremacy (as in Psalm 89:27 where David is called "firstborn" though
        he was the youngest). Christ is supreme over all creation because He
        created it (v.16).
+       NET: "He is the image of the invisible God, the
+       firstborn over all creation" — "firstborn" (prOtotokos) —
+       not first created but preeminent/supreme (as firstborn has
+       rights of inheritance). WEB: "the firstborn of all creation."
+       KJV: "the firstborn of every creature." Supremacy, not
+       origin — v.16 clarifies: all things were created BY Him.
 
 v.16 — "Thrones, dominions, principalities, powers" — Four ranks of angelic/
        spiritual beings. Christ created them all — He is supreme over every
        spiritual power, good or evil.
+       NET: "all things in heaven and on earth were created in
+       him — all things, whether visible or invisible" — "in him"
+       (en autO) — Christ as the sphere and agent of creation. WEB:
+       "For by him all things were created." Four prepositions
+       describe Christ's relationship to creation: in, through, by,
+       and for Him.
 
 v.17 — KJV: "consist" / ESV: "hold together" — Greek "synestēken" — to hold together, cohere.
        Christ is the cosmic glue — He holds the universe together at every
        moment. Without Him, everything would fly apart.
+       NET: "He himself is before all things and all things are
+       held together in him" — "held together" (synestEken = cohere/
+       consist). WEB: "in him all things are held together." KJV:
+       "by him all things consist." Christ is the cosmic glue —
+       without Him, reality disintegrates.
 
 v.19 — KJV: "fulness" / ESV: "was pleased to dwell" — Greek "plērōma" — fullness, completeness. A key
        term in Colossians. The heretics may have used it for spiritual
        emanations; Paul claims it all for Christ.
+       NET: "For God was pleased to have all his fullness dwell
+       in the Son" — "all his fullness" (pan to plErOma). WEB: "all
+       the fullness was pleased to dwell in him." KJV: "in him
+       should all fulness dwell." The totality of deity resides in
+       Christ — not partially but completely.
 
 v.20 — KJV: "reconcile all things" / ESV: "all things, whether on earth" — Cosmic reconciliation — not just
        humans but the entire created order brought back into right
@@ -139,34 +166,6 @@ v.20 — KJV: "reconcile all things" / ESV: "all things, whether on earth" — C
 v.24 — KJV: "fill up that which is behind of the afflictions of Christ" / ESV: "and in my flesh I am filling up what is lacking in Christ’s" —
        Not that Christ's atonement was incomplete, but that Paul's sufferings
        for the church continue Christ's pattern of suffering for His body.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.15 — NET: "He is the image of the invisible God, the
-       firstborn over all creation" — "firstborn" (prOtotokos) —
-       not first created but preeminent/supreme (as firstborn has
-       rights of inheritance). WEB: "the firstborn of all creation."
-       KJV: "the firstborn of every creature." Supremacy, not
-       origin — v.16 clarifies: all things were created BY Him.
-
-v.16 — NET: "all things in heaven and on earth were created in
-       him — all things, whether visible or invisible" — "in him"
-       (en autO) — Christ as the sphere and agent of creation. WEB:
-       "For by him all things were created." Four prepositions
-       describe Christ's relationship to creation: in, through, by,
-       and for Him.
-
-v.17 — NET: "He himself is before all things and all things are
-       held together in him" — "held together" (synestEken = cohere/
-       consist). WEB: "in him all things are held together." KJV:
-       "by him all things consist." Christ is the cosmic glue —
-       without Him, reality disintegrates.
-
-v.19 — NET: "For God was pleased to have all his fullness dwell
-       in the Son" — "all his fullness" (pan to plErOma). WEB: "all
-       the fullness was pleased to dwell in him." KJV: "in him
-       should all fulness dwell." The totality of deity resides in
-       Christ — not partially but completely.
 
 v.27 — NET: "Christ in you, the hope of glory" — the mystery
        revealed: Christ indwelling Gentiles. WEB: "Christ in you,

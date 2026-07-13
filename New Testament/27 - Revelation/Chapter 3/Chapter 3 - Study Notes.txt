@@ -109,16 +109,34 @@ Charles Spurgeon:
  of dependence. Self-satisfaction is the enemy of growth. Better to be cold
  (at least honest) than lukewarm (self-deceived)."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "a name that thou livest" / ESV: "the reputation of being alive"
  — Both equivalent in meaning. ESV uses modern phrasing. A reputation
  for being alive. Sardis looked alive from the outside but was dead
  within. Activity without spiritual life.
+       NET: "you have a reputation that you are alive, but in
+       reality you are dead" — "reputation" (onoma = name). WEB:
+       "you have a reputation of being alive." KJV: "thou hast a
+       name that thou livest." Sardis had fame without substance —
+       all reputation, no reality.
+
+v.5  — NET: "I will never erase his name from the book of life"
+       — "never erase" (ou mE exaleipsO = absolutely will not blot
+       out — double negative). WEB: "I will in no way blot his
+       name out of the book of life." The strongest possible
+       assurance of security for the overcomer.
 
 v.7 — KJV: "key of David" / ESV: Both equivalent. — From Isaiah 22:22. Authority to open and close.
  Christ controls access — to opportunity, to the kingdom, to God's
  presence.
+
+v.8  — NET: "I have put before you an open door that no one can
+       shut" — "open door" (thyran aneOgmenEn = a door standing
+       opened). WEB: "I have set before you an open door." KJV:
+       "I have set before thee an open door." Philadelphia — small
+       strength but great faithfulness. God opens what no one
+       can close.
 
 v.10 — KJV: "keep thee from the hour of temptation" / ESV: "keep you from
  the hour of trial" — Greek "tērēsō ek tēs hōras" — keep from/out of
@@ -137,6 +155,12 @@ v.15 — KJV: "cold... hot... lukewarm" / ESV: "cold nor hot... lukewarm" —
  Cold water came from Colossae (refreshing); hot water from Hierapolis
  (therapeutic hot springs). By the time water reached Laodicea through
  aqueducts, it was lukewarm and nauseating.
+       NET: "because you are lukewarm, and neither hot nor cold,
+       I am going to vomit you out of my mouth" — "vomit" (emesai
+       = spew/vomit). WEB: "I will vomit you out of my mouth."
+       KJV: "I will spue thee out of my mouth." Laodicea — their
+       lukewarm water (unlike Colossae's cold or Hierapolis' hot)
+       nauseates Christ.
 
 v.16 — KJV: "spue thee out of my mouth" / ESV: "spit you out of my mouth" —
  Greek "emesai" — to vomit. Both convey the same visceral image. ESV
@@ -154,36 +178,7 @@ v.17 — KJV: "wretched, and miserable, and poor, and blind, and naked" /
 v.20 — KJV: "I stand at the door, and knock" / ESV: "stand at the door and knock" — Often used evangelistically,
  but in context it's addressed to a church. Christ is outside His own
  church, seeking re-entry. The door must be opened from inside.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "you have a reputation that you are alive, but in
-       reality you are dead" — "reputation" (onoma = name). WEB:
-       "you have a reputation of being alive." KJV: "thou hast a
-       name that thou livest." Sardis had fame without substance —
-       all reputation, no reality.
-
-v.5  — NET: "I will never erase his name from the book of life"
-       — "never erase" (ou mE exaleipsO = absolutely will not blot
-       out — double negative). WEB: "I will in no way blot his
-       name out of the book of life." The strongest possible
-       assurance of security for the overcomer.
-
-v.8  — NET: "I have put before you an open door that no one can
-       shut" — "open door" (thyran aneOgmenEn = a door standing
-       opened). WEB: "I have set before you an open door." KJV:
-       "I have set before thee an open door." Philadelphia — small
-       strength but great faithfulness. God opens what no one
-       can close.
-
-v.15 — NET: "because you are lukewarm, and neither hot nor cold,
-       I am going to vomit you out of my mouth" — "vomit" (emesai
-       = spew/vomit). WEB: "I will vomit you out of my mouth."
-       KJV: "I will spue thee out of my mouth." Laodicea — their
-       lukewarm water (unlike Colossae's cold or Hierapolis' hot)
-       nauseates Christ.
-
-v.20 — NET: "Listen! I am standing at the door and knocking!" —
+       NET: "Listen! I am standing at the door and knocking!" —
        "standing" (hestEka = I have taken my stand — perfect tense:
        settled position). WEB: "I stand at the door and knock."
        KJV: "Behold, I stand at the door, and knock." Christ

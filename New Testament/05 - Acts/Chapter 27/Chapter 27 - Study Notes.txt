@@ -81,29 +81,18 @@ Charles Spurgeon:
   pass.' I believe GOD. That it shall be even as it was told me. Faith is
   taking God at His word — period."
 
-TRANSLATION NOTES
-------------------------------------
-v.14 — KJV: "Euroclydon" / ESV: "the northeaster" — Greek "Eurakylōn." KJV
-       preserves the Greek name; ESV translates it descriptively. The name
-       combines "euros" (east wind) and "kludōn" (wave/surge). A hurricane-
-       force storm.
-
-v.27 — KJV: "driven up and down in Adria" / ESV: "driven across the Adriatic
-       Sea" — Both equivalent. The Adriatic Sea in ancient usage included the
-       central Mediterranean between Italy, Greece, and North Africa — not
-       just the modern Adriatic.
-
-v.37 — KJV: "two hundred threescore and sixteen souls" / ESV: "276 persons"
-       — Both identical (276). A large grain ship from Alexandria carrying
-       wheat to Rome.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.10 — NET: "Men, I can see that this voyage is going to end
        in disaster" — "I can see" (theOrO = I perceive/observe).
        WEB: "I perceive that the voyage will be with injury and
        much loss." Paul's practical wisdom — ignored by the captain
        and centurion.
+
+v.14 — KJV: "Euroclydon" / ESV: "the northeaster" — Greek "Eurakylōn." KJV
+       preserves the Greek name; ESV translates it descriptively. The name
+       combines "euros" (east wind) and "kludōn" (wave/surge). A hurricane-
+       force storm.
 
 v.20 — NET: "when neither sun nor stars appeared for many days
        and a violent storm continued to batter us, we finally
@@ -122,10 +111,19 @@ v.25 — NET: "I have faith in God that it will be just as I have
        believe God." KJV: "I believe God." Simple, direct trust —
        the basis for Paul's calm amid 276 panicking people.
 
+v.27 — KJV: "driven up and down in Adria" / ESV: "driven across the Adriatic
+       Sea" — Both equivalent. The Adriatic Sea in ancient usage included the
+       central Mediterranean between Italy, Greece, and North Africa — not
+       just the modern Adriatic.
+
 v.34 — NET: "not a hair of your head will be lost" — echoing
        Luke 21:18. WEB: "not a hair will perish from any of your
        heads." Sovereign protection — all 276 survive (v.44). God
        keeps His word to the letter.
+
+v.37 — KJV: "two hundred threescore and sixteen souls" / ESV: "276 persons"
+       — Both identical (276). A large grain ship from Alexandria carrying
+       wheat to Rome.
 
 GLOSSARY
 ------------------------------------

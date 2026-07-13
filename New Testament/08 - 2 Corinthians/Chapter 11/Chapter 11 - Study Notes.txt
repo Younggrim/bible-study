@@ -84,26 +84,7 @@ Charles Spurgeon:
   eloquence, not his success — his scars. The marks of genuine ministry
   are not comfort and applause but suffering and faithfulness."
 
-TRANSLATION NOTES
-------------------------------------
-
-v.3  — KJV: "the simplicity that is in Christ" / ESV: "a sincere and pure devotion to Christ" — Greek "haplotētos" —
-       simplicity, sincerity, single-mindedness. The Gospel is simple — false
-       teachers complicate it.
-
-v.14 — KJV: "an angel of light" / ESV: Both equivalent. — Satan's most effective disguise is not
-       ugliness but beauty. He appears as something good, spiritual, and
-       attractive.
-
-v.24 — KJV: "forty stripes save one" / ESV: "of the Jews the forty lashes less one" — Jewish law limited flogging to 40
-       lashes (Deuteronomy 25:3). They gave 39 to avoid accidentally
-       exceeding the limit. Paul received this FIVE times.
-
-v.28 — KJV: "the care of all the churches" / ESV: "me of my anxiety for all the churches" — Greek "merimna" — anxiety,
-       concern, burden. Paul carried the weight of every church's problems
-       daily — perhaps his heaviest burden.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — NET: "I am jealous for you with godly jealousy, because
        I promised you in marriage to one husband, to present you as
@@ -111,25 +92,38 @@ v.2  — NET: "I am jealous for you with godly jealousy, because
        God's own jealousy). WEB: "a godly jealousy." Paul as
        spiritual father protecting his daughter for her Bridegroom.
 
+v.3  — KJV: "the simplicity that is in Christ" / ESV: "a sincere and pure devotion to Christ" — Greek "haplotētos" —
+       simplicity, sincerity, single-mindedness. The Gospel is simple — false
+       teachers complicate it.
+
 v.4  — NET: "For if someone comes and proclaims another Jesus
        than the one we proclaimed" — "another Jesus" (allon IEsoun)
        — a counterfeit Christ. WEB: "preaches another Jesus." False
        teaching doesn't deny Jesus — it redefines Him.
 
-v.14 — NET: "And no wonder, for even Satan disguises himself as an
+v.14 — KJV: "an angel of light" / ESV: Both equivalent. — Satan's most effective disguise is not
+       ugliness but beauty. He appears as something good, spiritual, and
+       attractive.
+       NET: "And no wonder, for even Satan disguises himself as an
        angel of light" — "disguises himself" (metaschEmatizesthai =
        transforms his appearance). WEB: "even Satan transforms
        himself into an angel of light." KJV: "Satan himself is
        transformed into an angel of light." The most dangerous
        deception looks most spiritual.
 
-v.24 — NET: "Five times I received from the Jews forty lashes
+v.24 — KJV: "forty stripes save one" / ESV: "of the Jews the forty lashes less one" — Jewish law limited flogging to 40
+       lashes (Deuteronomy 25:3). They gave 39 to avoid accidentally
+       exceeding the limit. Paul received this FIVE times.
+       NET: "Five times I received from the Jews forty lashes
        less one" — 39 lashes (the maximum without risking death).
        WEB: "Five times from the Jews I received forty stripes
        minus one." Paul endured this five times — 195 lashes total.
        None of these are recorded in Acts.
 
-v.28 — NET: "Apart from other things, there is the daily pressure
+v.28 — KJV: "the care of all the churches" / ESV: "me of my anxiety for all the churches" — Greek "merimna" — anxiety,
+       concern, burden. Paul carried the weight of every church's problems
+       daily — perhaps his heaviest burden.
+       NET: "Apart from other things, there is the daily pressure
        on me of my anxiety for all the churches" — "daily pressure"
        (epistasis... kath' hEmeran). WEB: "that which presses on
        me daily: anxiety for all the assemblies." The heaviest

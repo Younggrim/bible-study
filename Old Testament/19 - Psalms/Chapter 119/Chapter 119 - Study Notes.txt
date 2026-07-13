@@ -125,18 +125,8 @@ v.160 — John 17:17 — "Thy word is truth."
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-The Eight Words for God's Word in Hebrew:
-1. Torah (law) — instruction, direction, teaching
-2. Dabar (word) — spoken word, matter, thing
-3. Mishpatim (judgments) — verdicts, decisions, ordinances
-4. Edot (testimonies) — witnesses, attestations
-5. Mitzvot (commandments) — authoritative charges
-6. Chuqqim (statutes) — inscribed decrees, engraved laws
-7. Piqqudim (precepts) — appointed guidelines, mandates
-8. Imrah (word/saying) — utterance, promise
-
 v.105 — "lamp" (Hebrew "ner") = an oil lamp, giving limited but
         sufficient light for the next step. Not a floodlight for
         the whole journey but enough for right now.
@@ -145,21 +135,6 @@ v.176 — "I have gone astray like a lost sheep" — The psalm ends
         not with triumph but with confession. Even after 175
         verses of devotion, the psalmist acknowledges his wandering.
         Honesty marks true love for God's Word.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — KJV: "the undefiled in the way" / ASV: "they that are perfect in the way" / WEB: "those whose ways are blameless" / NET: "those whose actions are blameless" — Four renderings of Hebrew "tamim" (complete, whole, blameless). NET specifies "actions" rather than general way/path.
-- v.1 — ASV: "the law of Jehovah" / WEB: "Yahweh's law" / NET: "the law of the Lord" — The divine name appears over 20 times in this psalm. ASV consistently uses "Jehovah," WEB "Yahweh," NET "Lord" or "O Lord."
-- v.11 — KJV: "Thy word have I hid in mine heart" / WEB: "I have hidden your word in my heart" / ASV: "Thy word have I laid up in my heart" / NET: "In my heart I store up your words" — ASV's "laid up" and NET's "store up" add intentionality; KJV/WEB's "hid/hidden" suggests protection from loss.
-- v.25 — KJV/ASV: "Quicken thou me" / WEB: "Revive me" / NET: "Revive me" — "Quicken" (Hebrew "chayah" = give life/revive) appears 11 times in this psalm. KJV's archaic "quicken" is consistently modernized to "revive" in WEB/NET.
-- v.41 — KJV: "thy mercies" / ASV: "thy lovingkindnesses" / WEB: "your loving kindness" / NET: "your loyal love" — The chesed pattern is especially prominent in this psalm. ASV uniquely uses the plural "lovingkindnesses."
-- v.83 — KJV: "a bottle in the smoke" / ASV: "a wine-skin in the smoke" / WEB: "a wineskin in the smoke" / NET: "a wineskin dried up in smoke" — KJV's "bottle" was a leather flask; ASV/WEB clarify as "wineskin." NET adds "dried up" to explain the metaphor's meaning.
-- v.89 — ASV: "For ever, O Jehovah, Thy word is settled in heaven" / WEB: "Yahweh, your word is settled in heaven forever" / NET: "O Lord, your instructions endure; they stand secure in heaven" — NET paraphrases "word" as "instructions" and "settled" as "stand secure," adding interpretive specificity.
-- v.96 — KJV: "I have seen an end of all perfection: but thy commandment is exceeding broad" / NET: "I realize that everything has its limits, but your commands are beyond full comprehension" / WEB: "I have seen a limit to all perfection, but your commands are boundless" — Strikingly different renderings of this difficult verse. NET interprets "broad" as intellectual comprehension; WEB as limitlessness.
-- v.105 — NET: "Your word is a lamp to walk by and a light to illumine my path" — Expands KJV's concise "lamp unto my feet, and a light unto my path" by adding "to walk by" and "to illumine," making the function explicit.
-- v.113 — KJV: "I hate vain thoughts" / ASV: "them that are of a double mind" / WEB: "double-minded men" / NET: "people with divided loyalties" — Hebrew "se'ippim" is rare and disputed. KJV interprets as internal thoughts; ASV/WEB/NET interpret as double-minded people.
-- v.140 — KJV: "Thy word is very pure" / ASV: "Thy word is very pure" / WEB: "Your promises have been thoroughly tested" / NET: "Your word is absolutely pure" — WEB uniquely renders "tested/refined" (Hebrew "tsaraph" = refined by fire), emphasizing the process rather than the result.
-- v.160 — KJV: "Thy word is true from the beginning" / ASV: "The sum of thy word is truth" / WEB: "All of your words are truth" / NET: "Your instructions are totally reliable" — ASV's "sum" (totality) differs significantly from KJV's "from the beginning" (Hebrew "rosh" can mean head/sum/beginning). NET paraphrases entirely.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

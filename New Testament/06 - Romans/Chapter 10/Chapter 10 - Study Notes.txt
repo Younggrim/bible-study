@@ -92,59 +92,51 @@ Charles Spurgeon:
   Gospel to those who haven't heard. God calls your feet beautiful when
   they carry His message."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.4  — KJV: "Christ is the end of the law" / ESV: Both equivalent. — Greek "telos" — can mean "end"
        (termination) or "goal" (fulfillment). Both are true: Christ is the
        goal the Law pointed toward AND the termination of the Law as a means
        of achieving righteousness.
-
-v.9  — KJV: "confess with thy mouth the Lord Jesus" — ESV: "confess with your
-       mouth that Jesus is Lord" — Public confession of Jesus' lordship +
-       heart belief in His resurrection = salvation. Both are necessary —
-       internal faith and external confession.
-
-v.10 — KJV: "with the heart man believeth unto righteousness; and with the
-       mouth confession is made unto salvation" — Heart and mouth — internal
-       and external — both involved in genuine saving faith.
-
-v.13 — KJV: "whosoever shall call upon the name of the Lord" / ESV: "For “everyone who calls on the name of the Lord will be saved.”" — Quoting Joel
-       2:32. In Joel, "the Lord" is YHWH (Yahweh). Paul applies it to Jesus
-       — a strong affirmation of Christ's deity.
-
-v.17 — KJV: "faith cometh by hearing, and hearing by the word of God" / ESV: "So faith comes from hearing" — Some
-       manuscripts read "word of Christ" (ESV). Either way: faith is produced
-       by hearing the message about Christ from Scripture.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.4  — NET: "For Christ is the end of the law, with the result
+       NET: "For Christ is the end of the law, with the result
        that there is righteousness for everyone who believes" —
        "end" (telos) — debated: termination? goal? fulfillment?
        WEB: "Christ is the fulfillment of the law." KJV: "Christ
        is the end of the law." NET's "end... with the result" tries
        to capture both senses.
 
-v.9  — NET: "if you confess with your mouth that Jesus is Lord
+v.9  — KJV: "confess with thy mouth the Lord Jesus" — ESV: "confess with your
+       mouth that Jesus is Lord" — Public confession of Jesus' lordship +
+       heart belief in His resurrection = salvation. Both are necessary —
+       internal faith and external confession.
+       NET: "if you confess with your mouth that Jesus is Lord
        and believe in your heart that God raised him from the dead,
        you will be saved" — "Jesus is Lord" (kyrion IEsoun) — the
        earliest Christian confession. WEB: "Jesus is Lord." KJV:
        "the Lord Jesus." Lordship and resurrection belief together.
 
-v.10 — NET: "with the heart one believes and thus has righteousness
+v.10 — KJV: "with the heart man believeth unto righteousness; and with the
+       mouth confession is made unto salvation" — Heart and mouth — internal
+       and external — both involved in genuine saving faith.
+       NET: "with the heart one believes and thus has righteousness
        and with the mouth one confesses and thus has salvation" —
        "thus has" (eis = resulting in/leading to). WEB: "with the
        heart, one believes resulting in righteousness." Internal
        faith and external confession together constitute salvation.
 
-v.13 — NET: "everyone who calls on the name of the Lord will be
+v.13 — KJV: "whosoever shall call upon the name of the Lord" / ESV: "For “everyone who calls on the name of the Lord will be saved.”" — Quoting Joel
+       2:32. In Joel, "the Lord" is YHWH (Yahweh). Paul applies it to Jesus
+       — a strong affirmation of Christ's deity.
+       NET: "everyone who calls on the name of the Lord will be
        saved" — quoting Joel 2:32. "Everyone" (pas) — universal
        offer. WEB: "whoever will call on the name of the Lord will
        be saved." KJV: "whosoever shall call upon the name of the
        Lord shall be saved." No ethnic restriction.
 
-v.17 — NET: "Consequently faith comes from what is heard, and
+v.17 — KJV: "faith cometh by hearing, and hearing by the word of God" / ESV: "So faith comes from hearing" — Some
+       manuscripts read "word of Christ" (ESV). Either way: faith is produced
+       by hearing the message about Christ from Scripture.
+       NET: "Consequently faith comes from what is heard, and
        what is heard comes through the preached word of Christ" —
        "what is heard" (akoEs = hearing/report/message). WEB:
        "faith comes by hearing, and hearing by the word of God."

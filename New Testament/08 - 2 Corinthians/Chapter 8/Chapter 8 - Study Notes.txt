@@ -81,9 +81,8 @@ Charles Spurgeon:
   crucified. Why? That you through His poverty might be rich. That is the
   model for all giving: sacrificial, voluntary, for others' benefit."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "the grace of God bestowed on the churches" / ESV: "the grace of God that has been given among the churches" — Giving is described
        as "grace" (charis) — not obligation but a gift from God that enables
        generosity.
@@ -91,17 +90,7 @@ v.1  — KJV: "the grace of God bestowed on the churches" / ESV: "the grace of G
 v.2  — KJV: "deep poverty abounded unto the riches of their liberality" / ESV: "poverty have overflowed in a wealth of generosity on their part" — A
        paradox: extreme poverty producing extreme generosity. Joy overflowed
        into giving despite having almost nothing.
-
-v.9  — KJV: "though he was rich" / ESV: Both equivalent. — Christ's pre-incarnate glory and wealth.
-       "Became poor" — the Incarnation, the cross. "That ye might be rich" —
-       spiritual riches in Christ.
-
-v.12 — KJV: "according to that a man hath" / ESV: "according to what a person has, not" — God evaluates giving by what
-       you have, not by what you don't have. Proportional, not equal amounts.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "their abundant joy and their extreme poverty have
+       NET: "their abundant joy and their extreme poverty have
        overflowed in the wealth of their generosity" — "extreme
        poverty" + "abundant joy" = "wealth of generosity" — the
        equation defies logic. WEB: "their deep poverty abounded to
@@ -112,14 +101,19 @@ v.5  — NET: "they first gave themselves to the Lord and to us by
        precedes money-giving. WEB: "first they gave their own
        selves to the Lord." The order matters: self, then substance.
 
-v.9  — NET: "For you know the grace of our Lord Jesus Christ,
+v.9  — KJV: "though he was rich" / ESV: Both equivalent. — Christ's pre-incarnate glory and wealth.
+       "Became poor" — the Incarnation, the cross. "That ye might be rich" —
+       spiritual riches in Christ.
+       NET: "For you know the grace of our Lord Jesus Christ,
        that although he was rich, for your sakes he became poor, so
        that you by his poverty could become rich" — the Incarnation
        as economic language. WEB: "though he was rich, yet for your
        sakes he became poor." Christ's poverty = our riches. The
        theological foundation of generosity.
 
-v.12 — NET: "For if the eagerness is present, the gift itself is
+v.12 — KJV: "according to that a man hath" / ESV: "according to what a person has, not" — God evaluates giving by what
+       you have, not by what you don't have. Proportional, not equal amounts.
+       NET: "For if the eagerness is present, the gift itself is
        acceptable according to whatever one has, not according to
        what he does not have" — proportional giving, not equal
        amounts. WEB: "it is accepted according to what you have."

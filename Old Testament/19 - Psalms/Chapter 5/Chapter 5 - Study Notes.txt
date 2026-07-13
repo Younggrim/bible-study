@@ -90,7 +90,7 @@ v.12  — Psalm 3:3 — "Thou, O LORD, art a shield for me." Repeated
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "consider my meditation" / ESV: "consider my groaning"
       — Hebrew "hagig" can mean meditation, musing, or groaning/
@@ -114,17 +114,6 @@ v.10 — KJV: "Destroy thou them, O God" / ESV: "Make them bear
        "ashmem" = declare/make guilty. ESV preserves the legal/
        judicial sense — let them bear the consequences of their own
        guilt. KJV intensifies to outright destruction.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "Give ear to my words, O Jehovah, Consider my meditation" — ASV uses "Jehovah" for YHWH and retains "meditation" (Hebrew "hagig"), siding with KJV against ESV's "groaning." The word can mean either musing or sighing — ASV preserves the ambiguity of KJV's reading.
-- v.3 — WEB: "Yahweh, in the morning you shall hear my voice. In the morning I will lay my requests before you, and will watch expectantly" — WEB uses "Yahweh" (the covenant name) and renders "arak" (arrange/order) as "lay my requests before you," capturing the deliberate, ordered nature of David's prayer. "Watch expectantly" nicely conveys the posture of anticipation.
-- v.3 — NET: "in the morning I will present my case to you and then wait expectantly for an answer" — NET renders morning prayer as legal language ("present my case"), emphasizing the courtroom metaphor. This is interpretive but captures the forensic context of a psalm dealing with enemies and vindication.
-- v.7 — ASV: "in the abundance of thy lovingkindness will I come into thy house" — ASV renders Hebrew "chesed" as "lovingkindness" (one word), its signature translation. KJV uses "mercy," ESV uses "steadfast love." Each captures a facet: mercy (undeserved favor), lovingkindness (loyal affection), steadfast love (covenant faithfulness).
-- v.7 — NET: "because of your great faithfulness I will enter your house" — NET renders "chesed" as "faithfulness," emphasizing God's reliability over His affection. This shifts the theological emphasis from grace/mercy (KJV) to God's covenant fidelity.
-- v.9 — NET: "their stomachs are like the place of destruction, their throats like an open grave, their tongues like a steep slope leading into it" — NET dramatically expands the metaphor. KJV's "their inward part is very wickedness" becomes an elaborate image of destruction. The "steep slope" for the tongue is NET's addition — vivid but not in the Hebrew.
-- v.10 — ASV: "Hold them guilty, O God" — ASV follows the judicial sense of Hebrew "ashmem" (declare guilty), matching ESV's "Make them bear their guilt." This is more accurate than KJV's "Destroy thou them," which intensifies beyond the Hebrew.
-- v.12 — WEB: "Yahweh, you will surround him with favor as with a shield" — WEB preserves the divine name "Yahweh" in this climactic promise. The personal covenant name attached to comprehensive protection emphasizes that this is not generic divine favor but specific, covenantal, name-based blessing.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

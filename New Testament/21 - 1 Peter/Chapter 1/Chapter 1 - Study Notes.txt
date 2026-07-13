@@ -104,12 +104,17 @@ Charles Spurgeon:
  blemish — perfect, spotless, without defect. This is the price of your
  freedom."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "strangers scattered" / ESV: "elect exiles of the Dispersion" —
  Greek "parepidēmois diasporas" — sojourners of the dispersion. Aliens,
  temporary residents. Their true home is heaven; earth is foreign
  territory.
+       NET: "those temporarily residing abroad... who are
+       chosen" — "temporarily residing abroad" (parepidEmois
+       diasopras = sojourners of the dispersion). WEB: "foreigners
+       of the Dispersion." KJV: "strangers scattered." Believers
+       as aliens — this world is not home.
 
 v.2 — KJV: "elect according to the foreknowledge of God" / ESV: "according
  to the foreknowledge of God" — Both equivalent. Election rooted in
@@ -134,31 +139,7 @@ v.7 — KJV: "trial of your faith" / ESV: "tested genuineness of your faith"
  — Gold is purified by fire — impurities burn away, pure gold remains.
  Faith is purified by trials — what's genuine remains and shines
  brighter.
-
-v.13 — KJV: "gird up the loins of your mind" / ESV: "preparing your minds
- for action" — Greek "anazōsamenoi tas osphuas tēs dianoias" — tucking
- up the robes of your mind. A metaphor for mental readiness and
- disciplined thinking.
-
-v.19 — KJV: "precious blood" / ESV: Both equivalent. — Greek "timiō
- haimati" — costly, valuable, honored blood. The most expensive
- substance in the universe — the blood of God's Son.
-
-v.23 — KJV: "born again" / ESV: Both equivalent. — Greek
- "anagegennēmenoi" — having been born again. Perfect tense = a
- completed action with ongoing results. KJV: "incorruptible seed" /
- ESV: "imperishable seed" — the Word of God as the imperishable seed
- of new birth.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "those temporarily residing abroad... who are
-       chosen" — "temporarily residing abroad" (parepidEmois
-       diasopras = sojourners of the dispersion). WEB: "foreigners
-       of the Dispersion." KJV: "strangers scattered." Believers
-       as aliens — this world is not home.
-
-v.7  — NET: "so that your faith, which is more precious than gold
+       NET: "so that your faith, which is more precious than gold
        — gold that is tested by fire — may be found to result in
        praise" — "tested by fire" (dia pyros de dokimazomenou).
        WEB: "more precious than gold which perishes, even though
@@ -172,13 +153,27 @@ v.12 — NET: "things angels long to catch a glimpse of" — "long
        into." Angels crane forward to see — the gospel amazes even
        heavenly beings.
 
+v.13 — KJV: "gird up the loins of your mind" / ESV: "preparing your minds
+ for action" — Greek "anazōsamenoi tas osphuas tēs dianoias" — tucking
+ up the robes of your mind. A metaphor for mental readiness and
+ disciplined thinking.
+
 v.18 — NET: "you were redeemed... not by perishable things like
        silver or gold" — "redeemed" (elytrOthEte = ransomed/freed
        by payment). WEB: "knowing that you were redeemed." KJV:
        "ye were not redeemed with corruptible things." The cost of
        freedom: not money but blood (v.19).
 
-v.23 — NET: "you have been born anew, not from perishable but
+v.19 — KJV: "precious blood" / ESV: Both equivalent. — Greek "timiō
+ haimati" — costly, valuable, honored blood. The most expensive
+ substance in the universe — the blood of God's Son.
+
+v.23 — KJV: "born again" / ESV: Both equivalent. — Greek
+ "anagegennēmenoi" — having been born again. Perfect tense = a
+ completed action with ongoing results. KJV: "incorruptible seed" /
+ ESV: "imperishable seed" — the Word of God as the imperishable seed
+ of new birth.
+       NET: "you have been born anew, not from perishable but
        from imperishable seed, through the living and enduring word
        of God" — "imperishable seed" (sporas aphthartou). WEB:
        "having been born again... of incorruptible seed." KJV:

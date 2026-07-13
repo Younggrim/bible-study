@@ -102,31 +102,7 @@ Charles Spurgeon:
   God was crushed under the weight of what He was about to bear. And He
   chose it. Not my will, but thine."
 
-TRANSLATION NOTES
-------------------------------------
-v.20 — KJV: "the new testament in my blood" — ESV: "the new covenant in my
-       blood" — Greek "diathēkē" — covenant, not testament. The new covenant
-       (Jeremiah 31) is established by Christ's blood — replacing the old
-       Mosaic covenant.
-
-v.31 — KJV: "Satan hath desired to have you" / ESV: "Satan demanded to have
-       you" — Both equivalent. Greek "exētēsato" — to demand, to ask for
-       with authority. Satan demanded permission to test Peter — similar to
-       Job 1. The "you" is plural (all the disciples); the "thee" in v.32 is
-       singular (Peter specifically).
-
-v.43-44 — KJV includes the angel and the bloody sweat / ESV includes them
-       with a footnote noting they are absent from some manuscripts. Most
-       scholars consider them authentic — they fit Luke's medical interest
-       and are consistent with the narrative.
-
-v.44 — KJV: "his sweat was as it were great drops of blood" / ESV: "his
-       sweat became like great drops of blood falling down to the ground" —
-       Both equivalent. A condition called hematidrosis — capillaries in the
-       sweat glands rupture under extreme stress, mixing blood with sweat.
-       Medically documented, though extremely rare.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.15 — NET: "I have earnestly desired to eat this Passover
        with you before I suffer" — "earnestly desired" (epithymia
@@ -134,13 +110,22 @@ v.15 — NET: "I have earnestly desired to eat this Passover
        WEB: "I have earnestly desired." KJV: "With desire I have
        desired." The double construction shows deep longing.
 
-v.20 — NET: "This cup that is poured out for you is the new
+v.20 — KJV: "the new testament in my blood" — ESV: "the new covenant in my
+       blood" — Greek "diathēkē" — covenant, not testament. The new covenant
+       (Jeremiah 31) is established by Christ's blood — replacing the old
+       Mosaic covenant.
+       NET: "This cup that is poured out for you is the new
        covenant in my blood" — "new covenant" (hē kainē diathēkē)
        — echoing Jeremiah 31:31. WEB: "This cup is the new
        covenant in my blood." The cup represents ratification of
        the promised new covenant through His death.
 
-v.31 — NET: "Simon, Simon, pay attention! Satan has demanded to
+v.31 — KJV: "Satan hath desired to have you" / ESV: "Satan demanded to have
+       you" — Both equivalent. Greek "exētēsato" — to demand, to ask for
+       with authority. Satan demanded permission to test Peter — similar to
+       Job 1. The "you" is plural (all the disciples); the "thee" in v.32 is
+       singular (Peter specifically).
+       NET: "Simon, Simon, pay attention! Satan has demanded to
        have you all, to sift you like wheat" — "you all" (hymas =
        plural). WEB: "Simon, Simon, behold, Satan asked to have
        all of you." KJV: "Satan hath desired to have you." Satan
@@ -154,7 +139,17 @@ v.42 — NET: "Father, if you are willing, take this cup away from
        elements. Jesus models prayer that is both authentic and
        surrendered.
 
-v.44 — NET: "his sweat was like drops of blood falling to the
+v.43-44 — KJV includes the angel and the bloody sweat / ESV includes them
+       with a footnote noting they are absent from some manuscripts. Most
+       scholars consider them authentic — they fit Luke's medical interest
+       and are consistent with the narrative.
+
+v.44 — KJV: "his sweat was as it were great drops of blood" / ESV: "his
+       sweat became like great drops of blood falling down to the ground" —
+       Both equivalent. A condition called hematidrosis — capillaries in the
+       sweat glands rupture under extreme stress, mixing blood with sweat.
+       Medically documented, though extremely rare.
+       NET: "his sweat was like drops of blood falling to the
        ground" — "like drops of blood" (hōsei thromboi haimatos).
        WEB: "like great drops of blood." Some manuscripts omit
        vv.43-44 entirely. NET/ESV include them. The condition

@@ -77,14 +77,25 @@ Charles Spurgeon:
  even worship, even good gifts of God. Purity is not about avoiding things
  but about the condition of the heart."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "servant of God" / ESV: Both equivalent. — Greek "doulos theou" — slave of God. Paul
  uses "servant of God" only here (usually "servant of Christ").
 
+v.2  — NET: "in hope of eternal life, which God, who does not
+       lie, promised before time began" — "who does not lie" (ho
+       apseudEs theos = the non-lying God). WEB: "God, who can't
+       lie." KJV: "God, that cannot lie." God's truthfulness as
+       the foundation of hope — the promise precedes creation.
+
 v.5 — KJV: "set in order" / ESV: "order" — Greek "epidiorthōsē" — to set right, correct,
  straighten out. Things were disorganized and needed fixing. "Ordain
  elders" — Greek "katastēsēs presbuterous" — appoint/establish elders.
+       NET: "to set in order the remaining matters and to appoint
+       elders in every town" — "set in order" (epidiorthOsE =
+       straighten out/correct what remains). WEB: "set in order
+       the things that were lacking." KJV: "set in order the things
+       that are wanting." Titus is a church organizer/troubleshooter.
 
 v.6 — KJV: "blameless" / ESV: "above reproach" — Greek "anegklētos" — unaccused, without charge.
  No legitimate accusation can be brought. Same word as 1 Tim 3:10.
@@ -93,42 +104,26 @@ v.7 — KJV: "bishop" / ESV: "overseer" — Greek "episkopos" — overseer. Same
  (v.5). Paul uses both terms for the same role, confirming they are
  synonymous.
 
-v.12 — KJV: "a prophet of their own" / ESV: Both equivalent. — Epimenides of Crete (6th century BC).
- Paul quotes a pagan poet to make his point. KJV: "slow bellies" / ESV: "lazy gluttons" — Greek
- "gasteres argai" — lazy gluttons.
-
-v.15 — KJV: "unto the pure all things are pure" / ESV: "pure, all things" — Not a license for sin but
- a statement about the heart's condition. For the pure-hearted, God's
- creation is received with thanksgiving. For the defiled, nothing is
- pure because their mind and conscience corrupt everything.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "in hope of eternal life, which God, who does not
-       lie, promised before time began" — "who does not lie" (ho
-       apseudEs theos = the non-lying God). WEB: "God, who can't
-       lie." KJV: "God, that cannot lie." God's truthfulness as
-       the foundation of hope — the promise precedes creation.
-
-v.5  — NET: "to set in order the remaining matters and to appoint
-       elders in every town" — "set in order" (epidiorthOsE =
-       straighten out/correct what remains). WEB: "set in order
-       the things that were lacking." KJV: "set in order the things
-       that are wanting." Titus is a church organizer/troubleshooter.
-
 v.9  — NET: "holding to the faithful message as taught" — "faithful
        message" (tou pistos logou = the trustworthy word). WEB:
        "holding to the faithful word." KJV: "holding fast the
        faithful word." Elders must both believe AND teach sound
        doctrine — offensive and defensive roles.
 
-v.12 — NET: "'Cretans are always liars, evil beasts, lazy
+v.12 — KJV: "a prophet of their own" / ESV: Both equivalent. — Epimenides of Crete (6th century BC).
+ Paul quotes a pagan poet to make his point. KJV: "slow bellies" / ESV: "lazy gluttons" — Greek
+ "gasteres argai" — lazy gluttons.
+       NET: "'Cretans are always liars, evil beasts, lazy
        gluttons'" — Paul quotes Epimenides (a Cretan poet/prophet).
        WEB: "Cretans are always liars, evil beasts, and idle
        gluttons." Using a pagan source to confirm cultural
        observation — and Paul says "this testimony is true" (v.13).
 
-v.15 — NET: "All is pure to those who are pure. But to those who
+v.15 — KJV: "unto the pure all things are pure" / ESV: "pure, all things" — Not a license for sin but
+ a statement about the heart's condition. For the pure-hearted, God's
+ creation is received with thanksgiving. For the defiled, nothing is
+ pure because their mind and conscience corrupt everything.
+       NET: "All is pure to those who are pure. But to those who
        are corrupt and unbelieving, nothing is pure" — "nothing is
        pure" (ouden katharon). WEB: "to those who are defiled and
        unbelieving, nothing is pure." Internal corruption

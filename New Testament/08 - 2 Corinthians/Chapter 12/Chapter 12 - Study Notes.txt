@@ -89,31 +89,12 @@ Charles Spurgeon:
   receives God's strength. The man who insists on his own strength never
   experiences God's."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.2  — KJV: "the third heaven" / ESV: Both equivalent. — Jewish cosmology: (1) atmosphere, (2) space/
        stars, (3) God's dwelling place. Paul was taken to God's immediate
        presence — paradise.
-
-v.7  — KJV: "a thorn in the flesh" / ESV: "a thorn was given me in the flesh" — Greek "skolops" — a stake or thorn.
-       Something painful, persistent, and humbling. Its specific identity is
-       deliberately left unstated — so every suffering believer can relate.
-
-v.7  — KJV: "the messenger of Satan" / ESV: "the flesh, a messenger of Satan" — The thorn was satanic in origin but
-       divine in purpose. God used Satan's attack to keep Paul humble.
-
-v.9  — KJV: "My grace is sufficient" / ESV: Both equivalent. — Greek "arkei" — enough, adequate,
-       satisfying. Not "My grace will eventually be sufficient" but "IS
-       sufficient" — present, active, available now.
-
-v.9  — KJV: "made perfect in weakness" / ESV: Both equivalent. — Greek "teleitai" — completed,
-       brought to full expression. God's power reaches its fullest display
-       in human weakness.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "I know a man in Christ who fourteen years ago...
+       NET: "I know a man in Christ who fourteen years ago...
        was caught up to the third heaven" — "the third heaven" =
        God's presence (first = atmosphere, second = space, third =
        God's dwelling). WEB: "caught up into the third heaven."
@@ -125,13 +106,37 @@ v.4  — NET: "was caught up into paradise and heard things too
        KJV: "unspeakable words, which it is not lawful for a man
        to utter." Some revelations are meant only for the recipient.
 
-v.7  — NET: "a thorn in the flesh was given to me, a messenger
+v.7  — KJV: "a thorn in the flesh" / ESV: "a thorn was given me in the flesh" — Greek "skolops" — a stake or thorn.
+       Something painful, persistent, and humbling. Its specific identity is
+       deliberately left unstated — so every suffering believer can relate.
+       NET: "a thorn in the flesh was given to me, a messenger
        of Satan to trouble me" — "thorn" (skolops = stake/splinter).
        WEB: "a thorn in the flesh." KJV: "a thorn in the flesh."
        Its exact nature is unknown — theories include: eye disease,
        malaria, epilepsy, opposition, or a speech impediment.
 
-v.9  — NET: "My grace is sufficient for you, for my power is
+v.7  — KJV: "the messenger of Satan" / ESV: "the flesh, a messenger of Satan" — The thorn was satanic in origin but
+       divine in purpose. God used Satan's attack to keep Paul humble.
+       NET: "a thorn in the flesh was given to me, a messenger
+       of Satan to trouble me" — "thorn" (skolops = stake/splinter).
+       WEB: "a thorn in the flesh." KJV: "a thorn in the flesh."
+       Its exact nature is unknown — theories include: eye disease,
+       malaria, epilepsy, opposition, or a speech impediment.
+
+v.9  — KJV: "My grace is sufficient" / ESV: Both equivalent. — Greek "arkei" — enough, adequate,
+       satisfying. Not "My grace will eventually be sufficient" but "IS
+       sufficient" — present, active, available now.
+       NET: "My grace is sufficient for you, for my power is
+       made perfect in weakness" — "made perfect" (teleitai =
+       completed/reaches its goal). WEB: "My grace is sufficient
+       for you, for my power is made perfect in weakness." KJV:
+       "My grace is sufficient for thee: for my strength is made
+       perfect in weakness." God's answer to Paul's three requests.
+
+v.9  — KJV: "made perfect in weakness" / ESV: Both equivalent. — Greek "teleitai" — completed,
+       brought to full expression. God's power reaches its fullest display
+       in human weakness.
+       NET: "My grace is sufficient for you, for my power is
        made perfect in weakness" — "made perfect" (teleitai =
        completed/reaches its goal). WEB: "My grace is sufficient
        for you, for my power is made perfect in weakness." KJV:

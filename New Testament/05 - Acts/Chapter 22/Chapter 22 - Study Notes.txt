@@ -88,12 +88,24 @@ Charles Spurgeon:
   I DO, Lord?' Conversion produces obedience. If you've met Christ, the
   next question is always: what do You want me to do?"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "the Hebrew tongue" / ESV: "the Hebrew language" — Both
        equivalent. Likely Aramaic, the common spoken language of Palestinian
        Jews. The crowd grew quieter because Paul spoke their language — a
        sign of respect and identification.
+
+v.3  — NET: "I am a Jew, born in Tarsus in Cilicia, but
+       brought up in this city, educated with strictness under
+       Gamaliel" — "strictness" (akribeian = exactness/precision).
+       WEB: "educated at the feet of Gamaliel according to the
+       strict tradition." Paul's Jewish credentials are impeccable.
+
+v.6  — NET: "about noon a very bright light from heaven suddenly
+       flashed around me" — "very bright" (hikanon) — brighter
+       than the midday sun. WEB: "a great light shone around me."
+       Paul adds details not in chapter 9 — the brightness, the
+       time (noon).
 
 v.9  — KJV: "they heard not the voice" / ESV: "did not understand the voice"
        — ESV's "did not understand" resolves the apparent contradiction with
@@ -110,22 +122,7 @@ v.16 — KJV: "wash away thy sins" / ESV: "wash away your sins" — Both
        identical. Baptism symbolizes the washing away of sins — it doesn't
        cause forgiveness but publicly declares it. "Calling on the name of
        the Lord" is the means of salvation (Romans 10:13).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "I am a Jew, born in Tarsus in Cilicia, but
-       brought up in this city, educated with strictness under
-       Gamaliel" — "strictness" (akribeian = exactness/precision).
-       WEB: "educated at the feet of Gamaliel according to the
-       strict tradition." Paul's Jewish credentials are impeccable.
-
-v.6  — NET: "about noon a very bright light from heaven suddenly
-       flashed around me" — "very bright" (hikanon) — brighter
-       than the midday sun. WEB: "a great light shone around me."
-       Paul adds details not in chapter 9 — the brightness, the
-       time (noon).
-
-v.16 — NET: "Get up, be baptized, and have your sins washed away,
+       NET: "Get up, be baptized, and have your sins washed away,
        calling on his name" — "have your sins washed away"
        (apolousai tas hamartias sou). WEB: "wash away your sins."
        KJV: "wash away thy sins." The aorist middle voice suggests

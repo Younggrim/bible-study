@@ -92,7 +92,7 @@ v.18-19 — Habakkuk 2:14 — "The earth shall be filled with the
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "Give the king thy judgments" / ESV: "Give the king
       your justice" — Hebrew "mishpat" = justice, judgment,
@@ -110,22 +110,6 @@ v.20 — KJV: "The prayers of David the son of Jesse are ended" /
        ESV: Same — This editorial note marks the end of Book II
        of the Psalter. It doesn't mean David wrote no other psalms
        after this but that a Davidic collection concludes here.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "O God, grant the king the ability to make just decisions" vs. KJV: "Give the king thy judgments, O God" — NET heavily paraphrases, adding "ability to make just decisions" for the simple "thy judgments" (mishpatim). WEB: "God, give the king your justice" — closer to the Hebrew.
-
-- v.7 — NET: "During his days the godly will flourish" vs. KJV: "In his days shall the righteous flourish" — NET changes "righteous" (tsaddiq) to "godly," softening the moral precision. ASV/WEB preserve "righteous." NET also uses "peace will prevail" for KJV's "abundance of peace."
-
-- v.14 — NET: "From harm and violence he will defend them; he will value their lives" vs. KJV: "He shall redeem their soul from deceit and violence: and precious shall their blood be in his sight" — NET drops "redeem" (ga'al — a kinsman-redeemer term) and substitutes "defend." Also loses "precious shall their blood be" for the weaker "value their lives."
-
-- v.17 — NET: "May they use his name when they formulate their blessings. May all nations consider him to be favored by God" vs. KJV: "men shall be blessed in him: all nations shall call him blessed" — NET weakens this Messianic verse dramatically. KJV echoes the Abrahamic promise (Genesis 12:3); NET reduces it to mere reputation.
-
-- v.18 — ASV: "Blessed be Jehovah God, the God of Israel" / WEB: "Praise be to Yahweh God, the God of Israel" vs. KJV: "Blessed be the LORD God, the God of Israel" — The covenant name is explicit in ASV/WEB at this crucial doxology closing Book II of the Psalter.
-
-- v.19 — NET: "May his majestic splendor fill the whole earth. We agree! We agree!" vs. KJV: "let the whole earth be filled with his glory; Amen, and Amen" — NET renders the Hebrew "Amen" as "We agree!" losing the liturgical solemnity. WEB/ASV preserve "Amen and Amen."
-
-- v.3 — WEB: "The mountains shall bring prosperity to the people" vs. KJV: "The mountains shall bring peace to the people" — WEB interprets "shalom" as "prosperity" rather than "peace." NET: "news of peace." The Hebrew "shalom" encompasses peace, wholeness, prosperity, and well-being.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

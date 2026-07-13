@@ -96,7 +96,7 @@ v.6   — Matthew 7:23 — "I never knew you: depart from me." The
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "ungodly... sinners... scornful" / ESV: "wicked...
       sinners... scoffers" — The three terms represent increasing
@@ -121,42 +121,6 @@ v.4 — KJV: "The ungodly are not so" / ESV: "The wicked are not
       after three verses describing the righteous in detail, the
       wicked get one dismissive phrase: "not so." They are defined
       only by what they are NOT.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "How blessed is the one who does not follow the advice of the
-  wicked, or stand in the pathway with sinners, or sit in the assembly of
-  scoffers" — NET opens with "How blessed" (exclamatory) rather than simple
-  "Blessed is" (KJV/ESV/ASV/WEB), capturing the Hebrew "ashrei" as an
-  exclamation of admiration. NET also renders "counsel" as "advice" and
-  "seat" as "assembly" — shifting from physical postures to social influence.
-- v.1 — ASV: "the seat of scoffers" — matches ESV over KJV's "scornful."
-  Hebrew "letsim" = mockers/scoffers who treat sacred things with contempt.
-- v.2 — NET: "he finds pleasure in obeying the Lord's commands; he meditates
-  on his commands day and night" — NET uniquely renders "torah" as "commands"
-  (twice), emphasizing obedience over instruction. Also adds "finds pleasure
-  in obeying" where KJV/ESV simply say "his delight is in the law" — more
-  interpretive but captures the active, volitional nature of the delight.
-- v.2 — WEB: "his delight is in Yahweh's law" — WEB uses God's personal name
-  "Yahweh" where KJV/ESV use "the LORD." ASV uses "Jehovah." This makes the
-  covenant relationship explicit — it is a personal God whose instruction
-  delights the righteous, not an abstract legal code.
-- v.3 — NET: "planted by flowing streams" — renders "palgey mayim" as
-  "flowing streams" where KJV has "rivers of water" and ESV has "streams of
-  water." NET's "flowing" emphasizes the continuous supply. NET also renders
-  the final clause as "He succeeds in everything he attempts" — more dynamic
-  than "whatsoever he doeth shall prosper" (KJV/WEB/ASV).
-- v.5 — NET: "the wicked cannot withstand judgment, nor can sinners join the
-  assembly of the godly" — "cannot withstand" is more forceful than "shall
-  not stand in" (KJV/ESV/ASV/WEB). NET also uses "the godly" rather than
-  "the righteous" — emphasizing relationship with God over moral status.
-- v.6 — NET: "Certainly the Lord guards the way of the godly, but the way of
-  the wicked ends in destruction" — renders "knoweth" (KJV) as "guards,"
-  making the protective meaning of Hebrew "yada" explicit. Also "ends in
-  destruction" rather than "shall perish" — emphasizing the destination.
-- v.6 — WEB/ASV: "Yahweh/Jehovah knoweth the way of the righteous" — the
-  divine name is made explicit, personalizing God's covenantal knowledge of
-  His people.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

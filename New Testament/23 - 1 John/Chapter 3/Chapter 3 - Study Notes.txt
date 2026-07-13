@@ -102,16 +102,27 @@ Charles Spurgeon:
  subjects — sons. This is not earned. This is not deserved. This is love
  beyond comprehension — that the holy God would call sinners His children."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "what manner of love" / ESV: "what kind of love" — Greek
  "potapēn agapēn" — what kind of, what foreign/exotic love. A love so
  unusual it seems from another world. KJV: "sons of God" / ESV:
  "children of God" — Greek "tekna theou" — children (born of God).
+       NET: "See what sort of love the Father has given to us:
+       that we should be called God's children" — "what sort"
+       (potapEn = what country/what kind — amazement at its foreign
+       quality). WEB: "See how great a love the Father has given to
+       us." KJV: "Behold, what manner of love." This love is
+       otherworldly — it doesn't originate on earth.
 
 v.2 — KJV: "we shall be like him" / ESV: Both equivalent. — Greek "homoioi
  autō esometha" — we will be similar to Him. Not identical (we don't
  become God) but transformed into His likeness.
+       NET: "when he is revealed we will be like him, because we
+       will see him just as he is" — "like him" (homoioi autO).
+       WEB: "we will be like him; for we will see him just as he
+       is." Seeing produces becoming — the beatific vision
+       transforms the viewer.
 
 v.6 — KJV: "whosoever abideth in him sinneth not" / ESV: "no one who abides
  in him keeps on sinning" — Greek "ouch hamartanei" — does not keep on
@@ -124,37 +135,7 @@ v.9 — KJV: "doth not commit sin" / ESV: "does not make a practice of
  tense). "His seed" — God's nature/life implanted in the believer.
  "Cannot sin" — cannot make sin a lifestyle because God's nature within
  resists it.
-
-v.16 — KJV: "hereby perceive we the love of God" / ESV: "by this we know
- love" — Greek "egnōkamen tēn agapēn" — we have come to know love.
- Love is defined by Christ's sacrifice — not by feelings but by self-
- giving action.
-
-v.17 — KJV: "shutteth up his bowels of compassion" / ESV: "closes his heart
- against him" — Greek "kleisē ta splagchna" — closes his inner
- feelings/compassion. "Bowels" in KJV = the seat of emotions in ancient
- thought.
-
-v.20 — KJV: "God is greater than our heart" / ESV: Both equivalent. — When
- your conscience condemns you, God's grace is bigger than your guilt. He
- knows everything (more than your heart knows) and still loves you.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "See what sort of love the Father has given to us:
-       that we should be called God's children" — "what sort"
-       (potapEn = what country/what kind — amazement at its foreign
-       quality). WEB: "See how great a love the Father has given to
-       us." KJV: "Behold, what manner of love." This love is
-       otherworldly — it doesn't originate on earth.
-
-v.2  — NET: "when he is revealed we will be like him, because we
-       will see him just as he is" — "like him" (homoioi autO).
-       WEB: "we will be like him; for we will see him just as he
-       is." Seeing produces becoming — the beatific vision
-       transforms the viewer.
-
-v.9  — NET: "Everyone who has been fathered by God does not
+       NET: "Everyone who has been fathered by God does not
        practice sin" — "practice sin" (hamartian ou poiei = does
        not keep on sinning). WEB: "Whoever is born of God doesn't
        commit sin." KJV: "doth not commit sin." The present tense
@@ -168,11 +149,24 @@ v.14 — NET: "We know that we have crossed over from death to life
        that we have passed from death unto life." Perfect tense —
        a completed transfer with present results.
 
-v.16 — NET: "We have come to know love by this: that Jesus laid
+v.16 — KJV: "hereby perceive we the love of God" / ESV: "by this we know
+ love" — Greek "egnōkamen tēn agapēn" — we have come to know love.
+ Love is defined by Christ's sacrifice — not by feelings but by self-
+ giving action.
+       NET: "We have come to know love by this: that Jesus laid
        down his life for us" — "laid down" (ethEken = placed/set
        down deliberately). WEB: "he laid down his life for us."
        Love defined by action, not emotion — self-sacrificial
        giving is the measure.
+
+v.17 — KJV: "shutteth up his bowels of compassion" / ESV: "closes his heart
+ against him" — Greek "kleisē ta splagchna" — closes his inner
+ feelings/compassion. "Bowels" in KJV = the seat of emotions in ancient
+ thought.
+
+v.20 — KJV: "God is greater than our heart" / ESV: Both equivalent. — When
+ your conscience condemns you, God's grace is bigger than your guilt. He
+ knows everything (more than your heart knows) and still loves you.
 
 GLOSSARY
 ------------------------------------

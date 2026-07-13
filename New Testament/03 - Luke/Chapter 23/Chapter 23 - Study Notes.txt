@@ -92,56 +92,50 @@ Charles Spurgeon:
   for them. While they mocked, He forgave. That is the heart of God — even
   at the cross, even toward His murderers."
 
-TRANSLATION NOTES
-------------------------------------
-v.34 — KJV: "Father, forgive them; for they know not what they do" / ESV:
-       "Father, forgive them, for they know not what they do" — Both
-       equivalent. This verse is absent from some manuscripts (ESV footnote).
-       Most scholars consider it authentic — it is consistent with Jesus'
-       character and with Luke's emphasis on forgiveness throughout his Gospel.
-
-v.43 — KJV: "To day shalt thou be with me in paradise" / ESV: "today you
-       will be with me in paradise" — Both equivalent. Greek "paradeisos" —
-       a Persian word for a walled garden/park. Used for the place of the
-       righteous dead (Abraham's bosom) and for heaven itself. The thief
-       would be with Christ that very day.
-
-v.45 — KJV: "the sun was darkened" / ESV: "the sun's light failed" — Some
-       manuscripts differ. Either way, supernatural darkness covered the land
-       from noon to 3 PM — creation itself responding to the Creator's death.
-
-v.46 — KJV: "Father, into thy hands I commend my spirit" / ESV: "Father,
-       into your hands I commit my spirit!" — Both equivalent. Quoting
-       Psalm 31:5. Jesus' final words in Luke are a prayer of trust — He
-       actively gave up His spirit; it was not taken from Him.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.4  — NET: "I find no basis for an accusation against this
        man" — Pilate's first declaration of Jesus' innocence (he
        will repeat it three times). WEB: "I find no basis for a
        charge against this man." KJV: "I find no fault in this man."
 
-v.34 — NET: "Father, forgive them, for they don't know what they
+v.34 — KJV: "Father, forgive them; for they know not what they do" / ESV:
+       "Father, forgive them, for they know not what they do" — Both
+       equivalent. This verse is absent from some manuscripts (ESV footnote).
+       Most scholars consider it authentic — it is consistent with Jesus'
+       character and with Luke's emphasis on forgiveness throughout his Gospel.
+       NET: "Father, forgive them, for they don't know what they
        are doing" — some manuscripts omit this verse, but it is
        included in NET/ESV/WEB/KJV. WEB: "Father, forgive them,
        for they don't know what they are doing." The first words
        from the cross — intercession for His executioners.
 
-v.43 — NET: "I tell you the truth, today you will be with me in
+v.43 — KJV: "To day shalt thou be with me in paradise" / ESV: "today you
+       will be with me in paradise" — Both equivalent. Greek "paradeisos" —
+       a Persian word for a walled garden/park. Used for the place of the
+       righteous dead (Abraham's bosom) and for heaven itself. The thief
+       would be with Christ that very day.
+       NET: "I tell you the truth, today you will be with me in
        paradise" — "paradise" (paradeisō) — originally a Persian
        word for a walled garden/royal park. WEB: "Today you will
        be with me in Paradise." KJV: "To day shalt thou be with
        me in paradise." Immediate presence with Christ at death.
 
-v.45 — NET: "the sun's light failed" — "failed" (tou hēliou
+v.45 — KJV: "the sun was darkened" / ESV: "the sun's light failed" — Some
+       manuscripts differ. Either way, supernatural darkness covered the land
+       from noon to 3 PM — creation itself responding to the Creator's death.
+       NET: "the sun's light failed" — "failed" (tou hēliou
        eklipontos). Some manuscripts: "the sun was darkened" (ho
        hēlios eskotisthē). WEB: "the sun was darkened." KJV: "the
        sun was darkened." NET's "failed" suggests an eclipse-like
        event, though a solar eclipse is impossible during Passover
        (full moon). This was supernatural.
 
-v.46 — NET: "Father, into your hands I commit my spirit!" — the
+v.46 — KJV: "Father, into thy hands I commend my spirit" / ESV: "Father,
+       into your hands I commit my spirit!" — Both equivalent. Quoting
+       Psalm 31:5. Jesus' final words in Luke are a prayer of trust — He
+       actively gave up His spirit; it was not taken from Him.
+       NET: "Father, into your hands I commit my spirit!" — the
        final word from the cross in Luke (quoting Psalm 31:5). WEB:
        "Father, into your hands I commit my spirit!" KJV: "into
        thy hands I commend my spirit." Jesus dies with a prayer —

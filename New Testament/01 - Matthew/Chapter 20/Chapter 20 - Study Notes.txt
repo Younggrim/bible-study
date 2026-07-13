@@ -89,8 +89,14 @@ Charles Spurgeon:
   martyr merely — a ransom. A price paid to set captives free. His life
   in exchange for ours. That is the Gospel in one sentence."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.1  — NET: "the kingdom of heaven is like a landowner who
+       went out early in the morning to hire workers" — "landowner"
+       (oikodespotE = master of the house). WEB: "a man who was a
+       householder." KJV: "a man that is an householder." The parable
+       teaches God's sovereign generosity, not labor economics.
+
 v.2  — KJV: "a penny a day" — ESV/NET: "a denarius a day" — A denarius was
        the standard daily wage for a laborer. Not a small amount — it was a
        fair, agreed-upon wage. The issue is not that the first workers were
@@ -100,32 +106,17 @@ v.15 — KJV: "Is thine eye evil, because I am good?" — ESV: "Do you begrudge
        my generosity?" — The "evil eye" is a Hebrew idiom for envy or
        stinginess. The workers' problem was not injustice but jealousy of
        God's generosity to others.
-
-v.22 — KJV: "the cup that I shall drink of" / ESV: "the cup that I am to
-       drink" — "Cup" is an Old Testament metaphor for God's wrath and
-       judgment (Psalm 75:8, Isaiah 51:17). Jesus would drink the cup of
-       divine wrath on behalf of sinners.
-
-v.28 — KJV: "a ransom for many" / ESV: "a ransom for many" — Both identical.
-       Greek "lutron anti pollōn" — "lutron" = the price paid to free a slave
-       or prisoner. "Anti" = in the place of, as a substitute. "Pollōn" =
-       many. This is substitutionary atonement in three words.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "the kingdom of heaven is like a landowner who
-       went out early in the morning to hire workers" — "landowner"
-       (oikodespotE = master of the house). WEB: "a man who was a
-       householder." KJV: "a man that is an householder." The parable
-       teaches God's sovereign generosity, not labor economics.
-
-v.15 — NET: "Are you envious because I am generous?" — literally
+       NET: "Are you envious because I am generous?" — literally
        "Is your eye evil because I am good?" (ho ophthalmos sou
        ponEros estin). WEB: "Is your eye evil, because I am good?"
        KJV: "Is thine eye evil, because I am good?" "Evil eye" =
        jealousy/stinginess in Jewish idiom.
 
-v.22 — NET: "You don't know what you are asking! Are you able to
+v.22 — KJV: "the cup that I shall drink of" / ESV: "the cup that I am to
+       drink" — "Cup" is an Old Testament metaphor for God's wrath and
+       judgment (Psalm 75:8, Isaiah 51:17). Jesus would drink the cup of
+       divine wrath on behalf of sinners.
+       NET: "You don't know what you are asking! Are you able to
        drink the cup I am about to drink?" — "the cup" (to potErion)
        = suffering and death. WEB: "Are you able to drink the cup
        that I am about to drink?" KJV: "Are ye able to drink of
@@ -137,7 +128,11 @@ v.26 — NET: "whoever wants to be great among you must be your
        shall be your servant." Kingdom greatness is measured by
        service, not authority.
 
-v.28 — NET: "the Son of Man did not come to be served but to
+v.28 — KJV: "a ransom for many" / ESV: "a ransom for many" — Both identical.
+       Greek "lutron anti pollōn" — "lutron" = the price paid to free a slave
+       or prisoner. "Anti" = in the place of, as a substitute. "Pollōn" =
+       many. This is substitutionary atonement in three words.
+       NET: "the Son of Man did not come to be served but to
        serve, and to give his life as a ransom for many" — "ransom"
        (lytron = redemption price). WEB: "to give his life as a
        ransom for many." KJV: "to give his life a ransom for many."

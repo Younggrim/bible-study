@@ -95,37 +95,13 @@ Charles Spurgeon:
   flock. And this flock was purchased with God's own blood — treat it
   accordingly."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.7  — KJV: "the first day of the week" / ESV: "the first day of the week"
        — Both identical. Sunday. The early church gathered on Sunday (the day
        of resurrection) rather than Saturday (the Jewish Sabbath). This is one
        of the earliest references to Sunday worship.
-
-v.24 — KJV: "finish my course" / ESV: "finish my course" — Both identical.
-       Greek "dromos" — a race course. Paul sees his life as a race to be
-       completed — not just survived but finished with joy.
-
-v.28 — KJV: "the church of God, which he hath purchased with his own blood" /
-       ESV: "the church of God, which he obtained with his own blood" — Both
-       equivalent. KJV's "purchased" and ESV's "obtained" both translate Greek
-       "periepoiēsato." "His own blood" refers to God's blood — a strong
-       affirmation of Christ's deity. God purchased the church with His own
-       blood through the incarnation and crucifixion.
-
-v.28 — KJV: "overseers" / ESV: "overseers" — Both identical. Greek
-       "episkopous" — bishops/overseers. The same men are called "elders"
-       (presbuteroi) in v.17. Elder and overseer are the same office —
-       different words for the same role.
-
-v.35 — KJV: "It is more blessed to give than to receive" / ESV: "It is more
-       blessed to give than to receive" — Both identical. An unrecorded saying
-       of Jesus (an "agraphon") — not found in the four Gospels but preserved
-       by Paul through oral tradition.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.7  — NET: "On the first day of the week, when we gathered
+       NET: "On the first day of the week, when we gathered
        together to break bread, Paul began to speak" — "first day
        of the week" — early Christian worship on Sunday (resurrection
        day). WEB: "On the first day of the week." Evidence of
@@ -137,20 +113,43 @@ v.9  — NET: "a young man named Eutychus...sank into a deep sleep
        a deep sleep." The young man fell three stories — Luke notes
        "was picked up dead" (not "appeared dead").
 
-v.24 — NET: "But I do not consider my life worth anything to
+v.24 — KJV: "finish my course" / ESV: "finish my course" — Both identical.
+       Greek "dromos" — a race course. Paul sees his life as a race to be
+       completed — not just survived but finished with joy.
+       NET: "But I do not consider my life worth anything to
        myself, so that I may finish my task and the ministry that
        I received from the Lord Jesus" — "do not consider my life
        worth anything" (oudenos logou poioumai tEn psychEn). WEB:
        "I don't count my own life dear to myself." KJV: "neither
        count I my life dear unto myself."
 
-v.28 — NET: "Watch out for yourselves and for all the flock of
+v.28 — KJV: "the church of God, which he hath purchased with his own blood" /
+       ESV: "the church of God, which he obtained with his own blood" — Both
+       equivalent. KJV's "purchased" and ESV's "obtained" both translate Greek
+       "periepoiēsato." "His own blood" refers to God's blood — a strong
+       affirmation of Christ's deity. God purchased the church with His own
+       blood through the incarnation and crucifixion.
+       NET: "Watch out for yourselves and for all the flock of
        which the Holy Spirit has made you overseers" — "overseers"
        (episkopous = bishops/overseers). WEB: "which the Holy
        Spirit has made you overseers." Elders appointed by the
        Spirit, not just human selection.
 
-v.35 — NET: "by working in this way we must help the weak, and
+v.28 — KJV: "overseers" / ESV: "overseers" — Both identical. Greek
+       "episkopous" — bishops/overseers. The same men are called "elders"
+       (presbuteroi) in v.17. Elder and overseer are the same office —
+       different words for the same role.
+       NET: "Watch out for yourselves and for all the flock of
+       which the Holy Spirit has made you overseers" — "overseers"
+       (episkopous = bishops/overseers). WEB: "which the Holy
+       Spirit has made you overseers." Elders appointed by the
+       Spirit, not just human selection.
+
+v.35 — KJV: "It is more blessed to give than to receive" / ESV: "It is more
+       blessed to give than to receive" — Both identical. An unrecorded saying
+       of Jesus (an "agraphon") — not found in the four Gospels but preserved
+       by Paul through oral tradition.
+       NET: "by working in this way we must help the weak, and
        remember the words of the Lord Jesus that he himself said,
        'It is more blessed to give than to receive'" — an unwritten
        saying of Jesus (agraphon) preserved only here. WEB: "It is

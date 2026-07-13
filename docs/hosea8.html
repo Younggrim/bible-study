@@ -369,13 +369,19 @@
             </div>
             <div class="tab-content" id="tab-translations">
                 <h3>Translations</h3>
-                <ul>
-                    <li><strong>v.1</strong> → "eagle" (KJV) / "vulture" (ESV) — Hebrew "nesher" can mean eagle or vulture. A vulture circling over prey is more fitting here — judgment circling, waiting to descend.</li>
-                    <li><strong>v.5</strong> → "Thy calf, O Samaria" — The golden calf set up by Jeroboam I at Bethel and Dan (1 Kings 12:28). Still being worshipped 200 years later. Sin's monuments outlive their makers.</li>
-                    <li><strong>v.7</strong> → "sown the wind" — Hebrew "ruach" (wind/spirit). "Whirlwind" — Hebrew "suphah" = storm, tempest. The harvest is exponentially larger than the planting. Wind becomes tornado.</li>
-                    <li><strong>v.9</strong> → "wild ass alone by himself" (KJV) / "wild donkey wandering alone" (ESV) — Hebrew "pere" = wild donkey. Israel has gone feral — untamed, alone, unteachable. "Hired lovers" = paying tribute to Assyria for protection.</li>
-                    <li><strong>v.12</strong> → "great things of my law" — Some translate "ten thousand things" (multiplied commandments). Even if God wrote infinitely more instruction, Israel would still treat it as foreign. The problem is not insufficient revelation but hardened hearts.</li>
-                </ul>
+                                    <div class="trans-filter">
+                        <span class="trans-filter-label">Show translations:</span>
+                        <label class="trans-check trans-check-kjv"><input type="checkbox" value="KJV" checked onchange="filterTranslations()"><span class="trans-badge trans-kjv">KJV</span></label>
+                        <label class="trans-check trans-check-esv"><input type="checkbox" value="ESV" checked onchange="filterTranslations()"><span class="trans-badge trans-esv">ESV</span></label>
+                        <label class="trans-check trans-check-asv"><input type="checkbox" value="ASV" checked onchange="filterTranslations()"><span class="trans-badge trans-asv">ASV</span></label>
+                        <label class="trans-check trans-check-net"><input type="checkbox" value="NET" checked onchange="filterTranslations()"><span class="trans-badge trans-net">NET</span></label>
+                        <label class="trans-check trans-check-web"><input type="checkbox" value="WEB" checked onchange="filterTranslations()"><span class="trans-badge trans-web">WEB</span></label>
+                    </div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.1</strong> — &quot;eagle&quot; (<span class="trans-label trans-kjv">KJV</span>) / &quot;vulture&quot; (<span class="trans-label trans-esv">ESV</span>) — Hebrew &quot;nesher&quot; can<br>mean eagle or vulture. A vulture circling over prey is more<br>fitting here — judgment circling, waiting to descend.</p></div>
+                    <div class="trans-entry" data-translations="general"><p><strong class="verse-ref">v.5</strong> — &quot;Thy calf, O Samaria&quot; — The golden calf set up by Jeroboam I<br>at Bethel and Dan (1 Kings 12:28). Still being worshipped<br>200 years later. Sin&#x27;s monuments outlive their makers.</p></div>
+                    <div class="trans-entry" data-translations="general"><p><strong class="verse-ref">v.7</strong> — &quot;sown the wind&quot; — Hebrew &quot;ruach&quot; (wind/spirit). &quot;Whirlwind&quot;<br>— Hebrew &quot;suphah&quot; = storm, tempest. The harvest is<br>exponentially larger than the planting. Wind becomes tornado.</p></div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.9</strong> — &quot;wild ass alone by himself&quot; (<span class="trans-label trans-kjv">KJV</span>) / &quot;wild donkey wandering<br>alone&quot; (<span class="trans-label trans-esv">ESV</span>) — Hebrew &quot;pere&quot; = wild donkey. Israel has gone<br>feral — untamed, alone, unteachable. &quot;Hired lovers&quot; = paying<br>tribute to Assyria for protection.</p></div>
+                    <div class="trans-entry" data-translations="general"><p><strong class="verse-ref">v.12</strong> — &quot;great things of my law&quot; — Some translate &quot;ten thousand<br>things&quot; (multiplied commandments). Even if God wrote<br>infinitely more instruction, Israel would still treat it<br>as foreign. The problem is not insufficient revelation but<br>hardened hearts.</p></div>
             </div>
             <div class="tab-content" id="tab-videos">
                 <h3>Videos</h3>

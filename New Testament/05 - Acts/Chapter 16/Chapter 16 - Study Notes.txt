@@ -84,33 +84,14 @@ Charles Spurgeon:
   transcends circumstances. That is joy that doesn't depend on comfort.
   And the prisoners heard them — your worship in suffering is a witness."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.6  — KJV: "forbidden of the Holy Ghost to preach the word in Asia" / ESV:
        "having been forbidden by the Holy Spirit to speak the word in Asia" —
        Both equivalent. The Spirit actively blocked Paul's plans — twice
        (vv.6-7). God's "no" is as much guidance as His "yes." Paul was
        redirected to Europe.
-
-v.10 — KJV: "immediately we endeavoured" / ESV: "immediately we sought to
-       go" — Both equivalent. The first "we" passage in Acts. Luke joins the
-       team at Troas and becomes an eyewitness narrator.
-
-v.14 — KJV: "whose heart the Lord opened" / ESV: "The Lord opened her heart"
-       — Both identical in meaning. God is the one who opens hearts to receive
-       the Gospel. Lydia's faith was genuine — but it was God's initiative
-       that made it possible.
-
-v.31 — KJV: "Believe on the Lord Jesus Christ, and thou shalt be saved" /
-       ESV: "Believe in the Lord Jesus, and you will be saved" — Both
-       equivalent. KJV includes "Christ"; some manuscripts omit it. Three
-       titles: Lord (authority), Jesus (humanity/savior), Christ (Messiah/
-       anointed). Saving faith embraces His lordship, His person, and His
-       mission.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.6  — NET: "they were prevented by the Holy Spirit from
+       NET: "they were prevented by the Holy Spirit from
        speaking the message in the province of Asia" — "prevented
        by the Holy Spirit" — the Spirit closes doors as well as
        opens them. WEB: "forbidden by the Holy Spirit to speak the
@@ -122,7 +103,15 @@ v.9  — NET: "a vision appeared to Paul during the night: A
        Macedonian call. WEB: "Come over into Macedonia and help
        us." The gospel enters Europe.
 
-v.14 — NET: "The Lord opened her heart to respond to what Paul
+v.10 — KJV: "immediately we endeavoured" / ESV: "immediately we sought to
+       go" — Both equivalent. The first "we" passage in Acts. Luke joins the
+       team at Troas and becomes an eyewitness narrator.
+
+v.14 — KJV: "whose heart the Lord opened" / ESV: "The Lord opened her heart"
+       — Both identical in meaning. God is the one who opens hearts to receive
+       the Gospel. Lydia's faith was genuine — but it was God's initiative
+       that made it possible.
+       NET: "The Lord opened her heart to respond to what Paul
        was saying" — "opened her heart" (ho kyrios diEnoixen tEn
        kardian). WEB: "The Lord opened her heart." KJV: "whose
        heart the Lord opened." God must open hearts for people to
@@ -134,7 +123,13 @@ v.25 — NET: "About midnight Paul and Silas were praying and
        stocks, backs bleeding. WEB: "praying and singing hymns to
        God." Worship in suffering — the prisoners were an audience.
 
-v.31 — NET: "Believe in the Lord Jesus and you will be saved, you
+v.31 — KJV: "Believe on the Lord Jesus Christ, and thou shalt be saved" /
+       ESV: "Believe in the Lord Jesus, and you will be saved" — Both
+       equivalent. KJV includes "Christ"; some manuscripts omit it. Three
+       titles: Lord (authority), Jesus (humanity/savior), Christ (Messiah/
+       anointed). Saving faith embraces His lordship, His person, and His
+       mission.
+       NET: "Believe in the Lord Jesus and you will be saved, you
        and your household" — "you and your household" (sy kai ho
        oikos sou). WEB: "Believe in the Lord Jesus Christ, and you
        will be saved, you and your household." KJV: "Believe on

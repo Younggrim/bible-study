@@ -95,8 +95,14 @@ Charles Spurgeon:
   open. The wings were spread. And they refused. That is the mystery of
   human rebellion — rejecting the very love that would save."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.3  — NET: "do whatever they tell you and follow it, but do
+       not do what they do, for they do not practice what they
+       teach" — "do not do what they do" (kata de ta erga autOn
+       mE poieite). WEB: "don't do their works." Authority is
+       valid even when the authority-holder is hypocritical.
+
 v.5  — KJV: "phylacteries" — Small leather boxes containing Scripture verses
        (Exodus 13:9,16; Deuteronomy 6:8, 11:18), worn on the forehead and
        left arm during prayer. The Pharisees made theirs extra large to
@@ -106,11 +112,23 @@ v.5  — KJV: "borders of their garments" — ESV: "fringes" — NET: "tassels"
        — The tzitzit (Numbers 15:38-40) — tassels on the corners of garments
        as reminders of God's commands. The Pharisees enlarged them for show.
 
+v.13 — NET: "you shut the door of the kingdom of heaven in
+       people's faces" — "shut the door" (kleiete = lock/close).
+       WEB: "you shut up the Kingdom of Heaven against men." KJV:
+       "ye shut up the kingdom of heaven against men." They neither
+       enter nor allow others to enter.
+
 v.23 — KJV: "mint and anise and cummin" / ESV: "mint and dill and cumin" —
        Tiny garden herbs. The Pharisees tithed even these insignificant plants
        while neglecting justice, mercy, and faith. Jesus says "these ought ye
        to have done, and not to leave the other undone" — both matter, but
        priorities must be right.
+       NET: "you neglect what is more important in the law —
+       justice, mercy, and faithfulness!" — "more important" (ta
+       barytera = the weightier things). WEB: "the weightier
+       matters of the law: justice, mercy, and faith." KJV: "the
+       weightier matters of the law." Not all commandments are
+       equal — some are weightier.
 
 v.24 — KJV: "strain at a gnat, and swallow a camel" — ESV: "strain out a
        gnat but swallow a camel" — A vivid hyperbole. They filtered their
@@ -121,29 +139,7 @@ v.27 — KJV: "whited sepulchres" / ESV: "whitewashed tombs" — Tombs were
        whitewashed before Passover so people wouldn't accidentally touch them
        and become ritually unclean (Numbers 19:16). They looked clean on the
        outside but contained death.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "do whatever they tell you and follow it, but do
-       not do what they do, for they do not practice what they
-       teach" — "do not do what they do" (kata de ta erga autOn
-       mE poieite). WEB: "don't do their works." Authority is
-       valid even when the authority-holder is hypocritical.
-
-v.13 — NET: "you shut the door of the kingdom of heaven in
-       people's faces" — "shut the door" (kleiete = lock/close).
-       WEB: "you shut up the Kingdom of Heaven against men." KJV:
-       "ye shut up the kingdom of heaven against men." They neither
-       enter nor allow others to enter.
-
-v.23 — NET: "you neglect what is more important in the law —
-       justice, mercy, and faithfulness!" — "more important" (ta
-       barytera = the weightier things). WEB: "the weightier
-       matters of the law: justice, mercy, and faith." KJV: "the
-       weightier matters of the law." Not all commandments are
-       equal — some are weightier.
-
-v.27 — NET: "you are like whitewashed tombs that look beautiful
+       NET: "you are like whitewashed tombs that look beautiful
        on the outside but inside are full of dead men's bones" —
        "whitewashed tombs" (taphois kekoniamenois). WEB: "like
        whitewashed tombs." Beautiful exterior concealing interior

@@ -164,7 +164,7 @@ Charles Spurgeon:
   promises to God and to others must be kept even when keeping them
   costs us everything. A dying man's oath is still binding."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "stricken in years" / ESV: "advanced in years" — Hebrew
        "ba bayamim" = literally "entered into the days." Both
@@ -199,54 +199,6 @@ v.40 — KJV: "the earth rent with the sound of them" / ESV: "the
        beqolam." Hyperbolic language expressing the overwhelming
        volume of celebration. The verb "baqa" (to split/cleave) is
        the same used for the splitting of the Red Sea (Exodus 14:21).
-
-GLOSSARY
-------------------------------------
-Abishag       — A young Shunammite woman brought to care for the
-              aging David. She served as his nurse/attendant but was
-              not his wife ("the king knew her not," v.4). Her status
-              becomes politically significant in 2:13-25 when
-              Adonijah requests her — interpreted as a claim to the
-              throne.
-
-Adonijah      — "My Lord is Yahweh" — David's fourth son (2 Samuel
-              3:4), born to Haggith. After the deaths of Amnon and
-              Absalom, he was likely the eldest surviving son. His
-              self-promotion and later request for Abishag cost him
-              his life (2:13-25).
-
-En-rogel      — "Spring of the Fuller" — a water source just south
-              of Jerusalem where the Kidron and Hinnom valleys meet.
-              Adonijah chose this location for his coronation feast
-              — close enough to Jerusalem to claim legitimacy, far
-              enough to avoid immediate detection.
-
-Gihon         — A spring on the eastern slope of Jerusalem, the
-              city's primary water source. Solomon's anointing here
-              was public and strategic — visible to the city and
-              symbolically connected to life-giving water.
-
-Horns of      — The four projections at the corners of the
-the altar       sacrificial altar. Grasping them was a claim of
-              sanctuary — an appeal for mercy and protection. Blood
-              of sacrifices was applied to these horns (Exodus
-              29:12), connecting them to atonement and mercy.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.17 — ASV: "thou swarest by Jehovah thy God" / WEB: "you swore by Yahweh your God" / NET: "you swore an oath to your servant by the Lord your God" — The divine name YHWH is rendered "Jehovah" (ASV), "Yahweh" (WEB), and "the LORD" (KJV/ESV). NET adds "an oath" for clarity, making the covenantal act explicit where the Hebrew simply has the verb "swear."
-
-- v.29 — ASV: "As Jehovah liveth, who hath redeemed my soul out of all adversity" / WEB: "As Yahweh lives, who has redeemed my soul out of all adversity" / NET: "As certainly as the Lord lives (he who has rescued me from every danger)" — NET paraphrases "adversity" (Heb. tsarah) as "danger" and adds "certainly" for emphasis. KJV uses "distress." The Hebrew tsarah encompasses trouble, affliction, and distress — "adversity" (ASV/WEB) captures the breadth better than NET's narrower "danger."
-
-- v.5 — NET: "was promoting himself, boasting, 'I will be king!'" / ASV/WEB/KJV: "exalted himself, saying, I will be king" — NET interprets the Hebrew "mitnasse" (lifting oneself up) as "promoting himself, boasting" — a dynamic equivalence rendering that adds interpretive color. The literal "exalted himself" (ASV/WEB/KJV) preserves the Hebrew reflexive verb more precisely.
-
-- v.21 — NET: "my son Solomon and I will be considered state criminals" / ASV/KJV: "shall be counted offenders" / WEB: "will be considered criminals" — NET's "state criminals" is an interpretive expansion. The Hebrew "chatta'im" simply means "sinners" or "offenders." NET clarifies the political implication but goes beyond the Hebrew text.
-
-- v.39 — ASV: "took the horn of oil out of the Tent" / WEB: "took the horn of oil from the Tent" / NET: "took a horn filled with olive oil from the tent" / KJV: "took an horn of oil out of the tabernacle" — KJV's "tabernacle" (Heb. 'ohel) is the same word rendered "Tent" (ASV/WEB) or simply "tent" (NET). NET specifies "olive oil" where the Hebrew has simply "oil" (shemen). The sacred oil from the Tent of Meeting connects Solomon's anointing to the Mosaic covenant.
-
-- v.36 — ASV: "Amen: Jehovah, the God of my lord the king, say so too" / WEB: "Amen. May Yahweh, the God of my lord the king, say so" / NET: "So be it! May the Lord God of my master the king confirm it!" — NET renders the Hebrew "Amen" as "So be it!" losing the liturgical weight of this covenantal affirmation. Benaiah's response uses sacred formula language that "Amen" preserves better than a paraphrase.
-
-- v.48 — ASV: "Blessed be Jehovah, the God of Israel" / WEB: "Blessed be Yahweh, the God of Israel" / NET: "The Lord God of Israel is worthy of praise" / KJV: "Blessed be the LORD God of Israel" — NET restructures David's blessing formula ("baruk YHWH") into a declarative sentence. The traditional "Blessed be" (KJV/ASV) preserves the Hebrew berakah formula used throughout the Psalms and covenant blessings.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

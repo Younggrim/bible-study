@@ -89,38 +89,24 @@ Charles Spurgeon:
   your small responsibilities — that reveals whether you can be trusted
   with true riches."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.8  — KJV: "the lord commended the unjust steward" / ESV: "The master
        commended the dishonest manager" — KJV: "unjust steward" / ESV:
        "dishonest manager" — both equivalent. "The lord" here is the master
        in the parable, not Jesus. He commended the steward's shrewdness
        (strategic thinking), not his dishonesty.
-
-v.9  — KJV: "mammon of unrighteousness" / ESV: "unrighteous wealth" — Both
-       equivalent. Money is called "unrighteous" not because it is inherently
-       evil but because it belongs to this fallen world system. Use it
-       strategically for eternal purposes.
-
-v.22 — KJV: "Abraham's bosom" / ESV: "Abraham's side" — Both equivalent.
-       A Jewish expression for the place of comfort where the righteous dead
-       await resurrection. Also called "paradise" (Luke 23:43).
-
-v.23 — KJV: "in hell" / ESV: "in Hades, being in torment" — KJV renders
-       "hadēs" as "hell"; ESV transliterates it. Greek "hadēs" — the realm
-       of the dead. In this context, the place of torment for the unrighteous.
-       Distinguished from "gehenna" (the final lake of fire) — hadēs is the
-       intermediate state before final judgment.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.8  — NET: "the master commended the dishonest manager because
+       NET: "the master commended the dishonest manager because
        he acted shrewdly" — the most puzzling parable in the
        Gospels. "Shrewdly" (phronimōs = prudently/wisely). WEB:
        "his lord commended the dishonest manager because he had
        done wisely." Jesus commends the strategy, not the ethics.
 
-v.9  — NET: "make friends for yourselves by how you use worldly
+v.9  — KJV: "mammon of unrighteousness" / ESV: "unrighteous wealth" — Both
+       equivalent. Money is called "unrighteous" not because it is inherently
+       evil but because it belongs to this fallen world system. Use it
+       strategically for eternal purposes.
+       NET: "make friends for yourselves by how you use worldly
        wealth, so that when it runs out you will be welcomed into
        the eternal homes" — "worldly wealth" (mamōna tēs adikias =
        mammon of unrighteousness). KJV: "mammon of unrighteousness."
@@ -134,11 +120,20 @@ v.15 — NET: "what is highly prized among people is utterly
        values inverted — God's economy operates on opposite
        principles.
 
-v.22 — NET: "The poor man died and was carried by the angels to
+v.22 — KJV: "Abraham's bosom" / ESV: "Abraham's side" — Both equivalent.
+       A Jewish expression for the place of comfort where the righteous dead
+       await resurrection. Also called "paradise" (Luke 23:43).
+       NET: "The poor man died and was carried by the angels to
        Abraham's side" — "Abraham's side" (kolpon Abraam = bosom
        of Abraham). KJV: "Abraham's bosom." WEB: "Abraham's bosom."
        NET modernizes the idiom. The image is of reclining at the
        heavenly banquet next to Abraham.
+
+v.23 — KJV: "in hell" / ESV: "in Hades, being in torment" — KJV renders
+       "hadēs" as "hell"; ESV transliterates it. Greek "hadēs" — the realm
+       of the dead. In this context, the place of torment for the unrighteous.
+       Distinguished from "gehenna" (the final lake of fire) — hadēs is the
+       intermediate state before final judgment.
 
 v.31 — NET: "If they do not respond to Moses and the prophets,
        they will not be convinced even if someone rises from the

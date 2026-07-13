@@ -114,7 +114,7 @@ Charles Spurgeon:
  not love truth, God gave them over to believe lies. The safeguard against
  deception is not just knowing truth but loving it."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2 — KJV: "the day of Christ is at hand" / ESV: "the day of the Lord has come" — Greek "enestēken" — has come,
  is present, has already arrived. Not "is near" but "is here." Someone
@@ -123,39 +123,17 @@ v.2 — KJV: "the day of Christ is at hand" / ESV: "the day of the Lord has come
 v.3 — KJV: "a falling away" / ESV: "the rebellion" — Greek "hē apostasia" — THE apostasy, the
  great rebellion, the definitive departure from the faith. A specific
  end-times event, not general backsliding.
+       NET: "that day will not come unless the rebellion comes
+       first and the man of lawlessness is revealed" — "rebellion"
+       (apostasia = apostasy/falling away). WEB: "unless the
+       departure comes first." KJV: "except there come a falling
+       away first." Whether "departure" means doctrinal apostasy
+       or physical departure (rapture) is debated.
 
 v.3 — KJV: "man of sin... son of perdition" / ESV: "man of lawlessness is revealed, the son" — Titles for the Antichrist.
  "Man of sin" = sin personified. "Son of perdition" = destined for
  destruction (same title used of Judas, John 17:12).
-
-v.6 — KJV: "what withholdeth" / ESV: "what" — Greek "to katechon" (neuter) — "that which
- restrains." v.7: "he who now letteth" — Greek "ho katechōn" (masculine)
- — "he who restrains." The restrainer is both a thing and a person.
- Interpretations: (1) the Holy Spirit, (2) the Roman Empire/government,
- (3) the church, (4) Michael the archangel. Most evangelicals identify
- the restrainer as the Holy Spirit working through the church.
-
-v.7 — KJV: "letteth" / ESV: "restrains" — Old English for "restrains" (not "allows"). "The
- mystery of iniquity doth already work" — lawlessness is already
- operating in hidden form; it will be fully revealed when restraint is
- removed.
-
-v.8 — KJV: "the spirit of his mouth" / ESV: "mouth" — Christ destroys the Antichrist with
- a word — effortlessly. "The brightness of his coming" — Greek
- "epiphaneia tēs parousias" — the appearing of His presence. Christ's
- mere appearance is enough.
-
-v.11 — KJV: "strong delusion" / ESV: Both equivalent. — Greek "energeian planēs" — an active working
- of deception. God sends it as judgment on those who rejected truth.
- Judicial hardening: those who refuse truth are given over to lies.
-
-v.15 — KJV: "traditions" / ESV: Both equivalent. — Greek "paradoseis" — things handed down, passed
- on. Not human traditions but apostolic teaching — whether oral ("by
- word") or written ("our epistle").
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "that day will not come unless the rebellion comes
+       NET: "that day will not come unless the rebellion comes
        first and the man of lawlessness is revealed" — "rebellion"
        (apostasia = apostasy/falling away). WEB: "unless the
        departure comes first." KJV: "except there come a falling
@@ -168,19 +146,38 @@ v.4  — NET: "He opposes and exalts himself above every so-called
        WEB: "he sits as God in the temple of God." The man of
        lawlessness claims divine status — ultimate blasphemy.
 
-v.7  — NET: "For the hidden power of lawlessness is already at
+v.6 — KJV: "what withholdeth" / ESV: "what" — Greek "to katechon" (neuter) — "that which
+ restrains." v.7: "he who now letteth" — Greek "ho katechōn" (masculine)
+ — "he who restrains." The restrainer is both a thing and a person.
+ Interpretations: (1) the Holy Spirit, (2) the Roman Empire/government,
+ (3) the church, (4) Michael the archangel. Most evangelicals identify
+ the restrainer as the Holy Spirit working through the church.
+
+v.7 — KJV: "letteth" / ESV: "restrains" — Old English for "restrains" (not "allows"). "The
+ mystery of iniquity doth already work" — lawlessness is already
+ operating in hidden form; it will be fully revealed when restraint is
+ removed.
+       NET: "For the hidden power of lawlessness is already at
        work" — "hidden power" (mystErion tEs anomias = mystery of
        lawlessness). WEB: "the mystery of lawlessness already
        works." KJV: "the mystery of iniquity doth already work."
        Evil is active NOW but restrained — waiting for the right
        moment.
 
-v.8  — NET: "the Lord will destroy him with the breath of his
+v.8 — KJV: "the spirit of his mouth" / ESV: "mouth" — Christ destroys the Antichrist with
+ a word — effortlessly. "The brightness of his coming" — Greek
+ "epiphaneia tēs parousias" — the appearing of His presence. Christ's
+ mere appearance is enough.
+       NET: "the Lord will destroy him with the breath of his
        mouth" — "breath of his mouth" (tO pneumati tou stomatos
        autou). WEB: "whom the Lord will kill with the breath of his
        mouth." KJV: "whom the Lord shall consume with the spirit
        of his mouth." Christ's word alone destroys the antichrist —
        no battle required.
+
+v.11 — KJV: "strong delusion" / ESV: Both equivalent. — Greek "energeian planēs" — an active working
+ of deception. God sends it as judgment on those who rejected truth.
+ Judicial hardening: those who refuse truth are given over to lies.
 
 v.13 — NET: "God chose you from the beginning for salvation
        through sanctification by the Spirit and faith in the truth"
@@ -188,6 +185,10 @@ v.13 — NET: "God chose you from the beginning for salvation
        "firstfruits" (aparchEn). WEB: "God chose you from the
        beginning." KJV: "God hath from the beginning chosen you."
        Election, sanctification, and faith together.
+
+v.15 — KJV: "traditions" / ESV: Both equivalent. — Greek "paradoseis" — things handed down, passed
+ on. Not human traditions but apostolic teaching — whether oral ("by
+ word") or written ("our epistle").
 
 GLOSSARY
 ------------------------------------

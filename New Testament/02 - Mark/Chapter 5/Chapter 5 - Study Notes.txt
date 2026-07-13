@@ -95,17 +95,34 @@ Charles Spurgeon:
   The faith that says 'I have nothing left to try but Jesus.' And that
   faith is enough."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.1  — NET: "the region of the Gerasenes" — a significant
+       textual variant. KJV: "Gadarenes." ASV: "Gerasenes." The
+       manuscripts vary between Gerasenes, Gadarenes, and
+       Gergesenes. NET/ESV follow the earliest manuscripts.
+
 v.9  — KJV: "My name is Legion: for we are many" / ESV: "My name is Legion,
        for we are many" — Both identical. A Roman legion = ~6,000 soldiers.
        The name indicates thousands of demons possessing one man. Mark notes
        ~2,000 pigs (v.13) — possibly one demon per pig.
+       NET: "'My name is Legion,' he said, 'for we are many'" —
+       all versions agree on "Legion" (a Roman military unit of
+       ~6,000 soldiers). The name communicates overwhelming
+       multiplicity of demons possessing one man.
+
+v.13 — WEB: "about two thousand" — specifies the number of pigs
+       that rushed down the steep bank. All translations include
+       this number. NET: "about two thousand in number."
 
 v.30 — KJV: "virtue had gone out of him" / ESV: "power had gone out from him"
        — Greek "dunamis" — power, not moral virtue. The ESV is more accurate
        to the Greek meaning. Healing cost Jesus something — power flowed from
        Him to the woman.
+       NET: "Jesus knew at once that power had gone out from him"
+       — "at once" captures Mark's "immediately" (euthys). WEB:
+       "Jesus, perceiving in himself that the power had gone out
+       from him." The distinction is Jesus' immediate awareness.
 
 v.34 — KJV: "Daughter, thy faith hath made thee whole" / ESV: "Daughter, your
        faith has made you well" — Both equivalent. The only time Jesus calls
@@ -118,29 +135,7 @@ v.41 — KJV: "Talitha cumi; which is, being interpreted, Damsel, I say unto
        Mark preserves Jesus' actual Aramaic words — an eyewitness detail
        (likely from Peter, who was present). "Talitha" = little girl/lamb.
        "Cumi" = arise/get up. Tender and authoritative.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "the region of the Gerasenes" — a significant
-       textual variant. KJV: "Gadarenes." ASV: "Gerasenes." The
-       manuscripts vary between Gerasenes, Gadarenes, and
-       Gergesenes. NET/ESV follow the earliest manuscripts.
-
-v.9  — NET: "'My name is Legion,' he said, 'for we are many'" —
-       all versions agree on "Legion" (a Roman military unit of
-       ~6,000 soldiers). The name communicates overwhelming
-       multiplicity of demons possessing one man.
-
-v.13 — WEB: "about two thousand" — specifies the number of pigs
-       that rushed down the steep bank. All translations include
-       this number. NET: "about two thousand in number."
-
-v.30 — NET: "Jesus knew at once that power had gone out from him"
-       — "at once" captures Mark's "immediately" (euthys). WEB:
-       "Jesus, perceiving in himself that the power had gone out
-       from him." The distinction is Jesus' immediate awareness.
-
-v.41 — NET: "'Talitha koum,' which means, 'Little girl, I say to
+       NET: "'Talitha koum,' which means, 'Little girl, I say to
        you, get up'" — preserves the Aramaic. WEB: "Talitha cumi"
        (different transliteration). KJV: "Talitha cumi." The
        intimate Aramaic — Peter's own memory — is preserved in all

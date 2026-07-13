@@ -117,11 +117,17 @@ Charles Spurgeon:
   holy, not because she was holy. Husband, your love is to be sacrificial,
   sanctifying, and unconditional — like Christ's."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "followers" / ESV: "be imitators of God, as" — Greek "mimētai" — imitators. Root of English
        "mimic." Not just following but actively imitating God's character.
+
+v.2  — NET: "and live in love, just as Christ also loved us and
+       gave himself for us, a sacrificial and fragrant offering to
+       God" — "fragrant offering" (prosphoran kai thysian tO theO
+       eis osmEn euOdias). WEB: "a fragrant offering and sacrifice
+       to God." KJV: "a sweetsmelling savour." Christ's death
+       pleased the Father — a voluntary, accepted sacrifice.
 
 v.4  — KJV: "jesting" — Greek "eutrapelia" — coarse joking, crude humor.
        Not all humor but specifically sexual innuendo and crude speech. ESV:
@@ -133,6 +139,12 @@ v.8  — KJV: "ye were sometimes darkness" / ESV: "for at one time you were dark
 
 v.14 — KJV: "Awake thou that sleepest" / ESV: "becomes visible is light. Therefore it says" — Possibly an early Christian hymn
        or baptismal formula. Not a direct OT quote but echoes Isaiah 60:1.
+       NET: "Awake, O sleeper! Rise from the dead, and Christ
+       will shine on you!" — possibly an early Christian hymn or
+       baptismal formula. WEB: "Awake, you who sleep, and arise
+       from the dead, and Christ will shine on you." KJV: "Awake
+       thou that sleepest." Source unknown — perhaps adapted from
+       Isaiah 60:1.
 
 v.16 — KJV: "redeeming the time" / ESV: "making the best use of the time" — Greek "exagorazomenoi ton kairon" —
        buying up the opportunity. "Kairos" = opportune time, not "chronos"
@@ -141,6 +153,12 @@ v.16 — KJV: "redeeming the time" / ESV: "making the best use of the time" — 
 v.18 — KJV: "be filled" / ESV: Both equivalent. — Greek "plērousthe" — present passive imperative.
        Present = continuous (keep being filled). Passive = let God fill you.
        Imperative = it's a command, not a suggestion.
+       NET: "And do not get drunk with wine, which is
+       debauchery, but be filled by the Spirit" — "be filled"
+       (plErousthe = present passive imperative — keep on being
+       filled). WEB: "be filled with the Spirit." KJV: "be filled
+       with the Spirit." Not a one-time event but a continuous
+       state — the ongoing alternative to drunkenness.
 
 v.21 — KJV: "submitting yourselves one to another" / ESV: "submitting to one another out of reverence for Christ" — This verse is the
        heading for the entire household code (5:22-6:9). Mutual submission
@@ -149,6 +167,12 @@ v.21 — KJV: "submitting yourselves one to another" / ESV: "submitting to one a
 v.25 — KJV: "gave himself for it" / ESV: "and gave himself up for her" — Greek "paredōken heauton" — handed
        Himself over. The same word used of Judas betraying Jesus. Christ
        voluntarily handed Himself over to death for His bride.
+       NET: "Husbands, love your wives just as Christ loved the
+       church and gave himself for her" — "gave himself" (heauton
+       paredOken) — self-sacrificial love as the husband's model.
+       WEB: "love your wives, even as Christ also loved the
+       assembly." The standard is the cross — not feelings but
+       sacrifice.
 
 v.31 — KJV: "joined" / ESV: "hold fast to his wife" — Greek "proskollēthēsetai" — glued to, cemented to.
        Permanent, inseparable union.
@@ -156,38 +180,7 @@ v.31 — KJV: "joined" / ESV: "hold fast to his wife" — Greek "proskollēthēs
 v.32 — KJV: "mystery" / ESV: Both equivalent. — Greek "mustērion" — not something mysterious but
        something previously hidden now revealed. Marriage was always meant to
        picture Christ and the church — now that meaning is unveiled.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "and live in love, just as Christ also loved us and
-       gave himself for us, a sacrificial and fragrant offering to
-       God" — "fragrant offering" (prosphoran kai thysian tO theO
-       eis osmEn euOdias). WEB: "a fragrant offering and sacrifice
-       to God." KJV: "a sweetsmelling savour." Christ's death
-       pleased the Father — a voluntary, accepted sacrifice.
-
-v.14 — NET: "Awake, O sleeper! Rise from the dead, and Christ
-       will shine on you!" — possibly an early Christian hymn or
-       baptismal formula. WEB: "Awake, you who sleep, and arise
-       from the dead, and Christ will shine on you." KJV: "Awake
-       thou that sleepest." Source unknown — perhaps adapted from
-       Isaiah 60:1.
-
-v.18 — NET: "And do not get drunk with wine, which is
-       debauchery, but be filled by the Spirit" — "be filled"
-       (plErousthe = present passive imperative — keep on being
-       filled). WEB: "be filled with the Spirit." KJV: "be filled
-       with the Spirit." Not a one-time event but a continuous
-       state — the ongoing alternative to drunkenness.
-
-v.25 — NET: "Husbands, love your wives just as Christ loved the
-       church and gave himself for her" — "gave himself" (heauton
-       paredOken) — self-sacrificial love as the husband's model.
-       WEB: "love your wives, even as Christ also loved the
-       assembly." The standard is the cross — not feelings but
-       sacrifice.
-
-v.32 — NET: "This mystery is great — but I am actually speaking
+       NET: "This mystery is great — but I am actually speaking
        with reference to Christ and the church" — "mystery"
        (mystErion) — marriage was always meant to picture something
        bigger. WEB: "This mystery is great, but I speak concerning

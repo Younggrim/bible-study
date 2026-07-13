@@ -91,29 +91,7 @@ Charles Spurgeon:
   gave up; he rejoices at what he found. That is the mark of genuine
   conversion — joy, not reluctance."
 
-TRANSLATION NOTES
-------------------------------------
-v.22 — KJV: "the care of this world, and the deceitfulness of riches" — ESV:
-       "the cares of the world and the deceitfulness of riches" — Two thorns:
-       worry (anxiety about daily life) and wealth (the false promise that
-       money will satisfy). Both choke the word — slowly, gradually, silently.
-
-v.25 — KJV: "tares" — ESV/NET: "weeds" — Greek "zizania" — likely darnel, a
-       weed that looks identical to wheat until harvest time. The point: true
-       and false believers are indistinguishable until the final judgment.
-
-v.33 — KJV: "leaven" / ESV: "leaven" — Both identical. Leaven (yeast) is
-       usually negative in Scripture (corruption). Here it may be positive
-       (the kingdom's pervasive influence) or negative (corruption infiltrating
-       the kingdom). Scholars disagree. The context of growth parables suggests
-       positive.
-
-v.44 — KJV: "for joy thereof" / ESV: "in his joy" — The man sells everything
-       with joy, not reluctance. This is key — the kingdom is not a burden to
-       acquire but a treasure that makes everything else look worthless by
-       comparison.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.11 — NET: "You have been given the opportunity to know the
        secrets of the kingdom of heaven, but they have not" —
@@ -128,6 +106,15 @@ v.15 — NET: "For the heart of this people has become dull" —
        KJV: "this people's heart is waxed gross." Spiritual
        deafness from repeated refusal to hear.
 
+v.22 — KJV: "the care of this world, and the deceitfulness of riches" — ESV:
+       "the cares of the world and the deceitfulness of riches" — Two thorns:
+       worry (anxiety about daily life) and wealth (the false promise that
+       money will satisfy). Both choke the word — slowly, gradually, silently.
+
+v.25 — KJV: "tares" — ESV/NET: "weeds" — Greek "zizania" — likely darnel, a
+       weed that looks identical to wheat until harvest time. The point: true
+       and false believers are indistinguishable until the final judgment.
+
 v.31 — NET: "The kingdom of heaven is like a mustard seed" —
        "mustard seed" (kokkO sinapeOs) — the smallest garden seed
        producing a large shrub. WEB: "like a grain of mustard
@@ -135,7 +122,17 @@ v.31 — NET: "The kingdom of heaven is like a mustard seed" —
        shelter nations (v.32: "birds of the air lodge in its
        branches").
 
-v.44 — NET: "The kingdom of heaven is like a treasure, hidden in
+v.33 — KJV: "leaven" / ESV: "leaven" — Both identical. Leaven (yeast) is
+       usually negative in Scripture (corruption). Here it may be positive
+       (the kingdom's pervasive influence) or negative (corruption infiltrating
+       the kingdom). Scholars disagree. The context of growth parables suggests
+       positive.
+
+v.44 — KJV: "for joy thereof" / ESV: "in his joy" — The man sells everything
+       with joy, not reluctance. This is key — the kingdom is not a burden to
+       acquire but a treasure that makes everything else look worthless by
+       comparison.
+       NET: "The kingdom of heaven is like a treasure, hidden in
        a field, that a person found and hid" — "treasure" (thEsaurO
        = stored wealth). WEB: "like treasure hidden in the field."
        The finder sells EVERYTHING to buy the field — the kingdom

@@ -79,7 +79,7 @@ v.10  — Romans 8:14 — "As many as are led by the Spirit of God."
 COMMENTARY REFERENCES
 ------------------------------------
 
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 - v.2 — KJV: "in thy sight shall no man living be justified" / NET: "no one alive is innocent before you" — NET replaces "justified" (legal/forensic) with "innocent" (moral state), a subtle but significant theological shift. Paul quotes this verse in Romans 3 using the justification framework.
 - v.7 — KJV: "lest I be like unto them that go down into the pit" / NET: "or I will join those descending into the grave" — NET replaces "pit" (Hebrew "bor") with "grave," making the death reference explicit. ASV/WEB retain "pit."

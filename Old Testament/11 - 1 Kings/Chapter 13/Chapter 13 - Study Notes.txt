@@ -157,7 +157,7 @@ Charles Spurgeon:
   however sincere they appear. Hold fast to what God has said. Let
   no man's word move you from God's word."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "a child shall be born" / ESV: "a son shall be born" —
        Hebrew "ben nolad" = a son is being born (prophetic perfect
@@ -182,42 +182,6 @@ v.24 — KJV: "a lion met him by the way, and slew him" / ESV: "a
        killed but did not eat, and stood guard beside the body
        without harming the donkey. This was divine execution, not
        natural predation.
-
-GLOSSARY
-------------------------------------
-Man of God    — An unnamed prophet from Judah. His anonymity may be
-              deliberate — he represents the prophetic office itself
-              rather than a specific individual. His message is more
-              important than his identity. His failure serves as a
-              warning to all who carry God's word.
-
-Josiah        — The future king of Judah (640-609 BC) who would
-              fulfill this prophecy by destroying Bethel's altar and
-              burning the bones of false priests upon it (2 Kings
-              23:15-16). Named here approximately 300 years before
-              his birth — one of Scripture's most specific predictive
-              prophecies.
-
-Old prophet   — An unnamed prophet living in Bethel who deliberately
-              deceives the man of God. His motivation is unclear. He
-              may represent compromised prophets who live comfortably
-              in apostate territory. Despite his deception, he later
-              receives genuine revelation and affirms the truth of
-              the man of God's prophecy.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "there came a man of God out of Judah by the word of Jehovah unto Beth-el" / WEB: "a man of God came out of Judah by Yahweh's word to Beth El" / NET: "a prophet arrived from Judah with the Lord's message for Bethel" — NET substitutes "prophet" for "man of God" (Heb. 'ish ha-elohim). These are distinct titles in Kings: "man of God" emphasizes divine commissioning and authority; "prophet" (navi') emphasizes the speaking function. The narrator deliberately uses "man of God" — NET's change obscures this distinction.
-
-- v.2 — ASV: "thus saith Jehovah" / WEB: "Yahweh says" / NET: "This is what the Lord has said" — The prophetic messenger formula with the standard divine name variations. The prophecy naming Josiah by name 300 years before his birth (2 Kings 23:15-16) is one of the most specific predictive prophecies in the Old Testament.
-
-- v.6 — ASV: "Entreat now the favor of Jehovah thy God" / WEB: "intercede for the favor of Yahweh your God" / NET: "Seek the favor of the Lord your God" — Hebrew "challah et-penei YHWH" = literally "make sweet/soft the face of YHWH" — an idiom for seeking God's gracious favor. Note Jeroboam says "your God" — not "my God." Even in his moment of need, he does not claim YHWH as his own God.
-
-- v.21 — ASV: "thou hast been disobedient unto the mouth of Jehovah" / WEB: "you have been disobedient to Yahweh's mouth" / NET: "You have rebelled against the Lord's instruction" — Hebrew "marita et-pi YHWH" = "you have rebelled against the mouth of YHWH." ASV/WEB preserve "mouth" — the word of God spoken directly. NET uses "instruction" which is softer than the Hebrew; the offense was rebellion against God's spoken command, not mere failure to follow guidelines.
-
-- v.33 — ASV: "After this thing Jeroboam returned not from his evil way" / WEB: "After this thing Jeroboam didn't return from his evil way" / NET: "After this happened, Jeroboam still did not change his evil ways" — Hebrew "shav" = to return/repent. ASV/WEB preserve "returned not" (the Hebrew concept of teshuvah/repentance as turning back). NET's "did not change" loses the directional metaphor of turning back to God that is central to Hebrew repentance theology.
-
-- v.34 — ASV: "this thing became sin unto the house of Jeroboam, even to cut it off, and to destroy it from off the face of the earth" / WEB: same structure / NET: "This sin caused Jeroboam's dynasty to come to an end and to be destroyed from the face of the earth" — NET adds "dynasty" (interpretive) for "house" (bayit). The Hebrew "house of Jeroboam" encompasses both dynasty and household — all his descendants would be eliminated.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

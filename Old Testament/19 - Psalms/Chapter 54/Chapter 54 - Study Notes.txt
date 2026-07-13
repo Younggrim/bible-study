@@ -85,7 +85,7 @@ v.7   — Psalm 118:7 — "The LORD taketh my part with them that
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "judge me by thy strength" / ESV: "vindicate me by
       your might" — Hebrew "din" means to judge or vindicate. ESV's
@@ -103,20 +103,6 @@ v.6 — KJV: "I will freely sacrifice unto thee" / ESV: "With a
       = voluntary, freewill offering. Not obligatory but
       spontaneous gratitude. The best worship flows from a willing
       heart.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — WEB: "Vindicate me in your might" / NET: "Vindicate me by your power" vs. KJV: "judge me by thy strength" — WEB and NET both choose "vindicate" over KJV's "judge" (Hebrew "din"), making the positive outcome explicit. ASV: "judge me in thy might" stays with KJV.
-
-- v.3 — NET: "ruthless men, who do not respect God, seek my life" vs. KJV: "oppressors seek after my soul" — NET interprets "aritsim" (violent/ruthless ones) and specifies "do not respect God" for KJV's "have not set God before them." ASV/WEB use "violent men" for "oppressors."
-
-- v.4 — NET: "The Lord is among those who support me" vs. KJV: "the Lord is with them that uphold my soul" — NET modernizes but keeps the same meaning. WEB: "The Lord is the one who sustains my soul" — simplifies to make God the direct sustainer rather than being "with" human helpers.
-
-- v.5 — NET: "May those who wait to ambush me be repaid for their evil. As a demonstration of your faithfulness, destroy them" — NET adds "wait to ambush" (not in Hebrew) and interprets "truth" (emet) as "faithfulness." KJV/ASV/WEB: "Destroy them in thy/your truth."
-
-- v.6 — ASV: "I will give thanks unto thy name, O Jehovah" / WEB: "I will give thanks to your name, Yahweh" vs. KJV: "I will praise thy name, O LORD" — The divine name is explicit in ASV/WEB rather than the substitution "LORD." NET uses "Lord" (without caps).
-
-- v.7 — NET: "I triumph over my enemies" vs. KJV: "mine eye hath seen his desire upon mine enemies" — NET replaces the vivid Hebrew idiom ("my eye has looked upon") with a flat statement of triumph. WEB: "My eye has seen triumph over my enemies" keeps the eye imagery while clarifying the meaning.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

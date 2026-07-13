@@ -215,7 +215,7 @@ Charles Spurgeon:
   always demands more. What shocked yesterday becomes boring today,
   and tomorrow we seek something worse."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "exalted thee out of the dust" / ESV: "exalted you
        out of the dust" — Hebrew "min-he'aphar" = from the dust/
@@ -256,60 +256,6 @@ v.34 — KJV: "he laid the foundation thereof in Abiram his
        when the foundation was laid, Segub when the gates were set.
        Whether this was intentional sacrifice or divine judgment is
        debated — either way, Joshua's curse was fulfilled exactly.
-
-GLOSSARY
-------------------------------------
-Zimri         — Commander of half of Elah's chariots who assassinated
-              his king, reigned seven days, and burned himself alive
-              when overthrown. His name became proverbial for
-              treachery and usurpation (2 Kings 9:31). The shortest
-              reign in Israel's history.
-
-Omri          — Military commander who became king after civil war.
-              Founded Samaria as Israel's capital. Historically one
-              of Israel's most powerful kings (Assyrian records call
-              Israel "Bit-Humria" = House of Omri for over a century).
-              Yet biblically dismissed in six verses as worse than
-              all before him.
-
-Samaria       — City built by Omri on a hill purchased from Shemer
-              for two talents of silver (about 150 pounds). Became
-              the permanent capital of the northern kingdom. Its
-              hilltop location made it highly defensible — it
-              withstood a three-year Assyrian siege (2 Kings 17:5).
-
-Jezebel       — Daughter of Ethbaal, king of Sidon (a priest-king
-              of Astarte according to Josephus). Her marriage to
-              Ahab was a political alliance that imported official
-              Baal worship into Israel. She becomes the dominant
-              force behind Israel's apostasy, persecuting Yahweh's
-              prophets and promoting Baal worship with state power.
-
-Ethbaal       — King of Sidon (Tyre and Sidon), father of Jezebel.
-              According to Josephus (Against Apion 1.18), he was a
-              priest of Astarte who murdered the previous king and
-              seized the throne. Ahab's father-in-law was himself a
-              murderous usurper and pagan priest.
-
-Baal          — "Lord/Master" — the Canaanite storm and fertility
-              god. Chief deity of the Phoenician/Canaanite pantheon.
-              His worship involved ritual prostitution, child
-              sacrifice, and self-mutilation (1 Kings 18:28). Ahab
-              built him a temple in Samaria with state sponsorship.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — ASV: "I exalted thee out of the dust, and made thee prince over my people Israel" / WEB: "I exalted you out of the dust, and made you prince over my people Israel" / NET: "I raised you up from the dust and made you ruler over my people Israel" — Hebrew "nagid" = prince/appointed leader (see 14:7). Same divine claim: God elevates; the king merely stewards. ASV/WEB's "prince" retains the subordinate status; NET's "ruler" implies more autonomous authority.
-
-- v.13 — ASV: "to provoke Jehovah, the God of Israel, to anger with their vanities" / WEB: "to provoke Yahweh, the God of Israel, to anger with their vanities" / NET: "They angered the Lord God of Israel with their worthless idols" — Hebrew "havalim" = vanities/empty things/breath. This term (used extensively in Ecclesiastes — "vanity of vanities") emphasizes the nothingness of idols — they are literally "breath." ASV/WEB preserve "vanities"; NET interprets as "worthless idols," which is correct but loses the contemptuous Hebrew wordplay.
-
-- v.31 — ASV: "as if it had been a light thing for him to walk in the sins of Jeroboam" / WEB: "As if it had been a light thing for him to walk in the sins of Jeroboam" / NET: "As if following in the sinful footsteps of Jeroboam son of Nebat were not bad enough" — Hebrew "ha-naqel" = was it a light/trivial thing? A rhetorical question expressing the author's horror. ASV/WEB preserve the Hebrew construction; NET paraphrases colloquially, losing the literary form.
-
-- v.33 — ASV: "Ahab made the Asherah" / WEB: "Ahab made the Asherah" / NET: "Ahab also made an Asherah pole" — The definite article "the Asherah" (ha-'asherah) may indicate a specific, official cult object — perhaps the chief Asherah in Samaria's Baal temple. NET's "an Asherah pole" treats it as one among many; ASV/WEB's "the Asherah" suggests THE primary cult image.
-
-- v.34 — ASV: "he laid the foundation thereof with the loss of Abiram his first-born" / WEB: "He laid its foundation with the loss of Abiram his firstborn" / NET: "Abiram, his firstborn son, died when he laid the foundation" — All versions convey the fulfillment of Joshua's curse (Joshua 6:26). The Hebrew "b'" (with/at the cost of) is ambiguous — was this human sacrifice, or divine judgment? The translations preserve this ambiguity, though NET's restructuring makes it sound more like coincidental death.
-
-- v.7 — ASV: "the word of Jehovah against Baasha, and against his house" / WEB: "Yahweh's word... against Baasha and against his house" / NET: "the Lord's message came through the prophet... against Baasha and his family" — NET consistently uses "family" for Hebrew "bayit" (house). In Kings, "house" carries dynastic meaning — the entire political-family unit and its future generations. "Family" narrows this to personal relations.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

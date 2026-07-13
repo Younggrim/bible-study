@@ -92,30 +92,13 @@ Charles Spurgeon:
   become a substitute for intimacy with Christ. Mary chose the better part
   — and it would not be taken from her."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "seventy" / ESV: "seventy-two" — Some manuscripts read
        "seventy-two" (ESV) while others read "seventy" (KJV). The difference
        is minor — both numbers have symbolic significance (70 nations in
        Genesis 10; 72 elders in some traditions).
-
-v.25 — KJV: "a certain lawyer" / ESV: "a lawyer" — Both equivalent. Not a
-       modern attorney but an expert in the Mosaic Law (Torah scholar). His
-       question was a test, not a genuine inquiry.
-
-v.33 — KJV: "a certain Samaritan" / ESV: "a Samaritan" — Both equivalent.
-       The shock value of this cannot be overstated. Jews and Samaritans had
-       centuries of mutual hatred. Making a Samaritan the hero was deliberately
-       provocative — forcing the lawyer to rethink his categories.
-
-v.42 — KJV: "one thing is needful" / ESV: "one thing is necessary" — Both
-       equivalent. Some manuscripts read "few things are needful, or one"
-       (ESV footnote). Either way, Jesus establishes that sitting at His feet
-       is the priority — the "good part" that cannot be taken away.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "the Lord appointed seventy-two others" — textual
+       NET: "the Lord appointed seventy-two others" — textual
        variant: "seventy" (KJV/ASV) vs. "seventy-two" (NET/ESV).
        WEB: "seventy others." The number may echo the 70 nations
        of Genesis 10 or the 72 elders of Numbers 11:24-25.
@@ -131,13 +114,25 @@ v.21 — NET: "I praise you, Father, Lord of heaven and earth,
        children" (nēpiois = infants/toddlers). WEB: "to little
        children." God's economy inverts human hierarchies.
 
-v.33 — NET: "But a Samaritan who was traveling came to where the
+v.25 — KJV: "a certain lawyer" / ESV: "a lawyer" — Both equivalent. Not a
+       modern attorney but an expert in the Mosaic Law (Torah scholar). His
+       question was a test, not a genuine inquiry.
+
+v.33 — KJV: "a certain Samaritan" / ESV: "a Samaritan" — Both equivalent.
+       The shock value of this cannot be overstated. Jews and Samaritans had
+       centuries of mutual hatred. Making a Samaritan the hero was deliberately
+       provocative — forcing the lawyer to rethink his categories.
+       NET: "But a Samaritan who was traveling came to where the
        injured man was, and when he saw him, he felt compassion for
        him" — "felt compassion" (esplanchnisthē) — same gut-level
        compassion used of Jesus. WEB: "was moved with compassion."
        The despised outsider embodies God's mercy.
 
-v.42 — NET: "but one thing is needed. Mary has chosen the best
+v.42 — KJV: "one thing is needful" / ESV: "one thing is necessary" — Both
+       equivalent. Some manuscripts read "few things are needful, or one"
+       (ESV footnote). Either way, Jesus establishes that sitting at His feet
+       is the priority — the "good part" that cannot be taken away.
+       NET: "but one thing is needed. Mary has chosen the best
        part; it will not be taken away from her" — "the best part"
        (tēn agathēn merida). KJV: "that good part." WEB: "the
        good part." Sitting at Jesus' feet — the posture of a

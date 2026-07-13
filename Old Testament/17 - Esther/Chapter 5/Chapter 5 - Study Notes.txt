@@ -160,7 +160,7 @@ Charles Spurgeon:
   secret of contentment is not more honor from men but less
   dependence on it."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "Esther put on her royal apparel" / ESV: "Esther put
        on her royal robes" — Hebrew "vattilbash Esther malkhut"

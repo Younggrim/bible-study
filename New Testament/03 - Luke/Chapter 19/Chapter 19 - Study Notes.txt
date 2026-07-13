@@ -91,37 +91,24 @@ Charles Spurgeon:
   coming destruction, the missed opportunity, the peace they rejected.
   That is the heart of God toward those who refuse Him."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "chief among the publicans" / ESV: "a chief tax collector" —
        Both equivalent. Greek "architelōnēs" — a chief tax collector,
        overseeing other collectors. A position of great wealth and great
        corruption. Only mentioned here in the NT.
 
-v.8  — KJV: "I restore him fourfold" / ESV: "I restore it fourfold" — Both
-       equivalent. Exceeding the Law's requirement (Exodus 22:1 required
-       fourfold for stolen sheep; Numbers 5:7 required restitution plus
-       one-fifth). Zacchaeus went beyond what was required.
-
-v.13 — KJV: "ten pounds" / ESV: "ten minas" — KJV uses "pounds"; ESV
-       transliterates the Greek "mnas" (minas). One mina = about 3 months'
-       wages. Much less than a talent (Matthew 25). The point: even small
-       resources must be invested faithfully.
-
-v.40 — KJV: "the stones would immediately cry out" / ESV: "the very stones
-       would cry out" — Both equivalent. If human voices are silenced,
-       creation itself will testify to Christ's kingship. Praise of Christ is
-       inevitable — the only question is who will offer it.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
 v.5  — NET: "Zacchaeus, come down quickly, because I must stay
        at your house today" — "I must" (dei) — divine necessity.
        Jesus didn't wait to be invited. WEB: "I must stay at your
        house today." KJV: "I must abide at thy house." The Son of
        Man seeks — He doesn't wait to be sought.
 
-v.8  — NET: "But Zacchaeus stopped and said to the Lord, 'Look,
+v.8  — KJV: "I restore him fourfold" / ESV: "I restore it fourfold" — Both
+       equivalent. Exceeding the Law's requirement (Exodus 22:1 required
+       fourfold for stolen sheep; Numbers 5:7 required restitution plus
+       one-fifth). Zacchaeus went beyond what was required.
+       NET: "But Zacchaeus stopped and said to the Lord, 'Look,
        Lord, half of my possessions I now give to the poor, and if
        I have cheated anyone of anything, I am paying back four
        times as much!'" — present tense "I now give" — immediate
@@ -134,11 +121,21 @@ v.10 — NET: "For the Son of Man came to seek and to save the
        lost." KJV: "to seek and to save that which was lost." All
        versions — the mission in one sentence.
 
+v.13 — KJV: "ten pounds" / ESV: "ten minas" — KJV uses "pounds"; ESV
+       transliterates the Greek "mnas" (minas). One mina = about 3 months'
+       wages. Much less than a talent (Matthew 25). The point: even small
+       resources must be invested faithfully.
+
 v.38 — NET: "Blessed is the king who comes in the name of the
        Lord!" — Luke adds "the king" to Psalm 118:26. WEB:
        "Blessed is the King who comes in the name of the Lord!"
        KJV: "Blessed be the King." Luke makes the royal claim
        explicit — this is a coronation procession.
+
+v.40 — KJV: "the stones would immediately cry out" / ESV: "the very stones
+       would cry out" — Both equivalent. If human voices are silenced,
+       creation itself will testify to Christ's kingship. Praise of Christ is
+       inevitable — the only question is who will offer it.
 
 v.41 — NET: "Now when Jesus approached and saw the city, he wept
        over it" — "wept" (eklausen) — not quiet tears but audible

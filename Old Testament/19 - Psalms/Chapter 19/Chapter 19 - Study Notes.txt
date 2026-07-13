@@ -94,7 +94,7 @@ v.14  — Philippians 4:8 — "Whatsoever things are true... think on
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3 — KJV: "There is no speech nor language, where their voice is
       not heard" / ESV: "There is no speech, nor are there words,
@@ -121,51 +121,6 @@ v.14 — KJV: "my strength" / ESV: "my rock" — Hebrew "tsuri" =
        psalm ends with "my rock and my redeemer" — connecting back
        to both creation (God as foundation/rock) and redemption
        (God as redeemer/kinsman).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "the firmament showeth his handiwork" / WEB: "The expanse shows
-  his handiwork" — Hebrew "raqia" (expanse/firmament). ASV retains KJV's
-  "firmament" (from Latin Vulgate); WEB uses "expanse" (better reflecting the
-  Hebrew sense of stretched-out space). NET: "the sky displays his handiwork"
-  — simplest modern rendering.
-- v.2 — NET: "Day after day it speaks out; night after night it reveals his
-  greatness" — adds "his greatness" (interpretive; Hebrew has "knowledge").
-  WEB: "Day after day they pour out speech" — "pour out" is vivid, capturing
-  Hebrew "yabbia" (to bubble forth, gush) better than "uttereth" (KJV/ASV).
-- v.3 — NET: "There is no actual speech or word, nor is its voice literally
-  heard" — adds "actual" and "literally" to emphasize the paradox: creation
-  speaks without words. WEB: "There is no speech nor language, where their
-  voice is not heard" — follows KJV, reading it as universal reach. The
-  ambiguity in Hebrew allows both meanings.
-- v.4 — NET: "its voice echoes throughout the earth" — "echoes" is poetic and
-  captures the universal spread. KJV/ASV: "Their line is gone out" — Hebrew
-  "qavam" (their line/measuring cord) — metaphor of territory claimed by
-  creation's testimony. WEB: "Their voice has gone out through all the earth"
-  — follows LXX/Romans 10:18 reading ("voice" vs. "line").
-- v.7 — NET: "The law of the Lord is perfect and preserves one's life" —
-  renders "meshivat nephesh" as "preserves life" (survival function). KJV:
-  "converting the soul"; ESV: "reviving the soul"; ASV/WEB: "restoring the
-  soul." Each captures a facet: restoration, revival, conversion, preservation.
-  WEB/ASV use "Yahweh's/Jehovah's law" — making the divine name explicit.
-- v.7 — NET: "The rules set down by the Lord are reliable and impart wisdom
-  to the inexperienced" — "inexperienced" interprets Hebrew "peti" (simple/
-  naive) as a matter of experience rather than intelligence. KJV/ESV/ASV/WEB:
-  "making wise the simple."
-- v.12 — NET: "Please do not punish me for sins I am unaware of" — very free
-  paraphrase. KJV: "cleanse thou me from secret faults"; ASV: "Clear thou me
-  from hidden faults"; WEB: "Forgive me from hidden errors." NET emphasizes
-  punishment avoidance; others emphasize cleansing/forgiveness. The Hebrew
-  "naqqeni" = declare innocent, cleanse.
-- v.13 — NET: "keep me from committing flagrant sins; do not allow such sins
-  to control me" — "flagrant" for Hebrew "zedim" (presumptuous/willful sins).
-  KJV/ASV/WEB: "presumptuous sins" — sins committed deliberately, not from
-  weakness. NET also: "blatant rebellion" where KJV/ASV have "great
-  transgression" — making the severity explicit.
-- v.14 — NET: "my sheltering rock and my redeemer" — adds "sheltering" to
-  interpret the rock metaphor. ASV/WEB: "Jehovah/Yahweh, my rock, and my
-  redeemer" — divine name explicit. KJV: "my strength" (interprets "tsuri"
-  rather than translating it as "rock").
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

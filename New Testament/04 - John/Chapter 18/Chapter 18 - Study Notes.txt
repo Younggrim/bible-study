@@ -83,7 +83,7 @@ Charles Spurgeon:
   unbelief — not that men cannot find truth, but that they will not wait
   for the answer. Truth was standing before him. He walked away."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "the brook Cedron" / ESV: "the brook Kidron" — Greek "Kedron" — KJV uses the Anglicized "Cedron"; ESV uses the more accurate transliteration "Kidron." Both refer to the same valley between Jerusalem and the Mount of Olives.
 
@@ -126,7 +126,6 @@ v.38 — KJV: "What is truth?" / ESV: "What is truth?" — Both identical. Greek
        rather than personally. He doesn't wait for an answer.
 
 v.40 — KJV: "Barabbas... was a robber" / ESV: "Barabbas was a robber" — Greek "lēstēs" — Can mean robber, bandit, or insurrectionist. The guilty freed, the innocent condemned — a picture of substitutionary atonement.
-
 
 GLOSSARY
 ------------------------------------

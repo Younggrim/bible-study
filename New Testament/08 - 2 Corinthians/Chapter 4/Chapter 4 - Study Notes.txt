@@ -98,32 +98,12 @@ Charles Spurgeon:
   your suffering against eternal glory, it becomes light. Perspective
   changes everything."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.4  — KJV: "the god of this world" / ESV: Both equivalent. — Greek "ho theos tou aiōnos toutou" —
        Satan as the ruling influence over the current world system. Not that
        he is truly God — but that he functions as a false god over unbelievers.
-
-v.7  — KJV: "earthen vessels" / ESV: "in jars of clay, to show" — Greek "ostrakinois skeuesin" — clay pots,
-       terracotta jars. The cheapest, most fragile containers available.
-       Deliberately chosen to display God's power.
-
-v.16 — KJV: "renewed day by day" / ESV: Both equivalent. — Present tense, continuous action. Internal
-       renewal is not a one-time event but a daily process — even as the body
-       decays.
-
-v.17 — KJV: "light affliction... eternal weight of glory" / ESV: "light momentary affliction is preparing for us an eternal weight" — The contrast is
-       deliberate: "light" vs. "weight"; "moment" vs. "eternal"; "affliction"
-       vs. "glory." The scales are not even close.
-
-v.18 — KJV: "things which are seen are temporal" / ESV: "the things that are seen are transient, but" — Greek "proskaira" —
-       temporary, lasting only for a season. Everything visible is passing
-       away. Only the invisible is permanent.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.4  — NET: "among whom the god of this age has blinded the
+       NET: "among whom the god of this age has blinded the
        minds of those who do not believe" — "the god of this age"
        (ho theos tou aiOnos toutou) = Satan. WEB: "the god of this
        world." KJV: "the god of this world." Satan has temporary
@@ -136,25 +116,38 @@ v.6  — NET: "For God, who said, 'Let light shine out of darkness,'
        Salvation is a new creation act — Genesis 1:3 repeated in
        the soul.
 
-v.7  — NET: "But we have this treasure in clay jars, so that the
+v.7  — KJV: "earthen vessels" / ESV: "in jars of clay, to show" — Greek "ostrakinois skeuesin" — clay pots,
+       terracotta jars. The cheapest, most fragile containers available.
+       Deliberately chosen to display God's power.
+       NET: "But we have this treasure in clay jars, so that the
        extraordinary power belongs to God and does not come from
        us" — "clay jars" (ostrakinos skeuesi = earthenware vessels).
        WEB: "earthen vessels." KJV: "earthen vessels." The treasure
        is the gospel; the container is fragile humanity. The contrast
        is intentional.
 
-v.16 — NET: "our inner person is being renewed day by day" —
+v.16 — KJV: "renewed day by day" / ESV: Both equivalent. — Present tense, continuous action. Internal
+       renewal is not a one-time event but a daily process — even as the body
+       decays.
+       NET: "our inner person is being renewed day by day" —
        "being renewed" (anakainoutai = present passive — continuous
        renewal). WEB: "the inward man is renewed day by day." KJV:
        "the inward man is renewed day by day." Outer decay is
        matched by inner restoration — daily.
 
-v.17 — NET: "For our momentary, light suffering is producing for
+v.17 — KJV: "light affliction... eternal weight of glory" / ESV: "light momentary affliction is preparing for us an eternal weight" — The contrast is
+       deliberate: "light" vs. "weight"; "moment" vs. "eternal"; "affliction"
+       vs. "glory." The scales are not even close.
+       NET: "For our momentary, light suffering is producing for
        us an eternal weight of glory far beyond all comparison" —
        "momentary" vs. "eternal," "light" vs. "weight" — deliberate
        contrasts. WEB: "our light affliction, which is for the
        moment, works for us more and more exceedingly an eternal
        weight of glory." Suffering as productive force.
+
+v.18 — KJV: "things which are seen are temporal" / ESV: "the things that are seen are transient, but" — Greek "proskaira" —
+       temporary, lasting only for a season. Everything visible is passing
+       away. Only the invisible is permanent.
 
 GLOSSARY
 ------------------------------------

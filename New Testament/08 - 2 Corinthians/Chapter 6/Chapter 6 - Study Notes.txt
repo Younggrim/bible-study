@@ -93,31 +93,12 @@ Charles Spurgeon:
   to marriage, business partnerships, and any binding alliance where a
   believer is tied to an unbeliever in a way that compromises their faith."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.2  — KJV: "now is the accepted time" / ESV: "Behold, now is the favorable time" — Greek "kairos" — the opportune
        moment, the right time. Not chronological time (chronos) but decisive
        time — the moment of opportunity that must be seized.
-
-v.10 — KJV: "having nothing, and yet possessing all things" / ESV: "rich; as having nothing, yet possessing everything" — The ultimate
-       paradox: materially poor but spiritually owning everything. "All things
-       are yours" (1 Corinthians 3:21-23).
-
-v.14 — KJV: "unequally yoked" / ESV: Both equivalent. — Greek "heterozugountes" — yoked with a
-       different kind. From Deuteronomy 22:10 — don't yoke an ox and donkey
-       together (different natures, different strengths, different directions).
-
-v.15 — KJV: "Belial" / ESV: Both equivalent. — A Hebrew term for worthlessness/wickedness, used as
-       a name for Satan. Christ and Belial have nothing in common.
-
-v.17 — KJV: "come out from among them" / ESV: "Therefore go out from their midst, and be" — Quoting Isaiah 52:11. Not physical
-       isolation from the world but refusal to be bound in partnerships that
-       compromise holiness.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "now is the acceptable time; now is the day of
+       NET: "now is the acceptable time; now is the day of
        salvation!" — "now" (nyn) repeated for emphasis — quoting
        Isaiah 49:8. WEB: "now is the acceptable time. Behold, now
        is the day of salvation." Urgency of present opportunity.
@@ -128,18 +109,31 @@ v.4  — NET: "as servants of God we commend ourselves in every
        WEB: "in great endurance, in afflictions, in hardships."
        Authentic ministry authenticated by suffering, not success.
 
-v.10 — NET: "as sorrowful, but always rejoicing; as poor, but
+v.10 — KJV: "having nothing, and yet possessing all things" / ESV: "rich; as having nothing, yet possessing everything" — The ultimate
+       paradox: materially poor but spiritually owning everything. "All things
+       are yours" (1 Corinthians 3:21-23).
+       NET: "as sorrowful, but always rejoicing; as poor, but
        making many rich; as having nothing, and yet possessing
        everything" — paradox on paradox — the apostolic life defies
        human categories. WEB: "as sorrowful, yet always rejoicing."
        The Christian life is simultaneously suffering and joy.
 
-v.14 — NET: "Do not become partners with those who do not believe.
+v.14 — KJV: "unequally yoked" / ESV: Both equivalent. — Greek "heterozugountes" — yoked with a
+       different kind. From Deuteronomy 22:10 — don't yoke an ox and donkey
+       together (different natures, different strengths, different directions).
+       NET: "Do not become partners with those who do not believe.
        For what partnership is there between righteousness and
        lawlessness?" — "partners" (heterozygountes = unequally
        yoked). WEB: "Don't be unequally yoked with unbelievers."
        KJV: "Be ye not unequally yoked together with unbelievers."
        The metaphor is agricultural — two different animals in one yoke.
+
+v.15 — KJV: "Belial" / ESV: Both equivalent. — A Hebrew term for worthlessness/wickedness, used as
+       a name for Satan. Christ and Belial have nothing in common.
+
+v.17 — KJV: "come out from among them" / ESV: "Therefore go out from their midst, and be" — Quoting Isaiah 52:11. Not physical
+       isolation from the world but refusal to be bound in partnerships that
+       compromise holiness.
 
 v.18 — NET: "and I will be a father to you, and you will be my
        sons and daughters" — "sons and daughters" — quoting/adapting

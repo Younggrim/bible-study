@@ -86,49 +86,43 @@ Charles Spurgeon:
   arm — the finger. What Jesus does effortlessly, with a mere touch, Satan
   cannot resist. That is the power differential between Christ and the enemy."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV includes "which art in heaven" and "Thy will be done, as in heaven,
        so in earth" / ESV: "Father, hallowed be your name. Your kingdom come."
        — These phrases are absent from many manuscripts of Luke (ESV/NET omit
        them). They may have been added from Matthew's version. Luke's original
        prayer may have been shorter.
-
-v.8  — KJV: "because of his importunity" / ESV: "because of his impudence"
-       — Greek "anaideia" — shamelessness, boldness, persistence without
-       embarrassment. The point: pray boldly, without shame, without giving up.
-
-v.13 — KJV: "give the Holy Spirit" / ESV: "give the Holy Spirit" — Both
-       identical. Matthew 7:11: "give good things." Luke specifies the
-       greatest "good thing" God gives: the Holy Spirit Himself. This is the
-       ultimate answer to prayer — God giving us Himself.
-
-v.20 — KJV: "the finger of God" / ESV: "the finger of God" — Both identical.
-       Matthew 12:28: "the Spirit of God." Both refer to God's direct power.
-       "Finger of God" echoes Exodus 8:19 — connecting Jesus' work to God's
-       work in the Exodus.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "Father, may your name be honored; may your
+       NET: "Father, may your name be honored; may your
        kingdom come" — Luke's Lord's Prayer is shorter than
        Matthew's version. No "Our" before Father, no "who art in
        heaven," no "Thy will be done." WEB: "Our Father in heaven,
        may your name be kept holy." WEB follows the longer reading.
 
-v.8  — NET: "because of his sheer persistence he will get up and
+v.8  — KJV: "because of his importunity" / ESV: "because of his impudence"
+       — Greek "anaideia" — shamelessness, boldness, persistence without
+       embarrassment. The point: pray boldly, without shame, without giving up.
+       NET: "because of his sheer persistence he will get up and
        give him whatever he needs" — "sheer persistence" (anaideian
        = shamelessness/boldness). KJV: "because of his importunity."
        WEB: "because of his persistence." Not about friendship but
        relentless asking.
 
-v.13 — NET: "how much more will the heavenly Father give the Holy
+v.13 — KJV: "give the Holy Spirit" / ESV: "give the Holy Spirit" — Both
+       identical. Matthew 7:11: "give good things." Luke specifies the
+       greatest "good thing" God gives: the Holy Spirit Himself. This is the
+       ultimate answer to prayer — God giving us Himself.
+       NET: "how much more will the heavenly Father give the Holy
        Spirit to those who ask him!" — Luke has "Holy Spirit" where
        Matthew has "good things" (7:11). This is distinctly Lukan
        — the supreme gift of prayer is the Spirit Himself. WEB:
        "give the Holy Spirit to those who ask him."
 
-v.20 — NET: "But if I cast out demons by the finger of God, then
+v.20 — KJV: "the finger of God" / ESV: "the finger of God" — Both identical.
+       Matthew 12:28: "the Spirit of God." Both refer to God's direct power.
+       "Finger of God" echoes Exodus 8:19 — connecting Jesus' work to God's
+       work in the Exodus.
+       NET: "But if I cast out demons by the finger of God, then
        the kingdom of God has already overtaken you" — "finger of
        God" (Luke) vs. "Spirit of God" (Matthew). WEB: "by the
        finger of God." The allusion is to Exodus 8:19 — the

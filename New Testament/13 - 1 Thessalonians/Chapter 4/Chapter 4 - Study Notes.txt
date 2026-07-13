@@ -107,10 +107,15 @@ Charles Spurgeon:
  reunion. We weep, but not as those for whom death is the end. For us,
  death is a sleep from which Christ will wake our loved ones."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3 — KJV: "sanctification" / ESV: Both equivalent. — Greek "hagiasmos" — the process of being
  made holy, set apart. Here specifically applied to sexual purity.
+       NET: "For this is God's will: that you become holy, that
+       you keep away from sexual immorality" — "become holy"
+       (hagiasmos = sanctification/holiness as process). WEB: "your
+       sanctification." KJV: "even your sanctification." God's will
+       is not mysterious here — it is moral purity.
 
 v.4 — KJV: "possess his vessel" / ESV: "control his own body" — Greek "skeuos" — vessel, instrument.
  Debated: (1) "vessel" = one's own body (control your body), or (2)
@@ -125,45 +130,26 @@ v.6 — KJV: "go beyond and defraud his brother" / ESV: "transgress and wrong hi
 v.11 — KJV: "study to be quiet" / ESV: "aspire to live quietly" — Greek "philotimeisthai hēsuchazein" —
  make it your ambition to live quietly. A paradox: be ambitious about
  being unambitious. Aspire to a simple, faithful life.
-
-v.13 — KJV: "them which are asleep" / ESV: "asleep" — Greek "koimōmenōn" — those who have
- fallen asleep. A Christian euphemism for death — implying it is
- temporary, like sleep, with an awakening to come.
-
-v.15 — KJV: "prevent" / ESV: "precede" — Greek "phthasōmen" — to precede, go before. Old
- English "prevent" = go before. ESV: "will not precede." Living
- believers will not have an advantage over the dead.
-
-v.17 — KJV: "caught up" / ESV: Both equivalent. — Greek "harpagēsometha" — snatched up, seized,
- raptured. Latin Vulgate: "rapiemur" — root of English "rapture."
- A sudden, powerful, divine seizure.
-
-v.17 — KJV: "in the clouds" / ESV: Both equivalent. — Clouds as the vehicle of divine presence
- (cf. Acts 1:9, Dan 7:13, Rev 1:7). "To meet the Lord in the air" —
- Greek "apantēsis" — a technical term for citizens going out to meet
- a dignitary and escort him back into the city.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "For this is God's will: that you become holy, that
-       you keep away from sexual immorality" — "become holy"
-       (hagiasmos = sanctification/holiness as process). WEB: "your
-       sanctification." KJV: "even your sanctification." God's will
-       is not mysterious here — it is moral purity.
-
-v.11 — NET: "to aspire to lead a quiet life, to attend to your
+       NET: "to aspire to lead a quiet life, to attend to your
        own business, and to work with your hands" — "aspire"
        (philotimeisthai = make it your ambition). WEB: "aspire to
        live quietly." The paradox: be AMBITIOUS about being QUIET.
        The Thessalonians had become busybodies due to eschatological
        excitement.
 
-v.13 — NET: "we do not want you to be uninformed about those who
+v.13 — KJV: "them which are asleep" / ESV: "asleep" — Greek "koimōmenōn" — those who have
+ fallen asleep. A Christian euphemism for death — implying it is
+ temporary, like sleep, with an awakening to come.
+       NET: "we do not want you to be uninformed about those who
        are asleep, so that you will not grieve like the rest who
        have no hope" — "asleep" (koimOmenOn = sleeping — euphemism
        for death). WEB: "concerning those who have fallen asleep."
        Christian grief is not hopeless — it is informed by
        resurrection promise.
+
+v.15 — KJV: "prevent" / ESV: "precede" — Greek "phthasōmen" — to precede, go before. Old
+ English "prevent" = go before. ESV: "will not precede." Living
+ believers will not have an advantage over the dead.
 
 v.16 — NET: "the Lord himself will come down from heaven with a
        shout of command, with the voice of the archangel, and with
@@ -172,7 +158,22 @@ v.16 — NET: "the Lord himself will come down from heaven with a
        Three sounds: command, archangel's voice, trumpet. Military
        imagery — the King arrives.
 
-v.17 — NET: "we who are alive, who are left, will be suddenly
+v.17 — KJV: "caught up" / ESV: Both equivalent. — Greek "harpagēsometha" — snatched up, seized,
+ raptured. Latin Vulgate: "rapiemur" — root of English "rapture."
+ A sudden, powerful, divine seizure.
+       NET: "we who are alive, who are left, will be suddenly
+       caught up together with them in the clouds to meet the Lord
+       in the air" — "caught up" (harpagEsometha = snatched/seized
+       — Latin: rapturo, English: rapture). WEB: "will be caught up
+       together with them in the clouds." KJV: "shall be caught up
+       together with them in the clouds." The only explicit rapture
+       text in the NT.
+
+v.17 — KJV: "in the clouds" / ESV: Both equivalent. — Clouds as the vehicle of divine presence
+ (cf. Acts 1:9, Dan 7:13, Rev 1:7). "To meet the Lord in the air" —
+ Greek "apantēsis" — a technical term for citizens going out to meet
+ a dignitary and escort him back into the city.
+       NET: "we who are alive, who are left, will be suddenly
        caught up together with them in the clouds to meet the Lord
        in the air" — "caught up" (harpagEsometha = snatched/seized
        — Latin: rapturo, English: rapture). WEB: "will be caught up

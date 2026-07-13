@@ -83,16 +83,32 @@ Charles Spurgeon:
   chose Paul. Before he was born, he was set apart. That is sovereign
   grace — God's choice preceding human response."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.4  — NET: "who gave himself for our sins to rescue us from
+       this present evil age" — "rescue" (exelEtai = deliver/
+       extract). WEB: "who gave himself for our sins, that he
+       might deliver us out of this present evil age." KJV: "that
+       he might deliver us from this present evil world." The cross
+       as rescue operation from an evil system.
 
 v.6  — KJV: "another gospel" / ESV: "to a different gospel" — Greek "heteron euangelion" — a different kind
        of gospel. Then Paul corrects: "which is not another" (v.7) — Greek
        "allo" — there is no other gospel of the same kind. There is only ONE
        Gospel.
+       NET: "I am astonished that you are so quickly deserting
+       the one who called you by the grace of Christ" — "astonished"
+       (thaumazO = amazed/marvel). WEB: "I marvel that you are so
+       quickly deserting." No thanksgiving section — Paul is too
+       upset. This is the angriest letter in the NT.
 
 v.8  — KJV: "accursed" / ESV: Both equivalent. — Greek "anathema" — devoted to destruction, under
        God's curse. The strongest condemnation Paul ever pronounces.
+       NET: "But even if we or an angel from heaven should preach
+       a gospel contrary to the one we preached to you, let him be
+       condemned to hell!" — "condemned to hell" (anathema estO).
+       WEB: "let him be cursed." KJV: "let him be accursed." NET
+       intensifies the translation; the Greek is a solemn curse.
 
 v.10 — KJV: "do I seek to please men?" / ESV: "or of God? Or am I trying to please man?" — Paul's critics accused him of
        people-pleasing (softening the Gospel for Gentiles). His response:
@@ -105,29 +121,7 @@ v.12 — KJV: "by the revelation of Jesus Christ" / ESV: "received it through a 
 v.15 — KJV: "separated me from my mother's womb" / ESV: "But when he who had set me apart before I was born" — Echoing Jeremiah 1:5 and
        Isaiah 49:1. Paul's calling was predetermined before birth — sovereign
        election.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.4  — NET: "who gave himself for our sins to rescue us from
-       this present evil age" — "rescue" (exelEtai = deliver/
-       extract). WEB: "who gave himself for our sins, that he
-       might deliver us out of this present evil age." KJV: "that
-       he might deliver us from this present evil world." The cross
-       as rescue operation from an evil system.
-
-v.6  — NET: "I am astonished that you are so quickly deserting
-       the one who called you by the grace of Christ" — "astonished"
-       (thaumazO = amazed/marvel). WEB: "I marvel that you are so
-       quickly deserting." No thanksgiving section — Paul is too
-       upset. This is the angriest letter in the NT.
-
-v.8  — NET: "But even if we or an angel from heaven should preach
-       a gospel contrary to the one we preached to you, let him be
-       condemned to hell!" — "condemned to hell" (anathema estO).
-       WEB: "let him be cursed." KJV: "let him be accursed." NET
-       intensifies the translation; the Greek is a solemn curse.
-
-v.15 — NET: "set me apart from birth and called me by his grace"
+       NET: "set me apart from birth and called me by his grace"
        — "set apart from birth" (aphorisas me ek koilias mEtros
        mou = separated me from my mother's womb). WEB: "separated
        me from my mother's womb." Echoes Jeremiah 1:5 — prophetic

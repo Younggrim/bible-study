@@ -97,14 +97,26 @@ Charles Spurgeon:
   discerned. That is how decisions should be made — not by human wisdom
   alone but by the Spirit's leading confirmed by the community."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.9  — NET: "he made no distinction between us and them,
+       cleansing their hearts by faith" — Peter's argument at the
+       Jerusalem Council. "No distinction" (ouden diekrinen). WEB:
+       "making no distinction between us and them." The Spirit
+       treats Jew and Gentile identically.
+
 v.10 — KJV: "a yoke... which neither our fathers nor we were able to bear" /
        ESV: "a yoke on the neck of the disciples that neither our fathers nor
        we have been able to bear" — Both equivalent. Peter describes the
        Mosaic Law as an unbearable yoke. This is remarkable coming from a
        Jewish apostle — he acknowledges that no one could keep the Law
        perfectly.
+       NET: "why are you putting God to the test by placing on
+       the neck of the disciples a yoke that neither our ancestors
+       nor we have been able to bear?" — "a yoke" (zygon) — the
+       Law as impossible burden. WEB: "a yoke on the neck of the
+       disciples which neither our fathers nor we were able to
+       bear." Honest Jewish admission.
 
 v.11 — KJV: "through the grace of the Lord Jesus Christ we shall be saved,
        even as they" / ESV: "we will be saved through the grace of the Lord
@@ -112,6 +124,12 @@ v.11 — KJV: "through the grace of the Lord Jesus Christ we shall be saved,
        says Jews are saved the same way Gentiles are (by grace), not that
        Gentiles must be saved the way Jews were (by law). Grace is the
        standard, not law.
+       NET: "we believe that we are saved through the grace of
+       the Lord Jesus, in the same way as they are" — "in the same
+       way as THEY are" — remarkable reversal. Not "Gentiles saved
+       like Jews" but "Jews saved like Gentiles" — by grace alone.
+       WEB: "we believe that we are saved through the grace of the
+       Lord Jesus, just as they are."
 
 v.20 — KJV: "pollutions of idols, fornication, things strangled, blood" /
        ESV: "things polluted by idols, sexual immorality, what has been
@@ -125,30 +143,7 @@ v.28 — KJV: "It seemed good to the Holy Ghost, and to us" / ESV: "it has
        church's decision-making process: the Spirit's guidance confirmed by
        the community's discernment. Neither purely subjective nor purely
        democratic.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.9  — NET: "he made no distinction between us and them,
-       cleansing their hearts by faith" — Peter's argument at the
-       Jerusalem Council. "No distinction" (ouden diekrinen). WEB:
-       "making no distinction between us and them." The Spirit
-       treats Jew and Gentile identically.
-
-v.10 — NET: "why are you putting God to the test by placing on
-       the neck of the disciples a yoke that neither our ancestors
-       nor we have been able to bear?" — "a yoke" (zygon) — the
-       Law as impossible burden. WEB: "a yoke on the neck of the
-       disciples which neither our fathers nor we were able to
-       bear." Honest Jewish admission.
-
-v.11 — NET: "we believe that we are saved through the grace of
-       the Lord Jesus, in the same way as they are" — "in the same
-       way as THEY are" — remarkable reversal. Not "Gentiles saved
-       like Jews" but "Jews saved like Gentiles" — by grace alone.
-       WEB: "we believe that we are saved through the grace of the
-       Lord Jesus, just as they are."
-
-v.28 — NET: "For it seemed best to the Holy Spirit and to us" —
+       NET: "For it seemed best to the Holy Spirit and to us" —
        "the Holy Spirit and to us" — divine and human agreement.
        WEB: "it seemed good to the Holy Spirit, and to us." KJV:
        "it seemed good to the Holy Ghost, and to us." The Spirit

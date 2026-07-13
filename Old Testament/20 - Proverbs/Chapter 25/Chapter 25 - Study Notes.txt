@@ -119,8 +119,14 @@ Charles Spurgeon:
   every passion rules him. He is not a fortress — he is a ruin.
   Build your walls, Christian. Let the Spirit of God build what
   your flesh cannot maintain."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.1  — KJV: "the men of Hezekiah... copied out" / ESV: "copied" —
+       Hebrew "he'thiqu" = to move, transfer, transcribe. These
+       scribes collected and transcribed Solomonic proverbs from
+       various sources into a unified collection — an ancient
+       editorial and scribal process of canonical formation.
+
 v.11 — KJV: "apples of gold in pictures of silver" / ESV: "apples
        of gold in a setting of silver" — Hebrew "tappuche zahav
        b'maskiyyoth keseph." "Pictures" (KJV) is better rendered
@@ -128,13 +134,6 @@ v.11 — KJV: "apples of gold in pictures of silver" / ESV: "apples
        baskets. "Apples" may refer to apricots, oranges, or
        ornamental golden fruit. The image: exquisite content in an
        equally exquisite frame.
-
-v.22 — KJV: "heap coals of fire upon his head" / ESV: same — The
-       metaphor's origin is debated. Egyptian parallels suggest a
-       ritual of carrying burning coals on the head as a sign of
-       repentance/shame. Others interpret it as the burning pain of
-       conviction. Paul quotes this in Romans 12:20 without
-       explaining the metaphor, treating it as self-evident.
 
 v.20 — KJV: "As he that taketh away a garment in cold weather, and
        as vinegar upon nitre" / ESV: "Like one who takes off a
@@ -144,11 +143,12 @@ v.20 — KJV: "As he that taketh away a garment in cold weather, and
        songs to a heavy heart is equally destructive and
        inappropriate.
 
-v.1  — KJV: "the men of Hezekiah... copied out" / ESV: "copied" —
-       Hebrew "he'thiqu" = to move, transfer, transcribe. These
-       scribes collected and transcribed Solomonic proverbs from
-       various sources into a unified collection — an ancient
-       editorial and scribal process of canonical formation.
+v.22 — KJV: "heap coals of fire upon his head" / ESV: same — The
+       metaphor's origin is debated. Egyptian parallels suggest a
+       ritual of carrying burning coals on the head as a sign of
+       repentance/shame. Others interpret it as the burning pain of
+       conviction. Paul quotes this in Romans 12:20 without
+       explaining the metaphor, treating it as self-evident.
 
 GLOSSARY
 ------------------------------------

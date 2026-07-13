@@ -93,7 +93,7 @@ Charles Spurgeon:
   to recognize what God is doing in you. Do not be discouraged by the
   rejection of those closest to you."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.4  — KJV: "by every word of God" / ESV: "Man shall not live by bread
        alone" — The ESV omits "by every word of God" following some
@@ -109,22 +109,18 @@ v.18 — KJV: "to heal the brokenhearted" / ESV: omits this phrase — This
        phrase is absent from some manuscripts of Luke (ESV omits it) but
        present in Isaiah 61:1. Its inclusion or omission doesn't change the
        meaning — Jesus' mission includes healing broken hearts.
+       NET: "The Spirit of the Lord is upon me, because he
+       has anointed me to proclaim good news to the poor" — Jesus
+       reads Isaiah 61:1-2. NET: "proclaim good news" vs. KJV
+       "preach the gospel." WEB: "preach good news to the poor."
+       The mission statement of Jesus' ministry.
 
 v.19 — KJV: "the acceptable year of the Lord" / ESV: "the year of the
        Lord's favor" — Both equivalent. Greek "eniautos kuriou dektos." A
        reference to the Year of Jubilee (Leviticus 25) — when debts were
        cancelled, slaves freed, and land returned. Jesus is the ultimate
        Jubilee — permanent freedom.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.18 — NET: "The Spirit of the Lord is upon me, because he
-       has anointed me to proclaim good news to the poor" — Jesus
-       reads Isaiah 61:1-2. NET: "proclaim good news" vs. KJV
-       "preach the gospel." WEB: "preach good news to the poor."
-       The mission statement of Jesus' ministry.
-
-v.19 — NET: "to proclaim the year of the Lord's favor" — Jesus
+       NET: "to proclaim the year of the Lord's favor" — Jesus
        STOPS reading mid-sentence. Isaiah 61:2 continues "and the
        day of vengeance of our God" — but Jesus omits the judgment
        clause. All translations show this. His first coming is

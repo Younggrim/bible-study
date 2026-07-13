@@ -94,43 +94,39 @@ Charles Spurgeon:
   human generosity is a faint echo of God's generosity in giving His Son.
   You will never out-give God."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.6  — KJV: "bountifully" / ESV: Both equivalent. — Greek "ep' eulogiais" — literally "upon
        blessings." Sow with blessings and you reap blessings. The harvest
        matches the sowing.
-
-v.7  — KJV: "cheerful" / ESV: Both equivalent. — Greek "hilaron" — joyful, glad, hilarious. The
-       source of our word "hilarious." God loves giving that is done with
-       genuine joy.
-
-v.7  — KJV: "purposeth in his heart" / ESV: "give as he has decided in his heart" — Planned, deliberate, decided in
-       advance. Not impulsive or pressured but thoughtful and intentional.
-
-v.8  — KJV: "all grace... all sufficiency... all things... every good work" / ESV: "grace abound to you, so that having all sufficiency in all"
-       — Five comprehensive terms. God's provision is total — He gives
-       everything needed for everything He calls you to do.
-
-v.15 — KJV: "unspeakable gift" / ESV: "his inexpressible gift!" — Greek "anekdiēgētō" — indescribable,
-       beyond words. Christ is a gift so great that language cannot capture it.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.6  — NET: "the person who sows generously will also reap
+       NET: "the person who sows generously will also reap
        generously" — "generously" (ep' eulogiais = upon blessings).
        WEB: "He who sows bountifully will also reap bountifully."
        KJV: "He which soweth bountifully shall reap also
        bountifully." Agricultural law applied to giving — the
        harvest matches the sowing.
 
-v.7  — NET: "Each one of you should give just as he has decided
+v.7  — KJV: "cheerful" / ESV: Both equivalent. — Greek "hilaron" — joyful, glad, hilarious. The
+       source of our word "hilarious." God loves giving that is done with
+       genuine joy.
+       NET: "Each one of you should give just as he has decided
        in his heart, not reluctantly or under compulsion, because
        God loves a cheerful giver" — "cheerful" (hilaron = joyful/
        glad — English "hilarious" derives from this). WEB: "God
        loves a cheerful giver." Compelled giving contradicts grace.
 
-v.8  — NET: "And God is able to make all grace overflow to you so
+v.7  — KJV: "purposeth in his heart" / ESV: "give as he has decided in his heart" — Planned, deliberate, decided in
+       advance. Not impulsive or pressured but thoughtful and intentional.
+       NET: "Each one of you should give just as he has decided
+       in his heart, not reluctantly or under compulsion, because
+       God loves a cheerful giver" — "cheerful" (hilaron = joyful/
+       glad — English "hilarious" derives from this). WEB: "God
+       loves a cheerful giver." Compelled giving contradicts grace.
+
+v.8  — KJV: "all grace... all sufficiency... all things... every good work" / ESV: "grace abound to you, so that having all sufficiency in all"
+       — Five comprehensive terms. God's provision is total — He gives
+       everything needed for everything He calls you to do.
+       NET: "And God is able to make all grace overflow to you so
        that because you always have enough of everything, you may
        overflow in every good work" — "all grace... always... enough
        of everything... every good work" — comprehensive provision.
@@ -143,7 +139,9 @@ v.10 — NET: "will supply and multiply your seed for sowing and
        and increase the fruits of your righteousness." God supplies
        the resources to be generous — He funds what He commands.
 
-v.15 — NET: "Thanks be to God for his indescribable gift!" —
+v.15 — KJV: "unspeakable gift" / ESV: "his inexpressible gift!" — Greek "anekdiēgētō" — indescribable,
+       beyond words. Christ is a gift so great that language cannot capture it.
+       NET: "Thanks be to God for his indescribable gift!" —
        "indescribable" (anekdiEgEtO = beyond words/inexpressible).
        WEB: "Thanks be to God for his unspeakable gift!" KJV:
        "Thanks be unto God for his unspeakable gift." The ultimate

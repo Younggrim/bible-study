@@ -117,7 +117,7 @@ Charles Spurgeon:
  go. The Christian life is not a vacation but a campaign. Put on your armor
  and fight."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.5 — KJV: "supposing that gain is godliness" / ESV: "godliness is a means of gain" — Greek "nomizontōn porismon
  einai tēn eusebeian" — thinking godliness is a means of profit. Using
@@ -127,6 +127,12 @@ v.6 — KJV: "contentment" / ESV: Both equivalent. — Greek "autarkeia" — sel
  independence from external circumstances. Same word Paul uses in
  Philippians 4:11. Not self-sufficiency apart from God but sufficiency
  in God apart from circumstances.
+       NET: "godliness with contentment is great gain" —
+       "contentment" (autarkeias = self-sufficiency/satisfaction
+       with what one has). WEB: "godliness with contentment is
+       great gain." KJV: "godliness with contentment is great
+       gain." The combination — not godliness alone, not
+       contentment alone, but both together.
 
 v.9 — KJV: "will be rich" / ESV: "rich" — Greek "boulomenoi ploutein" — those who
  determine/resolve to be rich. Not those who happen to have wealth but
@@ -135,13 +141,29 @@ v.9 — KJV: "will be rich" / ESV: "rich" — Greek "boulomenoi ploutein" — th
 v.10 — KJV: "the root of all evil" / ESV: "root of all kinds of evils" — Greek "rhiza pantōn tōn kakōn" — a
  root of all kinds of evil. Some translations: "a root of all kinds of
  evils." The love of money is behind every category of sin.
+       NET: "For the love of money is the root of all evils" —
+       "root of ALL evils" (rhiza pantOn tOn kakOn). WEB: "the
+       love of money is a root of all kinds of evil." KJV: "the
+       love of money is the root of all evil." Note: love of money,
+       not money itself. NET/KJV: "all evils"; WEB: "all kinds of
+       evil" — the scope is debated.
 
 v.12 — KJV: "fight" / ESV: Both equivalent. — Greek "agōnizou" — agonize, contend, compete. Root
  of English "agonize." The Christian life requires intense effort.
  "Lay hold" — Greek "epilabou" — seize, grab firmly.
+       NET: "Compete well for the faith and be grasped by eternal
+       life" — "compete" (agOnizou = agonize/strive). WEB: "Fight
+       the good fight of faith." KJV: "Fight the good fight of
+       faith." Athletic/military imagery — active exertion, not
+       passive reception.
 
 v.15 — KJV: "Potentate" / ESV: "Sovereign" — Greek "dunastēs" — sovereign ruler, one with
  absolute power. "King of kings" — supreme over all earthly rulers.
+       NET: "the blessed and only Sovereign, the King of kings
+       and Lord of lords" — "Sovereign" (dynastEs = Potentate/
+       Ruler). WEB: "the blessed and only Ruler." KJV: "the
+       blessed and only Potentate." A title later applied to
+       Christ (Rev 19:16) here applied to God.
 
 v.16 — KJV: "dwelling in the light which no man can approach unto" / ESV: "unapproachable light" — God's
  unapproachable holiness. His glory is so intense that no mortal can
@@ -151,40 +173,16 @@ v.16 — KJV: "dwelling in the light which no man can approach unto" / ESV: "una
 v.20 — KJV: "that which is committed to thy trust" / ESV: "entrusted" — Greek "tēn
  parathēkēn" — the deposit, the entrusted treasure. The body of
  apostolic truth entrusted to Timothy to guard and pass on.
+       NET: "guard what has been entrusted to you" — "what has
+       been entrusted" (tEn parathEkEn = the deposit). WEB: "guard
+       that which is committed to you." KJV: "keep that which is
+       committed to thy trust." The gospel is a deposit to be
+       guarded, not a product to be innovated upon.
 
 v.20 — KJV: "science falsely so called" / ESV: "falsely called" — Greek "pseudōnumou gnōseōs" —
  falsely named knowledge. Early Gnosticism — claiming special
  "knowledge" (gnōsis) that contradicted the gospel.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.6  — NET: "godliness with contentment is great gain" —
-       "contentment" (autarkeias = self-sufficiency/satisfaction
-       with what one has). WEB: "godliness with contentment is
-       great gain." KJV: "godliness with contentment is great
-       gain." The combination — not godliness alone, not
-       contentment alone, but both together.
-
-v.10 — NET: "For the love of money is the root of all evils" —
-       "root of ALL evils" (rhiza pantOn tOn kakOn). WEB: "the
-       love of money is a root of all kinds of evil." KJV: "the
-       love of money is the root of all evil." Note: love of money,
-       not money itself. NET/KJV: "all evils"; WEB: "all kinds of
-       evil" — the scope is debated.
-
-v.12 — NET: "Compete well for the faith and be grasped by eternal
-       life" — "compete" (agOnizou = agonize/strive). WEB: "Fight
-       the good fight of faith." KJV: "Fight the good fight of
-       faith." Athletic/military imagery — active exertion, not
-       passive reception.
-
-v.15 — NET: "the blessed and only Sovereign, the King of kings
-       and Lord of lords" — "Sovereign" (dynastEs = Potentate/
-       Ruler). WEB: "the blessed and only Ruler." KJV: "the
-       blessed and only Potentate." A title later applied to
-       Christ (Rev 19:16) here applied to God.
-
-v.20 — NET: "guard what has been entrusted to you" — "what has
+       NET: "guard what has been entrusted to you" — "what has
        been entrusted" (tEn parathEkEn = the deposit). WEB: "guard
        that which is committed to you." KJV: "keep that which is
        committed to thy trust." The gospel is a deposit to be

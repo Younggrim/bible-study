@@ -94,36 +94,7 @@ Charles Spurgeon:
   'Make sure Peter knows.' That is the Gospel — the worst failure is not
   excluded from the greatest grace."
 
-TRANSLATION NOTES
-------------------------------------
-v.6  — KJV: "He is risen; he is not here" / ESV: "He has risen; he is not
-       here" — Both equivalent. The ESV uses "has risen" (perfect tense)
-       emphasizing the completed action with ongoing results.
-
-v.8  — KJV: "neither said they any thing to any man; for they were afraid" /
-       ESV: "and they said nothing to anyone, for they were afraid" — Both
-       equivalent. If this is Mark's original ending, it is deliberately
-       abrupt and open-ended. The Greek ends with "gar" (for) — an unusual
-       way to end a book, creating suspense and inviting the reader to respond.
-
-v.9-20 — KJV includes these verses without notation. ESV brackets them with
-       the note: "Some of the earliest manuscripts do not include 16:9–20."
-       These verses are absent from the two oldest manuscripts. They summarize
-       resurrection appearances found in the other Gospels and Acts. Whether
-       original to Mark or added later, their content is consistent with the
-       rest of the NT.
-
-v.15 — KJV: "preach the gospel to every creature" / ESV: "proclaim the gospel
-       to the whole creation" — Both equivalent. Greek "pase te ktisei" — "all
-       creation" or "every creature." The scope is universal — no person, no
-       nation, no people group is excluded from the Gospel's reach.
-
-v.19 — KJV: "sat on the right hand of God" / ESV: "sat down at the right hand
-       of God" — Both equivalent. The position of authority, honor, and
-       intercession. Jesus' earthly ministry is complete; His heavenly ministry
-       of intercession continues.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — NET: "When the Sabbath was over, Mary Magdalene, Mary
        the mother of James, and Salome bought aromatic spices so
@@ -142,17 +113,42 @@ v.5  — NET: "they saw a young man dressed in a white robe sitting
        "angel" (Matthew's term). Mark's restraint here is
        characteristic. WEB: "a young man." KJV: "a young man."
 
-v.6  — NET: "He has been raised! He is not here" — "has been
+v.6  — KJV: "He is risen; he is not here" / ESV: "He has risen; he is not
+       here" — Both equivalent. The ESV uses "has risen" (perfect tense)
+       emphasizing the completed action with ongoing results.
+       NET: "He has been raised! He is not here" — "has been
        raised" (passive: God raised Him) vs. KJV "He is risen"
        (intransitive: He rose). The theological nuance: both are
        true, but the passive emphasizes the Father's action.
 
-v.8  — NET: "They went out and ran from the tomb, for terror and
+v.8  — KJV: "neither said they any thing to any man; for they were afraid" /
+       ESV: "and they said nothing to anyone, for they were afraid" — Both
+       equivalent. If this is Mark's original ending, it is deliberately
+       abrupt and open-ended. The Greek ends with "gar" (for) — an unusual
+       way to end a book, creating suspense and inviting the reader to respond.
+       NET: "They went out and ran from the tomb, for terror and
        bewilderment had seized them. And they said nothing to
        anyone, because they were afraid" — Mark's original ending
        (most scholars agree 16:9-20 was added later). The abrupt
        ending on fear is deliberately shocking. WEB includes the
        longer ending; NET brackets it with a note.
+
+v.9-20 — KJV includes these verses without notation. ESV brackets them with
+       the note: "Some of the earliest manuscripts do not include 16:9–20."
+       These verses are absent from the two oldest manuscripts. They summarize
+       resurrection appearances found in the other Gospels and Acts. Whether
+       original to Mark or added later, their content is consistent with the
+       rest of the NT.
+
+v.15 — KJV: "preach the gospel to every creature" / ESV: "proclaim the gospel
+       to the whole creation" — Both equivalent. Greek "pase te ktisei" — "all
+       creation" or "every creature." The scope is universal — no person, no
+       nation, no people group is excluded from the Gospel's reach.
+
+v.19 — KJV: "sat on the right hand of God" / ESV: "sat down at the right hand
+       of God" — Both equivalent. The position of authority, honor, and
+       intercession. Jesus' earthly ministry is complete; His heavenly ministry
+       of intercession continues.
 
 GLOSSARY
 ------------------------------------

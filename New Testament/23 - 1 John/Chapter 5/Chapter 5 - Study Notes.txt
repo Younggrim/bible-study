@@ -100,17 +100,29 @@ Charles Spurgeon:
  Christ. You get Christ, and life comes with Him. Have Him, have life. Don't
  have Him, don't have life. It's that simple."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3 — KJV: "his commandments are not grievous" / ESV: "his commandments are
  not burdensome" — Greek "bareiai ouk eisin" — not heavy, not
  burdensome. God's commands are not oppressive — they are the path of
  freedom, not bondage.
+       NET: "For this is the love of God: that we keep his
+       commandments. And his commandments do not weigh us down" —
+       "do not weigh us down" (bareiai ouk eisin = are not heavy/
+       burdensome). WEB: "his commandments are not grievous." KJV:
+       "his commandments are not grievous." Obedience is not
+       oppressive for the born-again — love makes duty light.
 
 v.4 — KJV: "overcometh the world" / ESV: "overcomes the world" — Greek
  "nikōsa" — conquers, is victorious over. Present tense: keeps on
  overcoming. "Our faith" — Greek "hē pistis hēmōn" — THE faith, our
  faith. Faith is the instrument of victory.
+       NET: "this is the conquering power that has conquered the
+       world: our faith" — "conquering power" (nikE = victory).
+       WEB: "this is the victory that has overcome the world: our
+       faith." KJV: "this is the victory that overcometh the world,
+       even our faith." Faith IS the victory — not produces it
+       but IS it.
 
 v.6 — KJV: "came by water and blood" / ESV: Both equivalent. — Christ's
  baptism (beginning of ministry) and cross (end of ministry). Against
@@ -122,11 +134,22 @@ v.7-8 — KJV includes the "Johannine Comma" (v.7b-8a): "the Father, the
  that bear witness in earth" — ESV omits this, following most early
  Greek manuscripts. Most scholars consider it a later addition. The
  doctrine of the Trinity is established elsewhere regardless.
+       NET: "For there are three that testify" — the longer
+       reading (Comma Johanneum: "in heaven, the Father, the Word,
+       and the Holy Ghost") is found in KJV but NOT in NET/ESV/WEB/
+       ASV. It is absent from all Greek manuscripts before the 16th
+       century. NET omits it following all early manuscript evidence.
 
 v.13 — KJV: "that ye may KNOW that ye have eternal life" / ESV: "that you
  may know that you have eternal life" — Both equivalent. Greek "eidēte"
  — that you may know with certainty. John's stated purpose: assurance
  of salvation.
+       NET: "I have written these things to you who believe in
+       the name of the Son of God so that you may know that you
+       have eternal life" — "that you may KNOW" (hina eidEte =
+       that you may have settled knowledge). WEB: "that you may
+       know that you have eternal life." Assurance is possible and
+       intended — John writes for certainty, not doubt.
 
 v.16 — KJV: "sin unto death" / ESV: "sin that leads to death" — Debated.
  Options: (1) physical death as discipline (cf. Acts 5, 1 Cor 11:30),
@@ -142,37 +165,7 @@ v.21 — KJV: "keep yourselves from idols" / ESV: Both equivalent. — An
  abrupt ending. Anything that takes God's place is an idol. After a
  letter about knowing the true God, the final word: don't substitute
  anything for Him.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "For this is the love of God: that we keep his
-       commandments. And his commandments do not weigh us down" —
-       "do not weigh us down" (bareiai ouk eisin = are not heavy/
-       burdensome). WEB: "his commandments are not grievous." KJV:
-       "his commandments are not grievous." Obedience is not
-       oppressive for the born-again — love makes duty light.
-
-v.4  — NET: "this is the conquering power that has conquered the
-       world: our faith" — "conquering power" (nikE = victory).
-       WEB: "this is the victory that has overcome the world: our
-       faith." KJV: "this is the victory that overcometh the world,
-       even our faith." Faith IS the victory — not produces it
-       but IS it.
-
-v.7  — NET: "For there are three that testify" — the longer
-       reading (Comma Johanneum: "in heaven, the Father, the Word,
-       and the Holy Ghost") is found in KJV but NOT in NET/ESV/WEB/
-       ASV. It is absent from all Greek manuscripts before the 16th
-       century. NET omits it following all early manuscript evidence.
-
-v.13 — NET: "I have written these things to you who believe in
-       the name of the Son of God so that you may know that you
-       have eternal life" — "that you may KNOW" (hina eidEte =
-       that you may have settled knowledge). WEB: "that you may
-       know that you have eternal life." Assurance is possible and
-       intended — John writes for certainty, not doubt.
-
-v.21 — NET: "Little children, guard yourselves from idols" —
+       NET: "Little children, guard yourselves from idols" —
        "guard yourselves" (phylaxate heauta = keep/protect
        yourselves). WEB: "Little children, keep yourselves from
        idols." KJV: "Little children, keep yourselves from idols."

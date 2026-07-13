@@ -98,13 +98,18 @@ Charles Spurgeon:
  follow them (works are rewarded in heaven). Die in the Lord and you rest;
  your works are not lost but rewarded."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "having his Father's name written in their foreheads" / ESV: "who
  had his name and his Father's name written on their foreheads" — ESV
  includes both the Lamb's name AND the Father's name (following better
  manuscript evidence). Contrast with 13:16-17 (the beast's mark). God's
  people bear God's name; the world bears the beast's mark.
+       NET: "the Lamb was standing on Mount Zion, and with him
+       were one hundred and forty-four thousand" — "Mount Zion"
+       (to oros SiOn) — heavenly Zion, in contrast to the beast's
+       earthly domain. WEB: "the Lamb standing on Mount Zion." The
+       sealed ones of chapter 7 appear here victorious.
 
 v.2 — KJV: "the voice of many waters... the voice of a great thunder... the
  voice of harpers harping with their harps" / ESV: "the roar of many
@@ -132,6 +137,11 @@ v.5 — KJV: "in their mouth was found no guile: for they are without fault
 v.6 — KJV: "the everlasting gospel" / ESV: "an eternal gospel" — KJV uses
  definite article "the"; ESV uses indefinite "an." Greek has no article
  here. Both translate "euangelion aiōnion."
+       NET: "an eternal gospel to proclaim to those who live on
+       the earth — to every nation, tribe, language, and people" —
+       "eternal gospel" (euangelion aiOnion). WEB: "an eternal Good
+       News." Even at the end, the gospel is proclaimed — God's
+       mercy persists until the last possible moment.
 
 v.8 — KJV: "Babylon is fallen, is fallen, that great city, because she made
  all nations drink of the wine of the wrath of her fornication" / ESV:
@@ -140,6 +150,11 @@ v.8 — KJV: "Babylon is fallen, is fallen, that great city, because she made
  (Greek "thumos" — fury/passion) and "sexual immorality" (Greek
  "porneia") rather than KJV's "wrath" and "fornication." "Babylon"
  represents the world system opposed to God.
+       NET: "Fallen, fallen is Babylon the great" — "fallen,
+       fallen" (epesen epesen — doubled for emphasis/certainty).
+       WEB: "Fallen, fallen is Babylon the great." Echoing Isaiah
+       21:9 — the announcement precedes the detailed destruction
+       (chapters 17-18).
 
 v.10 — KJV: "poured out without mixture into the cup of his indignation" /
  ESV: "poured full strength into the cup of his anger" — Greek "akratou"
@@ -162,6 +177,11 @@ v.13 — KJV: "their works do follow them" / ESV: "their deeds follow them" —
  ESV uses "deeds" (Greek "erga") rather than "works." Both equivalent.
  Works don't precede (earning entrance) but follow (receiving reward).
  Salvation is by grace; reward is by works.
+       NET: "Blessed are the dead who die in the Lord from this
+       point on" — "from this point on" (ap' arti = from now on).
+       WEB: "Blessed are the dead who die in the Lord from now on."
+       KJV: "Blessed are the dead which die in the Lord from
+       henceforth." The second of seven beatitudes in Revelation.
 
 v.14 — KJV: "one sat like unto the Son of man" / ESV: "seated on the cloud
  one like a son of man" — Both equivalent. ESV's lowercase "son of man"
@@ -172,34 +192,7 @@ v.20 — KJV: "a thousand and six hundred furlongs" / ESV: "1,600 stadia" —
  Both equivalent. Greek "stadiōn" — about 200 miles. The approximate
  length of Israel. Blood reaching horse bridles = total, devastating
  judgment.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "the Lamb was standing on Mount Zion, and with him
-       were one hundred and forty-four thousand" — "Mount Zion"
-       (to oros SiOn) — heavenly Zion, in contrast to the beast's
-       earthly domain. WEB: "the Lamb standing on Mount Zion." The
-       sealed ones of chapter 7 appear here victorious.
-
-v.6  — NET: "an eternal gospel to proclaim to those who live on
-       the earth — to every nation, tribe, language, and people" —
-       "eternal gospel" (euangelion aiOnion). WEB: "an eternal Good
-       News." Even at the end, the gospel is proclaimed — God's
-       mercy persists until the last possible moment.
-
-v.8  — NET: "Fallen, fallen is Babylon the great" — "fallen,
-       fallen" (epesen epesen — doubled for emphasis/certainty).
-       WEB: "Fallen, fallen is Babylon the great." Echoing Isaiah
-       21:9 — the announcement precedes the detailed destruction
-       (chapters 17-18).
-
-v.13 — NET: "Blessed are the dead who die in the Lord from this
-       point on" — "from this point on" (ap' arti = from now on).
-       WEB: "Blessed are the dead who die in the Lord from now on."
-       KJV: "Blessed are the dead which die in the Lord from
-       henceforth." The second of seven beatitudes in Revelation.
-
-v.20 — NET: "the winepress was stomped outside the city, and
+       NET: "the winepress was stomped outside the city, and
        blood poured out of the winepress up to the horses' bridles
        for a distance of almost two hundred miles" — "two hundred
        miles" (stadiOn chiliOn hexakosiOn = 1,600 stadia). WEB:

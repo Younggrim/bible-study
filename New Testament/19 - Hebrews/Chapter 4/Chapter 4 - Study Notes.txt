@@ -104,7 +104,7 @@ Charles Spurgeon:
  parts of human nature. A discerner — it judges, evaluates, exposes. The
  Word of God knows you better than you know yourself."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2 — KJV: "not being mixed with faith" / ESV: "not united by faith" — Greek "mē sunkekerasmenous tē
  pistei" — not blended with faith. The Word must be mixed with faith
@@ -117,6 +117,11 @@ v.8 — KJV: "Jesus" / ESV: "Joshua" — Greek "Iēsous" — here referring to J
 v.9 — KJV: "rest" / ESV: Both equivalent. — Greek "sabbatismos" — a Sabbath-rest, a Sabbath-keeping.
  Different word from "katapausis" (rest/cessation) used elsewhere in
  chs.3-4. A special term suggesting ongoing Sabbath-like rest.
+       NET: "a Sabbath rest remains for the people of God" —
+       "Sabbath rest" (sabbatismos = a keeping of Sabbath — unique
+       word in the NT). WEB: "a Sabbath rest for the people of
+       God." Not just any rest but a SABBATH rest — cessation from
+       self-effort in salvation.
 
 v.11 — KJV: "let us labour" / ESV: "Let us therefore strive" — Greek "spoudasōmen" — let us be diligent, let
  us make every effort. Paradox: strive to enter rest. The effort is
@@ -125,10 +130,18 @@ v.11 — KJV: "let us labour" / ESV: "Let us therefore strive" — Greek "spouda
 v.12 — KJV: "quick" / ESV: "living" — Greek "zōn" — living, alive. KJV: "Powerful" / ESV: "active" — Greek
  "energēs" — active, effective, at work. "Twoedged sword" — Greek
  "machaira distomos" — a short sword with two mouths (edges).
+       NET: "penetrating even to the point of dividing soul from
+       spirit" — "dividing" (merismos = separation/distribution).
+       WEB: "piercing even to the dividing of soul and spirit."
+       The word discerns what we cannot — our own deepest motives.
 
 v.12 — KJV: "dividing asunder of soul and spirit" / ESV: "division of soul and of spirit" — The Word penetrates to
  the deepest level of human nature, distinguishing between the
  psychological (soul) and spiritual (spirit) dimensions.
+       NET: "penetrating even to the point of dividing soul from
+       spirit" — "dividing" (merismos = separation/distribution).
+       WEB: "piercing even to the dividing of soul and spirit."
+       The word discerns what we cannot — our own deepest motives.
 
 v.15 — KJV: "touched with the feeling" / ESV: "unable to sympathize" — Greek "sumpathēsai" — to
  sympathize, to suffer with. Root of English "sympathy." Christ feels
@@ -136,38 +149,17 @@ v.15 — KJV: "touched with the feeling" / ESV: "unable to sympathize" — Greek
  of temptation, without exception. "Yet without sin" — Greek "chōris
  hamartias" — apart from sin. He experienced temptation's full force
  without yielding.
-
-v.16 — KJV: "boldly" / ESV: "with confidence" — Greek "parrēsias" — with confidence, with freedom
- of speech, without fear. "Throne of grace" — not a throne of judgment
- but of grace. The same throne, but grace defines the encounter.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.9  — NET: "a Sabbath rest remains for the people of God" —
-       "Sabbath rest" (sabbatismos = a keeping of Sabbath — unique
-       word in the NT). WEB: "a Sabbath rest for the people of
-       God." Not just any rest but a SABBATH rest — cessation from
-       self-effort in salvation.
-
-v.12 — NET: "For the word of God is living and active and sharper
-       than any double-edged sword" — "living and active" (zOn kai
-       energEs = alive and at work). WEB: "living and active." KJV:
-       "quick, and powerful." God's word is not inert text but
-       operative, penetrating force.
-
-v.12 — NET: "penetrating even to the point of dividing soul from
-       spirit" — "dividing" (merismos = separation/distribution).
-       WEB: "piercing even to the dividing of soul and spirit."
-       The word discerns what we cannot — our own deepest motives.
-
-v.15 — NET: "we do not have a high priest incapable of sympathizing
+       NET: "we do not have a high priest incapable of sympathizing
        with our weaknesses" — "sympathizing" (sympathEsai = suffer
        with/feel together). WEB: "one who can't be touched with the
        feeling of our infirmities." KJV: "cannot be touched with
        the feeling of our infirmities." Jesus doesn't observe our
        pain — He FEELS it.
 
-v.16 — NET: "let us confidently approach the throne of grace to
+v.16 — KJV: "boldly" / ESV: "with confidence" — Greek "parrēsias" — with confidence, with freedom
+ of speech, without fear. "Throne of grace" — not a throne of judgment
+ but of grace. The same throne, but grace defines the encounter.
+       NET: "let us confidently approach the throne of grace to
        receive mercy and find grace whenever we need help" —
        "confidently" (meta parrEsias = with boldness/freedom of
        speech). WEB: "with boldness." KJV: "boldly." We approach

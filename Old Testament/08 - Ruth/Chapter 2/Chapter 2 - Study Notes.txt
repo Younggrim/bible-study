@@ -205,7 +205,7 @@ Charles Spurgeon:
   accidental is actually intentional. Every blessing that appears earned
   is actually given. Handfuls of purpose — that is the story of every
   believer's life."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "a mighty man of wealth" / ESV: "a worthy man" — Hebrew
        "gibbor chayil." This phrase combines "gibbor" (mighty man,
@@ -255,63 +255,6 @@ v.20 — KJV: "one of our next kinsmen" / ESV: "one of our redeemers" —
        property, free enslaved relatives, or marry a kinsman's widow
        to preserve his name. ESV makes the theological significance
        more immediately clear.
-
-GLOSSARY
-------------------------------------
-Gleaning        — The practice of gathering leftover grain after
-                reapers have passed through a field. Mosaic Law
-                guaranteed this right to the poor, foreigners, orphans,
-                and widows (Leviticus 19:9-10; Deuteronomy 24:19-22).
-                Gleaners followed behind the harvesters, picking up
-                dropped or overlooked stalks. It provided food through
-                dignified labor rather than handouts.
-
-Boaz            — Hebrew "Bo'az" = "in him is strength." A wealthy
-                landowner of Bethlehem, kinsman of Elimelech. His name
-                is also that of one of the two pillars in Solomon's
-                temple (1 Kings 7:21). He is identified in Matthew 1:5
-                as the son of Salmon and Rahab — making him the son of
-                another Gentile woman who chose Israel's God.
-
-Gibbor Chayil   — Hebrew phrase meaning "mighty man of valor/wealth."
-                Used of warriors (Judges 6:12 — Gideon), wealthy men,
-                and men of standing. Applied to Boaz (2:1) it
-                encompasses his material resources, social position,
-                and moral character. The feminine form "eshet chayil"
-                (Proverbs 31:10; Ruth 3:11) is applied to Ruth.
-
-Ephah           — A dry measure equal to approximately 22 liters or
-                about 3/5 of a bushel (roughly 30-50 pounds of grain
-                depending on the substance). Ruth's gleaning of an
-                ephah in one day (v.17) is extraordinary — far more
-                than normal gleaning would produce, reflecting Boaz's
-                deliberate generosity.
-
-Go'el           — Hebrew "go'el" = kinsman-redeemer. A near relative
-                with legal responsibility to: (1) buy back family land
-                sold due to poverty (Leviticus 25:25); (2) redeem a
-                relative sold into slavery (Leviticus 25:47-49); (3)
-                avenge the blood of a murdered relative (Numbers 35:19);
-                (4) receive restitution on behalf of a deceased relative
-                (Numbers 5:8). In Ruth, the go'el concept combines with
-                levirate marriage to produce full redemption of Naomi's
-                family line.
-
-Handfuls of     — KJV phrase from v.16. Hebrew "sh'latim min-
-Purpose           hats'vatim." Boaz instructs his workers to
-                deliberately pull grain from their bundles and leave it
-                for Ruth to find. Disguised generosity — provision that
-                preserves the recipient's dignity by appearing to be
-                the fruit of her own labor.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "a mighty man of wealth" / WEB: "a mighty man of wealth" / NET: "a wealthy, prominent man" / KJV: "a mighty man of wealth" — Hebrew "gibbor chayil" can mean mighty warrior, man of valor, or wealthy/capable man. KJV/ASV/WEB preserve the compound phrase; NET splits it into "wealthy" and "prominent." The same phrase describes ideal manhood throughout the OT (cf. Ruth 3:11 where Ruth is called "eshet chayil" — woman of valor/worth).
-- v.3 — ASV: "her hap was to light on the portion of the field belonging unto Boaz" / WEB: "she happened to come to the portion of the field belonging to Boaz" / NET: "she just happened to end up in the portion of the field belonging to Boaz" — All translations preserve the narrative irony. Hebrew "miqreh" (chance/happening) highlights the author's theological art: what appears as chance is divine providence. NET's "just happened" adds emphasis to the irony.
-- v.12 — ASV: "Jehovah recompense thy work, and a full reward be given thee of Jehovah, the God of Israel, under whose wings thou art come to take refuge" / WEB: "May Yahweh repay your work...under whose wings you have come to take refuge" / NET: "May the Lord reward your efforts!...from whom you have sought protection" / KJV: "under whose wings thou art come to trust" — The "wings" (kanaf) imagery is crucial: Ruth seeks refuge under God's wings. NET replaces "wings" with "protection," losing the beautiful metaphor that connects to 3:9 where Ruth asks Boaz to spread his "wing/skirt" (same word: kanaf) over her. KJV's "trust" and ASV/WEB's "take refuge" both render "chasah" (to seek shelter).
-- v.20 — ASV: "who hath not left off his kindness to the living and to the dead" / WEB: "who has not abandoned his kindness to the living and to the dead" / NET: "because he has shown loyalty to the living on behalf of the dead" / KJV: "who hath not left off his kindness to the living and to the dead" — The key word is "chesed" again (kindness/loyal love). NET adds "on behalf of" (interpretive); KJV/ASV/WEB preserve the ambiguity of "to the living and to the dead" — God's chesed extends to both the living (Naomi, Ruth) and the dead (Elimelech, Mahlon).
-- v.20 — ASV: "one of our near kinsmen" / WEB: "one of our near kinsmen" / NET: "he is our guardian" / KJV: "one of our next kinsmen" — Hebrew "go'el" (kinsman-redeemer) is central to Ruth's theology. NET's "guardian" misses the redemption concept. KJV/ASV/WEB's "near kinsman/kinsmen" is traditional but also incomplete. The go'el redeems property, protects family, and avenges blood — "guardian" captures only one dimension.
-- v.4 — ASV: "Jehovah be with you...Jehovah bless thee" / WEB: "May Yahweh be with you...May Yahweh bless you" / NET: "May the Lord be with you!...May the Lord bless you!" — The divine name in everyday greeting shows how integrated faith was in Israelite daily life. ASV/WEB make God's personal name explicit in this ordinary field conversation.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

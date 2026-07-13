@@ -96,12 +96,24 @@ Charles Spurgeon:
   raised Him. Death could not hold the Author of life. The grave could not
   contain the Source of existence."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.2  — NET: "a man lame from birth was being carried up, who
+       was placed at the temple gate called 'the Beautiful Gate'"
+       — "Beautiful Gate" — likely the Nicanor Gate between the
+       Court of the Gentiles and Court of Women. WEB: "the
+       Beautiful Gate." KJV: "the gate of the temple which is
+       called Beautiful."
+
 v.6  — KJV: "Silver and gold have I none" / ESV: "I have no silver and gold"
        — Both equivalent; same meaning, slightly different word order. "In the
        name" means "by the authority of" — not a magic formula but an
        invocation of Christ's person and power. The name represents the person.
+       NET: "Silver and gold I do not possess, but what I do have
+       I give you. In the name of Jesus Christ the Nazarene, stand
+       up and walk!" — "what I do have" — spiritual authority
+       exceeds material wealth. WEB: "what I have, that I give
+       you." KJV: "such as I have give I thee."
 
 v.13 — KJV: "his Son Jesus" / ESV: "his servant Jesus" — Greek "paida" can
        mean "son," "child," or "servant." ESV's "servant" echoes Isaiah's
@@ -111,46 +123,28 @@ v.15 — KJV: "Prince of life" / ESV: "Author of life" — Greek "archēgon tēs
        zōēs" — the Author, Pioneer, or Originator of life. ESV's "Author"
        emphasizes Jesus as the source from which all life flows; KJV's
        "Prince" emphasizes His sovereign authority over life.
+       NET: "you killed the Originator of life, whom God raised
+       from the dead" — "Originator" (archEgon = author/pioneer/
+       prince). KJV: "Prince of life." WEB: "the Prince of life."
+       ASV: "the Prince of life." NET uniquely captures the idea
+       of Jesus as the SOURCE of life.
 
 v.19 — KJV: "Repent ye therefore, and be converted" / ESV: "Repent therefore,
        and turn back" — Greek "epistrepsate" — to turn around, to return.
        ESV's "turn back" is more literal. "Times of refreshing" — a unique
        phrase suggesting spiritual renewal and restoration that comes from
        God's presence when people repent.
-
-v.21 — KJV: "restitution of all things" / ESV: "restoring all the things" —
-       Greek "apokatastaseōs pantōn" — the restoration of all things. Both
-       convey the same meaning. Refers to the future renewal of creation at
-       Christ's return (Romans 8:19-21).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "a man lame from birth was being carried up, who
-       was placed at the temple gate called 'the Beautiful Gate'"
-       — "Beautiful Gate" — likely the Nicanor Gate between the
-       Court of the Gentiles and Court of Women. WEB: "the
-       Beautiful Gate." KJV: "the gate of the temple which is
-       called Beautiful."
-
-v.6  — NET: "Silver and gold I do not possess, but what I do have
-       I give you. In the name of Jesus Christ the Nazarene, stand
-       up and walk!" — "what I do have" — spiritual authority
-       exceeds material wealth. WEB: "what I have, that I give
-       you." KJV: "such as I have give I thee."
-
-v.15 — NET: "you killed the Originator of life, whom God raised
-       from the dead" — "Originator" (archEgon = author/pioneer/
-       prince). KJV: "Prince of life." WEB: "the Prince of life."
-       ASV: "the Prince of life." NET uniquely captures the idea
-       of Jesus as the SOURCE of life.
-
-v.19 — NET: "Repent, therefore, and turn back so that your sins
+       NET: "Repent, therefore, and turn back so that your sins
        may be wiped out" — "wiped out" (exaleiphthEnai = erased/
        blotted out). WEB: "that your sins may be blotted out."
        KJV: "that your sins may be blotted out." The image is of
        erasing a written record of debt.
 
-v.21 — NET: "This one heaven must receive until the time all
+v.21 — KJV: "restitution of all things" / ESV: "restoring all the things" —
+       Greek "apokatastaseōs pantōn" — the restoration of all things. Both
+       convey the same meaning. Refers to the future renewal of creation at
+       Christ's return (Romans 8:19-21).
+       NET: "This one heaven must receive until the time all
        things are restored" — "time of restoration" (chronOn
        apokatastaseOs). WEB: "until the times of restoration of
        all things." KJV: "until the times of restitution of all

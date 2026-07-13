@@ -95,25 +95,47 @@ Charles Spurgeon:
  excluded from the offer; only those who refuse are excluded from the
  benefit."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV/ESV: Four types of prayer: "supplications" (deēseis — specific requests),
  "prayers" (proseuchas — general prayer), "intercessions" (enteuxeis —
  approaching on behalf of others), "giving of thanks" / ESV: "thanksgivings" (eucharistias —
  gratitude). Both equivalent in meaning. Comprehensive prayer covering every type.
+       NET: "I urge that requests, prayers, intercessions, and
+       thanks be offered on behalf of all people" — four types of
+       prayer: requests (deEseis), prayers (proseuchas), intercessions
+       (enteuxeis), thanks (eucharistias). WEB: "petitions, prayers,
+       intercessions, and givings of thanks." Comprehensive prayer
+       vocabulary.
 
 v.4 — KJV: "will have all men to be saved" / ESV: "saved" — Greek "thelei pantas
  anthrōpous sōthēnai" — desires/wills all people to be saved. Debated:
  Does "all" mean every individual or all kinds of people? The context
  (praying for kings, all in authority) suggests all types/classes.
+       NET: "who wants all people to be saved and to come to a
+       knowledge of the truth" — "wants" (thelei = desires/wills).
+       WEB: "who desires all people to be saved." KJV: "who will
+       have all men to be saved." The scope of God's saving desire
+       — universal intent, though not universal result.
 
 v.5 — KJV: "the man Christ Jesus" / ESV: Both equivalent. — Greek "anthrōpos Christos Iēsous" —
  emphasizing Christ's humanity. He mediates as a man — one who shares
  our nature and represents us before God.
+       NET: "For there is one God and one intermediary between God
+       and humanity, Christ Jesus, himself human" — "intermediary"
+       (mesitEs = mediator/go-between). WEB: "one mediator between
+       God and men." KJV: "one mediator between God and men." One
+       God excludes polytheism; one mediator excludes all other
+       intercessors.
 
 v.6 — KJV: "ransom" / ESV: Both equivalent. — Greek "antilutron" — a substitute ransom, a price
  paid in exchange. "Anti" = in place of. Christ paid the price in our
  place.
+       NET: "who gave himself as a ransom for all" — "ransom"
+       (antilytron = substitutionary ransom price). WEB: "who gave
+       himself as a ransom for all." KJV: "who gave himself a
+       ransom for all." The "anti-" prefix emphasizes substitution:
+       He paid IN PLACE OF all.
 
 v.9 — KJV: "shamefacedness" / ESV: "modesty" — Greek "aidōs" — modesty, a sense of shame
  regarding what is improper. KJV: "sobriety" / ESV: "self-control" — Greek "sōphrosunē" — self-
@@ -127,47 +149,18 @@ v.12 — KJV: "usurp authority" / ESV: "authority" — Greek "authentein" — to
  to domineer. A rare word (only here in NT). The exact nuance is
  debated: some see it as "exercise authority" (neutral); others as
  "domineer/usurp" (negative).
+       NET: "But I do not allow a woman to teach or exercise
+       authority over a man" — "exercise authority" (authentein =
+       dominate/usurp authority — a rare word, debated meaning).
+       WEB: "not to exercise authority over a man." KJV: "nor to
+       usurp authority over the man." The meaning of authenteO is
+       the crux of the complementarian/egalitarian debate.
 
 v.15 — KJV: "saved in childbearing" / ESV: "saved through childbearing—if" — Highly debated. Options: (1) women
  are preserved through the physical process of childbirth, (2) women
  are saved through THE Childbearing (Christ born of a woman), (3)
  women find their role/fulfillment in domestic life rather than
  teaching authority. No consensus exists.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "I urge that requests, prayers, intercessions, and
-       thanks be offered on behalf of all people" — four types of
-       prayer: requests (deEseis), prayers (proseuchas), intercessions
-       (enteuxeis), thanks (eucharistias). WEB: "petitions, prayers,
-       intercessions, and givings of thanks." Comprehensive prayer
-       vocabulary.
-
-v.4  — NET: "who wants all people to be saved and to come to a
-       knowledge of the truth" — "wants" (thelei = desires/wills).
-       WEB: "who desires all people to be saved." KJV: "who will
-       have all men to be saved." The scope of God's saving desire
-       — universal intent, though not universal result.
-
-v.5  — NET: "For there is one God and one intermediary between God
-       and humanity, Christ Jesus, himself human" — "intermediary"
-       (mesitEs = mediator/go-between). WEB: "one mediator between
-       God and men." KJV: "one mediator between God and men." One
-       God excludes polytheism; one mediator excludes all other
-       intercessors.
-
-v.6  — NET: "who gave himself as a ransom for all" — "ransom"
-       (antilytron = substitutionary ransom price). WEB: "who gave
-       himself as a ransom for all." KJV: "who gave himself a
-       ransom for all." The "anti-" prefix emphasizes substitution:
-       He paid IN PLACE OF all.
-
-v.12 — NET: "But I do not allow a woman to teach or exercise
-       authority over a man" — "exercise authority" (authentein =
-       dominate/usurp authority — a rare word, debated meaning).
-       WEB: "not to exercise authority over a man." KJV: "nor to
-       usurp authority over the man." The meaning of authenteO is
-       the crux of the complementarian/egalitarian debate.
 
 GLOSSARY
 ------------------------------------

@@ -93,12 +93,17 @@ Charles Spurgeon:
   Spirit. The natural man cannot understand spiritual things; but you can.
   The Spirit has given you Christ's mind."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "not with excellency of speech" / ESV: "did not come proclaiming to you" — Paul deliberately avoided the
        rhetorical sophistication Corinth valued. He came as a preacher, not
        a performer.
+
+v.2  — NET: "For I decided to be concerned about nothing among
+       you except Jesus Christ, and him crucified" — "decided"
+       (ekrina = judged/determined). WEB: "I determined not to
+       know anything among you, except Jesus Christ, and him
+       crucified." A deliberate strategic choice — not ignorance.
 
 v.4  — KJV: "demonstration of the Spirit and of power" / ESV: Both equivalent. — Greek "apodeixei" —
        proof, evidence. The Spirit's power was the evidence — not Paul's
@@ -107,24 +112,7 @@ v.4  — KJV: "demonstration of the Spirit and of power" / ESV: Both equivalent.
 v.9  — KJV: "Eye hath not seen" / ESV: "is written, “What no eye has" — Often misapplied to heaven. In context,
        Paul is quoting Isaiah 64:4 to say that God's wisdom cannot be
        discovered by human senses — it must be REVEALED by the Spirit (v.10).
-
-v.14 — KJV: "the natural man" / ESV: "The natural person does not accept" — Greek "psuchikos anthrōpos" — the soulish/
-       natural person — one without the Spirit. They cannot receive spiritual
-       truth because they lack the capacity to discern it.
-
-v.16 — KJV: "the mind of Christ" / ESV: Both equivalent. — Greek "noun Christou" — Christ's way of
-       thinking, His perspective. Through the Spirit, believers can think
-       about reality the way Christ does.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "For I decided to be concerned about nothing among
-       you except Jesus Christ, and him crucified" — "decided"
-       (ekrina = judged/determined). WEB: "I determined not to
-       know anything among you, except Jesus Christ, and him
-       crucified." A deliberate strategic choice — not ignorance.
-
-v.9  — NET: "Things that no eye has seen, or ear heard, or mind
+       NET: "Things that no eye has seen, or ear heard, or mind
        imagined, are the things God has prepared for those who love
        him" — loosely quoting Isaiah 64:4. WEB: "Things which eye
        didn't see, and ear didn't hear." Often quoted about heaven
@@ -137,13 +125,19 @@ v.10 — NET: "God has revealed these to us by the Spirit. For the
        Spirit searches all things, yes, the deep things of God."
        The Spirit has access to God's unfathomable depths.
 
-v.14 — NET: "The unbeliever does not receive the things of the
+v.14 — KJV: "the natural man" / ESV: "The natural person does not accept" — Greek "psuchikos anthrōpos" — the soulish/
+       natural person — one without the Spirit. They cannot receive spiritual
+       truth because they lack the capacity to discern it.
+       NET: "The unbeliever does not receive the things of the
        Spirit of God" — "unbeliever" (psychikos anthrOpos = natural
        /soulish person). KJV: "natural man." WEB: "the natural
        man." Not merely intellectual limitation but spiritual
        inability without the Spirit's illumination.
 
-v.16 — NET: "we have the mind of Christ" — "mind" (noun Christou).
+v.16 — KJV: "the mind of Christ" / ESV: Both equivalent. — Greek "noun Christou" — Christ's way of
+       thinking, His perspective. Through the Spirit, believers can think
+       about reality the way Christ does.
+       NET: "we have the mind of Christ" — "mind" (noun Christou).
        WEB: "we have Christ's mind." KJV: "we have the mind of
        Christ." A staggering claim — believers share Christ's
        perspective through the indwelling Spirit.

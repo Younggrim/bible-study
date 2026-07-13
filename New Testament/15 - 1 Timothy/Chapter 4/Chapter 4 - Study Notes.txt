@@ -103,18 +103,35 @@ Charles Spurgeon:
  spirit (attitude), faith (trust), purity (holiness). When your life speaks
  louder than your years, no one will despise your youth."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "the Spirit speaketh expressly" / ESV: "Spirit expressly" — Greek "rhētōs" — explicitly,
  in clear words. Not vague hints but direct prophetic warning.
+       NET: "the Spirit explicitly says that in the later times
+       some will desert the faith" — "explicitly" (rhEtOs = in
+       express words/clearly). WEB: "the Spirit says expressly."
+       KJV: "the Spirit speaketh expressly." The Spirit gives clear
+       warning — apostasy is predicted, not surprising.
 
 v.2 — KJV: "conscience seared with a hot iron" / ESV: "consciences are seared" — Greek "kekaustēriasmenōn"
  — cauterized. A seared conscience feels nothing — no guilt, no
  conviction. Repeated sin deadens moral sensitivity.
 
+v.4  — NET: "everything God created is good, and no food is to
+       be rejected if it is received with thanksgiving" — "received
+       with thanksgiving" (meta eucharistias lambanomenon). WEB:
+       "nothing is to be rejected, if it is received with
+       thanksgiving." Echoes Genesis 1 — creation is good.
+
 v.7 — KJV: "exercise thyself" / ESV: "train yourself" — Greek "gumnaze seauton" — train yourself,
  gymnasium-train yourself. Root of English "gymnasium." Spiritual
  training requires the same discipline as physical training.
+       NET: "But reject those myths fit only for the godless and
+       gullible, and train yourself for godliness" — "train"
+       (gymnaze = exercise/train — English "gymnasium"). WEB:
+       "exercise yourself toward godliness." KJV: "exercise thyself
+       rather unto godliness." Athletic discipline applied to
+       spiritual growth.
 
 v.8 — KJV: "profiteth little" / ESV: "of some value" — Greek "pros oligon" — for a little, to a
  small extent. Physical exercise has limited, temporary value. Godliness
@@ -123,6 +140,11 @@ v.8 — KJV: "profiteth little" / ESV: "of some value" — Greek "pros oligon" �
 v.12 — KJV: "youth" / ESV: Both equivalent. — Greek "neotētos" — youthfulness. Timothy was likely
  in his 30s — young for a church leader in that culture. Paul's
  solution: not age but example.
+       NET: "Let no one look down on you because you are young,
+       but set an example for the believers in speech, in conduct"
+       — "young" (neotEtos = youth). WEB: "Let no man despise your
+       youth." Timothy was likely in his 30s — young for the
+       authority he carried. Combat disdain with exemplary living.
 
 v.13 — KJV: "reading" / ESV: Both equivalent. — Greek "anagnōsei" — the public reading of Scripture
  in worship. "Exhortation" — application. "Doctrine" — teaching. The
@@ -132,43 +154,15 @@ v.14 — KJV: "the gift" / ESV: Both equivalent. — Greek "charismatos" — a g
  Given "by prophecy" (through prophetic utterance) "with the laying on
  of hands" (by the elders). Timothy's gift was publicly recognized and
  commissioned.
-
-v.15 — KJV: "meditate" / ESV: "practice" — Greek "meletā" — practice, cultivate, be absorbed
- in. KJV: "give thyself wholly" / ESV: "immerse yourself in them" — Greek "en toutois isthi" — be in these
- things, live in them. Total immersion.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "the Spirit explicitly says that in the later times
-       some will desert the faith" — "explicitly" (rhEtOs = in
-       express words/clearly). WEB: "the Spirit says expressly."
-       KJV: "the Spirit speaketh expressly." The Spirit gives clear
-       warning — apostasy is predicted, not surprising.
-
-v.4  — NET: "everything God created is good, and no food is to
-       be rejected if it is received with thanksgiving" — "received
-       with thanksgiving" (meta eucharistias lambanomenon). WEB:
-       "nothing is to be rejected, if it is received with
-       thanksgiving." Echoes Genesis 1 — creation is good.
-
-v.7  — NET: "But reject those myths fit only for the godless and
-       gullible, and train yourself for godliness" — "train"
-       (gymnaze = exercise/train — English "gymnasium"). WEB:
-       "exercise yourself toward godliness." KJV: "exercise thyself
-       rather unto godliness." Athletic discipline applied to
-       spiritual growth.
-
-v.12 — NET: "Let no one look down on you because you are young,
-       but set an example for the believers in speech, in conduct"
-       — "young" (neotEtos = youth). WEB: "Let no man despise your
-       youth." Timothy was likely in his 30s — young for the
-       authority he carried. Combat disdain with exemplary living.
-
-v.14 — NET: "Do not neglect the spiritual gift you have" —
+       NET: "Do not neglect the spiritual gift you have" —
        "spiritual gift" (charismatos = grace-gift). WEB: "Don't
        neglect the gift that is in you." KJV: "Neglect not the
        gift that is in thee." Gifts require cultivation — they can
        be neglected into dormancy.
+
+v.15 — KJV: "meditate" / ESV: "practice" — Greek "meletā" — practice, cultivate, be absorbed
+ in. KJV: "give thyself wholly" / ESV: "immerse yourself in them" — Greek "en toutois isthi" — be in these
+ things, live in them. Total immersion.
 
 GLOSSARY
 ------------------------------------

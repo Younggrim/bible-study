@@ -90,35 +90,14 @@ Charles Spurgeon:
   The disciple who looks back makes a crooked life. Forward — always
   forward — that is the only direction for the follower of Christ."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.23 — KJV: "take up his cross daily" / ESV: "take up his cross daily" —
        Both identical. Only Luke includes "daily" (Greek: kath' hēmeran).
        Matthew and Mark have "take up his cross" without "daily." Luke
        emphasizes the ongoing, repeated nature of self-denial — it is not a
        one-time act but a daily choice.
-
-v.31 — KJV: "spake of his decease which he should accomplish at Jerusalem"
-       / ESV: "spoke of his departure, which he was about to accomplish at
-       Jerusalem" — KJV: "decease" / ESV: "departure" — Greek "exodon" —
-       literally "exodus." Luke uses the word for Israel's departure from
-       Egypt to describe Jesus' death — His death is a new exodus, a
-       liberation from bondage.
-
-v.51 — KJV: "he stedfastly set his face" / ESV: "he set his face" — Both
-       equivalent. Greek "to prosōpon estērisen" — He hardened/fixed His face.
-       An echo of Isaiah 50:7 — "I set my face like flint." This is resolute,
-       determined commitment to the Father's will despite knowing what awaits.
-
-v.60 — KJV: "Let the dead bury their dead" / ESV: "Leave the dead to bury
-       their own dead" — Both equivalent. A shocking statement. "The
-       spiritually dead can handle earthly obligations; you are called to
-       something higher." Jesus is not being callous but establishing the
-       absolute priority of the kingdom.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.23 — NET: "If anyone wants to become my follower, he must
+       NET: "If anyone wants to become my follower, he must
        deny himself, take up his cross daily, and follow me" —
        "daily" is unique to Luke's version (not in Matthew/Mark).
        WEB: "take up his cross daily." The cross is not a one-time
@@ -130,13 +109,23 @@ v.29 — NET: "As he was praying, the appearance of his face was
        appearance of his face was altered." Luke connects prayer
        to every major event in Jesus' life.
 
-v.31 — NET: "they spoke of his departure that he was about to
+v.31 — KJV: "spake of his decease which he should accomplish at Jerusalem"
+       / ESV: "spoke of his departure, which he was about to accomplish at
+       Jerusalem" — KJV: "decease" / ESV: "departure" — Greek "exodon" —
+       literally "exodus." Luke uses the word for Israel's departure from
+       Egypt to describe Jesus' death — His death is a new exodus, a
+       liberation from bondage.
+       NET: "they spoke of his departure that he was about to
        carry out at Jerusalem" — "departure" (exodon = exodus).
        WEB: "his departure, which he was about to accomplish at
        Jerusalem." Jesus' death is a new Exodus — liberation from
        slavery to sin, not Egypt.
 
-v.51 — NET: "he determined to go to Jerusalem" — literally "he
+v.51 — KJV: "he stedfastly set his face" / ESV: "he set his face" — Both
+       equivalent. Greek "to prosōpon estērisen" — He hardened/fixed His face.
+       An echo of Isaiah 50:7 — "I set my face like flint." This is resolute,
+       determined commitment to the Father's will despite knowing what awaits.
+       NET: "he determined to go to Jerusalem" — literally "he
        set his face" (to prosōpon estērisen). KJV: "he stedfastly
        set his face to go to Jerusalem." WEB: "set his face to go
        to Jerusalem." The travel narrative (9:51-19:27) — unique
@@ -146,6 +135,12 @@ v.58 — NET: "Foxes have dens and the birds in the sky have nests,
        but the Son of Man has no place to lay his head" — "birds
        in the sky" vs. KJV "birds of the air." WEB: "the birds of
        the sky." The homelessness of God incarnate.
+
+v.60 — KJV: "Let the dead bury their dead" / ESV: "Leave the dead to bury
+       their own dead" — Both equivalent. A shocking statement. "The
+       spiritually dead can handle earthly obligations; you are called to
+       something higher." Jesus is not being callous but establishing the
+       absolute priority of the kingdom.
 
 GLOSSARY
 ------------------------------------

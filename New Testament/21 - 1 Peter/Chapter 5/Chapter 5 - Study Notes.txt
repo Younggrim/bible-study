@@ -103,13 +103,19 @@ Charles Spurgeon:
  everyone — only those who are not sober and vigilant. Be alert. Be
  watchful. He is real, he is active, and he is looking for the careless."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2 — KJV: "feed the flock" / ESV: "shepherd the flock" — Greek
  "poimanate" — shepherd (not just feed). The full work of a shepherd:
  feeding, leading, protecting, caring. KJV: "taking the oversight" /
  ESV: "exercising oversight" — Greek "episkopountes" — overseeing,
  watching over.
+       NET: "shepherd the flock of God among you, exercising
+       oversight not by compulsion but willingly" — "shepherd"
+       (poimanate = tend/pastor/feed). WEB: "Shepherd the flock of
+       God which is among you." KJV: "Feed the flock of God." Three
+       contrasts: not compulsion but willing, not greed but eager,
+       not domineering but exemplary.
 
 v.3 — KJV: "lords over God's heritage" / ESV: "domineering over those in
  your charge" — Greek "katakurieuontes" — domineering, lording it over.
@@ -125,6 +131,11 @@ v.4 — KJV: "chief Shepherd" / ESV: Both equivalent. — Greek
 v.5 — KJV: "be clothed with humility" / ESV: "clothe yourselves... with
  humility" — Greek "egkombōsasthe" — to tie on like a servant's apron.
  The word may echo John 13 where Jesus tied on a towel to wash feet.
+       NET: "clothe yourselves with humility toward one another"
+       — "clothe yourselves" (enkombOsasthe = tie on like an apron/
+       slave's garment). WEB: "be clothed with humility." KJV:
+       "be clothed with humility." The rare word may echo Jesus
+       tying on a towel to wash feet (John 13).
 
 v.7 — KJV: "casting all your care upon him; for he careth for you" / ESV:
  "casting all your anxieties on him, because he cares for you" — Greek
@@ -132,10 +143,21 @@ v.7 — KJV: "casting all your care upon him; for he careth for you" / ESV:
  it decisively, once for all. KJV: "care" / ESV: "anxieties" — Greek
  "merimnan" — anxiety, worry. "Careth" / "cares" — Greek "melei" — it
  matters to Him, He is concerned.
+       NET: "by casting all your cares on him because he cares
+       for you" — "casting" (epirripsantes = throwing upon — a
+       decisive action). WEB: "casting all your worries on him."
+       KJV: "Casting all your care upon him." An active throwing —
+       not gently placing but hurling your anxieties onto God.
 
 v.8 — KJV: "adversary" / ESV: Both equivalent. — Greek "antidikos" —
  opponent in a lawsuit, legal adversary. "Roaring lion" — lions roar to
  paralyze prey with fear. Satan uses fear as a weapon.
+       NET: "your adversary the devil prowls around like a
+       roaring lion, looking for someone to devour" — "prowls"
+       (peripatei = walks about). "Devour" (katapiein = swallow
+       whole). WEB: "the devil, walks around like a roaring lion,
+       seeking whom he may devour." A predator seeking isolated,
+       weakened prey.
 
 v.10 — KJV: "make you perfect, stablish, strengthen, settle you" / ESV:
  "restore, confirm, strengthen, and establish you" — Four verbs of
@@ -143,36 +165,7 @@ v.10 — KJV: "make you perfect, stablish, strengthen, settle you" / ESV:
  (stērixei — make firm), "strengthen" (sthenōsei — make strong),
  "settle/establish" (themeliōsei — establish on a foundation). God's
  complete restoration after suffering.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "shepherd the flock of God among you, exercising
-       oversight not by compulsion but willingly" — "shepherd"
-       (poimanate = tend/pastor/feed). WEB: "Shepherd the flock of
-       God which is among you." KJV: "Feed the flock of God." Three
-       contrasts: not compulsion but willing, not greed but eager,
-       not domineering but exemplary.
-
-v.5  — NET: "clothe yourselves with humility toward one another"
-       — "clothe yourselves" (enkombOsasthe = tie on like an apron/
-       slave's garment). WEB: "be clothed with humility." KJV:
-       "be clothed with humility." The rare word may echo Jesus
-       tying on a towel to wash feet (John 13).
-
-v.7  — NET: "by casting all your cares on him because he cares
-       for you" — "casting" (epirripsantes = throwing upon — a
-       decisive action). WEB: "casting all your worries on him."
-       KJV: "Casting all your care upon him." An active throwing —
-       not gently placing but hurling your anxieties onto God.
-
-v.8  — NET: "your adversary the devil prowls around like a
-       roaring lion, looking for someone to devour" — "prowls"
-       (peripatei = walks about). "Devour" (katapiein = swallow
-       whole). WEB: "the devil, walks around like a roaring lion,
-       seeking whom he may devour." A predator seeking isolated,
-       weakened prey.
-
-v.10 — NET: "after you have suffered for a little while, the God
+       NET: "after you have suffered for a little while, the God
        of all grace... will himself restore, confirm, strengthen,
        and establish you" — four verbs of divine action: restore
        (katartisei), confirm (stErixei), strengthen (sthenOsei),

@@ -87,7 +87,7 @@ Charles Spurgeon:
   be of good cheer. Not because the tribulation is not real, but because
   I have overcome the world. His victory is your victory."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "that ye should not be offended" / ESV: "to keep you from falling away" — Greek "skandalisthēte" — KJV uses "offended" (archaic meaning: caused to stumble); ESV uses "falling away." The idea is being tripped up or caused to abandon faith when persecution comes.
 
@@ -128,7 +128,6 @@ v.33 — KJV: "be of good cheer; I have overcome the world" / ESV: "take heart; 
        KJV: "I have overcome the world." WEB: "I have overcome
        the world." The perfect tense: the victory is complete
        before the cross even occurs.
-
 
 GLOSSARY
 ------------------------------------

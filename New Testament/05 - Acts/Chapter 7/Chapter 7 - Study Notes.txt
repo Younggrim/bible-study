@@ -90,42 +90,7 @@ Charles Spurgeon:
   away. Until grace overcomes resistance — as it did with Saul, who
   watched Stephen die."
 
-TRANSLATION NOTES
-------------------------------------
-v.38 — KJV: "the church in the wilderness" / ESV: "the congregation in the
-       wilderness" — Greek "ekklēsia" — the congregation/assembly of Israel
-       in the wilderness. KJV uses "church"; ESV uses "congregation" to avoid
-       anachronism. The same word is used for the Christian church — showing
-       continuity between Israel and the church as God's people.
-
-v.48 — KJV: "the most High dwelleth not in temples made with hands" / ESV:
-       "the Most High does not dwell in houses made by hands" — Both
-       equivalent. This was the charge against Stephen (6:14) — and he
-       affirms it. God cannot be contained in a building. This was
-       revolutionary for Jews whose identity centered on the Temple.
-
-v.51 — KJV: "Ye stiffnecked and uncircumcised in heart and ears" / ESV:
-       "You stiff-necked people, uncircumcised in heart and ears" — Both
-       equivalent. KJV: "resist the Holy Ghost" / ESV: "resist the Holy
-       Spirit" — same Greek "pneuma."
-
-v.55 — KJV: "Jesus standing on the right hand of God" / ESV: "Jesus standing
-       at the right hand of God" — Both identical in meaning. Everywhere else
-       in the NT, Jesus is described as SITTING at God's right hand (Hebrews
-       1:3, Colossians 3:1). Here He is STANDING — perhaps rising to receive
-       Stephen, or standing as Stephen's advocate.
-
-v.58 — KJV: "a young man's feet, whose name was Saul" / ESV: "the feet of a
-       young man named Saul" — Both equivalent. Luke introduces the future
-       Apostle Paul at the scene of the first martyrdom. The connection is
-       deliberate — Stephen's death planted seeds in Saul's conscience.
-
-v.60 — KJV: "Lord, lay not this sin to their charge" / ESV: "Lord, do not
-       hold this sin against them" — Both equivalent. ESV is more natural to
-       modern readers. Stephen echoes Jesus' prayer from the cross (Luke
-       23:34).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.22 — NET: "Moses was trained in all the wisdom of the
        Egyptians and was powerful in his words and deeds" — "all
@@ -140,17 +105,38 @@ v.37 — NET: "God will raise up a prophet for you from among your
        like me from among your brothers." The chain: Abraham,
        Moses, prophets, Christ — all rejected by Israel.
 
-v.48 — NET: "the Most High does not live in houses made by human
+v.38 — KJV: "the church in the wilderness" / ESV: "the congregation in the
+       wilderness" — Greek "ekklēsia" — the congregation/assembly of Israel
+       in the wilderness. KJV uses "church"; ESV uses "congregation" to avoid
+       anachronism. The same word is used for the Christian church — showing
+       continuity between Israel and the church as God's people.
+
+v.48 — KJV: "the most High dwelleth not in temples made with hands" / ESV:
+       "the Most High does not dwell in houses made by hands" — Both
+       equivalent. This was the charge against Stephen (6:14) — and he
+       affirms it. God cannot be contained in a building. This was
+       revolutionary for Jews whose identity centered on the Temple.
+       NET: "the Most High does not live in houses made by human
        hands" — "made by human hands" (cheiropoiEtois). WEB: "the
        Most High doesn't dwell in temples made with hands." KJV:
        "the most High dwelleth not in temples made with hands."
        Stephen challenges temple-centrism itself.
 
-v.51 — NET: "You stiff-necked people, with uncircumcised hearts
+v.51 — KJV: "Ye stiffnecked and uncircumcised in heart and ears" / ESV:
+       "You stiff-necked people, uncircumcised in heart and ears" — Both
+       equivalent. KJV: "resist the Holy Ghost" / ESV: "resist the Holy
+       Spirit" — same Greek "pneuma."
+       NET: "You stiff-necked people, with uncircumcised hearts
        and ears! You always resist the Holy Spirit" — "always
        resist" (aei antipiptete) — a present-tense pattern across
        generations. WEB: "You always resist the Holy Spirit." The
        accusation that seals his fate.
+
+v.55 — KJV: "Jesus standing on the right hand of God" / ESV: "Jesus standing
+       at the right hand of God" — Both identical in meaning. Everywhere else
+       in the NT, Jesus is described as SITTING at God's right hand (Hebrews
+       1:3, Colossians 3:1). Here He is STANDING — perhaps rising to receive
+       Stephen, or standing as Stephen's advocate.
 
 v.56 — NET: "Look! I see the heavens opened, and the Son of Man
        standing at the right hand of God!" — "standing" (hestOta)
@@ -158,6 +144,16 @@ v.56 — NET: "Look! I see the heavens opened, and the Son of Man
        welcome His first martyr. WEB: "the Son of Man standing on
        the right hand of God." KJV: "the Son of man standing on
        the right hand of God."
+
+v.58 — KJV: "a young man's feet, whose name was Saul" / ESV: "the feet of a
+       young man named Saul" — Both equivalent. Luke introduces the future
+       Apostle Paul at the scene of the first martyrdom. The connection is
+       deliberate — Stephen's death planted seeds in Saul's conscience.
+
+v.60 — KJV: "Lord, lay not this sin to their charge" / ESV: "Lord, do not
+       hold this sin against them" — Both equivalent. ESV is more natural to
+       modern readers. Stephen echoes Jesus' prayer from the cross (Luke
+       23:34).
 
 GLOSSARY
 ------------------------------------

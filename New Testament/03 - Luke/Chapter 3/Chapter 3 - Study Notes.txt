@@ -85,7 +85,7 @@ Charles Spurgeon:
   performance. It is declared over identity. And in Christ, that same
   declaration is spoken over you."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "the fifteenth year of the reign of Tiberius Caesar" / ESV:
        "In the fifteenth year of the reign of Tiberius Caesar" — Both
@@ -93,27 +93,6 @@ v.1  — KJV: "the fifteenth year of the reign of Tiberius Caesar" / ESV:
        (depending on how Tiberius' reign is calculated — from his co-regency
        in AD 12 or his sole rule in AD 14).
 
-v.14 — KJV: "Do violence to no man, neither accuse any falsely; and be
-       content with your wages" — ESV: "Do not extort money from anyone by
-       threats or by false accusation, and be content with your wages." —
-       Soldiers often supplemented their pay through intimidation and false
-       charges. John doesn't tell them to quit — he tells them to serve
-       with integrity.
-
-v.22 — KJV: "Thou art my beloved Son" / ESV: "You are my beloved Son; with
-       you I am well pleased" — Both equivalent. Luke uses "Thou art" (second
-       person — spoken to Jesus) while Matthew uses "This is" (third person —
-       spoken about Jesus to others). Both are accurate — the Father spoke to
-       Jesus and about Jesus simultaneously.
-
-v.23 — KJV: "being (as was supposed) the son of Joseph" / ESV: "being the
-       son (as was supposed) of Joseph, the son of Heli" — Both equivalent.
-       The parenthetical "(as was supposed)" is Luke's way of noting that
-       Joseph was not Jesus' biological father. The genealogy that follows is
-       likely Mary's line.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
 v.4  — NET: "a voice of one shouting in the wilderness:
        'Prepare the way for the Lord'" — all translations quote
        Isaiah 40:3. Luke uniquely extends the Isaiah quotation
@@ -126,18 +105,35 @@ v.8  — NET: "produce fruit that proves your repentance" — "fruit
        "fruits worthy of repentance." NET makes the evidentiary
        nature of fruit explicit.
 
-v.14 — NET: "Some soldiers also asked him, 'And as for us—what
+v.14 — KJV: "Do violence to no man, neither accuse any falsely; and be
+       content with your wages" — ESV: "Do not extort money from anyone by
+       threats or by false accusation, and be content with your wages." —
+       Soldiers often supplemented their pay through intimidation and false
+       charges. John doesn't tell them to quit — he tells them to serve
+       with integrity.
+       NET: "Some soldiers also asked him, 'And as for us—what
        should we do?' He told them, 'Take money from no one by
        violence'" — "take money from no one by violence" (mēdena
        diaseisēte). KJV: "Do violence to no man." WEB: "Extort
        from no one by violence." The specific military corruption
        of extortion through intimidation.
 
-v.22 — NET: "the Holy Spirit descended on him in bodily form like
+v.22 — KJV: "Thou art my beloved Son" / ESV: "You are my beloved Son; with
+       you I am well pleased" — Both equivalent. Luke uses "Thou art" (second
+       person — spoken to Jesus) while Matthew uses "This is" (third person —
+       spoken about Jesus to others). Both are accurate — the Father spoke to
+       Jesus and about Jesus simultaneously.
+       NET: "the Holy Spirit descended on him in bodily form like
        a dove" — "in bodily form" is unique to Luke's account —
        the Spirit's descent was visible, not merely spiritual.
        WEB: "in bodily form like a dove." ASV: "in a bodily form,
        as a dove."
+
+v.23 — KJV: "being (as was supposed) the son of Joseph" / ESV: "being the
+       son (as was supposed) of Joseph, the son of Heli" — Both equivalent.
+       The parenthetical "(as was supposed)" is Luke's way of noting that
+       Joseph was not Jesus' biological father. The genealogy that follows is
+       likely Mary's line.
 
 v.38 — NET: "the son of Enosh, the son of Seth, the son of Adam,
        the son of God" — Luke traces Jesus' genealogy to Adam and

@@ -84,7 +84,7 @@ Charles Spurgeon:
   pulled the rug from under her. Let all who worship mammon take
   heed."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — "Tarshish" (KJV/ESV) — A distant port, likely in Spain
       (modern Tartessos). Tyre's ships sailed to Tarshish for tin
@@ -105,40 +105,6 @@ v.15 — "days of one king" (KJV/ESV) — 70 years as the span of
 v.17 — "hire of a harlot" (KJV) / "wages of a prostitute" (ESV)
       — Commerce without moral compass described as prostitution.
       Tyre sells itself to anyone with money.
-
-GLOSSARY
-------------------------------------
-Tyre         — Premier Phoenician port city on the Mediterranean
-              coast (modern Lebanon). Built partially on an island,
-              considered impregnable. Known for purple dye (from
-              murex snails), cedar trade, and shipbuilding.
-
-Tarshish     — Distant western port (likely Spain) representing
-              the farthest reach of maritime trade. "Ships of
-              Tarshish" = large ocean-going merchant vessels.
-
-Sidon        — Sister city of Tyre, also Phoenician, located
-              north of Tyre. Often paired with Tyre in Scripture.
-
-Chaldeans    — (v.13) The Babylonians (Neo-Babylonian Empire).
-              God's instrument for Tyre's judgment under
-              Nebuchadnezzar.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "This is an oracle about Tyre" — NET renders Hebrew "massa" as "oracle" rather than "burden" (KJV/ASV/WEB), losing the sense of a heavy pronouncement/judgment that "burden" conveys.
-
-- v.9 — ASV: "Jehovah of hosts" / WEB: "Yahweh of Armies" / NET: "The Lord of Heaven's Armies" — Three distinct renderings of YHWH Sabaoth. ASV retains "Jehovah," WEB uses "Yahweh," and NET expands dynamically to "Heaven's Armies," emphasizing cosmic authority over Tyre's earthly power.
-
-- v.8 — NET: "Who planned this for royal Tyre" — KJV's "the crowning city" and ASV's "the bestower of crowns" reflect Hebrew ha-ma'atirah (crown-giver), indicating Tyre conferred kingship on vassal states. NET's "royal" flattens this to mere status rather than active power.
-
-- v.9 — NET: "to dishonor the pride that comes from all her beauty, to humiliate all the dignitaries" — KJV/ASV/WEB retain the concrete Hebrew image "to stain the pride of all glory" (halal = to profane/defile). NET's "dishonor" and "humiliate" interpret rather than translate.
-
-- v.17 — NET: "She will start making money again by selling her services" — A dramatic departure from the literal Hebrew. KJV has "shall commit fornication," ASV/WEB have "play the harlot." NET removes the prostitution metaphor entirely, replacing it with economic language that loses Isaiah's deliberate theological imagery of idolatrous commerce.
-
-- v.11 — WEB: "Yahweh has ordered the destruction of Canaan's strongholds" / KJV: "the LORD hath given a commandment against the merchant city" — KJV translates "Canaan" as "merchant city" (interpreting the Hebrew), while WEB/ASV/NET retain the geographic name "Canaan," identifying Phoenicia as part of ancient Canaan.
-
-- v.18 — NET: "Her profits and earnings will be set apart for the Lord... used to purchase large quantities of food and beautiful clothes" — NET paraphrases extensively where KJV/ASV/WEB retain "holiness to Jehovah/Yahweh/the LORD" — the Hebrew qodesh carries sacred/consecrated meaning that "set apart" weakens.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

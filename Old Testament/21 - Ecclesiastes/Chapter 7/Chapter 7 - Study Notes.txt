@@ -125,7 +125,7 @@ Charles Spurgeon:
   you too must die, that life is brief, that only what is done
   for Christ will last. The cemetery is a school where every
   tombstone is a teacher. Go there and learn."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.16 — KJV: "Be not righteous over much" / ESV: "Be not overly
        righteous" — Hebrew "al-tehi tsaddiq harbeh." This is not
@@ -140,13 +140,6 @@ v.27 — KJV: "counting one by one" / ESV: "adding one thing to
        systematic, methodical investigation — examining case after
        case to arrive at conclusions about human nature.
 
-v.29 — KJV: "inventions" / ESV: "schemes" — Hebrew "chishbonot"
-       = calculations, devices, schemes. Not inventions in the
-       modern technological sense but moral deviations — the
-       crooked strategies humanity devises to avoid God's straight
-       path. The root is the same as "accounting" — humanity's
-       self-invented moral calculations.
-
 v.28 — KJV: "one man among a thousand have I found; but a woman
        among all those have I not found" — This difficult verse
        likely reflects Solomon's personal experience with his
@@ -154,6 +147,13 @@ v.28 — KJV: "one man among a thousand have I found; but a woman
        those relationships, built on political alliance rather
        than godliness, he found no faithful companion. The verse
        is experiential, not a universal statement about women.
+
+v.29 — KJV: "inventions" / ESV: "schemes" — Hebrew "chishbonot"
+       = calculations, devices, schemes. Not inventions in the
+       modern technological sense but moral deviations — the
+       crooked strategies humanity devises to avoid God's straight
+       path. The root is the same as "accounting" — humanity's
+       self-invented moral calculations.
 
 GLOSSARY
 ------------------------------------

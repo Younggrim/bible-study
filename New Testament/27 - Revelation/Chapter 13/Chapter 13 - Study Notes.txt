@@ -91,7 +91,7 @@ Charles Spurgeon:
  Endurance, not escape. Trust, not triumph (yet). The saints overcome not
  by fighting the beast but by remaining faithful to the Lamb."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "a beast rise up out of the sea, having seven heads and ten
  horns, and upon his horns ten crowns" / ESV: "a beast rising out of the
@@ -99,6 +99,12 @@ v.1 — KJV: "a beast rise up out of the sea, having seven heads and ten
  Greek "thērion" — a wild beast (different from "zōon" — living creature
  in ch.4). ESV uses "diadems" (Greek "diadēmata") for royal crowns. Note
  the order difference: KJV lists heads first, ESV lists horns first.
+       NET: "I saw a beast coming up out of the sea. It had
+       ten horns and seven heads" — "out of the sea" (ek tEs
+       thalassEs). WEB: "a beast coming up out of the sea." The
+       sea represents chaos/nations (17:15). Daniel 7's four beasts
+       combined into one — a composite of all human opposition to
+       God.
 
 v.2 — KJV: "like unto a leopard, and his feet were as the feet of a bear,
  and his mouth as the mouth of a lion" / ESV: "like a leopard; its feet
@@ -117,6 +123,11 @@ v.4 — KJV: "Who is like unto the beast? who is able to make war with him?"
  / ESV: "Who is like the beast, and who can fight against it?" — Both
  equivalent. A blasphemous parody of "Who is like unto thee, O LORD?"
  (Exodus 15:11).
+       NET: "they worshiped the dragon because he gave ruling
+       authority to the beast" — "worshiped the dragon" (prosekynEsan
+       tO drakonti). WEB: "they worshiped the dragon." KJV: "they
+       worshipped the dragon." Satan's ultimate goal achieved —
+       worship directed to himself through a human proxy.
 
 v.5 — KJV: "a mouth speaking great things and blasphemies" / ESV: "a mouth
  uttering haughty and blasphemous words" — ESV adds "haughty" (Greek
@@ -132,6 +143,12 @@ v.8 — KJV: "the Lamb slain from the foundation of the world" / ESV: "the
  Lamb's slaying (planned before creation). ESV connects it with names
  written in the book (elected before creation). Greek syntax allows both
  readings.
+       NET: "all those who live on the earth will worship the
+       beast, everyone whose name has not been written since the
+       foundation of the world in the book of life" — "since the
+       foundation" (apo katabolEs kosmou). WEB: "from the
+       foundation of the world." Names written BEFORE creation —
+       divine foreknowledge and election.
 
 v.10 — KJV: "He that leadeth into captivity shall go into captivity: he that
  killeth with the sword must be killed with the sword" / ESV: "If anyone
@@ -139,6 +156,11 @@ v.10 — KJV: "He that leadeth into captivity shall go into captivity: he that
  with the sword, with the sword must he be slain" — ESV follows a
  different textual variant, reading it as a call to accept God's
  sovereign will rather than a promise of retribution.
+       NET: "This requires steadfast endurance and faith from the
+       saints" — "steadfast endurance" (hypomonE = patient
+       perseverance under pressure). WEB: "Here is the perseverance
+       and the faith of the saints." In the face of the beast's
+       power, endurance IS victory.
 
 v.11 — KJV: "two horns like a lamb, and he spake as a dragon" / ESV: "two
  horns like a lamb and it spoke like a dragon" — Both equivalent.
@@ -161,36 +183,7 @@ v.18 — KJV: "Six hundred threescore and six" / ESV: "666" — Both identical
  gematria, (2) symbolic: 6 = man's number (one short of 7/perfection),
  tripled for emphasis — the ultimate human pretension to deity, (3) a
  future identification system.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "I saw a beast coming up out of the sea. It had
-       ten horns and seven heads" — "out of the sea" (ek tEs
-       thalassEs). WEB: "a beast coming up out of the sea." The
-       sea represents chaos/nations (17:15). Daniel 7's four beasts
-       combined into one — a composite of all human opposition to
-       God.
-
-v.4  — NET: "they worshiped the dragon because he gave ruling
-       authority to the beast" — "worshiped the dragon" (prosekynEsan
-       tO drakonti). WEB: "they worshiped the dragon." KJV: "they
-       worshipped the dragon." Satan's ultimate goal achieved —
-       worship directed to himself through a human proxy.
-
-v.8  — NET: "all those who live on the earth will worship the
-       beast, everyone whose name has not been written since the
-       foundation of the world in the book of life" — "since the
-       foundation" (apo katabolEs kosmou). WEB: "from the
-       foundation of the world." Names written BEFORE creation —
-       divine foreknowledge and election.
-
-v.10 — NET: "This requires steadfast endurance and faith from the
-       saints" — "steadfast endurance" (hypomonE = patient
-       perseverance under pressure). WEB: "Here is the perseverance
-       and the faith of the saints." In the face of the beast's
-       power, endurance IS victory.
-
-v.18 — NET: "let the one who has insight calculate the beast's
+       NET: "let the one who has insight calculate the beast's
        number, for it is man's number, and his number is 666" —
        "man's number" (arithmos anthrOpou). WEB: "his number is
        six hundred sixty-six." Some manuscripts read 616. Gematria

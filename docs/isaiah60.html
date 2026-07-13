@@ -525,12 +525,18 @@
             </div>
             <div class="tab-content" id="tab-translations">
                 <h3>Translations</h3>
-                <ul>
-                    <li><strong>v.1</strong> → "Arise, shine" (KJV → ESV) — Hebrew "qumi ori" = rise up, be light/shine. Imperative commands: action required. The light is available; you must RECEIVE and REFLECT it.</li>
-                    <li><strong>v.6</strong> → "dromedaries of Midian" (KJV) / "young camels" (ESV) — Hebrew "bikrey" = young camels. Caravans from Arabia bringing wealth — the trade routes redirected toward Zion.</li>
-                    <li><strong>v.17</strong> → "gold instead of brass" (KJV) / "gold instead of bronze" (ESV) — Upgrade: every material replaced with something better. Bronze → gold, iron → silver, wood → bronze, stones → iron. Total quality elevation.</li>
-                    <li><strong>v.19</strong> → "everlasting light" (KJV → ESV) — Hebrew "or olam" = light of eternity. Not cyclical (rising/setting) but PERMANENT. No more nightfall, no more darkness, no more shadows.</li>
-                </ul>
+                                    <div class="trans-filter">
+                        <span class="trans-filter-label">Show translations:</span>
+                        <label class="trans-check trans-check-kjv"><input type="checkbox" value="KJV" checked onchange="filterTranslations()"><span class="trans-badge trans-kjv">KJV</span></label>
+                        <label class="trans-check trans-check-esv"><input type="checkbox" value="ESV" checked onchange="filterTranslations()"><span class="trans-badge trans-esv">ESV</span></label>
+                        <label class="trans-check trans-check-asv"><input type="checkbox" value="ASV" checked onchange="filterTranslations()"><span class="trans-badge trans-asv">ASV</span></label>
+                        <label class="trans-check trans-check-net"><input type="checkbox" value="NET" checked onchange="filterTranslations()"><span class="trans-badge trans-net">NET</span></label>
+                        <label class="trans-check trans-check-web"><input type="checkbox" value="WEB" checked onchange="filterTranslations()"><span class="trans-badge trans-web">WEB</span></label>
+                    </div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.1</strong> — &quot;Arise, shine&quot; (<span class="trans-label trans-kjv">KJV</span>/<span class="trans-label trans-esv">ESV</span>) — Hebrew &quot;qumi ori&quot; = rise up,<br>be light/shine. Imperative commands: action required. The<br>light is available; you must RECEIVE and REFLECT it.</p></div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.6</strong> — &quot;dromedaries of Midian&quot; (<span class="trans-label trans-kjv">KJV</span>) / &quot;young camels&quot; (<span class="trans-label trans-esv">ESV</span>) —<br>Hebrew &quot;bikrey&quot; = young camels. Caravans from Arabia bringing<br>wealth — the trade routes redirected toward Zion.</p></div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.17</strong> — &quot;gold instead of brass&quot; (<span class="trans-label trans-kjv">KJV</span>) / &quot;gold instead of bronze&quot;<br>(<span class="trans-label trans-esv">ESV</span>) — Upgrade: every material replaced with something<br>better. Bronze → gold, iron → silver, wood → bronze,<br>stones → iron. Total quality elevation.</p></div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.19</strong> — &quot;everlasting light&quot; (<span class="trans-label trans-kjv">KJV</span>/<span class="trans-label trans-esv">ESV</span>) — Hebrew &quot;or olam&quot; = light<br>of eternity. Not cyclical (rising/setting) but PERMANENT.<br>No more nightfall, no more darkness, no more shadows.</p></div>
             </div>
             <div class="tab-content" id="tab-videos">
                 <h3>Videos</h3>

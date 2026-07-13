@@ -84,7 +84,7 @@ Charles Spurgeon:
   'Behold my baptism' or 'Behold my ministry' — he says Behold the Lamb. The
   whole purpose of a true minister is to point men to Christ."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — Greek "Logos" (Word)
   KJV: "the Word" — identical across translations
@@ -163,7 +163,6 @@ v.51 — Greek "Amen, amen"
   ASV: "Verily, verily, I say unto you"
   NET: "I tell all of you the solemn truth" — captures the weight of Jesus' double-amen formula
   WEB: "Most certainly, I tell you all"
-
 
 GLOSSARY
 ------------------------------------

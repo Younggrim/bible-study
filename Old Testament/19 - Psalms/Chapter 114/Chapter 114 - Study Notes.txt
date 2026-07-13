@@ -77,7 +77,7 @@ v.8   — Numbers 20:11 — Water from the rock at Meribah.
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — "a people of strange language" — Hebrew "lo'ez" = foreign
       speech, barbarous tongue. Egypt's language was alien to the
@@ -91,16 +91,6 @@ v.7 — "the God of Jacob" — Not "the God of heaven" or "the
       Almighty" but specifically "of Jacob." The wrestler, the
       supplanter, the flawed man. This cosmic God binds Himself
       to ordinary people.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — KJV: "a people of strange language" / WEB: "a people of foreign language" / NET: "a foreign nation" — NET generalizes from linguistic difference to national identity. The Hebrew "lo'ez" specifically refers to unintelligible speech, which KJV/ASV/WEB preserve.
-- v.2 — KJV/ASV/WEB: "his dominion" / NET: "his kingdom" — NET uses "kingdom" for Hebrew "memshalah" (dominion/rule), making the political metaphor more concrete.
-- v.3 — NET: "the Jordan River" — NET adds "River" for clarity where KJV/ASV/WEB simply say "Jordan." This is typical of NET's approach to aid modern readers unfamiliar with biblical geography.
-- v.5 — NET: "Why do you flee, O sea?" — NET transforms KJV's dramatic past-tense question "What ailed thee, O thou sea, that thou fleddest?" into present tense, losing some of the poetic archaic force but gaining directness.
-- v.7 — KJV/ASV: "the presence of the Lord" (Heb. "Adon") — Notably, this psalm uses "Adon" (Lord/Master) rather than YHWH. ASV does NOT use "Jehovah" here because the Hebrew text has a different word. WEB similarly has "the Lord" rather than "Yahweh."
-- v.8 — KJV: "a standing water" / ASV/WEB: "a pool of water" / NET: "a pool of water" — KJV's "standing water" is more literal (water that stands/pools) but archaic. All modern versions clarify as "pool."
-- v.8 — KJV: "the flint into a fountain of waters" / NET: "a hard rock into springs of water" — NET replaces "flint" with "hard rock" (interpreting the specific mineral term) and "fountain" with "springs" (plural, emphasizing abundance).
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

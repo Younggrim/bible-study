@@ -89,7 +89,7 @@ Charles Spurgeon:
   the wilderness. He ascended into the glory of God. And He will return
   the same way — visibly, physically, gloriously."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "The former treatise" / ESV: "In the first book" — Greek "logos"
        simply means "account" or "narrative." The ESV's "first book" is more
@@ -105,26 +105,18 @@ v.5  — KJV: "baptized with the Holy Ghost" / ESV: "baptized with the Holy
        Spirit" — Both equivalent. "Ghost" and "Spirit" translate the same Greek
        word "pneuma." Not water baptism but Spirit baptism — the immersion/
        filling of believers with the Holy Spirit, fulfilled at Pentecost (ch.2).
+       NET: "you will be baptized with the Holy Spirit not
+       many days from now" — "baptized with" (en pneumati
+       baptisthesesthe). WEB: "you will be baptized in the Holy
+       Spirit." KJV: "ye shall be baptized with the Holy Ghost."
+       The preposition "in/with" is the same Greek word (en).
 
 v.8  — KJV: "witnesses unto me" / ESV: "my witnesses" — Both equivalent.
        Greek "martures" — from which we get "martyrs." A witness testifies to
        what they have seen and experienced — even at the cost of their lives.
        KJV: "uttermost part of the earth" / ESV: "end of the earth" — both
        render Greek "eschatou tēs gēs."
-
-v.11 — KJV: "in like manner" / ESV: "in the same way" — Both equivalent.
-       Visibly, physically, bodily. The ascension was not a metaphor; neither
-       will the return be.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.5  — NET: "you will be baptized with the Holy Spirit not
-       many days from now" — "baptized with" (en pneumati
-       baptisthesesthe). WEB: "you will be baptized in the Holy
-       Spirit." KJV: "ye shall be baptized with the Holy Ghost."
-       The preposition "in/with" is the same Greek word (en).
-
-v.8  — NET: "you will receive power when the Holy Spirit has come
+       NET: "you will receive power when the Holy Spirit has come
        upon you, and you will be my witnesses" — "power" (dynamin)
        and "witnesses" (martyres, from which we get "martyr"). WEB:
        "you will receive power when the Holy Spirit has come upon
@@ -136,7 +128,10 @@ v.9  — NET: "he was lifted up while they were watching, and a
        their sight." KJV: "a cloud received him out of their
        sight." The Ascension completes the earthly ministry.
 
-v.11 — NET: "This same Jesus who has been taken up from you into
+v.11 — KJV: "in like manner" / ESV: "in the same way" — Both equivalent.
+       Visibly, physically, bodily. The ascension was not a metaphor; neither
+       will the return be.
+       NET: "This same Jesus who has been taken up from you into
        heaven will come back in the same way" — "in the same way"
        (hon tropon) — visible, bodily, from the sky. WEB: "will
        come back in the same way." The Second Coming will mirror

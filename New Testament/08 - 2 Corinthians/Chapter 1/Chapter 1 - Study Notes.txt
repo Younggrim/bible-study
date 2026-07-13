@@ -84,16 +84,27 @@ Charles Spurgeon:
   are in Christ, every promise God has ever made is yours — confirmed,
   sealed, certain."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.3  — KJV: "the God of all comfort" / ESV: "mercies and God of all comfort" — Greek "paraklēseōs" — comfort,
        encouragement, consolation. The same root as "Paraclete" (the Holy
        Spirit). God is the source of all genuine comfort.
+       NET: "Blessed is the God and Father of our Lord Jesus
+       Christ, the Father of mercies and God of all comfort" —
+       "Father of mercies" (patEr tOn oiktirmOn). WEB: "the Father
+       of mercies and God of all comfort." KJV: "the Father of
+       mercies, and the God of all comfort." Mercy defines God's
+       paternal character.
 
 v.4  — KJV: "comforteth us in all our tribulation" / ESV: "who comforts us in all our affliction, so that we may be" — The comfort is IN the
        tribulation, not FROM it. God doesn't always remove suffering — He
        comforts us through it.
+
+v.5  — NET: "For just as the sufferings of Christ overflow toward
+       us, so also our comfort through Christ overflows to you" —
+       "overflow" (perisseuei = abounds/exceeds). WEB: "as the
+       sufferings of Christ abound to us." Suffering and comfort
+       both come in abundance — the ratio is maintained.
 
 v.9  — KJV: "the sentence of death in ourselves" / ESV: "we felt that we had received the sentence of death" — Paul felt he was going to
        die. The purpose: "that we should not trust in ourselves." Extreme
@@ -102,33 +113,16 @@ v.9  — KJV: "the sentence of death in ourselves" / ESV: "we felt that we had r
 v.20 — KJV: "yea, and in him Amen" / ESV: "him. That is why it is through him" — "Yea" = yes (God's affirmation).
        "Amen" = so be it (our response). Every promise is God's "yes" and
        our "amen" — confirmed in Christ.
-
-v.22 — KJV: "earnest of the Spirit" / ESV: "given us his Spirit in our hearts as" — Greek "arrabōn" — a down payment,
-       a deposit guaranteeing the full amount. The Spirit in you is God's
-       deposit guaranteeing your full inheritance.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "Blessed is the God and Father of our Lord Jesus
-       Christ, the Father of mercies and God of all comfort" —
-       "Father of mercies" (patEr tOn oiktirmOn). WEB: "the Father
-       of mercies and God of all comfort." KJV: "the Father of
-       mercies, and the God of all comfort." Mercy defines God's
-       paternal character.
-
-v.5  — NET: "For just as the sufferings of Christ overflow toward
-       us, so also our comfort through Christ overflows to you" —
-       "overflow" (perisseuei = abounds/exceeds). WEB: "as the
-       sufferings of Christ abound to us." Suffering and comfort
-       both come in abundance — the ratio is maintained.
-
-v.20 — NET: "For every one of God's promises are 'Yes' in him" —
+       NET: "For every one of God's promises are 'Yes' in him" —
        "Yes" (nai = affirmative). WEB: "For however many are the
        promises of God, in him is the 'Yes.'" KJV: "all the
        promises of God in him are yea, and in him Amen." Christ is
        the fulfillment of every divine promise.
 
-v.22 — NET: "who also sealed us and gave us the Spirit in our
+v.22 — KJV: "earnest of the Spirit" / ESV: "given us his Spirit in our hearts as" — Greek "arrabōn" — a down payment,
+       a deposit guaranteeing the full amount. The Spirit in you is God's
+       deposit guaranteeing your full inheritance.
+       NET: "who also sealed us and gave us the Spirit in our
        hearts as a down payment" — "down payment" (arrabOna =
        deposit/guarantee/earnest). KJV: "the earnest of the Spirit."
        WEB: "the down payment of the Spirit." A commercial term —

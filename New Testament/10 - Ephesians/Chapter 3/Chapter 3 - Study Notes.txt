@@ -117,12 +117,18 @@ Charles Spurgeon:
   enough for all, length enough for eternity, depth enough for the worst
   sinner, height enough to reach the throne."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "the prisoner of Jesus Christ" / ESV: "Paul, a prisoner of Christ Jesus on behalf" — Not Rome's prisoner but
        Christ's. Paul reframes his imprisonment: he is in chains because of
        his ministry to Gentiles, and he belongs to Christ, not Caesar.
+
+v.5  — NET: "that the Gentiles are fellow heirs, fellow
+       members of the body, and fellow partakers of the promise
+       in Christ Jesus" — three "fellow" (syn-) compounds:
+       synklEronoma, syssOma, symmetocha. WEB: "fellow heirs and
+       fellow members of the body, and fellow partakers of his
+       promise." The triple syn- emphasizes full equality.
 
 v.6  — Three "syn-" (together) compounds in Greek: "synklēronoma" (fellow-
        heirs), "syssōma" (fellow-body), "symmetocha" (fellow-partakers).
@@ -133,6 +139,12 @@ v.8  — KJV: "less than the least" / ESV: "though I am the very least of all" �
        form of a superlative. Paul invents a word: "leaster than the least."
        Grammatically impossible but theologically profound — his humility
        grows as his understanding of grace deepens.
+       NET: "To me — Loss less than the least of all the saints —
+       this grace was given" — "less than the least" (tO
+       elachistoterO = a comparative of a superlative — grammatically
+       impossible, emotionally powerful). WEB: "to me, the very
+       least of all saints." Paul invents a word to express his
+       unworthiness.
 
 v.10 — KJV: "manifold wisdom" / ESV: Both equivalent. — Greek "polupoikilos" — many-colored,
        multi-faceted, infinitely varied. Like a diamond with countless
@@ -142,11 +154,22 @@ v.10 — KJV: "manifold wisdom" / ESV: Both equivalent. — Greek "polupoikilos"
 v.16 — KJV: "inner man" / ESV: "in your inner being" — Greek "esō anthrōpon" — the inner person, the
        spiritual self as opposed to the outer, physical self. The real you
        that needs strengthening.
+       NET: "that he may grant you to be strengthened with power
+       through his Spirit in the inner person" — "inner person"
+       (eis ton esO anthrOpon). WEB: "strengthened with power
+       through his Spirit in the inner person." KJV: "strengthened
+       with might by his Spirit in the inner man." The Spirit's
+       primary work is internal.
 
 v.18 — KJV: "breadth, and length, and depth, and height" / ESV: "what is the breadth and length and height and depth" — Four dimensions
        of Christ's love. Some see: breadth = extends to all people; length =
        lasts forever; depth = reaches the lowest sinner; height = lifts to
        the highest glory.
+       NET: "may be able to comprehend with all the saints what
+       is the breadth and length and height and depth" — four
+       dimensions of Christ's love. WEB: "the breadth and length
+       and height and depth." No object specified — the love is so
+       vast it requires spatial metaphor yet exceeds all dimensions.
 
 v.19 — KJV: "filled with all the fulness of God" / ESV: "may be filled with all the fullness of God" — Greek "plērōma" — the
        same word used of Christ in Col 2:9. Believers are to be filled with
@@ -155,37 +178,7 @@ v.19 — KJV: "filled with all the fulness of God" / ESV: "may be filled with al
 v.20 — KJV: "exceeding abundantly above" / ESV: "to do far more abundantly than all" — Greek "huper ek perissou" —
        super-abundantly beyond. Three intensifiers stacked: above + out of +
        abundance. Paul strains language to express God's limitless ability.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.5  — NET: "that the Gentiles are fellow heirs, fellow
-       members of the body, and fellow partakers of the promise
-       in Christ Jesus" — three "fellow" (syn-) compounds:
-       synklEronoma, syssOma, symmetocha. WEB: "fellow heirs and
-       fellow members of the body, and fellow partakers of his
-       promise." The triple syn- emphasizes full equality.
-
-v.8  — NET: "To me — Loss less than the least of all the saints —
-       this grace was given" — "less than the least" (tO
-       elachistoterO = a comparative of a superlative — grammatically
-       impossible, emotionally powerful). WEB: "to me, the very
-       least of all saints." Paul invents a word to express his
-       unworthiness.
-
-v.16 — NET: "that he may grant you to be strengthened with power
-       through his Spirit in the inner person" — "inner person"
-       (eis ton esO anthrOpon). WEB: "strengthened with power
-       through his Spirit in the inner person." KJV: "strengthened
-       with might by his Spirit in the inner man." The Spirit's
-       primary work is internal.
-
-v.18 — NET: "may be able to comprehend with all the saints what
-       is the breadth and length and height and depth" — four
-       dimensions of Christ's love. WEB: "the breadth and length
-       and height and depth." No object specified — the love is so
-       vast it requires spatial metaphor yet exceeds all dimensions.
-
-v.20 — NET: "Now to him who by the power that is working within
+       NET: "Now to him who by the power that is working within
        us is able to do far beyond all that we ask or think" —
        "far beyond" (hyper ek perissou = super-abundantly above).
        WEB: "exceedingly abundantly above all that we ask or

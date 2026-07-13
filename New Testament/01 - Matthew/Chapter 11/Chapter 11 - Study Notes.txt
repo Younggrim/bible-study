@@ -90,8 +90,14 @@ Charles Spurgeon:
   the universe describes Himself as meek and lowly. That is not weakness —
   it is the character of God. And He invites us to learn it from Him."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.5  — NET: "the blind see, the lame walk, lepers are cleansed,
+       the deaf hear, the dead are raised, and the poor have good
+       news proclaimed to them" — Jesus answers John's doubt with
+       evidence from Isaiah 35:5-6 and 61:1. WEB: "the blind
+       receive their sight." Actions speak louder than assertions.
+
 v.6  — KJV: "offended in me" — ESV: "takes no offense at me" — Greek
        "skandalizō" — to stumble, to be tripped up. Jesus acknowledges that
        His methods will trip people up. Blessed is the one who trusts Him
@@ -103,26 +109,7 @@ v.12 — KJV: "the kingdom of heaven suffereth violence, and the violent take
        (2) the kingdom requires forceful, determined pursuit. ESV: "the
        kingdom of heaven has suffered violence, and the violent take it by
        force." NET: "the kingdom of heaven has been forcefully advancing."
-
-v.28 — KJV: "labour and are heavy laden" / ESV: "labor and are heavy laden" —
-       Both identical in meaning. Two different Greek words: "kopiaō"
-       (exhausting toil) and "phortizō" (burdened with a heavy load). Jesus
-       addresses both the exhausted worker and the crushed burden-bearer.
-
-v.29 — KJV: "my yoke is easy" / ESV: "my yoke is easy" — Both identical.
-       Greek "chrēstos" — well-fitting, kind, useful. A yoke that fits
-       properly doesn't chafe. Christ's commands are designed to fit us —
-       they are not arbitrary burdens.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.5  — NET: "the blind see, the lame walk, lepers are cleansed,
-       the deaf hear, the dead are raised, and the poor have good
-       news proclaimed to them" — Jesus answers John's doubt with
-       evidence from Isaiah 35:5-6 and 61:1. WEB: "the blind
-       receive their sight." Actions speak louder than assertions.
-
-v.12 — NET: "the kingdom of heaven has been forcefully advancing,
+       NET: "the kingdom of heaven has been forcefully advancing,
        and forceful people are seizing it" — "forcefully advancing"
        (biazetai — debated: middle or passive voice). WEB: "the
        Kingdom of Heaven suffers violence." KJV: "the kingdom of
@@ -135,11 +122,20 @@ v.19 — NET: "The Son of Man came eating and drinking, and they
        gluttonous man and a drunkard." Jesus was slandered for
        His table fellowship — He was neither but was accused.
 
-v.28 — NET: "Come to me, all you who are weary and burdened, and
+v.28 — KJV: "labour and are heavy laden" / ESV: "labor and are heavy laden" —
+       Both identical in meaning. Two different Greek words: "kopiaō"
+       (exhausting toil) and "phortizō" (burdened with a heavy load). Jesus
+       addresses both the exhausted worker and the crushed burden-bearer.
+       NET: "Come to me, all you who are weary and burdened, and
        I will give you rest" — "weary" (kopiontes = laboring to
        exhaustion) and "burdened" (pephortismenoi = loaded down).
        WEB: "Come to me, all you who labor and are heavily
        burdened." The most tender invitation in the Gospels.
+
+v.29 — KJV: "my yoke is easy" / ESV: "my yoke is easy" — Both identical.
+       Greek "chrēstos" — well-fitting, kind, useful. A yoke that fits
+       properly doesn't chafe. Christ's commands are designed to fit us —
+       they are not arbitrary burdens.
 
 v.30 — NET: "For my yoke is easy to bear, and my load is not
        hard to carry" — "easy" (chrEstos = well-fitting/kind) and

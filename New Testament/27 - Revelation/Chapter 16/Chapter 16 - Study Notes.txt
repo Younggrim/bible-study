@@ -74,12 +74,17 @@ Charles Spurgeon:
  finished works. God's mercy has a 'finished.' God's wrath has a 'done.'
  Nothing remains incomplete in God's plan."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "pour out the vials of the wrath of God upon the earth" / ESV:
  "pour out on the earth the seven bowls of the wrath of God" — ESV uses
  "bowls" (Greek "phialas" — broad, shallow bowls poured out quickly).
  KJV's "vials" suggests narrow containers, which is less accurate.
+       NET: "Go and pour out on the earth the seven bowls of
+       the wrath of God" — "pour out" (ekcheate = empty/dump out).
+       WEB: "Go and pour out the seven bowls of the wrath of God."
+       No restraint, no mixture — pure, undiluted divine wrath
+       released.
 
 v.2 — KJV: "a noisome and grievous sore" / ESV: "harmful and painful sores"
  — Both equivalent. KJV's "noisome" (archaic for noxious/harmful) is
@@ -95,6 +100,11 @@ v.5 — KJV: "Thou art righteous, O Lord, which art, and wast, and shalt be"
  better manuscripts). The omission may suggest God's future coming is now
  present — He has arrived in judgment. ESV uses "Holy One" where KJV has
  "Lord."
+       NET: "You are just — the one who is and who was, the Holy
+       One — because you have passed these judgments" — "you are
+       just" (dikaios ei). WEB: "You are righteous." Even the
+       angel of the waters affirms God's justice in judgment —
+       these plagues are DESERVED.
 
 v.6 — KJV: "for they are worthy" / ESV: "It is what they deserve!" — ESV
  makes the retributive justice more explicit. Greek "axioi" — worthy,
@@ -109,6 +119,11 @@ v.9 — KJV: "repented not to give him glory" / ESV: "They did not repent and
  give him glory" — Both equivalent. Three times in this chapter (vv.9,
  11, 21) humanity refuses to repent. Judgment alone cannot produce
  repentance.
+       NET: "people were scorched by the terrible heat, yet they
+       blasphemed the name of God... and refused to repent" —
+       "refused to repent" (ou metenoEsan). WEB: "they didn't
+       repent." Repeated refrain (vv.9, 11, 21) — judgment hardens
+       rather than softens those who refuse God.
 
 v.13 — KJV: "three unclean spirits like frogs" / ESV: "three unclean
  spirits like frogs" — Both identical. Frogs = unclean animals (Lev
@@ -122,11 +137,21 @@ v.14 — KJV: "the spirits of devils, working miracles" / ESV: "demonic
 v.15 — KJV: "Blessed is he that watcheth, and keepeth his garments" / ESV:
  "Blessed is the one who stays awake, keeping his garments on" — Both
  equivalent. ESV modernizes the language.
+       NET: "Look! I will come like a thief! Blessed is the one
+       who stays alert" — "stays alert" (grEgorOn = watching).
+       WEB: "Blessed is he who watches." KJV: "Blessed is he that
+       watcheth." Christ's voice interrupts the bowl judgments —
+       the third beatitude of Revelation.
 
 v.16 — KJV: "Armageddon" / ESV: "Armageddon" — Both identical. Hebrew
  "Har-Megiddo" — the mountain/hill of Megiddo. A plain in northern
  Israel where many battles were fought. The gathering place for the final
  battle against Christ.
+       NET: "they assembled them at the place that in Hebrew is
+       called Armageddon" — "Armageddon" (HarmagedOn = Mountain of
+       Megiddo). WEB: "Har-Magedon." KJV: "Armageddon." The great
+       battlefield — whether literal or symbolic of the final
+       conflict between God and evil.
 
 v.17 — KJV: "It is done" / ESV: "It is done!" — Both identical. Greek
  "gegonen" — it has happened, it is accomplished. Perfect tense:
@@ -143,38 +168,6 @@ v.21 — KJV: "every stone about the weight of a talent" / ESV: "about one
  because of the plague of the hail" / ESV: "they cursed God for the
  plague of the hail" — ESV uses "cursed" for Greek "eblasphēmēsan"
  rather than "blasphemed."
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "Go and pour out on the earth the seven bowls of
-       the wrath of God" — "pour out" (ekcheate = empty/dump out).
-       WEB: "Go and pour out the seven bowls of the wrath of God."
-       No restraint, no mixture — pure, undiluted divine wrath
-       released.
-
-v.5  — NET: "You are just — the one who is and who was, the Holy
-       One — because you have passed these judgments" — "you are
-       just" (dikaios ei). WEB: "You are righteous." Even the
-       angel of the waters affirms God's justice in judgment —
-       these plagues are DESERVED.
-
-v.9  — NET: "people were scorched by the terrible heat, yet they
-       blasphemed the name of God... and refused to repent" —
-       "refused to repent" (ou metenoEsan). WEB: "they didn't
-       repent." Repeated refrain (vv.9, 11, 21) — judgment hardens
-       rather than softens those who refuse God.
-
-v.15 — NET: "Look! I will come like a thief! Blessed is the one
-       who stays alert" — "stays alert" (grEgorOn = watching).
-       WEB: "Blessed is he who watches." KJV: "Blessed is he that
-       watcheth." Christ's voice interrupts the bowl judgments —
-       the third beatitude of Revelation.
-
-v.16 — NET: "they assembled them at the place that in Hebrew is
-       called Armageddon" — "Armageddon" (HarmagedOn = Mountain of
-       Megiddo). WEB: "Har-Magedon." KJV: "Armageddon." The great
-       battlefield — whether literal or symbolic of the final
-       conflict between God and evil.
 
 GLOSSARY
 ------------------------------------

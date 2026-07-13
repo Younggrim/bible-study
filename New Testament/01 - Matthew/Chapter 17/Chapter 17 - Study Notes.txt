@@ -89,34 +89,22 @@ Charles Spurgeon:
   A grain of mustard seed is tiny, but it is alive. Dead faith the size of
   a mountain moves nothing. Living faith the size of a seed moves everything."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "transfigured" / ESV: "transfigured" — Both identical. Greek
        "metamorphoō" — transformed, changed in form. The same word used in
        Romans 12:2 ("be transformed by the renewing of your mind"). Jesus'
        inner glory became outwardly visible.
+       NET: "his face shone like the sun, and his clothes
+       became white as light" — "shone" (elampsen = radiated/
+       blazed). WEB: "his face shone like the sun." KJV: "his face
+       did shine as the sun." The veil of humanity momentarily
+       pulled back — the divine glory breaks through.
 
 v.4  — KJV: "three tabernacles" — ESV: "three tents" — Peter wanted to
        prolong the mountaintop experience and put Jesus on the same level as
        Moses and Elijah. The Father's voice corrected this — Jesus is above
        both.
-
-v.20 — KJV: "Because of your unbelief" — Some manuscripts read "Because of
-       your little faith" (ESV: "little faith"). Either way, the issue is
-       insufficient trust in God's power.
-
-v.21 — KJV: "this kind goeth not out but by prayer and fasting" — This verse
-       is absent from some manuscripts (ESV footnote). If original, it
-       indicates that some spiritual battles require deeper preparation
-       through prayer and fasting.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "his face shone like the sun, and his clothes
-       became white as light" — "shone" (elampsen = radiated/
-       blazed). WEB: "his face shone like the sun." KJV: "his face
-       did shine as the sun." The veil of humanity momentarily
-       pulled back — the divine glory breaks through.
 
 v.5  — NET: "This is my one dear Son, in whom I take great
        delight. Listen to him!" — "Listen to him!" (akouete autou
@@ -131,12 +119,20 @@ v.14 — NET: "Lord, have mercy on my son, because he has seizures
        but the cause is demonic (v.18). Medical and spiritual
        realities coexist.
 
-v.20 — NET: "if you have faith the size of a mustard seed, you
+v.20 — KJV: "Because of your unbelief" — Some manuscripts read "Because of
+       your little faith" (ESV: "little faith"). Either way, the issue is
+       insufficient trust in God's power.
+       NET: "if you have faith the size of a mustard seed, you
        will say to this mountain, 'Move from here to there,' and
        it will move" — "mustard seed" — the smallest measure of
        genuine faith moves mountains. WEB: "faith as a grain of
        mustard seed." The quantity isn't the issue — the quality
        (genuine, God-directed) matters.
+
+v.21 — KJV: "this kind goeth not out but by prayer and fasting" — This verse
+       is absent from some manuscripts (ESV footnote). If original, it
+       indicates that some spiritual battles require deeper preparation
+       through prayer and fasting.
 
 v.22 — NET: "The Son of Man is going to be betrayed into the
        hands of men" — "betrayed" (paradidosthai = handed over/

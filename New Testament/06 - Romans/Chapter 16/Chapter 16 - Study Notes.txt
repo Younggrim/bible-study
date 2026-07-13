@@ -85,44 +85,32 @@ Charles Spurgeon:
   ages, now revealed in Christ — is the masterpiece of infinite intelligence.
   And the only appropriate response is glory — forever. Amen."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "servant" / ESV: Both equivalent. — Greek "diakonon" — deacon/servant. Phoebe held an
        official role in the church at Cenchrea. The same word used for male
        deacons.
-
-v.7  — KJV: "Andronicus and Junia" / ESV: Both equivalent. — "Junia" is likely a woman's name (most
-       early church fathers understood it this way). "Of note among the
-       apostles" — either "notable among the apostles" or "well-known to the
-       apostles." Debated.
-
-v.16 — KJV: "holy kiss" / ESV: Both equivalent. — A common greeting in the ancient world — a kiss on
-       the cheek expressing Christian love and equality. Cultural expression
-       of genuine affection.
-
-v.22 — KJV: "I Tertius, who wrote this epistle" / ESV: "I Tertius, who wrote this letter, greet" — Paul's scribe identifies
-       himself. Paul dictated; Tertius wrote. This was common practice.
-
-v.25 — KJV: "the mystery" / ESV: Both equivalent. — Not something mysterious but something previously
-       hidden and now revealed: God's plan to save Gentiles through faith in
-       Christ, apart from the Law.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "I commend to you our sister Phoebe, who is a
+       NET: "I commend to you our sister Phoebe, who is a
        servant of the church in Cenchreae" — "servant" (diakonon
        = deacon/minister). WEB: "a servant of the assembly." KJV:
        "a servant of the church." Whether this indicates the office
        of deacon or general service is debated. She likely carried
        this letter to Rome.
 
-v.7  — NET: "Greet Andronicus and Junia, my compatriots and my
+v.7  — KJV: "Andronicus and Junia" / ESV: Both equivalent. — "Junia" is likely a woman's name (most
+       early church fathers understood it this way). "Of note among the
+       apostles" — either "notable among the apostles" or "well-known to the
+       apostles." Debated.
+       NET: "Greet Andronicus and Junia, my compatriots and my
        fellow prisoners. They are well known to the apostles" —
        "Junia" — likely a woman (NET/ESV). Some manuscripts have
        "Junias" (masculine). WEB: "Junias." KJV: "Junia." If
        female, she was "outstanding among the apostles" — though
        "known to" vs. "among" is also debated.
+
+v.16 — KJV: "holy kiss" / ESV: Both equivalent. — A common greeting in the ancient world — a kiss on
+       the cheek expressing Christian love and equality. Cultural expression
+       of genuine affection.
 
 v.17 — NET: "watch out for those who create dissensions and
        obstacles" — "watch out" (skopein = keep your eye on/mark).
@@ -136,7 +124,13 @@ v.20 — NET: "The God of peace will quickly crush Satan under your
        Satan under your feet shortly." The promise of final victory
        — and it is SOON and UNDER YOUR FEET (the church participates).
 
-v.25 — NET: "to the only wise God, through Jesus Christ, be glory
+v.22 — KJV: "I Tertius, who wrote this epistle" / ESV: "I Tertius, who wrote this letter, greet" — Paul's scribe identifies
+       himself. Paul dictated; Tertius wrote. This was common practice.
+
+v.25 — KJV: "the mystery" / ESV: Both equivalent. — Not something mysterious but something previously
+       hidden and now revealed: God's plan to save Gentiles through faith in
+       Christ, apart from the Law.
+       NET: "to the only wise God, through Jesus Christ, be glory
        forever! Amen" — the closing doxology. WEB: "to the only
        wise God, through Jesus Christ, to whom be the glory forever!
        Amen." KJV: "To God only wise, be glory through Jesus Christ

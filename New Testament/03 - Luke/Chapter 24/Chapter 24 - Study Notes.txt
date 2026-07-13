@@ -102,42 +102,21 @@ Charles Spurgeon:
   He is risen. He is alive. And He walks with you on the road — even when
   you don't recognize Him."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.5  — KJV: "Why seek ye the living among the dead?" / ESV: "Why do you seek
        the living among the dead?" — Both equivalent. One of the most
        memorable questions in Scripture. The angels redirect the women's
        search — Jesus is not among the dead; He is alive.
-
-v.12 — KJV includes this verse / ESV includes it with a footnote noting it
-       is absent from some manuscripts. Most scholars include it — it is
-       consistent with John 20:3-8 and fits Luke's narrative.
-
-v.27 — KJV: "beginning at Moses and all the prophets" / ESV: "beginning
-       with Moses and all the Prophets" — Both equivalent. Jesus gave the
-       first complete Christological interpretation of the Old Testament.
-       Every section of Scripture — Law, Prophets, Psalms (v.44) — points
-       to Him.
-
-v.32 — KJV: "Did not our heart burn within us" / ESV: "Did not our hearts
-       burn within us" — Both equivalent. The "burning heart" is the
-       experience of the Spirit illuminating Scripture. It is not mere
-       intellectual understanding but a deep, warming, convicting encounter
-       with truth.
-
-v.51 — KJV: "carried up into heaven" / ESV: "was carried up into heaven" —
-       Both equivalent. Some manuscripts omit this phrase (ESV footnote).
-       Acts 1:9-11 provides the fuller ascension account. Luke's Gospel ends
-       with worship and joy — the proper response to the risen, ascended
-       Christ.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.5  — NET: "Why do you look for the living among the dead?" —
+       NET: "Why do you look for the living among the dead?" —
        a gentle rebuke unique to Luke. WEB: "Why do you seek the
        living among the dead?" KJV: "Why seek ye the living among
        the dead?" The question reframes everything — He was never
        going to stay there.
+
+v.12 — KJV includes this verse / ESV includes it with a footnote noting it
+       is absent from some manuscripts. Most scholars include it — it is
+       consistent with John 20:3-8 and fits Luke's narrative.
 
 v.16 — NET: "their eyes were kept from recognizing him" — divine
        passive: God prevented their recognition. WEB: "their eyes
@@ -145,14 +124,24 @@ v.16 — NET: "their eyes were kept from recognizing him" — divine
        holden that they should not know him." The concealment is
        purposeful — so the Scriptures can do the revealing.
 
-v.27 — NET: "beginning from Moses and all the prophets, he
+v.27 — KJV: "beginning at Moses and all the prophets" / ESV: "beginning
+       with Moses and all the Prophets" — Both equivalent. Jesus gave the
+       first complete Christological interpretation of the Old Testament.
+       Every section of Scripture — Law, Prophets, Psalms (v.44) — points
+       to Him.
+       NET: "beginning from Moses and all the prophets, he
        interpreted for them the things written about himself in all
        the scriptures" — "interpreted" (diermēneusen = explained
        thoroughly). WEB: "beginning from Moses and from all the
        prophets, he explained to them." KJV: "he expounded."
        Christ is the subject of all Scripture.
 
-v.32 — NET: "Were not our hearts burning within us while he was
+v.32 — KJV: "Did not our heart burn within us" / ESV: "Did not our hearts
+       burn within us" — Both equivalent. The "burning heart" is the
+       experience of the Spirit illuminating Scripture. It is not mere
+       intellectual understanding but a deep, warming, convicting encounter
+       with truth.
+       NET: "Were not our hearts burning within us while he was
        speaking with us on the road, while he was explaining the
        scriptures to us?" — "burning" (kaiomenē). WEB: "our heart
        burning within us." KJV: "Did not our heart burn within us?"
@@ -164,6 +153,12 @@ v.45 — NET: "Then he opened their minds so they could understand
        that they might understand the Scriptures." Understanding
        Scripture requires divine illumination, not just human
        intelligence.
+
+v.51 — KJV: "carried up into heaven" / ESV: "was carried up into heaven" —
+       Both equivalent. Some manuscripts omit this phrase (ESV footnote).
+       Acts 1:9-11 provides the fuller ascension account. Luke's Gospel ends
+       with worship and joy — the proper response to the risen, ascended
+       Christ.
 
 GLOSSARY
 ------------------------------------

@@ -100,12 +100,34 @@ Charles Spurgeon:
   do?' — is the right question. Peter's answer: Repent. Be baptized.
   Receive the Spirit. Simple, clear, life-changing."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.2  — NET: "a sound like a violent wind blowing came from
+       heaven and filled the entire house" — "violent wind" (pnoes
+       biaias = a forceful breath/blast). WEB: "like a rushing
+       mighty wind." KJV: "a rushing mighty wind." The word for
+       "wind/breath" (pnoe) is related to pneuma (Spirit).
+
+v.3  — NET: "tongues spreading out like a fire appeared to them
+       and came to rest on each one of them" — "spreading out"
+       (diamerizomenai = dividing/distributing). WEB: "tongues
+       like fire appeared and were distributed to them." Individual
+       flames on each person — personal, not corporate only.
+
 v.4  — KJV: "other tongues" / ESV: "other tongues" — Both identical. Greek
        "heterais glōssais" — other languages. These were real, known languages
        (vv.6-11 list the nations represented). The miracle was in the speaking,
        not just the hearing.
+       NET: "they were all filled with the Holy Spirit and began
+       to speak in other languages" — "other languages" (heterais
+       glOssais = different tongues). WEB: "other languages." KJV:
+       "other tongues." These were real human languages (vv.8-11),
+       not ecstatic speech.
+
+v.21 — NET: "everyone who calls on the name of the Lord will be
+       saved" — quoting Joel 2:32. WEB: "whoever will call on the
+       name of the Lord will be saved." Peter applies Joel's "LORD"
+       (Yahweh) to Jesus — a stunning Christological claim.
 
 v.27 — KJV: "thou wilt not leave my soul in hell" / ESV: "you will not
        abandon my soul to Hades" — Greek "hadēs" — the realm of the dead,
@@ -124,33 +146,7 @@ v.42 — KJV: "continued stedfastly" / ESV: "devoted themselves" — Greek
        "proskarterountes" — to persist, to be devoted, to give constant
        attention to. ESV's "devoted themselves" captures the active commitment
        well. Not casual participation but committed, persistent devotion.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "a sound like a violent wind blowing came from
-       heaven and filled the entire house" — "violent wind" (pnoes
-       biaias = a forceful breath/blast). WEB: "like a rushing
-       mighty wind." KJV: "a rushing mighty wind." The word for
-       "wind/breath" (pnoe) is related to pneuma (Spirit).
-
-v.3  — NET: "tongues spreading out like a fire appeared to them
-       and came to rest on each one of them" — "spreading out"
-       (diamerizomenai = dividing/distributing). WEB: "tongues
-       like fire appeared and were distributed to them." Individual
-       flames on each person — personal, not corporate only.
-
-v.4  — NET: "they were all filled with the Holy Spirit and began
-       to speak in other languages" — "other languages" (heterais
-       glOssais = different tongues). WEB: "other languages." KJV:
-       "other tongues." These were real human languages (vv.8-11),
-       not ecstatic speech.
-
-v.21 — NET: "everyone who calls on the name of the Lord will be
-       saved" — quoting Joel 2:32. WEB: "whoever will call on the
-       name of the Lord will be saved." Peter applies Joel's "LORD"
-       (Yahweh) to Jesus — a stunning Christological claim.
-
-v.42 — NET: "They were devoting themselves to the apostles'
+       NET: "They were devoting themselves to the apostles'
        teaching and to fellowship, to the breaking of bread and to
        prayer" — four marks of the early church. WEB: "continued
        steadfastly in the apostles' teaching and fellowship, in

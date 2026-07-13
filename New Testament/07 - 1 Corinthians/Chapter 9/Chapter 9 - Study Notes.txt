@@ -96,9 +96,8 @@ Charles Spurgeon:
   athletes discipline themselves for a corruptible crown, how much more
   should you for an incorruptible one?"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.5  — KJV: "a sister, a wife" — ESV: "a believing wife" — Paul had the
        right to be married (like Peter and Jesus' brothers). He chose
        singleness for strategic reasons — not because marriage was wrong.
@@ -107,19 +106,6 @@ v.9  — KJV: "Doth God take care for oxen?" / ESV: "Is it for oxen that God is 
        25:4 principle applies beyond oxen — those who labor in the Gospel
        deserve support.
 
-v.22 — KJV: "all things to all men" / ESV: "become all things to all people" — Not compromise but contextualization.
-       Paul adapted his approach (not his message) to reach different audiences.
-
-v.25 — KJV: "temperate in all things" / ESV: "in all things. They do it" — Greek "enkrateuetai" — self-controlled,
-       disciplined. Athletes restrict diet, sleep, and pleasure to win. How
-       much more should believers discipline themselves for eternal reward?
-
-v.27 — KJV: "a castaway" / ESV: "be disqualified" — Greek "adokimos" — disqualified, rejected,
-       unapproved. Not loss of salvation but loss of usefulness and reward.
-       Paul feared being sidelined by undisciplined living.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
 v.16 — NET: "For if I preach the gospel, I have nothing to
        boast about, for I am compelled to do this. Woe to me if I
        do not preach the gospel!" — "compelled" (anankE = necessity/
@@ -133,7 +119,9 @@ v.19 — NET: "For though I am free from all people, I have made
        from all, I brought myself under bondage to all." Freedom
        voluntarily surrendered for others.
 
-v.22 — NET: "I have become all things to all people, so that by
+v.22 — KJV: "all things to all men" / ESV: "become all things to all people" — Not compromise but contextualization.
+       Paul adapted his approach (not his message) to reach different audiences.
+       NET: "I have become all things to all people, so that by
        all means I may save some" — "all things to all people" —
        contextual flexibility without moral compromise. WEB: "I
        have become all things to all men." KJV: "I am made all
@@ -145,7 +133,14 @@ v.24 — NET: "Do you not know that all the runners in a stadium
        that you may attain." Athletic imagery — effort, discipline,
        focus required in the Christian life.
 
-v.27 — NET: "I discipline my body and make it my slave, so that
+v.25 — KJV: "temperate in all things" / ESV: "in all things. They do it" — Greek "enkrateuetai" — self-controlled,
+       disciplined. Athletes restrict diet, sleep, and pleasure to win. How
+       much more should believers discipline themselves for eternal reward?
+
+v.27 — KJV: "a castaway" / ESV: "be disqualified" — Greek "adokimos" — disqualified, rejected,
+       unapproved. Not loss of salvation but loss of usefulness and reward.
+       Paul feared being sidelined by undisciplined living.
+       NET: "I discipline my body and make it my slave, so that
        after preaching to others I myself will not be disqualified"
        — "disqualified" (adokimos = failing the test/rejected).
        WEB: "lest by any means, after I have preached to others,

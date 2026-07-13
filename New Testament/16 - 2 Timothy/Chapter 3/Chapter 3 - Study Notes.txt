@@ -105,11 +105,16 @@ Charles Spurgeon:
  the opposition is coming and hasn't arrived yet. Godliness provokes the
  world because it is a living rebuke to ungodliness."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "perilous" / ESV: "times of difficulty" — Greek "chalepoi" — difficult, dangerous, hard to
  bear. Same word used of the Gadarene demoniacs (Matt 8:28) — "exceeding
  fierce." These will be fierce, savage times.
+       NET: "in the last days difficult times will come" —
+       "difficult" (chalepoi = fierce/hard to bear/dangerous). WEB:
+       "In the last days, grievous times will come." KJV: "perilous
+       times shall come." The same word describes the Gadarene
+       demoniacs (Matt 8:28) — savage, fierce times.
 
 v.2-4 — 18 vices in Greek, many beginning with negative prefixes: self-lovers,
  money-lovers, boasters, proud, blasphemers, disobedient to parents,
@@ -120,6 +125,12 @@ v.2-4 — 18 vices in Greek, many beginning with negative prefixes: self-lovers,
 v.5 — KJV: "form of godliness" / ESV: "godliness" — Greek "morphōsin eusebeias" — the outward
  shape/appearance of religion. "Denying the power" — rejecting the
  transforming power of genuine faith. Religion without reality.
+       NET: "They will maintain the outward appearance of
+       religion but will have repudiated its power" — "outward
+       appearance" (morphOsin = form/shape without substance). WEB:
+       "holding a form of godliness, but having denied its power."
+       KJV: "Having a form of godliness, but denying the power
+       thereof." Religious exterior, empty interior.
 
 v.7 — KJV: "ever learning, and never able to come to the knowledge of the
  truth" / ESV: "always learning and never able to arrive at a knowledge of the truth" — Both equivalent. Intellectual curiosity without commitment. Accumulating
@@ -130,49 +141,38 @@ v.8 — KJV: "Jannes and Jambres" / ESV: Both equivalent. — Traditional names 
  Pharaoh's magicians who imitated Moses's miracles (Exodus 7:11).
  Jewish tradition preserved their names.
 
-v.16 — KJV: "given by inspiration of God" / ESV: "breathed out by God" — Greek "theopneustos" — God-
- breathed. Not that God breathed INTO the text but that the text was
- breathed OUT by God. Scripture is the product of God's breath — His
- very words expressed through human authors.
-
-v.16 — Four uses of Scripture: "doctrine" (didaskalia — teaching what is
- true), "reproof" (elegmon — exposing what is wrong), "correction"
- (epanorthōsin — restoring to right position), "instruction in
- righteousness" (paideian — training in right living).
-
-v.17 — KJV: "perfect" / ESV: "complete" — Greek "artios" — complete, capable, proficient.
- KJV: "throughly furnished" / ESV: "equipped" — Greek "exērtismenos" — fully equipped. Scripture
- provides everything needed for every good work.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "in the last days difficult times will come" —
-       "difficult" (chalepoi = fierce/hard to bear/dangerous). WEB:
-       "In the last days, grievous times will come." KJV: "perilous
-       times shall come." The same word describes the Gadarene
-       demoniacs (Matt 8:28) — savage, fierce times.
-
-v.5  — NET: "They will maintain the outward appearance of
-       religion but will have repudiated its power" — "outward
-       appearance" (morphOsin = form/shape without substance). WEB:
-       "holding a form of godliness, but having denied its power."
-       KJV: "Having a form of godliness, but denying the power
-       thereof." Religious exterior, empty interior.
-
 v.12 — NET: "all who desire to live godly lives in Christ Jesus
        will be persecuted" — "all" (pantes) — no exceptions. WEB:
        "all who desire to live godly in Christ Jesus will suffer
        persecution." KJV: "all that will live godly in Christ Jesus
        shall suffer persecution." Guaranteed, not possible.
 
-v.16 — NET: "Every scripture is inspired by God and useful for
+v.16 — KJV: "given by inspiration of God" / ESV: "breathed out by God" — Greek "theopneustos" — God-
+ breathed. Not that God breathed INTO the text but that the text was
+ breathed OUT by God. Scripture is the product of God's breath — His
+ very words expressed through human authors.
+       NET: "Every scripture is inspired by God and useful for
        teaching, for reproof, for correction, and for training in
        righteousness" — "inspired" (theopneustos = God-breathed).
        WEB: "Every Scripture is God-breathed." KJV: "All scripture
        is given by inspiration of God." Not that God breathed INTO
        Scripture but that Scripture is breathed OUT by God.
 
-v.17 — NET: "that the person dedicated to God may be capable and
+v.16 — Four uses of Scripture: "doctrine" (didaskalia — teaching what is
+ true), "reproof" (elegmon — exposing what is wrong), "correction"
+ (epanorthōsin — restoring to right position), "instruction in
+ righteousness" (paideian — training in right living).
+       NET: "Every scripture is inspired by God and useful for
+       teaching, for reproof, for correction, and for training in
+       righteousness" — "inspired" (theopneustos = God-breathed).
+       WEB: "Every Scripture is God-breathed." KJV: "All scripture
+       is given by inspiration of God." Not that God breathed INTO
+       Scripture but that Scripture is breathed OUT by God.
+
+v.17 — KJV: "perfect" / ESV: "complete" — Greek "artios" — complete, capable, proficient.
+ KJV: "throughly furnished" / ESV: "equipped" — Greek "exērtismenos" — fully equipped. Scripture
+ provides everything needed for every good work.
+       NET: "that the person dedicated to God may be capable and
        equipped for every good work" — "capable" (artios = complete/
        fit/ready). WEB: "complete, thoroughly equipped for every
        good work." KJV: "perfect, throughly furnished." Scripture's

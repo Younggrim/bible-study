@@ -99,37 +99,19 @@ Charles Spurgeon:
   not calculate his importance. He does not jockey for position. He simply
   trusts and receives. That is the posture of the kingdom."
 
-TRANSLATION NOTES
-------------------------------------
-v.6  — KJV: "a millstone" / ESV: "a great millstone" — Greek "mulos onikos"
-       — literally "a donkey millstone" — the large upper millstone turned
-       by a donkey, not the small hand-mill. A massive stone. The ESV makes
-       the size explicit. The image is of certain, violent death — and Jesus
-       says that would be preferable to causing a child to stumble.
-
-v.17 — KJV: "let him be unto thee as an heathen man and a publican" — ESV:
-       "let him be to you as a Gentile and a tax collector" — This does not
-       mean hatred but a recognition that the person is living outside the
-       community of faith. Notably, Jesus loved Gentiles and tax collectors
-       — the goal is still redemption.
-
-v.22 — KJV: "seventy times seven" / ESV: "seventy-seven times" — Could be
-       490 (KJV) or 77 (ESV) — the Greek is ambiguous. Either way, the point
-       is not a number but a posture — unlimited, unconditional forgiveness.
-       Peter thought 7 was generous; Jesus multiplied it beyond counting.
-
-v.24 — KJV: "ten thousand talents" / ESV: "ten thousand talents" — Both
-       identical. One talent = approximately 6,000 denarii (20 years' wages).
-       Ten thousand talents = 200,000 years' wages. An absurdly unpayable
-       sum — representing the infinite debt of sin before God.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.3  — NET: "unless you turn around and become like little
        children, you will never enter the kingdom of heaven" —
        "turn around" (straphEte = convert/change direction). WEB:
        "unless you turn and become as little children." Not
        childish but child-LIKE: dependent, trusting, humble.
+
+v.6  — KJV: "a millstone" / ESV: "a great millstone" — Greek "mulos onikos"
+       — literally "a donkey millstone" — the large upper millstone turned
+       by a donkey, not the small hand-mill. A massive stone. The ESV makes
+       the size explicit. The image is of certain, violent death — and Jesus
+       says that would be preferable to causing a child to stumble.
 
 v.8  — NET: "If your hand or your foot causes you to sin, cut it
        off" — "causes you to sin" (skandalizei = ensnares/trips
@@ -144,17 +126,32 @@ v.10 — NET: "their angels in heaven always see the face of my
        behold the face of my Father." Children have heavenly
        representatives.
 
+v.17 — KJV: "let him be unto thee as an heathen man and a publican" — ESV:
+       "let him be to you as a Gentile and a tax collector" — This does not
+       mean hatred but a recognition that the person is living outside the
+       community of faith. Notably, Jesus loved Gentiles and tax collectors
+       — the goal is still redemption.
+
 v.20 — NET: "where two or three are assembled in my name, I am
        there among them" — "assembled in my name" (synagmenoi eis
        to emon onoma). WEB: "where two or three are gathered
        together in my name." Christ's presence in the smallest
        gathering — not dependent on numbers.
 
-v.22 — NET: "Not seven times, I tell you, but seventy-seven
+v.22 — KJV: "seventy times seven" / ESV: "seventy-seven times" — Could be
+       490 (KJV) or 77 (ESV) — the Greek is ambiguous. Either way, the point
+       is not a number but a posture — unlimited, unconditional forgiveness.
+       Peter thought 7 was generous; Jesus multiplied it beyond counting.
+       NET: "Not seven times, I tell you, but seventy-seven
        times!" — "seventy-seven" (hebdomEkontakis hepta) — or
        "seventy times seven" (490). KJV: "seventy times seven."
        WEB: "seventy times seven." Either way: unlimited forgiveness,
        not mathematical calculation.
+
+v.24 — KJV: "ten thousand talents" / ESV: "ten thousand talents" — Both
+       identical. One talent = approximately 6,000 denarii (20 years' wages).
+       Ten thousand talents = 200,000 years' wages. An absurdly unpayable
+       sum — representing the infinite debt of sin before God.
 
 GLOSSARY
 ------------------------------------

@@ -94,11 +94,17 @@ Charles Spurgeon:
  is the Christian's brightest hope — the day when faith becomes sight, when
  promise becomes reality, when the Saviour appears in glory."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "become" / ESV: "accords with" — Greek "prepei" — to be fitting, appropriate, suitable.
  Teach what is fitting for sound doctrine — doctrine that produces
  matching behavior.
+
+v.5  — NET: "so that the message of God may not be discredited"
+       — "discredited" (blasphEmEtai = blasphemed/slandered). WEB:
+       "that God's word may not be blasphemed." KJV: "that the word
+       of God be not blasphemed." Bad behavior by believers gives
+       outsiders ammunition against the gospel.
 
 v.10 — KJV: "adorn" / ESV: Both equivalent. — Greek "kosmōsin" — to decorate, make attractive. Root
  of English "cosmetics." Good behavior makes the gospel attractive —
@@ -106,52 +112,46 @@ v.10 — KJV: "adorn" / ESV: Both equivalent. — Greek "kosmōsin" — to decor
 
 v.11 — KJV: "hath appeared" / ESV: "has appeared" — Greek "epephanē" — has shone forth, has been
  manifested. Root of "epiphany." Grace appeared in the person of Christ.
-
-v.12 — KJV: "soberly, righteously, and godly" / ESV: "self-controlled, upright, and godly" — Three directions of holy
- living: soberly (toward self — self-control), righteously (toward
- others — justice), godly (toward God — devotion).
-
-v.13 — KJV: "the great God and our Saviour Jesus Christ" / ESV: "great God and Savior Jesus Christ" — Greek grammar
- (Granville Sharp rule) indicates one person: Jesus Christ is both "the
- great God" and "our Saviour." A strong affirmation of Christ's deity.
-
-v.14 — KJV: "peculiar people" / ESV: "people for his own possession" — Greek "laon periousion" — a people for His
- own possession, a special treasure. Not "strange" but "specially
- owned." ESV: "a people for his own possession."
-
-v.14 — KJV: "zealous of good works" / ESV: "zealous for good works" — Greek "zēlōtēn kalōn ergōn" — an
- enthusiast for good works. Not reluctant obedience but passionate
- pursuit of doing good.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.5  — NET: "so that the message of God may not be discredited"
-       — "discredited" (blasphEmEtai = blasphemed/slandered). WEB:
-       "that God's word may not be blasphemed." KJV: "that the word
-       of God be not blasphemed." Bad behavior by believers gives
-       outsiders ammunition against the gospel.
-
-v.11 — NET: "For the grace of God has appeared, bringing salvation
+       NET: "For the grace of God has appeared, bringing salvation
        to all people" — "appeared" (epephanE = shined forth/became
        visible — an epiphany). WEB: "the grace of God has appeared."
        KJV: "the grace of God that bringeth salvation hath appeared."
        Grace personified — it appeared in Christ.
 
-v.12 — NET: "training us to reject godless ways and worldly
+v.12 — KJV: "soberly, righteously, and godly" / ESV: "self-controlled, upright, and godly" — Three directions of holy
+ living: soberly (toward self — self-control), righteously (toward
+ others — justice), godly (toward God — devotion).
+       NET: "training us to reject godless ways and worldly
        desires and to live self-controlled, upright, and godly
        lives" — "training" (paideuousa = educating/disciplining as
        a child). WEB: "instructing us." KJV: "teaching us." Grace
        doesn't just forgive — it TRAINS. Three dimensions: self-
        ward (self-controlled), other-ward (upright), God-ward (godly).
 
-v.13 — NET: "as we wait for the happy fulfillment of our hope in
+v.13 — KJV: "the great God and our Saviour Jesus Christ" / ESV: "great God and Savior Jesus Christ" — Greek grammar
+ (Granville Sharp rule) indicates one person: Jesus Christ is both "the
+ great God" and "our Saviour." A strong affirmation of Christ's deity.
+       NET: "as we wait for the happy fulfillment of our hope in
        the glorious appearing of our great God and Savior, Jesus
        Christ" — "our great God and Savior, Jesus Christ" (tou
        megalou theou kai sOtEros hEmOn IEsou Christou) — a direct
        affirmation of Christ's deity. WEB: "our great God and
        Savior, Jesus Christ." Granville Sharp rule applies.
 
-v.14 — NET: "who gave himself for us to set us free from every
+v.14 — KJV: "peculiar people" / ESV: "people for his own possession" — Greek "laon periousion" — a people for His
+ own possession, a special treasure. Not "strange" but "specially
+ owned." ESV: "a people for his own possession."
+       NET: "who gave himself for us to set us free from every
+       kind of lawlessness and to purify for himself a people who
+       are truly his" — "truly his" (periousion = His own special
+       possession). WEB: "a people for his own possession." KJV:
+       "a peculiar people." Echoes Exodus 19:5 — Israel's
+       identity now applied to the church.
+
+v.14 — KJV: "zealous of good works" / ESV: "zealous for good works" — Greek "zēlōtēn kalōn ergōn" — an
+ enthusiast for good works. Not reluctant obedience but passionate
+ pursuit of doing good.
+       NET: "who gave himself for us to set us free from every
        kind of lawlessness and to purify for himself a people who
        are truly his" — "truly his" (periousion = His own special
        possession). WEB: "a people for his own possession." KJV:

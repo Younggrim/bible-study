@@ -95,9 +95,8 @@ Charles Spurgeon:
   God but on His grip on you. He began the work without your permission and
   He will complete it without your failure being able to stop Him."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "servants" / ESV: Both equivalent. — Greek "douloi" — slaves. Paul and Timothy identify
        as Christ's slaves — owned, directed, devoted.
 
@@ -108,6 +107,13 @@ v.1  — KJV: "bishops and deacons" / ESV: "the overseers and deacons" — Greek
 v.6  — KJV: "perform it" / ESV: "it to completion at" — Greek "epiteleō" — to complete, bring to
        perfection. God will bring His work in you to full completion. The
        timeline: "until the day of Jesus Christ" — Christ's return.
+       NET: "I am sure of this very thing, that the one who
+       began a good work in you will perfect it until the day of
+       Christ Jesus" — "perfect" (epitelesei = complete/bring to
+       fulfillment). WEB: "he who began a good work in you will
+       complete it." KJV: "he which hath begun a good work in you
+       will perform it." God finishes what He starts — perseverance
+       is His responsibility.
 
 v.8  — KJV: "bowels of Jesus Christ" — Greek "splanchna" — the inner organs
        (heart, liver, lungs) considered the seat of deep emotion. Paul loves
@@ -116,47 +122,33 @@ v.8  — KJV: "bowels of Jesus Christ" — Greek "splanchna" — the inner organ
 v.21 — KJV: "to live is Christ" / ESV: Both equivalent. — Not "to live is FOR Christ" or "to live
        is ABOUT Christ" — Christ IS his life. Christ is the content, purpose,
        and meaning of living.
-
-v.23 — KJV: "depart" / ESV: Both equivalent. — Greek "analusai" — to break camp, to loose a ship
-       from its moorings, to be released. Death as departure — setting sail
-       for a better shore.
-
-v.27 — KJV: "conversation" / ESV: "let your manner of life be" — Greek "politeuesthe" — to live as a citizen.
-       Root of English "politics." Live as citizens of heaven (cf. 3:20).
-
-v.29 — KJV: "it is given" / ESV: "has been granted to you" — Greek "echaristhē" — it is graced, gifted.
-       Same root as "grace" (charis). Suffering is a grace-gift from God.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.6  — NET: "I am sure of this very thing, that the one who
-       began a good work in you will perfect it until the day of
-       Christ Jesus" — "perfect" (epitelesei = complete/bring to
-       fulfillment). WEB: "he who began a good work in you will
-       complete it." KJV: "he which hath begun a good work in you
-       will perform it." God finishes what He starts — perseverance
-       is His responsibility.
-
-v.21 — NET: "For to me, living is Christ and dying is gain" —
+       NET: "For to me, living is Christ and dying is gain" —
        "living IS Christ" (to zEn Christos) — not "living is FOR
        Christ" but Christ is the content of life itself. WEB: "to
        me to live is Christ, and to die is gain." KJV: "to live is
        Christ, and to die is gain." The most compressed life
        philosophy in Scripture.
 
-v.23 — NET: "I am torn between the two" — "torn" (synechomai =
+v.23 — KJV: "depart" / ESV: Both equivalent. — Greek "analusai" — to break camp, to loose a ship
+       from its moorings, to be released. Death as departure — setting sail
+       for a better shore.
+       NET: "I am torn between the two" — "torn" (synechomai =
        pressed/hemmed in from both sides). WEB: "I am in a
        dilemma." KJV: "I am in a strait betwixt two." A genuine
        tension: depart to be with Christ (better for Paul) or
        remain (better for them).
 
-v.27 — NET: "conduct yourselves in a manner worthy of the gospel
+v.27 — KJV: "conversation" / ESV: "let your manner of life be" — Greek "politeuesthe" — to live as a citizen.
+       Root of English "politics." Live as citizens of heaven (cf. 3:20).
+       NET: "conduct yourselves in a manner worthy of the gospel
        of Christ" — "conduct yourselves" (politeuesthe = live as
        citizens). WEB: "let your way of life be worthy." The word
        is political — live as citizens of heaven (3:20) while
        resident on earth.
 
-v.29 — NET: "For it has been granted to you not only to believe
+v.29 — KJV: "it is given" / ESV: "has been granted to you" — Greek "echaristhē" — it is graced, gifted.
+       Same root as "grace" (charis). Suffering is a grace-gift from God.
+       NET: "For it has been granted to you not only to believe
        in Christ but also to suffer for his sake" — "granted"
        (echaristhE = graced/gifted). WEB: "it has been granted to
        you on behalf of Christ... to suffer." Suffering is a

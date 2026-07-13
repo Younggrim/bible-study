@@ -80,7 +80,7 @@ Charles Spurgeon:
  Knowing this changes everything: you are not a victim of random misfortune
  but a child under a Father's wise discipline."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "could no longer forbear" / ESV: "could bear it no longer" — Greek "mēketi stegontes" — no
  longer able to contain ourselves, unable to bear it any longer. The
@@ -90,6 +90,11 @@ v.1 — KJV: "could no longer forbear" / ESV: "could bear it no longer" — Gree
 v.2 — KJV: "establish" / ESV: Both equivalent. — Greek "stērixai" — to strengthen, make firm, set
  solidly. "Comfort" — Greek "parakalesai" — to encourage, come
  alongside. Timothy's dual mission: strengthen and encourage.
+       NET: "we sent Timothy... to strengthen and encourage
+       you about your faith" — "strengthen" (stErixai = establish/
+       make firm). WEB: "to establish you and to comfort you." KJV:
+       "to establish you, and to comfort you." Two pastoral verbs:
+       stabilize and encourage.
 
 v.3 — KJV: "moved" / ESV: Both equivalent. — Greek "sainesthai" — to be shaken, disturbed, swayed.
  Originally meant "to wag the tail" (of a dog being flattered). Don't
@@ -98,24 +103,7 @@ v.3 — KJV: "moved" / ESV: Both equivalent. — Greek "sainesthai" — to be sh
 v.5 — KJV: "the tempter" / ESV: Both equivalent. — Greek "ho peirazōn" — the one who tests/tempts.
  Satan's specific role: using suffering to tempt believers to abandon
  faith.
-
-v.10 — KJV: "perfect that which is lacking" / ESV: "supply what is lacking" — Greek "katartisai ta
- husterēmata" — to mend, complete, supply what is deficient. Their
- faith was genuine but incomplete — they needed further instruction.
-
-v.13 — KJV: "with all his saints" / ESV: Both equivalent. — Greek "hagiōn" — holy ones. Could refer
- to: (1) believers who have died, (2) angels, or (3) both. Christ
- returns accompanied by His holy ones.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "we sent Timothy... to strengthen and encourage
-       you about your faith" — "strengthen" (stErixai = establish/
-       make firm). WEB: "to establish you and to comfort you." KJV:
-       "to establish you, and to comfort you." Two pastoral verbs:
-       stabilize and encourage.
-
-v.5  — NET: "I sent to find out about your faith, for fear that
+       NET: "I sent to find out about your faith, for fear that
        the tempter somehow tempted you" — "the tempter" (ho
        peirazOn = the one who tests/tempts). WEB: "the tempter had
        tempted you." KJV: "the tempter have tempted you." Satan
@@ -126,7 +114,10 @@ v.8  — NET: "For now we are alive again, if you stand firm in the
        you stand firm in the Lord." Their faithfulness gives Paul
        life — pastoral joy is tied to converts' perseverance.
 
-v.10 — NET: "as we pray earnestly night and day to see you in
+v.10 — KJV: "perfect that which is lacking" / ESV: "supply what is lacking" — Greek "katartisai ta
+ husterēmata" — to mend, complete, supply what is deficient. Their
+ faith was genuine but incomplete — they needed further instruction.
+       NET: "as we pray earnestly night and day to see you in
        person and to supply what is lacking in your faith" —
        "supply what is lacking" (katartisai ta hysterEmata =
        complete the deficiencies/mend the gaps). WEB: "perfect
@@ -138,6 +129,10 @@ v.12 — NET: "may the Lord cause you to increase and overflow with
        exceed). WEB: "abound in love toward one another." KJV:
        "abound in love one toward another." Love should exceed
        normal bounds — not just adequate but overflowing.
+
+v.13 — KJV: "with all his saints" / ESV: Both equivalent. — Greek "hagiōn" — holy ones. Could refer
+ to: (1) believers who have died, (2) angels, or (3) both. Christ
+ returns accompanied by His holy ones.
 
 GLOSSARY
 ------------------------------------

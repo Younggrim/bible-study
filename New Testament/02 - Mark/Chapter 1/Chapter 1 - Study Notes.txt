@@ -93,12 +93,16 @@ Charles Spurgeon:
   Son of God needed solitary prayer before a day of ministry, how much
   more do you?"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "the Son of God" / ESV: "the Son of God" — Both identical. Some
        manuscripts omit "the Son of God" (ESV footnote). Most scholars include
        it as original — it states Mark's thesis that the rest of the Gospel
        will prove.
+       WEB: "The beginning of the Good News of Jesus Christ" —
+       renders Greek "euangelion" as "Good News" rather than "gospel"
+       (KJV/ESV/ASV), emphasizing the original meaning of the word
+       as a joyful announcement.
 
 v.10 — KJV: "the heavens opened" / ESV: "the heavens being torn open" — Greek
        "schizomenous" — torn/ripped open. The ESV captures the violence of the
@@ -106,12 +110,26 @@ v.10 — KJV: "the heavens opened" / ESV: "the heavens being torn open" — Gree
        apart. The same word is used for the Temple veil being torn at the
        crucifixion (15:38). At the beginning and end of Mark, barriers between
        God and man are torn open.
+       NET: "he saw the heavens splitting apart" — stronger than
+       KJV "opened" or ESV "being torn open." Greek "schizo" = to
+       rip violently (same word used for the temple veil in 15:38).
+       ASV: "rent asunder." The violence of the imagery matters.
+
+v.11 — NET: "You are my one dear Son; in you I take great delight"
+       — paraphrases "beloved Son, in whom I am well pleased" with
+       interpretive clarity, though loses the echoes of Psalm 2:7
+       and Isaiah 42:1 present in the more literal versions.
 
 v.12 — KJV: "the Spirit driveth him" / ESV: "The Spirit immediately drove him
        out" — Greek "ekballei" — to cast out, to drive forcefully. Both
        translations capture the force. The same word used for casting out
        demons. The Spirit didn't gently lead Jesus into the wilderness — He
        drove Him there.
+
+v.14 — WEB: "preaching the Good News of God's Kingdom" — adds
+       "Kingdom" (not in Greek manuscripts). NET: "proclaimed the
+       gospel of God." ASV: "preaching the gospel of God." The WEB
+       addition is interpretive, linking to v.15's content.
 
 v.15 — KJV: "repent ye, and believe the gospel" / ESV: "repent and believe in
        the gospel" — Both equivalent. Two commands that summarize the entire
@@ -124,30 +142,7 @@ v.41 — KJV: "moved with compassion" / ESV: "Moved with pity" — Greek
        translate the same Greek word. If "anger," Jesus was angry at the
        disease/Satan, not the leper. Both readings show Jesus' emotional
        engagement.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — WEB: "The beginning of the Good News of Jesus Christ" —
-       renders Greek "euangelion" as "Good News" rather than "gospel"
-       (KJV/ESV/ASV), emphasizing the original meaning of the word
-       as a joyful announcement.
-
-v.10 — NET: "he saw the heavens splitting apart" — stronger than
-       KJV "opened" or ESV "being torn open." Greek "schizo" = to
-       rip violently (same word used for the temple veil in 15:38).
-       ASV: "rent asunder." The violence of the imagery matters.
-
-v.11 — NET: "You are my one dear Son; in you I take great delight"
-       — paraphrases "beloved Son, in whom I am well pleased" with
-       interpretive clarity, though loses the echoes of Psalm 2:7
-       and Isaiah 42:1 present in the more literal versions.
-
-v.14 — WEB: "preaching the Good News of God's Kingdom" — adds
-       "Kingdom" (not in Greek manuscripts). NET: "proclaimed the
-       gospel of God." ASV: "preaching the gospel of God." The WEB
-       addition is interpretive, linking to v.15's content.
-
-v.41 — NET: "Moved with indignation" — a significant textual
+       NET: "Moved with indignation" — a significant textual
        variant. Most manuscripts read "moved with compassion"
        (KJV/ESV/ASV/WEB: splanchnistheis), but some early
        manuscripts read "orgistheis" (angered). NET follows the

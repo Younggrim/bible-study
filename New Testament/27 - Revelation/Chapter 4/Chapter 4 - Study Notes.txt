@@ -81,37 +81,12 @@ Charles Spurgeon:
  justice is holy justice. His mercy is holy mercy. Heaven's first and
  constant declaration: He is holy."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "after this" / ESV: Both equivalent. — Greek "meta tauta" — after these things. Marks
  the transition from "things which are" (churches) to "things hereafter"
  (future events).
-
-v.4 — KJV: "four and twenty elders" / ESV: "twenty-four elders" — Identity debated: (1) representatives
- of the redeemed (12 tribes + 12 apostles), (2) an angelic order, (3)
- OT and NT saints combined. Their white robes and crowns suggest
- redeemed humans.
-
-v.6 — KJV: "beasts" / ESV: "living creatures" — Greek "zōa" — living
- creatures (not "thēria" = wild beasts). ESV correctly translates the
- Greek; KJV's "beasts" is misleading in modern English. These are
- exalted beings, not monsters. Similar to Ezekiel's cherubim and
- Isaiah's seraphim.
-
-v.8 — KJV: "Holy, holy, holy" / ESV: Both equivalent. — The trisagion (thrice-holy). The only
- attribute of God repeated three times in Scripture. Emphasizes His
- absolute, infinite, transcendent holiness.
-
-v.11 — KJV: "for thy pleasure they are and were created" / ESV: "by your
- will they existed and were created" — Greek "dia to thelēma sou" —
- because of Your will. KJV's "pleasure" emphasizes God's delight; ESV's
- "will" emphasizes God's sovereign choice. Both are valid renderings of
- "thelēma." All things exist because God willed them into existence.
- Creation is an act of divine will and pleasure.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "After these things I looked, and there was a door
+       NET: "After these things I looked, and there was a door
        standing open in heaven!" — "standing open" (aneOgmenE =
        opened and remaining open — perfect participle). WEB: "a
        door opened in heaven." The door opened for John gives
@@ -123,21 +98,40 @@ v.3  — NET: "the one seated on it was like jasper and carnelian
        "like a jasper stone and a sardius." God described in
        reflected light, not direct form — no anthropomorphism.
 
-v.6  — NET: "In the middle of the throne and around the throne
+v.4 — KJV: "four and twenty elders" / ESV: "twenty-four elders" — Identity debated: (1) representatives
+ of the redeemed (12 tribes + 12 apostles), (2) an angelic order, (3)
+ OT and NT saints combined. Their white robes and crowns suggest
+ redeemed humans.
+
+v.6 — KJV: "beasts" / ESV: "living creatures" — Greek "zōa" — living
+ creatures (not "thēria" = wild beasts). ESV correctly translates the
+ Greek; KJV's "beasts" is misleading in modern English. These are
+ exalted beings, not monsters. Similar to Ezekiel's cherubim and
+ Isaiah's seraphim.
+       NET: "In the middle of the throne and around the throne
        were four living creatures full of eyes in front and in
        back" — "living creatures" (zOa = living ones — not thEria/
        beasts). WEB: "four living creatures." KJV: "four beasts."
        NET/WEB correctly avoid "beasts" — these are exalted beings,
        not animals.
 
-v.8  — NET: "Holy, Holy, Holy is the Lord God, the All-Powerful,
+v.8 — KJV: "Holy, holy, holy" / ESV: Both equivalent. — The trisagion (thrice-holy). The only
+ attribute of God repeated three times in Scripture. Emphasizes His
+ absolute, infinite, transcendent holiness.
+       NET: "Holy, Holy, Holy is the Lord God, the All-Powerful,
        Who was and who is, and who is still to come!" — the
        trisagion (thrice-holy). WEB: "Holy, holy, holy is the Lord
        God, the Almighty." KJV: "Holy, holy, holy, Lord God
        Almighty." Echoing Isaiah 6:3 — ceaseless worship (they
        never stop, day or night).
 
-v.11 — NET: "You are worthy, our Lord and God, to receive glory
+v.11 — KJV: "for thy pleasure they are and were created" / ESV: "by your
+ will they existed and were created" — Greek "dia to thelēma sou" —
+ because of Your will. KJV's "pleasure" emphasizes God's delight; ESV's
+ "will" emphasizes God's sovereign choice. Both are valid renderings of
+ "thelēma." All things exist because God willed them into existence.
+ Creation is an act of divine will and pleasure.
+       NET: "You are worthy, our Lord and God, to receive glory
        and honor and power, since you created all things" — "you
        created" (ektisas = you brought into being). WEB: "You
        created all things." Creation as the ground of worship —

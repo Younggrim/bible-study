@@ -147,7 +147,7 @@ Charles Spurgeon:
   Many a Christian has a long biography who has less real substance
   than those whose faithfulness is summed in a sentence."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "the people did yet corruptly" / ESV: "the people
        still followed corrupt practices" — Hebrew "ha-am od
@@ -166,14 +166,6 @@ v.3  — KJV: "the high gate of the house of the LORD" / ESV: "the
        construction improved access to worship — contributing to
        God's house within his appropriate royal role.
 
-v.6  — KJV: "he prepared his ways before the LORD" / ESV: "he
-       ordered his ways before the LORD" — Hebrew "hekin derakav"
-       (he established/directed his ways). The hiphil of "kun"
-       means to establish, fix firmly, prepare, or order. KJV's
-       "prepared" and ESV's "ordered" both capture the deliberate,
-       intentional nature of Jotham's faithfulness — this was not
-       accidental virtue but chosen, directed living.
-
 v.5  — KJV: "ten thousand measures of wheat" / ESV: "10,000 cors
        of wheat" — Hebrew "kor" (a unit of dry measure, approximately
        220 liters or 6 bushels). KJV generalizes to "measures";
@@ -181,6 +173,14 @@ v.5  — KJV: "ten thousand measures of wheat" / ESV: "10,000 cors
        enormous — approximately 62,000 bushels of grain annually —
        demonstrating the completeness of Jotham's military
        dominance over Ammon.
+
+v.6  — KJV: "he prepared his ways before the LORD" / ESV: "he
+       ordered his ways before the LORD" — Hebrew "hekin derakav"
+       (he established/directed his ways). The hiphil of "kun"
+       means to establish, fix firmly, prepare, or order. KJV's
+       "prepared" and ESV's "ordered" both capture the deliberate,
+       intentional nature of Jotham's faithfulness — this was not
+       accidental virtue but chosen, directed living.
 
 GLOSSARY
 ------------------------------------

@@ -99,25 +99,43 @@ Charles Spurgeon:
  — the Proclamation. Believed on in the world — the Reception. Received up
  into glory — the Coronation. The whole story of Christ in one verse."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "bishop" / ESV: "overseer" — Greek "episkopos" — overseer, superintendent. Same
  office as "elder" (presbuteros) — different terms for the same role
  (cf. Acts 20:17, 28; Titus 1:5, 7). "Bishop" emphasizes function
  (oversight); "elder" emphasizes maturity/dignity.
+       NET: "If someone aspires to the office of overseer, he
+       desires a good work" — "aspires" (oregetai = reaches for/
+       stretches toward). WEB: "If a man seeks the office of an
+       overseer, he desires a good work." The desire for leadership
+       is good — what follows are the qualifications.
 
 v.2 — KJV: "husband of one wife" / ESV: Both equivalent. — Greek "mias gunaikos andra" — literally
  "a one-woman man." Interpretations: (1) not polygamous, (2) not
  divorced and remarried, (3) faithful to his wife — a one-woman man in
  heart and practice. Most likely: marital faithfulness and devotion.
+       NET: "The overseer then must be above reproach" — "above
+       reproach" (anepilEmpton = not able to be seized upon/
+       blameless). WEB: "without reproach." KJV: "blameless." Not
+       sinless perfection but no legitimate accusation that sticks.
 
 v.2 — KJV: "apt to teach" / ESV: "teach" — Greek "didaktikon" — skilled in teaching, able
  to communicate truth. The only skill-based qualification in the list.
  Everything else is character.
+       NET: "The overseer then must be above reproach" — "above
+       reproach" (anepilEmpton = not able to be seized upon/
+       blameless). WEB: "without reproach." KJV: "blameless." Not
+       sinless perfection but no legitimate accusation that sticks.
 
 v.6 — KJV: "novice" / ESV: "recent convert" — Greek "neophutos" — newly planted, a new convert.
  Root of English "neophyte." New believers should not be placed in
  leadership — pride is the danger.
+       NET: "He must not be a recent convert or he may become
+       arrogant" — "recent convert" (neophyton = newly planted —
+       English "neophyte"). WEB: "not a new convert." KJV: "not a
+       novice." New believers need time to develop proven character
+       before leading.
 
 v.8 — KJV: "deacons" / ESV: Both equivalent. — Greek "diakonous" — servants, ministers. The office
  of practical service in the church (cf. Acts 6). "Grave" — Greek
@@ -130,38 +148,17 @@ v.11 — KJV: "their wives" / ESV: Both equivalent. — Greek "gunaikas" — wom
 v.15 — KJV: "pillar and ground" / ESV: "pillar" — Greek "stulos kai hedraiōma" — pillar
  (supporting column) and foundation/buttress. The church supports and
  displays truth — it doesn't create truth but upholds it.
-
-v.16 — KJV: "God was manifest in the flesh" / ESV: "godliness: He was manifested in the flesh" — Some manuscripts read "hos"
- (who/He who) instead of "theos" (God). Either way, the subject is
- Christ. Six lines in three couplets: flesh/Spirit, angels/Gentiles,
- world/glory. Likely an early Christian hymn.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "If someone aspires to the office of overseer, he
-       desires a good work" — "aspires" (oregetai = reaches for/
-       stretches toward). WEB: "If a man seeks the office of an
-       overseer, he desires a good work." The desire for leadership
-       is good — what follows are the qualifications.
-
-v.2  — NET: "The overseer then must be above reproach" — "above
-       reproach" (anepilEmpton = not able to be seized upon/
-       blameless). WEB: "without reproach." KJV: "blameless." Not
-       sinless perfection but no legitimate accusation that sticks.
-
-v.6  — NET: "He must not be a recent convert or he may become
-       arrogant" — "recent convert" (neophyton = newly planted —
-       English "neophyte"). WEB: "not a new convert." KJV: "not a
-       novice." New believers need time to develop proven character
-       before leading.
-
-v.15 — NET: "the church of the living God, the support and
+       NET: "the church of the living God, the support and
        bulwark of the truth" — "support and bulwark" (stylos kai
        hedraiOma = pillar and foundation). WEB: "the pillar and
        ground of the truth." KJV: "the pillar and ground of the
        truth." The church upholds truth in the world.
 
-v.16 — NET: "He was revealed in the flesh, vindicated by the
+v.16 — KJV: "God was manifest in the flesh" / ESV: "godliness: He was manifested in the flesh" — Some manuscripts read "hos"
+ (who/He who) instead of "theos" (God). Either way, the subject is
+ Christ. Six lines in three couplets: flesh/Spirit, angels/Gentiles,
+ world/glory. Likely an early Christian hymn.
+       NET: "He was revealed in the flesh, vindicated by the
        Spirit" — possibly an early hymn fragment. Textual variant:
        "God" (theos, KJV) vs. "He who" (hos, NET/ESV). WEB: "God
        was revealed in the flesh." The earliest manuscripts read

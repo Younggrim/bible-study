@@ -95,7 +95,7 @@ Charles Spurgeon:
   will, your own comfort, your own reputation. That is the cross of
   discipleship."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.4  — KJV: "Simon the Canaanite" — ESV/NET: "Simon the Zealot" — Not from
        Canaan but from the Aramaic "qan'an" meaning zealous. He was likely
@@ -103,34 +103,26 @@ v.4  — KJV: "Simon the Canaanite" — ESV/NET: "Simon the Zealot" — Not from
        violent overthrow of Rome. Jesus put a zealot and a tax collector
        (Roman collaborator) in the same group of twelve.
 
-v.10 — KJV: "the workman is worthy of his meat" — ESV: "the laborer deserves
-       his food" — The principle that those who minister deserve support.
-       Paul quotes this in 1 Timothy 5:18.
-
-v.25 — KJV: "Beelzebub" / ESV: "Beelzebul" — A name for Satan. KJV uses
-       "Beelzebub" (lord of the flies); ESV uses "Beelzebul" (lord of the
-       house), following older manuscripts. The Pharisees accused Jesus of
-       casting out demons by Satan's power (Matthew 12:24).
-
-v.34 — KJV: "I came not to send peace, but a sword" / ESV: "I have not come
-       to bring peace, but a sword" — Both equivalent. The "sword" is not
-       military violence but the division that the Gospel inevitably creates.
-       Following Jesus will divide families and relationships because it
-       demands ultimate allegiance above all other loyalties.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
 v.8  — NET: "Heal the sick, raise the dead, cleanse lepers,
        cast out demons. Freely you received, freely give" —
        "freely" (dOrean = as a gift/without payment). WEB: "Freely
        you received, freely give." KJV: "freely ye have received,
        freely give." Grace received must become grace distributed.
 
+v.10 — KJV: "the workman is worthy of his meat" — ESV: "the laborer deserves
+       his food" — The principle that those who minister deserve support.
+       Paul quotes this in 1 Timothy 5:18.
+
 v.16 — NET: "I am sending you out like sheep among wolves, so be
        wise as serpents and innocent as doves" — "wise" (phronimoi
        = shrewd/prudent) and "innocent" (akeraioi = pure/unmixed).
        WEB: "wise as serpents, and harmless as doves." Both
        qualities together — shrewdness without corruption.
+
+v.25 — KJV: "Beelzebub" / ESV: "Beelzebul" — A name for Satan. KJV uses
+       "Beelzebub" (lord of the flies); ESV uses "Beelzebul" (lord of the
+       house), following older manuscripts. The Pharisees accused Jesus of
+       casting out demons by Satan's power (Matthew 12:24).
 
 v.28 — NET: "Do not be afraid of those who kill the body but
        cannot kill the soul" — "cannot kill the soul" (tEn psychEn
@@ -144,7 +136,12 @@ v.29 — NET: "Aren't two sparrows sold for a penny? Yet not one of
        sparrows sold for an assarion coin?" God's providence
        extends to the cheapest, most insignificant creatures.
 
-v.34 — NET: "Do not think that I have come to bring peace on the
+v.34 — KJV: "I came not to send peace, but a sword" / ESV: "I have not come
+       to bring peace, but a sword" — Both equivalent. The "sword" is not
+       military violence but the division that the Gospel inevitably creates.
+       Following Jesus will divide families and relationships because it
+       demands ultimate allegiance above all other loyalties.
+       NET: "Do not think that I have come to bring peace on the
        earth. I have not come to bring peace but a sword" — "sword"
        (machairan = short sword/dagger). WEB: "I came not to send
        peace, but a sword." KJV: "I came not to send peace, but a

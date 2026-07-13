@@ -88,7 +88,7 @@ v.8   — Numbers 12:1-15 — Miriam forgiven but leprous seven days.
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3 — KJV: "thy great and terrible name; for it is holy" / ESV:
       "your great and awesome name! Holy is he!" — ESV restructures
@@ -100,22 +100,6 @@ v.8 — KJV: "thou tookest vengeance of their inventions" / ESV:
       their deeds/practices/inventions. God forgave Moses and Aaron
       personally but still enforced consequences for their specific
       actions (Moses couldn't enter Canaan; Aaron's sons died).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "Jehovah reigneth; let the peoples tremble" / WEB: "Yahweh reigns! Let the peoples tremble" / NET: "The Lord reigns! The nations tremble" — The divine name is rendered three ways: ASV "Jehovah," WEB "Yahweh," NET "the Lord." NET also changes "peoples" to "nations" (Hebrew "ammim" = peoples/nations) and shifts from jussive command ("let them tremble") to indicative statement ("the nations tremble").
-
-- v.1 — KJV: "he sitteth between the cherubims" / ASV: "He sitteth above the cherubim" / WEB: "He sits enthroned among the cherubim" / NET: "He sits enthroned above the cherubim" — KJV's "between" suggests spatial positioning on the Ark; ASV/NET's "above" emphasizes sovereignty; WEB's "among" suggests dwelling presence. Hebrew "yoshev" = sits/is enthroned.
-
-- v.3 — KJV: "thy great and terrible name" / ASV: "thy great and terrible name" / WEB: "your great and awesome name" / NET: "your great and awesome name" — KJV/ASV retain "terrible" (meaning awe-inspiring, not frightening in the modern sense). WEB/NET use "awesome" — the modern English equivalent of the Hebrew "nora" (inspiring reverential fear).
-
-- v.4 — KJV: "The king's strength also loveth judgment" / NET: "The king is strong; he loves justice" / ASV: "The king's strength also loveth justice" — NET restructures entirely, breaking one clause into two sentences and interpreting "judgment" (mishpat) as "justice." NET adds: "You ensure that legal decisions will be made fairly" — a significant interpretive expansion of the Hebrew "equity" (mesharim).
-
-- v.5 — ASV: "Exalt ye Jehovah our God" / WEB: "Exalt Yahweh our God" / NET: "Praise the Lord our God" — NET renders "exalt" as "praise" — a subtly different action. To exalt is to lift up/magnify; to praise is to express admiration. The Hebrew "romemu" specifically means to lift high/exalt.
-
-- v.8 — KJV: "thou tookest vengeance of their inventions" / ASV: "thou tookest vengeance of their doings" / WEB: "you took vengeance for their doings" / NET: "one who punished their sinful deeds" — "Inventions" (KJV) is archaic for deeds/practices (Hebrew "alilotheihem"). NET adds "sinful" as an interpretive qualifier not in the Hebrew. NET also restructures: "They found you to be a forgiving God" — much freer than the literal "Thou wast a God that forgavest them."
-
-- v.7 — KJV: "He spake unto them in the cloudy pillar" / ASV: "He spake unto them in the pillar of cloud" / NET: "He spoke to them from a pillar of cloud" / WEB: "He spoke to them in the pillar of cloud" — Minor but notable: NET's "from" (separation) vs. KJV/ASV/WEB's "in" (locative). Also KJV's "testimonies, and the ordinance" / NET: "regulations and the ordinance" — NET uses "regulations" for "testimonies" (Hebrew "edoth"), an interpretive shift from witness-language to legal-language.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

@@ -86,7 +86,7 @@ Charles Spurgeon:
   The moment a man believes, he possesses eternal life. It is not a future
   reward; it is a present possession."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "by the sheep market a pool" / ESV: "by the Sheep Gate a pool" — Greek "probatike" — KJV supplies "market"; ESV supplies "Gate." Most modern translations favor "Sheep Gate" (a gate in Jerusalem's wall, Nehemiah 3:1) rather than a sheep market.
   [ASV/NET/WEB]: NET: "Now there is in Jerusalem by the Sheep Gate a
@@ -128,7 +128,6 @@ v.39 — KJV: "Search the scriptures" / ESV: "You search the Scriptures" — Gre
        KJV takes it as imperative (a command).
 
 v.44 — KJV: "How can ye believe, which receive honour one of another" / ESV: "How can you believe, when you receive glory from one another" — Greek "doxan" — KJV uses "honour"; ESV uses "glory." Both identify the desire for human approval as a barrier to genuine faith.
-
 
 GLOSSARY
 ------------------------------------

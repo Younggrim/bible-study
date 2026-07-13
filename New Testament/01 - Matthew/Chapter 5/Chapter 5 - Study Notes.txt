@@ -94,41 +94,23 @@ Charles Spurgeon:
   them. Pray for them. This is not natural — it is supernatural. It is
   the mark of a man who has been transformed by the love of God."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3  — KJV: "poor in spirit" / ESV: "poor in spirit" — Both identical. Greek
        "ptōchos tō pneumati" — utterly destitute in spirit, spiritually
        bankrupt. Not materially poor but those who recognize their complete
        spiritual poverty before God.
-
-v.5  — KJV: "the meek" / ESV: "the meek" — Both identical. Greek "praus" —
-       not weakness but controlled strength. The same word used for a trained
-       warhorse — power under control. Moses was called the meekest man on
-       earth (Numbers 12:3) — yet he confronted Pharaoh.
-
-v.22 — KJV: "Raca" / ESV: "insults his brother" — The KJV retains the Aramaic
-       "Raca," a term of contempt meaning "empty-headed" or "worthless." The
-       ESV translates the concept rather than transliterating. A term of utter
-       dismissal and dehumanization.
-
-v.28 — KJV: "looketh on a woman to lust after her" / ESV: "looks at a woman
-       with lustful intent" — Both equivalent in meaning. The Greek "pros to
-       epithumēsai" — looking with the purpose of lusting, the deliberate
-       cultivation of lust. Not an involuntary glance but an intentional gaze.
-
-v.48 — KJV: "perfect" / ESV: "perfect" — Both identical. Greek "teleios" —
-       complete, mature, whole. Not sinless perfection but wholeness of
-       character, especially in love. The context (vv.43-47) is about loving
-       completely — as God loves.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "Blessed are the poor in spirit, for the kingdom
+       NET: "Blessed are the poor in spirit, for the kingdom
        of heaven belongs to them" — "poor in spirit" (hoi ptOchoi
        tO pneumati = the spiritually destitute). WEB: "Blessed are
        the poor in spirit." KJV: "Blessed are the poor in spirit."
        Not financially poor (Luke's version) but spiritually
        bankrupt — aware of their need for God.
+
+v.5  — KJV: "the meek" / ESV: "the meek" — Both identical. Greek "praus" —
+       not weakness but controlled strength. The same word used for a trained
+       warhorse — power under control. Moses was called the meekest man on
+       earth (Numbers 12:3) — yet he confronted Pharaoh.
 
 v.17 — NET: "Do not think that I have come to abolish the law or
        the prophets. I have not come to abolish these things but
@@ -136,12 +118,21 @@ v.17 — NET: "Do not think that I have come to abolish the law or
        bring to full meaning). WEB: "not to destroy, but to
        fulfill." Jesus completes what the Law pointed toward.
 
-v.22 — NET: "everyone who is angry with a brother will be
+v.22 — KJV: "Raca" / ESV: "insults his brother" — The KJV retains the Aramaic
+       "Raca," a term of contempt meaning "empty-headed" or "worthless." The
+       ESV translates the concept rather than transliterating. A term of utter
+       dismissal and dehumanization.
+       NET: "everyone who is angry with a brother will be
        subjected to judgment" — some manuscripts add "without
        cause" (eikE). KJV includes "without cause"; NET/ESV omit
        it following earlier manuscripts. WEB: "everyone who is
        angry with his brother without a cause." A significant
        textual variant affecting the teaching.
+
+v.28 — KJV: "looketh on a woman to lust after her" / ESV: "looks at a woman
+       with lustful intent" — Both equivalent in meaning. The Greek "pros to
+       epithumēsai" — looking with the purpose of lusting, the deliberate
+       cultivation of lust. Not an involuntary glance but an intentional gaze.
 
 v.44 — NET: "But I say to you, love your enemies and pray for
        those who persecute you" — "love" (agapate = active,
@@ -149,7 +140,11 @@ v.44 — NET: "But I say to you, love your enemies and pray for
        enemies." Some manuscripts add "bless those who curse you,
        do good to those who hate you" (KJV includes; NET omits).
 
-v.48 — NET: "So then, be perfect, as your heavenly Father is
+v.48 — KJV: "perfect" / ESV: "perfect" — Both identical. Greek "teleios" —
+       complete, mature, whole. Not sinless perfection but wholeness of
+       character, especially in love. The context (vv.43-47) is about loving
+       completely — as God loves.
+       NET: "So then, be perfect, as your heavenly Father is
        perfect" — "perfect" (teleioi = complete/mature/whole). WEB:
        "Therefore you shall be perfect." KJV: "Be ye therefore
        perfect." Not sinless perfection but wholeness of character

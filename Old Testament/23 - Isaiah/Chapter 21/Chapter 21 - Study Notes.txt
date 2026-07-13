@@ -83,7 +83,7 @@ Charles Spurgeon:
   and every Babylon yet to come will fall. Only the kingdom of
   Christ endures."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — "desert of the sea" (KJV/ESV) — Hebrew "midbar-yam."
       Babylon was located in marshlands between the Tigris and
@@ -107,42 +107,6 @@ v.13 — "Dedanites" (ESV) / "Dedanim" (KJV) — Arabian merchant
 v.16 — "as the years of an hireling" (KJV) — Precisely counted
       time (a hired worker counts each day exactly). Within
       exactly one year — no ambiguity.
-
-GLOSSARY
-------------------------------------
-Desert of the Sea — Poetic name for Babylon's region: the
-              marshlands between the rivers that appeared as a
-              "sea" in the flat desert landscape.
-
-Watchman     — A sentinel posted on city walls or towers to
-              observe approaching danger and report. The prophet
-              functions as God's spiritual watchman for His people.
-
-Dumah        — "Silence" — a region associated with Edom
-              (Idumea). The name becomes symbolic: God's response
-              to Edom is hauntingly brief and ambiguous.
-
-Kedar        — Arabian tribe descended from Ishmael (Genesis
-              25:13). Nomadic herders known for black goat-hair
-              tents and skilled archers.
-
-Dedanites    — Arabian merchant tribe operating trade routes
-              through the desert. Forced to hide in the thickets
-              (v.13) when their trade routes become war zones.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.9 — ASV: "Fallen, fallen is Babylon; and all the graven images of her gods are broken unto the ground" / WEB: "Fallen, fallen is Babylon; and all the engraved images of her gods are broken to the ground" / NET: "Babylon has fallen, fallen! All the idols of her gods lie shattered on the ground!" — All three preserve the dramatic doubled "fallen, fallen" — the exact phrase echoed in Revelation 14:8 and 18:2. NET changes "graven images" to "idols" — a generic term replacing the specific Hebrew "pesilei" (carved images).
-
-- v.10 — ASV: "that which I have heard from Jehovah of hosts, the God of Israel, have I declared unto you" / WEB: "That which I have heard from Yahweh of Armies, the God of Israel, I have declared to you" / NET: "what I have heard from the Lord of Heaven's Armies, the God of Israel, I have reported to you" — The prophet authenticates his message with the full divine title. ASV/WEB preserve the covenant name; NET uses expanded title. "Declared" (ASV/WEB) vs. "reported" (NET) — "declared" has prophetic authority; "reported" sounds journalistic.
-
-- v.1 — ASV: "The burden of the wilderness of the sea" / WEB: same / NET: "This is an oracle about the wilderness by the Sea" — The enigmatic title "midbar-yam" (wilderness of the sea). NET adds "by the Sea" as if it's a geographic label; KJV/ASV/WEB preserve the paradoxical combination of "wilderness" and "sea" that marks Babylon's strange landscape.
-
-- v.11 — NET: "Someone calls to me from Seir, 'Watchman, what is left of the night?'" vs. ASV/WEB: "One calleth unto me out of Seir, Watchman, what of the night?" — NET adds "is left of" (interpretive). The Hebrew is starker: "What of the night?" — a more existential question about the nature of the darkness, not just its remaining duration.
-
-- v.16 — ASV: "Within a year, according to the years of a hireling" / WEB: "Within a year, as a worker bound by contract would count it" / NET: "Within exactly one year" — WEB helpfully explains the "hireling" idiom ("as a worker bound by contract would count it"). NET simply uses "exactly" — conveying the precision but losing the agricultural/labor imagery of counted time.
-
-- v.17 — ASV: "for Jehovah, the God of Israel, hath spoken it" / WEB: "for Yahweh, the God of Israel, has spoken it" / NET: "the Lord God of Israel has spoken" — The closing authentication formula. When "Yahweh, the God of Israel has spoken it," the prophecy is guaranteed. ASV/WEB preserve the personal name + covenant title; NET uses the generic "Lord God."
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

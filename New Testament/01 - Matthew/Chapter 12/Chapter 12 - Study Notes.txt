@@ -93,28 +93,13 @@ Charles Spurgeon:
   want to know the state of a man's heart, listen to his words — especially
   the unguarded ones."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "corn" — ESV/NET: "grain" — British English "corn" means grain
        generally (wheat, barley), not American corn/maize. The disciples were
        plucking heads of grain — permitted by Deuteronomy 23:25 but classified
        as "work" by Pharisaic tradition.
 
-v.20 — KJV: "smoking flax" — ESV: "smoldering wick" — A wick that is barely
-       burning, about to go out. The image is of someone whose faith or hope
-       is nearly extinguished. Jesus does not snuff it out — He nurtures it.
-
-v.31 — KJV: "blasphemy against the Holy Ghost" — ESV: "blasphemy against the
-       Spirit" — Greek "blasphēmia" — speaking against, slandering. The
-       specific sin: attributing the Spirit's clear work to Satan. This is
-       not a momentary doubt or struggle but a deliberate, sustained rejection.
-
-v.40 — KJV: "whale's belly" — ESV/NET: "belly of the great fish" — The Hebrew
-       in Jonah 1:17 says "great fish" (dag gadol), not specifically a whale.
-       KJV's "whale" is an interpretation; "great fish" is more accurate.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
 v.6  — NET: "something greater than the temple is here" —
        "something greater" (meizon — neuter, not masculine: greater
        THING, not greater person). WEB: "one greater than the
@@ -126,11 +111,20 @@ v.18 — NET: "Here is my servant whom I have chosen, the one I
        WEB: "my servant whom I have chosen." Jesus as the Suffering
        Servant — gentle, not breaking bruised reeds (v.20).
 
+v.20 — KJV: "smoking flax" — ESV: "smoldering wick" — A wick that is barely
+       burning, about to go out. The image is of someone whose faith or hope
+       is nearly extinguished. Jesus does not snuff it out — He nurtures it.
+
 v.28 — NET: "But if I cast out demons by the Spirit of God, then
        the kingdom of God has already overtaken you" — "overtaken"
        (ephthasen = has arrived/come upon). WEB: "the Kingdom of
        God has come upon you." KJV: "the kingdom of God is come
        unto you." The kingdom is PRESENT in Jesus' exorcisms.
+
+v.31 — KJV: "blasphemy against the Holy Ghost" — ESV: "blasphemy against the
+       Spirit" — Greek "blasphēmia" — speaking against, slandering. The
+       specific sin: attributing the Spirit's clear work to Satan. This is
+       not a momentary doubt or struggle but a deliberate, sustained rejection.
 
 v.36 — NET: "on the day of judgment, people will give an account
        for every worthless word they speak" — "worthless" (argon =
@@ -138,7 +132,10 @@ v.36 — NET: "on the day of judgment, people will give an account
        "every idle word." Words reveal the heart (v.34) and will
        be examined at judgment.
 
-v.40 — NET: "just as Jonah was in the belly of the huge fish for
+v.40 — KJV: "whale's belly" — ESV/NET: "belly of the great fish" — The Hebrew
+       in Jonah 1:17 says "great fish" (dag gadol), not specifically a whale.
+       KJV's "whale" is an interpretation; "great fish" is more accurate.
+       NET: "just as Jonah was in the belly of the huge fish for
        three days and three nights, so the Son of Man will be in
        the heart of the earth" — "huge fish" (kEtous = sea monster).
        WEB: "the whale." KJV: "the whale." NET avoids "whale"

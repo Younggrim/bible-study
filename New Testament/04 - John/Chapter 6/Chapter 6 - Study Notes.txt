@@ -86,7 +86,7 @@ Charles Spurgeon:
   "All that the Father gives Me shall come — sovereignty. Him that comes I will
   not cast out — free invitation. Both truths stand. Hold them both."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.7  — KJV: "Two hundred pennyworth of bread" / ESV: "Two hundred denarii worth of bread" — Greek "denarion" — KJV uses archaic "pennyworth"; ESV uses the actual coin name "denarii." A denarius was one day's wage — 200 denarii = approximately 8 months' wages.
   [ASV/NET/WEB]: NET: "Two hundred silver coins worth of bread would not
@@ -135,7 +135,6 @@ v.68 — NET: "Lord, to whom would we go? You have the words of
        we possibly go?
 
 v.69 — KJV: "thou art that Christ, the Son of the living God" / ESV: "you are the Holy One of God" — Greek "ho hagios tou theou" — ESV follows older manuscripts reading "Holy One of God"; KJV follows manuscripts reading "Christ, the Son of the living God." Both affirm Peter's confession of Jesus' divine identity.
-
 
 GLOSSARY
 ------------------------------------

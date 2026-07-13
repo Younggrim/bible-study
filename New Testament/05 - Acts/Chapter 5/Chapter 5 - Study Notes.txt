@@ -101,43 +101,24 @@ Charles Spurgeon:
   beaten for the name of Jesus. That is a mindset the modern church has
   largely lost."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3  — KJV: "lie to the Holy Ghost" / ESV: "lie to the Holy Spirit" — Both
        equivalent ("Ghost"/"Spirit" = same Greek "pneuma"). Their sin was
        deception directed at God Himself. Peter identifies the Holy Spirit as
        God (v.3 = Holy Spirit; v.4 = God). This is one of the clearest
        affirmations of the Spirit's deity in Acts.
-
-v.4  — KJV: "was it not in thine own power?" / ESV: "was it not at your
-       disposal?" — Both equivalent. Giving was voluntary, not compulsory.
-       Their sin was not in keeping money but in pretending to give all while
-       keeping some — hypocrisy, not stinginess.
-
-v.30 — KJV: "hanged on a tree" / ESV: "hanging him on a tree" — Both
-       identical in meaning. A reference to crucifixion using Deuteronomy
-       21:22-23 language. "Cursed is everyone who hangs on a tree" — Jesus
-       bore the curse for us (Galatians 3:13).
-
-v.31 — KJV: "a Prince and a Saviour" / ESV: "Leader and Savior" — Greek
-       "archēgon kai sōtēra." KJV's "Prince" emphasizes royal authority;
-       ESV's "Leader" emphasizes pioneering headship. Both are valid
-       renderings of "archēgos."
-
-v.41 — KJV: "counted worthy to suffer shame" / ESV: "counted worthy to
-       suffer dishonor" — Greek "katēxiōthēsan atimasthēnai" — considered
-       worthy of being dishonored. Both equivalent. A paradox: dishonor for
-       Christ's name is the highest honor.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "Ananias, why has Satan filled your heart to lie
+       NET: "Ananias, why has Satan filled your heart to lie
        to the Holy Spirit?" — "filled your heart" (eplErOsen tEn
        kardian) — a counterfeit filling opposed to the Spirit's
        filling. WEB: "why has Satan filled your heart to lie to
        the Holy Spirit?" Lying to the Spirit = lying to God (v.4).
 
-v.4  — NET: "You have not lied to people but to God!" — Peter
+v.4  — KJV: "was it not in thine own power?" / ESV: "was it not at your
+       disposal?" — Both equivalent. Giving was voluntary, not compulsory.
+       Their sin was not in keeping money but in pretending to give all while
+       keeping some — hypocrisy, not stinginess.
+       NET: "You have not lied to people but to God!" — Peter
        equates the Holy Spirit (v.3) with God (v.4) — Trinitarian
        theology in action. WEB: "You haven't lied to men, but to
        God." KJV: "thou hast not lied unto men, but unto God."
@@ -149,13 +130,27 @@ v.15 — NET: "they even carried the sick out into the streets...
        shadow might overshadow some of them." Reminiscent of
        Jesus' garment hem (Mark 5:28).
 
+v.30 — KJV: "hanged on a tree" / ESV: "hanging him on a tree" — Both
+       identical in meaning. A reference to crucifixion using Deuteronomy
+       21:22-23 language. "Cursed is everyone who hangs on a tree" — Jesus
+       bore the curse for us (Galatians 3:13).
+
+v.31 — KJV: "a Prince and a Saviour" / ESV: "Leader and Savior" — Greek
+       "archēgon kai sōtēra." KJV's "Prince" emphasizes royal authority;
+       ESV's "Leader" emphasizes pioneering headship. Both are valid
+       renderings of "archēgos."
+
 v.34 — NET: "a Pharisee named Gamaliel, a teacher of the law who
        was respected by all the people" — Gamaliel was Paul's
        teacher (22:3) and grandson of Hillel. WEB: "a Pharisee
        named Gamaliel." KJV: "a Pharisee, named Gamaliel." His
        counsel saves the apostles' lives.
 
-v.41 — NET: "they left the council rejoicing because they had been
+v.41 — KJV: "counted worthy to suffer shame" / ESV: "counted worthy to
+       suffer dishonor" — Greek "katēxiōthēsan atimasthēnai" — considered
+       worthy of being dishonored. Both equivalent. A paradox: dishonor for
+       Christ's name is the highest honor.
+       NET: "they left the council rejoicing because they had been
        considered worthy to suffer dishonor for the sake of the
        name" — "the name" (tou onomatos) — Jesus' name is so
        sacred it needs no further identification. WEB: "worthy to

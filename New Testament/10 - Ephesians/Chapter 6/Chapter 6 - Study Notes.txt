@@ -111,9 +111,8 @@ Charles Spurgeon:
   the wilderness, He used this sword: 'It is written.' Three times the devil
   attacked; three times the Word cut him down. Learn to wield this sword."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "in the Lord" / ESV: Both equivalent. — The sphere of obedience. Children obey parents
        within the framework of the Lord's authority. If a parent commands
        something contrary to God, God's authority takes precedence.
@@ -131,18 +130,42 @@ v.6  — KJV: "eyeservice" / ESV: "not by the way of eye-service" — Greek "oph
        being watched. A word Paul may have coined. The opposite: working
        "from the heart" (v.6) as unto Christ.
 
+v.10 — NET: "Finally, be strengthened in the Lord and in the
+       strength of his might" — "be strengthened" (endynamousthe =
+       be empowered, present passive). WEB: "be strong in the Lord,
+       and in the strength of his might." KJV: "be strong in the
+       Lord." Not self-strength but divine empowerment.
+
 v.11 — KJV: "wiles" / ESV: "the schemes" — Greek "methodeia" — methods, schemes, strategies.
        Root of English "method." The devil is strategic, not random. He has
        specific methods tailored to each person.
+       NET: "Clothe yourselves with the full armor of God so that
+       you may be able to stand against the schemes of the devil"
+       — "schemes" (methodias = methods/strategies/wiles). WEB:
+       "Put on the whole armor of God." KJV: "Put on the whole
+       armour of God." The enemy has strategies — believers need
+       corresponding equipment.
 
 v.12 — KJV: "wrestle" / ESV: Both equivalent. — Greek "palē" — hand-to-hand combat, wrestling.
        Intimate, close-quarters struggle. Not distant warfare but personal
        engagement with spiritual forces.
+       NET: "For our struggle is not against flesh and blood, but
+       against the rulers, against the powers, against the world
+       rulers of this darkness, against the spiritual forces of
+       evil in the heavens" — four ranks of spiritual opposition.
+       WEB: "against the principalities, against the powers."
+       The real enemy is invisible.
 
 v.12 — Four ranks of evil: "principalities" (archai — rulers), "powers"
        (exousiai — authorities), "rulers of darkness" (kosmokratoras —
        world-rulers), "spiritual wickedness in high places" (pneumatika
        ponērias — spiritual forces of evil in the heavenlies).
+       NET: "For our struggle is not against flesh and blood, but
+       against the rulers, against the powers, against the world
+       rulers of this darkness, against the spiritual forces of
+       evil in the heavens" — four ranks of spiritual opposition.
+       WEB: "against the principalities, against the powers."
+       The real enemy is invisible.
 
 v.16 — KJV: "fiery darts" / ESV: "the flaming darts" — In ancient warfare, arrows dipped in pitch and
        set ablaze. The shield (Greek "thureos" — large door-shaped shield)
@@ -151,30 +174,7 @@ v.16 — KJV: "fiery darts" / ESV: "the flaming darts" — In ancient warfare, a
 
 v.17 — KJV: "sword" / ESV: Both equivalent. — Greek "machaira" — a short sword for close combat,
        not a long broadsword. Precise, targeted use of Scripture.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.10 — NET: "Finally, be strengthened in the Lord and in the
-       strength of his might" — "be strengthened" (endynamousthe =
-       be empowered, present passive). WEB: "be strong in the Lord,
-       and in the strength of his might." KJV: "be strong in the
-       Lord." Not self-strength but divine empowerment.
-
-v.11 — NET: "Clothe yourselves with the full armor of God so that
-       you may be able to stand against the schemes of the devil"
-       — "schemes" (methodias = methods/strategies/wiles). WEB:
-       "Put on the whole armor of God." KJV: "Put on the whole
-       armour of God." The enemy has strategies — believers need
-       corresponding equipment.
-
-v.12 — NET: "For our struggle is not against flesh and blood, but
-       against the rulers, against the powers, against the world
-       rulers of this darkness, against the spiritual forces of
-       evil in the heavens" — four ranks of spiritual opposition.
-       WEB: "against the principalities, against the powers."
-       The real enemy is invisible.
-
-v.17 — NET: "the sword of the Spirit, which is the word of God"
+       NET: "the sword of the Spirit, which is the word of God"
        — "word" (rhEma = spoken/specific word, not logos = written
        word). WEB: "the sword of the Spirit, which is the word of
        God." The only offensive weapon listed — all others are

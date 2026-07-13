@@ -117,11 +117,17 @@ Charles Spurgeon:
   And what is the measure of Christ's gift? Immeasurable. He gives without
   limit because He is without limit."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "vocation" — Greek "klēsis" — calling. Not occupation but divine
        calling. ESV: "calling to which you have been called."
+
+v.3  — NET: "making every effort to keep the unity of the
+       Spirit in the bond of peace" — "making every effort"
+       (spoudazontes = being diligent/eager). WEB: "being eager to
+       keep the unity of the Spirit." KJV: "Endeavouring to keep
+       the unity." Unity exists; our job is to MAINTAIN it, not
+       create it.
 
 v.8  — KJV: "led captivity captive" / ESV: "he led a host of captives, and" — Quotes Psalm 68:18 but changes "received
        gifts" to "gave gifts." Paul interprets Christ's ascension: He
@@ -136,37 +142,17 @@ v.9  — KJV: "lower parts of the earth" / ESV: "into the lower regions, the ear
 v.11 — KJV: "pastors and teachers" / ESV: "the shepherds and teachers" — Greek grammar links these with one
        article ("tous de poimenas kai didaskalous"), suggesting one office:
        pastor-teachers. Those who shepherd by teaching.
+       NET: "It was he who gave some as apostles, some as
+       prophets, some as evangelists, and some as pastors and
+       teachers" — "gave" (edOken = gifted). WEB: "He gave some
+       to be apostles." The leaders ARE the gifts to the church —
+       not just their abilities but their persons.
 
 v.12 — KJV punctuation is crucial. Older versions: "For the perfecting of the
        saints, for the work of the ministry, for the edifying of the body."
        Better: "For the perfecting of the saints FOR the work of the ministry
        FOR the edifying of the body." Leaders equip saints; saints do ministry;
        the body is built up.
-
-v.22 — KJV: "conversation" — Greek "anastrophē" — manner of life, conduct
-       (not speech). ESV: "former manner of life."
-
-v.26 — KJV: "Be ye angry, and sin not" / ESV: "Be angry and do not sin" — Quotes Psalm 4:4. Anger itself is
-       not sin — it's a God-given emotion. But it must be handled quickly
-       ("let not the sun go down") and not given to the devil (v.27).
-
-v.30 — KJV: "grieve" / ESV: Both equivalent. — Greek "lupeō" — to cause sorrow, to sadden. The
-       Spirit is a person who can be grieved — not an impersonal force.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "making every effort to keep the unity of the
-       Spirit in the bond of peace" — "making every effort"
-       (spoudazontes = being diligent/eager). WEB: "being eager to
-       keep the unity of the Spirit." KJV: "Endeavouring to keep
-       the unity." Unity exists; our job is to MAINTAIN it, not
-       create it.
-
-v.11 — NET: "It was he who gave some as apostles, some as
-       prophets, some as evangelists, and some as pastors and
-       teachers" — "gave" (edOken = gifted). WEB: "He gave some
-       to be apostles." The leaders ARE the gifts to the church —
-       not just their abilities but their persons.
 
 v.13 — NET: "until we all attain to the unity of the faith and of
        the knowledge of the Son of God — to a mature person" —
@@ -182,11 +168,20 @@ v.15 — NET: "speaking the truth in love, we will in all things
        love." Truth without love wounds; love without truth deceives.
        Both together produce growth.
 
-v.26 — NET: "Be angry and do not sin; do not let the sun go down
+v.22 — KJV: "conversation" — Greek "anastrophē" — manner of life, conduct
+       (not speech). ESV: "former manner of life."
+
+v.26 — KJV: "Be ye angry, and sin not" / ESV: "Be angry and do not sin" — Quotes Psalm 4:4. Anger itself is
+       not sin — it's a God-given emotion. But it must be handled quickly
+       ("let not the sun go down") and not given to the devil (v.27).
+       NET: "Be angry and do not sin; do not let the sun go down
        on the cause of your anger" — quoting Psalm 4:4. "Be angry"
        (orgizesthe) — anger itself is not sin; nursing it overnight
        is. WEB: "Be angry, and don't sin." KJV: "Be ye angry, and
        sin not." A time limit on anger — sunset is the deadline.
+
+v.30 — KJV: "grieve" / ESV: Both equivalent. — Greek "lupeō" — to cause sorrow, to sadden. The
+       Spirit is a person who can be grieved — not an impersonal force.
 
 GLOSSARY
 ------------------------------------

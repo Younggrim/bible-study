@@ -97,36 +97,12 @@ Charles Spurgeon:
   He doesn't pay wages; He gives gifts. You're either earning death or
   receiving life. There is no third option."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.2  — KJV: "dead to sin" / ESV: "we who died to sin" — Greek "apethanomen" — we died (aorist tense) —
        a completed past action. Not "we are dying" (progressive) but "we
        died" (once, definitively, at conversion).
-
-v.6  — KJV: "our old man" — ESV: "our old self" — the person you were before
-       Christ — your former identity, nature, and way of life. It was
-       "crucified with him" — executed, not reformed.
-
-v.11 — KJV: "reckon" / ESV: "So you also must" — Greek "logizesthe" — to count, to consider, to regard
-       as true. The same accounting word used in chapter 4 for imputation.
-       Consider yourself dead to sin — believe it as fact.
-
-v.13 — KJV: "yield" / ESV: "Do not present your" — Greek "paristēmi" — to present, to place at someone's
-       disposal. A military term: present yourself for service. You choose
-       whose service you enter.
-
-v.14 — KJV: "sin shall not have dominion" / ESV: "For sin will have no dominion over" — Not "sin will not tempt you" but
-       "sin will not RULE you." Temptation continues; domination doesn't.
-       You are free from sin's mastery, not from sin's presence.
-
-v.23 — KJV: "wages... gift" / ESV: "wages of sin is death, but the free gift of God is eternal" — Two different economic models. Sin PAYS wages
-       (you earn death). God GIVES a gift (you receive life). Wages are
-       earned; gifts are free.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "How can we who died to sin still live in it?" —
+       NET: "How can we who died to sin still live in it?" —
        the logical impossibility of continuing in sin after dying
        to it. WEB: "How could we, who died to sin, live in it any
        longer?" KJV: "How shall we, that are dead to sin, live any
@@ -139,19 +115,36 @@ v.4  — NET: "we have been buried with him through baptism into
        baptism into death." Union with Christ in His death AND
        resurrection.
 
-v.6  — NET: "our old man was crucified with him so that the body
+v.6  — KJV: "our old man" — ESV: "our old self" — the person you were before
+       Christ — your former identity, nature, and way of life. It was
+       "crucified with him" — executed, not reformed.
+       NET: "our old man was crucified with him so that the body
        of sin would no longer dominate us" — "dominate" (douleuein
        = enslave). WEB: "that we would no longer be in bondage to
        sin." KJV: "that henceforth we should not serve sin." The
        old self is executed, not reformed.
 
-v.14 — NET: "sin will not be master over you, for you are not
+v.11 — KJV: "reckon" / ESV: "So you also must" — Greek "logizesthe" — to count, to consider, to regard
+       as true. The same accounting word used in chapter 4 for imputation.
+       Consider yourself dead to sin — believe it as fact.
+
+v.13 — KJV: "yield" / ESV: "Do not present your" — Greek "paristēmi" — to present, to place at someone's
+       disposal. A military term: present yourself for service. You choose
+       whose service you enter.
+
+v.14 — KJV: "sin shall not have dominion" / ESV: "For sin will have no dominion over" — Not "sin will not tempt you" but
+       "sin will not RULE you." Temptation continues; domination doesn't.
+       You are free from sin's mastery, not from sin's presence.
+       NET: "sin will not be master over you, for you are not
        under law but under grace" — "master" (kyrieusei = lord it
        over). WEB: "sin will not have dominion over you." KJV:
        "sin shall not have dominion over you." Grace doesn't
        permit sin — it BREAKS sin's reign.
 
-v.23 — NET: "For the payoff of sin is death, but the gift of God
+v.23 — KJV: "wages... gift" / ESV: "wages of sin is death, but the free gift of God is eternal" — Two different economic models. Sin PAYS wages
+       (you earn death). God GIVES a gift (you receive life). Wages are
+       earned; gifts are free.
+       NET: "For the payoff of sin is death, but the gift of God
        is eternal life in Christ Jesus our Lord" — "payoff"
        (opsOnia = wages/soldier's pay). WEB: "the wages of sin is
        death." KJV: "the wages of sin is death." Sin pays what it

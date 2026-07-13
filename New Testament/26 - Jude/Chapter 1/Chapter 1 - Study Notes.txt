@@ -99,7 +99,7 @@ Charles Spurgeon:
  added to or subtracted from. Unto the saints — entrusted to believers to
  guard and defend. This is not optional — it is urgent."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "preserved in Jesus Christ" / ESV: "kept for Jesus Christ" —
  Greek "tētērēmenois" — kept, guarded, watched over. Believers are
@@ -111,16 +111,33 @@ v.3 — KJV: "earnestly contend" / ESV: "contend" — Greek "epagōnizesthai" �
  intense struggle. KJV: "once delivered" / ESV: "once for all
  delivered" — Greek "hapax paradotheisē" — once for all handed over.
  The faith is complete — no new revelations needed.
+       NET: "I now feel compelled instead to write to encourage
+       you to contend earnestly for the faith" — "contend earnestly"
+       (epagOnizesthai = fight strenuously/agonize for). WEB:
+       "to contend earnestly for the faith." KJV: "earnestly
+       contend for the faith." Athletic/military intensity —
+       THE faith (body of doctrine) needs active defense.
 
 v.4 — KJV: "crept in unawares" / ESV: "crept in unnoticed" — Greek
  "pareiseduesan" — slipped in secretly, smuggled in alongside. False
  teachers enter subtly. KJV: "lasciviousness" / ESV: "sensuality" —
  Greek "aselgeian" — sensuality, license, lack of moral restraint.
+       NET: "certain men have secretly slipped in among you" —
+       "secretly slipped in" (pareisedysan = crept in sideways/
+       infiltrated). WEB: "there are certain men who crept in
+       secretly." KJV: "certain men crept in unawares." They
+       didn't announce themselves — stealth entry into the church.
 
 v.9 — KJV: "Michael the archangel... durst not bring against him a railing
  accusation" / ESV: "did not presume to pronounce a blasphemous
  judgment" — Even he didn't presume to rebuke Satan directly but said
  "The Lord rebuke thee." False teachers are bolder than angels.
+       NET: "Michael the archangel, when he argued with the devil
+       and disputed about the body of Moses, did not dare to bring
+       a slandering judgment" — "did not dare" (ouk etolmEsen =
+       did not presume). WEB: "dared not bring against him a
+       railing judgment." Even an archangel defers to God in
+       dealing with Satan — unlike the false teachers (v.10).
 
 v.11 — KJV: "the way of Cain... the error of Balaam... the gainsaying of
  Core" / ESV: "the way of Cain... Balaam's error... Korah's rebellion"
@@ -132,6 +149,12 @@ v.12 — KJV: "spots in your feasts of charity" / ESV: "blemishes on your
  love feasts" — Greek "spilades" — hidden rocks (dangerous to ships) or
  blemishes. They feast with believers while being spiritually dangerous.
 
+v.14 — NET: "Enoch, the seventh from Adam, prophesied about them"
+       — Jude quotes 1 Enoch (an apocryphal book). WEB: "Enoch,
+       the seventh from Adam, also prophesied." Quoting a non-
+       canonical source does not canonize it — Paul quoted pagan
+       poets (Acts 17:28; Titus 1:12) the same way.
+
 v.20 — KJV: "building up yourselves on your most holy faith" / ESV:
  "building yourselves up in your most holy faith" — Both equivalent.
  Greek "epoikodomountes" — building upon the foundation. Active,
@@ -142,36 +165,7 @@ v.24 — KJV: "keep you from falling" / ESV: "keep you from stumbling" —
  God's preserving power. KJV: "faultless" / ESV: "blameless" — Greek
  "amōmous" — without blemish, without defect. The same word used of
  sacrificial animals — spotless.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "I now feel compelled instead to write to encourage
-       you to contend earnestly for the faith" — "contend earnestly"
-       (epagOnizesthai = fight strenuously/agonize for). WEB:
-       "to contend earnestly for the faith." KJV: "earnestly
-       contend for the faith." Athletic/military intensity —
-       THE faith (body of doctrine) needs active defense.
-
-v.4  — NET: "certain men have secretly slipped in among you" —
-       "secretly slipped in" (pareisedysan = crept in sideways/
-       infiltrated). WEB: "there are certain men who crept in
-       secretly." KJV: "certain men crept in unawares." They
-       didn't announce themselves — stealth entry into the church.
-
-v.9  — NET: "Michael the archangel, when he argued with the devil
-       and disputed about the body of Moses, did not dare to bring
-       a slandering judgment" — "did not dare" (ouk etolmEsen =
-       did not presume). WEB: "dared not bring against him a
-       railing judgment." Even an archangel defers to God in
-       dealing with Satan — unlike the false teachers (v.10).
-
-v.14 — NET: "Enoch, the seventh from Adam, prophesied about them"
-       — Jude quotes 1 Enoch (an apocryphal book). WEB: "Enoch,
-       the seventh from Adam, also prophesied." Quoting a non-
-       canonical source does not canonize it — Paul quoted pagan
-       poets (Acts 17:28; Titus 1:12) the same way.
-
-v.24 — NET: "Now to the one who is able to keep you from falling,
+       NET: "Now to the one who is able to keep you from falling,
        and to cause you to stand, without blemish, in joyful
        exultation, before his glorious presence" — "keep from
        falling" (phylaxai aptaistous = guard without stumbling).

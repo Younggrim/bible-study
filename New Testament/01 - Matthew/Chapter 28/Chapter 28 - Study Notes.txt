@@ -90,35 +90,13 @@ Charles Spurgeon:
   impossible without the authority and the presence. With them, it is
   unstoppable."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "In the end of the sabbath, as it began to dawn toward the first
        day of the week" — ESV: "After the Sabbath, toward the dawn of the
        first day of the week" — The Greek is slightly ambiguous but all
        translations agree: early Sunday morning.
 
-v.17 — KJV: "but some doubted" — ESV: "but some doubted" — Greek "edistasan"
-       — to hesitate, to be uncertain. Even in the presence of the risen
-       Christ, some hesitated. Jesus gave the commission anyway — to doubters
-       and worshippers alike.
-
-v.19 — KJV: "teach all nations" — ESV: "make disciples of all nations" —
-       Greek "mathēteusate" — to make disciples, not merely to teach
-       information. The command is to produce followers of Christ, not just
-       informed people.
-
-v.19 — KJV: "in the name of the Father, and of the Son, and of the Holy
-       Ghost" / ESV: "in the name of the Father and of the Son and of the
-       Holy Spirit" — "Name" is singular (not "names") — one God in three
-       persons. The Trinitarian formula in baptism reflects the Trinitarian
-       nature of God.
-
-v.20 — KJV: "the end of the world" — ESV: "the end of the age" — Greek
-       "sunteleia tou aiōnos" — the consummation of the age. Christ's
-       presence with His church is guaranteed until He returns.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
 v.2  — NET: "there was a violent earthquake, for an angel of
        the Lord descending from heaven came and rolled away the
        stone" — "violent earthquake" (seismos megas). WEB: "a
@@ -131,13 +109,22 @@ v.6  — NET: "He is not here, for he has been raised, just as he
        not here: for he is risen." The angel's announcement —
        the tomb is evidence, not residence.
 
+v.17 — KJV: "but some doubted" — ESV: "but some doubted" — Greek "edistasan"
+       — to hesitate, to be uncertain. Even in the presence of the risen
+       Christ, some hesitated. Jesus gave the commission anyway — to doubters
+       and worshippers alike.
+
 v.18 — NET: "All authority in heaven and on earth has been given
        to me" — "all authority" (pasa exousia = every kind of
        power, in every realm). WEB: "All authority has been given
        to me." KJV: "All power is given unto me." The universal
        scope grounds the universal commission.
 
-v.19 — NET: "Therefore go and make disciples of all nations,
+v.19 — KJV: "teach all nations" — ESV: "make disciples of all nations" —
+       Greek "mathēteusate" — to make disciples, not merely to teach
+       information. The command is to produce followers of Christ, not just
+       informed people.
+       NET: "Therefore go and make disciples of all nations,
        baptizing them in the name of the Father and the Son and
        the Holy Spirit" — "make disciples" (mathEteusate = the
        main imperative — going, baptizing, teaching are participles
@@ -145,7 +132,23 @@ v.19 — NET: "Therefore go and make disciples of all nations,
        The single command is discipling; the method is going,
        baptizing, teaching.
 
-v.20 — NET: "I am with you always, to the end of the age" —
+v.19 — KJV: "in the name of the Father, and of the Son, and of the Holy
+       Ghost" / ESV: "in the name of the Father and of the Son and of the
+       Holy Spirit" — "Name" is singular (not "names") — one God in three
+       persons. The Trinitarian formula in baptism reflects the Trinitarian
+       nature of God.
+       NET: "Therefore go and make disciples of all nations,
+       baptizing them in the name of the Father and the Son and
+       the Holy Spirit" — "make disciples" (mathEteusate = the
+       main imperative — going, baptizing, teaching are participles
+       supporting it). WEB: "Go and make disciples of all nations."
+       The single command is discipling; the method is going,
+       baptizing, teaching.
+
+v.20 — KJV: "the end of the world" — ESV: "the end of the age" — Greek
+       "sunteleia tou aiōnos" — the consummation of the age. Christ's
+       presence with His church is guaranteed until He returns.
+       NET: "I am with you always, to the end of the age" —
        "always" (pasas tas hEmeras = all the days). WEB: "I am
        with you always, even to the end of the age." KJV: "I am
        with you alway, even unto the end of the world." Emmanuel

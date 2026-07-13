@@ -123,16 +123,26 @@ Charles Spurgeon:
  not the message. You can kill the messenger but not the truth. The Word of
  God is free — always has been, always will be."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2 — KJV: "commit" / ESV: "entrust" — Greek "parathou" — entrust, deposit with. The same
  "deposit" language from 1:12, 14. Truth is a treasure to be entrusted
  to reliable people. Four generations: Paul → Timothy → faithful men →
  others.
+       NET: "entrust to faithful people who will be competent
+       to teach others as well" — "entrust" (parathou = deposit/
+       commit). WEB: "commit to faithful men." KJV: "commit thou
+       to faithful men." Four generations of transmission: Paul,
+       Timothy, faithful men, others also. Multiplication.
 
 v.4 — KJV: "entangleth" / ESV: "entangled" — Greek "empleketai" — to weave in, get tangled
  up in. A soldier on active duty doesn't get involved in civilian
  business — his commander has his full attention.
+       NET: "No one serving in the army gets entangled in matters
+       of everyday life; otherwise he will not please the one who
+       recruited him" — "entangled" (empleketai = woven into/
+       entangled). WEB: "No soldier on duty entangles himself in
+       the affairs of life." Single-minded focus for the soldier.
 
 v.5 — KJV: "strive for masteries" / ESV: "competes" — Greek "athlē" — compete in athletic
  games. "Lawfully" / ESV: "according to the rules" — Greek "nomimōs" — according to the rules. You
@@ -146,11 +156,22 @@ v.15 — KJV: "study" / ESV: "do your best" — Greek "spoudason" — be diligen
  be eager. Not just academic study but wholehearted effort. KJV: "rightly
  dividing" / ESV: "rightly handling" — Greek "orthotomounta" — cutting straight, handling
  correctly. A craftsman cutting a straight line.
+       NET: "Make every effort to present yourself before God as
+       a proven worker... who correctly handles the word of truth"
+       — "correctly handles" (orthotomounta = cuts straight). KJV:
+       "rightly dividing the word of truth." WEB: "handling
+       aright the word of truth." The metaphor may be cutting
+       straight furrows or cutting stone precisely.
 
 v.19 — KJV: "the foundation of God standeth sure" / ESV: "God’s firm foundation stands" — Despite false teachers
  and apostasy, God's foundation is unshakeable. Two inscriptions on it:
  (1) God knows His own (divine sovereignty), (2) depart from iniquity
  (human responsibility).
+       NET: "The Lord knows those who are his" — quoting Numbers
+       16:5. WEB: "The Lord knows those who are his." KJV: "The
+       Lord knoweth them that are his." God's knowledge of His own
+       is the foundation of assurance — not our knowledge of
+       ourselves.
 
 v.21 — KJV: "vessel unto honour" / ESV: "vessel" — Greek "skeuos eis timēn" — an instrument
  for noble use. The difference between a gold vessel and a clay pot is
@@ -159,35 +180,7 @@ v.21 — KJV: "vessel unto honour" / ESV: "vessel" — Greek "skeuos eis timēn"
 v.25 — KJV: "if God peradventure will give them repentance" / ESV: "God may perhaps grant them repentance" — Repentance is
  God's gift, not merely human decision. The servant instructs; God
  grants repentance.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "entrust to faithful people who will be competent
-       to teach others as well" — "entrust" (parathou = deposit/
-       commit). WEB: "commit to faithful men." KJV: "commit thou
-       to faithful men." Four generations of transmission: Paul,
-       Timothy, faithful men, others also. Multiplication.
-
-v.4  — NET: "No one serving in the army gets entangled in matters
-       of everyday life; otherwise he will not please the one who
-       recruited him" — "entangled" (empleketai = woven into/
-       entangled). WEB: "No soldier on duty entangles himself in
-       the affairs of life." Single-minded focus for the soldier.
-
-v.15 — NET: "Make every effort to present yourself before God as
-       a proven worker... who correctly handles the word of truth"
-       — "correctly handles" (orthotomounta = cuts straight). KJV:
-       "rightly dividing the word of truth." WEB: "handling
-       aright the word of truth." The metaphor may be cutting
-       straight furrows or cutting stone precisely.
-
-v.19 — NET: "The Lord knows those who are his" — quoting Numbers
-       16:5. WEB: "The Lord knows those who are his." KJV: "The
-       Lord knoweth them that are his." God's knowledge of His own
-       is the foundation of assurance — not our knowledge of
-       ourselves.
-
-v.25 — NET: "perhaps God will grant them repentance and then
+       NET: "perhaps God will grant them repentance and then
        knowledge of the truth" — "grant repentance" (dOE metanoian
        = give repentance as a gift). WEB: "God may perhaps give
        them repentance leading to a knowledge of the truth."

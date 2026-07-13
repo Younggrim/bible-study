@@ -95,7 +95,7 @@ Charles Spurgeon:
   by suffering and persevered, tried by death and rose again.
   Build on Him and you build on certainty."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — "the fading flower of his glorious beauty" (ESV) / "whose
       glorious beauty is a fading flower" (KJV) — Samaria sat on
@@ -117,43 +117,6 @@ v.25 — "fitches" (KJV) / "dill" (ESV) — Hebrew "qetsach" =
       black cumin (Nigella sativa), a spice seed that requires
       gentle threshing, not crushing. The farmer parable: God
       applies different methods to different crops.
-
-GLOSSARY
-------------------------------------
-Cornerstone  — The first stone laid in construction, determining
-              the alignment of the entire building. Christ as
-              cornerstone: everything in God's kingdom is aligned
-              to and built upon Him.
-
-Covenant with Death — Judah's alliance with Egypt, sarcastically
-              renamed. They thought it guaranteed life; Isaiah says
-              it guarantees death. Any "security" built apart from
-              God is ultimately a pact with destruction.
-
-Strange Work — God's judgment described as unusual, unnatural
-              for Him. Blessing is God's delight; judgment is His
-              reluctant necessity when all other options are
-              refused.
-
-Precept upon Precept — Either: (1) God's patient, incremental
-              method of teaching, or (2) the leaders' mocking
-              imitation of Isaiah's "repetitive" preaching.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.5 — ASV: "Jehovah of hosts" / WEB: "Yahweh of Armies" / NET: "the Lord of Heaven's Armies" — The contrast: Ephraim's fading crown vs. YHWH becoming the true crown of glory for His remnant. The divine name in ASV/WEB makes this personal — God Himself becomes their adornment.
-
-- v.10 — NET: "Indeed, they will hear meaningless gibberish, senseless babbling, a syllable here, a syllable there" — KJV/ASV/WEB retain the Hebrew formula "precept upon precept, line upon line" (tsav la-tsav, qav la-qav). NET interprets this as mocking gibberish, losing the ambiguity of whether it's God's patient teaching method or the mockers' parody.
-
-- v.15 — KJV: "with hell are we at agreement" / ASV/WEB: "with Sheol are we at agreement" / NET: "with Sheol we have made an agreement" — KJV translates "Sheol" as "hell," which imports later Christian theology. ASV/WEB/NET retain "Sheol" (the grave/underworld), which is more accurate to the Hebrew concept of the realm of the dead.
-
-- v.16 — ASV: "the Lord Jehovah" / WEB: "the Lord Yahweh" / NET: "the Sovereign Lord" — At the cornerstone prophecy, God speaks with full authority. NET renders "Adonai YHWH" as "Sovereign Lord" — adding interpretive weight but losing the revealed name that grounds this messianic promise in covenant.
-
-- v.16 — NET: "The one who maintains his faith will not panic" — KJV: "he that believeth shall not make haste." ASV: "he that believeth shall not be in haste." WEB: "He who believes shall not act hastily." NET's "maintains his faith" and "panic" are more interpretive than "believeth/not make haste," but effectively capture the Hebrew sense of steady trust vs. frantic alliance-seeking.
-
-- v.21 — WEB: "his unusual work... his extraordinary act" / KJV/ASV: "his strange work... his strange act" / NET: "his peculiar work... his strange task" — The Hebrew "zar" and "nokriyah" both mean foreign/alien. WEB's "unusual/extraordinary" softens the alienness. The point is that judgment feels FOREIGN to God's nature — it's not His native work.
-
-- v.29 — ASV: "This also cometh forth from Jehovah of hosts, who is wonderful in counsel" / WEB: "from Yahweh of Armies, who is wonderful in counsel" / NET: "from the Lord of Heaven's Armies, who gives supernatural guidance" — NET's "supernatural guidance" interprets where KJV/ASV/WEB say "wonderful in counsel." The farmer's wisdom comes from God — NET makes the divine origin explicit but loses the poetic subtlety.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

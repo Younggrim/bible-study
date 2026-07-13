@@ -258,7 +258,7 @@ Charles Spurgeon:
   with His blood. He took us as His bride. He gives us His name. And
   the inheritance He gains is not diminished but multiplied — for we
   are His inheritance, and He is ours."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "Ho, such a one! turn aside, sit down here" / ESV: "Turn
        aside, friend; sit down here" — Hebrew "surah sh'vah-poh
@@ -327,75 +327,6 @@ v.12 — KJV: "the house of Pharez, whom Tamar bare unto Judah" / ESV:
        another story where the line of promise was preserved through
        unconventional means, involving a woman who took bold action to
        secure her rights within the levirate system.
-
-GLOSSARY
-------------------------------------
-The Gate        — The main entrance to an ancient walled city, typically
-                a complex structure with chambers, benches, and open
-                areas. It served as courthouse, marketplace, and public
-                forum. Elders sat at the gate to conduct business,
-                witness transactions, and render judgments (Deuteronomy
-                21:19; Proverbs 31:23). "In the gate" meant "in public,
-                with legal authority."
-
-Go'el           — Hebrew = kinsman-redeemer. The near relative with
-(Kinsman-        responsibility to: (1) redeem family land sold due to
-Redeemer)        poverty (Leviticus 25:25); (2) redeem relatives from
-                slavery (Leviticus 25:47-49); (3) avenge blood (Numbers
-                35:19); (4) marry a kinsman's widow to preserve his name
-                (Ruth 4:5,10). The go'el must be: (a) a near relative,
-                (b) able to redeem (having sufficient resources), (c)
-                willing to redeem. Christ fulfills all three: He became
-                our kinsman through incarnation, He is able to save
-                completely, and He is willing — "I will redeem you."
-
-Obed            — Hebrew "Oved" = servant, worshipper. The son of Boaz
-                and Ruth, grandfather of David. His name suggests one
-                who serves God — appropriate for the ancestor of Israel's
-                greatest king and of the Messiah who came "not to be
-                ministered unto, but to minister" (Matthew 20:28).
-
-Perez/Pharez   — Hebrew "Perets" = breach, breaking through. Son of
-                Judah and Tamar (Genesis 38:29). His birth involved
-                breaking through ahead of his twin Zerah. The line of
-                Perez became the royal line of Judah, leading to David
-                and to Christ. The genealogy of Ruth begins with Perez,
-                connecting Ruth's story to the larger narrative of
-                Judah's line.
-
-Ephrathah       — An older name for Bethlehem or its surrounding
-                district (Genesis 35:19; Micah 5:2). "Ephrathite" =
-                a native of this region. The name may derive from
-                "parah" (to be fruitful). Micah 5:2 prophesies that
-                the Messiah will come from "Bethlehem Ephratah" —
-                connecting Ruth's story directly to messianic prophecy.
-
-Sandal          — The removal and transfer of a sandal confirmed the
-Ceremony          relinquishing of property rights. The sandal
-                symbolized the right to walk on (possess) land — giving
-                it to another transferred that right. In Deuteronomy
-                25:9-10, the widow removes the refusing kinsman's sandal
-                in disgrace. Here in Ruth 4:7-8, the transfer is
-                voluntary and dignified. The narrator explains the
-                custom, indicating it was no longer practiced in his day.
-
-Levirate        — From Latin "levir" = husband's brother. The obligation
-Obligation        (Deuteronomy 25:5-10) to marry a deceased brother's
-                childless widow and produce an heir in the dead man's
-                name. The firstborn son of this union would legally be
-                considered the dead man's son, inheriting his property
-                and continuing his name. In Ruth, the principle extends
-                beyond brothers to the broader kinsman-redeemer role.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "the near kinsman of whom Boaz spake" / WEB: "the near kinsman of whom Boaz spoke" / NET: "the guardian whom Boaz had mentioned" / KJV: "the kinsman of whom Boaz spake" — Hebrew "go'el" (kinsman-redeemer) is rendered "guardian" by NET throughout chapter 4, consistently losing the redemption theology. KJV/ASV/WEB preserve "kinsman/near kinsman," connecting this legal transaction to God's redemptive plan.
-- v.4 — ASV: "If thou wilt redeem it, redeem it" / WEB: "If you will redeem it, redeem it" / NET: "If you want to exercise your right to redeem it, then do so" — Hebrew "ga'al" (to redeem) appears repeatedly. NET adds "exercise your right" (interpretive); KJV/ASV/WEB preserve the bare imperative. The word "redeem" (ga'al) is the verbal form of go'el — the same word that describes God's redemptive action throughout the OT (Exodus 6:6; Isaiah 43:1).
-- v.5 — ASV: "to raise up the name of the dead upon his inheritance" / WEB: "to raise up the name of the dead on his inheritance" / NET: "in order to preserve his family name by raising up a descendant who will inherit his property" — NET expands and explains; KJV/ASV/WEB preserve the concise Hebrew formula. This is levirate-type duty: the redeemer raises up a son in the dead man's name so his line continues and his inheritance remains in the family. NET's expansion, while accurate, dilutes the legal solemnity.
-- v.6 — ASV: "lest I mar mine own inheritance" / WEB: "lest I endanger my own inheritance" / NET: "for I would ruin my own inheritance in that case" / KJV: "lest I mar mine own inheritance" — The unnamed kinsman fears diluting his estate by raising children who would carry Mahlon's name and inherit Elimelech's land. "Mar" (shachat — to destroy/corrupt) is vivid; NET's "ruin" is adequate but less evocative.
-- v.10 — ASV: "Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife" / NET: "I have also acquired Ruth the Moabite...as my wife" — NET uses "acquired" where ASV/KJV use "purchased" (qanah — to buy/acquire/redeem). The word connects to the redemption price — Boaz pays to redeem Ruth as his wife, pointing to Christ who "purchased" the church with His blood (Acts 20:28).
-- v.14 — ASV: "Blessed be Jehovah, who hath not left thee this day without a near kinsman" / WEB: "Blessed be Yahweh, who has not left you today without a near kinsman" / NET: "May the Lord be praised because he has not left you without a guardian today" — The go'el/kinsman-redeemer distinction persists to the end. NET's "guardian" vs. ASV/WEB's "near kinsman" and KJV's "kinsman." The women's blessing acknowledges God as the ultimate source of redemption through human go'el figures.
-- v.15 — ASV: "he shall be unto thee a restorer of life, and a nourisher of thine old age" / WEB: "He shall be to you a restorer of life, and sustain you in your old age" / NET: "He will encourage you and provide for you when you are old" — Hebrew "meshiv nephesh" = "restorer of soul/life." KJV/ASV/WEB preserve this powerful phrase; NET weakens it to "encourage you." The child restores Naomi's life — she who was "empty" (1:21) is now full again.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

@@ -408,11 +408,17 @@
             </div>
             <div class="tab-content" id="tab-translations">
                 <h3>Translations</h3>
-                <ul>
-                    <li><strong>v.2</strong> → "vine tree" (KJV) / "vine" (ESV) — Hebrew "ets ha-gefen" = the wood of the vine. Not the fruit but the WOOD — the woody stem itself. What is it good for without fruit? Nothing.</li>
-                    <li><strong>v.3</strong> → "pin" (KJV) / "peg" (ESV) — Hebrew "yated" = a peg/nail to hang objects on. Vine wood is too soft and brittle even for a SIMPLE PEG. It has zero structural utility.</li>
-                    <li><strong>v.4</strong> → "both the ends... and the midst" (KJV → ESV) — Both tips burned AND the middle charred. Already partially consumed (= already partially judged under Jehoiakim/Jehoiachin). Can the charred middle-portion be useful NOW? Even less than before.</li>
-                </ul>
+                                    <div class="trans-filter">
+                        <span class="trans-filter-label">Show translations:</span>
+                        <label class="trans-check trans-check-kjv"><input type="checkbox" value="KJV" checked onchange="filterTranslations()"><span class="trans-badge trans-kjv">KJV</span></label>
+                        <label class="trans-check trans-check-esv"><input type="checkbox" value="ESV" checked onchange="filterTranslations()"><span class="trans-badge trans-esv">ESV</span></label>
+                        <label class="trans-check trans-check-asv"><input type="checkbox" value="ASV" checked onchange="filterTranslations()"><span class="trans-badge trans-asv">ASV</span></label>
+                        <label class="trans-check trans-check-net"><input type="checkbox" value="NET" checked onchange="filterTranslations()"><span class="trans-badge trans-net">NET</span></label>
+                        <label class="trans-check trans-check-web"><input type="checkbox" value="WEB" checked onchange="filterTranslations()"><span class="trans-badge trans-web">WEB</span></label>
+                    </div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.2</strong> — &quot;vine tree&quot; (<span class="trans-label trans-kjv">KJV</span>) / &quot;vine&quot; (<span class="trans-label trans-esv">ESV</span>) — Hebrew &quot;ets ha-gefen&quot; = the wood of the vine. Not the fruit but the WOOD — the woody stem itself. What is it good for without fruit? Nothing.</p></div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.3</strong> — &quot;pin&quot; (<span class="trans-label trans-kjv">KJV</span>) / &quot;peg&quot; (<span class="trans-label trans-esv">ESV</span>) — Hebrew &quot;yated&quot; = a peg/nail to hang objects on. Vine wood is too soft and brittle even for a SIMPLE PEG. It has zero structural utility.</p></div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.4</strong> — &quot;both the ends... and the midst&quot; (<span class="trans-label trans-kjv">KJV</span>/<span class="trans-label trans-esv">ESV</span>) — Both tips burned AND the middle charred. Already partially consumed (= already partially judged under Jehoiakim/Jehoiachin). Can the charred middle-portion be useful NOW? Even less than before.</p></div>
             </div>
             <div class="tab-content" id="tab-videos">
                 <h3>Videos</h3>

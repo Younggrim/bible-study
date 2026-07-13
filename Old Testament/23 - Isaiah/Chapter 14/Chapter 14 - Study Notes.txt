@@ -110,7 +110,7 @@ Charles Spurgeon:
   by one divine decree. Let every proud heart take notice: your
   five wills are nothing against God's one shall."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.4  — "proverb" (KJV) / "taunt" (ESV) — Hebrew "mashal" = a
       pointed saying/parable/proverbial song. Here specifically a
@@ -136,48 +136,6 @@ v.23 — "bittern" (KJV) / "hedgehog" (ESV) — Hebrew "qippod" =
       a creature of desolation (exact species uncertain — possibly
       a porcupine or hedgehog). Babylon becomes wildlife habitat
       rather than human civilization.
-
-GLOSSARY
-------------------------------------
-Lucifer/Day Star — (Hebrew: helel) "Shining one" — referring to
-               the morning star (Venus at dawn). Applied to the
-               king of Babylon in his former glory before being
-               cast down. Christian tradition identifies this with
-               Satan's pre-fall glory, though the primary referent
-               is the human king.
-
-Five "I Wills" — The anatomy of pride: (1) I will ascend to heaven;
-               (2) I will raise my throne above God's stars; (3) I
-               will sit on the mountain of assembly; (4) I will
-               ascend above the clouds; (5) I will make myself like
-               the Most High. Self-deification in five steps.
-
-Taunt-song    — (Hebrew: mashal) A mocking poem sung over a fallen
-               enemy. Not celebration of violence but recognition
-               that God has vindicated the oppressed by toppling
-               the oppressor. Israel sings because Babylon fell.
-
-Sheol         — The underworld/realm of the dead. Here personified
-               as a place that RECEIVES the king of Babylon with
-               mock courtesy — the dead rulers rising from their
-               thrones to greet him: "Art thou also become weak as
-               we? Art thou become like unto us?" (v.10).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.12 — ASV: "O day-star, son of the morning!" / WEB: "morning star, son of the dawn!" / NET: "O shining one, son of the dawn!" vs. KJV: "O Lucifer, son of the morning!" — Hebrew "helel ben-shachar." KJV uniquely uses "Lucifer" (from the Latin Vulgate). ASV's "day-star," WEB's "morning star," and NET's "shining one" all translate the Hebrew more directly. The name "Lucifer" entered Christian tradition through this KJV rendering.
-
-- v.13 — NET: "Above the stars of El I will set up my throne. I will rule on the mountain of assembly on the remote slopes of Zaphon" — NET uniquely retains "El" (the Hebrew divine name) untranslated and uses "Zaphon" (the Canaanite divine mountain), while KJV/ASV/WEB translate as "stars of God" and "sides/far north." NET highlights the Canaanite mythological background explicitly.
-
-- v.9 — NET: "It rouses the spirits of the dead for you" vs. ASV/WEB: "it stirreth up the dead for thee" / KJV: "it stirreth up the dead for thee" — Hebrew "repha'im" = shades of the dead. NET adds "spirits of" (interpretive). The Hebrew simply says "the Rephaim" — the shadowy inhabitants of Sheol, once-great but now powerless.
-
-- v.22 — ASV: "saith Jehovah of hosts... saith Jehovah" / WEB: "says Yahweh of Armies... says Yahweh" / NET: "says the Lord of Heaven's Armies... says the Lord" — The double divine-name formula for solemn emphasis. ASV/WEB preserve both instances of the covenant name; NET uses titles throughout.
-
-- v.24 — ASV: "Jehovah of hosts hath sworn" / WEB: "Yahweh of Armies has sworn" / NET: "The Lord of Heaven's Armies makes this solemn vow" — When God SWEARS, the strongest possible guarantee. NET's "solemn vow" captures the gravity but loses the specific divine name that stakes God's personal reputation on the outcome.
-
-- v.27 — ASV: "Jehovah of hosts hath purposed, and who shall annul it?" / WEB: "Yahweh of Armies has planned, and who can stop it?" / NET: "the Lord of Heaven's Armies has a plan, and who can possibly frustrate it?" — All three capture the rhetorical force: God's purposes are unstoppable. NET adds "possibly" for emphasis. This is Isaiah's theology of divine sovereignty in a single verse.
-
-- v.29 — WEB: "a fiery flying serpent" / ASV: "a fiery flying serpent" / NET: "a darting adder" — Hebrew "saraph me'opheph" literally means "burning flying one." KJV/ASV/WEB preserve the supernatural imagery (a flying serpent); NET domesticates it to a "darting adder." The "seraph" connection links to Isaiah 6's burning ones.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

@@ -89,32 +89,14 @@ Charles Spurgeon:
   rebuked the wind as a master rebukes a servant. What manner of man is
   this? He is God in human flesh."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "if thou wilt, thou canst make me clean" / ESV: "Lord, if you
        will, you can make me clean" — Both equivalent. The leper had no doubt
        about Jesus' ability ("thou canst"/"you can") — only about His
        willingness ("if thou wilt"/"if you will"). Jesus' answer settles it:
        "I will."
-
-v.12 — KJV: "children of the kingdom shall be cast out" — ESV: "sons of the
-       kingdom will be thrown into the outer darkness" — A shocking statement:
-       those who had the covenant promises (Israel) could be excluded while
-       outsiders (Gentiles) enter. Heritage does not guarantee salvation.
-
-v.17 — KJV: "Himself took our infirmities, and bare our sicknesses" / ESV:
-       "He took our illnesses and bore our diseases" — Both equivalent. Matthew
-       quotes Isaiah 53:4 and applies it to Jesus' healing ministry, not just
-       His atoning death. The cross covers the whole person — body and soul.
-
-v.22 — KJV: "let the dead bury their dead" / ESV: "leave the dead to bury
-       their own dead" — Both equivalent. A shocking statement. "The
-       (spiritually) dead can bury the (physically) dead." Following Jesus
-       takes priority over even the most sacred family obligations.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "Lord, if you are willing, you can make me clean"
+       NET: "Lord, if you are willing, you can make me clean"
        — "if you are willing" (ean thelEs = if you will). WEB:
        "Lord, if you want to, you can make me clean." The leper
        doesn't doubt Jesus' POWER — he questions His WILLINGNESS.
@@ -127,7 +109,16 @@ v.8  — NET: "Lord, I am not worthy to have you come under my
        my roof." A Gentile centurion's humility — greater faith
        than any in Israel (v.10).
 
-v.17 — NET: "He took our weaknesses and carried our diseases" —
+v.12 — KJV: "children of the kingdom shall be cast out" — ESV: "sons of the
+       kingdom will be thrown into the outer darkness" — A shocking statement:
+       those who had the covenant promises (Israel) could be excluded while
+       outsiders (Gentiles) enter. Heritage does not guarantee salvation.
+
+v.17 — KJV: "Himself took our infirmities, and bare our sicknesses" / ESV:
+       "He took our illnesses and bore our diseases" — Both equivalent. Matthew
+       quotes Isaiah 53:4 and applies it to Jesus' healing ministry, not just
+       His atoning death. The cross covers the whole person — body and soul.
+       NET: "He took our weaknesses and carried our diseases" —
        quoting Isaiah 53:4. "Took" (elaben) and "carried"
        (ebastasen). WEB: "He took our infirmities and bore our
        diseases." Matthew applies Isaiah's Suffering Servant
@@ -138,6 +129,11 @@ v.20 — NET: "Foxes have dens and the birds in the sky have nests,
        Man" (ho huios tou anthrOpou) — Jesus' preferred self-
        designation, echoing Daniel 7:13. WEB: "The Son of Man has
        nowhere to lay his head." The King is homeless.
+
+v.22 — KJV: "let the dead bury their dead" / ESV: "leave the dead to bury
+       their own dead" — Both equivalent. A shocking statement. "The
+       (spiritually) dead can bury the (physically) dead." Following Jesus
+       takes priority over even the most sacred family obligations.
 
 v.26 — NET: "Why are you cowardly, you people of little faith?"
        — "cowardly" (deiloi = fearful/timid). WEB: "Why are you

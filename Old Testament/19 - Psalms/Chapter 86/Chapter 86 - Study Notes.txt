@@ -85,7 +85,7 @@ v.15  — Joel 2:13 — "He is gracious and merciful, slow to anger."
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2 — KJV: "for I am holy" / ESV: "for I am godly" — Hebrew
       "chasid" = one who is devoted, loyal, godly. David is not
@@ -101,20 +101,6 @@ v.13 — KJV: "the lowest hell" / ESV: "the depths of Sheol" —
        Hebrew "Sheol tachtiyyah" = the lowest Sheol. ESV is more
        precise. David speaks of being rescued from the very brink
        of death.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "Bow down thine ear, O Jehovah" / WEB: "Hear, Yahweh" / KJV: "Bow down thine ear, O LORD" — The divine name opens this prayer. WEB simplifies "bow down thine ear" to just "hear," losing the vivid anthropomorphism of God bending down to listen.
-
-- v.5 — KJV: "plenteous in mercy" / ASV: "abundant in lovingkindness" / WEB: "abundant in loving kindness" / NET: "show great faithfulness" — The Hebrew חֶסֶד (chesed) again: KJV "mercy," ASV/WEB "lovingkindness/loving kindness," NET "faithfulness." NET's rendering here is unusual — chesed typically isn't "faithfulness" (that's usually אֱמֶת, emeth).
-
-- v.11 — ASV: "Teach me thy way, O Jehovah" / WEB: "Teach me your way, Yahweh" / NET: "O Lord, teach me how you want me to live" — NET dramatically paraphrases "teach me thy way" into "teach me how you want me to live." While capturing the sense, it loses the concision and poetry of the Hebrew.
-
-- v.13 — KJV: "the lowest hell" / ASV: "the lowest Sheol" / WEB: "the lowest Sheol" / NET: "the depths of Sheol" — KJV translates שְׁאוֹל (Sheol) as "hell," while ASV/WEB/NET retain "Sheol" — the Hebrew concept of the realm of the dead, which is not equivalent to the Christian "hell."
-
-- v.15 — KJV: "plenteous in mercy and truth" / ASV: "abundant in lovingkindness and truth" / WEB: "abundant in loving kindness and truth" / NET: "great loyal love and faithfulness" — The classic pair חֶסֶד וֶאֱמֶת (chesed ve-emeth) from Exodus 34:6. NET's "loyal love and faithfulness" captures the covenant dimension that "mercy and truth" (KJV) may miss.
-
-- v.11 — WEB: "Make my heart undivided to fear your name" / KJV: "unite my heart to fear thy name" / NET: "Make me wholeheartedly committed to you" — NET loses "fear thy name" entirely, replacing it with a generic commitment phrase. The Hebrew specifically asks for a heart united in reverent fear of God's name — a richer concept than mere "commitment."
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

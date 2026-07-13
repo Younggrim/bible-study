@@ -99,7 +99,7 @@ Charles Spurgeon:
   obedience to God's will. That makes you His brother, His sister, His
   mother. That is the family that matters for eternity."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.5  — KJV: "with anger, being grieved" / ESV: "with anger, grieved at their
        hardness of heart" — Both equivalent. Mark is the only Gospel that
@@ -107,6 +107,15 @@ v.5  — KJV: "with anger, being grieved" / ESV: "with anger, grieved at their
        indignation at the hardness of their hearts — combined with grief.
        Anger and grief together — the proper response to willful spiritual
        blindness.
+       NET: "he looked around at them in anger, grieved at the
+       hardness of their hearts" — "grieved" captures the dual
+       emotion. ASV: "being grieved at the hardening of their
+       heart." WEB: "being grieved at the hardening of their hearts."
+
+v.14 — NET: "He appointed twelve (whom he also named apostles)"
+       — parenthetical clarifies the dual action. WEB: "He
+       appointed twelve, that they might be with him, and that he
+       might send them out to preach."
 
 v.17 — KJV: "Boanerges, which is, The sons of thunder" / ESV: "Boanerges,
        that is, Sons of Thunder" — Both identical in meaning. An Aramaic
@@ -119,31 +128,17 @@ v.21 — KJV: "his friends" / ESV: "his family" — Greek "hoi par' autou" —
        The ESV interprets this as family (supported by v.31 where His mother
        and brothers arrive). They thought He was "beside himself" (out of His
        mind). Even His own family initially misunderstood His mission.
-
-v.29 — KJV: "eternal damnation" / ESV: "an eternal sin" — Some manuscripts
-       read "eternal sin" rather than "eternal judgment." The ESV follows the
-       better-attested manuscript tradition. Either way, the point is the
-       same: this sin has no forgiveness — ever.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.5  — NET: "he looked around at them in anger, grieved at the
-       hardness of their hearts" — "grieved" captures the dual
-       emotion. ASV: "being grieved at the hardening of their
-       heart." WEB: "being grieved at the hardening of their hearts."
-
-v.14 — NET: "He appointed twelve (whom he also named apostles)"
-       — parenthetical clarifies the dual action. WEB: "He
-       appointed twelve, that they might be with him, and that he
-       might send them out to preach."
-
-v.21 — NET: "When his family heard this, they went out to restrain
+       NET: "When his family heard this, they went out to restrain
        him, for they said, 'He is out of his mind'" — "family"
        clarifies Greek "hoi par' autou" (those beside him). KJV:
        "his friends." ASV: "his friends." The NET reading is more
        accurate — these are relatives, not casual acquaintances.
 
-v.29 — NET: "whoever blasphemes against the Holy Spirit will never
+v.29 — KJV: "eternal damnation" / ESV: "an eternal sin" — Some manuscripts
+       read "eternal sin" rather than "eternal judgment." The ESV follows the
+       better-attested manuscript tradition. Either way, the point is the
+       same: this sin has no forgiveness — ever.
+       NET: "whoever blasphemes against the Holy Spirit will never
        be forgiven, but is guilty of an eternal sin" — "eternal
        sin" vs. KJV "eternal damnation" and ASV "eternal sin."
        WEB: "subject to eternal condemnation." The manuscript

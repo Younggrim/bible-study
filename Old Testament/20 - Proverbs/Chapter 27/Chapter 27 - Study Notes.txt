@@ -116,7 +116,7 @@ Charles Spurgeon:
   challenges you is not sharpening you; he is leaving you dull.
   Seek friends who make you sharper, not merely friends who make
   you comfortable."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.6  — KJV: "Faithful are the wounds of a friend" / ESV: "Faithful
        are the wounds of a friend" — Hebrew "ne'emanim pits'e ohev"
@@ -125,6 +125,13 @@ v.6  — KJV: "Faithful are the wounds of a friend" / ESV: "Faithful
        the wounds are RELIABLE, TRUSTWORTHY, TRUE. You can build
        on them.
 
+v.14 — KJV: "He that blesseth his friend with a loud voice, rising
+       early in the morning, it shall be counted a curse to him" /
+       ESV: same — Excessive, poorly-timed praise is as bad as a
+       curse. The loud, early-morning flatterer is insincere or
+       insensitive. Timing and sincerity matter more than volume
+       and enthusiasm.
+
 v.17 — KJV: "Iron sharpeneth iron; so a man sharpeneth the
        countenance of his friend" / ESV: "Iron sharpens iron, and
        one man sharpens another" — Hebrew "yahadh" = to sharpen,
@@ -132,13 +139,6 @@ v.17 — KJV: "Iron sharpeneth iron; so a man sharpeneth the
        The ESV simplifies; the KJV captures the literal image: the
        friend's very FACE (expression, presence) is sharpened
        through the encounter.
-
-v.14 — KJV: "He that blesseth his friend with a loud voice, rising
-       early in the morning, it shall be counted a curse to him" /
-       ESV: same — Excessive, poorly-timed praise is as bad as a
-       curse. The loud, early-morning flatterer is insincere or
-       insensitive. Timing and sincerity matter more than volume
-       and enthusiasm.
 
 v.20 — KJV: "Hell and destruction are never full" / ESV: "Sheol
        and Abaddon are never satisfied" — Hebrew "Sheol" = the

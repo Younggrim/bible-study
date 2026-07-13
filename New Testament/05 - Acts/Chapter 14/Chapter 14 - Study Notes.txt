@@ -96,36 +96,7 @@ Charles Spurgeon:
   an extraordinary God works. That is the pattern — God's power in human
   weakness."
 
-TRANSLATION NOTES
-------------------------------------
-v.12 — KJV: "Jupiter... Mercurius" / ESV: "Zeus... Hermes" — The same Greek
-       gods; KJV uses the Latin names, ESV uses the Greek names. Barnabas was
-       called Zeus (the chief god — perhaps because of his commanding
-       presence); Paul was called Hermes (the messenger god — because he was
-       "the chief speaker").
-
-v.15 — KJV: "men of like passions with you" / ESV: "men, of like nature with
-       you" — Greek "homoiopatheis" — of similar nature/feelings. ESV's "like
-       nature" is broader; KJV's "like passions" emphasizes shared human
-       experience. KJV: "vanities" / ESV: "vain things" — Greek "mataia" —
-       empty, worthless, futile things. Idols promise much and deliver nothing.
-
-v.19 — KJV: "supposing he had been dead" / ESV: "supposing that he was dead"
-       — Both equivalent. Whether Paul actually died and was raised, or was
-       merely unconscious, is debated. Either way, his recovery was remarkable
-       — he entered the city the next day.
-
-v.22 — KJV: "through much tribulation" / ESV: "through many tribulations" —
-       Both equivalent. Greek "thlipsis" — pressure, affliction, distress.
-       Not minor inconvenience but genuine suffering. Paul prepared new
-       believers for this reality from the beginning.
-
-v.23 — KJV: "ordained them elders" / ESV: "appointed elders" — Greek
-       "cheirotoneō" — to appoint by stretching out the hand (voting) or by
-       laying on of hands. Both convey the same meaning. Paul established
-       leadership structures in every new church.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.3  — NET: "they spent considerable time there, speaking
        boldly for the Lord, who testified to his message of grace
@@ -139,23 +110,47 @@ v.11 — NET: "The gods have come down to us in human form!" —
        men!" A local legend about Zeus/Hermes visiting Lystra
        (Ovid's story of Philemon and Baucis) fueled this reaction.
 
-v.15 — NET: "we are proclaiming the good news to you, that you
+v.12 — KJV: "Jupiter... Mercurius" / ESV: "Zeus... Hermes" — The same Greek
+       gods; KJV uses the Latin names, ESV uses the Greek names. Barnabas was
+       called Zeus (the chief god — perhaps because of his commanding
+       presence); Paul was called Hermes (the messenger god — because he was
+       "the chief speaker").
+
+v.15 — KJV: "men of like passions with you" / ESV: "men, of like nature with
+       you" — Greek "homoiopatheis" — of similar nature/feelings. ESV's "like
+       nature" is broader; KJV's "like passions" emphasizes shared human
+       experience. KJV: "vanities" / ESV: "vain things" — Greek "mataia" —
+       empty, worthless, futile things. Idols promise much and deliver nothing.
+       NET: "we are proclaiming the good news to you, that you
        should turn from these worthless things to the living God"
        — "worthless things" (mataiOn = vain/futile). WEB: "turn
        from these vain things to the living God." KJV: "turn from
        these vanities unto the living God." Idols are empty.
 
-v.19 — NET: "they stoned Paul and dragged him out of the city,
+v.19 — KJV: "supposing he had been dead" / ESV: "supposing that he was dead"
+       — Both equivalent. Whether Paul actually died and was raised, or was
+       merely unconscious, is debated. Either way, his recovery was remarkable
+       — he entered the city the next day.
+       NET: "they stoned Paul and dragged him out of the city,
        presuming him to be dead" — "presuming him to be dead"
        (nomisantes auton tethnEkenai). WEB: "supposing that he was
        dead." KJV: "supposing he had been dead." Whether Paul
        actually died (cf. 2 Cor 12:2-4) is debated.
 
-v.22 — NET: "We must enter the kingdom of God through many
+v.22 — KJV: "through much tribulation" / ESV: "through many tribulations" —
+       Both equivalent. Greek "thlipsis" — pressure, affliction, distress.
+       Not minor inconvenience but genuine suffering. Paul prepared new
+       believers for this reality from the beginning.
+       NET: "We must enter the kingdom of God through many
        persecutions" — "must" (dei = divine necessity). WEB:
        "through many afflictions we must enter into God's Kingdom."
        KJV: "through much tribulation enter into the kingdom of
        God." Suffering is the normal path, not the exception.
+
+v.23 — KJV: "ordained them elders" / ESV: "appointed elders" — Greek
+       "cheirotoneō" — to appoint by stretching out the hand (voting) or by
+       laying on of hands. Both convey the same meaning. Paul established
+       leadership structures in every new church.
 
 GLOSSARY
 ------------------------------------

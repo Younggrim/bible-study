@@ -103,7 +103,7 @@ Charles Spurgeon:
  This is what grace does — it transforms the unprofitable into the
  profitable."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "prisoner of Jesus Christ" / ESV: "prisoner for Christ Jesus" — Not Rome's prisoner but Christ's.
  Paul reframes his imprisonment as service to Christ.
@@ -116,20 +116,41 @@ v.10 — KJV: "Onesimus" / ESV: Both equivalent. — Greek name meaning "useful"
  plays on this name in v.11: he was "unprofitable" (a-chrēstos, useless)
  but now "profitable" (eu-chrēstos, well-useful). There may also be a
  wordplay with "Christos" — in Christ, Onesimus lives up to his name.
+       NET: "I am appealing to you concerning my child,
+       Onesimus, whose father I have become during my imprisonment"
+       — "my child" (tou emou teknou = my begotten one). WEB: "my
+       child, Onesimus." Paul converted Onesimus in prison — he
+       is a spiritual father sending his son back.
 
 v.11 — KJV: "unprofitable... profitable" / ESV: "useless... useful" — Greek "achrēston... euchrēston"
  — useless... useful. A wordplay on Onesimus's name and possibly on
  "Christos" (Christ). Without Christ: useless. In Christ: useful.
+       NET: "who was formerly useless to you, but is now useful
+       to you and to me" — "useless/useful" (achrEston/euchrEston)
+       — a wordplay on Onesimus' name which means "useful/
+       profitable." WEB: "who once was useless to you, but now is
+       useful." The runaway slave now lives up to his name.
 
 v.15 — KJV: "departed for a season" / ESV: "separated from you for a while" — Greek "echōristhē pros hōran" — was
  separated for an hour/time. Paul uses the passive voice and gentle
  language: not "he ran away" but "he was separated." Providence behind
  the event.
+       NET: "Perhaps this is the reason he was separated from you
+       for a while, so that you would have him back forever" —
+       "separated" (echOristhE = passive — was separated, perhaps
+       by God's providence). WEB: "perhaps he was therefore
+       separated from you for a while." Paul reframes the escape as
+       providence — temporary loss for eternal gain.
 
 v.16 — KJV: "above a servant, a brother beloved" — Not abolishing slavery
  by decree but transforming it from within. A slave who is now a brother
  cannot remain merely a slave. The gospel's logic eventually destroys
  the institution.
+       NET: "no longer as a slave, but more than a slave, as a
+       dear brother" — "dear brother" (adelphon agapEton = beloved
+       brother). WEB: "no longer as a slave, but more than a slave,
+       a beloved brother." The gospel doesn't just reform social
+       structures — it transforms relationships at the identity level.
 
 v.17 — KJV: "receive him as myself" — Greek "proslabou auton hōs eme" —
  welcome him as you would welcome me. Paul's status transferred to
@@ -138,45 +159,17 @@ v.17 — KJV: "receive him as myself" — Greek "proslabou auton hōs eme" —
 v.18 — KJV: "put that on mine account" — Greek "touto emoi elloga" — charge
  that to me, reckon it to my account. Accounting language. Paul assumes
  the debt. A picture of Christ bearing our sin-debt.
-
-v.19 — KJV: "I Paul have written it with mine own hand" — A legal IOU,
- personally signed. Paul guarantees payment. "Thou owest unto me even
- thine own self" — Philemon owes Paul his very salvation. A gentle
- reminder of the larger debt.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.10 — NET: "I am appealing to you concerning my child,
-       Onesimus, whose father I have become during my imprisonment"
-       — "my child" (tou emou teknou = my begotten one). WEB: "my
-       child, Onesimus." Paul converted Onesimus in prison — he
-       is a spiritual father sending his son back.
-
-v.11 — NET: "who was formerly useless to you, but is now useful
-       to you and to me" — "useless/useful" (achrEston/euchrEston)
-       — a wordplay on Onesimus' name which means "useful/
-       profitable." WEB: "who once was useless to you, but now is
-       useful." The runaway slave now lives up to his name.
-
-v.15 — NET: "Perhaps this is the reason he was separated from you
-       for a while, so that you would have him back forever" —
-       "separated" (echOristhE = passive — was separated, perhaps
-       by God's providence). WEB: "perhaps he was therefore
-       separated from you for a while." Paul reframes the escape as
-       providence — temporary loss for eternal gain.
-
-v.16 — NET: "no longer as a slave, but more than a slave, as a
-       dear brother" — "dear brother" (adelphon agapEton = beloved
-       brother). WEB: "no longer as a slave, but more than a slave,
-       a beloved brother." The gospel doesn't just reform social
-       structures — it transforms relationships at the identity level.
-
-v.18 — NET: "if he has done anything wrong to you or owes you
+       NET: "if he has done anything wrong to you or owes you
        anything, charge it to my account" — "charge to my account"
        (touto emoi elloga = reckon this to me). WEB: "put that to
        my account." KJV: "put that on mine account." Paul models
        substitutionary atonement — he takes Onesimus' debt on
        himself. A picture of what Christ does for us.
+
+v.19 — KJV: "I Paul have written it with mine own hand" — A legal IOU,
+ personally signed. Paul guarantees payment. "Thou owest unto me even
+ thine own self" — Philemon owes Paul his very salvation. A gentle
+ reminder of the larger debt.
 
 GLOSSARY
 ------------------------------------

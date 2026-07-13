@@ -148,6 +148,116 @@ def render_section_as_list(text):
     return "\n".join(html_items)
 
 
+def render_translation_comparison(text):
+    """
+    Render translation comparison notes with color-coded translation labels
+    and data attributes for interactive filtering.
+    Each verse entry becomes a card, and translation abbreviations (KJV, ESV, ASV, NET, WEB)
+    are wrapped in colored spans for visual differentiation.
+    """
+    if not text or not text.strip():
+        return "<p>No translation comparison notes available for this chapter.</p>"
+
+    # Color mapping for translations
+    trans_colors = {
+        'KJV': 'kjv',
+        'ESV': 'esv',
+        'ASV': 'asv',
+        'NET': 'net',
+        'WEB': 'web',
+    }
+
+    # Parse into verse entries (split on lines starting with v.N)
+    lines = text.strip().split("\n")
+    entries = []
+    current_lines = []
+    current_verse = None
+
+    for line in lines:
+        stripped = line.strip()
+        if not stripped:
+            continue
+        verse_match = re.match(r'^(v\.[\d,]+)', stripped)
+        if verse_match:
+            if current_verse is not None:
+                entries.append((current_verse, "\n".join(current_lines)))
+            current_verse = verse_match.group(1)
+            current_lines = [stripped]
+        elif re.match(r'^-\s*v\.[\d,]+', stripped):
+            # Handle entries that start with "- v.N"
+            if current_verse is not None:
+                entries.append((current_verse, "\n".join(current_lines)))
+            v_match = re.match(r'^-\s*(v\.[\d,]+)', stripped)
+            current_verse = v_match.group(1)
+            current_lines = [stripped.lstrip('- ')]
+        elif current_verse is not None:
+            current_lines.append(stripped)
+
+    if current_verse is not None:
+        entries.append((current_verse, "\n".join(current_lines)))
+
+    if not entries:
+        # Fallback: just render as list
+        return f"<ul>\n{render_section_as_list(text)}\n                </ul>"
+
+    # Build HTML cards for each verse entry
+    html_parts = []
+    for verse_ref, entry_text in entries:
+        # Determine which translations are mentioned in this entry
+        mentioned = set()
+        for abbr in trans_colors:
+            if re.search(r'\b' + abbr + r'\b', entry_text):
+                mentioned.add(abbr)
+
+        # Data attribute listing translations in this entry
+        trans_data = " ".join(sorted(mentioned)) if mentioned else "general"
+
+        # Process the text for HTML display
+        display_text = html.escape(entry_text)
+
+        # Wrap translation abbreviations in colored spans
+        for abbr, cls in trans_colors.items():
+            # Match "KJV:" or standalone "KJV" references
+            display_text = re.sub(
+                r'\b(' + abbr + r')([:"])',
+                r'<span class="trans-label trans-' + cls + r'">\1</span>\2',
+                display_text
+            )
+            # Match standalone abbreviations (not already wrapped)
+            display_text = re.sub(
+                r'(?<!trans-)(?<!&quot;)\b(' + abbr + r')\b(?![^<]*</span>)',
+                r'<span class="trans-label trans-' + cls + r'">\1</span>',
+                display_text
+            )
+
+        # Bold the verse reference at the start
+        display_text = re.sub(
+            r'^(v\.[\d,]+)\s*[—–\-]\s*',
+            r'<strong class="verse-ref">\1</strong> — ',
+            display_text
+        )
+
+        # Convert newlines to <br> for multi-line entries
+        display_text = display_text.replace('\n', '<br>')
+
+        html_parts.append(
+            f'                    <div class="trans-entry" data-translations="{trans_data}">'
+            f'<p>{display_text}</p></div>'
+        )
+
+    # Build the filter checkboxes
+    filter_html = '''                    <div class="trans-filter">
+                        <span class="trans-filter-label">Show translations:</span>
+                        <label class="trans-check trans-check-kjv"><input type="checkbox" value="KJV" checked onchange="filterTranslations()"><span class="trans-badge trans-kjv">KJV</span></label>
+                        <label class="trans-check trans-check-esv"><input type="checkbox" value="ESV" checked onchange="filterTranslations()"><span class="trans-badge trans-esv">ESV</span></label>
+                        <label class="trans-check trans-check-asv"><input type="checkbox" value="ASV" checked onchange="filterTranslations()"><span class="trans-badge trans-asv">ASV</span></label>
+                        <label class="trans-check trans-check-net"><input type="checkbox" value="NET" checked onchange="filterTranslations()"><span class="trans-badge trans-net">NET</span></label>
+                        <label class="trans-check trans-check-web"><input type="checkbox" value="WEB" checked onchange="filterTranslations()"><span class="trans-badge trans-web">WEB</span></label>
+                    </div>'''
+
+    return filter_html + "\n" + "\n".join(html_parts)
+
+
 def render_video_cards(text, chapter_num=None):
     """Render video resources as styled cards, filtering by chapter range when applicable."""
     cards = []
@@ -748,7 +858,7 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
     glossary = sections.get("GLOSSARY", "")
     cross_refs = sections.get("CROSS-REFERENCES", "")
     commentary = sections.get("COMMENTARY REFERENCES", "")
-    translation = sections.get("TRANSLATION NOTES", "")
+    translation = sections.get("TRANSLATION COMPARISON", "") or sections.get("TRANSLATION NOTES", "")
     videos = sections.get("VIDEO RESOURCES", "")
     reflection = sections.get("REFLECTION QUESTIONS", "")
     personal = sections.get("PERSONAL REFLECTION & APPLICATION", "")
@@ -808,7 +918,7 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
         elif tid == "commentary":
             content = f"<ul>\n{render_section_as_list(commentary)}\n                </ul>"
         elif tid == "translations":
-            content = f"<ul>\n{render_section_as_list(translation)}\n                </ul>"
+            content = render_translation_comparison(translation)
         elif tid == "videos":
             content = render_video_cards(videos, chapter_num)
         elif tid == "reflection":

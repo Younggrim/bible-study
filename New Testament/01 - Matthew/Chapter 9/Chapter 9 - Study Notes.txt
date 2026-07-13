@@ -92,30 +92,13 @@ Charles Spurgeon:
   not enough workers. And the solution? Pray. Before you go, pray. Before
   you plan, pray. Ask the Lord of the harvest to send."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "Son, be of good cheer" — ESV: "Take heart, my son" — Greek
        "tharsei teknon" — "Courage, child." A term of tender affection from
        Jesus to a paralyzed man. Jesus addressed him with warmth before
        addressing his condition.
-
-v.9  — KJV: "receipt of custom" — ESV: "tax booth" — The place where taxes
-       were collected. Matthew was sitting there when Jesus called him —
-       in the middle of his sinful occupation.
-
-v.13 — KJV: "I will have mercy, and not sacrifice" / ESV: "I desire mercy, and
-       not sacrifice" — ESV uses "desire" where KJV uses "will have." Jesus
-       quotes Hosea 6:6. Not that sacrifice is wrong, but that God values a
-       merciful heart over religious ritual. The Pharisees had ritual without
-       mercy.
-
-v.17 — KJV: "bottles" — ESV: "wineskins" — Animal skins used to hold wine.
-       New wine expands as it ferments; old, brittle skins would burst. New
-       wine needs new, flexible skins. Jesus' kingdom needs new structures.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "Take courage, son! Your sins are forgiven" —
+       NET: "Take courage, son! Your sins are forgiven" —
        "take courage" (tharsei = be of good cheer/be bold). WEB:
        "Son, be of good cheer." KJV: "Son, be of good cheer."
        Jesus addresses the paralytic's spiritual need before his
@@ -127,13 +110,25 @@ v.6  — NET: "the Son of Man has authority on earth to forgive
        proves the forgiveness claim — visible miracle validates
        invisible reality.
 
-v.13 — NET: "I did not come to call the righteous, but sinners"
+v.9  — KJV: "receipt of custom" — ESV: "tax booth" — The place where taxes
+       were collected. Matthew was sitting there when Jesus called him —
+       in the middle of his sinful occupation.
+
+v.13 — KJV: "I will have mercy, and not sacrifice" / ESV: "I desire mercy, and
+       not sacrifice" — ESV uses "desire" where KJV uses "will have." Jesus
+       quotes Hosea 6:6. Not that sacrifice is wrong, but that God values a
+       merciful heart over religious ritual. The Pharisees had ritual without
+       mercy.
+       NET: "I did not come to call the righteous, but sinners"
        — "call" (kalesai = invite/summon). WEB: "I came not to
        call the righteous, but sinners to repentance." KJV adds
        "to repentance" — some manuscripts include it, others don't.
        NET/ESV omit following earlier texts.
 
-v.17 — NET: "new wine is poured into new wineskins" — "new
+v.17 — KJV: "bottles" — ESV: "wineskins" — Animal skins used to hold wine.
+       New wine expands as it ferments; old, brittle skins would burst. New
+       wine needs new, flexible skins. Jesus' kingdom needs new structures.
+       NET: "new wine is poured into new wineskins" — "new
        wineskins" (askous kainous = fresh/unused leather bags). WEB:
        "new wine into fresh wineskins." KJV: "new wine into new
        bottles." Jesus' teaching can't be contained in old

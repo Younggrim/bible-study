@@ -492,11 +492,17 @@
             </div>
             <div class="tab-content" id="tab-translations">
                 <h3>Translations</h3>
-                <ul>
-                    <li><strong>v.12</strong> → "to separate himself thence in the midst of the people" (KJV) / "to receive his portion there" (ESV) — Hebrew "lachaliq misham" = to receive his share/portion there. Likely related to the field purchase in Anathoth (ch.32).</li>
-                    <li><strong>v.15</strong> → "the house of Jonathan the scribe" (KJV → ESV) — A private house converted into a prison. Underground vaulted rooms ("the dungeon... the cabins/cells") — dark, damp, life-threatening.</li>
-                    <li><strong>v.21</strong> → "court of the prison" (KJV) / "court of the guard" (ESV) — Hebrew "chatsar ha-mattarah" = the guardhouse courtyard. Better than the dungeon — open air, some freedom of movement.</li>
-                </ul>
+                                    <div class="trans-filter">
+                        <span class="trans-filter-label">Show translations:</span>
+                        <label class="trans-check trans-check-kjv"><input type="checkbox" value="KJV" checked onchange="filterTranslations()"><span class="trans-badge trans-kjv">KJV</span></label>
+                        <label class="trans-check trans-check-esv"><input type="checkbox" value="ESV" checked onchange="filterTranslations()"><span class="trans-badge trans-esv">ESV</span></label>
+                        <label class="trans-check trans-check-asv"><input type="checkbox" value="ASV" checked onchange="filterTranslations()"><span class="trans-badge trans-asv">ASV</span></label>
+                        <label class="trans-check trans-check-net"><input type="checkbox" value="NET" checked onchange="filterTranslations()"><span class="trans-badge trans-net">NET</span></label>
+                        <label class="trans-check trans-check-web"><input type="checkbox" value="WEB" checked onchange="filterTranslations()"><span class="trans-badge trans-web">WEB</span></label>
+                    </div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.12</strong> — &quot;to separate himself thence in the midst of the people&quot; (<span class="trans-label trans-kjv">KJV</span>) / &quot;to receive his portion there&quot; (<span class="trans-label trans-esv">ESV</span>) — Hebrew &quot;lachaliq misham&quot; = to receive his share/portion there. Likely related to the field purchase in Anathoth (ch.32).</p></div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.15</strong> — &quot;the house of Jonathan the scribe&quot; (<span class="trans-label trans-kjv">KJV</span>/<span class="trans-label trans-esv">ESV</span>) — A private house converted into a prison. Underground vaulted rooms (&quot;the dungeon... the cabins/cells&quot;) — dark, damp, life-threatening.</p></div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.21</strong> — &quot;court of the prison&quot; (<span class="trans-label trans-kjv">KJV</span>) / &quot;court of the guard&quot; (<span class="trans-label trans-esv">ESV</span>) — Hebrew &quot;chatsar ha-mattarah&quot; = the guardhouse courtyard. Better than the dungeon — open air, some freedom of movement.</p></div>
             </div>
             <div class="tab-content" id="tab-videos">
                 <h3>Videos</h3>

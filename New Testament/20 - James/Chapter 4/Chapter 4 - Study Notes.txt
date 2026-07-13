@@ -106,17 +106,29 @@ Charles Spurgeon:
  realistic. And it should produce urgency: if life is short, live it well.
  If life is a vapour, don't waste it on vanity."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "lusts that war in your members" / ESV: "your passions are at
  war within you" — Greek "hēdonōn" — pleasures, desires for pleasure.
  Root of English "hedonism." Internal desires wage war and produce
  external conflicts.
 
+v.2  — NET: "You desire and do not have; you murder and covet
+       and are not able to obtain" — "murder" (phoneuete) — some
+       manuscripts read "envy" (phthoneite). WEB: "You kill, and
+       covet." KJV: "Ye kill, and desire to have." Whether literal
+       murder or metaphorical is debated — James uses extreme
+       language.
+
 v.4 — KJV: "adulterers and adulteresses" / ESV: "adulterous people" —
  Spiritual adultery — unfaithfulness to God by loving the world. OT
  imagery of Israel as God's unfaithful wife (Hosea, Ezekiel 16). ESV
  uses gender-neutral "people" for the collective address.
+       NET: "Adulterers, do you not know that friendship with the
+       world is hostility toward God?" — "Adulterers" (moichalides
+       = adulteresses, feminine). WEB: "You adulteresses!" KJV:
+       "Ye adulterers and adulteresses." The OT image of spiritual
+       infidelity — Israel as God's unfaithful wife.
 
 v.5 — KJV: "the spirit that dwelleth in us lusteth to envy" / ESV: "He
  yearns jealously over the spirit that he has made to dwell in us" —
@@ -126,11 +138,21 @@ v.5 — KJV: "the spirit that dwelleth in us lusteth to envy" / ESV: "He
 v.6 — KJV: "more grace" / ESV: Both equivalent. — Greek "meizona charin" —
  greater grace. However strong our sin, God's grace is stronger. But
  it flows to the humble, not the proud.
+       NET: "God opposes the proud, but he gives grace to the
+       humble" — quoting Proverbs 3:34 (LXX). "Opposes"
+       (antitassetai = sets himself in battle array against). WEB:
+       "God resists the proud." God actively resists the proud —
+       military language.
 
 v.7 — KJV: "resist the devil, and he will flee" / ESV: Both equivalent. —
  The promise: active resistance (in God's strength, after submission to
  God) causes Satan to flee. He cannot stand against a submitted,
  resisting believer.
+       NET: "resist the devil and he will flee from you" —
+       "resist" (antistEte = stand against/oppose). WEB: "Resist
+       the devil, and he will flee from you." KJV: "Resist the
+       devil, and he will flee from you." A promise: resistance
+       produces retreat. The devil cannot endure determined opposition.
 
 v.8 — KJV: "double minded" / ESV: "double-minded" — Greek "dipsuchoi" —
  two-souled (same word as 1:8). Divided between God and the world. The
@@ -144,44 +166,16 @@ v.9 — KJV: "Be afflicted, and mourn, and weep" / ESV: "Be wretched and
 v.14 — KJV: "vapour" / ESV: "mist" — Greek "atmis" — steam, mist, vapor.
  Visible briefly, then gone. The most vivid biblical image of life's
  brevity.
+       NET: "you do not know about tomorrow. What is your life
+       like?" — "What is your life?" (poia gar hE zOE hymOn).
+       "You are a puff of smoke" (atmis = vapor/mist). WEB: "you
+       are a vapor." KJV: "It is even a vapour." Life's brevity
+       as morning mist — visible briefly, then gone.
 
 v.17 — KJV: "knoweth to do good, and doeth it not" / ESV: "whoever knows
  the right thing to do and fails to do it" — Both equivalent in
  meaning. Sins of omission. Not just doing wrong but failing to do
  right. Knowledge creates responsibility.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "You desire and do not have; you murder and covet
-       and are not able to obtain" — "murder" (phoneuete) — some
-       manuscripts read "envy" (phthoneite). WEB: "You kill, and
-       covet." KJV: "Ye kill, and desire to have." Whether literal
-       murder or metaphorical is debated — James uses extreme
-       language.
-
-v.4  — NET: "Adulterers, do you not know that friendship with the
-       world is hostility toward God?" — "Adulterers" (moichalides
-       = adulteresses, feminine). WEB: "You adulteresses!" KJV:
-       "Ye adulterers and adulteresses." The OT image of spiritual
-       infidelity — Israel as God's unfaithful wife.
-
-v.6  — NET: "God opposes the proud, but he gives grace to the
-       humble" — quoting Proverbs 3:34 (LXX). "Opposes"
-       (antitassetai = sets himself in battle array against). WEB:
-       "God resists the proud." God actively resists the proud —
-       military language.
-
-v.7  — NET: "resist the devil and he will flee from you" —
-       "resist" (antistEte = stand against/oppose). WEB: "Resist
-       the devil, and he will flee from you." KJV: "Resist the
-       devil, and he will flee from you." A promise: resistance
-       produces retreat. The devil cannot endure determined opposition.
-
-v.14 — NET: "you do not know about tomorrow. What is your life
-       like?" — "What is your life?" (poia gar hE zOE hymOn).
-       "You are a puff of smoke" (atmis = vapor/mist). WEB: "you
-       are a vapor." KJV: "It is even a vapour." Life's brevity
-       as morning mist — visible briefly, then gone.
 
 GLOSSARY
 ------------------------------------

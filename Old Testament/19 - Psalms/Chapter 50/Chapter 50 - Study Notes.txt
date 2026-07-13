@@ -133,57 +133,9 @@ over ceremony — the same message as Psalm 50.
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-v. 1 — KJV "The mighty God, even the LORD" vs. ESV "The Mighty
-One, God the LORD" — The Hebrew sequence is "El Elohim Yahweh" —
-three divine names in succession. Both translations attempt to
-render this triple naming, though word order differs. The
-accumulation of names creates a sense of overwhelming divine
-authority as court is called into session.
 
-v. 5 — KJV "those that have made a covenant with me by sacrifice"
-vs. ESV "who made a covenant with me by sacrifice" — Both are
-identical in meaning. The Hebrew "koretey beriti alei-zevach"
-literally means "cutters of my covenant over sacrifice." The
-"cutting" of a covenant refers to the ancient ritual of cutting
-sacrificial animals (Genesis 15:9-18).
-
-v. 14 — KJV "Offer unto God thanksgiving" vs. ESV "Offer to God a
-sacrifice of thanksgiving" — ESV adds "sacrifice of" to make
-explicit what the Hebrew implies: the "todah" (thanksgiving) is
-itself a sacrifice. This is the psalm's central point — gratitude
-expressed is the offering God truly desires, more than animal
-blood.
-
-v. 20 — KJV "thou slanderest thine own mother's son" vs. ESV "you
-slander your own mother's son" — Identical translation. The Hebrew
-emphasizes the horror by specifying "mother's son" rather than
-simply "brother" — someone who shared the same womb, the closest
-possible family bond, becomes the target of malicious speech.
-
-v. 23 — KJV "him that ordereth his conversation aright" vs. ESV
-"one who orders his way rightly" — The KJV "conversation" is
-archaic English for "manner of life/conduct" (not merely speech).
-ESV's "way" translates the Hebrew "derek" (path/way of life) more
-clearly for modern readers. The point is that a rightly-ordered
-life — not mere words — demonstrates genuine faith.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "The Mighty One, God, Jehovah, hath spoken" / WEB: "The Mighty One, God, Yahweh, speaks" — Both preserve all three divine names explicitly. NET renders it "El, God, the Lord." The triple naming (El, Elohim, YHWH) is strikingly clear in ASV/WEB with the personal covenant name visible.
-
-- v.2 — NET: "From Zion, the most beautiful of all places, God has come in splendor" — NET interprets "the perfection of beauty" (miklal-yophi) as a superlative comparison ("most beautiful of all places"), while KJV/ASV/WEB keep the absolute: "the perfection of beauty." NET also changes "shined" to "come in splendor."
-
-- v.5 — NET: "those who ratified a covenant with me by sacrifice" vs. KJV: "those that have made a covenant with me by sacrifice" — NET's "ratified" is more precise than "made," reflecting the Hebrew "karat" (cut) which refers to the formal ratification ceremony involving sacrifice.
-
-- v.6 — NET: "The heavens declare his fairness" vs. KJV: "the heavens shall declare his righteousness" — NET renders "tsedek" (righteousness) as "fairness," significantly weakening the term. Righteousness encompasses divine justice, moral perfection, and covenant faithfulness — "fairness" captures only impartiality.
-
-- v.14 — ASV/WEB: "Offer unto God the sacrifice of thanksgiving" — Both add "sacrifice of" (as does ESV), making explicit that thanksgiving itself IS a sacrifice. NET: "Present to God a thank offering" — uses sacrificial temple language ("thank offering") connecting it to the Levitical todah offering.
-
-- v.21 — NET: "But now I will condemn you and state my case against you" vs. KJV: "I will reprove thee, and set them in order before thine eyes" — NET uses strong legal language ("condemn... state my case"), making the courtroom setting explicit. WEB: "I will rebuke you, and accuse you in front of your eyes."
-
-- v.23 — NET: "To whoever obeys my commands, I will reveal my power to deliver" vs. KJV: "to him that ordereth his conversation aright will I shew the salvation of God" — NET interprets "ordering one's way" as obedience and "salvation of God" as God's "power to deliver," losing the broader theological concept of salvation.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

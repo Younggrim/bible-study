@@ -110,7 +110,7 @@ Charles Spurgeon:
  inseparable companions. Where salvation is real, these things follow. The
  warning is real, but so is the assurance: genuine believers will persevere."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "perfection" / ESV: "maturity" — Greek "teleiotēta" — maturity, completeness. Not
  sinless perfection but spiritual adulthood. "Leaving" — not abandoning
@@ -119,34 +119,7 @@ v.1 — KJV: "perfection" / ESV: "maturity" — Greek "teleiotēta" — maturity
 v.4 — KJV: "enlightened" / ESV: Both equivalent. — Greek "phōtisthentas" — illuminated, given
  light. "Tasted" — Greek "geusamenous" — experienced, sampled. The
  question: does "tasting" mean full participation or partial experience?
-
-v.6 — KJV: "fall away" / ESV: "fallen away" — Greek "parapesontas" — to fall beside, to deviate.
- Used only here in the NT. "Impossible to renew" — if this happens,
- there is no second repentance available. "Crucify afresh" — they would
- be re-crucifying Christ, which is impossible.
-
-v.9 — KJV: "things that accompany salvation" / ESV: "things—things that belong to salvation" — Greek "echomena sōtērias" —
- things that belong to, are connected with, accompany salvation. The
- author distinguishes his readers from the hypothetical apostates of
- vv.4-6.
-
-v.17 — KJV: "immutability of his counsel" / ESV: "unchangeable character of his purpose" — Greek "to ametatheton tēs boulēs"
- — the unchangeableness of His purpose. God's plan cannot be altered.
-
-v.18 — KJV: "two immutable things" / ESV: "two unchangeable things" — God's promise and God's oath. Both are
- unchangeable because God cannot lie. Double assurance.
-
-v.19 — KJV: "anchor of the soul" / ESV: Both equivalent. — The only use of "anchor" as a metaphor
- in the NT. "Within the veil" — into the Holy of Holies, God's very
- presence. Our hope is anchored in heaven itself.
-
-v.20 — KJV: "forerunner" / ESV: Both equivalent. — Greek "prodromos" — one who goes ahead, a scout,
- a pioneer. Used only here in the NT. Jesus entered heaven first — as
- our representative, guaranteeing our entrance.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.4  — NET: "For it is impossible in the case of those who have
+       NET: "For it is impossible in the case of those who have
        once been enlightened... if they fall away, to renew them
        again to repentance" — "impossible" (adynaton = without
        power/unable). WEB: "it is impossible." KJV: "it is
@@ -159,23 +132,45 @@ v.5  — NET: "tasted the good word of God and the miracles of the
        experience or merely sampling? The debate shapes the
        interpretation of the whole passage.
 
+v.6 — KJV: "fall away" / ESV: "fallen away" — Greek "parapesontas" — to fall beside, to deviate.
+ Used only here in the NT. "Impossible to renew" — if this happens,
+ there is no second repentance available. "Crucify afresh" — they would
+ be re-crucifying Christ, which is impossible.
+
+v.9 — KJV: "things that accompany salvation" / ESV: "things—things that belong to salvation" — Greek "echomena sōtērias" —
+ things that belong to, are connected with, accompany salvation. The
+ author distinguishes his readers from the hypothetical apostates of
+ vv.4-6.
+
 v.11 — NET: "we passionately want each of you to demonstrate the
        same eagerness for the fulfillment of your hope" —
        "passionately want" (epithymoumen = intensely desire). WEB:
        "we desire that each one of you may show the same diligence."
        Despite the warning, the author expresses confidence (v.9).
 
-v.18 — NET: "we who have fled for refuge may find strong
+v.17 — KJV: "immutability of his counsel" / ESV: "unchangeable character of his purpose" — Greek "to ametatheton tēs boulēs"
+ — the unchangeableness of His purpose. God's plan cannot be altered.
+
+v.18 — KJV: "two immutable things" / ESV: "two unchangeable things" — God's promise and God's oath. Both are
+ unchangeable because God cannot lie. Double assurance.
+       NET: "we who have fled for refuge may find strong
        encouragement to cling to the hope set before us" — "fled
        for refuge" (kataphygontes = those who have run for shelter).
        WEB: "who have fled for refuge." Cities of refuge imagery —
        we have run to Christ for asylum.
 
-v.19 — NET: "We have this hope as an anchor for the soul, sure
+v.19 — KJV: "anchor of the soul" / ESV: Both equivalent. — The only use of "anchor" as a metaphor
+ in the NT. "Within the veil" — into the Holy of Holies, God's very
+ presence. Our hope is anchored in heaven itself.
+       NET: "We have this hope as an anchor for the soul, sure
        and steadfast" — "anchor" (ankyran = anchor). WEB: "an
        anchor of the soul." KJV: "an anchor of the soul." The
        only NT use of "anchor" — our hope is fastened in the
        heavenly Holy of Holies where Christ has entered.
+
+v.20 — KJV: "forerunner" / ESV: Both equivalent. — Greek "prodromos" — one who goes ahead, a scout,
+ a pioneer. Used only here in the NT. Jesus entered heaven first — as
+ our representative, guaranteeing our entrance.
 
 GLOSSARY
 ------------------------------------

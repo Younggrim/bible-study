@@ -97,42 +97,32 @@ Charles Spurgeon:
   things get in the world, the closer your deliverance is. The darkest
   hour is just before dawn."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "two mites" / ESV: "two small copper coins" — Greek "lepta duo"
        — the smallest coins in circulation, worth about 1/64 of a denarius.
        Together worth less than a penny. Yet Jesus said she gave more than
        all the rich combined.
-
-v.19 — KJV: "In your patience possess ye your souls" / ESV: "By your
-       endurance you will gain your lives" — Greek "hupomonē" — patient
-       endurance under pressure. Not passive waiting but active perseverance.
-
-v.24 — KJV: "the times of the Gentiles" / ESV: "the times of the Gentiles"
-       — Both identical. A period during which Gentile nations dominate
-       Jerusalem. Its end signals the approach of Christ's return. Debated
-       whether this ended in 1967 (Six-Day War) or awaits future fulfillment.
-
-v.34 — KJV: "surfeiting" / ESV: "dissipation" — Both translate Greek
-       "kraipale" — excess, overindulgence, the hangover of self-indulgent
-       living. Jesus warns that careless living will leave you unprepared for
-       His return.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "he also saw a poor widow put in two small copper
+       NET: "he also saw a poor widow put in two small copper
        coins" — same event as Mark 12:42. WEB: "two small brass
        coins." KJV: "two mites." The smallest possible offering
        from the poorest possible giver — yet the greatest in God's
        economy.
 
-v.19 — NET: "By your endurance you will gain your lives" — 
+v.19 — KJV: "In your patience possess ye your souls" / ESV: "By your
+       endurance you will gain your lives" — Greek "hupomonē" — patient
+       endurance under pressure. Not passive waiting but active perseverance.
+       NET: "By your endurance you will gain your lives" — 
        "endurance" (hypomonē = patient steadfastness under
        pressure). KJV: "In your patience possess ye your souls."
        WEB: "By your endurance you will win your lives." Not
        passive waiting but active perseverance.
 
-v.24 — NET: "Jerusalem will be trampled down by the Gentiles until
+v.24 — KJV: "the times of the Gentiles" / ESV: "the times of the Gentiles"
+       — Both identical. A period during which Gentile nations dominate
+       Jerusalem. Its end signals the approach of Christ's return. Debated
+       whether this ended in 1967 (Six-Day War) or awaits future fulfillment.
+       NET: "Jerusalem will be trampled down by the Gentiles until
        the times of the Gentiles are fulfilled" — "times of the
        Gentiles" — a period of Gentile domination over Jerusalem
        with a definite end. WEB: "until the times of the Gentiles
@@ -144,7 +134,11 @@ v.28 — NET: "straighten up and raise your heads, because your
        "look up, and lift up your heads." While the world cowers
        in fear, believers stand tall — rescue is arriving.
 
-v.34 — NET: "But be on your guard so that your hearts are not
+v.34 — KJV: "surfeiting" / ESV: "dissipation" — Both translate Greek
+       "kraipale" — excess, overindulgence, the hangover of self-indulgent
+       living. Jesus warns that careless living will leave you unprepared for
+       His return.
+       NET: "But be on your guard so that your hearts are not
        weighed down with dissipation and drunkenness and the worries
        of this life" — "weighed down" (barēthōsin = made heavy).
        WEB: "that your hearts aren't loaded down." KJV: "overcharged."

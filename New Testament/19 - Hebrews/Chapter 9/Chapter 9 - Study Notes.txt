@@ -112,8 +112,15 @@ Charles Spurgeon:
  conscience is not passivity but service. You are cleansed FOR something —
  to serve the living God with a free conscience."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.5  — NET: "the cherubim of glory overshadowing the mercy
+       seat" — "mercy seat" (hilastErion = place of propitiation/
+       atonement cover). WEB: "the cherubim of glory overshadowing
+       the mercy seat." KJV: "the mercyseat." The lid of the Ark
+       where blood was sprinkled — the meeting point of God's
+       holiness and mercy.
+
 v.8 — KJV: "the way into the holiest of all was not yet made manifest" / ESV: "way into the holy places is not yet" —
  Under the old system, access to God's presence was restricted. The
  veil said "keep out." Christ's death tore the veil and opened access.
@@ -125,14 +132,29 @@ v.10 — KJV: "time of reformation" / ESV: Both equivalent. — Greek "kairou di
 v.12 — KJV: "eternal redemption" / ESV: Both equivalent. — Greek "aiōnian lutrōsin" — redemption
  that lasts forever. Not temporary (like animal sacrifices that needed
  repeating) but permanent, once-for-all.
+       NET: "he entered once for all into the most holy place not
+       by the blood of goats and calves but by his own blood" —
+       "once for all" (ephapax). WEB: "once for all." KJV: "once."
+       The decisive, unrepeatable entry — no annual repetition
+       like the earthly high priest.
 
 v.14 — KJV: "through the eternal Spirit" / ESV: Both equivalent. — Christ offered Himself through
  the Holy Spirit. The Trinity involved in atonement: the Son offers
  Himself through the Spirit to the Father.
+       NET: "how much more will the blood of Christ, who through
+       the eternal Spirit offered himself without blemish to God,
+       purify our consciences" — "eternal Spirit" (pneumatos
+       aiOniou). WEB: "through the eternal Spirit." Christ's
+       sacrifice offered through the Spirit — Trinitarian atonement.
 
 v.14 — KJV: "dead works" / ESV: Both equivalent. — Works done apart from faith, works that produce
  spiritual death, works done to earn salvation. The conscience is
  cleansed FROM these to serve the living God.
+       NET: "how much more will the blood of Christ, who through
+       the eternal Spirit offered himself without blemish to God,
+       purify our consciences" — "eternal Spirit" (pneumatos
+       aiOniou). WEB: "through the eternal Spirit." Christ's
+       sacrifice offered through the Spirit — Trinitarian atonement.
 
 v.15 — KJV: "testament" / ESV: "covenant" — Greek "diathēkē" — can mean both "covenant" and
  "testament/will." Paul plays on both meanings: it is a covenant that
@@ -141,47 +163,25 @@ v.15 — KJV: "testament" / ESV: "covenant" — Greek "diathēkē" — can mean 
 
 v.22 — KJV: "remission" / ESV: "forgiveness" — Greek "aphesis" — release, forgiveness, sending
  away. Sin is "sent away" through blood sacrifice.
-
-v.26 — KJV: "put away sin" / ESV: Both equivalent. — Greek "athetēsin tēs hamartias" — the
- annulment, cancellation, setting aside of sin. Christ didn't just
- cover sin — He put it away, cancelled it, annulled it.
-
-v.28 — KJV: "without sin" / ESV: "sins" — Greek "chōris hamartias" — apart from sin. His
- second coming is not to deal with sin (that's done) but to bring
- salvation to completion.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.5  — NET: "the cherubim of glory overshadowing the mercy
-       seat" — "mercy seat" (hilastErion = place of propitiation/
-       atonement cover). WEB: "the cherubim of glory overshadowing
-       the mercy seat." KJV: "the mercyseat." The lid of the Ark
-       where blood was sprinkled — the meeting point of God's
-       holiness and mercy.
-
-v.12 — NET: "he entered once for all into the most holy place not
-       by the blood of goats and calves but by his own blood" —
-       "once for all" (ephapax). WEB: "once for all." KJV: "once."
-       The decisive, unrepeatable entry — no annual repetition
-       like the earthly high priest.
-
-v.14 — NET: "how much more will the blood of Christ, who through
-       the eternal Spirit offered himself without blemish to God,
-       purify our consciences" — "eternal Spirit" (pneumatos
-       aiOniou). WEB: "through the eternal Spirit." Christ's
-       sacrifice offered through the Spirit — Trinitarian atonement.
-
-v.22 — NET: "without the shedding of blood there is no
+       NET: "without the shedding of blood there is no
        forgiveness" — "shedding of blood" (haimatekchysias =
        blood-pouring). WEB: "apart from shedding of blood there is
        no remission." KJV: "without shedding of blood is no
        remission." A foundational OT principle fulfilled in Christ.
+
+v.26 — KJV: "put away sin" / ESV: Both equivalent. — Greek "athetēsin tēs hamartias" — the
+ annulment, cancellation, setting aside of sin. Christ didn't just
+ cover sin — He put it away, cancelled it, annulled it.
 
 v.27 — NET: "people are appointed to die once, and then to face
        judgment" — "appointed" (apokeitai = laid up/reserved/stored
        away). WEB: "it is appointed for men to die once." KJV: "it
        is appointed unto men once to die." The universality and
        finality of death — then judgment. No second chances.
+
+v.28 — KJV: "without sin" / ESV: "sins" — Greek "chōris hamartias" — apart from sin. His
+ second coming is not to deal with sin (that's done) but to bring
+ salvation to completion.
 
 GLOSSARY
 ------------------------------------

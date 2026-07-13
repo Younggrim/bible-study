@@ -107,7 +107,7 @@ Charles Spurgeon:
  clean and white. Not her own righteousness but the righteousness of saints
  — given by grace, worn by faith. What a day that will be!"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "Alleluia; Salvation, and glory, and honour, and power, unto the
  Lord our God" / ESV: "Hallelujah! Salvation and glory and power belong
@@ -115,6 +115,12 @@ v.1 — KJV: "Alleluia; Salvation, and glory, and honour, and power, unto the
  "Alleluia" (from Greek). ESV omits "honour" (absent in best
  manuscripts). Greek "Hallēlouia" — from Hebrew "Hallelu-Yah" — Praise
  the LORD. Used only here in the NT (4 times in this chapter).
+       NET: "After these things I heard what sounded like the
+       loud voice of a vast throng in heaven, saying, 'Hallelujah!'"
+       — "Hallelujah" (hallElouia = Praise Yah/Praise the LORD).
+       WEB: "Hallelujah!" The only NT occurrences of "Hallelujah"
+       are in this chapter (vv.1, 3, 4, 6) — reserved for this
+       climactic moment.
 
 v.2 — KJV: "he hath judged the great whore, which did corrupt the earth
  with her fornication" / ESV: "he has judged the great prostitute who
@@ -130,6 +136,11 @@ v.7 — KJV: "his wife hath made herself ready" / ESV: "his Bride has made
  bride). The church prepared through sanctification. "Fine linen" = "the
  righteousness of saints" (v.8) — Greek "dikaiōmata" — righteous
  deeds/acts.
+       NET: "the wedding celebration of the Lamb has come, and
+       his bride has made herself ready" — "bride" (hE gynE autou
+       = His wife). WEB: "the marriage of the Lamb has come." KJV:
+       "the marriage of the Lamb is come." The church prepared
+       through centuries of suffering now presented in glory.
 
 v.8 — KJV: "the righteousness of saints" / ESV: "the righteous deeds of the
  saints" — ESV's "righteous deeds" (plural acts) is more precise for
@@ -143,6 +154,11 @@ v.11 — KJV: "Faithful and True, and in righteousness he doth judge and make
  war" / ESV: "Faithful and True, and in righteousness he judges and makes
  war" — Both equivalent. Christ's character names. He keeps His promises
  (faithful) and speaks reality (true).
+       NET: "I saw heaven standing open and a white horse
+       appeared... the one riding it was called Faithful and True"
+       — "Faithful and True" (pistos kai alEthinos). WEB: "called
+       Faithful and True." Christ returns not on a donkey (first
+       coming: humility) but a white horse (second coming: conquest).
 
 v.12 — KJV: "on his head were many crowns; and he had a name written, that
  no man knew, but he himself" / ESV: "on his head are many diadems, and
@@ -156,6 +172,11 @@ v.13 — KJV: "he was clothed with a vesture dipped in blood" / ESV: "He is
  "vesture" to "robe." Not His own blood (shed at the cross) but the
  blood of His enemies (cf. Isaiah 63:1-3). He comes as warrior, not
  victim.
+       NET: "He is dressed in clothing dipped in blood, and he
+       is called the Word of God" — "the Word of God" (ho logos
+       tou theou). WEB: "The Word of God." KJV: "The Word of God."
+       The same title as John 1:1 — now the Word rides in judgment
+       rather than lying in a manger.
 
 v.15 — KJV: "out of his mouth goeth a sharp sword, that with it he should
  smite the nations" / ESV: "From his mouth comes a sharp sword with
@@ -166,6 +187,11 @@ v.15 — KJV: "out of his mouth goeth a sharp sword, that with it he should
 v.16 — KJV: "KING OF KINGS, AND LORD OF LORDS" / ESV: "King of kings and
  Lord of lords" — Both identical in content. KJV uses all capitals for
  emphasis.
+       NET: "He has a name written on his clothing and on his
+       thigh: 'King of kings and Lord of lords'" — "King of kings"
+       (basileus basileOn). WEB: "KING OF KINGS, AND LORD OF LORDS."
+       The supreme title — no competitor, no equal. Written visibly
+       for all to read as He descends.
 
 v.17 — KJV: "the supper of the great God" / ESV: "the great supper of God"
  — Both equivalent. A grim contrast to "the marriage supper of the Lamb"
@@ -181,39 +207,6 @@ v.21 — KJV: "the remnant were slain with the sword of him that sat upon the
  horse" / ESV: "the rest were slain by the sword that came from the mouth
  of him who was sitting on the horse" — ESV specifies the sword comes
  "from the mouth" — emphasizing Christ conquers by His word.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "After these things I heard what sounded like the
-       loud voice of a vast throng in heaven, saying, 'Hallelujah!'"
-       — "Hallelujah" (hallElouia = Praise Yah/Praise the LORD).
-       WEB: "Hallelujah!" The only NT occurrences of "Hallelujah"
-       are in this chapter (vv.1, 3, 4, 6) — reserved for this
-       climactic moment.
-
-v.7  — NET: "the wedding celebration of the Lamb has come, and
-       his bride has made herself ready" — "bride" (hE gynE autou
-       = His wife). WEB: "the marriage of the Lamb has come." KJV:
-       "the marriage of the Lamb is come." The church prepared
-       through centuries of suffering now presented in glory.
-
-v.11 — NET: "I saw heaven standing open and a white horse
-       appeared... the one riding it was called Faithful and True"
-       — "Faithful and True" (pistos kai alEthinos). WEB: "called
-       Faithful and True." Christ returns not on a donkey (first
-       coming: humility) but a white horse (second coming: conquest).
-
-v.13 — NET: "He is dressed in clothing dipped in blood, and he
-       is called the Word of God" — "the Word of God" (ho logos
-       tou theou). WEB: "The Word of God." KJV: "The Word of God."
-       The same title as John 1:1 — now the Word rides in judgment
-       rather than lying in a manger.
-
-v.16 — NET: "He has a name written on his clothing and on his
-       thigh: 'King of kings and Lord of lords'" — "King of kings"
-       (basileus basileOn). WEB: "KING OF KINGS, AND LORD OF LORDS."
-       The supreme title — no competitor, no equal. Written visibly
-       for all to read as He descends.
 
 GLOSSARY
 ------------------------------------

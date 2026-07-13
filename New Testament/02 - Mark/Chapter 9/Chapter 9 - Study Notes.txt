@@ -98,23 +98,42 @@ Charles Spurgeon:
   greatness. Not who has the most power, the most followers, the most
   recognition — but who serves the most people."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3  — KJV: "so as no fuller on earth can white them" / ESV: "as no one on
        earth could bleach them" — The ESV modernizes "fuller" to "one on
        earth" and "white" to "bleach." A "fuller" was a cloth bleacher/
        launderer. Mark's vivid comparison: Jesus' clothes were whiter than
        any human process could achieve — supernatural brilliance.
+       NET: "his clothes became radiantly white, more so than
+       any launderer in the world could bleach them" — vivid
+       domestic comparison. WEB: "exceedingly white, like snow,
+       such as no launderer on earth can whiten them." KJV: "so
+       as no fuller on earth can white them." Mark's homely detail
+       — Peter remembering the practical impossibility.
 
 v.24 — KJV: "Lord, I believe; help thou mine unbelief" / ESV: "I believe;
        help my unbelief!" — Both equivalent. One of the most psychologically
        honest statements in Scripture. Faith and doubt coexist in the same
        person — and Jesus responds to the faith, not the doubt.
+       NET: "I believe; help my unbelief!" — all versions render
+       this the same. The father's paradoxical cry is one of the
+       most honest prayers in Scripture. WEB: "I believe. Help my
+       unbelief!"
 
 v.29 — KJV: "prayer and fasting" / ESV: "prayer" — The ESV omits "and
        fasting" following better-attested manuscripts (noted in ESV footnote).
        If original, it indicates that some spiritual battles require deeper
        preparation — extended prayer combined with fasting.
+       NET: "He told them, 'This kind can come out only by
+       prayer'" — some manuscripts add "and fasting" (KJV includes
+       it). NET/ESV omit "and fasting" following earlier manuscripts.
+       WEB includes "and fasting." A notable textual variant.
+
+v.35 — NET: "If anyone wants to be first, he must be last of all
+       and servant of all" — WEB: "If any man wants to be first,
+       he shall be last of all, and servant of all." The paradox
+       of kingdom greatness through servanthood.
 
 v.44,46 — KJV includes these verses (repeating v.48). ESV omits them as
        scribal additions. The content is the same as v.48 — "where their worm
@@ -125,32 +144,7 @@ v.48 — KJV: "where their worm dieth not" / ESV: "where their worm does not
        66:24. The "worm" represents unending decay/corruption; the "fire"
        represents unending judgment. Together they describe the permanence
        of hell.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "his clothes became radiantly white, more so than
-       any launderer in the world could bleach them" — vivid
-       domestic comparison. WEB: "exceedingly white, like snow,
-       such as no launderer on earth can whiten them." KJV: "so
-       as no fuller on earth can white them." Mark's homely detail
-       — Peter remembering the practical impossibility.
-
-v.24 — NET: "I believe; help my unbelief!" — all versions render
-       this the same. The father's paradoxical cry is one of the
-       most honest prayers in Scripture. WEB: "I believe. Help my
-       unbelief!"
-
-v.29 — NET: "He told them, 'This kind can come out only by
-       prayer'" — some manuscripts add "and fasting" (KJV includes
-       it). NET/ESV omit "and fasting" following earlier manuscripts.
-       WEB includes "and fasting." A notable textual variant.
-
-v.35 — NET: "If anyone wants to be first, he must be last of all
-       and servant of all" — WEB: "If any man wants to be first,
-       he shall be last of all, and servant of all." The paradox
-       of kingdom greatness through servanthood.
-
-v.48 — NET: "where their worm never dies and the fire is never
+       NET: "where their worm never dies and the fire is never
        quenched" — quoting Isaiah 66:24. Some manuscripts repeat
        this refrain three times (vv.44, 46, 48); NET/ESV include
        it only at v.48, following earlier texts. KJV includes all

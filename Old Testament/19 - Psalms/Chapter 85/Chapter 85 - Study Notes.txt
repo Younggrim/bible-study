@@ -90,7 +90,7 @@ v.11  — James 3:18 — "The fruit of righteousness is sown in peace
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "thou hast brought back the captivity of Jacob" / ESV:
       "you restored the fortunes of Jacob" — Same Hebrew phrase as
@@ -103,20 +103,6 @@ v.10 — KJV: "Mercy and truth" / ESV: "Steadfast love and
        is more precise: hesed = covenant loyalty/steadfast love;
        emeth = faithfulness/reliability. Both translations capture
        aspects of these rich Hebrew terms.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.7 — KJV: "Shew us thy mercy" / ASV: "Show us thy lovingkindness" / WEB: "Show us your loving kindness" / NET: "show us your loyal love" — The Hebrew חֶסֶד (chesed) appears here: KJV renders "mercy," ASV "lovingkindness," WEB "loving kindness," NET "loyal love." Each captures a different dimension of God's covenant faithfulness.
-
-- v.8 — ASV: "I will hear what God Jehovah will speak" / WEB: "I will hear what God, Yahweh, will speak" / NET: "I will listen to what God the Lord says" — The full divine title "God YHWH" (El Yahweh): ASV/WEB retain the name; KJV: "God the LORD"; NET: "God the Lord." This is the psalmist pausing to listen for God's oracle.
-
-- v.10 — NET: "Loyal love and faithfulness meet; deliverance and peace greet each other with a kiss" — NET renders חֶסֶד (chesed) as "loyal love" and צֶדֶק (tsedeq) as "deliverance" rather than "righteousness." This dramatically changes the theology — "deliverance" suggests rescue, while "righteousness" suggests moral perfection. The traditional reading (KJV/ASV/WEB) better preserves the cross-theology.
-
-- v.6 — ASV: "Wilt thou not quicken us again" / KJV: "revive us" / NET: "revive us once more" / WEB: "revive us again" — ASV retains "quicken" (= make alive), an archaic form. NET adds "once more" for emphasis not in the Hebrew.
-
-- v.12 — ASV: "Yea, Jehovah will give that which is good" / WEB: "Yes, Yahweh will give that which is good" / NET: "the Lord will bestow his good blessings" — NET adds "blessings" (not in Hebrew). KJV/ASV/WEB preserve the simple Hebrew: God gives "the good" (הַטּוֹב) — undefined, unlimited good.
-
-- v.13 — NET: "Deliverance goes before him, and prepares a pathway for him" / KJV: "Righteousness shall go before him" — Again NET renders "righteousness" as "deliverance," losing the moral/ethical dimension. WEB: "Righteousness goes before him" stays literal.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

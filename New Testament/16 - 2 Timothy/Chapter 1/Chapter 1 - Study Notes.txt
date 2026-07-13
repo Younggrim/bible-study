@@ -93,7 +93,7 @@ Charles Spurgeon:
  a minister needs: strength for the task, love for the people, and wisdom
  for the decisions."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.6 — KJV: "stir up" / ESV: "fan into flame" — Greek "anazōpurein" — to fan into flame, to
  rekindle. The gift is like a fire that needs tending — it can burn low
@@ -102,6 +102,11 @@ v.6 — KJV: "stir up" / ESV: "fan into flame" — Greek "anazōpurein" — to f
 v.7 — KJV: "fear" / ESV: Both equivalent. — Greek "deilia" — cowardice, timidity. Not reverent
  fear (phobos) but craven fear. KJV: "sound mind" / ESV: "self-control" — Greek "sōphronismos" —
  self-discipline, self-control, sound judgment.
+       NET: "For God did not give us a Spirit of fear but of
+       power and love and self-control" — "self-control" (sOphronismou
+       = sound mind/discipline). KJV: "a sound mind." WEB: "self-
+       control." Three positive gifts replacing fear: power (dynamis),
+       love (agapE), sound mind (sOphronismos).
 
 v.9 — KJV: "before the world began" / ESV: "before the ages began" — Greek "pro chronōn aiōniōn" — before
  eternal times, before the ages began. God's purpose and grace existed
@@ -114,37 +119,26 @@ v.10 — KJV: "abolished death" / ESV: Both equivalent. — Greek "katargēsanto
 v.12 — KJV: "that which I have committed unto him" / ESV: "what has been entrusted to me" — Greek "tēn parathēkēn
  mou" — my deposit. Paul has deposited his life/soul with God for
  safekeeping. God is the trustworthy banker.
-
-v.13 — KJV: "form of sound words" / ESV: "sound words" — Greek "hupotupōsin hugiainontōn logōn"
- — the pattern/outline of healthy words. A standard of doctrine to be
- maintained — not just the content but the form/pattern.
-
-v.14 — KJV: "that good thing committed unto thee" / ESV: "the good deposit entrusted to you" — Greek "tēn kalēn
- parathēkēn" — the good/beautiful deposit. The gospel truth entrusted
- to Timothy. "Keep" / ESV: "guard" — Greek "phulaxon" — guard, protect.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.7  — NET: "For God did not give us a Spirit of fear but of
-       power and love and self-control" — "self-control" (sOphronismou
-       = sound mind/discipline). KJV: "a sound mind." WEB: "self-
-       control." Three positive gifts replacing fear: power (dynamis),
-       love (agapE), sound mind (sOphronismos).
-
-v.12 — NET: "I am not ashamed, because I know the one in whom I
+       NET: "I am not ashamed, because I know the one in whom I
        have believed, and I am confident that he is able to guard
        what has been entrusted to me until that day" — "guard what
        has been entrusted" (tEn parathEkEn mou phylaxai). WEB:
        "guard that which I have committed to him." KJV: "keep that
        which I have committed unto him." God guards the deposit.
 
-v.13 — NET: "Hold to the standard of sound words that you heard
+v.13 — KJV: "form of sound words" / ESV: "sound words" — Greek "hupotupōsin hugiainontōn logōn"
+ — the pattern/outline of healthy words. A standard of doctrine to be
+ maintained — not just the content but the form/pattern.
+       NET: "Hold to the standard of sound words that you heard
        from me" — "standard" (hypotypOsin = pattern/outline/model).
        WEB: "Hold the pattern of sound words." KJV: "Hold fast the
        form of sound words." A template of healthy teaching to be
        maintained.
 
-v.14 — NET: "Guard that good thing entrusted to you, through the
+v.14 — KJV: "that good thing committed unto thee" / ESV: "the good deposit entrusted to you" — Greek "tēn kalēn
+ parathēkēn" — the good/beautiful deposit. The gospel truth entrusted
+ to Timothy. "Keep" / ESV: "guard" — Greek "phulaxon" — guard, protect.
+       NET: "Guard that good thing entrusted to you, through the
        Holy Spirit who lives within us" — "through the Holy Spirit"
        — the deposit is guarded not by human effort alone but by
        the indwelling Spirit. WEB: "by the Holy Spirit who dwells

@@ -101,7 +101,7 @@ Charles Spurgeon:
   single night. Every Babylon has an expiration date written by
   the hand of God."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — "burden" (KJV) / "oracle" (ESV) — Hebrew "massa" = a
       heavy load/lifting up (of the voice). A weighty word from
@@ -124,46 +124,6 @@ v.21 — "satyrs" (KJV) / "wild goats" (ESV) — Hebrew "se'irim"
       = hairy ones/goat-demons. Whether literal animals or demonic
       beings inhabiting the ruins is debated. The LXX renders
       "demons" — desolate places associated with evil spirits.
-
-GLOSSARY
-------------------------------------
-Burden/Oracle — (Hebrew: massa) A prophetic pronouncement against
-               a nation. The word implies weight — both the gravity
-               of the message and the heaviness of carrying it. Each
-               oracle in chapters 13-23 opens with "the burden of..."
-
-Day of the LORD — God's decisive intervention in history — here
-               combining the historical fall of Babylon (539 BC)
-               with the final eschatological judgment. Near and far
-               fulfillment layered together.
-
-Babylon       — Historically: the Mesopotamian empire that destroyed
-               Jerusalem (586 BC). Symbolically: human civilization
-               organized in pride against God (Genesis 11 — Babel).
-               In Revelation: the final world system opposed to
-               God's kingdom.
-
-Cosmic de-creation — Stars, sun, moon going dark — language of
-               judgment so severe that creation itself unravels.
-               Not always literal (Isaiah uses it for historical
-               events) but always communicating: God is dismantling
-               the world as you know it.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV/WEB: "The burden of Babylon" / NET: "This is an oracle about Babylon" — Hebrew "massa" is a key prophetic term meaning a weighty utterance/burden. KJV/ASV/WEB preserve "burden" — the prophecy is heavy to carry and heavy to receive. NET uses "oracle" — technically acceptable but losing the weight imagery that characterizes the "oracles against the nations" section (chs. 13-23).
-
-- v.6 — ASV: "the day of Jehovah is at hand; as destruction from the Almighty shall it come" / WEB: "the day of Yahweh is at hand! It will come as destruction from the Almighty" / NET: "the Lord's day of judgment is near; it comes with all the destructive power of the Sovereign One" — NET changes "the Almighty" (Shaddai) to "the Sovereign One" — losing this specific divine name. "Shaddai" emphasizes overwhelming power; "Sovereign One" emphasizes authority. Different emphasis.
-
-- v.9 — ASV: "the day of Jehovah cometh, cruel, with wrath and fierce anger" / WEB: "the day of Yahweh comes, cruel, with wrath and fierce anger" / NET: "the Lord's day of judgment is coming; it is a day of cruelty and savage, raging anger" — NET adds "savage" and "raging" (interpretive intensifiers not in the Hebrew) while losing the specific divine name that marks this as a covenant-God judgment.
-
-- v.19 — NET: "Babylon, the most admired of kingdoms, the Chaldeans' source of honor and pride" vs. KJV/ASV: "Babylon, the glory of kingdoms, the beauty of the Chaldees' excellency" — NET's "most admired" and "source of honor and pride" are interpretive paraphrases. The Hebrew uses "tsevi" (beauty/glory) and "tiph'ereth" (splendor) — aesthetic terms, not social ones.
-
-- v.21 — ASV: "wild goats shall dance there" / WEB: "wild goats will frolic there" / NET: "wild goats will skip among the ruins" — Hebrew "se'irim" can mean wild goats OR goat-demons (satyrs). KJV has "satyrs shall dance there" — preserving the demonic possibility. ASV/WEB/NET all choose the natural animal reading, losing the supernatural desolation imagery that the LXX and many church fathers favored.
-
-- v.4 — ASV: "Jehovah of hosts is mustering the host for the battle" / WEB: "Yahweh of Armies is mustering the army for the battle" / NET: "The Lord of Heaven's Armies is mustering forces for battle" — A striking image of God as military commander personally assembling troops. The divine name + "hosts/armies" (tseba'oth) creates a wordplay: the Lord of Armies musters an army.
-
-- v.5 — NET: "from the horizon" vs. ASV/WEB: "from the uttermost part of heaven" — Hebrew "miqtseh hashamayim" = from the end/edge of heaven. NET reduces the cosmic scope ("horizon" is earthly) where the Hebrew implies armies coming from heaven's edge — a supernatural dimension.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

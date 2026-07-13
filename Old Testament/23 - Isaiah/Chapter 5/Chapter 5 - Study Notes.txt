@@ -107,7 +107,7 @@ Charles Spurgeon:
   advantage was given. Every provision was made. The failure is
   not in the Gardener but in the vine."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — "wellbeloved" (KJV) / "beloved" (ESV) — Hebrew "yedid"
       = a dear friend/loved one. Isaiah sings on God's behalf —
@@ -133,48 +133,6 @@ v.26 — "hiss" (KJV) / "whistle" (ESV) — Hebrew "sharaq" = to
       whistle/hiss as a signal. Used for calling bees (7:18) or
       signaling dogs/servants. God summons armies casually, the
       way a man whistles for his dog.
-
-GLOSSARY
-------------------------------------
-Vineyard      — A metaphor for Israel/Judah throughout the OT
-               (and into the NT, John 15). God planted, tended,
-               and expected fruit. The vineyard represents
-               privileged, covenant relationship with God.
-
-Wild grapes   — (Hebrew: be'ushim) Literally "stinking things."
-               Not merely unproductive fruit but actively offensive.
-               Israel's sin isn't just absence of good but presence
-               of evil.
-
-Woe           — (Hebrew: hoy) An exclamation of grief and judgment
-               combined — like a funeral dirge. "Woe" announces
-               that someone is as good as dead — already under
-               God's sentence.
-
-Sheol         — The OT realm of the dead. Not hell (Gehenna) in
-               the full NT sense but the grave personified — the
-               destiny of all humans apart from God's intervention.
-               Here depicted as a ravenous monster.
-
-Ensign        — (Hebrew: nes) A banner or signal flag raised on a
-               hill to rally troops or signal. God raises His
-               banner — and nations come running to do His bidding.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.7 — ASV: "the vineyard of Jehovah of hosts" / WEB: "the vineyard of Yahweh of Armies" / NET: "the vineyard of the Lord of Heaven's Armies" — The crucial reveal of the parable. ASV/WEB use the divine name directly, making the identification personal. NET's expanded title ("Lord of Heaven's Armies") is interpretive but powerful.
-
-- v.7 — NET: "He waited for justice, but look what he got—disobedience! He waited for fairness, but look what he got—cries for help!" — NET attempts to convey the Hebrew wordplay (mishpat/mispach, tsedaqah/tse'aqah) through "justice/disobedience" and "fairness/cries for help." The sonic wordplay is lost in all English translations, but NET at least signals the contrast explicitly.
-
-- v.14 — NET: "So Death will open up its throat" vs. ASV/WEB: "Sheol hath enlarged its desire" / KJV: "hell hath enlarged herself" — NET capitalizes "Death" as a personified entity and uses "throat" instead of "desire/mouth." ASV/WEB retain "Sheol" (the Hebrew term), while KJV misleadingly uses "hell." NET's rendering is vivid but loses the original Hebrew noun.
-
-- v.16 — ASV: "Jehovah of hosts is exalted in justice, and God the Holy One is sanctified in righteousness" / WEB: "Yahweh of Armies is exalted in justice, and God the Holy One is sanctified in righteousness" — Both preserve "the Holy One" (qadosh) as a divine title central to Isaiah. NET renders: "the holy God's authority will be recognized when he judges" — a much freer paraphrase that adds "authority" and "recognized."
-
-- v.19 — WEB/ASV: "let the counsel of the Holy One of Israel draw nigh and come" / NET: "let the plan of the Holy One of Israel take shape and come to pass" — "Counsel" (etsah) vs. "plan" — a subtle but theologically significant difference. "Counsel" implies divine wisdom and deliberation; "plan" suggests mere strategy.
-
-- v.24 — ASV: "they have rejected the law of Jehovah of hosts, and despised the word of the Holy One of Israel" / WEB: same with "Yahweh of Armies" / NET: "they have rejected the law of the Lord of Heaven's Armies, they have spurned the commands of the Holy One of Israel" — NET changes "word" (imrah) to "commands," narrowing the scope. The Hebrew "imrah" is broader — God's spoken word in general, not just commandments.
-
-- v.26 — ASV: "hiss for them" / WEB: "whistle for them" / NET: "he whistles for it" — Hebrew "sharaq" is variously rendered. ASV's "hiss" has a serpentine quality; WEB/NET's "whistle" conveys the casual command imagery. Both capture God summoning armies effortlessly — like calling a pet.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

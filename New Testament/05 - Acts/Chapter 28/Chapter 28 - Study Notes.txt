@@ -88,39 +88,25 @@ Charles Spurgeon:
   — if one group refuses it, God sends it to another. His purposes will
   not be thwarted."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "barbarous people" / ESV: "native people" — Greek "barbaroi" —
        not "savage" but "non-Greek-speaking." ESV's "native people" avoids
        the negative modern connotation of "barbarous." The Maltese spoke a
        Punic dialect. They showed remarkable kindness.
 
-v.4  — KJV: "vengeance suffereth not to live" / ESV: "Justice has not allowed
-       him to live" — Both equivalent. ESV capitalizes "Justice" to show it
-       was personified (Greek: dikē). The islanders believed in divine
-       justice. They assumed the snakebite was punishment for murder. When
-       Paul survived, they reversed their judgment entirely.
-
-v.26 — KJV: "Hearing ye shall hear, and shall not understand" / ESV: "You
-       will indeed hear but never understand" — Both equivalent. Isaiah
-       6:9-10. The same passage Jesus quoted (Matthew 13:14-15) and John
-       quoted (John 12:40). Israel's rejection of the Gospel fulfills
-       prophetic pattern.
-
-v.31 — KJV: "with all confidence, no man forbidding him" / ESV: "with all
-       boldness and without hindrance" — Greek "meta pasēs parrēsias
-       akōlutōs." Both equivalent. ESV's "without hindrance" captures the
-       final word of Acts: "akōlutōs" — unhindered. The Gospel cannot be
-       stopped.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
 v.3  — NET: "when Paul had gathered a bundle of brushwood and
        was putting it on the fire, a viper came out because of the
        heat and fastened itself on his hand" — "fastened" (kathEpsen
        = attached/bit). WEB: "a viper came out because of the
        heat, and fastened on his hand." The islanders expect him to
        drop dead (v.4).
+
+v.4  — KJV: "vengeance suffereth not to live" / ESV: "Justice has not allowed
+       him to live" — Both equivalent. ESV capitalizes "Justice" to show it
+       was personified (Greek: dikē). The islanders believed in divine
+       justice. They assumed the snakebite was punishment for murder. When
+       Paul survived, they reversed their judgment entirely.
 
 v.5  — NET: "he shook the creature off into the fire and suffered
        no harm" — fulfilling Mark 16:18 ("they will pick up
@@ -141,7 +127,18 @@ v.23 — NET: "From morning until evening he explained things to
        WEB: "explaining to them, testifying about God's Kingdom."
        The OT proves Jesus.
 
-v.31 — NET: "proclaiming the kingdom of God and teaching about
+v.26 — KJV: "Hearing ye shall hear, and shall not understand" / ESV: "You
+       will indeed hear but never understand" — Both equivalent. Isaiah
+       6:9-10. The same passage Jesus quoted (Matthew 13:14-15) and John
+       quoted (John 12:40). Israel's rejection of the Gospel fulfills
+       prophetic pattern.
+
+v.31 — KJV: "with all confidence, no man forbidding him" / ESV: "with all
+       boldness and without hindrance" — Greek "meta pasēs parrēsias
+       akōlutōs." Both equivalent. ESV's "without hindrance" captures the
+       final word of Acts: "akōlutōs" — unhindered. The Gospel cannot be
+       stopped.
+       NET: "proclaiming the kingdom of God and teaching about
        the Lord Jesus Christ with complete boldness and without
        restriction" — "without restriction" (akOlytOs = unhindered).
        WEB: "with all boldness, without hindrance." KJV: "with all

@@ -94,7 +94,7 @@ v.8   — Proverbs 3:24 — "When thou liest down, thou shalt not be
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "thou hast enlarged me when I was in distress" / ESV:
       "You have given me relief when I was in distress" — Hebrew
@@ -125,17 +125,6 @@ v.7 — KJV: "corn and wine" / ESV: "grain and wine" — Hebrew
       "dagan" = grain (KJV's "corn" is British English for grain
       generally, not American maize). These represent harvest
       abundance — the peak of material joy in an agrarian society.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "O God who vindicates me" — NET interprets "God of my righteousness" (KJV/ESV) as God who establishes David's rightness. NET also paraphrases the spatial metaphor: "Though I am hemmed in, you will lead me into a wide, open place" — rendering the single Hebrew verb "hirchavta" (you enlarged) into a full interpretive clause.
-- v.3 — ASV: "Jehovah hath set apart for himself him that is godly" — ASV uses "Jehovah" for the divine name (Hebrew YHWH), where KJV/ESV use "LORD" (small caps). This preserves the personal covenant name of God rather than replacing it with a title.
-- v.3 — WEB: "Yahweh has set apart for himself him who is godly" — WEB renders the tetragrammaton as "Yahweh," the most likely pronunciation of YHWH. This is theologically significant: David invokes God's personal, revealed name — the name of covenant relationship.
-- v.4 — NET: "Tremble with fear and do not sin" — NET follows the "tremble" reading of Hebrew "rigzu" (like KJV's "stand in awe"), rejecting the LXX/Ephesians 4:26 "be angry" tradition followed by ESV. NET also renders "commune with your own heart" as "Meditate as you lie in bed, and repent of your ways" — a significantly more interpretive rendering.
-- v.6 — NET: "Smile upon us, Lord!" — A dramatic paraphrase of KJV's "lift thou up the light of thy countenance upon us." NET reduces the Aaronic Benediction echo (Numbers 6:25-26) to a simple expression. The theological richness of "light of countenance" — God's favorable attention and radiant presence — is lost.
-- v.6 — WEB: "Yahweh, let the light of your face shine on us" — WEB preserves both the divine name "Yahweh" AND the face/light imagery, making the Numbers 6:25 connection clear while using the covenant name.
-- v.7 — NET: "You make me happier than those who have abundant grain and wine" — NET renders the comparative idiom into plain modern English. KJV's "Thou hast put gladness in my heart, more than in the time that their corn and their wine increased" preserves the Hebrew structure and the word "heart" (lev), indicating internal joy rather than mere happiness.
-- v.8 — WEB: "for you, Yahweh alone, make me live in safety" — WEB renders "dwell in safety" (KJV) as "live in safety" and importantly includes "Yahweh alone" — preserving both the divine name and the exclusivity ("alone"/levadad) that is the psalm's theological climax.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

@@ -102,7 +102,7 @@ Charles Spurgeon:
   in a manger. Not a cosmic wonder but a baby at a virgin's
   breast. God's greatest sign was His smallest arrival."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3  — "Shearjashub" (KJV) / "Shear-jashub" (ESV) — Hebrew
       "she'ar yashub" = a remnant shall return. Isaiah's son
@@ -129,47 +129,6 @@ v.20 — "razor" (KJV/ESV) — Hebrew "ta'ar" = a barber's razor.
       God will "shave" Judah with Assyria — stripping everything
       (head hair = glory, beard = dignity, body hair = even
       intimate exposure). Total humiliation.
-
-GLOSSARY
-------------------------------------
-Almah/Virgin  — Hebrew "almah" = a young woman of marriageable age,
-               presumed (in cultural context) to be sexually
-               inexperienced. The Greek translation "parthenos"
-               (used in Matthew 1:23) makes the virgin meaning
-               explicit. The sign requires the supernatural.
-
-Immanuel      — "God with us." A prophetic name declaring that God
-               Himself will come to dwell among His people. Near
-               fulfillment: a child born in Isaiah's time as a time-
-               marker. Ultimate fulfillment: Jesus Christ, God
-               incarnate (Matthew 1:23).
-
-Syro-Ephraimite Crisis — The 735 BC alliance of Syria (Damascus)
-               and Israel (Ephraim/northern kingdom) against Judah.
-               They invaded to force Judah into an anti-Assyrian
-               coalition. God promised their destruction within
-               65 years (v.8) — fulfilled in 670 BC.
-
-Smoking firebrands — Stubs of torches almost burned out. Isaiah's
-               imagery for Syria and Israel: they look threatening
-               but they're spent — smoking, not burning. Their power
-               is nearly exhausted.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.14 — NET: "this young woman is about to conceive" vs. KJV/ASV/WEB: "a virgin shall conceive" — The most theologically significant translation difference in Isaiah. NET renders Hebrew "almah" as "young woman" rather than "virgin," and adds "is about to" (suggesting imminence). WEB retains "virgin." This choice affects whether the passage is directly messianic or requires a dual-fulfillment framework.
-
-- v.7 — ASV: "thus saith the Lord Jehovah" / WEB: "This is what the Lord Yahweh says" / NET: "the Sovereign Lord says" — ASV/WEB preserve both divine titles (Adonai + YHWH) while NET collapses them into "Sovereign Lord," losing the double-name emphasis of God's authority AND covenant identity.
-
-- v.11 — ASV: "Ask thee a sign of Jehovah thy God" / WEB: "Ask a sign of Yahweh your God" / NET: "Ask for a confirming sign from the Lord your God. You can even ask for something miraculous" — NET adds an entire interpretive sentence ("You can even ask for something miraculous") not in the Hebrew. The literal text says "ask in the depth or in the height" — NET replaces this with a summary.
-
-- v.14 — NET: "You, young woman, will name him Immanuel" — NET addresses the woman directly ("You, young woman") — an interpretive choice. KJV/ASV/WEB have "shall call his name Immanuel" without specifying who is being addressed. NET's rendering emphasizes the near fulfillment over the messianic.
-
-- v.18 — ASV: "Jehovah will hiss for the fly" / WEB: "Yahweh will whistle for the fly" / NET: "the Lord will whistle for flies" — The divine name is used for this striking image of God summoning Egypt and Assyria like insects. ASV's "hiss" retains the onomatopoeia of Hebrew "sharaq." NET pluralizes "flies" where the Hebrew has the singular collective.
-
-- v.20 — NET: "the hair off the head and private parts" vs. KJV: "the head and the hair of the feet" / ASV: "the head and the hair of the feet" — "Feet" is a Hebrew euphemism for genitals. NET makes explicit what the Hebrew veils; KJV/ASV preserve the euphemism. WEB also retains "the hair of the feet." This illustrates the total humiliation of Assyria's invasion.
-
-- v.9 — NET: "If your faith does not remain firm, then you will not remain secure" vs. KJV/ASV: "If ye will not believe, surely ye shall not be established" — The Hebrew wordplay (ta'aminu/te'amenu) is untranslatable. NET's "firm/secure" attempts the parallel, while KJV's "believe/established" preserves the theological link between faith and stability.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

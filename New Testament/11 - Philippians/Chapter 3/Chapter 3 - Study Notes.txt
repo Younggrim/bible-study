@@ -111,9 +111,8 @@ Charles Spurgeon:
   things are loss compared to the excellency of knowing Christ. The best
   things in the world are dung next to Him. Have you made that exchange?"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.2  — KJV: "dogs" / ESV: Both equivalent. — In Jewish culture, dogs were unclean scavengers. Jews
        called Gentiles "dogs." Paul reverses it — the Judaizers are the real
        "dogs." "Concision" — Greek "katatomē" (mutilation) vs. "peritomē"
@@ -122,6 +121,12 @@ v.2  — KJV: "dogs" / ESV: Both equivalent. — In Jewish culture, dogs were un
 v.8  — KJV: "dung" — Greek "skubala" — refuse, garbage, excrement. The
        strongest term Paul could use. Everything he once valued is now
        worthless waste compared to Christ. ESV: "rubbish." NET: "dung."
+       NET: "I have suffered the loss of all things, and I
+       regard them as dung, in order that I may gain Christ" —
+       "dung" (skybalon = refuse/excrement/garbage). WEB: "count
+       them nothing but refuse." KJV: "I count them but dung." The
+       strongest term Paul could use — his Jewish resume is not
+       merely worthless but repulsive compared to Christ.
 
 v.9  — KJV: "the righteousness which is of God by faith" / ESV: "the righteousness from God that depends on faith" — Two
        righteousnesses contrasted: (1) "mine own" from Law-keeping (self-
@@ -131,56 +136,43 @@ v.9  — KJV: "the righteousness which is of God by faith" / ESV: "the righteous
 v.10 — KJV: "fellowship of his sufferings" / ESV: "and may share his sufferings" — Greek "koinōnia pathēmatōn" —
        partnership in sufferings. Not just enduring hardship but sharing in
        Christ's specific pattern of suffering for righteousness.
-
-v.12 — KJV: "apprehend" / ESV: "to make it my own" — Greek "katalabō" — to seize, lay hold of, grasp.
-       Paul wants to grasp the purpose for which Christ grasped him. "I was
-       apprehended BY Christ; now I want to apprehend what He apprehended me
-       FOR."
-
-v.14 — KJV: "mark" / ESV: "toward the goal" — Greek "skopos" — target, goal. Root of English "scope."
-       "Prize" — Greek "brabeion" — the winner's prize in athletic games.
-
-v.20 — KJV: "conversation" / ESV: "But our citizenship is" — Greek "politeuma" — citizenship, commonwealth.
-       Our true citizenship is in heaven — we are colonists of heaven living
-       on foreign soil.
-
-v.21 — KJV: "vile body" / ESV: "transform our lowly" — Greek "sōma tapeinōseōs" — body of humiliation,
-       lowly body. Not that the body is evil but that it is currently in a
-       humbled, mortal state. It will be transformed.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.8  — NET: "I have suffered the loss of all things, and I
-       regard them as dung, in order that I may gain Christ" —
-       "dung" (skybalon = refuse/excrement/garbage). WEB: "count
-       them nothing but refuse." KJV: "I count them but dung." The
-       strongest term Paul could use — his Jewish resume is not
-       merely worthless but repulsive compared to Christ.
-
-v.10 — NET: "My aim is to know him, to experience the power of
+       NET: "My aim is to know him, to experience the power of
        his resurrection, to share in his sufferings" — "know"
        (gnOnai = experiential, intimate knowing). WEB: "that I may
        know him, and the power of his resurrection." KJV: "That I
        may know him." Not information but union — resurrection
        power and suffering fellowship together.
 
-v.12 — NET: "Not that I have already attained this... but I press
+v.12 — KJV: "apprehend" / ESV: "to make it my own" — Greek "katalabō" — to seize, lay hold of, grasp.
+       Paul wants to grasp the purpose for which Christ grasped him. "I was
+       apprehended BY Christ; now I want to apprehend what He apprehended me
+       FOR."
+       NET: "Not that I have already attained this... but I press
        on" — "press on" (diOkO = pursue/chase/hunt). WEB: "I press
        on." KJV: "I press toward the mark." Athletic/hunting
        imagery — single-minded, relentless forward pursuit.
 
-v.14 — NET: "I press on toward the goal for the prize of the
+v.14 — KJV: "mark" / ESV: "toward the goal" — Greek "skopos" — target, goal. Root of English "scope."
+       "Prize" — Greek "brabeion" — the winner's prize in athletic games.
+       NET: "I press on toward the goal for the prize of the
        upward call of God in Christ Jesus" — "upward call" (anO
        klEseOs = heavenly/above calling). WEB: "the prize of the
        high calling of God in Christ Jesus." KJV: "the prize of
        the high calling." Not looking back, not looking around —
        only forward and upward.
 
-v.20 — NET: "But our citizenship is in heaven" — "citizenship"
+v.20 — KJV: "conversation" / ESV: "But our citizenship is" — Greek "politeuma" — citizenship, commonwealth.
+       Our true citizenship is in heaven — we are colonists of heaven living
+       on foreign soil.
+       NET: "But our citizenship is in heaven" — "citizenship"
        (politeuma = commonwealth/colony). WEB: "our citizenship is
        in heaven." KJV: "our conversation is in heaven." Philippi
        was a Roman colony — citizens of Rome living far from Rome.
        Believers are heaven's colony on earth.
+
+v.21 — KJV: "vile body" / ESV: "transform our lowly" — Greek "sōma tapeinōseōs" — body of humiliation,
+       lowly body. Not that the body is evil but that it is currently in a
+       humbled, mortal state. It will be transformed.
 
 GLOSSARY
 ------------------------------------

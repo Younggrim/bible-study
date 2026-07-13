@@ -94,38 +94,24 @@ Charles Spurgeon:
   happen by accident. It is the result of deliberate, daily self-examination
   and immediate repentance."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.5  — KJV: "a pestilent fellow" / ESV: "a plague" — Greek "loimon" — a
        plague, a pest. Both convey the same meaning. The prosecution used
        inflammatory language to prejudice Felix against Paul.
-
-v.14 — KJV: "the way which they call heresy" / ESV: "the Way, which they
-       call a sect" — Greek "hairesin" — a sect or party. ESV's "sect" is
-       more accurate than KJV's "heresy" (which has a different modern
-       meaning). Paul acknowledges that outsiders call Christianity a sect
-       but affirms it as true worship of Israel's God.
-
-v.22 — KJV: "having more perfect knowledge of that way" / ESV: "having a
-       rather accurate knowledge of the Way" — Both equivalent. Felix already
-       knew about Christianity — possibly through his Jewish wife Drusilla,
-       or through the large Christian community in Caesarea.
-
-v.25 — KJV: "a convenient season" / ESV: "When I get an opportunity" — Greek
-       "kairon" — an opportune time. ESV is clearer to modern readers. Felix
-       postponed his response to the Gospel indefinitely. The "convenient
-       season" for repentance is always NOW — tomorrow is not guaranteed.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.5  — NET: "we have found this man to be a troublemaker,
+       NET: "we have found this man to be a troublemaker,
        one who stirs up riots among all the Jews throughout the
        world" — "troublemaker" (loimon = pest/plague). WEB: "a
        plague, an instigator of insurrections." KJV: "a pestilent
        fellow." Tertullus uses inflammatory rhetoric — Paul is a
        disease infecting the empire.
 
-v.14 — NET: "this I confess to you, that I worship the God of our
+v.14 — KJV: "the way which they call heresy" / ESV: "the Way, which they
+       call a sect" — Greek "hairesin" — a sect or party. ESV's "sect" is
+       more accurate than KJV's "heresy" (which has a different modern
+       meaning). Paul acknowledges that outsiders call Christianity a sect
+       but affirms it as true worship of Israel's God.
+       NET: "this I confess to you, that I worship the God of our
        ancestors according to the Way, which they call a sect" —
        "the Way" (tEn hodon) — early Christian self-designation.
        WEB: "after the Way." KJV: "after the way." Paul doesn't
@@ -137,7 +123,16 @@ v.16 — NET: "I do my best to maintain a clear conscience toward
        "do I exercise myself." Conscience requires ongoing training
        and vigilance.
 
-v.25 — NET: "as Paul talked about righteousness, self-control,
+v.22 — KJV: "having more perfect knowledge of that way" / ESV: "having a
+       rather accurate knowledge of the Way" — Both equivalent. Felix already
+       knew about Christianity — possibly through his Jewish wife Drusilla,
+       or through the large Christian community in Caesarea.
+
+v.25 — KJV: "a convenient season" / ESV: "When I get an opportunity" — Greek
+       "kairon" — an opportune time. ESV is clearer to modern readers. Felix
+       postponed his response to the Gospel indefinitely. The "convenient
+       season" for repentance is always NOW — tomorrow is not guaranteed.
+       NET: "as Paul talked about righteousness, self-control,
        and the coming judgment, Felix became frightened" —
        "frightened" (emphobos genomenos = becoming terrified). WEB:
        "Felix was terrified." KJV: "Felix trembled." The prisoner

@@ -78,19 +78,7 @@ Charles Spurgeon:
   his rights to get to Rome. Sometimes faith means using every legitimate
   means available to fulfill God's calling."
 
-TRANSLATION NOTES
-------------------------------------
-v.11 — KJV: "I appeal unto Caesar" / ESV: "I appeal to Caesar" — Both
-       equivalent. Latin: "Caesarem appello." An irrevocable legal action.
-       Once spoken, the case must go to Rome.
-
-v.19 — KJV: "their own superstition" / ESV: "their own religion" — Greek
-       "deisidaimonias" — can be neutral ("religion") or negative
-       ("superstition"). ESV takes the neutral sense; KJV the negative.
-       Festus likely meant it neutrally — he was describing the dispute to
-       Agrippa without taking sides.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.8  — NET: "I have committed no offense against the Jewish
        law or against the temple or against Caesar" — three charges
@@ -104,13 +92,21 @@ v.10 — NET: "I am standing before Caesar's judgment seat, where
        judgment seat." KJV: "I stand at Caesar's judgment seat."
        Paul claims proper Roman jurisdiction.
 
-v.11 — NET: "I appeal to Caesar!" — "I appeal" (epikaloumai =
+v.11 — KJV: "I appeal unto Caesar" / ESV: "I appeal to Caesar" — Both
+       equivalent. Latin: "Caesarem appello." An irrevocable legal action.
+       Once spoken, the case must go to Rome.
+       NET: "I appeal to Caesar!" — "I appeal" (epikaloumai =
        I call upon). WEB: "I appeal to Caesar!" KJV: "I appeal
        unto Caesar." A Roman citizen's right — once invoked, the
        case must go to Rome. God's promise (23:11) fulfilled
        through legal process.
 
-v.19 — NET: "they had some points of disagreement with him about
+v.19 — KJV: "their own superstition" / ESV: "their own religion" — Greek
+       "deisidaimonias" — can be neutral ("religion") or negative
+       ("superstition"). ESV takes the neutral sense; KJV the negative.
+       Festus likely meant it neutrally — he was describing the dispute to
+       Agrippa without taking sides.
+       NET: "they had some points of disagreement with him about
        their own religion and about a man named Jesus who was dead,
        whom Paul claimed to be alive" — Festus' summary to Agrippa
        — reductive but accurate. WEB: "about one Jesus, who was

@@ -90,35 +90,7 @@ Charles Spurgeon:
   could. That is all God asks of any of us. Do what you can, with what
   you have, where you are."
 
-TRANSLATION NOTES
-------------------------------------
-v.36 — KJV: "Abba, Father" / ESV: "Abba, Father" — Both identical. Only Mark
-       preserves the Aramaic "Abba" — the intimate family word for father.
-       Paul uses it in Romans 8:15 and Galatians 4:6 — believers share Jesus'
-       intimate access to the Father.
-
-v.41 — KJV: "it is enough" / ESV: "It is enough" — Both identical. Greek
-       "apechei" — a difficult word that could mean "it is settled," "the
-       account is closed," or "enough [sleeping]." The hour of betrayal has
-       arrived.
-
-v.51-52 — KJV: "a certain young man... having a linen cloth cast about his
-       naked body" / ESV: "a young man followed him, with nothing but a linen
-       cloth about his body" — Both equivalent. Unique to Mark. Widely
-       believed to be Mark himself — his personal "signature" on the
-       narrative. If so, he was an eyewitness to the arrest.
-
-v.62 — KJV: "I am" / ESV: "I am" — Both identical. Greek "ego eimi" — the
-       divine name. Mark's Jesus gives a direct, unambiguous answer (unlike
-       Matthew's "You have said so" which is more indirect). This is the
-       clearest self-identification as God in Mark's Gospel.
-
-v.72 — KJV: "the cock crew" / ESV: "the rooster crowed" — Both equivalent.
-       Mark alone mentions the cock crowing twice (v.30,72). A vivid detail
-       from Peter's own memory — he remembered every painful detail of that
-       night.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.3  — NET: "a woman came with an alabaster jar of costly
        aromatic oil from pure nard. After breaking open the jar,
@@ -132,19 +104,42 @@ v.22 — NET: "he took bread, and after giving thanks he broke it,
        "eat" following earlier manuscripts. WEB includes "Take,
        eat." A communion liturgy variant.
 
-v.36 — NET: "'Abba, Father, all things are possible for you. Take
+v.36 — KJV: "Abba, Father" / ESV: "Abba, Father" — Both identical. Only Mark
+       preserves the Aramaic "Abba" — the intimate family word for father.
+       Paul uses it in Romans 8:15 and Galatians 4:6 — believers share Jesus'
+       intimate access to the Father.
+       NET: "'Abba, Father, all things are possible for you. Take
        this cup away from me. Yet not what I will, but what you
        will'" — "Abba" (Aramaic for "Father/Daddy") is preserved
        untranslated in all versions. The intimate address in
        agony is uniquely powerful.
 
-v.51 — NET: "A young man was following him, wearing only a linen
+v.41 — KJV: "it is enough" / ESV: "It is enough" — Both identical. Greek
+       "apechei" — a difficult word that could mean "it is settled," "the
+       account is closed," or "enough [sleeping]." The hour of betrayal has
+       arrived.
+
+v.51-52 — KJV: "a certain young man... having a linen cloth cast about his
+       naked body" / ESV: "a young man followed him, with nothing but a linen
+       cloth about his body" — Both equivalent. Unique to Mark. Widely
+       believed to be Mark himself — his personal "signature" on the
+       narrative. If so, he was an eyewitness to the arrest.
+       NET: "A young man was following him, wearing only a linen
        cloth. They tried to arrest him, but he ran away naked" —
        this mysterious detail is unique to Mark. Tradition
        identifies him as Mark himself — Peter's eyewitness source
        including this personal detail.
 
-v.72 — NET: "he broke down and wept" — Peter's response to the
+v.62 — KJV: "I am" / ESV: "I am" — Both identical. Greek "ego eimi" — the
+       divine name. Mark's Jesus gives a direct, unambiguous answer (unlike
+       Matthew's "You have said so" which is more indirect). This is the
+       clearest self-identification as God in Mark's Gospel.
+
+v.72 — KJV: "the cock crew" / ESV: "the rooster crowed" — Both equivalent.
+       Mark alone mentions the cock crowing twice (v.30,72). A vivid detail
+       from Peter's own memory — he remembered every painful detail of that
+       night.
+       NET: "he broke down and wept" — Peter's response to the
        rooster. KJV: "when he thought thereon, he wept." WEB:
        "When he thought about it, he wept." ASV: "And when he
        thought thereon, he wept." The Greek epibalōn is debated —

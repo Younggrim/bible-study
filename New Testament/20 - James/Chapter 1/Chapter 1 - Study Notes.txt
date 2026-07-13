@@ -94,12 +94,18 @@ Charles Spurgeon:
  the problem, you walk away and forget. That's hearing without doing. The
  doer looks, sees, and ACTS. He is blessed in his deed."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2 — KJV: "temptations" / ESV: "trials of various kinds" — Greek
  "peirasmois" — trials, tests. Same word can mean temptation (to sin)
  or trial (testing of faith). Context here = trials/tests. KJV:
  "Divers" / ESV: "various kinds" — various kinds.
+       NET: "Consider it all joy, my brothers and sisters, when
+       you encounter various trials" — "various" (poikilois =
+       many-colored/diverse). WEB: "Count it all joy, my brothers,
+       when you fall into various temptations." KJV: "divers
+       temptations." Trials come in many varieties — each produces
+       different aspects of maturity.
 
 v.3 — KJV: "trying of your faith worketh patience" / ESV: "testing of your
  faith produces steadfastness" — Greek "dokimion... hupomonēn" — the
@@ -113,6 +119,11 @@ v.4 — KJV: "perfect and entire, wanting nothing" / ESV: "perfect and
 v.5 — KJV: "liberally" / ESV: "generously" — Greek "haplōs" — generously,
  simply, without reservation. KJV: "Upbraideth not" / ESV: "without
  reproach" — doesn't scold, doesn't make you feel bad for asking.
+       NET: "God, who gives to all generously and without
+       reprimand" — "without reprimand" (mE oneidizontos = without
+       reproaching/shaming). WEB: "who gives to all liberally and
+       without reproach." KJV: "upbraideth not." God doesn't shame
+       us for asking — He gives without making us feel guilty.
 
 v.8 — KJV: "double minded" / ESV: "double-minded" — Greek "dipsuchos" —
  two-souled. A word James may have coined. Divided loyalty, wavering
@@ -122,16 +133,32 @@ v.14 — KJV: "drawn away of his own lust, and enticed" / ESV: "lured and
  enticed by his own desire" — Fishing/hunting imagery. "Drawn away"
  (exelkomenos) = dragged out. "Enticed" (deleazomenos) = baited, lured.
  Sin uses our own desires as bait.
+       NET: "each one is tempted when he is lured and enticed by
+       his own desires" — "lured and enticed" (exelkomenos kai
+       deleazomenos = dragged away and baited — fishing metaphor).
+       WEB: "drawn away by his own lust, and enticed." Our desires
+       are both the bait and the hook.
 
 v.17 — KJV: "Father of lights" / ESV: Both equivalent. — God as creator of
  celestial lights (sun, moon, stars). KJV: "No variableness, neither
  shadow of turning" / ESV: "no variation or shadow due to change" —
  unlike celestial bodies that shift and cast shadows, God never changes.
+       NET: "Every good and perfect gift is from above, coming
+       down from the Father of lights" — "Father of lights"
+       (patros tOn phOtOn = Father of luminaries/heavenly bodies).
+       WEB: "the Father of lights." KJV: "the Father of lights."
+       God created the stars and is Himself pure light — no shadow.
 
 v.21 — KJV: "engrafted word" / ESV: "implanted word" — Greek "emphutos
  logos" — implanted word. The Word planted within like a seed that
  grows and saves. KJV: "superfluity of naughtiness" / ESV: "rampant
  wickedness" — Greek "perisseia kakias" — overflow of evil/wickedness.
+
+v.22 — NET: "But be sure you live out the message and do not
+       merely listen to it" — "live out" (poiEtai logou = doers of
+       the word). WEB: "be doers of the word." KJV: "be ye doers
+       of the word." The central command of James — faith produces
+       action or it is not real faith.
 
 v.25 — KJV: "perfect law of liberty" / ESV: "perfect law, the law of
  liberty" — The gospel/new covenant as a law that frees rather than
@@ -141,39 +168,6 @@ v.27 — KJV: "fatherless" / ESV: "orphans" — Greek "orphanous." KJV:
  "unspotted from the world" / ESV: "unstained from the world" — Both
  equivalent in meaning. Pure religion defined by compassion and
  holiness.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "Consider it all joy, my brothers and sisters, when
-       you encounter various trials" — "various" (poikilois =
-       many-colored/diverse). WEB: "Count it all joy, my brothers,
-       when you fall into various temptations." KJV: "divers
-       temptations." Trials come in many varieties — each produces
-       different aspects of maturity.
-
-v.5  — NET: "God, who gives to all generously and without
-       reprimand" — "without reprimand" (mE oneidizontos = without
-       reproaching/shaming). WEB: "who gives to all liberally and
-       without reproach." KJV: "upbraideth not." God doesn't shame
-       us for asking — He gives without making us feel guilty.
-
-v.14 — NET: "each one is tempted when he is lured and enticed by
-       his own desires" — "lured and enticed" (exelkomenos kai
-       deleazomenos = dragged away and baited — fishing metaphor).
-       WEB: "drawn away by his own lust, and enticed." Our desires
-       are both the bait and the hook.
-
-v.17 — NET: "Every good and perfect gift is from above, coming
-       down from the Father of lights" — "Father of lights"
-       (patros tOn phOtOn = Father of luminaries/heavenly bodies).
-       WEB: "the Father of lights." KJV: "the Father of lights."
-       God created the stars and is Himself pure light — no shadow.
-
-v.22 — NET: "But be sure you live out the message and do not
-       merely listen to it" — "live out" (poiEtai logou = doers of
-       the word). WEB: "be doers of the word." KJV: "be ye doers
-       of the word." The central command of James — faith produces
-       action or it is not real faith.
 
 GLOSSARY
 ------------------------------------

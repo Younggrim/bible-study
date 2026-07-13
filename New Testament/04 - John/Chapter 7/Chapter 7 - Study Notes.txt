@@ -83,7 +83,7 @@ Charles Spurgeon:
   what others say. Christ calls us to judge righteously — to look at the
   substance, not the surface."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "the Jews' feast of tabernacles" / ESV: "the Jews' Feast of Booths" — Greek "skenopegia" — KJV uses "tabernacles" (Latin-derived); ESV uses "Booths" (more literal translation of the Hebrew "sukkot"). Both refer to the same feast.
 
@@ -126,7 +126,6 @@ v.53–8:11 — KJV: includes the story of the woman caught in adultery as part 
        from the earliest manuscripts. NET includes them with
        brackets. WEB includes them. The passage is likely authentic
        tradition, though not originally part of John's Gospel.
-
 
 GLOSSARY
 ------------------------------------

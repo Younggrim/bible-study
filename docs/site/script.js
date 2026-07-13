@@ -69,3 +69,42 @@ function goToChapter() {
 function toggleTransInfo() {
     document.getElementById('transPopup').classList.toggle('show');
 }
+
+
+/* Translation Comparison — Filter Logic */
+function filterTranslations() {
+    // Get all checked translations
+    var checkboxes = document.querySelectorAll('.trans-filter input[type="checkbox"]');
+    var selected = [];
+    checkboxes.forEach(function(cb) {
+        if (cb.checked) selected.push(cb.value);
+    });
+
+    // Get all translation entry cards
+    var entries = document.querySelectorAll('.trans-entry');
+    entries.forEach(function(entry) {
+        var entryTrans = entry.getAttribute('data-translations').split(' ');
+
+        if (selected.length === 0) {
+            // Nothing selected — show all dimmed
+            entry.classList.add('dimmed');
+            entry.classList.remove('hidden');
+        } else if (entryTrans[0] === 'general') {
+            // Entries without specific translations always show
+            entry.classList.remove('dimmed');
+            entry.classList.remove('hidden');
+        } else {
+            // Check if any of the entry's translations are in the selected list
+            var hasMatch = entryTrans.some(function(t) {
+                return selected.indexOf(t) !== -1;
+            });
+            if (hasMatch) {
+                entry.classList.remove('dimmed');
+                entry.classList.remove('hidden');
+            } else {
+                entry.classList.add('dimmed');
+                entry.classList.remove('hidden');
+            }
+        }
+    });
+}

@@ -115,7 +115,7 @@ Charles Spurgeon:
  way to God. From far off to face to face. From enemies to children. From
  outside to inside. The cross is a bridge — and Christ carried us across."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "conversation" / ESV: "conduct" — Greek "anastrophē" — conduct,
  manner of life. A wife's godly conduct can win an unbelieving husband
@@ -125,6 +125,11 @@ v.4 — KJV: "meek and quiet spirit" / ESV: "gentle and quiet spirit" — Greek
  "praeos kai hēsuchiou pneumatos" — gentle and tranquil spirit. KJV:
  "of great price" / ESV: "very precious" — Greek "poluteles" — very
  costly, extremely valuable. God values inner beauty.
+       NET: "the hidden person of the heart, the imperishable
+       quality of a gentle and quiet spirit" — "imperishable"
+       (aphthartO = incorruptible/undecaying). WEB: "in the
+       incorruptible adornment of a gentle and quiet spirit." True
+       beauty is internal and eternal — it doesn't fade with age.
 
 v.7 — KJV: "according to knowledge" / ESV: "in an understanding way" —
  Greek "kata gnōsin" — with understanding, thoughtfully. Husbands must
@@ -139,17 +144,33 @@ v.15 — KJV: "sanctify the Lord God in your hearts" / ESV: "honor Christ the
  Root of "apologetics." Not apologizing but explaining. KJV: "meekness
  and fear" / ESV: "gentleness and respect" — gentleness toward the
  questioner and reverence toward God.
+       NET: "always be ready to give an answer to anyone who asks
+       about the hope you possess" — "answer" (apologian = defense/
+       reasoned explanation). WEB: "always be ready to give an
+       answer." KJV: "be ready always to give an answer." Not
+       aggressive argument but prepared, gentle explanation (v.16:
+       "with gentleness and respect").
 
 v.18 — KJV: "the just for the unjust" / ESV: "the righteous for the
  unrighteous" — Greek "dikaios huper adikōn" — the righteous one on
  behalf of the unrighteous. Substitution: He took our place. Purpose:
  "that he might bring us to God" — access, not just forgiveness.
+       NET: "Christ also suffered once for sins, the just for the
+       unjust" — "once" (hapax = once for all, unrepeatable). WEB:
+       "Christ also suffered for sins once, the righteous for the
+       unrighteous." The finality and sufficiency of Christ's one
+       sacrifice — never to be repeated.
 
 v.19 — KJV: "spirits in prison" / ESV: Both equivalent. — Highly debated.
  Main interpretations: (1) Christ's spirit preached through Noah to
  pre-flood people (now in prison), (2) Christ descended to Hades
  between death and resurrection to proclaim victory, (3) Christ
  proclaimed triumph to fallen angels. No consensus exists.
+       NET: "he went and preached to the spirits in prison" —
+       "spirits in prison" (tois en phylakE pneumasin) — one of
+       the most debated passages in the NT. WEB: "he went and
+       preached to the spirits in prison." Who, when, what, and
+       where are all debated. Context suggests Noah's generation.
 
 v.21 — KJV: "baptism doth also now save us" / ESV: "Baptism, which
  corresponds to this, now saves you" — Peter immediately clarifies: NOT
@@ -157,35 +178,7 @@ v.21 — KJV: "baptism doth also now save us" / ESV: "Baptism, which
  / ESV: "an appeal to God for a good conscience" — the inward reality
  that baptism symbolizes, made effective "by the resurrection of Jesus
  Christ."
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.4  — NET: "the hidden person of the heart, the imperishable
-       quality of a gentle and quiet spirit" — "imperishable"
-       (aphthartO = incorruptible/undecaying). WEB: "in the
-       incorruptible adornment of a gentle and quiet spirit." True
-       beauty is internal and eternal — it doesn't fade with age.
-
-v.15 — NET: "always be ready to give an answer to anyone who asks
-       about the hope you possess" — "answer" (apologian = defense/
-       reasoned explanation). WEB: "always be ready to give an
-       answer." KJV: "be ready always to give an answer." Not
-       aggressive argument but prepared, gentle explanation (v.16:
-       "with gentleness and respect").
-
-v.18 — NET: "Christ also suffered once for sins, the just for the
-       unjust" — "once" (hapax = once for all, unrepeatable). WEB:
-       "Christ also suffered for sins once, the righteous for the
-       unrighteous." The finality and sufficiency of Christ's one
-       sacrifice — never to be repeated.
-
-v.19 — NET: "he went and preached to the spirits in prison" —
-       "spirits in prison" (tois en phylakE pneumasin) — one of
-       the most debated passages in the NT. WEB: "he went and
-       preached to the spirits in prison." Who, when, what, and
-       where are all debated. Context suggests Noah's generation.
-
-v.21 — NET: "Baptism... now saves you — not the washing off of
+       NET: "Baptism... now saves you — not the washing off of
        physical dirt but the pledge of a good conscience to God" —
        "pledge" (eperOtEma = appeal/answer/commitment). WEB: "the
        interrogation of a good conscience toward God." KJV: "the

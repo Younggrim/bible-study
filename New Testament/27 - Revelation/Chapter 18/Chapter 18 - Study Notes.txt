@@ -66,7 +66,7 @@ Charles Spurgeon:
  Sermon: "Come Out of Her" on v.4 (MTP Vol. 14, No. 831)
  "Come OUT — not stay in and reform. Not stay in and protest. Come out. God's people must separate from the world system that opposes Him. Not physical isolation but spiritual distinction. You cannot share her sins and escape her plagues. Separation is not optional — it is commanded."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "the earth was lightened with his glory" / ESV: "the earth was
  made bright with his glory" — Both equivalent. The angel's glory
@@ -78,6 +78,10 @@ v.2 — KJV: "the habitation of devils, and the hold of every foul spirit,
  bird, a haunt for every unclean and detestable beast" — ESV uses
  "haunt" (Greek "phulakē" — prison/guard-post) for KJV's "hold" and
  "cage." ESV adds "detestable beast" following better manuscripts.
+       NET: "Fallen, fallen, is Babylon the great!" — doubled
+       "fallen" (epesen epesen — echoing 14:8 and Isaiah 21:9).
+       WEB: "Fallen, fallen is Babylon the great!" The announcement
+       made earlier is now executed — the verdict becomes reality.
 
 v.3 — KJV: "the wine of the wrath of her fornication" / ESV: "the wine of
  the passion of her sexual immorality" — ESV uses "passion" (Greek
@@ -89,6 +93,11 @@ v.4 — KJV: "Come out of her, my people, that ye be not partakers of her
  sins" — Both equivalent. Greek "exelthate" — aorist imperative: come
  out now, decisively. Echoes God's call to Lot (Gen 19), to Israel from
  Egypt, and to exiles from Babylon.
+       NET: "Come out of her, my people, so you will not
+       participate in her sins" — "come out" (exelthate = depart/
+       leave). WEB: "Come out of her, my people." KJV: "Come out
+       of her, my people." Echoing Jeremiah 51:45 and Isaiah 48:20
+       — separation before judgment falls.
 
 v.7 — KJV: "I sit a queen, and am no widow, and shall see no sorrow" / ESV:
  "I sit as a queen, I am no widow, and mourning I shall never see" —
@@ -99,6 +108,11 @@ v.8 — KJV: "strong is the Lord God who judgeth her" / ESV: "mighty is the
  Lord God who has judged her" — ESV uses past tense "has judged" (Greek
  "krinas" — aorist participle), emphasizing the certainty of the
  completed judgment.
+       NET: "For this reason, her plagues will come in a single
+       day" — "single day" (en mia hEmera = in one day). WEB: "in
+       one day her plagues will come." The swiftness of Babylon's
+       fall — she thought she was invincible (v.7: "I sit as queen
+       and will never see grief").
 
 v.10 — KJV: "Alas, alas, that great city Babylon, that mighty city!" / ESV:
  "Alas! Alas! You great city, you mighty city, Babylon!" — Both
@@ -120,6 +134,12 @@ v.20 — KJV: "Rejoice over her, thou heaven, and ye holy apostles and
  judgment for you against her!" — ESV adds "saints" and uses "given
  judgment for you against her" rather than "avenged you on her." ESV
  emphasizes judicial vindication rather than personal vengeance.
+       NET: "Rejoice over her, O heaven, and you saints and
+       apostles and prophets, for God has pronounced judgment
+       against her on your behalf!" — "pronounced judgment on your
+       behalf" (ekrinen ho theos to krima hymOn ex autEs). WEB:
+       "God has judged your judgment on her." Heaven rejoices
+       while earth mourns — perspectives depend on allegiance.
 
 v.21 — KJV: "with violence shall that great city Babylon be thrown down" /
  ESV: "So will Babylon the great city be thrown down with violence" —
@@ -134,34 +154,7 @@ v.24 — KJV: "in her was found the blood of prophets, and of saints, and of
  all that were slain upon the earth" / ESV: "in her was found the blood
  of prophets and of saints, and of all who have been slain on earth" —
  Both equivalent.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "Fallen, fallen, is Babylon the great!" — doubled
-       "fallen" (epesen epesen — echoing 14:8 and Isaiah 21:9).
-       WEB: "Fallen, fallen is Babylon the great!" The announcement
-       made earlier is now executed — the verdict becomes reality.
-
-v.4  — NET: "Come out of her, my people, so you will not
-       participate in her sins" — "come out" (exelthate = depart/
-       leave). WEB: "Come out of her, my people." KJV: "Come out
-       of her, my people." Echoing Jeremiah 51:45 and Isaiah 48:20
-       — separation before judgment falls.
-
-v.8  — NET: "For this reason, her plagues will come in a single
-       day" — "single day" (en mia hEmera = in one day). WEB: "in
-       one day her plagues will come." The swiftness of Babylon's
-       fall — she thought she was invincible (v.7: "I sit as queen
-       and will never see grief").
-
-v.20 — NET: "Rejoice over her, O heaven, and you saints and
-       apostles and prophets, for God has pronounced judgment
-       against her on your behalf!" — "pronounced judgment on your
-       behalf" (ekrinen ho theos to krima hymOn ex autEs). WEB:
-       "God has judged your judgment on her." Heaven rejoices
-       while earth mourns — perspectives depend on allegiance.
-
-v.24 — NET: "The blood of saints and prophets was found in her,
+       NET: "The blood of saints and prophets was found in her,
        and of all those who had been killed on the earth" — "all
        those killed" (pantOn tOn esphagmenOn). WEB: "the blood of
        prophets and of saints, and of all who have been slain on

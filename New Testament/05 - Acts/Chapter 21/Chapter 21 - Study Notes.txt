@@ -95,7 +95,7 @@ Charles Spurgeon:
   than their own understanding. That is the hardest prayer — releasing
   someone you love into God's will when God's will includes suffering."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.4  — KJV: "who said to Paul through the Spirit, that he should not go up
        to Jerusalem" / ESV: "through the Spirit they were telling Paul not to
@@ -103,6 +103,12 @@ v.4  — KJV: "who said to Paul through the Spirit, that he should not go up
        the disciples interpreted this as "don't go." Paul distinguished
        between the revelation (danger ahead) and the interpretation (therefore
        don't go).
+       NET: "they repeatedly told Paul through the Spirit not
+       to go to Jerusalem" — "through the Spirit" (dia tou
+       pneumatos) — the Spirit revealed the danger, but did the
+       Spirit forbid the trip? Paul went anyway. WEB: "through the
+       Spirit, that he should not go up to Jerusalem." A difficult
+       interpretive question.
 
 v.8  — KJV: "Philip the evangelist, which was one of the seven" / ESV:
        "Philip the evangelist, who was one of the seven" — Both identical.
@@ -113,23 +119,7 @@ v.11 — KJV: "Thus saith the Holy Ghost" / ESV: "Thus says the Holy Spirit"
        — Both equivalent ("Ghost"/"Spirit" = same Greek "pneuma"). Agabus'
        prophetic action (binding his own hands with Paul's belt) echoes OT
        prophets like Isaiah and Ezekiel who performed symbolic acts.
-
-v.24 — KJV: "purify thyself with them" / ESV: "purify yourself along with
-       them" — Both equivalent. James suggested Paul participate in a Jewish
-       purification ritual to demonstrate he wasn't anti-Jewish. Paul agreed
-       — consistent with his principle of becoming "all things to all men"
-       (1 Corinthians 9:22).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.4  — NET: "they repeatedly told Paul through the Spirit not
-       to go to Jerusalem" — "through the Spirit" (dia tou
-       pneumatos) — the Spirit revealed the danger, but did the
-       Spirit forbid the trip? Paul went anyway. WEB: "through the
-       Spirit, that he should not go up to Jerusalem." A difficult
-       interpretive question.
-
-v.11 — NET: "a prophet named Agabus came down from Judea... he
+       NET: "a prophet named Agabus came down from Judea... he
        took Paul's belt and tied his own hands and feet" — prophetic
        sign-act (like OT prophets). WEB: "binding his own feet and
        hands." KJV: "bound his own hands and feet." Visual prophecy
@@ -153,6 +143,12 @@ v.20 — NET: "You see, brother, how many thousands of Jews there
        myriads). WEB: "how many thousands there are among the Jews
        of those who have believed." Jewish Christianity was
        massive and law-observant.
+
+v.24 — KJV: "purify thyself with them" / ESV: "purify yourself along with
+       them" — Both equivalent. James suggested Paul participate in a Jewish
+       purification ritual to demonstrate he wasn't anti-Jewish. Paul agreed
+       — consistent with his principle of becoming "all things to all men"
+       (1 Corinthians 9:22).
 
 GLOSSARY
 ------------------------------------

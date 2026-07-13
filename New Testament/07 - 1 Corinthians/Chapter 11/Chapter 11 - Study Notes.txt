@@ -87,13 +87,17 @@ Charles Spurgeon:
   is for sinners who know they need grace, not for saints who think they
   deserve it."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.3  — KJV: "the head of every man is Christ; and the head of the woman is
        the man; and the head of Christ is God" — "Head" (kephalē) is debated:
        (1) authority/leadership, (2) source/origin. Most scholars favor
        "authority" — a chain of functional (not ontological) order.
+       NET: "But I want you to know that Christ is the head of
+       every man, and the man is the head of a woman, and God is
+       the head of Christ" — "head" (kephalE) — debated: authority?
+       source? preeminence? WEB: "the head of every man is Christ."
+       The meaning of kephalE drives the entire head covering debate.
 
 v.10 — KJV: "power on her head because of the angels" / ESV: "symbol of authority on her head, because of the angels" — One of the most
        difficult verses in the NT. "Power" likely means "a sign of authority"
@@ -103,25 +107,7 @@ v.10 — KJV: "power on her head because of the angels" / ESV: "symbol of author
 v.24 — KJV: "broken for you" — Some manuscripts omit "broken" (ESV: "which
        is for you"). Either way, Christ's body was given sacrificially for
        believers.
-
-v.27 — KJV: "unworthily" / ESV: "unworthy manner will be" — An adverb (manner) not an adjective (person).
-       It's not about being WORTHY (no one is) but about eating in an
-       UNWORTHY MANNER — selfishly, divisively, without discernment.
-
-v.29 — KJV: "not discerning the Lord's body" / ESV: "discerning the body eats and drinks" — Failing to recognize the
-       significance of what the bread and cup represent — and failing to
-       recognize the church as Christ's body (treating fellow believers with
-       contempt).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "But I want you to know that Christ is the head of
-       every man, and the man is the head of a woman, and God is
-       the head of Christ" — "head" (kephalE) — debated: authority?
-       source? preeminence? WEB: "the head of every man is Christ."
-       The meaning of kephalE drives the entire head covering debate.
-
-v.24 — NET: "This is my body that is for you. Do this in
+       NET: "This is my body that is for you. Do this in
        remembrance of me" — "for you" (to hyper hymOn). WEB: "This
        is my body, which is broken for you." KJV: "this is my
        body, which is broken for you." Some manuscripts omit
@@ -133,7 +119,15 @@ v.26 — NET: "For every time you eat this bread and drink the cup,
        pointing forward to the Marriage Supper of the Lamb. WEB:
        "until he comes." An eschatological ordinance.
 
-v.29 — NET: "For the one who eats and drinks without careful
+v.27 — KJV: "unworthily" / ESV: "unworthy manner will be" — An adverb (manner) not an adjective (person).
+       It's not about being WORTHY (no one is) but about eating in an
+       UNWORTHY MANNER — selfishly, divisively, without discernment.
+
+v.29 — KJV: "not discerning the Lord's body" / ESV: "discerning the body eats and drinks" — Failing to recognize the
+       significance of what the bread and cup represent — and failing to
+       recognize the church as Christ's body (treating fellow believers with
+       contempt).
+       NET: "For the one who eats and drinks without careful
        regard for the body eats and drinks judgment against himself"
        — "without careful regard for the body" (mE diakrinOn to
        sOma = not discerning the body). WEB: "not discerning the

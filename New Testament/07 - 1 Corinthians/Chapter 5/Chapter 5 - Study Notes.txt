@@ -87,9 +87,8 @@ Charles Spurgeon:
   lamb was killed so Israel could leave Egypt — Christ was killed so you
   could leave sin. Don't go back to Egypt."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "his father's wife" / ESV: "father’s wife" — Not his biological mother but his
        stepmother. Still a violation of Leviticus 18:8 and shocking even
        by pagan standards.
@@ -98,18 +97,7 @@ v.5  — KJV: "deliver such an one unto Satan" / ESV: "you are to deliver this m
        the person from the church's spiritual protection into the world
        (Satan's domain). The purpose: "that the spirit may be saved" —
        redemptive, not punitive.
-
-v.7  — KJV: "Christ our passover" / ESV: "For Christ, our Passover lamb, has" — Greek "pascha" — Passover. Christ
-       fulfills the Passover lamb — sacrificed so that judgment passes over
-       believers. This is the theological basis for holy living.
-
-v.11 — KJV: "no not to eat" / ESV: "to eat with such a one" — Not even sharing a meal. In the ancient world,
-       eating together signified fellowship and acceptance. Refusing to eat
-       with someone was a powerful statement of separation.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.5  — NET: "hand this man over to Satan for the destruction
+       NET: "hand this man over to Satan for the destruction
        of the flesh, so that his spirit may be saved in the day of
        the Lord" — "destruction of the flesh" (olethron tEs sarkos)
        — debated: physical suffering? death? removal of fleshly
@@ -122,14 +110,20 @@ v.6  — NET: "Your boasting is not good. Don't you know that a
        lump." KJV: "a little leaven leaveneth the whole lump."
        Tolerated sin spreads — no contamination stays contained.
 
-v.7  — NET: "Clean out the old yeast so that you may be a new
+v.7  — KJV: "Christ our passover" / ESV: "For Christ, our Passover lamb, has" — Greek "pascha" — Passover. Christ
+       fulfills the Passover lamb — sacrificed so that judgment passes over
+       believers. This is the theological basis for holy living.
+       NET: "Clean out the old yeast so that you may be a new
        batch of dough — you are, in fact, without yeast. For Christ,
        our Passover lamb, has been sacrificed" — "Christ our
        Passover" (to pascha hEmOn Christos). WEB: "our Passover,
        Christ, has been sacrificed." The Exodus imagery applied to
        the cross.
 
-v.11 — NET: "not to associate with anyone who calls himself a
+v.11 — KJV: "no not to eat" / ESV: "to eat with such a one" — Not even sharing a meal. In the ancient world,
+       eating together signified fellowship and acceptance. Refusing to eat
+       with someone was a powerful statement of separation.
+       NET: "not to associate with anyone who calls himself a
        Christian who is sexually immoral, or greedy, or an idolater"
        — "calls himself a Christian" (onomazomenos adelphos = named
        a brother). WEB: "anyone who is called a brother." The

@@ -139,7 +139,7 @@ Charles Spurgeon:
   poll. He declares his allegiance and invites others to follow. This is
   leadership. This is faith. This is the courage of conviction that
   changes nations."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "on the other side of the flood" / ESV: "beyond the
        Euphrates" — Hebrew "b'ever ha-nahar." "Nahar" = river (the
@@ -198,56 +198,6 @@ v.32 — KJV: "for an hundred pieces of silver" / ESV: "for a hundred
        ancient unit of value — its exact worth is unknown. KJV's
        "silver" is interpretive; ESV's "money" is more cautious. The
        term appears only here, Genesis 33:19, and Job 42:11.
-
-GLOSSARY
-------------------------------------
-Shechem        — A city in the central hill country between Mount Ebal
-               and Mount Gerizim. One of the most historically
-               significant sites in Israel: Abraham's first altar
-               (Genesis 12:6-7), Jacob's well and land purchase (Genesis
-               33:18-19), the covenant renewal here, and later the
-               first capital of the northern kingdom (1 Kings 12:25).
-
-Choose (bachar) — To select, prefer, decide for. In Hebrew thought,
-               choosing is not merely intellectual preference but
-               decisive commitment expressed in action. To "choose" God
-               means to serve Him exclusively.
-
-Sincerity (tamim) — Completeness, wholeness, integrity. The same word
-               used for unblemished sacrificial animals. Service to God
-               must be whole — not partial, not divided, not defective.
-
-Jealous God (El qanna) — God's jealousy is not petty envy but the
-               righteous demand of exclusive devotion from those in
-               covenant with Him. As a husband rightly demands his
-               wife's exclusive love, God demands His people's exclusive
-               worship.
-
-Servant of the LORD (eved YHWH) — The highest title given to God's
-               chosen leaders: Moses (Deuteronomy 34:5), Joshua (24:29),
-               David (Psalm 36 title), and ultimately the Messiah
-               (Isaiah 42:1; 52:13). It denotes both humble submission
-               and honored commission.
-
-Joseph's Bones — Joseph made Israel swear to carry his bones back to
-               Canaan (Genesis 50:25). Moses took them from Egypt
-               (Exodus 13:19). Now, after the conquest, they are finally
-               buried at Shechem — in the land Jacob purchased (Genesis
-               33:19). A 400-year promise fulfilled.
-
-Terebinth (elah) — A large, long-lived tree common in Canaan. Often
-               associated with sacred sites. The terebinth at Shechem
-               was likely ancient and well-known — a landmark for
-               covenant ceremonies.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.14 — ASV: "Now therefore fear Jehovah, and serve him in sincerity and in truth" / WEB: "Now therefore fear Yahweh, and serve him in sincerity and in truth" / NET: "Now obey the Lord and worship him with integrity and loyalty" — NET renders "fear" (yara) as "obey" and "serve" (avad) as "worship," losing both the reverent awe of "fear" and the active service of "avad." NET also replaces "sincerity and truth" (tamim ve-emet) with "integrity and loyalty."
-- v.15 — ASV: "choose you this day whom ye will serve...but as for me and my house, we will serve Jehovah" / WEB: "choose today whom you will serve...But as for me and my house, we will serve Yahweh" / NET: "choose today whom you will worship...But I and my family will worship the Lord" — NET replaces "serve" (avad) with "worship." The Hebrew "avad" means to serve/work for — it encompasses all of life, not just acts of worship. Joshua's declaration is about total life-service, not just religious observance.
-- v.19 — ASV: "Ye cannot serve Jehovah; for he is a holy God; he is a jealous God; he will not forgive your transgression nor your sins" / NET: "You will not keep worshiping the Lord, for he is a holy God. He is a jealous God who will not forgive your rebellion or your sins" — NET softens "ye cannot serve" (lo tukh'lu — you are unable) to "you will not keep worshiping" (future prediction). Joshua's statement is stronger: you are incapable without divine grace. Also, NET changes "transgression" (pesha — rebellion) to "rebellion" — actually accurate here.
-- v.23 — ASV: "put away the foreign gods which are among you, and incline your heart unto Jehovah, the God of Israel" / NET: "Now put aside the foreign gods that are among you and submit to the Lord God of Israel" — ASV's "incline your heart" (Hebrew "natah" — to stretch, bend, incline) is a beautiful image of the will being drawn toward God. NET's "submit" captures obedience but loses the internal, voluntary drawing of the heart.
-- v.25 — ASV: "So Joshua made a covenant with the people that day, and set them a statute and an ordinance" / NET: "That day Joshua drew up an agreement for the people, and he established rules and regulations" — NET's "agreement, rules and regulations" is modern and contractual. ASV/KJV's "covenant, statute, and ordinance" preserves the sacred-legal vocabulary of Israel's relationship with God (b'rit, choq, mishpat).
-- v.29 — ASV: "Joshua the son of Nun, the servant of Jehovah, died" / WEB: "Joshua the son of Nun, the servant of Yahweh, died" / NET: "Joshua son of Nun, the Lord's servant, died" — Joshua's final title matches Moses' ("servant of YHWH"). The divine name in ASV/WEB makes this honorific more personal and weighty than NET's "the Lord's servant."
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

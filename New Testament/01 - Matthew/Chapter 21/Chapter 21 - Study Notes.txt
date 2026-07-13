@@ -91,33 +91,21 @@ Charles Spurgeon:
   priests. They examined Him and said 'This stone does not fit our building.'
   And God made Him the cornerstone — the most important stone of all."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.5  — KJV: "meek, and sitting upon an ass" — ESV: "humble, and mounted on
        a donkey" — Greek "praus" — the same word used in the Beatitudes
        (Matthew 5:5). The King comes in controlled strength, not military
        aggression.
-
-v.9  — KJV: "Hosanna" / ESV: "Hosanna" — Both identical. Hebrew "hoshia na"
-       — "Save now!" Originally a cry for help (Psalm 118:25); by Jesus' time
-       it had become a shout of praise and messianic acclamation.
-
-v.13 — KJV: "a den of thieves" — ESV: "a den of robbers" — Greek "lēstōn"
-       — robbers/bandits, not petty thieves. The Temple merchants were
-       exploiting worshippers through inflated prices and dishonest exchange
-       rates.
-
-v.42 — KJV: "head of the corner" — ESV: "cornerstone" — The stone that
-       anchors and aligns the entire building. Christ is the foundation
-       and standard by which everything else is measured.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.5  — NET: "your king is coming to you, gentle and riding on
+       NET: "your king is coming to you, gentle and riding on
        a donkey" — quoting Zechariah 9:9. "Gentle" (prays =
        humble/meek). WEB: "humble, and riding on a donkey." KJV:
        "meek, and sitting upon an ass." The King enters not on a
        war horse but a beast of peace.
+
+v.9  — KJV: "Hosanna" / ESV: "Hosanna" — Both identical. Hebrew "hoshia na"
+       — "Save now!" Originally a cry for help (Psalm 118:25); by Jesus' time
+       it had become a shout of praise and messianic acclamation.
 
 v.12 — NET: "My house will be called a house of prayer, but you
        are turning it into a den of robbers!" — "den of robbers"
@@ -125,12 +113,20 @@ v.12 — NET: "My house will be called a house of prayer, but you
        robbers!" KJV: "a den of thieves." A robbers' den is where
        they hide AFTER crimes — the temple as cover for exploitation.
 
+v.13 — KJV: "a den of thieves" — ESV: "a den of robbers" — Greek "lēstōn"
+       — robbers/bandits, not petty thieves. The Temple merchants were
+       exploiting worshippers through inflated prices and dishonest exchange
+       rates.
+
 v.16 — NET: "Out of the mouths of children and nursing infants
        you have prepared praise for yourself" — quoting Psalm 8:2.
        WEB: "Out of the mouth of babes and nursing babies." Children
        praise what the religious leaders refuse to acknowledge.
 
-v.42 — NET: "The stone the builders rejected has become the
+v.42 — KJV: "head of the corner" — ESV: "cornerstone" — The stone that
+       anchors and aligns the entire building. Christ is the foundation
+       and standard by which everything else is measured.
+       NET: "The stone the builders rejected has become the
        cornerstone" — quoting Psalm 118:22. "Cornerstone"
        (kephalEn gOnias = head of the corner). WEB: "The stone
        which the builders rejected was made the head of the corner."

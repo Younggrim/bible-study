@@ -91,7 +91,7 @@ Charles Spurgeon:
   they did. Both heard the same words. One obeyed; one did not. The storm
   revealed the difference. Your storm is coming — what is your foundation?"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "the second sabbath after the first" / ESV: "On a Sabbath" —
        This phrase is textually uncertain (absent from many manuscripts).
@@ -103,21 +103,7 @@ v.20 — KJV: "Blessed be ye poor" / ESV: "Blessed are you who are poor" —
        in spirit." Luke likely preserves Jesus' original words to a specific
        audience of literally poor disciples, while Matthew expands the
        principle for a broader audience.
-
-v.36 — KJV: "Be ye therefore merciful" / ESV: "Be merciful, even as your
-       Father is merciful" — Both equivalent. Matthew 5:48: "Be ye therefore
-       perfect." Luke emphasizes mercy; Matthew emphasizes completeness. Both
-       are aspects of the same call — to reflect the Father's character.
-
-v.38 — KJV: "good measure, pressed down, and shaken together, and running
-       over" / ESV: "Good measure, pressed down, shaken together, running
-       over" — Both identical. Imagery from the grain market. When measuring
-       grain, a generous seller would press it down, shake it to settle, and
-       let it overflow. God's generosity exceeds our giving.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.20 — NET: "Blessed are you who are poor, for the kingdom of
+       NET: "Blessed are you who are poor, for the kingdom of
        God belongs to you" — Luke's version is "you who ARE poor"
        (direct address, second person) vs. Matthew's "the poor in
        spirit." The social dimension is more prominent in Luke.
@@ -139,7 +125,17 @@ v.35 — NET: "love your enemies, and do good, and lend, expecting
        apelpizontes). KJV: "hoping for nothing again." WEB: "lend,
        expecting nothing back." Generosity without calculation.
 
-v.38 — NET: "Give, and it will be given to you: A good measure,
+v.36 — KJV: "Be ye therefore merciful" / ESV: "Be merciful, even as your
+       Father is merciful" — Both equivalent. Matthew 5:48: "Be ye therefore
+       perfect." Luke emphasizes mercy; Matthew emphasizes completeness. Both
+       are aspects of the same call — to reflect the Father's character.
+
+v.38 — KJV: "good measure, pressed down, and shaken together, and running
+       over" / ESV: "Good measure, pressed down, shaken together, running
+       over" — Both identical. Imagery from the grain market. When measuring
+       grain, a generous seller would press it down, shake it to settle, and
+       let it overflow. God's generosity exceeds our giving.
+       NET: "Give, and it will be given to you: A good measure,
        pressed down, shaken together, running over, will be poured
        into your lap" — "poured into your lap" refers to the fold
        of a robe used as a pouch. WEB: "pressed down, shaken

@@ -178,7 +178,7 @@ Charles Spurgeon:
   preparation, and trust that when God's time is ripe, the work
   will advance with a speed that amazes all observers."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.5  — KJV: "carry forth the filthiness out of the holy place" /
        ESV: "carry out the filth from the Holy Place" — Hebrew
@@ -196,6 +196,14 @@ v.11 — KJV: "be not now negligent" / ESV: "do not now be
        is over. After years of enforced inactivity under Ahaz,
        the Levites must now actively engage their calling without
        delay or halfheartedness.
+
+v.25 — KJV: "psalteries" / ESV: "lyres" — Hebrew "nevalim"
+       (a stringed instrument, likely a lyre or harp). KJV's
+       "psaltery" (from Greek "psalterion") and ESV's "lyre" both
+       refer to a stringed instrument plucked with the fingers.
+       The "nevel" was likely larger than the "kinnor" (harp/lyre)
+       and produced a deeper tone. ESV's "lyre" is more accessible
+       to modern readers.
 
 v.34 — KJV: "the Levites were more upright in heart to sanctify
        themselves than the priests" / ESV: "the Levites were more
@@ -215,14 +223,6 @@ v.36 — KJV: "God had prepared the people" / ESV: "God had provided
        ESV's "provided" emphasizes divine provision enabling the
        response. The Hebrew supports both nuances — God both
        prepared their hearts and provided the means for worship.
-
-v.25 — KJV: "psalteries" / ESV: "lyres" — Hebrew "nevalim"
-       (a stringed instrument, likely a lyre or harp). KJV's
-       "psaltery" (from Greek "psalterion") and ESV's "lyre" both
-       refer to a stringed instrument plucked with the fingers.
-       The "nevel" was likely larger than the "kinnor" (harp/lyre)
-       and produced a deeper tone. ESV's "lyre" is more accessible
-       to modern readers.
 
 GLOSSARY
 ------------------------------------

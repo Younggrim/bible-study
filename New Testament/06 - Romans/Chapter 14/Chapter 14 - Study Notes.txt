@@ -99,64 +99,56 @@ Charles Spurgeon:
   if your conscience condemns you, it is sin FOR YOU. Faith must undergird
   every action."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "doubtful disputations" — ESV: "quarreling over opinions" —
        Don't receive weak believers just to argue with them about their
        scruples. Welcome them without making their convictions a debate topic.
-
-v.5  — KJV: "Let every man be fully persuaded in his own mind" / ESV: "days alike. Each one should be fully convinced in his own mind" — In matters
-       of conscience (not clear commands), each person must be convinced in
-       their own mind. Don't violate your conscience — and don't impose yours
-       on others.
-
-v.10 — KJV: "the judgment seat of Christ" / ESV: "before the judgment seat of God" — Greek "bēma" — the raised
-       platform where a judge sat. For believers, this is not about salvation
-       (settled at the cross) but about rewards and accountability for how
-       we lived.
-
-v.17 — KJV: "righteousness, and peace, and joy in the Holy Ghost" / ESV: "and drinking but of righteousness and peace and joy in the Holy" — The three
-       marks of the kingdom: right relationship with God, harmony with others,
-       and Spirit-produced gladness. These matter more than any external rule.
-
-v.23 — KJV: "whatsoever is not of faith is sin" / ESV: "For whatever does not proceed from faith is sin" — The broadest definition of
-       sin in the Bible: anything done without faith — without confidence that
-       it pleases God — is sin.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "Now accept the one who is weak in faith, and do
+       NET: "Now accept the one who is weak in faith, and do
        not have disputes over differing opinions" — "weak in faith"
        — not morally weak but with a sensitive/immature conscience.
        WEB: "accept him who is weak in faith." KJV: "Him that is
        weak in the faith receive ye." Welcome without argument.
 
-v.5  — NET: "One person regards one day holier than other days,
+v.5  — KJV: "Let every man be fully persuaded in his own mind" / ESV: "days alike. Each one should be fully convinced in his own mind" — In matters
+       of conscience (not clear commands), each person must be convinced in
+       their own mind. Don't violate your conscience — and don't impose yours
+       on others.
+       NET: "One person regards one day holier than other days,
        and another regards them all alike. Each must be fully
        convinced in his own mind" — "fully convinced" (plErophoreisthO
        = carry to full assurance). WEB: "Let each man be fully
        assured in his own mind." Conviction, not conformity.
 
-v.10 — NET: "For we will all stand before the judgment seat of
+v.10 — KJV: "the judgment seat of Christ" / ESV: "before the judgment seat of God" — Greek "bēma" — the raised
+       platform where a judge sat. For believers, this is not about salvation
+       (settled at the cross) but about rewards and accountability for how
+       we lived.
+       NET: "For we will all stand before the judgment seat of
        God" — "judgment seat" (bEmati = tribunal/platform). WEB:
        "we will all stand before the judgment seat of Christ." Some
        manuscripts: "of God" (NET) vs. "of Christ" (WEB/KJV).
        Either way — divine evaluation of believers.
 
-v.17 — NET: "For the kingdom of God does not consist of food and
+v.17 — KJV: "righteousness, and peace, and joy in the Holy Ghost" / ESV: "and drinking but of righteousness and peace and joy in the Holy" — The three
+       marks of the kingdom: right relationship with God, harmony with others,
+       and Spirit-produced gladness. These matter more than any external rule.
+       NET: "For the kingdom of God does not consist of food and
        drink, but righteousness, peace, and joy in the Holy Spirit"
        — the kingdom's essence defined. WEB: "the Kingdom of God
        is not eating and drinking, but righteousness, peace, and
        joy in the Holy Spirit." Not dietary rules but Spirit-fruit.
 
-v.23 — NET: "everything that does not come from faith is sin" —
+v.23 — KJV: "whatsoever is not of faith is sin" / ESV: "For whatever does not proceed from faith is sin" — The broadest definition of
+       sin in the Bible: anything done without faith — without confidence that
+       it pleases God — is sin.
+       NET: "everything that does not come from faith is sin" —
        the chapter's conclusion and one of the most sweeping
        ethical principles in Scripture. WEB: "whatever is not of
        faith is sin." KJV: "whatsoever is not of faith is sin."
        If you can't do it in good conscience before God, don't.
 
-NOTE ON VERSE COUNT DIFFERENCES: The WEB translation includes 26 verses in
+       NOTE ON VERSE COUNT DIFFERENCES: The WEB translation includes 26 verses in
        Romans 14, while ESV, KJV, ASV, and NET include only 23. This is because
        some ancient manuscripts place the doxology of Romans 16:25-27 ("Now to
        him who is able to strengthen you...") after 14:23, reflecting an early

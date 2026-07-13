@@ -84,8 +84,14 @@ Charles Spurgeon:
   obedience, a tribune's caution. God doesn't always use miracles; He
   often uses people."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.1  — NET: "I have lived my life with a clear conscience
+       before God to this day" — "clear conscience" (syneidEsei
+       agathE = good conscience). WEB: "I have lived before God in
+       all good conscience until today." KJV: "I have lived in all
+       good conscience before God until this day."
+
 v.3  — KJV: "thou whited wall" / ESV: "you whitewashed wall" — Both
        equivalent. Paul calls the high priest a "whitewashed wall" — the same
        image Jesus used for the Pharisees (Matthew 23:27). Beautiful outside,
@@ -102,21 +108,7 @@ v.6  — KJV: "the hope and resurrection of the dead" / ESV: "the hope and
        the resurrection of the dead" — Both identical. Paul frames the issue
        as resurrection — which divides Pharisees (who believe in it) from
        Sadducees (who don't). Strategically brilliant.
-
-v.11 — KJV: "the Lord stood by him" / ESV: "the Lord stood by him" — Both
-       identical. The risen Christ personally appeared to Paul in prison.
-       This is not a vision or a feeling — it is a personal visitation.
-       "Must" (dei) — divine necessity. Paul WILL reach Rome.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "I have lived my life with a clear conscience
-       before God to this day" — "clear conscience" (syneidEsei
-       agathE = good conscience). WEB: "I have lived before God in
-       all good conscience until today." KJV: "I have lived in all
-       good conscience before God until this day."
-
-v.6  — NET: "I am on trial concerning the hope of the resurrection
+       NET: "I am on trial concerning the hope of the resurrection
        of the dead!" — Paul's masterstroke — splitting the council
        between Pharisees (who believed in resurrection) and
        Sadducees (who didn't). WEB: "concerning the hope and
@@ -128,7 +120,11 @@ v.8  — NET: "the Sadducees say there is no resurrection, or
        say that there is no resurrection, nor angel, nor spirit."
        The Sadducees denied the supernatural realm entirely.
 
-v.11 — NET: "The following night the Lord stood near Paul and
+v.11 — KJV: "the Lord stood by him" / ESV: "the Lord stood by him" — Both
+       identical. The risen Christ personally appeared to Paul in prison.
+       This is not a vision or a feeling — it is a personal visitation.
+       "Must" (dei) — divine necessity. Paul WILL reach Rome.
+       NET: "The following night the Lord stood near Paul and
        said, 'Have courage, for just as you have testified about
        me in Jerusalem, so you must also testify in Rome'" — "you
        MUST" (dei = divine necessity). WEB: "you must testify also

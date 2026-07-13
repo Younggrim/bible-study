@@ -110,7 +110,7 @@ Charles Spurgeon:
  works cannot condemn you. If your name is NOT in the book of life, the
  books of works WILL condemn you."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "the key of the bottomless pit and a great chain in his hand" /
  ESV: "holding in his hand the key to the bottomless pit and a great
@@ -124,6 +124,11 @@ v.2 — KJV: "he laid hold on the dragon, that old serpent, which is the
  hold") and "ancient" (Greek "archaios") rather than "old." Greek "chilia
  etē" — mentioned six times in this chapter. Whether literal or symbolic
  is the central millennial debate.
+       NET: "He seized the dragon — the ancient serpent, who
+       is the devil and Satan — and tied him up for a thousand
+       years" — four titles identifying the enemy: dragon, ancient
+       serpent, devil (diabolos = accuser), Satan (satanas =
+       adversary). WEB: "bound him for a thousand years."
 
 v.3 — KJV: "that he should deceive the nations no more, till the thousand
  years should be fulfilled" / ESV: "so that he might not deceive the
@@ -136,11 +141,23 @@ v.4 — KJV: "they lived and reigned with Christ a thousand years" / ESV:
  first resurrection" — the bodily resurrection of believers. "First" in
  quality (blessed) and sequence (before the general resurrection of the
  wicked).
+       NET: "they came to life and reigned with Christ for a
+       thousand years" — "came to life" (ezEsan = lived/came alive).
+       WEB: "they lived and reigned with Christ for a thousand
+       years." KJV: "they lived and reigned with Christ." The "first
+       resurrection" — whether literal/physical or spiritual is
+       the key millennial debate.
 
 v.6 — KJV: "Blessed and holy is he that hath part in the first
  resurrection: on such the second death hath no power" / ESV: "Blessed
  and holy is the one who shares in the first resurrection! Over such the
  second death has no power" — Both equivalent.
+       NET: "Blessed and holy is the one who takes part in the
+       first resurrection" — the fifth beatitude. "The second death
+       has no power over them" (ho deuteros thanatos ouk echei
+       exousian). WEB: "the second death has no power over them."
+       Immunity from eternal death through participation in the
+       first resurrection.
 
 v.8 — KJV: "Gog and Magog, to gather them together to battle: the number of
  whom is as the sand of the sea" / ESV: "Gog and Magog, to gather them
@@ -169,6 +186,12 @@ v.12 — KJV: "the dead, small and great, stand before God" / ESV: "the dead,
  ("great and small") and says "throne" rather than "God" (following
  better manuscripts). The books = records of every person's deeds. The
  book of life = God's register of the redeemed.
+       NET: "I saw the dead, the great and the small, standing
+       before the throne, and books were opened" — "books" (biblia)
+       — records of deeds; and "the book of life" (biblos tEs zOEs)
+       — the register of the saved. WEB: "the dead, the great and
+       the small, standing before the throne." Universal judgment —
+       no exceptions.
 
 v.13 — KJV: "death and hell delivered up the dead which were in them" / ESV:
  "Death and Hades gave up the dead who were in them" — ESV uses "Hades"
@@ -187,37 +210,7 @@ v.15 — KJV: "whosoever was not found written in the book of life was cast
  into the lake of fire" / ESV: "if anyone's name was not found written in
  the book of life, he was thrown into the lake of fire" — Both
  equivalent. The decisive factor at judgment: is your name written there?
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "He seized the dragon — the ancient serpent, who
-       is the devil and Satan — and tied him up for a thousand
-       years" — four titles identifying the enemy: dragon, ancient
-       serpent, devil (diabolos = accuser), Satan (satanas =
-       adversary). WEB: "bound him for a thousand years."
-
-v.4  — NET: "they came to life and reigned with Christ for a
-       thousand years" — "came to life" (ezEsan = lived/came alive).
-       WEB: "they lived and reigned with Christ for a thousand
-       years." KJV: "they lived and reigned with Christ." The "first
-       resurrection" — whether literal/physical or spiritual is
-       the key millennial debate.
-
-v.6  — NET: "Blessed and holy is the one who takes part in the
-       first resurrection" — the fifth beatitude. "The second death
-       has no power over them" (ho deuteros thanatos ouk echei
-       exousian). WEB: "the second death has no power over them."
-       Immunity from eternal death through participation in the
-       first resurrection.
-
-v.12 — NET: "I saw the dead, the great and the small, standing
-       before the throne, and books were opened" — "books" (biblia)
-       — records of deeds; and "the book of life" (biblos tEs zOEs)
-       — the register of the saved. WEB: "the dead, the great and
-       the small, standing before the throne." Universal judgment —
-       no exceptions.
-
-v.15 — NET: "If anyone's name was not found written in the book
+       NET: "If anyone's name was not found written in the book
        of life, that person was thrown into the lake of fire" —
        "lake of fire" (limnEn tou pyros = the burning lake). WEB:
        "cast into the lake of fire." The final destiny of all whose

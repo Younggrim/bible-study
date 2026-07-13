@@ -91,7 +91,7 @@ v.8   — Revelation 11:15 — "The kingdoms of this world are become
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "congregation of the mighty" / ESV: "divine council" —
       Hebrew "adat-El" = assembly/congregation of God. ESV's
@@ -104,20 +104,6 @@ v.5 — KJV: "all the foundations of the earth are out of course" /
       justice fails, the very structures of society and creation
       are destabilized. Injustice is cosmic disruption, not merely
       social inconvenience.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — KJV: "congregation of the mighty" / ASV: "congregation of God" / NET: "assembly of El" / WEB: "the great assembly" — Four different renderings of the Hebrew. NET uniquely retains the Hebrew divine name "El," showing this is God's own assembly. WEB's "great assembly" loses the divine ownership entirely.
-
-- v.1 — NET: "in the midst of the gods he renders judgment" — NET keeps "gods" (elohim) untranslated as divine beings, preserving the theological tension. All four translations retain "gods" here, unlike v.1a where they diverge.
-
-- v.2 — NET: "make unjust legal decisions and show favoritism to the wicked" / KJV: "judge unjustly, and accept the persons of the wicked" — NET interprets "accept the persons" (Hebrew: show partiality) as courtroom "favoritism," making the legal-judicial context explicit.
-
-- v.5 — KJV: "all the foundations of the earth are out of course" / ASV: "All the foundations of the earth are shaken" / NET: "all the foundations of the earth crumble" / WEB: "All the foundations of the earth are shaken" — NET intensifies to "crumble" (destruction), while KJV's "out of course" suggests disorientation. ASV/WEB's "shaken" is between the two.
-
-- v.6 — NET: "I thought, 'You are gods'" / KJV: "I have said, Ye are gods" — NET's "I thought" rather than "I said" subtly changes the meaning — suggesting God reconsidered His assessment rather than making a formal declaration. This is significant for the John 10:34 citation.
-
-- v.8 — NET: "For you own all the nations" / KJV: "for thou shalt inherit all nations" / WEB: "for you inherit all of the nations" — NET shifts from future inheritance to present ownership. KJV/ASV/WEB maintain the eschatological future ("shalt inherit"), while NET treats it as accomplished fact.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

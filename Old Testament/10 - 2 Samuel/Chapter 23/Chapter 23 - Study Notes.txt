@@ -159,7 +159,7 @@ Charles Spurgeon:
   been faithful.' Not 'my house is perfect' but 'His covenant is
   sure.' Rest there, beloved. Rest on the everlasting covenant,
   ordered in all things and sure."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "the sweet psalmist of Israel" / ESV: "the sweet
        psalmist of Israel" — Hebrew "ne'im zemirot Yisrael."
@@ -182,6 +182,14 @@ v.5  — KJV: "Although my house be not so with God; yet he hath
        confesses failure yet trusts the covenant. The ESV reading
        emphasizes confidence. Both are grammatically possible.
 
+v.6  — KJV: "the sons of Belial" / ESV: "worthless men" —
+       Hebrew "beliya'al" = worthlessness, wickedness. KJV
+       transliterates it as a proper name ("Belial"), which later
+       became a title for Satan (2 Corinthians 6:15). ESV
+       translates the meaning: "worthless men." Both are valid
+       approaches — KJV preserves the Hebrew term; ESV gives the
+       English meaning.
+
 v.8  — KJV: "The Tachmonite that sat in the seat, chief among
        the captains; the same was Adino the Eznite" / ESV:
        "Josheb-basshebeth a Tahchemonite; he was chief of the
@@ -192,14 +200,6 @@ v.8  — KJV: "The Tachmonite that sat in the seat, chief among
        does not appear in Chronicles; "Jashobeam" is the parallel
        name. "Eight hundred" (here) vs. "three hundred"
        (Chronicles) is another textual discrepancy.
-
-v.6  — KJV: "the sons of Belial" / ESV: "worthless men" —
-       Hebrew "beliya'al" = worthlessness, wickedness. KJV
-       transliterates it as a proper name ("Belial"), which later
-       became a title for Satan (2 Corinthians 6:15). ESV
-       translates the meaning: "worthless men." Both are valid
-       approaches — KJV preserves the Hebrew term; ESV gives the
-       English meaning.
 
 v.20 — KJV: "two lionlike men of Moab" / ESV: "two ariels of
        Moab" — Hebrew "shenei ariel Moab." The meaning of "ariel"

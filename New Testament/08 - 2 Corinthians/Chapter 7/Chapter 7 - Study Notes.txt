@@ -79,23 +79,12 @@ Charles Spurgeon:
   sorrow — he was sorry he had denied his Lord. One hanged himself; the
   other was restored."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "perfecting holiness" / ESV: "holiness to completion" — Greek "epitelountes" — completing,
        bringing to maturity. Holiness is not instant — it is progressively
        perfected through active effort.
-
-v.10 — KJV: "not to be repented of" — ESV: "without regret" — Godly sorrow
-       produces repentance you never regret. You never look back and wish
-       you hadn't repented.
-
-v.11 — KJV: "revenge" — ESV: "punishment" — Not personal vengeance but
-       willingness to see justice done — to punish the wrong and make it right.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "let us cleanse ourselves from everything that
+       NET: "let us cleanse ourselves from everything that
        could defile the body and the spirit" — "body and spirit"
        (sarkos kai pneumatos = flesh and spirit). WEB: "cleansing
        ourselves from all defilement of flesh and spirit." Holiness
@@ -113,13 +102,18 @@ v.9  — NET: "not because you were made sad, but because your
        repentance." Godly grief produces change; worldly grief
        produces death (v.10).
 
-v.10 — NET: "For sadness as intended by God produces a repentance
+v.10 — KJV: "not to be repented of" — ESV: "without regret" — Godly sorrow
+       produces repentance you never regret. You never look back and wish
+       you hadn't repented.
+       NET: "For sadness as intended by God produces a repentance
        that leads to salvation, leaving no regret, but worldly
        sadness brings about death" — "leaving no regret" (ametamelEton
        = without regret/irrevocable). WEB: "repentance to salvation,
        which brings no regret." True repentance never regrets itself.
 
-v.11 — NET: "what eagerness, what defense of yourselves, what
+v.11 — KJV: "revenge" — ESV: "punishment" — Not personal vengeance but
+       willingness to see justice done — to punish the wrong and make it right.
+       NET: "what eagerness, what defense of yourselves, what
        indignation, what alarm, what longing, what zeal, what
        justice!" — seven marks of genuine repentance listed in
        rapid succession. WEB: "what earnest care it worked in you."

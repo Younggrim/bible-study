@@ -102,33 +102,13 @@ Charles Spurgeon:
   our sin. It drove us to Christ — and once we arrive at Christ, the
   schoolmaster's job is done."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "O foolish Galatians" / ESV: Both equivalent. — Greek "anoētoi" — senseless, thoughtless,
        not using their minds. Paul is not calling them stupid — he's saying
        they're not thinking clearly. They've been "bewitched" (fascinated,
        deceived).
-
-v.10 — KJV: "under the curse" / ESV: "are under a curse" — Anyone who relies on law-keeping for
-       righteousness is cursed — because no one keeps the Law perfectly.
-       The Law demands 100% compliance; anything less = curse.
-
-v.13 — KJV: "made a curse for us" / ESV: "becoming a curse for us" — Not "cursed" (adjective) but "a curse"
-       (noun). Christ became the curse itself — fully identified with it,
-       absorbing it completely.
-
-v.24 — KJV: "schoolmaster" / ESV: "was our guardian" — Greek "paidagōgos" — a household slave who
-       supervised children and escorted them to school. Not the teacher but
-       the guardian who brings you TO the teacher (Christ).
-
-v.28 — KJV: "neither Jew nor Greek... bond nor free... male nor female" / ESV: "neither Jew nor Greek, there is neither slave nor free" —
-       Not that these distinctions cease to exist but that they no longer
-       determine spiritual status. In Christ, all are equally children of God.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "You foolish Galatians! Who has cast a spell on
+       NET: "You foolish Galatians! Who has cast a spell on
        you?" — "foolish" (anoEtoi = without understanding/senseless).
        "Cast a spell" (ebaskanen = bewitched/given the evil eye).
        WEB: "who has bewitched you?" KJV: "who hath bewitched you?"
@@ -141,20 +121,33 @@ v.6  — NET: "Just as Abraham believed God, and it was credited to
        The same verb (logizesthai = reckon/credit) as Romans 4.
        Faith has always been the means of righteousness.
 
-v.13 — NET: "Christ redeemed us from the curse of the law by
+v.10 — KJV: "under the curse" / ESV: "are under a curse" — Anyone who relies on law-keeping for
+       righteousness is cursed — because no one keeps the Law perfectly.
+       The Law demands 100% compliance; anything less = curse.
+
+v.13 — KJV: "made a curse for us" / ESV: "becoming a curse for us" — Not "cursed" (adjective) but "a curse"
+       (noun). Christ became the curse itself — fully identified with it,
+       absorbing it completely.
+       NET: "Christ redeemed us from the curse of the law by
        becoming a curse for us" — "becoming a curse" (genomenos
        hyper hEmOn katara). WEB: "having become a curse for us."
        KJV: "being made a curse for us." Quoting Deuteronomy 21:23
        — "cursed is everyone who hangs on a tree." Substitution.
 
-v.24 — NET: "the law had become our guardian until Christ came,
+v.24 — KJV: "schoolmaster" / ESV: "was our guardian" — Greek "paidagōgos" — a household slave who
+       supervised children and escorted them to school. Not the teacher but
+       the guardian who brings you TO the teacher (Christ).
+       NET: "the law had become our guardian until Christ came,
        so that we could be declared righteous by faith" — "guardian"
        (paidagOgos = child-conductor/tutor-slave). WEB: "the law
        has become our tutor to bring us to Christ." KJV: "the law
        was our schoolmaster to bring us unto Christ." Not a teacher
        but a slave who escorted children — temporary authority.
 
-v.28 — NET: "There is neither Jew nor Greek, there is neither
+v.28 — KJV: "neither Jew nor Greek... bond nor free... male nor female" / ESV: "neither Jew nor Greek, there is neither slave nor free" —
+       Not that these distinctions cease to exist but that they no longer
+       determine spiritual status. In Christ, all are equally children of God.
+       NET: "There is neither Jew nor Greek, there is neither
        slave nor free, there is neither male nor female — for all
        of you are one in Christ Jesus" — three social divisions
        abolished in Christ. WEB: "There is neither Jew nor Greek...

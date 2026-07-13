@@ -84,7 +84,7 @@ Charles Spurgeon:
   He loved us when we were unlovable, when we were hostile, when we were
   dead in sin. That is the love that surpasses all understanding."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "I am the true vine, and my Father is the husbandman" / ESV: "I am the true vine, and my Father is the vinedresser" — Greek "geōrgos" — KJV uses "husbandman" (archaic for farmer); ESV uses "vinedresser" (one who tends vines). Both refer to the Father as the one who cultivates and prunes.
   [ASV/NET/WEB]: NET: "I am the true vine, and my Father is the
@@ -127,7 +127,6 @@ v.26 — KJV: "the Comforter... the Spirit of truth, which proceedeth from the F
        Father." KJV: "which proceedeth from the Father." This verse
        became central to the filioque controversy between Eastern
        and Western churches.
-
 
 GLOSSARY
 ------------------------------------

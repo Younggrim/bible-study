@@ -71,7 +71,7 @@ Charles Spurgeon:
   brought down Babylon, it brings down Moab. And it will bring
   down you, if you let it remain unchecked."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — "Send ye the lamb to the ruler of the land" (KJV) / "Send
       the lamb to the ruler of the land" (ESV) — Tribute payment
@@ -87,30 +87,6 @@ v.14 — "within three years, as the years of an hireling" (KJV) —
       "years of a hireling" = precisely counted (a hired worker
       counts every day until his contract ends). Exact, not
       approximate.
-
-GLOSSARY
-------------------------------------
-Sela          — "Rock" — likely Petra in Edom, a cliff-city where
-               Moabite refugees fled south for protection.
-
-Tabernacle of David — David's dynasty described as a humble tent
-               (not the glory it once had), yet from it comes the
-               Messiah. The church as the rebuilt tent of David
-               (Acts 15:16-17).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.5 — ASV: "a throne shall be established in lovingkindness; and one shall sit thereon in truth, in the tent of David" / WEB: "A throne will be established in loving kindness. One will sit on it in truth, in the tent of David" / NET: "Then a trustworthy king will be established; he will rule in a reliable manner, this one from David's family" — The messianic verse. ASV/WEB preserve "lovingkindness" (Hebrew chesed = covenant love/loyal love). NET omits "chesed" entirely, replacing the theological concept with "trustworthy" and "reliable." This loses the covenant-love foundation of Messiah's rule.
-
-- v.5 — ASV/WEB: "in the tent of David" / NET: "this one from David's family" — Hebrew "ohel David" = tent of David. ASV/WEB preserve the literal image (the dynasty reduced to a tent, yet still producing a king). NET replaces the evocative image with a flat genealogical statement ("from David's family"), losing the literary power and the Acts 15:16 connection.
-
-- v.6 — NET: "But their boastful claims are empty" vs. ASV: "his boastings are nought" / WEB: "His boastings are nothing" — All three convey that Moab's pride is baseless. Hebrew "bad" = empty talk/boasting. NET's "boastful claims are empty" is the most explanatory.
-
-- v.13 — ASV: "This is the word that Jehovah spake" / WEB: "This is the word that Yahweh spoke" / NET: "This is the message the Lord previously announced" — NET adds "previously" (interpretive) to clarify the time reference. The divine name in ASV/WEB marks this as covenant-God speech with authority.
-
-- v.14 — ASV: "Jehovah hath spoken" / WEB: "Yahweh has spoken" / NET: "the Lord makes this announcement" — NET paraphrases the divine speech formula. ASV/WEB: "Within three years, as the years of a hireling" / NET: "Within exactly three years" — NET replaces the "hireling" imagery with "exactly" — losing the picture of a contract worker counting days precisely until payment is due.
-
-- v.11 — ASV: "my heart soundeth like a harp for Moab" / WEB: "my heart sounds like a harp for Moab" / NET: "my heart constantly sighs for Moab, like the strumming of a harp" — Hebrew "me'ay" (inner parts/bowels) expresses deep visceral grief. NET adds "constantly" and restructures the metaphor. The prophet's gut resonates like a stringed instrument vibrating with Moab's pain.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

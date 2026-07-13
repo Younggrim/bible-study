@@ -119,16 +119,38 @@ Charles Spurgeon:
  each other to stir us up. That is why we must not forsake assembling
  together — isolation leads to coldness."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "shadow" / ESV: Both equivalent. — Greek "skian" — a shadow, not the reality. The Law
  was a shadow cast by the approaching reality (Christ).
+       NET: "the law is only a shadow of the good things to
+       come and not the reality itself" — "shadow" (skian) vs.
+       "reality" (eikona = image/true form). WEB: "a shadow of the
+       good things to come, not the very image." The law was a
+       silhouette — Christ is the substance casting the shadow.
 
 v.10 — KJV: "once for all" / ESV: Both equivalent. — Greek "ephapax" — one time with permanent,
  unrepeatable results. The defining word of Christ's sacrifice.
+       NET: "we have been made holy through the offering of the
+       body of Jesus Christ once for all" — "made holy"
+       (hEgiasmenoi esmen = we have been sanctified — perfect
+       tense). WEB: "we have been sanctified." KJV: "we are
+       sanctified." Perfect tense: completed act with ongoing
+       result. Positional holiness is settled.
+
+v.14 — NET: "by one offering he has perfected for all time those
+       who are made holy" — "perfected for all time" (teteleiOken
+       eis to diEnekes). WEB: "he has perfected forever those who
+       are being sanctified." "Perfected" (past/complete) + "being
+       sanctified" (present/ongoing) — positional and progressive.
 
 v.19 — KJV: "boldness" / ESV: "confidence" — Greek "parrēsian" — confidence, freedom of speech,
  fearless access. We enter God's presence without fear.
+       NET: "we have confidence to enter the most holy place by
+       the blood of Jesus" — "confidence" (parrEsian = boldness/
+       freedom of speech/access). WEB: "boldness to enter into the
+       holy place." KJV: "boldness to enter into the holiest." Not
+       timid approach but confident access — the veil is torn.
 
 v.20 — KJV: "new and living way" / ESV: Both equivalent. — Greek "prosphaton kai zōsan" — freshly
  slain and living. A paradox: the way is through death (Christ's) but
@@ -150,41 +172,14 @@ v.29 — KJV: "trodden under foot" / ESV: "underfoot" — Greek "katapatēsas" �
  with contempt. Three offenses: trampling the Son, profaning His blood,
  insulting the Spirit.
 
-v.38 — KJV: "the just shall live by faith" / ESV: "live by faith" — Quoted from Habakkuk 2:4. Also
- in Romans 1:17 and Galatians 3:11. The motto of the Reformation.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "the law is only a shadow of the good things to
-       come and not the reality itself" — "shadow" (skian) vs.
-       "reality" (eikona = image/true form). WEB: "a shadow of the
-       good things to come, not the very image." The law was a
-       silhouette — Christ is the substance casting the shadow.
-
-v.10 — NET: "we have been made holy through the offering of the
-       body of Jesus Christ once for all" — "made holy"
-       (hEgiasmenoi esmen = we have been sanctified — perfect
-       tense). WEB: "we have been sanctified." KJV: "we are
-       sanctified." Perfect tense: completed act with ongoing
-       result. Positional holiness is settled.
-
-v.14 — NET: "by one offering he has perfected for all time those
-       who are made holy" — "perfected for all time" (teteleiOken
-       eis to diEnekes). WEB: "he has perfected forever those who
-       are being sanctified." "Perfected" (past/complete) + "being
-       sanctified" (present/ongoing) — positional and progressive.
-
-v.19 — NET: "we have confidence to enter the most holy place by
-       the blood of Jesus" — "confidence" (parrEsian = boldness/
-       freedom of speech/access). WEB: "boldness to enter into the
-       holy place." KJV: "boldness to enter into the holiest." Not
-       timid approach but confident access — the veil is torn.
-
 v.31 — NET: "It is a terrifying thing to fall into the hands of
        the living God" — "terrifying" (phoberon = fearful/dreadful).
        WEB: "It is a fearful thing to fall into the hands of the
        living God." KJV: "It is a fearful thing." After the warning
        of vv.26-30, this conclusion — God as judge is terrifying.
+
+v.38 — KJV: "the just shall live by faith" / ESV: "live by faith" — Quoted from Habakkuk 2:4. Also
+ in Romans 1:17 and Galatians 3:11. The motto of the Reformation.
 
 GLOSSARY
 ------------------------------------

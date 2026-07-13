@@ -115,7 +115,7 @@ Charles Spurgeon:
  not in failure, not in death. Never. This is the foundation of contentment:
  not having everything but having Him who is everything."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2 — KJV: "entertained angels unawares" / ESV: Both equivalent. — Greek "elathon xenisantes
  angelous" — unknowingly hosted angels. Abraham (Gen 18) and Lot
@@ -125,14 +125,32 @@ v.5 — KJV: "I will never leave thee, nor forsake thee" / ESV: "never leave you
  negatives (ou mē se anō, oud' ou mē se enkatalipō) — the strongest
  possible negation. "I will absolutely never, ever leave you; I will
  absolutely never, ever, ever forsake you."
+       NET: "I will never leave you and never abandon you" —
+       five negatives in Greek (ou mE se anO, oud' ou mE se
+       enkatalipO) — the strongest possible denial. WEB: "I will
+       in no way leave you, neither will I in any way forsake you."
+       KJV: "I will never leave thee, nor forsake thee." Five-fold
+       negation = absolute certainty of presence.
 
 v.5 — KJV: "conversation" / ESV: "life" — Greek "tropos" — manner of life, way of living.
  "Without covetousness" — Greek "aphilarguros" — not loving money,
  free from the love of silver.
+       NET: "I will never leave you and never abandon you" —
+       five negatives in Greek (ou mE se anO, oud' ou mE se
+       enkatalipO) — the strongest possible denial. WEB: "I will
+       in no way leave you, neither will I in any way forsake you."
+       KJV: "I will never leave thee, nor forsake thee." Five-fold
+       negation = absolute certainty of presence.
 
 v.8 — KJV: "the same" / ESV: Both equivalent. — Greek "ho autos" — the same one. Christ's
  immutability — He does not change in character, power, love, or
  faithfulness.
+       NET: "Jesus Christ is the same yesterday and today and
+       forever" — "the same" (ho autos = identical/unchanging).
+       WEB: "Jesus Christ is the same yesterday, today, and
+       forever." KJV: "Jesus Christ the same yesterday, and to day,
+       and for ever." Immutability — past faithfulness guarantees
+       future faithfulness.
 
 v.9 — KJV: "strange doctrines" / ESV: "strange" — Greek "didachais poikilais kai xenais" —
  various and foreign teachings. Teachings that are novel, unfamiliar to
@@ -140,52 +158,33 @@ v.9 — KJV: "strange doctrines" / ESV: "strange" — Greek "didachais poikilais
 
 v.12 — KJV: "without the gate" / ESV: "gate" — Outside Jerusalem's walls. Jesus was
  crucified outside the city — rejected by the religious establishment.
-
-v.13 — KJV: "without the camp" / ESV: "camp" — Outside the established religious system.
- Following Jesus may mean leaving religious respectability behind.
-
-v.15 — KJV: "sacrifice of praise" / ESV: Both equivalent. — Greek "thusian aineseōs" — the offering
- of praise. Under the new covenant, our sacrifices are not animals but
- praise, good works, and sharing (vv.15-16).
-
-v.20 — KJV: "that great shepherd" / ESV: "great shepherd" — Greek "ton poimena ton megan" — the
- great shepherd. Christ as the supreme shepherd — raised from the dead,
- caring for His flock through the everlasting covenant.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.5  — NET: "I will never leave you and never abandon you" —
-       five negatives in Greek (ou mE se anO, oud' ou mE se
-       enkatalipO) — the strongest possible denial. WEB: "I will
-       in no way leave you, neither will I in any way forsake you."
-       KJV: "I will never leave thee, nor forsake thee." Five-fold
-       negation = absolute certainty of presence.
-
-v.8  — NET: "Jesus Christ is the same yesterday and today and
-       forever" — "the same" (ho autos = identical/unchanging).
-       WEB: "Jesus Christ is the same yesterday, today, and
-       forever." KJV: "Jesus Christ the same yesterday, and to day,
-       and for ever." Immutability — past faithfulness guarantees
-       future faithfulness.
-
-v.12 — NET: "Therefore Jesus also suffered outside the camp in
+       NET: "Therefore Jesus also suffered outside the camp in
        order to sanctify the people by his own blood" — "outside
        the camp" (exO tEs pylEs = outside the gate). WEB: "outside
        of the gate." Jesus died outside Jerusalem — outside the
        system, rejected by the establishment.
 
-v.13 — NET: "We must go out to him outside the camp, bearing the
+v.13 — KJV: "without the camp" / ESV: "camp" — Outside the established religious system.
+ Following Jesus may mean leaving religious respectability behind.
+       NET: "We must go out to him outside the camp, bearing the
        abuse he experienced" — "bearing the abuse" (ton oneidismon
        autou pherontes = carrying His reproach). WEB: "bearing his
        reproach." KJV: "bearing his reproach." Identification with
        the rejected Christ means rejection by the religious system.
 
-v.15 — NET: "Through him then let us continually offer up a
+v.15 — KJV: "sacrifice of praise" / ESV: Both equivalent. — Greek "thusian aineseōs" — the offering
+ of praise. Under the new covenant, our sacrifices are not animals but
+ praise, good works, and sharing (vv.15-16).
+       NET: "Through him then let us continually offer up a
        sacrifice of praise to God, that is, the fruit of our lips,
        acknowledging his name" — "sacrifice of praise" (thysian
        aineseOs). WEB: "a sacrifice of praise." KJV: "the sacrifice
        of praise." Our lips replace animal sacrifices — praise is
        the new covenant offering.
+
+v.20 — KJV: "that great shepherd" / ESV: "great shepherd" — Greek "ton poimena ton megan" — the
+ great shepherd. Christ as the supreme shepherd — raised from the dead,
+ caring for His flock through the everlasting covenant.
 
 GLOSSARY
 ------------------------------------

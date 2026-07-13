@@ -99,36 +99,20 @@ Charles Spurgeon:
   failure is deep? Grace is deeper. You cannot out-sin grace — though you
   must never try."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "we have peace" / ESV: Both equivalent. — Some manuscripts read "let us have peace"
        (subjunctive — an exhortation). Most scholars favor the indicative
        "we have" — peace is a fact of justification, not just a goal.
-
-v.2  — KJV: "we have access" / ESV: "him we have also obtained" — Greek "prosagōgē" — introduction, approach.
-       The word was used for being introduced into the presence of a king.
-       Through Christ, we have permanent access to God's throne.
-
-v.11 — KJV: "atonement" — ESV: "reconciliation" — Greek "katallagē" —
-       reconciliation, the restoration of relationship. The KJV's "atonement"
-       here means "at-one-ment" — being made one with God.
-
-v.12 — KJV: "for that all have sinned" / ESV: "to all men because all sinned" — Greek "eph' hō" — debated: (1)
-       "because all sinned" (in Adam), (2) "with the result that all sinned,"
-       (3) "in whom all sinned." The point: Adam's sin affected all humanity.
-
-v.20 — KJV: "much more abound" / ESV: "abounded all the more" — Greek "huperperisseusen" — super-abounded,
-       overflowed beyond measure. Grace doesn't just match sin — it
-       overwhelms it.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "we have peace with God through our Lord Jesus
+       NET: "we have peace with God through our Lord Jesus
        Christ" — textual variant: "we have" (echomen, indicative)
        vs. "let us have" (echOmen, subjunctive). NET/KJV/WEB take
        it as indicative (a fact). ASV: "let us have" (hortatory).
        The difference: statement of reality vs. exhortation.
+
+v.2  — KJV: "we have access" / ESV: "him we have also obtained" — Greek "prosagōgē" — introduction, approach.
+       The word was used for being introduced into the presence of a king.
+       Through Christ, we have permanent access to God's throne.
 
 v.5  — NET: "because the love of God has been poured out in our
        hearts through the Holy Spirit who was given to us" —
@@ -143,14 +127,24 @@ v.8  — NET: "God demonstrates his own love for us, in that while
        commends his own love toward us." KJV: "God commendeth his
        love toward us." The cross is the permanent proof of love.
 
-v.12 — NET: "just as sin entered the world through one man and
+v.11 — KJV: "atonement" — ESV: "reconciliation" — Greek "katallagē" —
+       reconciliation, the restoration of relationship. The KJV's "atonement"
+       here means "at-one-ment" — being made one with God.
+
+v.12 — KJV: "for that all have sinned" / ESV: "to all men because all sinned" — Greek "eph' hō" — debated: (1)
+       "because all sinned" (in Adam), (2) "with the result that all sinned,"
+       (3) "in whom all sinned." The point: Adam's sin affected all humanity.
+       NET: "just as sin entered the world through one man and
        death through sin, and so death spread to all people
        because all sinned" — "because all sinned" (eph' hO pantes
        hEmarton) — the most debated phrase. WEB: "for that all
        sinned." KJV: "for that all have sinned." How did all sin
        in Adam? Debate continues.
 
-v.20 — NET: "where sin increased, grace multiplied all the more"
+v.20 — KJV: "much more abound" / ESV: "abounded all the more" — Greek "huperperisseusen" — super-abounded,
+       overflowed beyond measure. Grace doesn't just match sin — it
+       overwhelms it.
+       NET: "where sin increased, grace multiplied all the more"
        — "multiplied all the more" (hyperperisseusen = super-
        abounded). WEB: "grace abounded more exceedingly." KJV:
        "grace did much more abound." Grace always outpaces sin —

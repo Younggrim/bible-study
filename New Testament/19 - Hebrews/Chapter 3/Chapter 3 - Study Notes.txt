@@ -103,15 +103,25 @@ Charles Spurgeon:
  daily. You cannot fight deception alone. You need brothers who will speak
  truth to you every day."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "Apostle and High Priest" / ESV: Both equivalent. — The only place Christ is called
  "Apostle" (apostolos — sent one). He is both the one SENT by God
  (apostle) and the one who REPRESENTS us before God (high priest).
+       NET: "think carefully about Jesus, the apostle and high
+       priest whom we confess" — "apostle" (apostolon) — the only
+       place Jesus is called "apostle" (sent one). WEB: "the
+       Apostle and High Priest of our confession." He is both SENT
+       by God (apostle) and represents us TO God (high priest).
 
 v.1 — KJV: "profession" / ESV: "confession" — Greek "homologias" — confession, what we profess.
  Our faith confession centers on Christ as God's sent one and our
  representative.
+       NET: "think carefully about Jesus, the apostle and high
+       priest whom we confess" — "apostle" (apostolon) — the only
+       place Jesus is called "apostle" (sent one). WEB: "the
+       Apostle and High Priest of our confession." He is both SENT
+       by God (apostle) and represents us TO God (high priest).
 
 v.5 — KJV: "as a servant" / ESV: Both equivalent. — Greek "therapōn" — an honored attendant, a
  trusted servant. Higher than "doulos" (slave). Moses held an honored
@@ -120,52 +130,47 @@ v.5 — KJV: "as a servant" / ESV: Both equivalent. — Greek "therapōn" — an
 v.6 — KJV: "if we hold fast" / ESV: Both equivalent. — Not a condition for becoming God's house but
  evidence of being God's house. Perseverance proves genuineness.
 
-v.8 — KJV: "provocation" / ESV: "rebellion" — Greek "parapikrasmos" — embitterment, rebellion.
- Refers to Meribah/Massah (Exodus 17:7) where Israel tested God.
-
-v.12 — KJV: "evil heart of unbelief" / ESV: "evil, unbelieving heart" — The root problem is not behavior but
- belief. An unbelieving heart produces departure from God. Unbelief is
- the fundamental sin.
-
-v.13 — KJV: "while it is called To day" / ESV: "called today" — The window of opportunity is NOW.
- "Today" is the only day you have. Tomorrow's response is not
- guaranteed.
-
-v.13 — KJV: "hardened through the deceitfulness of sin" / ESV: "hardened by the deceitfulness of sin" — Sin deceives and
- hardens simultaneously. Each unrepented sin makes the next one easier
- and the conscience less sensitive.
-
-v.14 — KJV: "partakers of Christ" / ESV: "share in Christ" — Greek "metochoi tou Christou" — sharers
- in Christ, partners with Christ. "If we hold the beginning of our
- confidence stedfast unto the end" — perseverance as evidence of
- genuine participation in Christ.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "think carefully about Jesus, the apostle and high
-       priest whom we confess" — "apostle" (apostolon) — the only
-       place Jesus is called "apostle" (sent one). WEB: "the
-       Apostle and High Priest of our confession." He is both SENT
-       by God (apostle) and represents us TO God (high priest).
-
 v.7  — NET: "Today, if you hear his voice, do not harden your
        hearts" — quoting Psalm 95:7-8. "Today" (sEmeron) — the
        urgency of present response. WEB: "Today if you will hear
        his voice." KJV: "To day if ye will hear his voice." Quoted
        three times in Hebrews (3:7, 3:15, 4:7) — repeated warning.
 
-v.12 — NET: "See to it, brothers and sisters, that none of you
+v.8 — KJV: "provocation" / ESV: "rebellion" — Greek "parapikrasmos" — embitterment, rebellion.
+ Refers to Meribah/Massah (Exodus 17:7) where Israel tested God.
+
+v.12 — KJV: "evil heart of unbelief" / ESV: "evil, unbelieving heart" — The root problem is not behavior but
+ belief. An unbelieving heart produces departure from God. Unbelief is
+ the fundamental sin.
+       NET: "See to it, brothers and sisters, that none of you
        has an evil, unbelieving heart that forsakes the living God"
        — "forsakes" (apostEnai = apostatize/stand away from). WEB:
        "departing from the living God." KJV: "departing from the
        living God." Apostasy begins with an unbelieving heart, not
        intellectual doubt.
 
-v.13 — NET: "exhort one another each day, as long as it is called
+v.13 — KJV: "while it is called To day" / ESV: "called today" — The window of opportunity is NOW.
+ "Today" is the only day you have. Tomorrow's response is not
+ guaranteed.
+       NET: "exhort one another each day, as long as it is called
        'Today'" — "exhort" (parakaleite = encourage/urge alongside).
        WEB: "exhort one another day by day." Daily mutual
        encouragement as the antidote to hard hearts — community
        prevents apostasy.
+
+v.13 — KJV: "hardened through the deceitfulness of sin" / ESV: "hardened by the deceitfulness of sin" — Sin deceives and
+ hardens simultaneously. Each unrepented sin makes the next one easier
+ and the conscience less sensitive.
+       NET: "exhort one another each day, as long as it is called
+       'Today'" — "exhort" (parakaleite = encourage/urge alongside).
+       WEB: "exhort one another day by day." Daily mutual
+       encouragement as the antidote to hard hearts — community
+       prevents apostasy.
+
+v.14 — KJV: "partakers of Christ" / ESV: "share in Christ" — Greek "metochoi tou Christou" — sharers
+ in Christ, partners with Christ. "If we hold the beginning of our
+ confidence stedfast unto the end" — perseverance as evidence of
+ genuine participation in Christ.
 
 v.19 — NET: "they were unable to enter because of unbelief" —
        "unbelief" (apistian = lack of faith/faithlessness). WEB:

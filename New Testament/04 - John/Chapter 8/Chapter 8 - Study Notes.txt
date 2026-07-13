@@ -86,10 +86,8 @@ Charles Spurgeon:
   it is the truth about Jesus Christ. Know Him, and you know the truth that
   breaks every chain."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-vv.1-11 — KJV: includes the adultery passage as part of the text / ESV: places it in double brackets with a note — The passage is absent from the oldest manuscripts (Papyrus 66, Papyrus 75, Codex Sinaiticus, Codex Vaticanus). Most scholars believe it is a genuine historical account preserved in oral tradition before being added to manuscripts.
-
 v.7  — NET: "Whoever among you is without sin, let him be the
        first to throw a stone at her" — Jesus doesn't deny the
        Law's penalty; He exposes the accusers' disqualification.
@@ -133,7 +131,6 @@ v.58 — KJV: "Before Abraham was, I am" / ESV: "before Abraham was, I am" — G
        "Before Abraham was, I am." Present tense for past existence
        = eternal being. They picked up stones (v.59) — they
        understood the claim perfectly.
-
 
 GLOSSARY
 ------------------------------------

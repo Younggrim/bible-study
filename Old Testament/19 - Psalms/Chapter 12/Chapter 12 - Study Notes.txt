@@ -93,7 +93,7 @@ v.8   — Proverbs 29:2 — "When the wicked beareth rule, the people
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "the godly man ceaseth" / ESV: "the godly one is gone"
       — Hebrew "gamar" = completed, ceased, ended. The faithful
@@ -116,24 +116,6 @@ v.7 — KJV: "Thou shalt keep them" / ESV: "You, O LORD, will keep
       does it refer to God's WORDS (v.6) or God's PEOPLE? KJV
       allows both; ESV switches to "us" suggesting people. This
       verse is significant in discussions of biblical preservation.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "Help, Jehovah" / WEB: "Help, Yahweh" / NET: "Deliver, Lord!" — The divine name rendering is the key difference. NET uses the imperative "Deliver!" which is more urgent than "Help" (Hebrew "hoshi'ah" = save/deliver). Both ASV and WEB transliterate the covenant name while NET uses the generic "Lord."
-
-- v.1 — NET: "people of integrity have vanished" vs. KJV: "the faithful fail from among the children of men" — NET modernizes "faithful" (Hebrew "emunim") to "people of integrity" and "children of men" to simply omitting it. ASV: "the faithful fail from among the children of men" retains the literal wording.
-
-- v.2 — NET: "People lie to one another; they flatter and deceive" — This is a simplified paraphrase. KJV: "They speak vanity every one with his neighbour: with flattering lips and with a double heart do they speak." ASV preserves "falsehood" for Hebrew "shav" (emptiness/vanity). NET drops the powerful "double heart" (lev va-lev) imagery entirely.
-
-- v.5 — NET: "'I will spring into action,' says the Lord. 'I will provide the safety they so desperately desire'" — Highly interpretive rendering of God's oracle. KJV: "Now will I arise, saith the LORD; I will set him in safety from him that puffeth at him." NET adds "spring into action" and "desperately desire" — language not in the Hebrew but capturing the emotional urgency.
-
-- v.5 — WEB: "'I will set him in safety from those who malign him'" vs. KJV: "from him that puffeth at him" — Hebrew "yaphiach" is difficult. KJV literally renders "puffs at him" (contemptuous breath). WEB interprets as "malign." ASV: "I will set him in the safety he panteth for" — reading the verb as referring to the poor man's longing.
-
-- v.6 — WEB: "Yahweh's words are flawless words" / NET: "The Lord's words are absolutely reliable" — KJV: "The words of the LORD are pure words." ASV: "The words of Jehovah are pure words." NET substitutes "reliable" for "pure" (Hebrew "tahorot"), shifting from a purity/holiness metaphor to a trustworthiness concept. WEB's "flawless" bridges both ideas.
-
-- v.6 — NET: "as silver purified in a furnace on the ground, where it is thoroughly refined" vs. KJV: "as silver tried in a furnace of earth, purified seven times" — NET drops the "seven times" detail (symbolizing complete purification in Hebrew numerology) and replaces it with "thoroughly refined" — a significant interpretive loss of the biblical number symbolism.
-
-- v.8 — NET: "for the wicked seem to be everywhere, when people promote evil" vs. KJV: "The wicked walk on every side, when the vilest men are exalted" — NET adds "seem to be" (hedging) and uses "promote evil" where KJV/ASV have "vileness/vilest men are exalted." WEB: "when what is vile is exalted among the sons of men" — closer to the Hebrew structure.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

@@ -90,30 +90,13 @@ Charles Spurgeon:
   the naked, the sick, the imprisoned. When you serve them, you serve Him.
   When you ignore them, you ignore Him."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "ten virgins" — ESV: "ten bridesmaids" — Greek "parthenoi" —
        virgins/maidens. In the wedding custom, they waited with lamps to
        escort the bridegroom to the feast. The oil represents genuine
        spiritual life — it cannot be borrowed or shared.
-
-v.15 — KJV: "talents" / ESV: "talents" — Both identical. A talent was a unit
-       of weight (about 75 pounds of silver), worth approximately 6,000
-       denarii or 20 years' wages. Five talents = 100 years' wages. The
-       master entrusted enormous resources.
-
-v.30 — KJV: "outer darkness" — ESV/NET: "outer darkness" — A metaphor for
-       exclusion from God's presence and the joy of His kingdom. Used three
-       times in Matthew (8:12, 22:13, 25:30).
-
-v.46 — KJV: "everlasting punishment... life eternal" / ESV: "eternal
-       punishment... eternal life" — Both identical in meaning. The same
-       Greek word "aiōnios" (eternal) is used for both punishment and life.
-       If one is eternal, so is the other. They stand or fall together.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "the kingdom of heaven will be like ten virgins
+       NET: "the kingdom of heaven will be like ten virgins
        who took their lamps and went out to meet the bridegroom" —
        "lamps" (lampadas = torches). WEB: "ten virgins who took
        their lamps." Not small oil lamps but torches for a
@@ -125,6 +108,11 @@ v.14 — NET: "it is like a man going on a journey, who summoned
        them." "Talent" (talanton = ~20 years' wages) — enormous
        sums, not small coins.
 
+v.15 — KJV: "talents" / ESV: "talents" — Both identical. A talent was a unit
+       of weight (about 75 pounds of silver), worth approximately 6,000
+       denarii or 20 years' wages. Five talents = 100 years' wages. The
+       master entrusted enormous resources.
+
 v.21 — NET: "Well done, good and faithful slave!" — "faithful"
        (piste = trustworthy/reliable). WEB: "Well done, good and
        faithful servant." KJV: "Well done, thou good and faithful
@@ -132,13 +120,21 @@ v.21 — NET: "Well done, good and faithful slave!" — "faithful"
        of the return — both 5-talent and 2-talent servants receive
        identical praise.
 
+v.30 — KJV: "outer darkness" — ESV/NET: "outer darkness" — A metaphor for
+       exclusion from God's presence and the joy of His kingdom. Used three
+       times in Matthew (8:12, 22:13, 25:30).
+
 v.40 — NET: "whatever you did for one of the least of these
        brothers or sisters of mine, you did for me" — "the least"
        (tOn elachistOn = the most insignificant). WEB: "inasmuch
        as you did it to one of the least of these my brothers."
        Christ identifies with the hungry, naked, sick, imprisoned.
 
-v.46 — NET: "And these will depart into eternal punishment, but
+v.46 — KJV: "everlasting punishment... life eternal" / ESV: "eternal
+       punishment... eternal life" — Both identical in meaning. The same
+       Greek word "aiōnios" (eternal) is used for both punishment and life.
+       If one is eternal, so is the other. They stand or fall together.
+       NET: "And these will depart into eternal punishment, but
        the righteous into eternal life" — "eternal" (aiOnion) —
        the same adjective modifies both punishment and life. WEB:
        "these will go away into eternal punishment." If one is

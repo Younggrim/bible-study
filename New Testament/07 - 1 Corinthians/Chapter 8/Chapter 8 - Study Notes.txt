@@ -90,30 +90,19 @@ Charles Spurgeon:
   Not 'I have the right' but 'I have the responsibility.' My freedom is
   real — but my brother's soul is more important than my steak."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "puffeth up" / ESV: "“knowledge” puffs up, but" — Greek "phusioi" — to inflate, to blow up like a
        balloon. Knowledge without love produces arrogance — inflated but empty.
+       NET: "knowledge puffs up, but love builds up" —
+       "puffs up" (physioi = inflates/makes arrogant) vs. "builds
+       up" (oikodomei = edifies/constructs). WEB: "Knowledge puffs
+       up, but love builds up." The governing principle for all
+       that follows: love trumps knowledge.
 
 v.1  — KJV: "edifieth" / ESV: "but love builds up" — Greek "oikodomei" — to build a house, to construct.
        Love builds people up; knowledge alone puffs them up.
-
-v.6  — KJV: "one God, the Father... one Lord Jesus Christ" / ESV: "Father, from whom are all things and for whom we exist" — An early
-       Christian creedal statement. The Father is the source ("of whom");
-       Christ is the agent ("by whom"). Both are fully God.
-
-v.10 — KJV: "emboldened" / ESV: "if his conscience is" — Greek "oikodomeō" — ironically the same word as
-       "edify" in v.1. The weak brother is "built up" — but in the wrong
-       direction, toward violating his conscience.
-
-v.13 — KJV: "while the world standeth" / ESV: "I will never eat meat, lest I make" — Paul's commitment is absolute and
-       permanent. He would give up meat FOREVER rather than cause a brother
-       to stumble.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "knowledge puffs up, but love builds up" —
+       NET: "knowledge puffs up, but love builds up" —
        "puffs up" (physioi = inflates/makes arrogant) vs. "builds
        up" (oikodomei = edifies/constructs). WEB: "Knowledge puffs
        up, but love builds up." The governing principle for all
@@ -125,11 +114,19 @@ v.4  — NET: "we know that 'an idol in this world is nothing' and
        existence. WEB: "we know that no idol is anything in the
        world." Theologically true but pastorally insufficient.
 
+v.6  — KJV: "one God, the Father... one Lord Jesus Christ" / ESV: "Father, from whom are all things and for whom we exist" — An early
+       Christian creedal statement. The Father is the source ("of whom");
+       Christ is the agent ("by whom"). Both are fully God.
+
 v.9  — NET: "But be careful that this liberty of yours does not
        become a hindrance to the weak" — "hindrance" (proskomma =
        stumbling block). WEB: "be careful that by no means does
        this liberty of yours become a stumbling block to the weak."
        Freedom exercised without love becomes a weapon.
+
+v.10 — KJV: "emboldened" / ESV: "if his conscience is" — Greek "oikodomeō" — ironically the same word as
+       "edify" in v.1. The weak brother is "built up" — but in the wrong
+       direction, toward violating his conscience.
 
 v.11 — NET: "So by your knowledge the weak brother or sister, for
        whom Christ died, is destroyed" — "for whom Christ died"
@@ -138,7 +135,10 @@ v.11 — NET: "So by your knowledge the weak brother or sister, for
        the brother for whose sake Christ died." Your knowledge
        destroys what Christ died to save.
 
-v.13 — NET: "if food causes my brother or sister to sin, I will
+v.13 — KJV: "while the world standeth" / ESV: "I will never eat meat, lest I make" — Paul's commitment is absolute and
+       permanent. He would give up meat FOREVER rather than cause a brother
+       to stumble.
+       NET: "if food causes my brother or sister to sin, I will
        never eat meat again" — Paul's personal resolution. WEB:
        "if food causes my brother to stumble, I will eat no meat
        forever more." KJV: "I will eat no flesh while the world

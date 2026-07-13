@@ -97,7 +97,7 @@ Charles Spurgeon:
   Everything else is important but secondary. When leaders prioritize these
   two things, the word of God increases and disciples multiply (v.7)."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "Grecians" / ESV: "Hellenists" — Greek-speaking Jewish believers,
        likely from the Diaspora. ESV uses the more precise term "Hellenists."
@@ -115,16 +115,7 @@ v.3  — KJV: "of honest report, full of the Holy Ghost and wisdom" / ESV:
        The number seven may echo the Jewish practice of appointing seven
        leaders for community administration. These men are traditionally
        called "deacons" though the word isn't used here.
-
-v.15 — KJV: "his face as it had been the face of an angel" / ESV: "his face
-       was like the face of an angel" — Both identical in meaning. Stephen's
-       face reflected divine glory — like Moses after meeting with God
-       (Exodus 34:29). The Sanhedrin was looking at a man filled with God's
-       presence.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "select from among you seven men of good reputation,
+       NET: "select from among you seven men of good reputation,
        full of the Spirit and of wisdom" — three qualifications for
        deacons: reputation, Spirit-fullness, wisdom. WEB: "seven
        men of good report, full of the Holy Spirit and of wisdom."
@@ -149,7 +140,12 @@ v.10 — NET: "they were not able to resist the wisdom and the
        withstand the wisdom and the Spirit by which he spoke." When
        the Spirit speaks through a person, human arguments fail.
 
-v.15 — NET: "everyone who was sitting in the council looked
+v.15 — KJV: "his face as it had been the face of an angel" / ESV: "his face
+       was like the face of an angel" — Both identical in meaning. Stephen's
+       face reflected divine glory — like Moses after meeting with God
+       (Exodus 34:29). The Sanhedrin was looking at a man filled with God's
+       presence.
+       NET: "everyone who was sitting in the council looked
        intently at him and saw his face was like the face of an
        angel" — "face of an angel" — radiant, like Moses after
        Sinai (Exodus 34:29-30). WEB: "his face was like the face

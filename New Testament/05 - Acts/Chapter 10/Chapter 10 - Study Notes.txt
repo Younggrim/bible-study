@@ -93,7 +93,7 @@ Charles Spurgeon:
   Jew or Gentile, slave or free, rich or poor, moral or immoral. The offer
   is universal. The only condition is faith."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "one that feared God" / ESV: "a devout man who feared God" —
        Both equivalent. A technical term for Gentiles who worshipped the God
@@ -104,25 +104,7 @@ v.14 — KJV: "common or unclean" / ESV: "common or unclean" — Both identical.
        Two categories of forbidden food: "common" (koinos) = ritually defiled;
        "unclean" (akathartos) = inherently forbidden by the Law. Peter had
        never eaten either.
-
-v.34 — KJV: "no respecter of persons" / ESV: "God shows no partiality" —
-       Greek "prosōpolēmptēs" — literally "face-taker" — one who judges by
-       external appearance. ESV's "shows no partiality" is clearer to modern
-       readers. God does not judge by race, nationality, or social status.
-
-v.36 — KJV: "preaching peace by Jesus Christ: (he is Lord of all)" / ESV:
-       "preaching good news of peace through Jesus Christ (he is Lord of
-       all)" — ESV adds "good news of" to clarify the nature of the
-       preaching. Both affirm Christ's universal lordship.
-
-v.44 — KJV: "the Holy Ghost fell on all them" / ESV: "the Holy Spirit fell
-       on all who heard the word" — Both equivalent. The same language as
-       Pentecost (Acts 2:4). God gave the Gentiles the identical experience
-       — proving they were fully accepted without becoming Jewish first.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.14 — NET: "I have never eaten anything defiled and ritually
+       NET: "I have never eaten anything defiled and ritually
        unclean!" — "defiled" (koinon = common/profane) and
        "unclean" (akatharton). WEB: "I have never eaten anything
        that is common or unclean." KJV: "I have never eaten any
@@ -135,13 +117,26 @@ v.15 — NET: "What God has made clean, you must not consider
        call unclean." KJV: "What God hath cleansed, that call not
        thou common." Divine authority overrides human tradition.
 
-v.34 — NET: "I now truly understand that God does not show
+v.34 — KJV: "no respecter of persons" / ESV: "God shows no partiality" —
+       Greek "prosōpolēmptēs" — literally "face-taker" — one who judges by
+       external appearance. ESV's "shows no partiality" is clearer to modern
+       readers. God does not judge by race, nationality, or social status.
+       NET: "I now truly understand that God does not show
        favoritism in dealing with people" — "show favoritism"
        (prosOpolEmptEs = face-receiver). WEB: "God is no respecter
        of persons." KJV: "God is no respecter of persons." Peter's
        worldview shifts — the gospel is for ALL ethnicities.
 
-v.44 — NET: "the Holy Spirit fell on all those who heard the
+v.36 — KJV: "preaching peace by Jesus Christ: (he is Lord of all)" / ESV:
+       "preaching good news of peace through Jesus Christ (he is Lord of
+       all)" — ESV adds "good news of" to clarify the nature of the
+       preaching. Both affirm Christ's universal lordship.
+
+v.44 — KJV: "the Holy Ghost fell on all them" / ESV: "the Holy Spirit fell
+       on all who heard the word" — Both equivalent. The same language as
+       Pentecost (Acts 2:4). God gave the Gentiles the identical experience
+       — proving they were fully accepted without becoming Jewish first.
+       NET: "the Holy Spirit fell on all those who heard the
        message" — "fell on" (epepesen) — sudden, sovereign,
        uninvited. WEB: "the Holy Spirit fell on all those who
        heard the word." No laying on of hands, no prayer — the

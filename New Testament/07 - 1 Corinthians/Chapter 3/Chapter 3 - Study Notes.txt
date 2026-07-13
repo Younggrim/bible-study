@@ -97,20 +97,37 @@ Charles Spurgeon:
   it matters. Gold or hay? Silver or stubble? The fire will reveal the
   quality of your work."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "carnal" / ESV: "as people" — Greek "sarkinois" — fleshly, controlled by the flesh
        rather than the Spirit. Not unbelievers — but believers living like
        unbelievers.
+
+v.6  — NET: "I planted, Apollos watered, but God caused it to
+       grow" — "caused it to grow" (Euxanen = was causing growth,
+       imperfect tense — continuous). WEB: "God gave the increase."
+       KJV: "God gave the increase." Ministers are tools; God is
+       the grower. Human effort necessary but not sufficient.
 
 v.9  — KJV: "God's husbandry... God's building" / ESV: "building" — Two metaphors: you are
        God's field (He grows you) and God's building (He constructs you).
        Both emphasize God's ownership and activity.
 
+v.11 — NET: "For no one can lay any foundation other than what is
+       being laid, which is Jesus Christ" — "no one can" (ou
+       dynatai) — impossibility, not just prohibition. WEB: "no
+       one is able to lay another foundation." There is one
+       foundation; everything else is superstructure.
+
 v.13 — KJV: "revealed by fire" / ESV: Both equivalent. — The judgment of believers' works (not
        salvation). Fire tests quality — gold survives; hay burns. This is
        the "bēma" judgment (2 Corinthians 5:10), not the final judgment.
+       NET: "each builder's work will be plainly seen, for the
+       Day will make it clear, because it will be revealed by fire"
+       — "the Day" (hE hEmera) = judgment day. WEB: "the Day will
+       declare it." KJV: "the day shall declare it." Fire tests
+       quality, not sincerity. Wood, hay, stubble burn; gold,
+       silver, precious stones survive.
 
 v.15 — KJV: "saved; yet so as by fire" / ESV: "be saved, but only as through fire" — Salvation is secure even if all
        works burn. The person is saved but suffers loss of reward — like
@@ -119,29 +136,7 @@ v.15 — KJV: "saved; yet so as by fire" / ESV: "be saved, but only as through f
 v.16 — KJV: "ye are the temple" / ESV: "not know that you are God’s" — "Ye" is plural — the church collectively
        is God's temple. (1 Corinthians 6:19 applies it individually.) The
        Spirit dwells in the community of believers.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.6  — NET: "I planted, Apollos watered, but God caused it to
-       grow" — "caused it to grow" (Euxanen = was causing growth,
-       imperfect tense — continuous). WEB: "God gave the increase."
-       KJV: "God gave the increase." Ministers are tools; God is
-       the grower. Human effort necessary but not sufficient.
-
-v.11 — NET: "For no one can lay any foundation other than what is
-       being laid, which is Jesus Christ" — "no one can" (ou
-       dynatai) — impossibility, not just prohibition. WEB: "no
-       one is able to lay another foundation." There is one
-       foundation; everything else is superstructure.
-
-v.13 — NET: "each builder's work will be plainly seen, for the
-       Day will make it clear, because it will be revealed by fire"
-       — "the Day" (hE hEmera) = judgment day. WEB: "the Day will
-       declare it." KJV: "the day shall declare it." Fire tests
-       quality, not sincerity. Wood, hay, stubble burn; gold,
-       silver, precious stones survive.
-
-v.16 — NET: "Do you not know that you are God's temple and that
+       NET: "Do you not know that you are God's temple and that
        God's Spirit lives in you?" — "you" is PLURAL (naos theou
        este) — the church collectively is the temple. WEB: "you
        are a temple of God." Not primarily individual bodies (that's

@@ -101,17 +101,33 @@ Charles Spurgeon:
   friends. That is how you correct a gifted person who has incomplete
   understanding. Not shame them — complete them."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3  — KJV: "tentmakers" / ESV: "tentmakers" — Both identical. Greek
        "skēnopoioi" — makers of tents or leather goods. Paul worked with his
        hands to support himself — not depending on the churches financially
        (1 Corinthians 9:12-18).
+       NET: "because he worked at the same trade, he stayed
+       with them and they worked together, for they were tentmakers
+       by trade" — "tentmakers" (skEnopoioi). WEB: "by trade, they
+       were tent makers." KJV: "they were tentmakers." Paul's
+       bi-vocational ministry — self-supporting to avoid being a
+       burden (1 Thess 2:9).
+
+v.9  — NET: "Do not be afraid, but speak and do not be silent,
+       for I am with you" — the Lord's night vision to Paul. WEB:
+       "Don't be afraid, but speak and don't be silent." KJV: "Be
+       not afraid, but speak." God meets Paul's fear with His
+       presence and promise.
 
 v.10 — KJV: "I have much people in this city" / ESV: "I have many in this
        city who are my people" — Both equivalent. ESV makes the possessive
        clearer. God's elect in Corinth — people who would believe when they
        heard. God's foreknowledge encouraged Paul to keep preaching.
+       NET: "because I have many people in this city" — "many
+       people" (laos polys) — God's elect in Corinth, not yet
+       converted but known to God. WEB: "I have many people in
+       this city." God knows His own before they know Him.
 
 v.12 — KJV: "Gallio was the deputy of Achaia" / ESV: "Gallio was proconsul
        of Achaia" — ESV uses the more precise Roman title "proconsul." An
@@ -128,28 +144,7 @@ v.25 — KJV: "knowing only the baptism of John" / ESV: "he knew only the
        baptism of John" — Both identical in meaning. Apollos knew the OT and
        John's message of repentance but didn't yet know about Jesus' death,
        resurrection, and the gift of the Spirit.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "because he worked at the same trade, he stayed
-       with them and they worked together, for they were tentmakers
-       by trade" — "tentmakers" (skEnopoioi). WEB: "by trade, they
-       were tent makers." KJV: "they were tentmakers." Paul's
-       bi-vocational ministry — self-supporting to avoid being a
-       burden (1 Thess 2:9).
-
-v.9  — NET: "Do not be afraid, but speak and do not be silent,
-       for I am with you" — the Lord's night vision to Paul. WEB:
-       "Don't be afraid, but speak and don't be silent." KJV: "Be
-       not afraid, but speak." God meets Paul's fear with His
-       presence and promise.
-
-v.10 — NET: "because I have many people in this city" — "many
-       people" (laos polys) — God's elect in Corinth, not yet
-       converted but known to God. WEB: "I have many people in
-       this city." God knows His own before they know Him.
-
-v.25 — NET: "He spoke and taught accurately the things about
+       NET: "He spoke and taught accurately the things about
        Jesus, although he knew only the baptism of John" — Apollos
        had partial knowledge but taught what he knew accurately.
        WEB: "knowing only the baptism of John." Priscilla and

@@ -83,7 +83,7 @@ v.9   — Psalm 118:25 — "Save now, I beseech thee, O LORD."
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "The LORD hear thee" / ESV: "May the LORD answer you"
       — Both are jussive (wishes/prayers). ESV adds "may" to
@@ -106,22 +106,6 @@ v.9 — KJV: "Save, LORD: let the king hear us when we call" / ESV:
       let the king be responsive. ESV: Save the king; may God
       answer us. The Hebrew can be divided either way; ESV's
       reading parallels the psalm's structure better.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV/WEB: "Jehovah"/"Yahweh" answer thee — Both use the divine name directly where KJV/ESV use "the LORD." ASV consistently renders YHWH as "Jehovah"; WEB uses the more linguistically accurate "Yahweh." This reveals what "the LORD" actually represents — God's covenant name.
-
-- v.1 — NET: "May the Lord answer you when you are in trouble" — NET adds interpretive clarity with "when you are in trouble" rather than the more literal "in the day of trouble." The Hebrew "beyom tsarah" is literally "in the day of distress."
-
-- v.5 — ASV/WEB: "We will triumph in thy salvation" / KJV: "We will rejoice in thy salvation" — Hebrew "narannenah" can mean to shout for joy, sing aloud, or triumph. ASV/WEB emphasize the triumphant shouting; NET renders it "shout for joy over your victory."
-
-- v.6 — NET: "the Lord will deliver his chosen king" — NET interprets "his anointed" (mashiach) as "his chosen king," making the royal context explicit. KJV/ASV/WEB retain "his anointed," preserving the Messianic overtone of the Hebrew term.
-
-- v.7 — WEB: "we trust the name of Yahweh our God" / ASV: "we will make mention of the name of Jehovah" / KJV: "we will remember the name of the LORD" — Three different renderings of Hebrew "nazkir." WEB interprets it as trust; ASV as verbal invocation ("make mention"); KJV as cognitive recall. The Hebrew encompasses all three — invoking, remembering, and trusting.
-
-- v.8 — NET: "They will fall down, but we will stand firm" — NET simplifies and modernizes, losing the vivid contrast of the Hebrew. KJV's "brought down and fallen" vs. "risen and stand upright" better captures the bowing/rising imagery of the original.
-
-- v.9 — NET: "The Lord will deliver the king; he will answer us when we call to him for help!" — NET completely restructures this verse as a confident declaration. KJV/ASV/WEB retain it as a prayer: "Save, LORD/Jehovah/Yahweh!" The different punctuation yields a different theology — prayer vs. confident assertion.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

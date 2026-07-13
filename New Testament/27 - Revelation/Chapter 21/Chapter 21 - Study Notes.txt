@@ -108,7 +108,7 @@ Charles Spurgeon:
  broke your heart, that caused you pain — gone. Passed away. Replaced by
  the new. This is not wishful thinking — this is God's promise."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "I saw a new heaven and a new earth" / ESV: "Then I saw a new
  heaven and a new earth" — Both equivalent. Greek "kainon" — new in
@@ -117,15 +117,32 @@ v.1 — KJV: "I saw a new heaven and a new earth" / ESV: "Then I saw a new
  more sea" / ESV: "the sea was no more" — Both equivalent. The sea in
  Revelation symbolizes chaos, evil, separation. No more chaos, no more
  separation.
+       NET: "Then I saw a new heaven and a new earth, for the
+       first heaven and earth had passed away" — "new" (kainon =
+       new in quality/character, not neos/new in time). WEB: "a
+       new heaven and a new earth." Not replacement but renewal —
+       transformed creation, not annihilation.
 
 v.2 — KJV: "prepared as a bride adorned for her husband" / ESV: "prepared
  as a bride adorned for her husband" — Both identical.
+       NET: "the holy city — the new Jerusalem — descending out
+       of heaven from God, made ready like a bride adorned for her
+       husband" — "adorned" (kekosmEmenEn = beautifully arranged —
+       English "cosmetics"). WEB: "prepared like a bride adorned
+       for her husband." The city IS the bride — the church in
+       its final, glorified form.
 
 v.3 — KJV: "the tabernacle of God is with men, and he will dwell with them"
  / ESV: "the dwelling place of God is with man. He will dwell with them"
  — ESV uses "dwelling place" for Greek "skēnē" (tent/tabernacle). KJV's
  "tabernacle" preserves the OT connection. God "tents" among His people
  — the ultimate fulfillment of the Incarnation (John 1:14).
+       NET: "the dwelling of God is with mankind! He will live
+       among them" — "dwelling" (skEnE = tabernacle/tent). WEB:
+       "God's dwelling is with people." KJV: "the tabernacle of God
+       is with men." The tabernacle/temple trajectory reaches its
+       goal — God dwelling permanently among His people with no
+       barrier.
 
 v.4 — KJV: "God shall wipe away all tears from their eyes; and there shall
  be no more death, neither sorrow, nor crying, neither shall there be any
@@ -133,10 +150,20 @@ v.4 — KJV: "God shall wipe away all tears from their eyes; and there shall
  death shall be no more, neither shall there be mourning, nor crying, nor
  pain anymore" — ESV uses "mourning" (Greek "penthos") for KJV's
  "sorrow." Both equivalent in meaning.
+       NET: "He will wipe away every tear from their eyes, and
+       death will not exist any more" — "wipe away" (exaleipsei =
+       completely remove). WEB: "He will wipe away every tear."
+       KJV: "God shall wipe away all tears." The personal tenderness
+       — God Himself touching faces, removing grief.
 
 v.5 — KJV: "Behold, I make all things new" / ESV: "Behold, I am making all
  things new" — ESV's present tense "am making" (Greek "kaina poiō
  panta") emphasizes the ongoing nature of renewal. Both equivalent.
+       NET: "Look! I am making all things new!" — "making new"
+       (kaina poiO = creating anew). WEB: "Behold, I am making all
+       things new." KJV: "Behold, I make all things new." Present
+       tense — the renewal is not just future but already in
+       process. Not "all new things" but "all things NEW.
 
 v.6 — KJV: "It is done. I am Alpha and Omega, the beginning and the end. I
  will give unto him that is athirst of the fountain of the water of life
@@ -186,40 +213,6 @@ v.27 — KJV: "there shall in no wise enter into it any thing that defileth,
  unclean will ever enter it, nor anyone who does what is detestable or
  false" — ESV is more concise. KJV: "the Lamb's book of life" / ESV:
  "the Lamb's book of life" — Both identical.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "Then I saw a new heaven and a new earth, for the
-       first heaven and earth had passed away" — "new" (kainon =
-       new in quality/character, not neos/new in time). WEB: "a
-       new heaven and a new earth." Not replacement but renewal —
-       transformed creation, not annihilation.
-
-v.2  — NET: "the holy city — the new Jerusalem — descending out
-       of heaven from God, made ready like a bride adorned for her
-       husband" — "adorned" (kekosmEmenEn = beautifully arranged —
-       English "cosmetics"). WEB: "prepared like a bride adorned
-       for her husband." The city IS the bride — the church in
-       its final, glorified form.
-
-v.3  — NET: "the dwelling of God is with mankind! He will live
-       among them" — "dwelling" (skEnE = tabernacle/tent). WEB:
-       "God's dwelling is with people." KJV: "the tabernacle of God
-       is with men." The tabernacle/temple trajectory reaches its
-       goal — God dwelling permanently among His people with no
-       barrier.
-
-v.4  — NET: "He will wipe away every tear from their eyes, and
-       death will not exist any more" — "wipe away" (exaleipsei =
-       completely remove). WEB: "He will wipe away every tear."
-       KJV: "God shall wipe away all tears." The personal tenderness
-       — God Himself touching faces, removing grief.
-
-v.5  — NET: "Look! I am making all things new!" — "making new"
-       (kaina poiO = creating anew). WEB: "Behold, I am making all
-       things new." KJV: "Behold, I make all things new." Present
-       tense — the renewal is not just future but already in
-       process. Not "all new things" but "all things NEW.
 
 GLOSSARY
 ------------------------------------

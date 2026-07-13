@@ -118,7 +118,7 @@ Charles Spurgeon:
  you. Who also will DO it — sanctification is ultimately God's work. You
  cooperate, but He accomplishes. Rest in His faithfulness, not your own."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "times and seasons" / ESV: "times and the seasons" — Greek "chronōn kai kairōn" — chronological
  time and opportune moments. The when and the what of eschatological
@@ -127,6 +127,11 @@ v.1 — KJV: "times and seasons" / ESV: "times and the seasons" — Greek "chron
 v.2 — KJV: "thief in the night" / ESV: Both equivalent. — Unexpected, unannounced, catching people
  off guard. Not the character of a thief (evil) but the manner (sudden,
  unexpected).
+       NET: "the day of the Lord will come like a thief in the
+       night" — "thief in the night" — unexpected to the unprepared.
+       WEB: "the day of the Lord comes like a thief in the night."
+       KJV: "the day of the Lord so cometh as a thief in the night."
+       Not unexpected to believers (v.4: "you are not in darkness").
 
 v.3 — KJV: "travail upon a woman with child" / ESV: "labor pains come upon a pregnant woman" — Sudden, unavoidable,
  inescapable. Once labor begins, there is no stopping it.
@@ -134,19 +139,39 @@ v.3 — KJV: "travail upon a woman with child" / ESV: "labor pains come upon a p
 v.6 — KJV: "watch" / ESV: "keep awake" — Greek "grēgorōmen" — be alert, stay awake. "Sober" —
  Greek "nēphōmen" — be self-controlled, clear-headed. Alertness +
  self-control = readiness.
+       NET: "let us not sleep as the rest do, but let us be alert
+       and sober" — "alert" (grEgorOmen = stay awake/be watchful).
+       WEB: "let's watch and be sober." KJV: "let us watch and be
+       sober." Two contrasts: sleeping vs. watching, drunk vs. sober.
+       Spiritual vigilance as lifestyle.
 
 v.14 — KJV: "unruly" / ESV: "idle" — Greek "ataktous" — disorderly, out of rank. A
  military term for soldiers who break formation. KJV: "feebleminded" /
  ESV: "fainthearted" — Greek "oligopsuchous" — small-souled, fainthearted, discouraged.
  Different people need different ministry.
 
+v.16 — NET: "Always rejoice" — two words in Greek (pantote
+       chairete). The shortest verse in Greek. WEB: "Rejoice always."
+       KJV: "Rejoice evermore." A command, not a suggestion — joy
+       is obedience, not mere emotion.
+
 v.17 — KJV: "without ceasing" / ESV: Both equivalent. — Greek "adialeiptōs" — unceasingly,
  constantly. Not non-stop verbal prayer but a continuous attitude of
  prayerful dependence.
+       NET: "constantly pray" — "constantly" (adialeiptOs =
+       without interruption). WEB: "Pray without ceasing." KJV:
+       "Pray without ceasing." Not 24/7 formal prayer but an
+       ongoing attitude of communication — breathing prayer
+       throughout the day.
 
 v.19 — KJV: "quench" / ESV: Both equivalent. — Greek "sbennute" — to extinguish, put out (a fire).
  The Spirit's work is compared to fire — it can be suppressed,
  smothered, extinguished by human resistance.
+       NET: "Do not extinguish the Spirit" — "extinguish"
+       (sbennyte = quench/put out fire). WEB: "Don't quench the
+       Spirit." KJV: "Quench not the Spirit." The Spirit's work
+       can be stifled/suppressed by human resistance — fire
+       imagery requires fuel and oxygen.
 
 v.21 — KJV: "prove" / ESV: "test" — Greek "dokimazete" — to test, examine, approve after
  testing. Like testing metals for purity. Test everything; keep what
@@ -160,37 +185,6 @@ v.23 — KJV: "spirit and soul and body" / ESV: Both equivalent. — The whole p
  teaches trichotomy (three parts) or uses overlapping terms for the
  whole person is debated. The point: COMPLETE sanctification — nothing
  left out.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "the day of the Lord will come like a thief in the
-       night" — "thief in the night" — unexpected to the unprepared.
-       WEB: "the day of the Lord comes like a thief in the night."
-       KJV: "the day of the Lord so cometh as a thief in the night."
-       Not unexpected to believers (v.4: "you are not in darkness").
-
-v.6  — NET: "let us not sleep as the rest do, but let us be alert
-       and sober" — "alert" (grEgorOmen = stay awake/be watchful).
-       WEB: "let's watch and be sober." KJV: "let us watch and be
-       sober." Two contrasts: sleeping vs. watching, drunk vs. sober.
-       Spiritual vigilance as lifestyle.
-
-v.16 — NET: "Always rejoice" — two words in Greek (pantote
-       chairete). The shortest verse in Greek. WEB: "Rejoice always."
-       KJV: "Rejoice evermore." A command, not a suggestion — joy
-       is obedience, not mere emotion.
-
-v.17 — NET: "constantly pray" — "constantly" (adialeiptOs =
-       without interruption). WEB: "Pray without ceasing." KJV:
-       "Pray without ceasing." Not 24/7 formal prayer but an
-       ongoing attitude of communication — breathing prayer
-       throughout the day.
-
-v.19 — NET: "Do not extinguish the Spirit" — "extinguish"
-       (sbennyte = quench/put out fire). WEB: "Don't quench the
-       Spirit." KJV: "Quench not the Spirit." The Spirit's work
-       can be stifled/suppressed by human resistance — fire
-       imagery requires fuel and oxygen.
 
 GLOSSARY
 ------------------------------------

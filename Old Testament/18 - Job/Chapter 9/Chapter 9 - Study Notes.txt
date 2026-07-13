@@ -143,7 +143,7 @@ Charles Spurgeon:
   his hand on both, who was God enough to stand in the divine
   presence and man enough to stand in our stead. Blessed be God,
   we have our Daysman. His name is Jesus."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.9  — KJV: "Arcturus, Orion, and Pleiades" / ESV: "the Bear and
        Orion, the Pleiades" — Hebrew "Ash" (Bear/Arcturus),
@@ -159,16 +159,16 @@ v.13 — KJV: "the proud helpers do stoop under him" / ESV: "beneath
        forces bow before God. KJV obscures the mythological
        reference; ESV preserves it.
 
+v.26 — KJV: "swift ships" / ESV: "skiffs of reed" — Hebrew "oniyot
+       'ebeh" = ships of papyrus/reed. Reed boats were the fastest
+       vessels on the Nile. ESV preserves the material; KJV
+       emphasizes the speed.
+
 v.33 — KJV: "daysman" / ESV: "arbiter" — Hebrew "mokiach" = one
        who decides, an umpire, a mediator. KJV "daysman" is
        archaic English for an arbitrator who sets a "day" (court
        date) for both parties. ESV "arbiter" is clearer but loses
        the evocative quality of the archaic term.
-
-v.26 — KJV: "swift ships" / ESV: "skiffs of reed" — Hebrew "oniyot
-       'ebeh" = ships of papyrus/reed. Reed boats were the fastest
-       vessels on the Nile. ESV preserves the material; KJV
-       emphasizes the speed.
 
 GLOSSARY
 ------------------------------------

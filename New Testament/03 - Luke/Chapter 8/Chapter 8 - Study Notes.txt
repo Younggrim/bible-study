@@ -92,18 +92,35 @@ Charles Spurgeon:
   But so was the presence of Christ in the boat. Faith does not deny the
   storm; it trusts the One who commands it."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.2  — NET: "Mary (called Magdalene), from whom seven demons
+       had gone out" — Luke alone mentions the women who funded
+       Jesus' ministry. WEB: "Mary who was called Magdalene, from
+       whom seven demons had gone out." Seven = complete demonic
+       possession, now completely delivered.
+
 v.3  — KJV: "ministered unto him of their substance" — ESV: "provided for
        them out of their means" — These women financially supported Jesus'
        ministry. Luke alone records this detail — showing that Jesus' ministry
        had practical needs met by faithful supporters.
+
+v.15 — NET: "these are the ones who, after hearing the word, hold
+       on to it with a good and right heart, and bear fruit with
+       endurance" — "endurance" (hypomonē) — the good soil isn't
+       just receptive, it's persistent. WEB: "bring fruit with
+       perseverance." KJV: "bring forth fruit with patience."
 
 v.26 — KJV: "the country of the Gadarenes" / ESV: "the country of the
        Gerasenes" — Some manuscripts read "Gerasenes" (ESV) or "Gergesenes"
        (KJV variant) or "Gadarenes" (KJV). The exact location is debated —
        all three refer to the same general region on the eastern shore of the
        Sea of Galilee.
+
+v.28 — NET: "Jesus, Son of the Most High God" — the demoniac uses
+       the highest possible divine title. WEB: "Jesus, you Son of
+       the Most High God." All versions agree. Demons confess what
+       humans struggle to see.
 
 v.30 — KJV: "Legion" / ESV: "Legion" — Both identical. A Roman legion
        consisted of approximately 6,000 soldiers. The name indicates the man
@@ -114,27 +131,7 @@ v.43 — KJV: "an issue of blood twelve years" / ESV: "a discharge of blood
        for twelve years" — Both equivalent. A continuous menstrual flow that
        made her perpetually ritually unclean (Leviticus 15:25-27), cutting
        her off from worship and community for 12 years.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "Mary (called Magdalene), from whom seven demons
-       had gone out" — Luke alone mentions the women who funded
-       Jesus' ministry. WEB: "Mary who was called Magdalene, from
-       whom seven demons had gone out." Seven = complete demonic
-       possession, now completely delivered.
-
-v.15 — NET: "these are the ones who, after hearing the word, hold
-       on to it with a good and right heart, and bear fruit with
-       endurance" — "endurance" (hypomonē) — the good soil isn't
-       just receptive, it's persistent. WEB: "bring fruit with
-       perseverance." KJV: "bring forth fruit with patience."
-
-v.28 — NET: "Jesus, Son of the Most High God" — the demoniac uses
-       the highest possible divine title. WEB: "Jesus, you Son of
-       the Most High God." All versions agree. Demons confess what
-       humans struggle to see.
-
-v.43 — NET: "a woman who had been suffering from a hemorrhage for
+       NET: "a woman who had been suffering from a hemorrhage for
        twelve years" — "suffering" adds pathos. WEB: "a woman
        having a flow of blood for twelve years." ASV: "a woman
        having an issue of blood twelve years." Luke the physician

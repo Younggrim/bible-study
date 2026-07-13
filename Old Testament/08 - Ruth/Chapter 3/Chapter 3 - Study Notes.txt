@@ -207,7 +207,7 @@ Charles Spurgeon:
   shame. And He, like Boaz, does not refuse. He says, 'Fear not; I will
   do for thee all that thou requirest.' What grace! What condescension!
   The mighty Redeemer stoops to the Moabitess at His feet."
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "he winnoweth barley to night in the threshingfloor" /
        ESV: "he is winnowing barley tonight at the threshing floor" —
@@ -262,62 +262,6 @@ v.15 — KJV: "Bring the vail that thou hast upon thee" / ESV: "Bring
        "vail" (veil) is less accurate — this is an outer garment or
        shawl that could be used to carry grain, not a face covering.
        ESV's "garment" is more appropriate.
-
-GLOSSARY
-------------------------------------
-Threshing Floor — An open-air area, usually on elevated ground, where
-               harvested grain was processed. Sheaves were spread on the
-               hard surface and beaten or trampled (often by oxen) to
-               separate kernels from stalks. Then the grain was tossed
-               into the air (winnowed) so wind carried away the lighter
-               chaff while heavier grain fell back to the floor. Owners
-               slept at the floor during harvest to protect their grain.
-               Threshing floors were also places of significant events:
-               Araunah's threshing floor became the site of Solomon's
-               temple (2 Samuel 24:18-25; 2 Chronicles 3:1).
-
-K'naf          — Hebrew = wing, edge, corner, skirt. The word connects
-               God's sheltering wings (Psalm 91:4; Ruth 2:12) with the
-               human act of spreading a garment over someone in marriage
-               (Ruth 3:9; Ezekiel 16:8). When Ruth asks Boaz to spread
-               his "k'naf" over her, she is asking him to be the human
-               embodiment of God's protective wings.
-
-Eshet Chayil   — Hebrew = woman of valor/virtue/worth. Used of Ruth
-               (3:11) and as the opening of the Proverbs 31 poem
-               (31:10). The phrase encompasses moral integrity, practical
-               capability, strength of character, and social worth. It
-               is the highest commendation a woman could receive.
-
-Manoach        — Hebrew = rest, resting place. Used by Naomi in v.1
-               (and 1:9) for the security and belonging that marriage
-               provides. Not mere comfort but settled security — a place
-               of permanence and protection. The word shares its root
-               with "Noah" (rest/comfort).
-
-Winnowing      — The process of separating grain from chaff by tossing
-               it into the air. Done in the evening when breezes were
-               strongest. The wind carries away the lighter chaff while
-               the heavier grain falls back to the floor. Used
-               metaphorically in Scripture for God's judgment separating
-               righteous from wicked (Matthew 3:12; Psalm 1:4).
-
-Levirate       — From Latin "levir" = husband's brother. The practice
-Marriage         (Deuteronomy 25:5-10) requiring a man to marry his
-               deceased brother's widow to produce an heir in the dead
-               brother's name. Ruth's situation is not strictly levirate
-               (Boaz is not Mahlon's brother) but the principle of
-               raising up the dead man's name on his inheritance applies
-               through the broader go'el obligation.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.9 — ASV: "spread therefore thy skirt over thy handmaid; for thou art a near kinsman" / WEB: "spread the corner of your garment over your servant; for you are a near kinsman" / NET: "Marry your servant, for you are a guardian of the family interests" / KJV: "spread therefore thy skirt over thine handmaid; for thou art a near kinsman" — This is the chapter's pivotal verse. Hebrew "u-parasta k'naphekha" = "spread your wing/skirt." NET replaces the beautiful imagery with the flat "marry your servant," losing the connection to 2:12 where Boaz praised Ruth for seeking refuge under God's "wings" (kanaf — same word). Now Ruth asks Boaz to be the human embodiment of divine protection. KJV/ASV/WEB preserve this theological wordplay.
-- v.9 — ASV: "a near kinsman" / WEB: "a near kinsman" / NET: "a guardian of the family interests" / KJV: "a near kinsman" — Hebrew "go'el" (kinsman-redeemer). NET's "guardian of family interests" is an interpretation, not a translation. The go'el redeems land, protects widows, and restores family lines — a role pointing to Christ as our ultimate Redeemer. KJV/ASV/WEB preserve the kinship language.
-- v.10 — ASV: "thou hast showed more kindness in the latter end than at the beginning" / WEB: "You have shown more kindness in the latter end than at the beginning" / NET: "This act of devotion is greater than what you did before" / KJV: "thou hast shewed more kindness in the latter end" — Hebrew "chesed" (loyal love/kindness) appears again. NET calls it "devotion"; KJV/ASV/WEB use "kindness." Ruth's first chesed was loyalty to Naomi; her second is choosing Boaz (an older, proper redeemer) over younger men — honoring family duty above personal preference.
-- v.11 — ASV: "thou art a worthy woman" / WEB: "you are a worthy woman" / NET: "you are a worthy woman" / KJV: "thou art a virtuous woman" — Hebrew "eshet chayil" (woman of valor/worth) — the same phrase used in Proverbs 31:10. KJV's "virtuous" is older English; ASV/WEB/NET's "worthy" captures the Hebrew better. The phrase parallels Boaz's description as "gibbor chayil" (2:1) — they are matched in character.
-- v.13 — ASV: "as Jehovah liveth" / WEB: "as Yahweh lives" / NET: "as surely as the Lord lives" / KJV: "as the LORD liveth" — Boaz swears by the living God. The divine name makes this oath deeply personal. NET's "as surely as" adds interpretive weight; KJV/ASV/WEB preserve the direct oath formula.
-- v.4 — ASV: "uncover his feet, and lay thee down" / WEB: "uncover his feet, and lay down" / NET: "uncover his legs, and lie down beside him" — Hebrew "margelot" (feet/place of the feet). NET's "legs" and "beside him" are interpretive additions suggesting more intimacy than the Hebrew states. KJV/ASV/WEB's literal "feet" preserves the narrative's studied ambiguity — the text is intentionally restrained.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

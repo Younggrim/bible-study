@@ -94,26 +94,49 @@ Charles Spurgeon:
  promising but pass over without dropping a single blessing. All show, no
  substance."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "privily shall bring in damnable heresies" / ESV: "secretly
  bring in destructive heresies" — Greek "pareisaxousin" — to smuggle
  in, to introduce secretly alongside. False teaching enters subtly, not
  obviously. KJV: "damnable heresies" / ESV: "destructive heresies" —
  Greek "haireseis apōleias" — heresies of destruction.
+       NET: "there will be false teachers among you. They will
+       bring in destructive opinions" — "destructive opinions"
+       (haireseis apOleias = heresies of destruction). WEB:
+       "destructive heresies." KJV: "damnable heresies." False
+       teaching smuggled in secretly — not overt but subtle
+       introduction.
 
 v.4 — KJV: "cast them down to hell" / ESV: "cast them into hell" — Greek
  "tartarōsas" — sent to Tartarus. Used only here in the NT. In Greek
  mythology, Tartarus was the deepest abyss. Peter uses it for the place
  of imprisoned fallen angels.
+       NET: "God did not spare the angels who sinned, but threw
+       them into hell and locked them up" — "threw into hell"
+       (tartarOsas = cast into Tartarus — the only NT use). WEB:
+       "cast them down to Tartarus." KJV: "cast them down to hell."
+       Tartarus was Greek mythology's deepest pit — Peter uses it
+       for the angels' prison.
 
 v.5 — KJV: "a preacher of righteousness" / ESV: "a herald of
  righteousness" — Greek "kēruka dikaiosunēs" — Noah as a proclaimer of
  righteousness before the flood.
+       NET: "he did not spare the ancient world, but did protect
+       Noah, a herald of righteousness" — "herald" (kEryka =
+       preacher/proclaimer). WEB: "a preacher of righteousness."
+       KJV: "a preacher of righteousness." Noah preached repentance
+       for 120 years while building — no one listened.
 
 v.9 — KJV: "knoweth how to deliver" / ESV: "knows how to rescue" — Greek
  "oiden... ruesthai" — knows how to rescue. God is experienced at
  delivering His people from trials.
+       NET: "the Lord knows how to rescue the godly from their
+       trials" — "rescue" (rhyesthai = deliver/extract from danger).
+       WEB: "the Lord knows how to deliver the godly out of
+       temptation." KJV: "the Lord knoweth how to deliver the
+       godly out of temptations." God's ability is proven by
+       history (Noah, Lot).
 
 v.15 — KJV: "the way of Balaam" / ESV: Both equivalent. — Balaam's error:
  using spiritual gifts for financial gain. Loving "the wages of
@@ -136,37 +159,7 @@ v.22 — KJV: "the dog is turned to his own vomit again; and the sow that was
  the mire" — Two proverbs illustrating the nature of apostates: they
  return to what they are by nature. A washed pig returns to mud because
  it's still a pig.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "there will be false teachers among you. They will
-       bring in destructive opinions" — "destructive opinions"
-       (haireseis apOleias = heresies of destruction). WEB:
-       "destructive heresies." KJV: "damnable heresies." False
-       teaching smuggled in secretly — not overt but subtle
-       introduction.
-
-v.4  — NET: "God did not spare the angels who sinned, but threw
-       them into hell and locked them up" — "threw into hell"
-       (tartarOsas = cast into Tartarus — the only NT use). WEB:
-       "cast them down to Tartarus." KJV: "cast them down to hell."
-       Tartarus was Greek mythology's deepest pit — Peter uses it
-       for the angels' prison.
-
-v.5  — NET: "he did not spare the ancient world, but did protect
-       Noah, a herald of righteousness" — "herald" (kEryka =
-       preacher/proclaimer). WEB: "a preacher of righteousness."
-       KJV: "a preacher of righteousness." Noah preached repentance
-       for 120 years while building — no one listened.
-
-v.9  — NET: "the Lord knows how to rescue the godly from their
-       trials" — "rescue" (rhyesthai = deliver/extract from danger).
-       WEB: "the Lord knows how to deliver the godly out of
-       temptation." KJV: "the Lord knoweth how to deliver the
-       godly out of temptations." God's ability is proven by
-       history (Noah, Lot).
-
-v.22 — NET: "A dog returns to its own vomit" — quoting Proverbs
+       NET: "A dog returns to its own vomit" — quoting Proverbs
        26:11. WEB: "The dog turns to his own vomit again." KJV:
        "The dog is turned to his own vomit again." False teachers
        who tasted freedom but returned to corruption — nature

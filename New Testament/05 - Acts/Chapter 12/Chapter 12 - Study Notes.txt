@@ -97,8 +97,15 @@ Charles Spurgeon:
   cannot imprison the Word. You cannot stop the Word. Empires fall; the
   Word grows."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.2  — NET: "He had James, the brother of John, executed with
+       a sword" — "James the brother of John" — the first apostle
+       martyred. WEB: "killed James, the brother of John, with the
+       sword." KJV: "killed James the brother of John with the
+       sword." One sentence — Luke's restraint regarding apostolic
+       death.
+
 v.4  — KJV: "after Easter" / ESV: "after the Passover" — Greek "pascha" =
        Passover, not Easter. The KJV's use of "Easter" is an anachronistic
        translation; ESV correctly renders it "Passover." Herod was waiting
@@ -109,6 +116,13 @@ v.5  — KJV: "prayer was made without ceasing" / ESV: "earnest prayer for him
        stretched out." KJV emphasizes persistence; ESV emphasizes intensity.
        Both aspects are present in the Greek.
 
+v.7  — NET: "an angel of the Lord appeared, and a light shone in
+       the prison cell. He struck Peter on the side and woke him
+       up" — "struck" (pataxas = hit/slapped). WEB: "struck Peter
+       on the side." Peter sleeps so soundly between two soldiers
+       the night before his likely execution that an angel must
+       physically hit him.
+
 v.12 — KJV: "Mary the mother of John, whose surname was Mark" / ESV: "Mary,
        the mother of John whose other name was Mark" — Both equivalent. This
        is John Mark, the author of the Gospel of Mark. His mother's house was
@@ -118,36 +132,18 @@ v.15 — KJV: "It is his angel" / ESV: "It is his angel!" — Both identical.
        The believers thought Peter's "angel" was at the door — reflecting a
        Jewish belief that guardian angels could appear in a person's likeness.
        They found it easier to believe in an angel than in answered prayer.
+       NET: "You're out of your mind! But she kept insisting that
+       it was Peter" — the praying church doesn't believe their
+       prayer was answered. WEB: "You are crazy!" KJV: "Thou art
+       mad." The irony: they prayed earnestly (v.5) then refused
+       to believe.
 
 v.23 — KJV: "eaten of worms, and gave up the ghost" / ESV: "eaten by worms
        and breathed his last" — Both equivalent. The historian Josephus
        confirms Herod Agrippa's death in AD 44, describing severe abdominal
        pain and death after five days. Luke attributes it to divine judgment
        for accepting divine honors.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "He had James, the brother of John, executed with
-       a sword" — "James the brother of John" — the first apostle
-       martyred. WEB: "killed James, the brother of John, with the
-       sword." KJV: "killed James the brother of John with the
-       sword." One sentence — Luke's restraint regarding apostolic
-       death.
-
-v.7  — NET: "an angel of the Lord appeared, and a light shone in
-       the prison cell. He struck Peter on the side and woke him
-       up" — "struck" (pataxas = hit/slapped). WEB: "struck Peter
-       on the side." Peter sleeps so soundly between two soldiers
-       the night before his likely execution that an angel must
-       physically hit him.
-
-v.15 — NET: "You're out of your mind! But she kept insisting that
-       it was Peter" — the praying church doesn't believe their
-       prayer was answered. WEB: "You are crazy!" KJV: "Thou art
-       mad." The irony: they prayed earnestly (v.5) then refused
-       to believe.
-
-v.23 — NET: "an angel of the Lord struck Herod down because he
+       NET: "an angel of the Lord struck Herod down because he
        did not give the glory to God, and he was eaten by worms
        and died" — "eaten by worms" (genomenosSkOlEkobrOtos). WEB:
        "he was eaten by worms and died." KJV: "he was eaten of

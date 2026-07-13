@@ -96,7 +96,7 @@ Charles Spurgeon:
   treasure, shall all be brought low — and the only thing left
   standing will be the LORD Himself. Where will your pride be then?"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — "in the last days" (KJV) / "in the latter days" (ESV) —
       Hebrew "be'acharit hayyamim" = in the end/outcome of the
@@ -118,43 +118,6 @@ v.16 — "ships of Tarshish" (KJV/ESV) — large ocean-going merchant
 v.22 — "whose breath is in his nostrils" (KJV/ESV) — Hebrew
       "neshamah be'apo" = life-breath in his nose. Humanity's
       fragility summarized — we are one breath from death.
-
-GLOSSARY
-------------------------------------
-Last Days     — Hebrew "acharit hayyamim" = the end of days. In
-               prophetic usage, refers to the messianic era and its
-               culmination — the time inaugurated by Christ and
-               consummated at His return.
-
-Day of the LORD — A recurring OT concept: the time when God
-               intervenes decisively in history — bringing judgment
-               on the proud and deliverance for the humble. Both
-               historical (specific judgments) and eschatological
-               (final judgment).
-
-Mountain of the LORD — The temple mount (Zion/Moriah) symbolically
-               elevated above all competing religious/political
-               centers. God's authority supreme over all nations.
-
-Plowshares    — Iron blades for cutting soil. The transformation
-               from swords to plowshares = the end of war and the
-               beginning of productive peace under God's rule.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.2 — ASV: "the mountain of Jehovah's house" / WEB: "the mountain of Yahweh's house" / NET: "the mountain of the Lord's temple" — ASV/WEB use the divine name directly. NET renders "beth" (house) as "temple" for clarity, while KJV/ASV/WEB retain the more literal "house."
-
-- v.3 — NET: "so he can teach us his requirements, and we can follow his standards" vs. KJV "he will teach us of his ways, and we will walk in his paths" — NET interprets "ways" (derek) and "paths" (orach) as "requirements" and "standards," importing a more legalistic framework. The literal translations preserve the relational journey imagery.
-
-- v.3 — NET: "For Zion will be the center for moral instruction; the Lord's message will issue from Jerusalem" — A complete paraphrase of KJV's "for out of Zion shall go forth the law (torah), and the word of the LORD from Jerusalem." NET replaces "law/torah" with "moral instruction," avoiding the specific Hebrew term.
-
-- v.10 — NET: "Get away from the dreadful judgment of the Lord, from his royal splendor!" vs. ASV: "from before the terror of Jehovah, and from the glory of his majesty" — NET uses "dreadful judgment" and "royal splendor" while ASV/WEB retain "terror" (pachad) and "glory of his majesty" (hadar ga'on), preserving the raw Hebrew intensity.
-
-- v.12 — ASV: "a day of Jehovah of hosts" / WEB: "a day of Yahweh of Armies" / NET: "the Lord of Heaven's Armies has planned a day of judgment" — The "Day of the LORD" is a major prophetic concept. NET adds "planned" and "of judgment" (interpretive expansion), while the literal versions let the phrase stand in its stark original form.
-
-- v.16 — ASV: "all the ships of Tarshish, and upon all pleasant imagery" / NET: "for all the large ships, for all the impressive ships" — KJV/ASV retain "ships of Tarshish" (specific geographic reference) and "pleasant imagery" (Hebrew "sekiyyot"); NET loses the Tarshish reference entirely, rendering both as generic ship descriptions.
-
-- v.22 — NET: "Stop trusting in human beings, whose life's breath is in their nostrils. For why should they be given special consideration?" vs. KJV "Cease ye from man, whose breath is in his nostrils: for wherein is he to be accounted of?" — WEB similarly renders "Stop trusting in man." NET/WEB make the command's meaning explicit, while KJV's archaic phrasing preserves the Hebrew's terse, proverbial quality.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

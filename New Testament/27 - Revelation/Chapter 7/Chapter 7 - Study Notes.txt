@@ -84,11 +84,17 @@ Charles Spurgeon:
  removing every trace of sorrow. This is the tenderness of the Almighty —
  the God who made galaxies stoops to wipe tears from His children's eyes."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3 — KJV: "sealed" / ESV: Both equivalent. — Greek "sphragisōmen" — to stamp with a seal. Marks
  ownership and protection. God's seal = divine protection during
  judgment.
+       NET: "Do not damage the earth or the sea or the trees
+       until we have put a seal on the foreheads of the servants
+       of our God" — "seal" (sphragisOmen = stamp with a mark of
+       ownership/protection). WEB: "until we have sealed the
+       bondservants of our God." Divine marking before judgment
+       falls — protection for God's own.
 
 v.4 — KJV: "an hundred and forty and four thousand" / ESV: "144,000" — Both
  equivalent; ESV uses numerals, KJV spells out. 12 x 12 x 1,000.
@@ -98,46 +104,35 @@ v.4 — KJV: "an hundred and forty and four thousand" / ESV: "144,000" — Both
 v.9 — KJV: "a great multitude, which no man could number" / ESV: "great multitude that no one could number" — In contrast to
  the specific 144,000, this group is innumerable. The full harvest of
  redemption from all peoples.
-
-v.14 — KJV: "great tribulation" / ESV: Both equivalent. — Greek "tēs thlipseōs tēs megalēs" — THE
- tribulation, THE great one. The specific end-times period of
- unprecedented suffering (cf. Matt 24:21, Dan 12:1).
-
-v.14 — KJV: "washed their robes... in the blood of the Lamb" / ESV: "washed their robes and made them white in the blood of the Lamb" — A paradox:
- blood that whitens. Christ's blood cleanses rather than stains.
-
-v.15 — KJV: "shall dwell among them" / ESV: "will shelter them with his
- presence" — Greek "skēnosei ep' autous" — will spread His tabernacle
- over them. ESV's "shelter with his presence" captures the protective
- tent/tabernacle imagery better than KJV's "dwell among."
-
-v.17 — KJV: "living fountains of waters" / ESV: "springs of living water" —
- Greek "zōsas pēgas hudatōn" — springs of living water. KJV
- "fountains" vs. ESV "springs" — same Greek word "pēgas." ESV's word
- order follows the Greek more naturally. Eternal refreshment, never-
- ending satisfaction (cf. John 4:14, 7:38).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "Do not damage the earth or the sea or the trees
-       until we have put a seal on the foreheads of the servants
-       of our God" — "seal" (sphragisOmen = stamp with a mark of
-       ownership/protection). WEB: "until we have sealed the
-       bondservants of our God." Divine marking before judgment
-       falls — protection for God's own.
-
-v.9  — NET: "a large crowd that no one could count, from every
+       NET: "a large crowd that no one could count, from every
        nation, tribe, people, and language" — "no one could count"
        (arithmEsai auton oudeis edynato). WEB: "a great multitude,
        which no man could count." The redeemed are innumerable —
        God's saving purpose succeeds on a massive scale.
 
-v.14 — NET: "These are the ones who have come out of the great
+v.14 — KJV: "great tribulation" / ESV: Both equivalent. — Greek "tēs thlipseōs tēs megalēs" — THE
+ tribulation, THE great one. The specific end-times period of
+ unprecedented suffering (cf. Matt 24:21, Dan 12:1).
+       NET: "These are the ones who have come out of the great
        tribulation. They have washed their robes and made them
        white in the blood of the Lamb" — "washed... in blood" —
        paradox: blood that whitens. WEB: "washed their robes, and
        made them white in the Lamb's blood." Purity through
        sacrifice, not self-effort.
+
+v.14 — KJV: "washed their robes... in the blood of the Lamb" / ESV: "washed their robes and made them white in the blood of the Lamb" — A paradox:
+ blood that whitens. Christ's blood cleanses rather than stains.
+       NET: "These are the ones who have come out of the great
+       tribulation. They have washed their robes and made them
+       white in the blood of the Lamb" — "washed... in blood" —
+       paradox: blood that whitens. WEB: "washed their robes, and
+       made them white in the Lamb's blood." Purity through
+       sacrifice, not self-effort.
+
+v.15 — KJV: "shall dwell among them" / ESV: "will shelter them with his
+ presence" — Greek "skēnosei ep' autous" — will spread His tabernacle
+ over them. ESV's "shelter with his presence" captures the protective
+ tent/tabernacle imagery better than KJV's "dwell among."
 
 v.16 — NET: "They will never go hungry or be thirsty again, and
        the sun will not beat down on them" — echoing Isaiah 49:10.
@@ -145,7 +140,12 @@ v.16 — NET: "They will never go hungry or be thirsty again, and
        end of all deprivation — reversing the sufferings of
        earthly tribulation.
 
-v.17 — NET: "the Lamb in the middle of the throne will shepherd
+v.17 — KJV: "living fountains of waters" / ESV: "springs of living water" —
+ Greek "zōsas pēgas hudatōn" — springs of living water. KJV
+ "fountains" vs. ESV "springs" — same Greek word "pēgas." ESV's word
+ order follows the Greek more naturally. Eternal refreshment, never-
+ ending satisfaction (cf. John 4:14, 7:38).
+       NET: "the Lamb in the middle of the throne will shepherd
        them and lead them to springs of living water" — "shepherd"
        (poimanei = tend/feed/guide). WEB: "the Lamb who is in the
        middle of the throne will be their shepherd." The slain Lamb

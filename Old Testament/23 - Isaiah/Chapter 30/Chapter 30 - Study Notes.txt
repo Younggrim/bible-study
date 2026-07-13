@@ -99,7 +99,7 @@ Charles Spurgeon:
   In RETURNING. In REST. The hardest thing for a panicked soul
   to do is stop moving and trust."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.7  — "Rahab that sitteth still" (KJV) / "Rahab who sits
       still" (ESV) — Hebrew "Rahab hem-shabet." Rahab = mythical
@@ -119,44 +119,6 @@ v.33 — "Topheth" (KJV/ESV) — Hebrew "topheth" = a burning place.
       were sacrificed to Molech. Here it becomes a metaphor for
       the burning prepared for the Assyrian king — God's judgment
       fire.
-
-GLOSSARY
-------------------------------------
-Rahab        — "Arrogance/Storm" — mythological sea monster used
-              as a mocking nickname for Egypt. Egypt: all bluster,
-              no substance. A monster that "sits still" when allies
-              need help.
-
-Returning and Rest — (v.15) The dual prescription for salvation:
-              repentance (returning to God) and trust (resting in
-              His sufficiency). The opposite of frantic
-              self-rescue.
-
-Topheth      — A burning place in the Valley of Hinnom, associated
-              with child sacrifice and divine judgment. Isaiah uses
-              it as a metaphor for the fiery end prepared for
-              Assyria's king.
-
-Teacher      — (v.20) Hebrew "moreh" = teacher/instructor. After
-              discipline ("bread of adversity"), God gives a
-              Teacher who won't be hidden anymore. Many see this
-              as messianic — Christ the Teacher.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "saith Jehovah" / WEB: "says Yahweh" / NET: "says the Lord" — The divine name opens the woe oracle. KJV's "cover with a covering, but not of my spirit" (weaving an alliance) becomes ASV/WEB "make a league/alliance, but not of my Spirit" — clearer politically. NET: "form alliances without consulting my Spirit."
-
-- v.15 — ASV: "the Lord Jehovah, the Holy One of Israel" / WEB: "the Lord Yahweh, the Holy One of Israel" / NET: "the Sovereign Lord, the Holy One of Israel" — At the pivotal "returning and rest" verse, the full divine title appears. NET's "If you repented and patiently waited for me, you would be delivered" interprets the Hebrew where KJV/ASV/WEB retain the poetic form: "In returning and rest shall ye be saved."
-
-- v.7 — ASV: "Rahab that sitteth still" / WEB: "Rahab who sits still" / NET: "Proud one who is silenced" — The Hebrew nickname for Egypt ("Rahab hem-shabet") is handled differently. KJV/ASV/WEB keep "Rahab" (the chaos-monster name), while NET translates the meaning ("Proud one") and interprets "sits still" as "silenced" — suggesting forced inaction rather than lazy inaction.
-
-- v.18 — ASV: "Jehovah is a God of justice; blessed are all they that wait for him" / WEB: "Yahweh is a God of justice. Blessed are all those who wait for him" / NET: "the Lord is a just God; all who wait for him in faith will be blessed" — NET adds "in faith" (not in the Hebrew), interpreting the nature of the waiting. KJV has "God of judgment" — using "judgment" (mishpat) where others use "justice."
-
-- v.26 — ASV: "in the day that Jehovah bindeth up the hurt of his people" / WEB: "in the day that Yahweh binds up the fracture of his people" / NET: "when the Lord binds up his people's fractured bones" — NET adds "bones" (not explicit in Hebrew "shever" = breach/fracture). The image of God as healer is intensified in NET but also narrowed from a general "fracture" (which could be spiritual/national) to specifically physical.
-
-- v.29 — ASV: "the mountain of Jehovah, to the Rock of Israel" / WEB: "Yahweh's mountain, to Israel's Rock" / KJV: "the mountain of the LORD, to the mighty One of Israel" — KJV translates "tsur" as "mighty One" rather than "Rock," losing the concrete imagery. ASV/WEB retain "Rock" — connecting to Isaiah 26:4's "Rock of Ages" theme.
-
-- v.33 — ASV: "a Topheth is prepared of old" / WEB: "his burning place has long been ready" / NET: "the burial place is already prepared" — NET renders "Topheth" as "burial place," losing the specific connection to child-sacrifice sites in the Valley of Hinnom (Gehenna). The Hebrew name itself carries theological freight about judgment.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

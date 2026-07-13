@@ -88,7 +88,7 @@ v.41  — Exodus 17:6 — Water from the rock.
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.15 — "Touch not mine anointed" — Hebrew "meshichay" (my
        anointed ones). In context refers to the patriarchs as
@@ -104,50 +104,6 @@ v.28 — KJV: "they rebelled not against his word" / ESV: "they did
        not rebel against his words" — Refers to Moses and Aaron
        obeying God's commands regarding the plagues. Some
        manuscripts and versions differ on this reading.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "Oh give thanks unto Jehovah" / WEB: "Give thanks to
-  Yahweh!" / NET: "Give thanks to the Lord" — The divine name
-  pattern: ASV renders YHWH as "Jehovah," WEB as "Yahweh," NET as
-  "the Lord." NET adds "Call on his name. Make known his
-  accomplishments among the nations" — turning "deeds" into
-  "accomplishments," a more interpretive choice.
-
-- v.1 — NET: "Make known his accomplishments among the nations" /
-  KJV: "make known his deeds among the people" — NET changes
-  "people" (singular, could mean Israel) to "nations" (plural,
-  Gentiles), and "deeds" to "accomplishments" — subtly shifting
-  from covenant community to universal witness.
-
-- v.8 — NET: "He always remembers his covenantal decree, the
-  promise he made to a thousand generations" — NET interprets
-  "covenant" as "covenantal decree" and "word which he commanded"
-  as "promise." This is helpful but introduces interpretation
-  where KJV/ASV/WEB stay closer to the Hebrew parallelism.
-
-- v.15 — WEB: "Don't touch my anointed ones! Do my prophets no
-  harm!" / NET: "Don't touch my chosen ones. Don't harm my
-  prophets." — NET changes "anointed" (meshichay) to "chosen ones,"
-  losing the messianic overtone. WEB/ASV retain "anointed," which
-  connects to the concept of God setting apart His people.
-
-- v.19 — ASV: "The word of Jehovah tried him" / NET: "The Lord's
-  word proved him right" / WEB: "Yahweh's word proved him true" —
-  KJV/ASV use "tried" (tested/refined), while NET/WEB shift to
-  "proved right/true" — nearly opposite meanings. ASV emphasizes
-  the refining process; NET emphasizes vindication.
-
-- v.40 — WEB: "satisfied them with the bread of the sky" / KJV:
-  "satisfied them with the bread of heaven" / NET: "satisfied them
-  with food from the sky" — Hebrew "lechem shamayim." WEB/NET
-  render "shamayim" as "sky" rather than "heaven," reducing the
-  theological resonance with John 6 where Jesus calls himself the
-  "bread from heaven."
-
-- v.45 — WEB: "Praise Yah!" / ASV: "Praise ye Jehovah" / NET:
-  "Praise the Lord" — Again WEB uniquely preserves the Hebrew
-  exclamation "Hallelu-Yah" in its shortened divine name form.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

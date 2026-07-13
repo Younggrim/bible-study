@@ -77,7 +77,7 @@ v.3   — Hermon — The highest mountain in Israel (9,000+ ft),
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — "dwell together" — Hebrew "shevet achim gam-yachad" =
       brothers also sitting/dwelling together. Not just proximity
@@ -87,14 +87,6 @@ v.1 — "dwell together" — Hebrew "shevet achim gam-yachad" =
 v.2 — The anointing oil (Exodus 30) contained myrrh, cinnamon,
       calamus, cassia, and olive oil — extremely precious and
       aromatic. Unity fills the room like sacred perfume.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — KJV: "Behold, how good and how pleasant it is for brethren to dwell together in unity!" / NET: "Look! How good and how pleasant it is when brothers truly live in unity" / WEB: "See how good and how pleasant it is for brothers to live together in unity!" — NET adds "truly" (not in Hebrew) for emphasis. All three modern translations update "brethren" to "brothers."
-- v.2 — KJV: "the precious ointment" / ASV: "the precious oil" / WEB: "the precious oil" / NET: "fine oil" — Hebrew "shemen hatov" = good/fine oil. KJV's "ointment" suggests something thicker; "oil" is more accurate for anointing oil.
-- v.2 — KJV: "the skirts of his garments" / ASV: "the skirt of his garments" / WEB: "the edge of his robes" / NET: "his garments" — Hebrew "peh" (mouth/opening/collar) of his garments. WEB's "edge of his robes" is clearest; NET drops the specificity entirely.
-- v.3 — KJV: "the LORD commanded the blessing" / ASV: "Jehovah commanded the blessing" / WEB: "Yahweh gives the blessing" / NET: "the Lord has decreed a blessing will be available" — WEB changes "commanded" to "gives" (simpler); NET adds "decreed" and "will be available" (interpretive expansion).
-- v.3 — NET: "eternal life" — Renders KJV's "life for evermore" as the more theologically loaded "eternal life," potentially importing NT concepts into the OT text.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

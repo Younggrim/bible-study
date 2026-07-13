@@ -97,7 +97,7 @@ Charles Spurgeon:
  will... I will... I will.' The new covenant depends on God's faithfulness,
  not ours. That is why it is better."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "the sum" / ESV: "the point in what we are saying" — Greek "kephalaion" — the main point, the chief
  thing. After the detailed argument of ch.7, here is the summary.
@@ -113,6 +113,12 @@ v.5 — KJV: "example and shadow" / ESV: "shadow" — Greek "hupodeigmati kai sk
 v.6 — KJV: "mediator" / ESV: Both equivalent. — Greek "mesitēs" — one who stands in the middle,
  a go-between. Christ stands between God and humanity, mediating the
  new covenant.
+       NET: "But now Jesus has obtained a superior ministry,
+       since the covenant that he mediates is also better" —
+       "superior" (diaphorOteras = more excellent/distinguished).
+       WEB: "a more excellent ministry." KJV: "a more excellent
+       ministry." Better ministry, better covenant, better promises
+       — the argument of the whole book.
 
 v.8 — KJV: "finding fault with them" / ESV: "fault" — The fault was not with the covenant
  itself but with the people who couldn't keep it. The new covenant
@@ -121,44 +127,26 @@ v.8 — KJV: "finding fault with them" / ESV: "fault" — The fault was not with
 v.10 — KJV: "put my laws into their mind, and write them in their hearts" / ESV: "put my laws into their minds, and write them on their hearts" —
  Internal transformation. The old covenant wrote laws on stone; the new
  writes them on hearts. External regulation vs. internal motivation.
-
-v.12 — KJV: "remember no more" / ESV: "remember their sins no more." — Greek "ou mē mnēsthō eti" — I will
- absolutely not remember anymore. Double negative for emphasis. God's
- deliberate choice not to hold sins against the forgiven.
-
-v.13 — KJV: "ready to vanish away" / ESV: Both equivalent. — Greek "engus aphanismou" — near
- disappearance. Written before AD 70 when the temple was destroyed —
- the old system was already fading and would soon be gone entirely.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.6  — NET: "But now Jesus has obtained a superior ministry,
-       since the covenant that he mediates is also better" —
-       "superior" (diaphorOteras = more excellent/distinguished).
-       WEB: "a more excellent ministry." KJV: "a more excellent
-       ministry." Better ministry, better covenant, better promises
-       — the argument of the whole book.
-
-v.10 — NET: "I will put my laws in their minds and I will inscribe
+       NET: "I will put my laws in their minds and I will inscribe
        them on their hearts" — quoting Jeremiah 31:33. "Inscribe"
        (epigraphO = write upon). WEB: "I will put my laws into
        their mind, I will also write them on their heart." Internal
        law replacing external tablets — the Spirit writes.
 
-v.12 — NET: "I will be merciful toward their evil deeds, and
+v.12 — KJV: "remember no more" / ESV: "remember their sins no more." — Greek "ou mē mnēsthō eti" — I will
+ absolutely not remember anymore. Double negative for emphasis. God's
+ deliberate choice not to hold sins against the forgiven.
+       NET: "I will be merciful toward their evil deeds, and
        their sins I will remember no longer" — "remember no longer"
        (ou mE mnEsthO eti = absolutely will not recall). WEB:
        "Their sins and their iniquities will I remember no more."
        Double negative + emphatic = the strongest possible denial.
        God CHOOSES to forget.
 
-v.13 — NET: "When he speaks of a new covenant, he makes the first
-       obsolete" — "obsolete" (pepalaiken = made old/outdated).
-       WEB: "he has made the first old." KJV: "he hath made the
-       first old." The old covenant is not evil but expired — it
-       served its purpose and is now superseded.
-
-v.13 — NET: "what is growing obsolete and aging is about to
+v.13 — KJV: "ready to vanish away" / ESV: Both equivalent. — Greek "engus aphanismou" — near
+ disappearance. Written before AD 70 when the temple was destroyed —
+ the old system was already fading and would soon be gone entirely.
+       NET: "what is growing obsolete and aging is about to
        disappear" — "about to disappear" (engys aphanismou = near
        vanishing). Written before AD 70 when the temple was
        destroyed — prophetic timing. WEB: "near to vanishing away."

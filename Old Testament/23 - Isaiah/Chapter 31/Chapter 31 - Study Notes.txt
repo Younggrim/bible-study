@@ -95,7 +95,7 @@ Charles Spurgeon:
   God. No army, no bank account, no political leader is God.
   Only God is God — act accordingly."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3  — "flesh, and not spirit" (KJV/ESV) — Hebrew "basar v'lo
       ruach" = flesh and not spirit. The fundamental biblical
@@ -116,39 +116,6 @@ v.8  — "not of a mighty man... not of man" (KJV) — Hebrew "lo
       ish... lo adam" = not a warrior... not a human. Emphatic
       double denial of human agency. This victory belongs to
       God alone.
-
-GLOSSARY
-------------------------------------
-Horses/Chariots — Egypt's primary military export: cavalry and
-              chariot divisions. The ancient equivalent of heavy
-              armor. Judah's leaders wanted this technology instead
-              of trusting God.
-
-Flesh vs. Spirit — The fundamental Isaiah contrast (v.3):
-              everything human is "flesh" (limited, mortal);
-              only God is "spirit" (unlimited, eternal). Trusting
-              flesh over spirit is category confusion.
-
-Passing Over — (v.5) Deliberate Passover language: God's
-              protective "passing over" His people while
-              destroying the enemy. Same verb, same action,
-              same God.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — ASV: "neither seek Jehovah" / WEB: "they don't seek Yahweh" / NET: "do not seek help from the Lord" — NET adds "help from" (not in Hebrew), narrowing the seeking to pragmatic aid rather than the broader relational seeking of God Himself that the Hebrew "darash YHWH" implies.
-
-- v.1 — NET: "Those who go down to Egypt for help are as good as dead" — NET renders "Woe" (Hebrew "hoy") as "as good as dead" — making the funeral connotation explicit but losing the prophetic lament form. KJV/ASV/WEB retain the traditional "Woe" oracle formula.
-
-- v.4 — ASV: "so will Jehovah of hosts come down to fight upon mount Zion" / WEB: "so Yahweh of Armies will come down to fight on Mount Zion" / NET: "the Lord of Heaven's Armies will descend to do battle on Mount Zion" — Three renderings of YHWH Sabaoth at the theophany moment. NET's "descend to do battle" is more formal but captures the warrior-God descending.
-
-- v.5 — WEB: "As birds hovering, so Yahweh of Armies will protect Jerusalem" / ASV: "As birds hovering, so will Jehovah of hosts protect Jerusalem" / NET: "Just as birds hover over a nest, so the Lord of Heaven's Armies will protect Jerusalem" — NET adds "over a nest" (not explicit in Hebrew), clarifying the maternal protection imagery. The Hebrew simply says "birds flying/hovering" — the nest is implied, not stated.
-
-- v.3 — NET: "The Lord will strike with his hand" — KJV: "When the LORD shall stretch out his hand." The Hebrew "natah yad" means to stretch out/extend the hand — a gesture of judgment. NET's "strike" collapses the image into immediate action; KJV/ASV/WEB preserve the deliberate, ominous extension.
-
-- v.9 — ASV: "saith Jehovah, whose fire is in Zion, and his furnace in Jerusalem" / WEB: "says Yahweh, whose fire is in Zion, and his furnace in Jerusalem" / NET: "the one whose fire is in Zion, whose firepot is in Jerusalem" — NET's "firepot" (vs. "furnace") is more technically accurate for the Hebrew "tannur" (clay oven), but "furnace" (KJV/ASV/WEB) carries more intensity. God's fire dwells permanently in Zion.
-
-- v.8 — NET: "Assyria will fall by a sword, but not one human made; a sword not made by humankind will destroy them" — This expanded paraphrase makes explicit what KJV states more mysteriously: "the sword, not of a mighty man... not of a mean man." The ambiguity in KJV heightens the supernatural terror; NET explains it away.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

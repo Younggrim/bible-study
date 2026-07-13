@@ -110,7 +110,7 @@ v.17  — Isaiah 66:2 — "To this man will I look, even to him that
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "lovingkindness" / ESV: "steadfast love" — Hebrew
       "hesed" = covenant loyalty, unfailing love. ESV captures the
@@ -133,45 +133,6 @@ v.12 — KJV: "free spirit" / ESV: "willing spirit" — Hebrew
        "nedibah" = willing, generous, noble. ESV's "willing" is
        more accurate — David asks for a spirit that WANTS to obey,
        not one that must be forced.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — NET: "because of your loyal love. Because of your great compassion,
-  wipe away my rebellious acts" — renders "chesed" as "loyal love" (combining
-  covenant faithfulness with affection). "Rebellious acts" for Hebrew "pesha"
-  is stronger than "transgressions" (KJV/ESV/ASV/WEB) — emphasizing willful
-  rebellion against God's authority, not merely crossing a line.
-- v.1 — ASV/WEB: "lovingkindness" / "loving kindness" — both preserve the
-  compound concept. WEB separates it into two words; ASV keeps KJV's single
-  compound word. All attempt to render the untranslatable "chesed."
-- v.4 — NET: "So you are just when you confront me; you are right when you
-  condemn me" — renders the purpose clause as God confronting and condemning
-  David directly. KJV/ESV/ASV/WEB retain "that thou mayest be justified when
-  thou speakest" — more about vindicating God's judgment. NET makes it more
-  personal and immediate.
-- v.5 — NET: "I was guilty of sin from birth, a sinner the moment my mother
-  conceived me" — "guilty of sin" is more interpretive than "brought forth in
-  iniquity" (ESV) or "born in iniquity" (WEB). NET makes the doctrine of
-  original sin explicit. ASV: "brought forth in iniquity" — matches ESV.
-- v.7 — NET: "Cleanse me with hyssop" — KJV uses "Purge me" (stronger
-  purgation); ASV/WEB use "Purify me"; ESV uses "Purge me." NET's "cleanse"
-  is gentler. Hyssop was used in Levitical cleansing rituals (Leviticus 14,
-  Numbers 19) — David asks for priestly purification.
-- v.10 — NET: "Create for me a pure heart...Renew a resolute spirit" — "pure"
-  (vs. "clean" in KJV/ESV/ASV/WEB) and "resolute" (vs. "right"/"steadfast")
-  add interpretive force. "Resolute" emphasizes determination to obey, not
-  just moral correctness.
-- v.12 — NET: "Sustain me by giving me the desire to obey" — a full
-  interpretive paraphrase of Hebrew "ruach nedibah." KJV: "free spirit"; ESV:
-  "willing spirit"; ASV: "willing spirit"; WEB: "willing spirit." NET unpacks
-  the meaning: David asks God to give him WANT-TO, not just have-to.
-- v.14 — NET: "Rescue me from the guilt of murder" — renders "damim"
-  (bloods/bloodguilt) explicitly as "guilt of murder," directly naming
-  David's sin with Uriah. KJV/ASV/WEB: "bloodguiltiness." ESV: "bloodguilt."
-- v.17 — NET: "The sacrifice God desires is a humble spirit—O God, a humble
-  and repentant heart you will not reject" — uses "humble" where KJV/ESV/
-  ASV/WEB use "broken." Also "repentant" rather than "contrite." NET
-  interprets the emotional state rather than translating the metaphor.
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

@@ -74,21 +74,37 @@ Charles Spurgeon:
  spiritual children walk in truth. People living faithfully — that is the
  reward of ministry."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2 — KJV: "prosper and be in health" / ESV: "that all may go well with you
  and that you may be in good health" — Greek "euodousthai kai
  hugiainein" — to go well and to be healthy. "Even as thy soul
  prospereth" — Gaius's spiritual health was the standard. John wishes
  his physical life would match his spiritual vitality.
+       NET: "I pray that all may go well with you and that you
+       may be in good health, just as it is well with your soul" —
+       "go well" (euodousthai = prosper/succeed). WEB: "I pray that
+       you may prosper in all things and be healthy." KJV: "I wish
+       above all things that thou mayest prosper and be in health."
+       A standard greeting, not a health-wealth promise.
 
 v.4 — KJV: "my children walk in truth" / ESV: Both equivalent. — Greek "en
  alētheia peripatountas" — walking in truth. A pastor's greatest joy.
+       NET: "I have no greater joy than this: to hear that my
+       children are living according to the truth" — "living
+       according to the truth" (en alEtheia peripatounta = walking
+       in truth). WEB: "to hear of my children walking in truth."
+       The aged apostle's greatest joy — spiritual faithfulness.
 
 v.7 — KJV: "taking nothing of the Gentiles" / ESV: "accepting nothing from
  the Gentiles" — These missionaries refused support from unbelievers —
  depending entirely on Christian hospitality. This made believers'
  support essential.
+       NET: "For they went out for the sake of the Name,
+       accepting nothing from the Gentiles" — "the Name" (tou
+       onomatos = THE name — Jesus). WEB: "for the sake of the
+       Name." KJV: "for his name's sake." Missionaries who refuse
+       support from unbelievers to maintain integrity.
 
 v.8 — KJV: "fellowhelpers to the truth" / ESV: "fellow workers for the
  truth" — Greek "sunergoi tē alētheia" — co-workers with the truth.
@@ -97,6 +113,11 @@ v.8 — KJV: "fellowhelpers to the truth" / ESV: "fellow workers for the
 v.9 — KJV: "loveth to have the preeminence" / ESV: "likes to put himself
  first" — Greek "philoprōteuōn" — loving to be first. A word used only
  here in the NT. Diotrephes's sin: self-promotion, desire for control.
+       NET: "Diotrephes, who loves to be first among them, does
+       not acknowledge us" — "loves to be first" (ho philoprOteuOn
+       = the one loving preeminence). WEB: "Diotrephes, who loves
+       to be first among them." A one-word character diagnosis:
+       lover of first place. Authority addiction.
 
 v.10 — KJV: "prating against us with malicious words" / ESV: "talking wicked
  nonsense against us" — Greek "phluarōn" — talking nonsense, making
@@ -106,35 +127,7 @@ v.10 — KJV: "prating against us with malicious words" / ESV: "talking wicked
 v.11 — KJV: "follow not that which is evil, but that which is good" / ESV:
  "do not imitate evil but imitate good" — Greek "mimou" — imitate.
  Don't imitate Diotrephes (evil); imitate Demetrius (good).
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "I pray that all may go well with you and that you
-       may be in good health, just as it is well with your soul" —
-       "go well" (euodousthai = prosper/succeed). WEB: "I pray that
-       you may prosper in all things and be healthy." KJV: "I wish
-       above all things that thou mayest prosper and be in health."
-       A standard greeting, not a health-wealth promise.
-
-v.4  — NET: "I have no greater joy than this: to hear that my
-       children are living according to the truth" — "living
-       according to the truth" (en alEtheia peripatounta = walking
-       in truth). WEB: "to hear of my children walking in truth."
-       The aged apostle's greatest joy — spiritual faithfulness.
-
-v.7  — NET: "For they went out for the sake of the Name,
-       accepting nothing from the Gentiles" — "the Name" (tou
-       onomatos = THE name — Jesus). WEB: "for the sake of the
-       Name." KJV: "for his name's sake." Missionaries who refuse
-       support from unbelievers to maintain integrity.
-
-v.9  — NET: "Diotrephes, who loves to be first among them, does
-       not acknowledge us" — "loves to be first" (ho philoprOteuOn
-       = the one loving preeminence). WEB: "Diotrephes, who loves
-       to be first among them." A one-word character diagnosis:
-       lover of first place. Authority addiction.
-
-v.11 — NET: "Dear friend, do not imitate what is bad but what is
+       NET: "Dear friend, do not imitate what is bad but what is
        good. The one who does good is of God; the one who does
        what is bad has not seen God" — "imitate" (mimou = mimic/
        copy). WEB: "Don't imitate that which is evil, but that

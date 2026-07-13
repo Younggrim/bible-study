@@ -94,39 +94,32 @@ Charles Spurgeon:
   murder, steal, lie, or covet. Love makes the commandments unnecessary
   because it exceeds them all."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.1  — KJV: "higher powers" — ESV: "governing authorities" — Greek "exousiais
        huperechousais" — authorities that are over you. This includes all
        levels of government — local, national, and imperial.
-
-v.1  — KJV: "ordained of God" / ESV: "have been instituted by God" — Greek "tetagmenai" — arranged, appointed,
-       established by God. Government is God's institution — even imperfect
-       government serves His purposes of restraining evil.
-
-v.4  — KJV: "beareth not the sword in vain" / ESV: "not bear the sword in vain. For he is" — The "sword" represents the
-       government's God-given authority to use force — including capital
-       punishment — to restrain evil and protect the innocent.
-
-v.11 — KJV: "our salvation nearer than when we believed" / ESV: "is nearer to us now than when we first believed" — "Salvation" here
-       refers to final salvation — glorification, the return of Christ. Every
-       day brings it closer.
-
-v.14 — KJV: "make not provision for the flesh" / ESV: "and make no provision for the flesh" — Greek "pronoian mē poieisthe"
-       — don't plan ahead for the flesh's desires. Don't set up situations
-       where temptation is easy. Cut off the supply lines of sin.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "Let every person be subject to the governing
+       NET: "Let every person be subject to the governing
        authorities" — "be subject" (hypotassesthO = place yourself
        under in an orderly way). WEB: "Let every soul be in
        subjection to the higher authorities." KJV: "Let every soul
        be subject unto the higher powers." Not blind obedience but
        ordered respect for God-established authority.
 
-v.4  — NET: "for it is God's servant for your good" — the state
+v.1  — KJV: "ordained of God" / ESV: "have been instituted by God" — Greek "tetagmenai" — arranged, appointed,
+       established by God. Government is God's institution — even imperfect
+       government serves His purposes of restraining evil.
+       NET: "Let every person be subject to the governing
+       authorities" — "be subject" (hypotassesthO = place yourself
+       under in an orderly way). WEB: "Let every soul be in
+       subjection to the higher authorities." KJV: "Let every soul
+       be subject unto the higher powers." Not blind obedience but
+       ordered respect for God-established authority.
+
+v.4  — KJV: "beareth not the sword in vain" / ESV: "not bear the sword in vain. For he is" — The "sword" represents the
+       government's God-given authority to use force — including capital
+       punishment — to restrain evil and protect the innocent.
+       NET: "for it is God's servant for your good" — the state
        as "God's servant" (theou diakonos). WEB: "for he is a
        servant of God to you for good." KJV: "the minister of God
        to thee for good." Government exists for public good under
@@ -137,13 +130,19 @@ v.8  — NET: "Owe no one anything, except to love one another" —
        except to love one another." KJV: "Owe no man any thing, but
        to love one another." Love is the one debt never fully paid.
 
-v.11 — NET: "it is already the hour for you to awake from sleep"
+v.11 — KJV: "our salvation nearer than when we believed" / ESV: "is nearer to us now than when we first believed" — "Salvation" here
+       refers to final salvation — glorification, the return of Christ. Every
+       day brings it closer.
+       NET: "it is already the hour for you to awake from sleep"
        — "awake" (egerthEnai = rise/be raised — resurrection
        language). WEB: "knowing the time, that it is already time
        for you to awaken out of sleep." KJV: "now it is high time
        to awake out of sleep." Spiritual drowsiness is dangerous.
 
-v.14 — NET: "Instead, put on the Lord Jesus Christ, and make no
+v.14 — KJV: "make not provision for the flesh" / ESV: "and make no provision for the flesh" — Greek "pronoian mē poieisthe"
+       — don't plan ahead for the flesh's desires. Don't set up situations
+       where temptation is easy. Cut off the supply lines of sin.
+       NET: "Instead, put on the Lord Jesus Christ, and make no
        provision for the flesh to arouse its desires" — "put on"
        (endysasthe = clothe yourself with). WEB: "put on the Lord
        Jesus Christ." KJV: "put ye on the Lord Jesus Christ."

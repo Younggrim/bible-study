@@ -92,30 +92,7 @@ Charles Spurgeon:
   everything — and said 'I'm in.' Half-hearted discipleship is no
   discipleship at all."
 
-TRANSLATION NOTES
-------------------------------------
-v.26 — KJV: "hate not his father, and mother" — ESV: "does not hate his own
-       father and mother" — Greek "miseō" — in Semitic usage, this means
-       "love less" (compare Genesis 29:31 where Leah is "hated" = loved less
-       than Rachel). Jesus is not commanding emotional hatred but establishing
-       priority — He must come first, above all.
-
-v.23 — KJV: "compel them to come in" / ESV: "compel people to come in" —
-       Both equivalent. Greek "anankason" — to urge strongly, to constrain by
-       persuasion. Not physical force but urgent, passionate invitation.
-       Augustine unfortunately used this verse to justify forced conversion —
-       a misuse of the text.
-
-v.28 — KJV: "counteth the cost" / ESV: "count the cost" — Both equivalent.
-       Greek "psēphizei" — to calculate with pebbles (the ancient calculator).
-       Jesus wants deliberate, eyes-open commitment — not impulsive enthusiasm.
-
-v.34 — KJV: "if the salt have lost his savour" / ESV: "if salt has lost its
-       taste" — Both equivalent. Salt in Palestine was often impure (mixed
-       with gypsum). It could lose its saltiness, becoming useless. A disciple
-       who loses his distinctiveness is worthless.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.11 — NET: "For everyone who exalts himself will be humbled,
        and the one who humbles himself will be exalted" — a Lukan
@@ -129,13 +106,27 @@ v.18 — NET: "But one after another they all began to make excuses"
        to make excuses." The unanimity of refusal — three excuses
        (land, oxen, wife) representing possessions, business, family.
 
-v.26 — NET: "If anyone comes to me and does not hate his own
+v.23 — KJV: "compel them to come in" / ESV: "compel people to come in" —
+       Both equivalent. Greek "anankason" — to urge strongly, to constrain by
+       persuasion. Not physical force but urgent, passionate invitation.
+       Augustine unfortunately used this verse to justify forced conversion —
+       a misuse of the text.
+
+v.26 — KJV: "hate not his father, and mother" — ESV: "does not hate his own
+       father and mother" — Greek "miseō" — in Semitic usage, this means
+       "love less" (compare Genesis 29:31 where Leah is "hated" = loved less
+       than Rachel). Jesus is not commanding emotional hatred but establishing
+       priority — He must come first, above all.
+       NET: "If anyone comes to me and does not hate his own
        father and mother" — "hate" (miseo) — Semitic hyperbole for
        "love less by comparison." WEB: "doesn't disregard his own
        father." NET/ESV preserve the shocking word; WEB softens it.
        The demand is for supreme loyalty, not emotional hatred.
 
-v.28 — NET: "For which of you, wanting to build a tower, doesn't
+v.28 — KJV: "counteth the cost" / ESV: "count the cost" — Both equivalent.
+       Greek "psēphizei" — to calculate with pebbles (the ancient calculator).
+       Jesus wants deliberate, eyes-open commitment — not impulsive enthusiasm.
+       NET: "For which of you, wanting to build a tower, doesn't
        first sit down and compute the cost" — "compute the cost"
        (psēphizei tēn dapanēn). KJV: "counteth the cost." WEB:
        "counts the cost." Discipleship requires rational assessment
@@ -146,6 +137,11 @@ v.33 — NET: "any one of you who does not renounce all his own
        = say farewell to/take leave of). KJV: "forsaketh not all."
        WEB: "renounces all that he has." Total surrender is the
        entry fee — not optional generosity.
+
+v.34 — KJV: "if the salt have lost his savour" / ESV: "if salt has lost its
+       taste" — Both equivalent. Salt in Palestine was often impure (mixed
+       with gypsum). It could lose its saltiness, becoming useless. A disciple
+       who loses his distinctiveness is worthless.
 
 GLOSSARY
 ------------------------------------

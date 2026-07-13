@@ -144,8 +144,14 @@ Charles Spurgeon:
   and mighty archers, then no situation is too hopeless for God's
   restoring grace."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.29 — KJV: does not name Jeiel / ESV: does not name Jeiel —
+       Both translations leave the "father of Gibeon" unnamed here
+       (cf. 9:35 ESV: "Jeiel"). The Hebrew text of 8:29 appears
+       to have lost the name through scribal error; 9:35 preserves
+       it.
+
 v.33 — KJV: "Esh-baal" / ESV: "Eshbaal" — The original name
        meaning "man of Baal" or "fire of Baal." In 2 Samuel, this
        is changed to "Ish-bosheth" (man of shame). The Chronicler
@@ -163,12 +169,6 @@ v.36 — KJV: "Jehoadah" / ESV: "Jehoaddah" — In 9:42 this same
        genealogical lists is common in ancient Near Eastern records
        and reflects different manuscript traditions or alternate
        name forms.
-
-v.29 — KJV: does not name Jeiel / ESV: does not name Jeiel —
-       Both translations leave the "father of Gibeon" unnamed here
-       (cf. 9:35 ESV: "Jeiel"). The Hebrew text of 8:29 appears
-       to have lost the name through scribal error; 9:35 preserves
-       it.
 
 v.40 — KJV: "mighty men of valour, archers" / ESV: "mighty
        warriors, bowmen" — Hebrew "gibbore chayil, dorekhe qeshet"

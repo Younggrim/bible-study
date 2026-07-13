@@ -85,44 +85,34 @@ Charles Spurgeon:
   miracle, before one sermon. The Father's approval was not earned by
   performance; it was declared over identity. That is grace."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "Repent ye: for the kingdom of heaven is at hand" / ESV: "Repent,
        for the kingdom of heaven is at hand" — Both identical in meaning.
        Matthew uniquely uses "kingdom of heaven" (32 times) where Mark and
        Luke use "kingdom of God." Both refer to the same reality. Matthew,
        writing for Jews, used "heaven" as a reverent substitute for "God."
+       NET: "Repent, for the kingdom of heaven is near!" —
+       "near" (Eggiken = has drawn near/is at hand — perfect tense).
+       WEB: "Repent, for the Kingdom of Heaven is at hand!" KJV:
+       "Repent ye: for the kingdom of heaven is at hand." The
+       kingdom has already begun approaching — urgency.
 
 v.7  — KJV: "generation of vipers" — ESV/NET: "brood of vipers" — Greek
        "gennēmata echidnōn" — offspring of snakes. A devastating insult to
        men who prided themselves on their religious heritage.
+       NET: "You offspring of vipers! Who warned you to flee from
+       the coming wrath?" — "offspring of vipers" (gennEmata
+       echidnOn = brood of snakes). WEB: "You offspring of vipers!"
+       KJV: "O generation of vipers." John's language to the
+       religious leaders is shocking — they are poisonous by nature.
 
 v.11 — KJV: "whose shoes I am not worthy to bear" / ESV: "whose sandals I am
        not worthy to carry" — Greek "bastasai" — to carry/bear. ESV modernizes
        "shoes" to "sandals." Luke 3:16: "whose sandal strap I am not worthy to
        untie." Carrying or untying sandals was the task of the lowest slave.
        John says he is not even worthy of that role compared to Jesus.
-
-v.16 — KJV: "like a dove" / ESV: "like a dove" — Both identical. The Spirit
-       descended in a visible form resembling a dove. The dove in Scripture
-       is associated with peace (Genesis 8:11), purity, and the Spirit's
-       gentle nature.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "Repent, for the kingdom of heaven is near!" —
-       "near" (Eggiken = has drawn near/is at hand — perfect tense).
-       WEB: "Repent, for the Kingdom of Heaven is at hand!" KJV:
-       "Repent ye: for the kingdom of heaven is at hand." The
-       kingdom has already begun approaching — urgency.
-
-v.7  — NET: "You offspring of vipers! Who warned you to flee from
-       the coming wrath?" — "offspring of vipers" (gennEmata
-       echidnOn = brood of snakes). WEB: "You offspring of vipers!"
-       KJV: "O generation of vipers." John's language to the
-       religious leaders is shocking — they are poisonous by nature.
-
-v.11 — NET: "I baptize you with water, for repentance, but the
+       NET: "I baptize you with water, for repentance, but the
        one coming after me is more powerful" — "more powerful"
        (ischyroteros). WEB: "he who comes after me is mightier
        than I." KJV: "he that cometh after me is mightier than I."
@@ -134,6 +124,11 @@ v.15 — NET: "Let it happen now, for it is right for us to fulfill
        KJV: "to fulfil all righteousness." Jesus' baptism is not
        for repentance but to identify with sinners and inaugurate
        His mission.
+
+v.16 — KJV: "like a dove" / ESV: "like a dove" — Both identical. The Spirit
+       descended in a visible form resembling a dove. The dove in Scripture
+       is associated with peace (Genesis 8:11), purity, and the Spirit's
+       gentle nature.
 
 v.17 — NET: "This is my one dear Son; in him I take great
        delight" — "one dear Son" (ho huios mou ho agapEtos). WEB:

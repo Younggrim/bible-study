@@ -94,7 +94,7 @@ Charles Spurgeon:
   as he escapes has failed the most basic test of love. True faith
   intercedes for the future, not just the present."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — "Merodach-baladan" (KJV) / "Merodach-baladan" (ESV) —
       Akkadian "Marduk-apla-iddina" = "Marduk has given a son."
@@ -115,36 +115,6 @@ v.7  — "eunuchs" (KJV/ESV) — Hebrew "sarisim" = court officials,
       possibly (but not certainly) castrated. The term can refer
       to high-ranking courtiers generally, but the implication of
       physical castration emphasizes the depth of humiliation.
-
-GLOSSARY
-------------------------------------
-Merodach-Baladan — Chaldean rebel king of Babylon (721-710 BC,
-              briefly 703 BC). Sought alliances against Assyria.
-              His envoys to Hezekiah were political recruitment
-              disguised as congratulation.
-
-Babylonian Exile — The deportation of Judah's population to
-              Babylon (605-586 BC) under Nebuchadnezzar. Prophesied
-              here over 100 years before it happened.
-
-Hinge Chapter — Isaiah 39 serves as the literary bridge between
-              the book's two halves: Assyrian context (1-39) and
-              Babylonian/restoration context (40-66). The mention
-              of Babylon prepares the reader for chapters 40-66.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.5 — ASV: "Hear the word of Jehovah of hosts" / WEB: "Hear the word of Yahweh of Armies" / NET: "Listen to the message of the Lord of Heaven's Armies" — The divine title "YHWH Tseva'ot" at the moment of judgment: ASV uses "Jehovah of hosts," WEB translates as "Yahweh of Armies," and NET expands to "the Lord of Heaven's Armies." NET's addition of "Heaven's" is interpretive (not in the Hebrew).
-
-- v.2 — NET: "Hezekiah welcomed them and showed them his storehouse with its silver, gold, spices, and high-quality olive oil" — NET paraphrases heavily here. KJV/ASV's "was glad of them" becomes "welcomed them." KJV's "precious ointment" and ASV's "precious oil" become NET's specific "high-quality olive oil." NET also replaces "house of his precious things" with the interpretive "storehouse."
-
-- v.6 — ASV: "nothing shall be left, saith Jehovah" / WEB: "Nothing will be left,' says Yahweh" / NET: "nothing will be left,' says the Lord" — The finality of judgment with the divine name as authority. The covenant name (Jehovah/Yahweh) sealing the prophetic word emphasizes that this is not Isaiah's opinion but God's decree. NET's generic "the Lord" diminishes the covenantal weight.
-
-- v.8 — KJV: "Good is the word of the LORD which thou hast spoken" / ASV: "Good is the word of Jehovah which thou hast spoken" / WEB: "Yahweh's word which you have spoken is good" / NET: "The Lord's message that you have announced is appropriate" — NET's "appropriate" for Hebrew "tov" (good) is a strikingly different interpretation. Where KJV/ASV/WEB suggest Hezekiah accepts it as "good" (morally right/just), NET's "appropriate" suggests mere diplomatic acknowledgment.
-
-- v.8 — NET: "Then he thought, 'For there will be peace and stability during my lifetime'" — NET uniquely adds "Then he thought" (not in Hebrew), making Hezekiah's selfishness internal rather than spoken aloud. NET also changes "truth" (KJV/ASV: Hebrew "emet") to "stability," a defensible but less theologically loaded rendering. WEB retains "peace and truth."
-
-- v.7 — NET: "Some of your very own descendants whom you father will be taken away and will be made eunuchs" — NET adds "Some of" (not in Hebrew), softening the prophecy. KJV/ASV/WEB's "of thy sons that shall issue from thee" is more absolute. NET also uses passive voice ("will be made eunuchs") where Hebrew uses active construction ("they shall be eunuchs").
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

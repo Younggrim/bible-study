@@ -105,15 +105,24 @@ Charles Spurgeon:
   Every moment of influence is a commodity. Buy it up — you cannot get it
   back once it's gone."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.2  — KJV: "continue" / ESV: Both equivalent. — Greek "proskartereite" — to persist, be devoted to,
        give constant attention to. Same word used of the early church's
        devotion to prayer (Acts 1:14, 2:42).
+       NET: "Be devoted to prayer, keeping alert in it with
+       thanksgiving" — "be devoted" (proskartereite = persist/
+       continue steadfastly). WEB: "Continue steadfastly in prayer."
+       KJV: "Continue in prayer." The same word used of the early
+       church's devotion (Acts 2:42).
 
 v.2  — KJV: "watch" / ESV: Both equivalent. — Greek "grēgorountes" — be alert, stay awake. Prayer
        requires mental alertness, not drowsy repetition.
+       NET: "Be devoted to prayer, keeping alert in it with
+       thanksgiving" — "be devoted" (proskartereite = persist/
+       continue steadfastly). WEB: "Continue steadfastly in prayer."
+       KJV: "Continue in prayer." The same word used of the early
+       church's devotion (Acts 2:42).
 
 v.3  — KJV: "door of utterance" / ESV: "to us a door for the word" — Greek "thura tou logou" — a door for the
        word. An open opportunity to speak the gospel. Even in prison, Paul
@@ -122,10 +131,20 @@ v.3  — KJV: "door of utterance" / ESV: "to us a door for the word" — Greek "
 v.5  — KJV: "them that are without" / ESV: "toward outsiders, making the best use" — Greek "tous exō" — those outside the
        faith community. Paul is conscious of the church's witness to
        outsiders.
+       NET: "Conduct yourselves with wisdom toward outsiders,
+       making the most of the opportunities" — "making the most"
+       (ton kairon exagorazomenoi = buying up the time/redeeming
+       the moment). WEB: "redeeming the time." KJV: "redeeming the
+       time." Time with unbelievers is precious — use it wisely.
 
 v.6  — KJV: "seasoned with salt" / ESV: Both equivalent. — Salt preserves, purifies, and flavors.
        Speech should be: preserving (truthful), purifying (clean), and
        flavorful (interesting, engaging). Not bland or corrupt.
+       NET: "Let your speech always be gracious, seasoned with
+       salt" — "seasoned with salt" (halati Ertymenos). WEB:
+       "seasoned with salt." KJV: "seasoned with salt." Salt
+       preserves and flavors — speech should be both pure and
+       interesting/memorable. Not bland but not caustic.
 
 v.10 — KJV: "Marcus, sister's son to Barnabas" / ESV: "Barnabas (concerning whom" — Mark (John Mark), author
        of the Gospel of Mark. He had deserted Paul on the first missionary
@@ -139,39 +158,17 @@ v.11 — KJV: "Jesus, which is called Justus" / ESV: "and Jesus who is called Ju
 v.14 — KJV: "Luke, the beloved physician" / ESV: "Luke the beloved physician greets you, as does" — The only NT identification of
        Luke's profession. Author of Luke-Acts. His medical background shows
        in his precise vocabulary.
-
-v.16 — KJV: "the epistle from Laodicea" / ESV: "also read the letter from Laodicea" — A lost letter. Either a letter
-       Paul wrote to Laodicea (now lost) or possibly our Ephesians (if it
-       was a circular letter). We don't have it — a reminder that not
-       everything the apostles wrote was preserved.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "Be devoted to prayer, keeping alert in it with
-       thanksgiving" — "be devoted" (proskartereite = persist/
-       continue steadfastly). WEB: "Continue steadfastly in prayer."
-       KJV: "Continue in prayer." The same word used of the early
-       church's devotion (Acts 2:42).
-
-v.5  — NET: "Conduct yourselves with wisdom toward outsiders,
-       making the most of the opportunities" — "making the most"
-       (ton kairon exagorazomenoi = buying up the time/redeeming
-       the moment). WEB: "redeeming the time." KJV: "redeeming the
-       time." Time with unbelievers is precious — use it wisely.
-
-v.6  — NET: "Let your speech always be gracious, seasoned with
-       salt" — "seasoned with salt" (halati Ertymenos). WEB:
-       "seasoned with salt." KJV: "seasoned with salt." Salt
-       preserves and flavors — speech should be both pure and
-       interesting/memorable. Not bland but not caustic.
-
-v.14 — NET: "Luke, the beloved physician, and Demas greet you" —
+       NET: "Luke, the beloved physician, and Demas greet you" —
        "beloved physician" (ho iatros ho agapEtos). WEB: "Luke, the
        beloved physician." Luke is the only Gentile author of
        Scripture. Later, Demas deserts Paul "having loved this
        present world" (2 Tim 4:10) — a tragic contrast.
 
-v.16 — NET: "also have it read in the church of the Laodiceans"
+v.16 — KJV: "the epistle from Laodicea" / ESV: "also read the letter from Laodicea" — A lost letter. Either a letter
+       Paul wrote to Laodicea (now lost) or possibly our Ephesians (if it
+       was a circular letter). We don't have it — a reminder that not
+       everything the apostles wrote was preserved.
+       NET: "also have it read in the church of the Laodiceans"
        — a lost letter to Laodicea (or possibly Ephesians, which
        may have circulated without a specific address). WEB: "cause
        it to be read also in the assembly of the Laodiceans." The

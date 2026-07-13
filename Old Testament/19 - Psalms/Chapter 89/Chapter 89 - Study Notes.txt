@@ -103,7 +103,7 @@ v.52  — Psalm 41:13; 72:18-19; 106:48 — The doxologies closing
 COMMENTARY REFERENCES
 ------------------------------------
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.10 — KJV: "Thou hast broken Rahab in pieces" / ESV: "You
        crushed Rahab like a carcass" — "Rahab" = Egypt (poetic
@@ -119,22 +119,6 @@ v.52 — This verse is the doxology closing Book III of the Psalter.
        It is not part of Ethan's psalm proper but an editorial
        addition marking the book division: "Blessed be the LORD
        for evermore. Amen, and Amen."
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-- v.1 — KJV: "I will sing of the mercies of the LORD" / ASV: "I will sing of the lovingkindness of Jehovah" / WEB: "I will sing of the loving kindness of Yahweh" / NET: "I will sing continually about the Lord's faithful deeds" — The psalm's opening word: חַסְדֵי (chasdei = plural of chesed). KJV: "mercies"; ASV: "lovingkindness"; WEB: "loving kindness"; NET: "faithful deeds." NET's rendering changes abstract attribute into concrete actions.
-
-- v.14 — KJV: "mercy and truth shall go before thy face" / ASV: "Lovingkindness and truth go before thy face" / WEB: "Loving kindness and truth go before your face" / NET: "Loyal love and faithfulness characterize your rule" — NET paraphrases poetically: the vivid image of mercy/truth marching before God's face becomes the abstract "characterize your rule."
-
-- v.33 — KJV: "my lovingkindness will I not utterly take from him" / ASV: "my lovingkindness will I not utterly take from him" / WEB: "I will not completely take my loving kindness from him" / NET: "I will not remove my loyal love from him" — The covenant promise: chesed will NEVER be withdrawn. NET omits "utterly/completely" — which in Hebrew emphasizes God's total commitment.
-
-- v.48 — KJV: "shall he deliver his soul from the hand of the grave?" / ASV: "deliver his soul from the power of Sheol?" / WEB: "deliver his soul from the power of Sheol?" / NET: "deliver his life from the power of Sheol" — KJV translates שְׁאוֹל as "the grave" while ASV/WEB/NET retain "Sheol." The theological stakes: is death merely physical (grave) or cosmic (Sheol)?
-
-- v.46 — ASV: "How long, O Jehovah?" / WEB: "How long, Yahweh?" / NET: "How long, O Lord?" — The divine name in the agonized "how long" cry. This closing lament section uses YHWH to appeal to God's covenant faithfulness.
-
-- v.49 — KJV/ASV: "thy former lovingkindnesses" / WEB: "your former loving kindnesses" / NET: "your earlier faithful deeds" — Again chesed in plural: NET reduces the relational "lovingkindnesses" to functional "faithful deeds." The Hebrew carries emotional weight — these are acts of covenant intimacy, not mere performance.
-
-- v.52 — NET: "The Lord deserves praise forevermore! We agree! We agree!" — NET's "We agree! We agree!" for "Amen, and Amen" is jarring but technically accurate (Amen = "so be it/we agree"). ASV: "Blessed be Jehovah for evermore. Amen, and Amen."
 
 PERSONAL REFLECTION & APPLICATION
 ------------------------------------

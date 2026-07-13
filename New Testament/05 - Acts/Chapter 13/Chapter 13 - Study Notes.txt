@@ -102,39 +102,23 @@ Charles Spurgeon:
   man's believing — both are true. God chose them; they believed. Election
   does not cancel responsibility; it guarantees response."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2  — KJV: "Separate me Barnabas and Saul" / ESV: "Set apart for me
        Barnabas and Saul" — Both equivalent. The Holy Spirit speaks in the
        first person — "for ME" — claiming personal authority to call and
        commission. The Spirit is a person who directs the church's mission.
-
-v.9  — KJV: "Saul, (who also is called Paul)" / ESV: "Saul, who was also
-       called Paul" — Both identical. From this point, Luke uses "Paul"
-       exclusively. "Saul" was his Hebrew name; "Paul" his Roman name. As he
-       moves into Gentile ministry, the Gentile name becomes primary.
-
-v.39 — KJV: "justified from all things" / ESV: "freed from everything" —
-       Greek "dikaioō" — declared righteous, acquitted. KJV's "justified"
-       preserves the legal/forensic sense; ESV's "freed" emphasizes the
-       liberation aspect. The same word Paul uses extensively in Romans and
-       Galatians. This is the first clear statement of justification by faith
-       in Acts.
-
-v.48 — KJV: "ordained to eternal life" / ESV: "appointed to eternal life" —
-       Greek "tetagmenoi" — appointed, arranged, set in order. Both convey
-       divine sovereignty. Those whom God had appointed to eternal life
-       believed. Divine sovereignty and human faith are both present.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "The Holy Spirit said, 'Set apart for me Barnabas
+       NET: "The Holy Spirit said, 'Set apart for me Barnabas
        and Saul for the work to which I have called them'" — "Set
        apart for ME" — the Spirit speaks in the first person,
        claiming divine prerogative. WEB: "Separate Barnabas and
        Saul for me." The Spirit initiates mission.
 
-v.9  — NET: "Saul (also known as Paul)" — the transition from
+v.9  — KJV: "Saul, (who also is called Paul)" / ESV: "Saul, who was also
+       called Paul" — Both identical. From this point, Luke uses "Paul"
+       exclusively. "Saul" was his Hebrew name; "Paul" his Roman name. As he
+       moves into Gentile ministry, the Gentile name becomes primary.
+       NET: "Saul (also known as Paul)" — the transition from
        his Hebrew name to his Roman name occurs here. WEB: "who is
        also called Paul." KJV: "Saul, (who also is called Paul)."
        Not a name change at conversion but a contextual shift for
@@ -147,13 +131,24 @@ v.38 — NET: "through this one forgiveness of sins is proclaimed
        the Law could accomplish. WEB: "everyone who believes is
        justified from all things." Grace exceeds law.
 
+v.39 — KJV: "justified from all things" / ESV: "freed from everything" —
+       Greek "dikaioō" — declared righteous, acquitted. KJV's "justified"
+       preserves the legal/forensic sense; ESV's "freed" emphasizes the
+       liberation aspect. The same word Paul uses extensively in Romans and
+       Galatians. This is the first clear statement of justification by faith
+       in Acts.
+
 v.46 — NET: "Since you reject it and do not consider yourselves
        worthy of eternal life, we are turning to the Gentiles" —
        "do not consider yourselves worthy" (ouk axious krinete
        heautous) — they judged themselves unworthy by their
        rejection. WEB: "judge yourselves unworthy of eternal life."
 
-v.48 — NET: "all who had been appointed for eternal life believed"
+v.48 — KJV: "ordained to eternal life" / ESV: "appointed to eternal life" —
+       Greek "tetagmenoi" — appointed, arranged, set in order. Both convey
+       divine sovereignty. Those whom God had appointed to eternal life
+       believed. Divine sovereignty and human faith are both present.
+       NET: "all who had been appointed for eternal life believed"
        — "appointed" (tetagmenoi = ordered/arranged/enrolled). WEB:
        "as many as were appointed to eternal life believed." KJV:
        "as many as were ordained to eternal life believed." One of

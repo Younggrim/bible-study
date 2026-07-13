@@ -87,31 +87,7 @@ Charles Spurgeon:
   just watched Him die. The cross did not hide Jesus' identity; it revealed
   it. It took the cross to show the world who He really was."
 
-TRANSLATION NOTES
-------------------------------------
-v.25 — KJV: "the third hour" / ESV: "it was the third hour" — Both identical.
-       9 AM by Jewish reckoning. Mark says Jesus was crucified at the third
-       hour; John 19:14 says "about the sixth hour." This is one of the most
-       discussed chronological questions. Solutions include different
-       time-reckoning systems.
-
-v.34 — KJV: "Eloi, Eloi, lama sabachthani?... My God, my God, why hast thou
-       forsaken me?" / ESV: "Eloi, Eloi, lema sabachthani?... My God, my God,
-       why have you forsaken me?" — Both equivalent. Mark preserves the Aramaic
-       (Matthew has the Hebrew "Eli, Eli"). Both are quoting Psalm 22:1. The
-       bystanders misheard it as a call for Elijah (v.35).
-
-v.38 — KJV: "rent in twain from the top to the bottom" / ESV: "torn in two,
-       from top to bottom" — Both equivalent. Torn from God's side, not man's.
-       The veil was approximately 60 feet tall and a handbreadth thick. No
-       human could tear it.
-
-v.39 — KJV: "Truly this man was the Son of God" / ESV: "Truly this man was
-       the Son of God!" — Both identical. Greek could also be "a son of God"
-       (no definite article). But in Mark's theology, this is THE confession —
-       the centurion recognizes what the religious leaders refused to see.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — NET: "Early in the morning, after forming a plan, the
        chief priests with the elders and the experts in the law"
@@ -125,13 +101,33 @@ v.21 — NET: "They forced a passerby to carry his cross, Simon of
        of Simon's sons suggests they were known to Mark's audience.
        All translations include this detail unique to Mark.
 
-v.34 — NET: "'Eloi, Eloi, lema sabachthani?' which means, 'My
+v.25 — KJV: "the third hour" / ESV: "it was the third hour" — Both identical.
+       9 AM by Jewish reckoning. Mark says Jesus was crucified at the third
+       hour; John 19:14 says "about the sixth hour." This is one of the most
+       discussed chronological questions. Solutions include different
+       time-reckoning systems.
+
+v.34 — KJV: "Eloi, Eloi, lama sabachthani?... My God, my God, why hast thou
+       forsaken me?" / ESV: "Eloi, Eloi, lema sabachthani?... My God, my God,
+       why have you forsaken me?" — Both equivalent. Mark preserves the Aramaic
+       (Matthew has the Hebrew "Eli, Eli"). Both are quoting Psalm 22:1. The
+       bystanders misheard it as a call for Elijah (v.35).
+       NET: "'Eloi, Eloi, lema sabachthani?' which means, 'My
        God, my God, why have you forsaken me?'" — Aramaic preserved.
        KJV: "Eloi, Eloi, lama sabachthani?" WEB: "Eloi, Eloi,
        lama sabachthani?" The slight spelling differences reflect
        manuscript variations in transliterating the Aramaic.
 
-v.39 — NET: "when the centurion, who was standing in front of him,
+v.38 — KJV: "rent in twain from the top to the bottom" / ESV: "torn in two,
+       from top to bottom" — Both equivalent. Torn from God's side, not man's.
+       The veil was approximately 60 feet tall and a handbreadth thick. No
+       human could tear it.
+
+v.39 — KJV: "Truly this man was the Son of God" / ESV: "Truly this man was
+       the Son of God!" — Both identical. Greek could also be "a son of God"
+       (no definite article). But in Mark's theology, this is THE confession —
+       the centurion recognizes what the religious leaders refused to see.
+       NET: "when the centurion, who was standing in front of him,
        saw how he died, he said, 'Truly this man was God's Son!'"
        — "how he died" captures what moved the centurion. WEB:
        "saw that he cried out like this and breathed his last."

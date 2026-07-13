@@ -90,37 +90,21 @@ Charles Spurgeon:
   Do ALL to the glory of God. There is no secular/sacred divide. Every
   moment is an opportunity for glory."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
-
 v.4  — KJV: "that Rock was Christ" / ESV: "and the Rock was Christ" — Paul identifies the rock that gave water
        in the wilderness as Christ — a pre-incarnate appearance/type. Christ
        was present with Israel, providing for them.
-
-v.11 — KJV: "upon whom the ends of the world are come" — ESV: "on whom the
-       end of the ages has come." Believers live in the last days — the final
-       era of history before Christ's return.
-
-v.13 — KJV: "a way to escape" / ESV: "the way of escape" — Greek "ekbasin" — a way out, an exit. God
-       always provides an exit from temptation — but you must look for it
-       and take it.
-
-v.16 — KJV: "communion" / ESV: "not a participation" — Greek "koinōnia" — participation, sharing,
-       fellowship. The Lord's Supper is genuine participation in Christ's
-       body and blood — not mere symbolism.
-
-v.31 — KJV: "do all to the glory of God" / ESV: Both equivalent. — The most comprehensive ethical
-       principle in Scripture. Every action — sacred or secular — should aim
-       at displaying God's worth.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.4  — NET: "they all drank the same spiritual drink. For they
+       NET: "they all drank the same spiritual drink. For they
        were all drinking from the spiritual rock that followed
        them, and the rock was Christ" — "the rock was Christ" —
        Paul identifies the wilderness rock with Christ's pre-
        incarnate presence. WEB: "the rock was Christ." Christological
        reading of the OT.
+
+v.11 — KJV: "upon whom the ends of the world are come" — ESV: "on whom the
+       end of the ages has come." Believers live in the last days — the final
+       era of history before Christ's return.
 
 v.12 — NET: "So let the one who thinks he is standing be careful
        that he does not fall" — "thinks he is standing" (ho dokOn
@@ -128,19 +112,28 @@ v.12 — NET: "So let the one who thinks he is standing be careful
        thinks he stands be careful that he doesn't fall." Self-
        assurance is the prelude to collapse.
 
-v.13 — NET: "God is faithful, and he will not let you be tempted
+v.13 — KJV: "a way to escape" / ESV: "the way of escape" — Greek "ekbasin" — a way out, an exit. God
+       always provides an exit from temptation — but you must look for it
+       and take it.
+       NET: "God is faithful, and he will not let you be tempted
        beyond what you can bear. But with the temptation he will
        also provide a way out" — "a way out" (tEn ekbasin = the
        exit/escape). WEB: "will with the temptation also make the
        way of escape." God engineers escapes for every test.
 
-v.16 — NET: "Is not the cup of blessing that we bless a sharing
+v.16 — KJV: "communion" / ESV: "not a participation" — Greek "koinōnia" — participation, sharing,
+       fellowship. The Lord's Supper is genuine participation in Christ's
+       body and blood — not mere symbolism.
+       NET: "Is not the cup of blessing that we bless a sharing
        in the blood of Christ?" — "sharing" (koinOnia = communion/
        participation/fellowship). WEB: "a communion of the blood
        of Christ." KJV: "the communion of the blood of Christ."
        The Lord's Supper as genuine participation in Christ.
 
-v.31 — NET: "So whether you eat or drink, or whatever you do,
+v.31 — KJV: "do all to the glory of God" / ESV: Both equivalent. — The most comprehensive ethical
+       principle in Scripture. Every action — sacred or secular — should aim
+       at displaying God's worth.
+       NET: "So whether you eat or drink, or whatever you do,
        do everything for the glory of God" — the simplest and most
        comprehensive ethical principle. WEB: "do all to the glory
        of God." KJV: "do all to the glory of God." Every action —

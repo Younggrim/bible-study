@@ -97,41 +97,24 @@ Charles Spurgeon:
   on the most terrifying sea — He comes. And His first words are not
   rebuke but comfort: Be of good cheer. It is I. Be not afraid."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3  — KJV: "Is not this the carpenter?" / ESV: "Is not this the carpenter?"
        — Both identical. Mark identifies Jesus as "the carpenter" — the only
        Gospel that calls Jesus a carpenter directly (Matthew 13:55 says "the
        carpenter's son"). Jesus worked with His hands for approximately 18
        years before His public ministry.
+       NET: "Isn't this the carpenter, the son of Mary?" —
+       makes explicit what KJV renders "Is not this the carpenter,
+       the son of Mary?" The designation "son of Mary" (rather than
+       "son of Joseph") may imply the townspeople's awareness of
+       Jesus' unusual parentage.
 
 v.5  — KJV: "he could there do no mighty work" / ESV: "he could do no mighty
        work there" — Both equivalent. Not inability but inappropriateness —
        God's power is not released where faith is absent. Jesus still healed
        "a few sick folk" (v.5) but the atmosphere of unbelief limited the
        scope of His ministry there.
-
-v.48 — KJV: "would have passed by them" / ESV: "He meant to pass by them" —
-       Both equivalent. An echo of Old Testament theophanies where God "passes
-       by" (Exodus 33:19, 1 Kings 19:11). Jesus was revealing His divine glory
-       — not ignoring them.
-
-v.50 — KJV: "Be of good cheer: it is I; be not afraid" / ESV: "Take heart;
-       it is I. Do not be afraid" — Both equivalent. Greek "ego eimi" — "I AM"
-       — a divine self-identification echoing Exodus 3:14.
-
-v.52 — KJV: "their heart was hardened" / ESV: "their hearts were hardened" —
-       Both identical. Even the disciples had hard hearts at this point. They
-       had seen the feeding miracle hours earlier but still didn't understand
-       who Jesus was. Spiritual understanding is progressive, not instant.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.3  — NET: "Isn't this the carpenter, the son of Mary?" —
-       makes explicit what KJV renders "Is not this the carpenter,
-       the son of Mary?" The designation "son of Mary" (rather than
-       "son of Joseph") may imply the townspeople's awareness of
-       Jesus' unusual parentage.
 
 v.14 — NET: "King Herod heard this, for Jesus' name had become
        well known" — Herod Antipas was technically a tetrarch,
@@ -149,7 +132,20 @@ v.41 — WEB: "he blessed and broke the loaves" — straightforward.
        distinction matters: did Jesus bless God (Jewish berakah)
        or bless the food?
 
-v.52 — NET: "they did not understand about the loaves, because
+v.48 — KJV: "would have passed by them" / ESV: "He meant to pass by them" —
+       Both equivalent. An echo of Old Testament theophanies where God "passes
+       by" (Exodus 33:19, 1 Kings 19:11). Jesus was revealing His divine glory
+       — not ignoring them.
+
+v.50 — KJV: "Be of good cheer: it is I; be not afraid" / ESV: "Take heart;
+       it is I. Do not be afraid" — Both equivalent. Greek "ego eimi" — "I AM"
+       — a divine self-identification echoing Exodus 3:14.
+
+v.52 — KJV: "their heart was hardened" / ESV: "their hearts were hardened" —
+       Both identical. Even the disciples had hard hearts at this point. They
+       had seen the feeding miracle hours earlier but still didn't understand
+       who Jesus was. Spiritual understanding is progressive, not instant.
+       NET: "they did not understand about the loaves, because
        their hearts were hardened" — "hardened" (pōroō) is strong
        language usually reserved for enemies of Jesus. Mark applies
        it to the disciples — a distinctive Markan theme.

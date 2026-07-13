@@ -96,12 +96,22 @@ Charles Spurgeon:
   it aside without hesitation because Jesus was calling. What garment are
   you clinging to that you need to throw aside to come to Christ?"
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.6  — NET: "from the beginning of creation he made them male
+       and female" — Jesus grounds marriage in creation order.
+       WEB: "from the beginning of the creation, God made them
+       male and female." KJV: "from the beginning of the creation
+       God made them male and female."
+
 v.21 — KJV: "Jesus beholding him loved him" / ESV: "And Jesus, looking at him,
        loved him" — Both equivalent. Only Mark records this detail. Greek
        "ēgapēsen" — genuine love. Jesus loved the man even while making the
        hardest demand. Love and high standards are not contradictory.
+       NET: "Jesus, looking at him, loved him" — the emotional
+       detail is preserved in all translations. This is unique to
+       Mark's account of the rich young ruler. WEB: "Jesus looking
+       at him loved him." The love precedes the hard demand.
 
 v.24 — KJV: "them that trust in riches" / ESV: "Children, how difficult it is
        to enter the kingdom of God!" — The ESV omits "them that trust in
@@ -109,10 +119,20 @@ v.24 — KJV: "them that trust in riches" / ESV: "Children, how difficult it is
        If included, it clarifies: the problem is not wealth itself but
        trusting in it.
 
+v.25 — NET: "It is easier for a camel to go through the eye of a
+       needle than for a rich person to enter the kingdom of God"
+       — all versions agree. No translation supports the popular
+       idea of a "small gate" called the Needle's Eye.
+
 v.45 — KJV: "a ransom for many" / ESV: "a ransom for many" — Both identical.
        Greek "lutron anti pollōn" — "lutron" = the price paid to free a slave.
        "Anti" = in the place of, as a substitute. "Pollōn" = many.
        Substitutionary atonement in three words.
+       NET: "For even the Son of Man did not come to be served
+       but to serve, and to give his life as a ransom for many" —
+       "ransom" (Greek lytron) = the price paid to release a slave
+       or prisoner. WEB: "to give his life as a ransom for many."
+       This is Mark's theological thesis statement.
 
 v.50 — KJV: "casting away his garment" / ESV: "throwing off his cloak" — Both
        equivalent. A blind beggar's cloak was his most valuable possession —
@@ -122,30 +142,6 @@ v.50 — KJV: "casting away his garment" / ESV: "throwing off his cloak" — Bot
 v.51 — KJV: "Lord, that I might receive my sight" / ESV: "Rabbi, let me
        recover my sight" — The ESV uses "Rabbi" where KJV uses "Lord" (Greek
        "Rabbouni"). Both convey respect and recognition of Jesus' authority.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.6  — NET: "from the beginning of creation he made them male
-       and female" — Jesus grounds marriage in creation order.
-       WEB: "from the beginning of the creation, God made them
-       male and female." KJV: "from the beginning of the creation
-       God made them male and female."
-
-v.21 — NET: "Jesus, looking at him, loved him" — the emotional
-       detail is preserved in all translations. This is unique to
-       Mark's account of the rich young ruler. WEB: "Jesus looking
-       at him loved him." The love precedes the hard demand.
-
-v.25 — NET: "It is easier for a camel to go through the eye of a
-       needle than for a rich person to enter the kingdom of God"
-       — all versions agree. No translation supports the popular
-       idea of a "small gate" called the Needle's Eye.
-
-v.45 — NET: "For even the Son of Man did not come to be served
-       but to serve, and to give his life as a ransom for many" —
-       "ransom" (Greek lytron) = the price paid to release a slave
-       or prisoner. WEB: "to give his life as a ransom for many."
-       This is Mark's theological thesis statement.
 
 v.52 — NET: "Jesus said to him, 'Go, your faith has healed you.'
        Immediately he regained his sight and followed Jesus on the

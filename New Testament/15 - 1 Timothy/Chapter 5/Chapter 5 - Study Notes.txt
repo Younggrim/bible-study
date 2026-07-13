@@ -89,12 +89,17 @@ Charles Spurgeon:
  responsibility is no faith at all. Your first ministry is at home — before
  church, before career, before anything else."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "rebuke not an elder" / ESV: "rebuke" — Greek "presbuterō" — could mean (1) an
  older man generally, or (2) a church elder specifically. Context
  suggests an older man (contrasted with "younger men"). "Intreat" —
  Greek "parakalei" — appeal to, encourage.
+       NET: "Do not address an older man harshly but appeal to
+       him as a father" — "appeal" (parakalei = encourage/exhort
+       gently). WEB: "Don't rebuke an older man, but exhort him
+       as a father." KJV: "Rebuke not an elder, but intreat him
+       as a father." Age-appropriate pastoral care.
 
 v.3 — KJV: "honour" / ESV: "honor" — Greek "tima" — honor, value, provide for. Includes
  financial support (cf. v.17 "double honour"). "Widows indeed" / ESV: "truly widows" — truly
@@ -103,6 +108,11 @@ v.3 — KJV: "honour" / ESV: "honor" — Greek "tima" — honor, value, provide 
 v.8 — KJV: "provide" / ESV: Both equivalent. — Greek "pronoei" — to think ahead, to plan for, to
  take care of. Provision requires forethought and planning. "Worse than
  an infidel" — even unbelievers care for family.
+       NET: "But if someone does not provide for his own relatives
+       and especially his immediate family, he has denied the faith
+       and is worse than an unbeliever" — "worse than an unbeliever"
+       (apistos cheirOn) — even pagans care for family. WEB: "worse
+       than an unbeliever." Neglecting family is faith-denial.
 
 v.9 — KJV: "taken into the number" / ESV: "enrolled" — Greek "katalegesthō" — enrolled,
  registered on the official list. The church had a formal registry of
@@ -111,44 +121,27 @@ v.9 — KJV: "taken into the number" / ESV: "enrolled" — Greek "katalegesthō"
 v.17 — KJV: "double honour" / ESV: "double" — Greek "diplēs timēs" — double honor/payment.
  Likely includes financial compensation (v.18 confirms this). Elders
  who teach well deserve generous support.
-
-v.22 — KJV: "lay hands suddenly on no man" / ESV: "laying on of hands" — Ordination should not be hasty.
- Take time to evaluate character before placing someone in leadership.
- "Neither be partaker of other men's sins" — hasty ordination makes you
- responsible for their failures.
-
-v.23 — KJV: "use a little wine" / ESV: Both equivalent. — Paul's practical health advice. Timothy
- apparently drank only water (perhaps for ascetic reasons). Paul
- recommends medicinal wine for his stomach problems.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "Do not address an older man harshly but appeal to
-       him as a father" — "appeal" (parakalei = encourage/exhort
-       gently). WEB: "Don't rebuke an older man, but exhort him
-       as a father." KJV: "Rebuke not an elder, but intreat him
-       as a father." Age-appropriate pastoral care.
-
-v.8  — NET: "But if someone does not provide for his own relatives
-       and especially his immediate family, he has denied the faith
-       and is worse than an unbeliever" — "worse than an unbeliever"
-       (apistos cheirOn) — even pagans care for family. WEB: "worse
-       than an unbeliever." Neglecting family is faith-denial.
-
-v.17 — NET: "Elders who provide effective leadership must be
+       NET: "Elders who provide effective leadership must be
        counted worthy of double honor" — "double honor" (diplEs
        timEs = double compensation/respect). WEB: "counted worthy
        of double honor." KJV: "worthy of double honour." This
        includes financial support (v.18 — "the laborer is worthy
        of his wages").
 
-v.22 — NET: "Do not lay hands on anyone hastily" — "hastily"
+v.22 — KJV: "lay hands suddenly on no man" / ESV: "laying on of hands" — Ordination should not be hasty.
+ Take time to evaluate character before placing someone in leadership.
+ "Neither be partaker of other men's sins" — hasty ordination makes you
+ responsible for their failures.
+       NET: "Do not lay hands on anyone hastily" — "hastily"
        (tacheOs = quickly/prematurely). WEB: "Lay hands hastily on
        no one." KJV: "Lay hands suddenly on no man." Ordination
        should not be rushed — premature endorsement shares in
        another's potential sins.
 
-v.23 — NET: "use a little wine because of your stomach and your
+v.23 — KJV: "use a little wine" / ESV: Both equivalent. — Paul's practical health advice. Timothy
+ apparently drank only water (perhaps for ascetic reasons). Paul
+ recommends medicinal wine for his stomach problems.
+       NET: "use a little wine because of your stomach and your
        frequent illnesses" — a personal aside: Timothy had health
        issues. WEB: "use a little wine for your stomach's sake."
        Paul's pragmatism — neither total abstinence nor excess,

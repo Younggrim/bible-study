@@ -397,11 +397,17 @@
             </div>
             <div class="tab-content" id="tab-translations">
                 <h3>Translations</h3>
-                <ul>
-                    <li><strong>v.2</strong> → <strong>KJV:</strong> "vanity" → <strong>ESV:</strong> "vanity" — Hebrew "hebel" literally means breath, vapor. Some translations use "meaningless" (NIV), "futile" (NASB margin), or "absurd." Each captures one facet. The core idea is transience — life is like trying to grasp smoke.</li>
-                    <li><strong>v.13</strong> → <strong>KJV:</strong> "sore travail" → <strong>ESV:</strong> "unhappy business" — Hebrew "inyan ra" = a grievous occupation or burdensome task. God has given humanity the restless drive to investigate life — it is both gift and burden.</li>
-                    <li><strong>v.14</strong> → <strong>KJV:</strong> "vexation of spirit" → <strong>ESV:</strong> "striving after wind" — Hebrew "re'ut ruach." KJV takes "re'ut" as vexation; ESV takes it as pursuit/striving (from ra'ah = to shepherd, tend, chase). Both are legitimate: chasing the wind is inherently vexing.</li>
-                </ul>
+                                    <div class="trans-filter">
+                        <span class="trans-filter-label">Show translations:</span>
+                        <label class="trans-check trans-check-kjv"><input type="checkbox" value="KJV" checked onchange="filterTranslations()"><span class="trans-badge trans-kjv">KJV</span></label>
+                        <label class="trans-check trans-check-esv"><input type="checkbox" value="ESV" checked onchange="filterTranslations()"><span class="trans-badge trans-esv">ESV</span></label>
+                        <label class="trans-check trans-check-asv"><input type="checkbox" value="ASV" checked onchange="filterTranslations()"><span class="trans-badge trans-asv">ASV</span></label>
+                        <label class="trans-check trans-check-net"><input type="checkbox" value="NET" checked onchange="filterTranslations()"><span class="trans-badge trans-net">NET</span></label>
+                        <label class="trans-check trans-check-web"><input type="checkbox" value="WEB" checked onchange="filterTranslations()"><span class="trans-badge trans-web">WEB</span></label>
+                    </div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.2</strong> — <span class="trans-label trans-kjv">KJV</span>: &quot;vanity&quot; / <span class="trans-label trans-esv">ESV</span>: &quot;vanity&quot; — Hebrew &quot;hebel&quot; literally<br>means breath, vapor. Some translations use &quot;meaningless&quot;<br>(NIV), &quot;futile&quot; (NASB margin), or &quot;absurd.&quot; Each captures<br>one facet. The core idea is transience — life is like<br>trying to grasp smoke.</p></div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.13</strong> — <span class="trans-label trans-kjv">KJV</span>: &quot;sore travail&quot; / <span class="trans-label trans-esv">ESV</span>: &quot;unhappy business&quot; — Hebrew<br>&quot;inyan ra&quot; = a grievous occupation or burdensome task.<br>God has given humanity the restless drive to investigate<br>life — it is both gift and burden.</p></div>
+                    <div class="trans-entry" data-translations="ESV KJV"><p><strong class="verse-ref">v.14</strong> — <span class="trans-label trans-kjv">KJV</span>: &quot;vexation of spirit&quot; / <span class="trans-label trans-esv">ESV</span>: &quot;striving after wind&quot; —<br>Hebrew &quot;re&#x27;ut ruach.&quot; <span class="trans-label trans-kjv">KJV</span> takes &quot;re&#x27;ut&quot; as vexation; <span class="trans-label trans-esv">ESV</span><br>takes it as pursuit/striving (from ra&#x27;ah = to shepherd,<br>tend, chase). Both are legitimate: chasing the wind is<br>inherently vexing.</p></div>
             </div>
             <div class="tab-content" id="tab-videos">
                 <h3>Videos</h3>

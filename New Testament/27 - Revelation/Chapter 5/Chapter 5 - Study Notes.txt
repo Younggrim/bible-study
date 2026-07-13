@@ -100,7 +100,7 @@ Charles Spurgeon:
  but by blood. The Lion's roar is the Lamb's bleat. The throne is won by
  the cross."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "book" / ESV: "scroll" — Greek "biblion" — a scroll. ESV
  correctly renders this as "scroll" (the codex/book form didn't exist
@@ -111,12 +111,23 @@ v.1 — KJV: "book" / ESV: "scroll" — Greek "biblion" — a scroll. ESV
 v.5 — KJV: "prevailed" / ESV: "conquered" — Greek "enikēsen" — conquered,
  overcame. ESV's "conquered" is more precise. The Lion conquered — but
  His method of conquest was the cross (v.6).
+       NET: "the Lion of the tribe of Judah, the root of
+       David, has conquered" — "Lion" and "root" — messianic
+       titles from Genesis 49:9 and Isaiah 11:1/10. WEB: "the
+       Lion who is of the tribe of Judah." But when John LOOKS,
+       he sees a LAMB (v.6) — the Lion conquers as a Lamb.
 
 v.6 — KJV: "as it had been slain" / ESV: "as though it had been slain" —
  Greek "hōs esphagmenon" — as having been slaughtered. Both equivalent
  in meaning. The Lamb bears the marks of slaughter — even in glory, the
  wounds remain. "Seven horns" = complete power. "Seven eyes" = complete
  knowledge/the fullness of the Spirit.
+       NET: "a Lamb standing as though it had been killed" —
+       "as though killed" (hOs esphagmenon = as having been
+       slaughtered). WEB: "a Lamb standing, as though it had been
+       slain." KJV: "a Lamb as it had been slain." The Lamb bears
+       permanent marks of slaughter yet stands alive — resurrection
+       body with crucifixion scars.
 
 v.8 — KJV: "odours, which are the prayers of saints" / ESV: "incense, which
  are the prayers of the saints" — Greek "thumiamata" — incense. ESV
@@ -126,6 +137,12 @@ v.8 — KJV: "odours, which are the prayers of saints" / ESV: "incense, which
 
 v.9 — KJV: "a new song" / ESV: Both equivalent. — Greek "ōdēn kainēn" — a song never sung before.
  New because redemption is new — unprecedented, unrepeatable.
+       NET: "You are worthy to take the scroll and to open its
+       seals because you were killed, and at the cost of your own
+       blood you have purchased for God persons from every tribe"
+       — "purchased" (Egorasas = bought in the marketplace). WEB:
+       "you bought us for God with your blood." Redemption as
+       commercial transaction — the Lamb's blood as purchase price.
 
 v.9 — KJV: "every kindred, and tongue, and people, and nation" / ESV: "every
  tribe and language and people and nation" — KJV "kindred" = ESV
@@ -133,6 +150,12 @@ v.9 — KJV: "every kindred, and tongue, and people, and nation" / ESV: "every
  "glōssēs"). Both equivalent; ESV uses modern vocabulary. Four terms
  for universality. Redemption spans every ethnic, linguistic, cultural,
  and political boundary.
+       NET: "You are worthy to take the scroll and to open its
+       seals because you were killed, and at the cost of your own
+       blood you have purchased for God persons from every tribe"
+       — "purchased" (Egorasas = bought in the marketplace). WEB:
+       "you bought us for God with your blood." Redemption as
+       commercial transaction — the Lamb's blood as purchase price.
 
 v.12 — KJV: "power, and riches, and wisdom, and strength, and honour, and
  glory, and blessing" / ESV: "power and wealth and wisdom and might and
@@ -141,30 +164,7 @@ v.12 — KJV: "power, and riches, and wisdom, and strength, and honour, and
  attributes: power (dunamis), riches/wealth (ploutos), wisdom (sophia),
  strength/might (ischus), honour/honor (timē), glory (doxa), blessing
  (eulogia). Complete, perfect praise.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.5  — NET: "the Lion of the tribe of Judah, the root of
-       David, has conquered" — "Lion" and "root" — messianic
-       titles from Genesis 49:9 and Isaiah 11:1/10. WEB: "the
-       Lion who is of the tribe of Judah." But when John LOOKS,
-       he sees a LAMB (v.6) — the Lion conquers as a Lamb.
-
-v.6  — NET: "a Lamb standing as though it had been killed" —
-       "as though killed" (hOs esphagmenon = as having been
-       slaughtered). WEB: "a Lamb standing, as though it had been
-       slain." KJV: "a Lamb as it had been slain." The Lamb bears
-       permanent marks of slaughter yet stands alive — resurrection
-       body with crucifixion scars.
-
-v.9  — NET: "You are worthy to take the scroll and to open its
-       seals because you were killed, and at the cost of your own
-       blood you have purchased for God persons from every tribe"
-       — "purchased" (Egorasas = bought in the marketplace). WEB:
-       "you bought us for God with your blood." Redemption as
-       commercial transaction — the Lamb's blood as purchase price.
-
-v.12 — NET: "Worthy is the Lamb who was killed to receive power
+       NET: "Worthy is the Lamb who was killed to receive power
        and wealth and wisdom and might and honor and glory and
        praise!" — seven attributes (power, wealth, wisdom, might,
        honor, glory, praise). WEB: "Worthy is the Lamb who has

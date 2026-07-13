@@ -99,12 +99,17 @@ Charles Spurgeon:
  covered by His blood, clothed in His righteousness. Apart from Him, no one
  stands."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.2 — KJV: "white horse" / ESV: Both equivalent. — White suggests victory/conquest. The rider has
  a bow (weapon) and a crown (stephanos — victor's wreath, not diadēma
  — royal crown). He goes forth "conquering and to conquer" — aggressive
  expansion.
+       NET: "a white horse, and the one seated on it had a
+       bow" — "white horse" (hippos leukos). WEB: "a white horse."
+       KJV: "a white horse." Debated: Christ? Antichrist? Conquest
+       in general? The crown given (not inherent) and the bow
+       suggest a counterfeit conqueror.
 
 v.6 — KJV: "a measure of wheat for a penny" / ESV: "a quart of wheat for a
  denarius" — Greek "dēnarion" — a day's wage. KJV's "penny" is
@@ -121,6 +126,11 @@ v.8 — KJV: "pale horse" / ESV: Both equivalent. — Greek "chlōros" — green
 v.9 — KJV: "under the altar" / ESV: Both equivalent. — In the OT, the blood of sacrifices was
  poured at the base of the altar (Lev 4:7). Martyrs' lives were poured
  out as sacrifices — their souls are "under the altar."
+       NET: "the souls of those who had been violently killed
+       because of the word of God" — "violently killed" (esphagmenOn
+       = slaughtered — same word used of the Lamb in 5:6). WEB:
+       "the souls of those who had been killed." Martyrs share
+       the Lamb's experience of slaughter.
 
 v.10 — KJV: "How long, O Lord, holy and true, dost thou not judge and avenge
  our blood?" / ESV: "O Sovereign Lord, holy and true, how long before
@@ -129,43 +139,27 @@ v.10 — KJV: "How long, O Lord, holy and true, dost thou not judge and avenge
  the stronger Greek word. The cry of the suffering righteous throughout
  history (Psalm 13:1, 79:5, 94:3). Not revenge but justice — "holy and
  true" God must vindicate His people.
-
-v.12 — KJV: "black as sackcloth of hair" / ESV: "black as sackcloth" — Both
- equivalent. Sun darkened like black mourning cloth; KJV specifies "of
- hair" (goat-hair sackcloth). KJV: "moon became as blood" / ESV: "the
- full moon became like blood" — ESV adds "full" for clarity. Cosmic
- signs of divine judgment.
-
-v.16 — KJV: "wrath of the Lamb" / ESV: Both equivalent. — A paradox: lambs are gentle, not wrathful.
- But this Lamb is also the Lion. His wrath is terrifying precisely
- because it comes from the one who offered mercy first.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.2  — NET: "a white horse, and the one seated on it had a
-       bow" — "white horse" (hippos leukos). WEB: "a white horse."
-       KJV: "a white horse." Debated: Christ? Antichrist? Conquest
-       in general? The crown given (not inherent) and the bow
-       suggest a counterfeit conqueror.
-
-v.9  — NET: "the souls of those who had been violently killed
-       because of the word of God" — "violently killed" (esphagmenOn
-       = slaughtered — same word used of the Lamb in 5:6). WEB:
-       "the souls of those who had been killed." Martyrs share
-       the Lamb's experience of slaughter.
-
-v.10 — NET: "How long, Sovereign Master, holy and true, before
+       NET: "How long, Sovereign Master, holy and true, before
        you judge those who live on the earth and avenge our blood?"
        — "Sovereign Master" (ho despotEs = absolute ruler). WEB:
        "How long, Master, the holy and true." KJV: "How long, O
        Lord, holy and true." The martyrs' prayer for justice —
        not revenge but vindication.
 
-v.12 — NET: "the full moon became blood red" — "blood red" (hOs
+v.12 — KJV: "black as sackcloth of hair" / ESV: "black as sackcloth" — Both
+ equivalent. Sun darkened like black mourning cloth; KJV specifies "of
+ hair" (goat-hair sackcloth). KJV: "moon became as blood" / ESV: "the
+ full moon became like blood" — ESV adds "full" for clarity. Cosmic
+ signs of divine judgment.
+       NET: "the full moon became blood red" — "blood red" (hOs
        haima = as blood). WEB: "the whole moon became as blood."
        KJV: "the moon became as blood." Cosmic collapse at the
        sixth seal — sun dark, moon blood, stars falling, sky
        rolled up.
+
+v.16 — KJV: "wrath of the Lamb" / ESV: Both equivalent. — A paradox: lambs are gentle, not wrathful.
+ But this Lamb is also the Lion. His wrath is terrifying precisely
+ because it comes from the one who offered mercy first.
 
 v.17 — NET: "the great day of their wrath has come, and who is
        able to withstand it?" — "their wrath" (tEs orgEs autOn =

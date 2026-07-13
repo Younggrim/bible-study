@@ -82,23 +82,7 @@ Charles Spurgeon:
   small, however insufficient — bring it to Jesus. He does not ask you to
   have enough. He asks you to bring what you have."
 
-TRANSLATION NOTES
-------------------------------------
-v.25 — KJV: "the fourth watch of the night" / ESV: "in the fourth watch of
-       the night" — Both identical in meaning. Between 3:00 and 6:00 AM. The
-       Romans divided the night into four watches. The disciples had been
-       struggling against the wind for hours — Jesus came at the darkest hour.
-
-v.27 — KJV: "it is I" / ESV: "it is I" — Both identical. Greek "ego eimi" —
-       "I AM." The same divine name from Exodus 3:14 and John 8:58. Jesus is
-       not just identifying Himself — He is declaring His deity. Walking on
-       water + "I AM" = theophany.
-
-v.30 — KJV: "when he saw the wind boisterous" — ESV: "when he saw the wind"
-       — You can't literally see wind — you see its effects. Peter shifted
-       his attention from Jesus to the evidence of danger around him.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
+TRANSLATION COMPARISON
 ------------------------------------
 v.14 — NET: "he had compassion on them and healed their sick"
        — "compassion" (esplanchnisthE = visceral, gut-level
@@ -112,16 +96,28 @@ v.19 — NET: "he gave thanks, and breaking the loaves he gave them
        Jewish blessing formula: blessing God for providing the food,
        not blessing the food itself.
 
-v.25 — NET: "he came to them walking on the sea" — "on the sea"
+v.25 — KJV: "the fourth watch of the night" / ESV: "in the fourth watch of
+       the night" — Both identical in meaning. Between 3:00 and 6:00 AM. The
+       Romans divided the night into four watches. The disciples had been
+       struggling against the wind for hours — Jesus came at the darkest hour.
+       NET: "he came to them walking on the sea" — "on the sea"
        (epi tEn thalassan = upon the sea). WEB: "walking on the
        sea." KJV: "walking on the sea." In the OT, walking on
        water is God's exclusive prerogative (Job 9:8; Psalm 77:19).
        Jesus does what only God does.
 
-v.27 — NET: "Have courage! It is I. Do not be afraid" — "It is
+v.27 — KJV: "it is I" / ESV: "it is I" — Both identical. Greek "ego eimi" —
+       "I AM." The same divine name from Exodus 3:14 and John 8:58. Jesus is
+       not just identifying Himself — He is declaring His deity. Walking on
+       water + "I AM" = theophany.
+       NET: "Have courage! It is I. Do not be afraid" — "It is
        I" (egO eimi = I AM). WEB: "Cheer up! It is I! Don't be
        afraid." The divine name spoken on the water — theophany
        in action. "I AM" calms the storm and the fear.
+
+v.30 — KJV: "when he saw the wind boisterous" — ESV: "when he saw the wind"
+       — You can't literally see wind — you see its effects. Peter shifted
+       his attention from Jesus to the evidence of danger around him.
 
 v.31 — NET: "You of little faith, why did you doubt?" — "little
        faith" (oligopiste) and "doubt" (edistasas = hesitated/

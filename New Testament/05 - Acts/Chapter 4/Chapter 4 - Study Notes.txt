@@ -98,40 +98,25 @@ Charles Spurgeon:
   with Jesus. And it showed. Time with Christ leaves a mark that the world
   cannot explain and cannot deny."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.12 — KJV: "none other name" / ESV: "no other name" — Both equivalent.
        Greek "ouk... allo onoma" — absolutely no other name. The double
        negative in Greek intensifies the exclusivity. There is no plan B
        for salvation.
-
-v.13 — KJV: "unlearned and ignorant men" / ESV: "uneducated, common men" —
-       Greek "agrammatoi kai idiōtai" — without formal rabbinic training and
-       laymen (non-professionals). ESV's "common" avoids the negative
-       connotation of "ignorant." Not stupid — but without credentials. Their
-       boldness could only be explained by one thing: Jesus.
-
-v.28 — KJV: "whatsoever thy hand and thy counsel determined before to be done"
-       / ESV: "whatever your hand and your plan had predestined to take place"
-       — ESV uses "predestined" explicitly; KJV uses "determined before." Both
-       convey God's sovereignty. The crucifixion was both the worst human sin
-       and God's predetermined plan. Both are true.
-
-v.31 — KJV: "filled with the Holy Ghost" / ESV: "filled with the Holy Spirit"
-       — Both equivalent ("Ghost"/"Spirit" = same Greek "pneuma"). A second
-       filling (after 2:4). Being filled with the Spirit is not a one-time
-       event but a repeated experience as needed for specific situations.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.12 — NET: "there is no other name under heaven given among
+       NET: "there is no other name under heaven given among
        people by which we must be saved" — "no other name"
        (ouk estin en allO oudeni hE sOtEria) — the exclusivity of
        Christ. WEB: "no other name under heaven given among men."
        KJV: "none other name under heaven given among men." The
        strongest exclusivist claim in Acts.
 
-v.13 — NET: "they were astonished and began to recognize them as
+v.13 — KJV: "unlearned and ignorant men" / ESV: "uneducated, common men" —
+       Greek "agrammatoi kai idiōtai" — without formal rabbinic training and
+       laymen (non-professionals). ESV's "common" avoids the negative
+       connotation of "ignorant." Not stupid — but without credentials. Their
+       boldness could only be explained by one thing: Jesus.
+       NET: "they were astonished and began to recognize them as
        companions of Jesus" — "companions" (syn tO IEsou Esan =
        had been with Jesus). WEB: "they recognized that they had
        been with Jesus." KJV: "they took knowledge of them, that
@@ -145,13 +130,23 @@ v.19 — NET: "Whether it is right before God to obey you rather
        yourselves." Civil disobedience when human law contradicts
        divine command.
 
+v.28 — KJV: "whatsoever thy hand and thy counsel determined before to be done"
+       / ESV: "whatever your hand and your plan had predestined to take place"
+       — ESV uses "predestined" explicitly; KJV uses "determined before." Both
+       convey God's sovereignty. The crucifixion was both the worst human sin
+       and God's predetermined plan. Both are true.
+
 v.29 — NET: "we must obey God rather than people" — the apostolic
        principle of conscience. WEB: "We must obey God rather than
        men." KJV: "We ought to obey God rather than men." ASV:
        "We must obey God rather than men." The verb "must" (dei)
        expresses divine necessity.
 
-v.31 — NET: "the place where they were assembled together was
+v.31 — KJV: "filled with the Holy Ghost" / ESV: "filled with the Holy Spirit"
+       — Both equivalent ("Ghost"/"Spirit" = same Greek "pneuma"). A second
+       filling (after 2:4). Being filled with the Spirit is not a one-time
+       event but a repeated experience as needed for specific situations.
+       NET: "the place where they were assembled together was
        shaken, and they were all filled with the Holy Spirit" —
        "shaken" (esaleuthE) — physical manifestation of God's
        power in answer to prayer. WEB: "the place was shaken." A

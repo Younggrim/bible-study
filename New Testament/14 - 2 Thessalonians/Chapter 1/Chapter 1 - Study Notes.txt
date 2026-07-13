@@ -95,7 +95,7 @@ Charles Spurgeon:
  glory. Every redeemed soul will be a trophy of grace, a masterpiece of
  mercy. Christ will be admired as people look at what He has made of sinners."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.3 — KJV: "groweth exceedingly" / ESV: "growing abundantly" — Greek "huperauxanei" — super-grows,
  grows beyond measure. A word Paul may have coined. Their faith wasn't
@@ -104,60 +104,53 @@ v.3 — KJV: "groweth exceedingly" / ESV: "growing abundantly" — Greek "hupera
 v.5 — KJV: "manifest token" / ESV: "evidence" — Greek "endeigma" — evidence, proof, clear
  indication. Their endurance under persecution is evidence of God's
  righteous judgment — proving they are worthy of the kingdom.
-
-v.7 — KJV: "revealed" / ESV: Both equivalent. — Greek "apokalupsei" — unveiled, uncovered. The
- "apocalypse" of Jesus Christ — when He is unveiled in full glory.
- Currently hidden; then fully revealed.
-
-v.8 — KJV: "taking vengeance" / ESV: "vengeance" — Greek "didontos ekdikēsin" — giving
- justice, executing retribution. Not vindictive revenge but righteous
- justice. God settles accounts.
-
-v.9 — KJV: "everlasting destruction" / ESV: "destruction" — Greek "olethron aiōnion" — ruin
- that lasts forever. Not annihilation (ceasing to exist) but ongoing
- ruin. "From the presence of the Lord" — separation from God as the
- essence of judgment.
-
-v.10 — KJV: "glorified in his saints" / ESV: Both equivalent. — Not just praised BY them but
- displayed IN them. Christ's glory will be visible in what He has made
- of His people.
-
-v.11 — KJV: "count you worthy" / ESV: "you worthy" — Greek "axiōsē" — to consider worthy, to
- make worthy. Paul prays God would both declare and make them worthy of
- their calling.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.5  — NET: "This is evidence of God's righteous judgment, to
+       NET: "This is evidence of God's righteous judgment, to
        make you worthy of the kingdom of God" — "evidence"
        (endeigma = proof/demonstration). WEB: "a clear sign of the
        righteous judgment of God." Their endurance under persecution
        PROVES God's justice — they are being refined.
 
-v.7  — NET: "when the Lord Jesus is revealed from heaven with his
+v.7 — KJV: "revealed" / ESV: Both equivalent. — Greek "apokalupsei" — unveiled, uncovered. The
+ "apocalypse" of Jesus Christ — when He is unveiled in full glory.
+ Currently hidden; then fully revealed.
+       NET: "when the Lord Jesus is revealed from heaven with his
        mighty angels" — "revealed" (apokalypsei = apocalypse/
        unveiling). WEB: "when the Lord Jesus is revealed from heaven
        with his mighty angels." KJV: "when the Lord Jesus shall be
        revealed from heaven with his mighty angels." The Second
        Coming as an unveiling of hidden reality.
 
-v.8  — NET: "with a flaming fire, inflicting punishment on those
+v.8 — KJV: "taking vengeance" / ESV: "vengeance" — Greek "didontos ekdikēsin" — giving
+ justice, executing retribution. Not vindictive revenge but righteous
+ justice. God settles accounts.
+       NET: "with a flaming fire, inflicting punishment on those
        who do not know God" — "flaming fire" (en pyri phlogos).
        WEB: "in flaming fire." KJV: "In flaming fire." Theophany
        language — God's self-revelation in fire (Sinai, bush,
        Pentecost, judgment).
 
-v.9  — NET: "They will undergo the penalty of eternal destruction,
+v.9 — KJV: "everlasting destruction" / ESV: "destruction" — Greek "olethron aiōnion" — ruin
+ that lasts forever. Not annihilation (ceasing to exist) but ongoing
+ ruin. "From the presence of the Lord" — separation from God as the
+ essence of judgment.
+       NET: "They will undergo the penalty of eternal destruction,
        away from the presence of the Lord" — "eternal destruction"
        (olethron aiOnion). WEB: "eternal destruction from the face
        of the Lord." KJV: "everlasting destruction from the presence
        of the Lord." Separation from God as the essence of judgment.
 
-v.10 — NET: "when he comes to be glorified among his saints" —
+v.10 — KJV: "glorified in his saints" / ESV: Both equivalent. — Not just praised BY them but
+ displayed IN them. Christ's glory will be visible in what He has made
+ of His people.
+       NET: "when he comes to be glorified among his saints" —
        "among his saints" (en tois hagiois autou). WEB: "to be
        glorified in his saints." KJV: "to be glorified in his
        saints." Christ glorified IN believers — they reflect His
        glory like mirrors.
+
+v.11 — KJV: "count you worthy" / ESV: "you worthy" — Greek "axiōsē" — to consider worthy, to
+ make worthy. Paul prays God would both declare and make them worthy of
+ their calling.
 
 GLOSSARY
 ------------------------------------

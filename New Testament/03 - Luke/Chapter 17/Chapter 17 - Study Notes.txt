@@ -91,35 +91,22 @@ Charles Spurgeon:
   back — and was lost. You cannot follow Christ while looking back at what
   you've left behind."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.6  — KJV: "sycamine tree" — ESV: "mulberry tree" — Greek "sukaminon" —
        a tree with deep roots, difficult to uproot. Even small, genuine faith
        can accomplish what seems impossible.
-
-v.10 — KJV: "unprofitable servants" — ESV: "unworthy servants" — Greek
-       "achreioi" — useless, without merit. Not that our service is worthless
-       to God, but that it doesn't earn us anything beyond what was already
-       owed. Obedience is duty, not extra credit.
-
-v.21 — KJV: "the kingdom of God is within you" — ESV: "the kingdom of God
-       is in the midst of you" — Greek "entos humōn" — can mean "within you"
-       (internal) or "among you" (in your midst). Since Jesus is speaking to
-       Pharisees, "among you" (in the person of Jesus) may be more likely.
-
-v.32 — KJV: "Remember Lot's wife" — Genesis 19:26. She looked back at Sodom
-       while fleeing — and became a pillar of salt. The warning: don't cling
-       to what God is calling you to leave behind.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.6  — NET: "If you had faith the size of a mustard seed, you
+       NET: "If you had faith the size of a mustard seed, you
        could say to this black mulberry tree, 'Be pulled out by
        the roots and planted in the sea,' and it would obey you" —
        "black mulberry tree" (sykaminō) vs. KJV "sycamine tree."
        WEB: "sycamore tree." Different from Matthew's mountain.
 
-v.10 — NET: "We are slaves undeserving of special praise; we have
+v.10 — KJV: "unprofitable servants" — ESV: "unworthy servants" — Greek
+       "achreioi" — useless, without merit. Not that our service is worthless
+       to God, but that it doesn't earn us anything beyond what was already
+       owed. Obedience is duty, not extra credit.
+       NET: "We are slaves undeserving of special praise; we have
        only done what was our duty" — "undeserving of special
        praise" (achreios = useless/unprofitable). KJV: "unprofitable
        servants." WEB: "unprofitable servants." Obedience doesn't
@@ -131,11 +118,19 @@ v.16 — NET: "He fell with his face to the ground at Jesus' feet
        one returns — and he's the outsider. KJV: "and he was a
        Samaritan."
 
-v.21 — NET: "the kingdom of God is in your midst" — "in your
+v.21 — KJV: "the kingdom of God is within you" — ESV: "the kingdom of God
+       is in the midst of you" — Greek "entos humōn" — can mean "within you"
+       (internal) or "among you" (in your midst). Since Jesus is speaking to
+       Pharisees, "among you" (in the person of Jesus) may be more likely.
+       NET: "the kingdom of God is in your midst" — "in your
        midst" (entos hymōn) is debated. KJV: "within you." WEB:
        "within you." ASV: "within you." Does it mean inside
        individuals (internal) or among them (in their midst because
        Jesus stands there)? NET favors the latter.
+
+v.32 — KJV: "Remember Lot's wife" — Genesis 19:26. She looked back at Sodom
+       while fleeing — and became a pillar of salt. The warning: don't cling
+       to what God is calling you to leave behind.
 
 v.33 — NET: "Whoever tries to keep his life will lose it, but
        whoever loses his life will preserve it" — "preserve"

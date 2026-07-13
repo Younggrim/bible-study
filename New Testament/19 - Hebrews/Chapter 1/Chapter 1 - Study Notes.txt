@@ -86,15 +86,26 @@ Charles Spurgeon:
  IS done. 'It is finished.' The sacrifice is complete. The purging of sins
  is accomplished. He sat down — not from exhaustion but from completion."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1 — KJV: "at sundry times and in divers manners" / ESV: "long ago, at many times and in many ways" — Greek "polumerōs kai
  polutropōs" — in many portions and in many ways. God's OT revelation
  was fragmentary and varied. Christ is the complete, final word.
+       NET: "God spoke to our ancestors through the prophets
+       at many times and in various ways" — "at many times and in
+       various ways" (polymerOs kai polytropOs). WEB: "at many
+       times and in many ways." KJV: "at sundry times and in divers
+       manners." The revelation was fragmentary; now in the Son it
+       is complete and final.
 
 v.2 — KJV: "by his Son" / ESV: Both equivalent. — Greek "en huiō" — in Son (no article). Not "a
  son" or "the Son" but the quality of Sonship. God spoke in the
  character of Son — His final, definitive communication.
+       NET: "whom he appointed heir of all things, and through
+       whom he created the world" — "the world" (tous aiOnas = the
+       ages/eons — time and space). WEB: "through whom also he made
+       the worlds." KJV: "by whom also he made the worlds." Christ
+       made not just matter but time itself.
 
 v.3 — Seven descriptions of Christ: (1) brightness of His glory (radiance),
  (2) express image of His person (exact representation), (3) upholding
@@ -102,11 +113,21 @@ v.3 — Seven descriptions of Christ: (1) brightness of His glory (radiance),
  (by His powerful word), (5) purged our sins (accomplished atonement),
  (6) sat down (work completed), (7) at the right hand (position of
  honor and authority).
+       NET: "sustaining all things by his powerful word" —
+       "sustaining" (pherOn = carrying/bearing/maintaining). WEB:
+       "upholding all things by the word of his power." KJV:
+       "upholding all things." Not static support but active,
+       purposeful carrying toward a destination.
 
 v.3 — KJV: "brightness" / ESV: "radiance" — Greek "apaugasma" — radiance, effulgence. Light
  streaming from a source. Christ is the radiance of God's glory.
  KJV: "express image" / ESV: "exact imprint" — Greek "charaktēr" — exact imprint, precise
  representation. Root of English "character."
+       NET: "sustaining all things by his powerful word" —
+       "sustaining" (pherOn = carrying/bearing/maintaining). WEB:
+       "upholding all things by the word of his power." KJV:
+       "upholding all things." Not static support but active,
+       purposeful carrying toward a destination.
 
 v.4 — KJV: "better than the angels" / ESV: "superior to angels" — Greek "kreittōn" — superior, more
  excellent. The key word of Hebrews (13 times). Christ is better.
@@ -118,34 +139,6 @@ v.8 — KJV: "Thy throne, O God" / ESV: "Your throne, O God" — The Father addr
 v.13 — KJV: "Sit on my right hand" / ESV: "Sit at my right hand" — Psalm 110:1, the most quoted OT verse
  in the NT. The right hand = the position of supreme honor and
  authority. No angel was ever invited to sit there.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.1  — NET: "God spoke to our ancestors through the prophets
-       at many times and in various ways" — "at many times and in
-       various ways" (polymerOs kai polytropOs). WEB: "at many
-       times and in many ways." KJV: "at sundry times and in divers
-       manners." The revelation was fragmentary; now in the Son it
-       is complete and final.
-
-v.2  — NET: "whom he appointed heir of all things, and through
-       whom he created the world" — "the world" (tous aiOnas = the
-       ages/eons — time and space). WEB: "through whom also he made
-       the worlds." KJV: "by whom also he made the worlds." Christ
-       made not just matter but time itself.
-
-v.3  — NET: "He is the radiance of his glory and the
-       representation of his essence" — "radiance" (apaugasma =
-       effulgence/shining forth). "Representation" (charaktEr =
-       exact imprint/stamp). WEB: "the very image of his substance."
-       KJV: "the express image of his person." Two metaphors:
-       light radiating and a die striking a coin.
-
-v.3  — NET: "sustaining all things by his powerful word" —
-       "sustaining" (pherOn = carrying/bearing/maintaining). WEB:
-       "upholding all things by the word of his power." KJV:
-       "upholding all things." Not static support but active,
-       purposeful carrying toward a destination.
 
 v.14 — NET: "Are they not all ministering spirits, sent to serve
        those who will inherit salvation?" — "ministering spirits"

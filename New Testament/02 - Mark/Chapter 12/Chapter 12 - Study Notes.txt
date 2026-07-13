@@ -88,13 +88,28 @@ Charles Spurgeon:
   His character — and still be outside. The kingdom requires not just
   agreement but surrender."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
+v.10 — NET: "The stone the builders rejected has become the
+       cornerstone" — "cornerstone" vs. KJV "head of the corner."
+       WEB: "the head of the corner." ASV: "the head of the
+       corner." NET uses the modern architectural term that
+       captures the meaning.
+
+v.14 — NET: "Is it right to pay taxes to Caesar or not?" — "taxes"
+       (Greek kēnsos, from Latin census) = the poll tax. WEB:
+       "Should we pay, or should we not pay?" The trap: say yes
+       and lose the crowd; say no and face Rome.
+
 v.29 — KJV: "Hear, O Israel; The Lord our God is one Lord" / ESV: "Hear, O
        Israel: The Lord our God, the Lord is one" — Both equivalent. The Shema
        (Deuteronomy 6:4) — the central confession of Jewish faith, recited
        twice daily. Jesus affirms monotheism as the foundation of all
        commandments.
+       NET: "The most important is: 'Listen, Israel, the Lord our
+       God, the Lord is one'" — renders the Shema. WEB: "The first
+       is, 'Hear, Israel, the Lord our God, the Lord is one.'"
+       ASV: "Hear, O Israel; The Lord our God, the Lord is one."
 
 v.30 — KJV: "heart... soul... mind... strength" / ESV: "heart... soul...
        mind... strength" — Both identical. Four dimensions of total love:
@@ -110,26 +125,7 @@ v.42 — KJV: "two mites, which make a farthing" / ESV: "two small copper
        coins, which make a penny" — The ESV modernizes the currency terms.
        Two lepta = one quadrans = 1/64 of a denarius. The smallest possible
        offering — yet Jesus said it was the largest.
-
-ADDITIONAL TRANSLATION NOTES (ASV, NET, WEB)
-------------------------------------
-v.10 — NET: "The stone the builders rejected has become the
-       cornerstone" — "cornerstone" vs. KJV "head of the corner."
-       WEB: "the head of the corner." ASV: "the head of the
-       corner." NET uses the modern architectural term that
-       captures the meaning.
-
-v.14 — NET: "Is it right to pay taxes to Caesar or not?" — "taxes"
-       (Greek kēnsos, from Latin census) = the poll tax. WEB:
-       "Should we pay, or should we not pay?" The trap: say yes
-       and lose the crowd; say no and face Rome.
-
-v.29 — NET: "The most important is: 'Listen, Israel, the Lord our
-       God, the Lord is one'" — renders the Shema. WEB: "The first
-       is, 'Hear, Israel, the Lord our God, the Lord is one.'"
-       ASV: "Hear, O Israel; The Lord our God, the Lord is one."
-
-v.42 — NET: "a poor widow came and put in two small copper coins,
+       NET: "a poor widow came and put in two small copper coins,
        worth less than a penny" — specifies value. KJV: "two
        mites, which make a farthing." WEB: "two small brass coins,
        which equal a quadrans coin." NET gives the relative value

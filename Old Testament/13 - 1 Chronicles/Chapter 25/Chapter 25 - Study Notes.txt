@@ -191,7 +191,7 @@ Charles Spurgeon:
   glory and translate it into sound that the congregation might
   behold what words alone cannot express."
 
-TRANSLATION NOTES
+TRANSLATION COMPARISON
 ------------------------------------
 v.1  — KJV: "captains of the host" / ESV: "chiefs of the service"
        — Hebrew "sarey ha-tsaba." KJV interprets "tsaba" as
@@ -209,6 +209,14 @@ v.1  — KJV: "psalteries" / ESV: "harps" — Hebrew "nevalim." The
        "psalteries" (from Greek "psalterion") distinguishes the
        instruments; ESV loses this distinction by rendering both
        as "harps" or "lyres" without consistent differentiation.
+
+v.3  — KJV: "six, under the hands of their father Jeduthun" / ESV:
+       "six, under the direction of their father Jeduthun" —
+       Hebrew "al-yedey" literally "upon the hands of." KJV's
+       "under the hands" is more literal; ESV's "under the
+       direction" captures the meaning idiomatically. The
+       metaphor of being "in someone's hands" indicates
+       authority and supervisory responsibility.
 
 v.5  — KJV: "the king's seer in the words of God, to lift up the
        horn" / ESV: "the king's seer, according to the promise of
@@ -236,14 +244,6 @@ v.8  — KJV: "ward against ward, as well the small as the great,
        ESV simplifies. "Scholar" (KJV) vs. "pupil" (ESV) both
        translate "talmid" — one who learns. The KJV/ESV pair shows
        master-apprentice equality before God's lot.
-
-v.3  — KJV: "six, under the hands of their father Jeduthun" / ESV:
-       "six, under the direction of their father Jeduthun" —
-       Hebrew "al-yedey" literally "upon the hands of." KJV's
-       "under the hands" is more literal; ESV's "under the
-       direction" captures the meaning idiomatically. The
-       metaphor of being "in someone's hands" indicates
-       authority and supervisory responsibility.
 
 GLOSSARY
 ------------------------------------
