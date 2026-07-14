@@ -1,5 +1,8 @@
 /* Bible Study Site — Shared JavaScript */
 
+/* ESV API Configuration — via Cloudflare Worker proxy */
+var ESV_PROXY_URL = 'https://esv-proxy.jeremy-mcadoo.workers.dev';
+
 function switchTab(tabId) {
     document.querySelectorAll('.study-tab').forEach(t => t.classList.remove('active'));
     document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
@@ -18,6 +21,41 @@ function switchTranslation(trans) {
     document.querySelectorAll('.translation-block').forEach(b => b.classList.remove('active'));
     const block = document.querySelector(`.translation-block[data-translation="${trans}"]`);
     if (block) block.classList.add('active');
+
+    // Load ESV from API if needed
+    if (trans === 'ESV') {
+        loadESVText();
+    }
+}
+
+/* Fetch ESV text via Cloudflare Worker proxy and inject into the ESV translation block */
+function loadESVText() {
+    var esvBlock = document.querySelector('.translation-block[data-translation="ESV"]');
+    if (!esvBlock) return;
+
+    // Already loaded
+    if (esvBlock.dataset.loaded === 'true') return;
+
+    var passage = esvBlock.dataset.passage;
+    if (!passage) return;
+
+    fetch(ESV_PROXY_URL + '/?q=' + encodeURIComponent(passage))
+    .then(function(response) {
+        if (!response.ok) throw new Error('ESV proxy error: ' + response.status);
+        return response.json();
+    })
+    .then(function(data) {
+        if (data.passages && data.passages.length > 0) {
+            esvBlock.innerHTML = data.passages[0];
+            esvBlock.dataset.loaded = 'true';
+        } else {
+            esvBlock.innerHTML = '<p class="verse" style="color:var(--text-muted);font-style:italic;">ESV text could not be loaded for this passage.</p>';
+        }
+    })
+    .catch(function(err) {
+        console.error('ESV fetch failed:', err);
+        esvBlock.innerHTML = '<p class="verse" style="color:var(--text-muted);font-style:italic;">Unable to load ESV text. Please try again later.</p>';
+    });
 }
 
 // Navigation: book/chapter selector
@@ -53,6 +91,9 @@ document.addEventListener('DOMContentLoaded', function() {
             });
         }
     }
+
+    // Auto-load ESV text on page load (ESV is default translation)
+    loadESVText();
 });
 
 function updateChapters() {
@@ -73,5 +114,3 @@ function goToChapter() {
     var chapter = document.getElementById('chapterSelect').value;
     window.location.href = book + chapter + '.html';
 }
-
-
