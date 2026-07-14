@@ -42,6 +42,16 @@ export default {
       return new Response('Method not allowed', { status: 405 });
     }
 
+    // Block non-browser requests (no Origin or Referer header)
+    const origin = request.headers.get('Origin') || '';
+    const referer = request.headers.get('Referer') || '';
+    if (!origin && !referer) {
+      return new Response(JSON.stringify({ error: 'Forbidden' }), {
+        status: 403,
+        headers: { 'Content-Type': 'application/json' }
+      });
+    }
+
     // Get the passage query from URL params
     const url = new URL(request.url);
     const passage = url.searchParams.get('q');
