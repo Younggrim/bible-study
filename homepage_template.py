@@ -10,7 +10,7 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link rel="stylesheet" href="site/style.css?v=12">
     <style>
-        .home-content {{ margin-top: 0; padding: 0; max-width: 900px; margin-left: auto; margin-right: auto; padding-bottom: 60px; background: linear-gradient(180deg, #f5ebe0 0%, #fdf9f4 10%, #f5ebe0 30%, #fdf9f4 50%, #f5ebe0 70%, #fdf9f4 90%, #f0e4d4 100%); }}
+        .home-content {{ margin-top: 0; padding: 0; max-width: 900px; margin-left: auto; margin-right: auto; padding-bottom: 60px; background: linear-gradient(180deg, #f5ebe0 0%, #faf5ed 8%, #f0e8dc 20%, #e8ddd0 35%, #f5ede2 50%, #ebe0d4 65%, #e0d4c6 80%, #d8ccbe 92%, #d0c4b6 100%); }}
 
         /* Section dividers — smooth gradient transitions between sections */
         .section-fade {{ height: 40px; background: linear-gradient(180deg, transparent 0%, #f5ebe0 100%); }}
@@ -97,7 +97,7 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
         <div class="hero-section">
             <img src="https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=1400&q=80" alt="Open Bible">
             <div class="hero-overlay">
-                <h1>Into the Word</h1>
+                <h1><i class="fas fa-cross" style="margin-right:14px; font-size:2.4rem;"></i>Into the Word<i class="fas fa-cross" style="margin-left:14px; font-size:2.4rem;"></i></h1>
                 <p class="hero-verse">Your Word is a lamp to my feet and a light to my path — Psalm 119:105</p>
                 <p class="welcome-text">Welcome — this is a free resource built to help you grow deeper in God's Word. Whether you are a new believer taking your first steps in faith or you have walked with Christ for many years, this site is here to serve you. Explore Scripture across multiple translations, study the themes woven through the Bible, and let the Holy Spirit guide you into all truth.</p>
             </div>
