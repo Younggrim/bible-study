@@ -10,7 +10,7 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link rel="stylesheet" href="site/style.css?v=12">
     <style>
-        .home-content {{ margin-top: 56px; padding: 0; max-width: 900px; margin-left: auto; margin-right: auto; padding-bottom: 60px; }}
+        .home-content {{ margin-top: 0; padding: 0; max-width: 900px; margin-left: auto; margin-right: auto; padding-bottom: 60px; }}
 
         /* Hero Section — extended with welcome overlay */
         .hero-section {{ position: relative; width: 100%; min-height: 480px; overflow: hidden; display: flex; align-items: center; justify-content: center; }}
@@ -87,10 +87,7 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
     </style>
 </head>
 <body>
-    <nav class="top-nav">
-        <a href="index.html" class="nav-brand">Bible Study</a>
-        <div class="nav-center"></div>
-    </nav>
+    <nav class="top-nav" style="display:none;"></nav>
     <main class="home-content">
 
         <!-- Hero Section with Welcome Overlay -->
