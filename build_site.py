@@ -509,7 +509,12 @@ def build_page(testament, book_num, book_name, chapter_num, total_chapters):
     verses_html = ""
     for trans in translations:
         active = " active" if trans == "ESV" else ""
-        verses_html += f'        <div class="translation-block{active}" data-translation="{trans}">\n{verses_html_blocks[trans]}\n        </div>\n'
+        if trans == "ESV":
+            # ESV is loaded dynamically via API — render a placeholder with the passage reference
+            esv_passage = f"{book_name} {chapter_num}"
+            verses_html += f'        <div class="translation-block{active}" data-translation="ESV" data-passage="{esv_passage}">\n            <p class="verse esv-loading" style="color:var(--text-muted);font-style:italic;">Loading ESV text...</p>\n        </div>\n'
+        else:
+            verses_html += f'        <div class="translation-block{active}" data-translation="{trans}">\n{verses_html_blocks[trans]}\n        </div>\n'
 
     # Build study note tabs
     summary = sections.get("CHAPTER SUMMARY", "")
