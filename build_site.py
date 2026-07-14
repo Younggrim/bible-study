@@ -689,7 +689,7 @@ def build_index():
 
     nt_cards = ""
     for i, (_, name, _) in enumerate(NT_BOOKS):
-        nt_cards += f'                        <a class="book-link" href="{book_slug(name)}1.html">{name}</a>\n'
+        nt_cards += f'                        <a class="book-link nt-link" href="{book_slug(name)}1.html">{name}</a>\n'
 
     from homepage_template import HOMEPAGE_TEMPLATE
     return HOMEPAGE_TEMPLATE.format(ot_cards=ot_cards, nt_cards=nt_cards)
