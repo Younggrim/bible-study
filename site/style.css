@@ -290,13 +290,14 @@ body {
     padding: 32px 36px;
     box-shadow: var(--shadow-sm);
     margin-bottom: 32px;
+    color: #8b3a2a;
 }
 
 .verse {
     font-family: 'Merriweather', serif;
     font-size: 1.05rem;
     line-height: 2;
-    color: var(--text-primary);
+    color: inherit;
     margin-bottom: 4px;
 }
 
