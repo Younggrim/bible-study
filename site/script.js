@@ -17,10 +17,25 @@ function toggleSidebar() {
     document.querySelector('.sidebar-overlay').classList.toggle('show');
 }
 
+/* Translation colors — match homepage Translation Guide */
+var TRANSLATION_COLORS = {
+    'ESV': '#8b3a2a',
+    'KJV': '#4a5a8a',
+    'ASV': '#7a5c2e',
+    'NET': '#5c3d6e',
+    'WEB': '#2c6b4f'
+};
+
 function switchTranslation(trans) {
     document.querySelectorAll('.translation-block').forEach(b => b.classList.remove('active'));
     const block = document.querySelector(`.translation-block[data-translation="${trans}"]`);
     if (block) block.classList.add('active');
+
+    // Apply translation color to the active block
+    var container = document.querySelector('.scripture-container');
+    if (container) {
+        container.style.color = TRANSLATION_COLORS[trans] || '#3d2b1f';
+    }
 
     // Load ESV from API if needed
     if (trans === 'ESV') {
@@ -94,6 +109,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Auto-load ESV text on page load (ESV is default translation)
     loadESVText();
+
+    // Set default translation color (ESV)
+    var container = document.querySelector('.scripture-container');
+    if (container) {
+        container.style.color = TRANSLATION_COLORS['ESV'];
+    }
 });
 
 function updateChapters() {
