@@ -6,23 +6,52 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bible Study</title>
-    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Cinzel:wght@400;600;700&family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,500&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
-    <link rel="stylesheet" href="site/style.css?v=10">
+    <link rel="stylesheet" href="site/style.css?v=12">
     <style>
         .home-content {{ margin-top: 56px; padding: 0; max-width: 900px; margin-left: auto; margin-right: auto; padding-bottom: 60px; }}
+
+        /* Hero Section — extended with welcome overlay */
+        .hero-section {{ position: relative; width: 100%; min-height: 480px; overflow: hidden; display: flex; align-items: center; justify-content: center; }}
+        .hero-section img {{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.4); }}
+        .hero-overlay {{ position: relative; z-index: 1; text-align: center; padding: 40px 28px; max-width: 760px; }}
+        .hero-overlay h1 {{ font-family: "Cinzel", serif; font-size: 3.2rem; color: #fff; text-shadow: 2px 2px 12px rgba(0,0,0,0.8); margin-bottom: 12px; letter-spacing: 3px; }}
+        .hero-overlay .hero-verse {{ font-family: "Cormorant Garamond", serif; font-size: 1.2rem; color: #e8dcc8; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.6); margin-bottom: 28px; }}
+        .hero-overlay .welcome-text {{ font-family: "Cormorant Garamond", serif; font-size: 1.2rem; line-height: 2; color: #f5ebe0; font-style: italic; text-shadow: 1px 1px 6px rgba(0,0,0,0.7); }}
+
+        /* Prayer Section — bold and eye-catching */
+        .prayer-section {{ background: linear-gradient(135deg, #2a1f14 0%, #3d2b1f 50%, #2a1f14 100%); padding: 44px 32px; text-align: center; }}
+        .prayer-text {{ font-family: "Cormorant Garamond", serif; font-size: 1.3rem; line-height: 2.1; color: #f0e4d4; font-style: italic; max-width: 720px; margin: 0 auto; font-weight: 500; }}
+        .prayer-label {{ font-family: "Cinzel", serif; font-size: 0.9rem; color: #c9a96e; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 16px; }}
+
+        /* Content Blocks — Translation Guide & Commentaries */
+        .content-block {{ margin: 32px 32px 0; background: #fdf9f4; border: 1px solid #e0d6c8; border-radius: 12px; padding: 32px; box-shadow: 0 4px 12px rgba(0,0,0,0.06); }}
+        .content-block h2 {{ font-family: "Cinzel", serif; font-size: 1.4rem; color: #8b3a2a; margin-bottom: 8px; text-align: center; }}
+        .content-block .block-desc {{ font-size: 0.9rem; color: #5a4e44; text-align: center; margin-bottom: 24px; line-height: 1.7; }}
+        .trans-guide-item {{ margin-bottom: 18px; padding: 16px; background: #fff; border: 1px solid #e8e0d6; border-radius: 8px; }}
+        .trans-guide-item:last-child {{ margin-bottom: 0; }}
+        .trans-guide-item strong {{ font-size: 1rem; display: block; margin-bottom: 6px; }}
+        .trans-guide-item p {{ font-size: 0.88rem; line-height: 1.7; color: #5a4e44; margin: 0; }}
+        .commentary-card {{ background: #fff; border: 1px solid #e8e0d6; border-radius: 10px; padding: 24px; margin-bottom: 20px; }}
+        .commentary-card:last-child {{ margin-bottom: 0; }}
+        .commentary-card h4 {{ font-family: "Cinzel", serif; font-size: 1.05rem; color: #8b3a2a; margin-bottom: 8px; }}
+        .commentary-card p {{ font-size: 0.88rem; line-height: 1.7; color: #5a4e44; margin: 0; }}
+
+        /* Scroll Sections — realistic parchment texture */
         .scroll-section {{ margin: 32px 32px 0; }}
         .scroll-banner {{ display: flex; align-items: center; cursor: pointer; user-select: none; }}
-        .scroll-end {{ width: 40px; height: 100px; border-radius: 20px; background: linear-gradient(to right, #c9a96e, #a67c52, #c9a96e); box-shadow: inset 0 0 8px rgba(0,0,0,0.3), 2px 2px 6px rgba(0,0,0,0.15); }}
-        .scroll-end.left {{ border-right: 2px solid #8b6914; }}
-        .scroll-end.right {{ border-left: 2px solid #8b6914; }}
-        .scroll-body {{ flex: 1; background: linear-gradient(180deg, #faf3e0 0%, #f5ebe0 30%, #f0e4d4 70%, #ebe0cc 100%); border-top: 3px solid #c9a96e; border-bottom: 3px solid #c9a96e; padding: 22px 32px; text-align: center; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: all 0.3s; }}
-        .scroll-title {{ font-family: "Cinzel", serif; font-size: 1.8rem; color: #8b3a2a; margin-bottom: 4px; letter-spacing: 2px; }}
-        .scroll-subtitle {{ font-family: "Merriweather", serif; font-size: 0.95rem; color: #5a4e44; font-style: italic; }}
-        .scroll-toggle {{ font-size: 0.8rem; color: #8b6914; margin-top: 6px; transition: transform 0.3s; }}
-        .scroll-banner:hover .scroll-body {{ background: linear-gradient(180deg, #f5ebe0 0%, #f0e4d4 30%, #ebe0cc 70%, #e5d9c0 100%); }}
-        .parchment-body {{ margin: 0 72px; background: linear-gradient(180deg, #f5ebe0 0%, #faf5ed 5%, #fdf9f4 50%, #faf5ed 95%, #f0e4d4 100%); border-left: 3px solid #d4c4a8; border-right: 3px solid #d4c4a8; border-bottom: 3px solid #c9a96e; border-radius: 0 0 8px 8px; padding: 36px 40px 48px; box-shadow: 4px 4px 16px rgba(0,0,0,0.08), -4px 0 16px rgba(0,0,0,0.05); display: none; }}
+        .scroll-end {{ width: 44px; height: 110px; border-radius: 22px; background: radial-gradient(ellipse at center, #d4a96e 0%, #8b6914 40%, #5c4410 100%); box-shadow: inset 0 0 12px rgba(0,0,0,0.4), 3px 3px 8px rgba(0,0,0,0.25), -1px -1px 4px rgba(255,255,255,0.1); border: 1px solid #6b4c1e; }}
+        .scroll-end.left {{ border-right: 3px solid #4a3010; }}
+        .scroll-end.right {{ border-left: 3px solid #4a3010; }}
+        .scroll-body {{ flex: 1; background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' /%3E%3C/filter%3E%3Crect width='100' height='100' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E"), linear-gradient(180deg, #f7edd4 0%, #f0e2c4 20%, #e8d6b4 50%, #f0e2c4 80%, #f7edd4 100%); border-top: 4px solid #a67c42; border-bottom: 4px solid #a67c42; padding: 24px 32px; text-align: center; box-shadow: 0 4px 16px rgba(0,0,0,0.12), inset 0 2px 8px rgba(0,0,0,0.04); transition: all 0.3s; }}
+        .scroll-title {{ font-family: "Cinzel", serif; font-size: 1.8rem; color: #5c2a10; margin-bottom: 4px; letter-spacing: 2px; text-shadow: 1px 1px 2px rgba(0,0,0,0.1); }}
+        .scroll-subtitle {{ font-family: "Merriweather", serif; font-size: 0.95rem; color: #6b4c3b; font-style: italic; }}
+        .scroll-toggle {{ font-size: 0.8rem; color: #8b6914; margin-top: 6px; }}
+        .scroll-banner:hover .scroll-body {{ background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='100'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='4' /%3E%3C/filter%3E%3Crect width='100' height='100' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E"), linear-gradient(180deg, #f0e2c4 0%, #e8d6b4 20%, #decca8 50%, #e8d6b4 80%, #f0e2c4 100%); }}
+        .parchment-body {{ margin: 0 72px; background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' /%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)' opacity='0.02'/%3E%3C/svg%3E"), linear-gradient(180deg, #f5ebe0 0%, #faf5ed 5%, #fdf9f4 50%, #faf5ed 95%, #f0e4d4 100%); border-left: 3px solid #c9a96e; border-right: 3px solid #c9a96e; border-bottom: 4px solid #a67c42; border-radius: 0 0 8px 8px; padding: 36px 40px 48px; box-shadow: 4px 4px 16px rgba(0,0,0,0.1), -4px 0 16px rgba(0,0,0,0.06); display: none; }}
         .parchment-body.open {{ display: block; }}
+        .scroll-usage {{ font-family: "Cormorant Garamond", serif; font-size: 1.1rem; line-height: 1.9; color: #3d2b1f; font-style: italic; text-align: center; margin-bottom: 28px; padding-bottom: 20px; border-bottom: 1px solid #d4c4a8; font-weight: 500; }}
         .testament-section {{ margin-bottom: 36px; }}
         .testament-section:last-child {{ margin-bottom: 0; }}
         .testament-title {{ font-family: "Cinzel", serif; font-size: 1.3rem; margin-bottom: 16px; padding-bottom: 8px; font-weight: 700; }}
@@ -33,15 +62,28 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
         .book-link:hover {{ box-shadow: 0 6px 16px rgba(0,0,0,0.12); transform: translateY(-3px); background: #8b3a2a; color: #fff; border-left-color: #8b3a2a; }}
         .topic-link {{ border-left-color: #5c3d6e !important; }}
         .topic-link:hover {{ background: #5c3d6e !important; border-left-color: #5c3d6e !important; }}
-        .commentary-card {{ background: #fdf9f4; border: 1px solid #e0d6c8; border-radius: 10px; padding: 24px; margin-bottom: 20px; }}
-        .commentary-card:last-child {{ margin-bottom: 0; }}
-        .commentary-card h4 {{ font-family: "Cinzel", serif; font-size: 1.1rem; color: #8b3a2a; margin-bottom: 8px; }}
-        .commentary-card p {{ font-size: 0.9rem; line-height: 1.7; color: #5a4e44; margin: 0; }}
-        .trans-guide-item {{ margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #e8e0d6; }}
-        .trans-guide-item:last-child {{ border-bottom: none; margin-bottom: 0; padding-bottom: 0; }}
-        .trans-guide-item strong {{ font-size: 1rem; }}
-        .trans-guide-item p {{ font-size: 0.88rem; line-height: 1.7; color: #5a4e44; margin-top: 4px; }}
-        @media (max-width: 768px) {{ .scroll-title {{ font-size: 1.4rem; }} .scroll-subtitle {{ font-size: 0.85rem; }} .scroll-end {{ width: 24px; height: 80px; }} .scroll-body {{ padding: 16px 14px; }} .parchment-body {{ margin: 0 16px; padding: 24px 16px; }} .scroll-section {{ margin: 16px 16px 0; }} .book-grid {{ grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); }} }}
+        .struggle-link {{ border-left-color: #2a6b6b !important; }}
+        .struggle-link:hover {{ background: #2a6b6b !important; border-left-color: #2a6b6b !important; }}
+
+        /* Footer */
+        .site-footer {{ text-align: center; padding: 32px; font-size: 0.72rem; color: #8a7e74; line-height: 1.8; border-top: 1px solid #e0d6c8; margin: 40px 32px 0; }}
+
+        @media (max-width: 768px) {{
+            .hero-section {{ min-height: 400px; }}
+            .hero-overlay h1 {{ font-size: 2.2rem; }}
+            .hero-overlay .welcome-text {{ font-size: 1.05rem; }}
+            .prayer-section {{ padding: 32px 20px; }}
+            .prayer-text {{ font-size: 1.15rem; }}
+            .content-block {{ margin: 24px 16px 0; padding: 24px 18px; }}
+            .scroll-title {{ font-size: 1.4rem; }}
+            .scroll-subtitle {{ font-size: 0.85rem; }}
+            .scroll-end {{ width: 28px; height: 90px; }}
+            .scroll-body {{ padding: 18px 14px; }}
+            .parchment-body {{ margin: 0 16px; padding: 24px 16px; }}
+            .scroll-section {{ margin: 20px 16px 0; }}
+            .book-grid {{ grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); }}
+            .trans-guide-item {{ padding: 14px; }}
+        }}
     </style>
 </head>
 <body>
@@ -51,17 +93,60 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
     </nav>
     <main class="home-content">
 
+        <!-- Hero Section with Welcome Overlay -->
+        <div class="hero-section">
+            <img src="https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=1400&q=80" alt="Open Bible">
+            <div class="hero-overlay">
+                <h1>Bible Study</h1>
+                <p class="hero-verse">Your Word is a lamp to my feet and a light to my path — Psalm 119:105</p>
+                <p class="welcome-text">Welcome — this is a free resource built to help you grow deeper in God's Word. Whether you are a new believer taking your first steps in faith or you have walked with Christ for many years, this site is here to serve you. Explore Scripture across multiple translations, study the themes woven through the Bible, and let the Holy Spirit guide you into all truth.</p>
+            </div>
+        </div>
+
+        <!-- Prayer Section — bold dark background -->
+        <div class="prayer-section">
+            <p class="prayer-label">A Prayer for This Study</p>
+            <p class="prayer-text">Lord, we pray that this resource brings glory to Your name. Use it as a tool to draw hearts closer to You and to reveal Your plan and purpose for each person who visits these pages. May Your Word not return void, but accomplish everything You desire. Open eyes, soften hearts, and let the truth of Scripture transform lives for Your kingdom. In Jesus' name, Amen.</p>
+        </div>
+
+        <!-- Translation Guide Block -->
+        <div class="content-block">
+            <h2><i class="fas fa-book-open" style="margin-right:10px;"></i>Translation Guide<i class="fas fa-book-open" style="margin-left:10px;"></i></h2>
+            <p class="block-desc">This site presents Scripture in five trusted English translations. Each offers a unique perspective — from word-for-word accuracy to natural modern readability. Comparing translations side by side reveals the richness and depth of the original Hebrew and Greek texts.</p>
+            <div class="trans-guide-item"><strong style="color:#8b3a2a;">ESV — English Standard Version (2001)</strong><p>An essentially literal translation balancing word-for-word accuracy with modern readability. Translated from the Masoretic Hebrew text and Nestle-Aland Greek text. Widely used for preaching, study, and memorization.</p></div>
+            <div class="trans-guide-item"><strong style="color:#4a5a8a;">KJV — King James Version (1611)</strong><p>The most influential English Bible in history. Commissioned by King James I and translated by 47 scholars from the Textus Receptus. Known for majestic, poetic language that has shaped English literature for over 400 years.</p></div>
+            <div class="trans-guide-item"><strong style="color:#7a5c2e;">ASV — American Standard Version (1901)</strong><p>A revision of the KJV using more accurate manuscript evidence. Extremely literal — almost word-for-word from the original languages. Excellent for detailed word studies.</p></div>
+            <div class="trans-guide-item"><strong style="color:#5c3d6e;">NET — New English Translation (2005)</strong><p>Created by over 25 biblical scholars with 60,000+ translator notes explaining translation choices. Balances accuracy with natural English. An exceptional study resource.</p></div>
+            <div class="trans-guide-item"><strong style="color:#2c6b4f;">WEB — World English Bible (2000)</strong><p>A modern-language update of the ASV. Completely public domain — free to copy, share, and use. Based on the Majority Text tradition. Modern English while faithful to the original languages.</p></div>
+        </div>
+
+        <!-- Commentaries Block -->
+        <div class="content-block">
+            <h2><i class="fas fa-comments" style="margin-right:10px;"></i>Commentaries<i class="fas fa-comments" style="margin-left:10px;"></i></h2>
+            <p class="block-desc">Throughout this site you will find references to trusted Bible commentators. Commentaries help us understand the historical context, original language, and practical application of Scripture. They are not a replacement for God's Word — they are guides to help us dig deeper.</p>
+            <div class="commentary-card">
+                <h4>David Guzik — Enduring Word</h4>
+                <p>David Guzik is a pastor, author, and Bible commentator whose verse-by-verse commentary covers the entire Bible. His work through Enduring Word (enduringword.com) is one of the most widely accessed Bible commentaries in the world, freely available online in multiple languages. Guzik writes for the everyday believer — combining solid evangelical scholarship with practical application.</p>
+            </div>
+            <div class="commentary-card">
+                <h4>Charles Haddon Spurgeon — The Prince of Preachers</h4>
+                <p>Charles Haddon Spurgeon (1834-1892) was a British Baptist preacher known as the "Prince of Preachers." His sermon collection spans 63 volumes and remains the largest set of books by a single author in Christian history. Spurgeon's preaching was Christ-centered, doctrinally rich, and deeply pastoral. His sermons are in the public domain.</p>
+            </div>
+        </div>
+
+        <!-- Bible Scroll -->
         <div class="scroll-section">
             <div class="scroll-banner" onclick="toggleScroll('bible')">
                 <div class="scroll-end left"></div>
                 <div class="scroll-body">
-                    <h1 class="scroll-title">Bible Study</h1>
+                    <h1 class="scroll-title">Bible</h1>
                     <p class="scroll-subtitle">Select a book to begin studying</p>
                     <div class="scroll-toggle"><i class="fas fa-chevron-down"></i></div>
                 </div>
                 <div class="scroll-end right"></div>
             </div>
             <div class="parchment-body" id="scroll-bible">
+                <p class="scroll-usage">Select any book of the Bible below to begin reading. Each chapter includes the full text in five translations you can switch between, along with study notes, commentary references, map and geography notes, and reflection questions to guide your time in the Word.</p>
                 <div class="testament-section">
                     <h2 class="testament-title ot">Old Testament</h2>
                     <div class="book-grid">
@@ -75,6 +160,7 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
             </div>
         </div>
 
+        <!-- Topical Studies Scroll -->
         <div class="scroll-section">
             <div class="scroll-banner" onclick="toggleScroll('topical')">
                 <div class="scroll-end left"></div>
@@ -86,6 +172,7 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
                 <div class="scroll-end right"></div>
             </div>
             <div class="parchment-body" id="scroll-topical">
+                <p class="scroll-usage">Topical studies gather what the entire Bible teaches on a single subject. Each study presents key passages, context, and cross-references organized into cards. These are great for personal study, small group discussion, or when you want to understand what God's Word says about a specific theme.</p>
                 <div class="book-grid">
                     <a class="book-link topic-link" href="fruits-of-the-spirit.html">Fruits of the Spirit</a>
                     <a class="book-link topic-link" href="the-12-apostles.html">The 12 Apostles</a>
@@ -107,45 +194,39 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
             </div>
         </div>
 
+        <!-- What the Bible Says About Scroll -->
         <div class="scroll-section">
-            <div class="scroll-banner" onclick="toggleScroll('translations')">
+            <div class="scroll-banner" onclick="toggleScroll('struggles')">
                 <div class="scroll-end left"></div>
                 <div class="scroll-body">
-                    <h1 class="scroll-title">Translation Guide</h1>
-                    <p class="scroll-subtitle">Understanding the five translations used</p>
+                    <h1 class="scroll-title">What the Bible Says About...</h1>
+                    <p class="scroll-subtitle">God's Word speaks to every struggle</p>
                     <div class="scroll-toggle"><i class="fas fa-chevron-down"></i></div>
                 </div>
                 <div class="scroll-end right"></div>
             </div>
-            <div class="parchment-body" id="scroll-translations">
-                <div class="trans-guide-item"><strong style="color:#8b3a2a;">ESV — English Standard Version (2001)</strong><p>An essentially literal translation balancing word-for-word accuracy with modern readability. Translated from the Masoretic Hebrew text and Nestle-Aland Greek text. Widely used for preaching, study, and memorization.</p></div>
-                <div class="trans-guide-item"><strong style="color:#4a5a8a;">KJV — King James Version (1611)</strong><p>The most influential English Bible in history. Commissioned by King James I and translated by 47 scholars from the Textus Receptus. Known for majestic, poetic language that has shaped English literature for over 400 years.</p></div>
-                <div class="trans-guide-item"><strong style="color:#7a5c2e;">ASV — American Standard Version (1901)</strong><p>A revision of the KJV using more accurate manuscript evidence. Extremely literal — almost word-for-word from the original languages. Excellent for detailed word studies. Uses "Jehovah" instead of "LORD."</p></div>
-                <div class="trans-guide-item"><strong style="color:#5c3d6e;">NET — New English Translation (2005)</strong><p>Created by over 25 biblical scholars with 60,000+ translator notes explaining translation choices. Balances accuracy with natural English. An exceptional study resource.</p></div>
-                <div class="trans-guide-item"><strong style="color:#2c6b4f;">WEB — World English Bible (2000)</strong><p>A modern-language update of the ASV. Completely public domain — free to copy, share, and use. Based on the Majority Text tradition. Modern English while faithful to the original languages.</p></div>
+            <div class="parchment-body" id="scroll-struggles">
+                <p class="scroll-usage">Life brings struggles that can feel overwhelming — fear, anger, grief, doubt, and more. But God's Word speaks directly into every one of them. Each topic below gathers the Scriptures, wisdom, and truth that God has given us for that specific battle. You are not alone, and His Word has an answer.</p>
+                <div class="book-grid">
+                    <a class="book-link struggle-link" href="anxiety-and-fear.html">Anxiety &amp; Fear</a>
+                    <a class="book-link struggle-link" href="anger.html">Anger</a>
+                    <a class="book-link struggle-link" href="depression-and-hopelessness.html">Depression &amp; Hopelessness</a>
+                    <a class="book-link struggle-link" href="doubt-and-unbelief.html">Doubt &amp; Unbelief</a>
+                    <a class="book-link struggle-link" href="grief-and-loss.html">Grief &amp; Loss</a>
+                    <a class="book-link struggle-link" href="loneliness.html">Loneliness</a>
+                    <a class="book-link struggle-link" href="pride.html">Pride</a>
+                    <a class="book-link struggle-link" href="suffering.html">Suffering</a>
+                    <a class="book-link struggle-link" href="temptation.html">Temptation</a>
+                    <a class="book-link struggle-link" href="unforgiveness-and-bitterness.html">Unforgiveness &amp; Bitterness</a>
+                </div>
             </div>
         </div>
 
-        <div class="scroll-section">
-            <div class="scroll-banner" onclick="toggleScroll('commentaries')">
-                <div class="scroll-end left"></div>
-                <div class="scroll-body">
-                    <h1 class="scroll-title">Commentaries</h1>
-                    <p class="scroll-subtitle">Study resources referenced throughout</p>
-                    <div class="scroll-toggle"><i class="fas fa-chevron-down"></i></div>
-                </div>
-                <div class="scroll-end right"></div>
-            </div>
-            <div class="parchment-body" id="scroll-commentaries">
-                <div class="commentary-card">
-                    <h4>David Guzik — Enduring Word</h4>
-                    <p>David Guzik is a pastor, author, and Bible commentator whose verse-by-verse commentary covers the entire Bible. His work through Enduring Word (enduringword.com) is one of the most widely accessed Bible commentaries in the world, freely available online in multiple languages. Guzik writes for the everyday believer — combining solid evangelical scholarship with practical application. He draws from commentators across church history including Matthew Henry, Adam Clarke, and Charles Spurgeon. His commentary is used by pastors for sermon preparation, small group leaders for study material, and individuals for personal devotion.</p>
-                </div>
-                <div class="commentary-card">
-                    <h4>Charles Haddon Spurgeon — The Prince of Preachers</h4>
-                    <p>Charles Haddon Spurgeon (1834-1892) was a British Baptist preacher known as the "Prince of Preachers." By age 22 he was the most popular preacher in London, regularly speaking to crowds of 6,000+ at the Metropolitan Tabernacle. Over his lifetime he preached to an estimated 10 million people. His sermon collection — the Metropolitan Tabernacle Pulpit — spans 63 volumes and remains the largest set of books by a single author in Christian history. Spurgeon's preaching was Christ-centered, doctrinally rich, and deeply pastoral. He founded an orphanage, a pastors' college, and distributed literature worldwide. His sermons are in the public domain and remain widely read over 130 years after his death.</p>
-                </div>
-            </div>
+        <!-- Footer -->
+        <div class="site-footer">
+            <p>Scripture quotations marked (ESV) are from the ESV Bible (The Holy Bible, English Standard Version), copyright 2001 by Crossway. Used via API per Crossway Conditions of Use.</p>
+            <p>Scripture quoted by permission. Quotations designated (NET) are from the NET Bible&reg; copyright &copy;1996, 2019 by Biblical Studies Press, L.L.C. <a href="http://netbible.com" style="color:#8a7e74;">netbible.com</a> All rights reserved.</p>
+            <p>KJV, ASV, and WEB texts are in the public domain.</p>
         </div>
 
     </main>
