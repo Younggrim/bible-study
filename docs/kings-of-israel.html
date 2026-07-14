@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="site/style.css">
     <style>
         .topic-hero {
-            background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("https://images.unsplash.com/photo-1589656966895-2f33e7653819?w=1200&q=80") center/cover no-repeat;
-            border: none;
+            background: linear-gradient(135deg, #f5ebe0 0%, #faf3e0 100%);
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 36px;
             text-align: center;
@@ -18,8 +18,6 @@
             box-shadow: var(--shadow-sm);
         }
         .topic-hero h1 {
-            color: #fff;
-            text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
             font-family: 'Cinzel', serif;
             font-size: 2.2rem;
             color: #7a5c2e;
@@ -29,7 +27,7 @@
             font-family: 'Merriweather', serif;
             font-size: 1.05rem;
             font-style: italic;
-            color: #f0e4d4;
+            color: var(--text-secondary);
             max-width: 700px;
             margin: 16px auto 8px;
             line-height: 1.8;
@@ -38,7 +36,7 @@
             font-family: 'Inter', sans-serif;
             font-size: 0.85rem;
             font-weight: 600;
-            color: #f0c865;
+            color: #7a5c2e;
         }
         .fruit-grid {
             display: grid;
@@ -48,7 +46,7 @@
         }
         .fruit-card {
             background: var(--bg-card);
-            border: none;
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 24px;
             box-shadow: var(--shadow-sm);
@@ -87,7 +85,7 @@
         }
         .section-block {
             background: var(--bg-card);
-            border: none;
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 28px 32px;
             box-shadow: var(--shadow-sm);
@@ -124,6 +122,14 @@
         .wiki-link a { color: #8b3a2a; text-decoration: none; font-weight: 500; }
         .wiki-link a:hover { text-decoration: underline; }
 </style>
+
+    <style>
+        .page-hero { position: relative; width: 100%; height: 220px; overflow: hidden; display: flex; align-items: center; justify-content: center; margin-bottom: 24px; border-radius: var(--radius-lg); }
+        .page-hero img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.4); }
+        .page-hero-overlay { position: relative; z-index: 1; text-align: center; padding: 20px 24px; max-width: 700px; }
+        .page-hero-overlay p { font-family: "Cormorant Garamond", serif; font-size: 1.1rem; color: #f0c865; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.7); line-height: 1.8; }
+        @media (max-width: 768px) { .page-hero { height: 180px; border-radius: 0; } .page-hero-overlay p { font-size: 0.95rem; } }
+    </style>
 </head>
 <body>
     <nav class="top-nav">
@@ -136,6 +142,100 @@
     <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
 
     <main class="main-content" style="margin-left:0; max-width:960px; margin-left:auto; margin-right:auto;">
+
+        <div class="page-hero">
+            <img src="https://images.unsplash.com/photo-1589656966895-2f33e7653819?w=1200&q=80" alt="Kings Of Israel">
+            <div class="page-hero-overlay">
+                <p>The king's heart is a stream of water in the hand of the LORD — Proverbs 21:1</p>
+            </div>
+        </div>
+
+        <div class="topic-hero">
+            <h1>Kings of Israel & Judah</h1>
+            <p class="key-passage">"And the LORD said to Samuel, 'Obey the voice of the people in all that they say to you, for they have not rejected you, but they have rejected me from being king over them.'"</p>
+            <span class="ref">— 1 Samuel 8:7 (ESV)</span>
+        </div>
+
+        <div class="fruit-grid">
+            <div class="fruit-card">
+                <h3>1. Saul</h3>
+                <div class="greek">Reign: ~1050–1010 BC<br>▸ United Kingdom</div>
+                <div class="definition"><strong style="color:#8a7a3a;">Faithfulness: Mixed → Wicked.</strong> Israel's first king, chosen for his stature but rejected for his disobedience. Started humbly but grew proud, jealous, and paranoid. Offered unlawful sacrifice, spared Agag against God's command, and pursued David relentlessly.</div>
+                <div class="scriptures"><strong>Key Scripture:</strong><br>▸ 1 Samuel 15:22-23 — "To obey is better than sacrifice."</div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Saul" target="_blank"><i class="fas fa-external-link-alt"></i> Saul - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>2. David</h3>
+                <div class="greek">Reign: ~1010–970 BC<br>▸ United Kingdom</div>
+                <div class="definition"><strong style="color:#2c6b4f;">Faithfulness: Godly.</strong> A man after God's own heart. Shepherd, warrior, poet, and king. Despite grievous sins (Bathsheba, census), he always returned to God in genuine repentance. Established Jerusalem as capital and received the Messianic covenant.</div>
+                <div class="scriptures"><strong>Key Scripture:</strong><br>▸ Acts 13:22<br>▸ 2 Samuel 7:12-16 (Davidic Covenant)</div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/David" target="_blank"><i class="fas fa-external-link-alt"></i> David - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>3. Solomon</h3>
+                <div class="greek">Reign: ~970–930 BC<br>▸ United Kingdom</div>
+                <div class="definition"><strong style="color:#8a7a3a;">Faithfulness: Mixed.</strong> Wisest man who ever lived, builder of the Temple, author of Proverbs and Ecclesiastes. Yet foreign wives turned his heart to idols in his later years, leading directly to the kingdom's division.</div>
+                <div class="scriptures"><strong>Key Scripture:</strong><br>▸ 1 Kings 3:9<br>▸ 1 Kings 11:4-6</div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Solomon" target="_blank"><i class="fas fa-external-link-alt"></i> Solomon - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>4. Rehoboam</h3>
+                <div class="greek">Reign: ~930–913 BC<br>▸ Judah (South)</div>
+                <div class="definition"><strong style="color:#a83232;">Faithfulness: Wicked.</strong> Solomon's son whose arrogant refusal to lighten the people's burdens split the kingdom permanently. Chose the counsel of young men over elders. Under his reign, Judah fell into idolatry.</div>
+                <div class="scriptures"><strong>Key Scripture:</strong><br>▸ 1 Kings 12:13-14<br>▸ 2 Chronicles 12:1</div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Rehoboam" target="_blank"><i class="fas fa-external-link-alt"></i> Rehoboam - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>5. Jeroboam</h3>
+                <div class="greek">Reign: ~930–909 BC<br>▸ Israel (North)</div>
+                <div class="definition"><strong style="color:#a83232;">Faithfulness: Wicked.</strong> First king of the northern kingdom. Set up golden calves at Bethel and Dan to prevent people from worshiping in Jerusalem. Became the benchmark of wickedness — "the sins of Jeroboam" is repeated throughout Kings.</div>
+                <div class="scriptures"><strong>Key Scripture:</strong><br>▸ 1 Kings 12:28-30<br>▸ 1 Kings 14:16</div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Jeroboam" target="_blank"><i class="fas fa-external-link-alt"></i> Jeroboam - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>6. Ahab</h3>
+                <div class="greek">Reign: ~874–853 BC<br>▸ Israel (North)</div>
+                <div class="definition"><strong style="color:#a83232;">Faithfulness: Wicked.</strong> "Did more to provoke the LORD than all the kings before him." Married Jezebel, established Baal worship in Israel, murdered Naboth for his vineyard. Opposed by Elijah on Mount Carmel.</div>
+                <div class="scriptures"><strong>Key Scripture:</strong><br>▸ 1 Kings 16:30-33<br>▸ 1 Kings 21:25</div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Ahab" target="_blank"><i class="fas fa-external-link-alt"></i> Ahab - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>7. Jehoshaphat</h3>
+                <div class="greek">Reign: ~872–848 BC<br>▸ Judah (South)</div>
+                <div class="definition"><strong style="color:#2c6b4f;">Faithfulness: Godly.</strong> Sought the Lord, sent teachers throughout Judah to instruct the people in the Law, and established judges. His great weakness was making alliances with wicked northern kings (Ahab, Ahaziah).</div>
+                <div class="scriptures"><strong>Key Scripture:</strong><br>▸ 2 Chronicles 20:12 — "We do not know what to do, but our eyes are on you."</div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Jehoshaphat" target="_blank"><i class="fas fa-external-link-alt"></i> Jehoshaphat - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>8. Hezekiah</h3>
+                <div class="greek">Reign: ~715–686 BC<br>▸ Judah (South)</div>
+                <div class="definition"><strong style="color:#2c6b4f;">Faithfulness: Godly.</strong> One of Judah's greatest reformers. Destroyed the high places, reopened the Temple, celebrated Passover. Trusted God during Sennacherib's siege and saw miraculous deliverance. "He held fast to the LORD."</div>
+                <div class="scriptures"><strong>Key Scripture:</strong><br>▸ 2 Kings 18:5-6<br>▸ Isaiah 37:14-20</div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Hezekiah" target="_blank"><i class="fas fa-external-link-alt"></i> Hezekiah - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>9. Josiah</h3>
+                <div class="greek">Reign: ~640–609 BC<br>▸ Judah (South)</div>
+                <div class="definition"><strong style="color:#2c6b4f;">Faithfulness: Godly.</strong> Became king at age 8. At 16, began seeking God. At 26, discovered the Book of the Law and led the most thorough reformation in Judah's history. Tore down altars, renewed the covenant, and restored Passover.</div>
+                <div class="scriptures"><strong>Key Scripture:</strong><br>▸ 2 Kings 22:2<br>▸ 2 Kings 23:25 — "Before him there was no king like him."</div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Josiah" target="_blank"><i class="fas fa-external-link-alt"></i> Josiah - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>The Divided Kingdom</h3>
+                <div class="greek">930 BC – 586 BC<br>▸ Israel fell 722 BC<br>▸ Judah fell 586 BC</div>
+                <div class="definition"><strong style="color:#2c6b4f;">Summary:</strong> After Solomon, the kingdom split into Israel (10 northern tribes, 19 kings — all wicked) and Judah (2 southern tribes, 20 kings — 8 godly). Israel fell to Assyria in 722 BC; Judah fell to Babylon in 586 BC. Through it all, God preserved a remnant and the Messianic line through David.</div>
+                <div class="scriptures"><strong>Key Scripture:</strong><br>▸ 2 Kings 17:7-23 (Why Israel fell)<br>▸ 2 Chronicles 36:15-17 (Why Judah fell)</div>
+            </div>
+        </div>
 
     </main>
 

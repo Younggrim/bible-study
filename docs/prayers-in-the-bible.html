@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="site/style.css">
     <style>
         .topic-hero {
-            background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("https://images.unsplash.com/photo-1545232979-8bf68ee9b1af?w=1200&q=80") center/cover no-repeat;
-            border: none;
+            background: linear-gradient(135deg, #f5ebe0 0%, #faf3e0 100%);
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 36px;
             text-align: center;
@@ -18,8 +18,6 @@
             box-shadow: var(--shadow-sm);
         }
         .topic-hero h1 {
-            color: #fff; text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
-            text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
             font-family: 'Cinzel', serif;
             font-size: 2.2rem;
             color: #2a6b6b;
@@ -29,7 +27,7 @@
             font-family: 'Merriweather', serif;
             font-size: 1.05rem;
             font-style: italic;
-            color: #f0e4d4;
+            color: var(--text-secondary);
             max-width: 700px;
             margin: 16px auto 8px;
             line-height: 1.8;
@@ -38,7 +36,7 @@
             font-family: 'Inter', sans-serif;
             font-size: 0.85rem;
             font-weight: 600;
-            color: #f0c865;
+            color: #2a6b6b;
         }
         .fruit-grid {
             display: grid;
@@ -48,7 +46,7 @@
         }
         .fruit-card {
             background: var(--bg-card);
-            border: none;
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 24px;
             box-shadow: var(--shadow-sm);
@@ -87,7 +85,7 @@
         }
         .section-block {
             background: var(--bg-card);
-            border: none;
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 28px 32px;
             box-shadow: var(--shadow-sm);
@@ -121,6 +119,14 @@
         }
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: none; border: 1px solid var(--border-light); border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: var(--text-secondary); cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 220px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #8b3a2a; }
 </style>
+
+    <style>
+        .page-hero { position: relative; width: 100%; height: 220px; overflow: hidden; display: flex; align-items: center; justify-content: center; margin-bottom: 24px; border-radius: var(--radius-lg); }
+        .page-hero img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.4); }
+        .page-hero-overlay { position: relative; z-index: 1; text-align: center; padding: 20px 24px; max-width: 700px; }
+        .page-hero-overlay p { font-family: "Cormorant Garamond", serif; font-size: 1.1rem; color: #f0c865; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.7); line-height: 1.8; }
+        @media (max-width: 768px) { .page-hero { height: 180px; border-radius: 0; } .page-hero-overlay p { font-size: 0.95rem; } }
+    </style>
 </head>
 <body>
     <nav class="top-nav">
@@ -133,6 +139,91 @@
     <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
 
     <main class="main-content" style="margin-left:0; max-width:960px; margin-left:auto; margin-right:auto;">
+
+        <div class="page-hero">
+            <img src="https://images.unsplash.com/photo-1545232979-8bf68ee9b1af?w=1200&q=80" alt="Prayers In The Bible">
+            <div class="page-hero-overlay">
+                <p>Do not be anxious about anything, but in everything by prayer — Philippians 4:6</p>
+            </div>
+        </div>
+
+        <div class="topic-hero">
+            <h1>Prayers in the Bible</h1>
+            <p class="key-passage">"Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus."</p>
+            <span class="ref">— Philippians 4:6-7 (ESV)</span>
+        </div>
+
+        <div class="fruit-grid">
+            <div class="fruit-card">
+                <h3>The Lord's Prayer</h3>
+                <div class="greek">Matthew 6:9-13 — Taught by Jesus to His disciples</div>
+                <div class="definition"><strong>Context:</strong> The disciples asked Jesus, "Teach us to pray." He gave them this model prayer — not a formula to recite mindlessly, but a pattern covering worship, submission, provision, forgiveness, and protection.</div>
+                <div class="scriptures"><strong>What we learn:</strong> Prayer begins with God's glory ("hallowed be your name"), submits to His will, trusts Him for daily needs, and asks for spiritual protection. It's a complete framework for communion with God.</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Solomon's Prayer for Wisdom</h3>
+                <div class="greek">1 Kings 3:5-14 — A young king's humble request</div>
+                <div class="definition"><strong>Context:</strong> God appeared to Solomon in a dream and said, "Ask what I shall give you." Instead of wealth, long life, or victory over enemies, Solomon asked for "an understanding mind to govern your people, that I may discern between good and evil."</div>
+                <div class="scriptures"><strong>What we learn:</strong> God is pleased when we prioritize wisdom and servant-hearted leadership over selfish gain. He gave Solomon wisdom — and everything else besides (James 1:5).</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Hannah's Prayer</h3>
+                <div class="greek">1 Samuel 1:10-11 — A barren woman's desperate plea</div>
+                <div class="definition"><strong>Context:</strong> Hannah was barren, mocked by her rival, and deeply grieved. She poured out her soul to God in the temple, weeping bitterly, and vowed to dedicate her child to the Lord's service if He would remember her.</div>
+                <div class="scriptures"><strong>What we learn:</strong> God hears the prayers of the brokenhearted. Honest, raw emotion is welcome before Him. Hannah's prayer was so intense the priest thought she was drunk — yet God answered powerfully.</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Jabez's Prayer</h3>
+                <div class="greek">1 Chronicles 4:10 — A bold request for blessing</div>
+                <div class="definition"><strong>Context:</strong> Tucked within a genealogy, Jabez prayed: "Oh that you would bless me and enlarge my border, and that your hand might be with me, and that you would keep me from harm so that it might not bring me pain!" And God granted his request.</div>
+                <div class="scriptures"><strong>What we learn:</strong> It is not wrong to ask God boldly for blessing — when our motive is to live under His hand and be kept from evil. God honors faith-filled, specific prayers.</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>David's Prayer of Repentance</h3>
+                <div class="greek">Psalm 51 — After confrontation by Nathan</div>
+                <div class="definition"><strong>Context:</strong> After David's adultery with Bathsheba and murder of Uriah, the prophet Nathan confronted him. David's response was not excuse-making but total brokenness: "Have mercy on me, O God... Create in me a clean heart."</div>
+                <div class="scriptures"><strong>What we learn:</strong> True repentance holds nothing back — it acknowledges sin fully, appeals to God's mercy alone, and asks for inner transformation. "A broken and contrite heart, O God, you will not despise" (v.17).</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Jesus in Gethsemane</h3>
+                <div class="greek">Matthew 26:39 — The night before the cross</div>
+                <div class="definition"><strong>Context:</strong> Facing the horror of bearing humanity's sin and separation from the Father, Jesus prayed in agony: "My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as you will."</div>
+                <div class="scriptures"><strong>What we learn:</strong> Even Jesus expressed honest struggle to the Father. True prayer is not pretending — it is bringing our real feelings while ultimately submitting to God's will. Surrender is the highest prayer.</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Stephen's Prayer</h3>
+                <div class="greek">Acts 7:59-60 — The first Christian martyr</div>
+                <div class="definition"><strong>Context:</strong> As Stephen was being stoned to death for his faith, he prayed two final prayers: "Lord Jesus, receive my spirit" and "Lord, do not hold this sin against them." He echoed Christ's own words from the cross.</div>
+                <div class="scriptures"><strong>What we learn:</strong> The Spirit enables believers to pray with Christ-like grace even in the worst circumstances. Forgiveness of enemies and trust in Jesus can be our final words — because they are our deepest reality.</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Paul's Prayer for the Ephesians</h3>
+                <div class="greek">Ephesians 3:14-21 — A prayer for spiritual depth</div>
+                <div class="definition"><strong>Context:</strong> Paul prays that believers would be "strengthened with power through his Spirit in your inner being," rooted in love, able to comprehend Christ's love that "surpasses knowledge," and "filled with all the fullness of God."</div>
+                <div class="scriptures"><strong>What we learn:</strong> The highest prayers are for spiritual realities — inner strength, deep roots, comprehension of God's love, and fullness. Paul models praying Scripture-saturated, God-centered prayers for others.</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Moses' Intercession</h3>
+                <div class="greek">Exodus 32:11-14 — Standing in the gap for Israel</div>
+                <div class="definition"><strong>Context:</strong> After the golden calf incident, God told Moses He would destroy Israel and start over with Moses. Moses interceded, appealing to God's reputation, His promises to Abraham, and His own glory — and "the LORD relented."</div>
+                <div class="scriptures"><strong>What we learn:</strong> Intercessory prayer matters — God invites us to participate in His purposes through petition. Moses prayed based on God's character and promises, not Israel's merit. This is how we intercede.</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Daniel's Prayer</h3>
+                <div class="greek">Daniel 9:4-19 — Confession and petition in exile</div>
+                <div class="definition"><strong>Context:</strong> After reading Jeremiah's prophecy that exile would last 70 years, Daniel turned to God with fasting, prayer, and confession — not just personal sin, but national sin. He appealed to God's mercy and His name's sake.</div>
+                <div class="scriptures"><strong>What we learn:</strong> Scripture can prompt prayer. Corporate confession is valid — identifying with your community's sin before God. Daniel's prayer was answered with one of the most detailed prophecies in the Bible (Daniel 9:24-27).</div>
+            </div>
+        </div>
 
     </main>
 

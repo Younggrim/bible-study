@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="site/style.css">
     <style>
         .topic-hero {
-            background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("https://images.unsplash.com/photo-1500930287596-c1ecaa210c84?w=1200&q=80") center/cover no-repeat;
-            border: none;
+            background: linear-gradient(135deg, #f5ebe0 0%, #faf3e0 100%);
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 36px;
             text-align: center;
@@ -18,8 +18,6 @@
             box-shadow: var(--shadow-sm);
         }
         .topic-hero h1 {
-            color: #fff;
-            text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
             font-family: 'Cinzel', serif;
             font-size: 2.2rem;
             color: #8b3a2a;
@@ -29,7 +27,7 @@
             font-family: 'Merriweather', serif;
             font-size: 1.05rem;
             font-style: italic;
-            color: #f0e4d4;
+            color: var(--text-secondary);
             max-width: 700px;
             margin: 16px auto 8px;
             line-height: 1.8;
@@ -38,7 +36,7 @@
             font-family: 'Inter', sans-serif;
             font-size: 0.85rem;
             font-weight: 600;
-            color: #f0c865;
+            color: #8b3a2a;
         }
         .fruit-grid {
             display: grid;
@@ -48,7 +46,7 @@
         }
         .fruit-card {
             background: var(--bg-card);
-            border: none;
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 24px;
             box-shadow: var(--shadow-sm);
@@ -138,7 +136,7 @@
         }
         .section-block {
             background: var(--bg-card);
-            border: none;
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 28px 32px;
             box-shadow: var(--shadow-sm);
@@ -172,6 +170,14 @@
         }
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: none; border: 1px solid var(--border-light); border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: var(--text-secondary); cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 220px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #8b3a2a; }
 </style>
+
+    <style>
+        .page-hero { position: relative; width: 100%; height: 220px; overflow: hidden; display: flex; align-items: center; justify-content: center; margin-bottom: 24px; border-radius: var(--radius-lg); }
+        .page-hero img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.4); }
+        .page-hero-overlay { position: relative; z-index: 1; text-align: center; padding: 20px 24px; max-width: 700px; }
+        .page-hero-overlay p { font-family: "Cormorant Garamond", serif; font-size: 1.1rem; color: #f0c865; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.7); line-height: 1.8; }
+        @media (max-width: 768px) { .page-hero { height: 180px; border-radius: 0; } .page-hero-overlay p { font-size: 0.95rem; } }
+    </style>
 </head>
 <body>
     <nav class="top-nav">
@@ -184,6 +190,286 @@
     <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
 
     <main class="main-content" style="margin-left:0; max-width:960px; margin-left:auto; margin-right:auto;">
+
+        <div class="page-hero">
+            <img src="https://images.unsplash.com/photo-1500930287596-c1ecaa210c84?w=1200&q=80" alt="The 12 Apostles">
+            <div class="page-hero-overlay">
+                <p>Follow me, and I will make you fishers of men — Matthew 4:19</p>
+            </div>
+        </div>
+
+        <div class="topic-hero">
+            <h1>The 12 Apostles</h1>
+            <p class="key-passage">"And he appointed twelve (whom he also named apostles) so that they might be with him and he might send them out to preach and have authority to cast out demons."</p>
+            <span class="ref">— Mark 3:14-15 (ESV)</span>
+        </div>
+
+        <div class="fruit-grid">
+            <div class="fruit-card">
+                <h3>1. Simon Peter</h3>
+                <div class="context">
+                    <strong>Context & Background</strong>
+                    Simon was a working-class fisherman on the Sea of Galilee when Jesus called him. He was married (Mark 1:30) and partnered with James and John in the fishing trade. Jesus renamed him "Peter" (Rock), signifying his foundational role. He became the spokesman for the Twelve and preached the first gospel sermon at Pentecost (Acts 2), leading to about 3,000 conversions. Known for his boldness and impulsiveness, he denied Jesus three times but was restored. Authored 1 & 2 Peter.
+                </div>
+                <div class="scriptures">
+                    <strong>Key Scriptures:</strong>
+
+                        <li>Matthew 16:16-18</li>
+                        <li>John 21:15-17</li>
+                        <li>Acts 2:14-41</li>
+                        <li>Luke 5:1-11</li>
+
+                </div>
+                <div class="videos">
+                    <strong style="font-size:0.8rem;color:#2c6b4f;">🎬 Videos:</strong>
+
+                        ▸ <a href="https://www.youtube.com/watch?v=QjQftj3ggms" target="_blank">When Simon Became Peter (The Chosen)</a><br>
+                        ▸ <a href="https://www.youtube.com/watch?v=ZkUoT5Wnkqc&t=39s" target="_blank">6 Things You Didn't Know About Peter</a><br>
+                        ▸ <a href="https://www.youtube.com/watch?v=JhrOFbe0190&t=704s" target="_blank">Peter: A Study in Failure and Restoration (Grace to You)</a><br>
+                        ▸ <a href="https://www.youtube.com/watch?v=sabWXY9gzec" target="_blank">Peter's Story (Joby Martin)</a><br>
+                        ▸ <a href="https://www.youtube.com/watch?v=ihFnp3542tY" target="_blank">Who was Peter in the Bible? (Got Questions)</a><br>
+                        ▸ <a href="https://www.youtube.com/watch?v=5tRxe8q92-8&list=PLmmYzETPz9uZvSDxhNfSAz69DaZBwVfpS&index=2" target="_blank">The Apostles of Jesus: Simon Peter</a><br>
+
+                </div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Saint_Peter" target="_blank"><i class="fas fa-external-link-alt"></i> Simon Peter - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>2. Andrew</h3>
+                <div class="context">
+                    <strong>Context & Background</strong>
+                    Brother of Simon Peter and a former disciple of John the Baptist. Andrew was present when John declared Jesus to be the "Lamb of God" (John 1:36) and immediately sought out his brother Simon to tell him they had found the Messiah. Known as "the first-called," Andrew consistently appears as a bridge — introducing people to Jesus. He brought Peter, the boy with loaves and fish, and the Greeks seeking Jesus.
+                </div>
+                <div class="scriptures">
+                    <strong>Key Scriptures:</strong>
+
+                        <li>John 1:40-42</li>
+                        <li>John 6:8-9</li>
+                        <li>John 12:20-22</li>
+                        <li>Mark 1:16-18</li>
+
+                </div>
+                <div class="videos">
+                    <strong style="font-size:0.8rem;color:#2c6b4f;">🎬 Videos:</strong>
+
+                        ▸ <a href="https://www.youtube.com/watch?v=Y1e4_U6RHRc" target="_blank">6 Things You Didn't Know About Andrew the Disciple</a><br>
+                        ▸ <a href="https://www.youtube.com/watch?v=6twtEuN4XEc&list=PLmmYzETPz9uZvSDxhNfSAz69DaZBwVfpS&index=5" target="_blank">The Apostles of Jesus: Andrew, Brother of Peter</a><br>
+
+                </div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Andrew_the_Apostle" target="_blank"><i class="fas fa-external-link-alt"></i> Andrew - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>3. James (son of Zebedee)</h3>
+                <div class="context">
+                    <strong>Context & Background</strong>
+                    Elder brother of John and part of Jesus' inner circle (with Peter and John). James was from a prosperous fishing family — his father Zebedee employed hired servants (Mark 1:20). He and John were nicknamed "Sons of Thunder." Along with Peter and John, he witnessed the Transfiguration (Mark 9:2), the raising of Jairus's daughter (Mark 5:37), and Jesus' agony in Gethsemane (Mark 14:33). He was the first apostle martyred — executed by Herod Agrippa I around AD 44, the only apostolic death recorded in Scripture.
+                </div>
+                <div class="scriptures">
+                    <strong>Key Scriptures:</strong>
+
+                        <li>Mark 3:17</li>
+                        <li>Acts 12:1-2</li>
+                        <li>Mark 9:2-3</li>
+                        <li>Mark 14:33</li>
+
+                </div>
+                <div class="videos">
+                    <strong style="font-size:0.8rem;color:#2c6b4f;">🎬 Videos:</strong>
+
+                        ▸ <a href="https://www.youtube.com/watch?v=c6-AHxfjmAA&list=PLmmYzETPz9uZvSDxhNfSAz69DaZBwVfpS&index=3" target="_blank">The Apostles of Jesus: James, the Son of Zebedee</a><br>
+
+                </div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/James_the_Great" target="_blank"><i class="fas fa-external-link-alt"></i> James (son of Zebedee) - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>4. John</h3>
+                <div class="context">
+                    <strong>Context & Background</strong>
+                    Younger brother of James and the "beloved disciple." John was likely the youngest apostle and outlived all the others, dying of natural causes around AD 100. Part of Jesus' inner circle, he was entrusted with the care of Mary at the cross. Despite the fiery nickname "Son of Thunder," his later writings emphasize love above all else. He was exiled to Patmos under Emperor Domitian, where he received the visions recorded in Revelation. Authored the Gospel of John, 1-3 John, and Revelation.
+                </div>
+                <div class="scriptures">
+                    <strong>Key Scriptures:</strong>
+
+                        <li>John 13:23</li>
+                        <li>John 19:26-27</li>
+                        <li>Revelation 1:1-2</li>
+                        <li>Mark 10:35-40</li>
+
+                </div>
+                <div class="videos">
+                    <strong style="font-size:0.8rem;color:#2c6b4f;">🎬 Videos:</strong>
+
+                        ▸ <a href="https://www.youtube.com/watch?v=28u8gh-2MZc&list=PLmmYzETPz9uZvSDxhNfSAz69DaZBwVfpS&index=4" target="_blank">The Apostles of Jesus: John, the Son of Zebedee</a><br>
+                        ▸ <a href="https://www.youtube.com/watch?v=MJx8xI_ooa0" target="_blank">6 Things You Didn't Know About John the Apostle</a><br>
+
+                </div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/John_the_Apostle" target="_blank"><i class="fas fa-external-link-alt"></i> John - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>5. Philip</h3>
+                <div class="context">
+                    <strong>Context & Background</strong>
+                    From Bethsaida, the city of Andrew and Peter. Philip is notable as the first apostle Jesus directly called with the words "Follow me" (John 1:43). He had a Greek name, suggesting Hellenistic cultural influence, which may explain why Greek-speaking visitors approached him (John 12:20-21). Known for his practical, calculating nature — when Jesus tested him about feeding the 5,000, Philip calculated the cost (John 6:7). He brought Nathanael to Jesus and asked Jesus to "show us the Father."
+                </div>
+                <div class="scriptures">
+                    <strong>Key Scriptures:</strong>
+
+                        <li>John 1:43-46</li>
+                        <li>John 6:5-7</li>
+                        <li>John 14:8-9</li>
+                        <li>John 12:20-22</li>
+
+                </div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Philip_the_Apostle" target="_blank"><i class="fas fa-external-link-alt"></i> Philip - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>6. Bartholomew (Nathanael)</h3>
+                <div class="context">
+                    <strong>Context & Background</strong>
+                    Likely the Nathanael brought to Jesus by Philip — Bartholomew is always paired with Philip in the Synoptic apostle lists, supporting this identification. He was from Cana of Galilee (John 21:2). Initially skeptical ("Can anything good come from Nazareth?"), Jesus' supernatural knowledge of him sitting "under the fig tree" led to his immediate confession of faith. Jesus declared him "an Israelite indeed, in whom there is no deceit." Tradition holds he preached in India and Armenia.
+                </div>
+                <div class="scriptures">
+                    <strong>Key Scriptures:</strong>
+
+                        <li>John 1:45-51</li>
+                        <li>John 21:2</li>
+                        <li>Matthew 10:3</li>
+                        <li>Mark 3:18</li>
+
+                </div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Bartholomew_the_Apostle" target="_blank"><i class="fas fa-external-link-alt"></i> Bartholomew - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>7. Matthew (Levi)</h3>
+                <div class="context">
+                    <strong>Context & Background</strong>
+                    A tax collector from Capernaum, Matthew was despised by fellow Jews for collaborating with Rome and was considered ceremonially unclean. His inclusion among the Twelve was shocking and demonstrated Jesus' ministry to sinners. He left everything to follow Jesus and hosted a great banquet in His honor (Luke 5:29). His Gospel, written primarily for a Jewish audience, emphasizes Jesus as the fulfillment of Old Testament prophecy and contains more OT quotations than any other Gospel.
+                </div>
+                <div class="scriptures">
+                    <strong>Key Scriptures:</strong>
+
+                        <li>Matthew 9:9-13</li>
+                        <li>Luke 5:27-32</li>
+                        <li>Mark 2:14</li>
+                        <li>Matthew 10:3</li>
+
+                </div>
+                <div class="videos">
+                    <strong style="font-size:0.8rem;color:#2c6b4f;">🎬 Videos:</strong>
+
+                        ▸ <a href="https://www.youtube.com/watch?v=HHVm8oOPTPU&t=27s" target="_blank">7 Things You Didn't Know About Matthew</a><br>
+
+                </div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Matthew_the_Apostle" target="_blank"><i class="fas fa-external-link-alt"></i> Matthew - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>8. Thomas</h3>
+                <div class="context">
+                    <strong>Context & Background</strong>
+                    Known as "Doubting Thomas" for wanting physical proof of the resurrection, but Thomas is often unfairly reduced to his doubt. When Jesus proposed returning to Judea where people sought to kill Him, Thomas said, "Let us also go, that we may die with him" (John 11:16) — showing remarkable loyalty and courage. His demand for proof ultimately led to one of Scripture's greatest confessions: "My Lord and my God!" (John 20:28). Tradition holds he took the gospel to India, where the Mar Thoma Christians trace their heritage to him.
+                </div>
+                <div class="scriptures">
+                    <strong>Key Scriptures:</strong>
+
+                        <li>John 20:24-29</li>
+                        <li>John 11:16</li>
+                        <li>John 14:5</li>
+                        <li>Mark 3:18</li>
+
+                </div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Thomas_the_Apostle" target="_blank"><i class="fas fa-external-link-alt"></i> Thomas - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>9. James (son of Alphaeus)</h3>
+                <div class="context">
+                    <strong>Context & Background</strong>
+                    Often called "James the Less" or "the Younger" (Mark 15:40), possibly due to shorter stature or younger age. Distinguished from James son of Zebedee. His father Alphaeus may be the same as Clopas (John 19:25), making his mother "Mary of Clopas" who stood at the cross. Little is known of his specific ministry, but his faithful presence among the Twelve through the crucifixion, resurrection, and Pentecost speaks to quiet, steadfast discipleship.
+                </div>
+                <div class="scriptures">
+                    <strong>Key Scriptures:</strong>
+
+                        <li>Mark 3:18</li>
+                        <li>Matthew 10:3</li>
+                        <li>Luke 6:15</li>
+                        <li>Acts 1:13</li>
+
+                </div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/James_the_Less" target="_blank"><i class="fas fa-external-link-alt"></i> James (son of Alphaeus) - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>10. Thaddaeus (Judas son of James)</h3>
+                <div class="context">
+                    <strong>Context & Background</strong>
+                    Also called Judas (not Iscariot) or Lebbaeus. Known by multiple names — Thaddaeus (Matthew/Mark), Judas son of James (Luke/Acts), and Lebbaeus in some manuscripts — likely to distinguish him from Judas Iscariot. His single recorded question in John 14:22 reveals genuine theological curiosity about why Jesus chose a private rather than public revelation. A faithful but quiet apostle, tradition credits him with evangelizing Mesopotamia and Persia, often alongside Simon the Zealot.
+                </div>
+                <div class="scriptures">
+                    <strong>Key Scriptures:</strong>
+
+                        <li>John 14:22</li>
+                        <li>Matthew 10:3</li>
+                        <li>Mark 3:18</li>
+                        <li>Luke 6:16</li>
+
+                </div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Jude_Thaddeus_the_Apostle" target="_blank"><i class="fas fa-external-link-alt"></i> Thaddaeus - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>11. Simon the Zealot</h3>
+                <div class="context">
+                    <strong>Context & Background</strong>
+                    Called "the Zealot" — likely a former member of the Zealot political party, a Jewish movement seeking to expel Rome from Israel by armed revolt. His designation as "the Zealot" (Luke 6:15; Acts 1:13) or "the Cananaean" (an Aramaic equivalent in Matthew/Mark) indicates his political background. His presence alongside Matthew the tax collector — who profited from Roman rule — is a powerful testimony that the gospel reconciles even the most deeply divided people under one Lord.
+                </div>
+                <div class="scriptures">
+                    <strong>Key Scriptures:</strong>
+
+                        <li>Luke 6:15</li>
+                        <li>Acts 1:13</li>
+                        <li>Matthew 10:4</li>
+                        <li>Mark 3:18</li>
+
+                </div>
+                <div class="wiki-link"><a href="https://en.wikipedia.org/wiki/Simon_the_Zealot" target="_blank"><i class="fas fa-external-link-alt"></i> Simon the Zealot - Wikipedia</a></div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>12. Judas Iscariot → Matthias</h3>
+                <div class="context">
+                    <strong>Context & Background</strong>
+                    Judas served as treasurer for the Twelve but was "a thief" who helped himself to the money bag (John 12:6; 13:29). He betrayed Jesus for 30 pieces of silver, fulfilling Zechariah 11:12-13, then hanged himself. After Judas's death, the remaining eleven required his replacement to have been a witness of Jesus' ministry from John's baptism through the Ascension (Acts 1:21-22). Matthias was chosen by lot — the last recorded instance of this Old Testament method of discerning God's will before Pentecost.
+                </div>
+                <div class="scriptures">
+                    <strong>Key Scriptures:</strong>
+
+                        <li>Matthew 26:14-16</li>
+                        <li>Matthew 27:3-5</li>
+                        <li>Acts 1:15-26</li>
+                        <li>John 12:6</li>
+
+                </div>
+                <div class="videos">
+                    <strong style="font-size:0.8rem;color:#2c6b4f;">🎬 Videos:</strong>
+
+                        ▸ <a href="https://www.youtube.com/watch?v=t0Zz55ZLc2o&list=PLmmYzETPz9uZvSDxhNfSAz69DaZBwVfpS&index=6" target="_blank">The Apostles of Jesus: Judas Iscariot</a><br>
+                        ▸ <a href="https://www.youtube.com/watch?v=uFoWwtX0-PU" target="_blank">Surprising Facts About Where and How Judas Died</a><br>
+                        ▸ <a href="https://www.youtube.com/watch?v=MDkttJPR-7I" target="_blank">This Explains WHY Judas BETRAYED Jesus</a><br>
+
+                </div>
+                <div class="wiki-link">
+                    <a href="https://en.wikipedia.org/wiki/Judas_Iscariot" target="_blank"><i class="fas fa-external-link-alt"></i> Judas Iscariot - Wikipedia</a>
+                    &nbsp;|&nbsp;
+                    <a href="https://en.wikipedia.org/wiki/Matthias_the_Apostle" target="_blank"><i class="fas fa-external-link-alt"></i> Matthias - Wikipedia</a>
+                </div>
+            </div>
+        </div>
 
         <div class="section-block">
             <h2>Video Resources</h2>

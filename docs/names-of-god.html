@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="site/style.css">
     <style>
         .topic-hero {
-            background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80") center/cover no-repeat;
-            border: none;
+            background: linear-gradient(135deg, #f5ebe0 0%, #faf3e0 100%);
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 36px;
             text-align: center;
@@ -18,8 +18,6 @@
             box-shadow: var(--shadow-sm);
         }
         .topic-hero h1 {
-            color: #fff;
-            text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
             font-family: 'Cinzel', serif;
             font-size: 2.2rem;
             color: #8b6914;
@@ -29,7 +27,7 @@
             font-family: 'Merriweather', serif;
             font-size: 1.05rem;
             font-style: italic;
-            color: #f0e4d4;
+            color: var(--text-secondary);
             max-width: 700px;
             margin: 16px auto 8px;
             line-height: 1.8;
@@ -38,7 +36,7 @@
             font-family: 'Inter', sans-serif;
             font-size: 0.85rem;
             font-weight: 600;
-            color: #f0c865;
+            color: #8b6914;
         }
         .fruit-grid {
             display: grid;
@@ -48,7 +46,7 @@
         }
         .fruit-card {
             background: var(--bg-card);
-            border: none;
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 24px;
             box-shadow: var(--shadow-sm);
@@ -87,7 +85,7 @@
         }
         .section-block {
             background: var(--bg-card);
-            border: none;
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 28px 32px;
             box-shadow: var(--shadow-sm);
@@ -121,6 +119,14 @@
         }
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: none; border: 1px solid var(--border-light); border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: var(--text-secondary); cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 220px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #8b3a2a; }
 </style>
+
+    <style>
+        .page-hero { position: relative; width: 100%; height: 220px; overflow: hidden; display: flex; align-items: center; justify-content: center; margin-bottom: 24px; border-radius: var(--radius-lg); }
+        .page-hero img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.4); }
+        .page-hero-overlay { position: relative; z-index: 1; text-align: center; padding: 20px 24px; max-width: 700px; }
+        .page-hero-overlay p { font-family: "Cormorant Garamond", serif; font-size: 1.1rem; color: #f0c865; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.7); line-height: 1.8; }
+        @media (max-width: 768px) { .page-hero { height: 180px; border-radius: 0; } .page-hero-overlay p { font-size: 0.95rem; } }
+    </style>
 </head>
 <body>
     <nav class="top-nav">
@@ -133,6 +139,105 @@
     <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
 
     <main class="main-content" style="margin-left:0; max-width:960px; margin-left:auto; margin-right:auto;">
+
+        <div class="page-hero">
+            <img src="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1200&q=80" alt="Names Of God">
+            <div class="page-hero-overlay">
+                <p>The name of the LORD is a strong tower — Proverbs 18:10</p>
+            </div>
+        </div>
+
+        <div class="topic-hero">
+            <h1>Names of God</h1>
+            <p class="key-passage">"God said to Moses, 'I AM WHO I AM.' And he said, 'Say this to the people of Israel: I AM has sent me to you.'"</p>
+            <span class="ref">— Exodus 3:14 (ESV)</span>
+        </div>
+
+        <div class="fruit-grid">
+            <div class="fruit-card">
+                <h3>Elohim</h3>
+                <div class="greek">Hebrew: אֱלֹהִים — "God" (plural of majesty)</div>
+                <div class="definition">The first name for God in Scripture (Genesis 1:1). A plural noun used with singular verbs, hinting at the Trinity. Emphasizes God's power, might, and sovereignty as Creator of all things.</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ Genesis 1:1<br><br><strong>Also:</strong><br>▸ Psalm 19:1<br>▸ Isaiah 45:18<br>▸ Deuteronomy 10:17</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Yahweh (YHWH)</h3>
+                <div class="greek">Hebrew: יהוה — "I AM" / "The LORD"</div>
+                <div class="definition">God's personal, covenant name — the most sacred name in Hebrew Scripture. Rendered as "LORD" (all caps) in most translations. Reveals God as self-existent, eternal, and relationally present with His people.</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ Genesis 2:4<br><br><strong>Also:</strong><br>▸ Exodus 3:14-15<br>▸ Psalm 103:1<br>▸ Isaiah 42:8</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Adonai</h3>
+                <div class="greek">Hebrew: אֲדֹנָי — "Lord" / "Master"</div>
+                <div class="definition">Expresses God's lordship, authority, and ownership. Used when addressing God as sovereign ruler. The Jews often substituted Adonai when reading YHWH aloud out of reverence for God's sacred name.</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ Genesis 15:2<br><br><strong>Also:</strong><br>▸ Psalm 8:1<br>▸ Isaiah 6:1<br>▸ Malachi 1:6</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>El Shaddai</h3>
+                <div class="greek">Hebrew: אֵל שַׁדַּי — "God Almighty"</div>
+                <div class="definition">Emphasizes God's absolute power and sufficiency. The name God used when making covenant promises to Abraham. Shaddai may derive from "mountain" (immovable strength) or "breast" (nourishing sufficiency).</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ Genesis 17:1<br><br><strong>Also:</strong><br>▸ Genesis 28:3<br>▸ Exodus 6:3<br>▸ Ruth 1:20-21</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>El Elyon</h3>
+                <div class="greek">Hebrew: אֵל עֶלְיוֹן — "God Most High"</div>
+                <div class="definition">Declares God's supreme position above all other powers, authorities, and so-called gods. First used by Melchizedek, priest of Salem. Affirms that nothing in heaven or earth is above Him.</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ Genesis 14:18-20<br><br><strong>Also:</strong><br>▸ Psalm 91:1<br>▸ Daniel 4:34<br>▸ Psalm 7:17</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Jehovah Jireh</h3>
+                <div class="greek">Hebrew: יהוה יִרְאֶה — "The LORD Will Provide"</div>
+                <div class="definition">Named by Abraham at Mount Moriah after God provided a ram in place of Isaac. Reveals God as the one who sees our needs in advance and provides — often in unexpected and miraculous ways.</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ Genesis 22:14<br><br><strong>Also:</strong><br>▸ Philippians 4:19<br>▸ Matthew 6:31-33<br>▸ Psalm 23:1</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Jehovah Rapha</h3>
+                <div class="greek">Hebrew: יהוה רָפָא — "The LORD Who Heals"</div>
+                <div class="definition">Revealed after the exodus from Egypt when God promised that none of the diseases of Egypt would come upon obedient Israel. Encompasses physical, emotional, and spiritual healing.</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ Exodus 15:26<br><br><strong>Also:</strong><br>▸ Psalm 103:3<br>▸ Psalm 147:3<br>▸ Isaiah 53:5</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Jehovah Nissi</h3>
+                <div class="greek">Hebrew: יהוה נִסִּי — "The LORD Is My Banner"</div>
+                <div class="definition">Named by Moses after Israel's victory over the Amalekites. A banner (flag/standard) rallied troops in battle. God Himself is our rallying point — the one under whose authority we fight and conquer.</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ Exodus 17:15<br><br><strong>Also:</strong><br>▸ Psalm 20:5<br>▸ Song of Solomon 2:4<br>▸ Isaiah 11:10</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Jehovah Shalom</h3>
+                <div class="greek">Hebrew: יהוה שָׁלוֹם — "The LORD Is Peace"</div>
+                <div class="definition">Named by Gideon after the Angel of the LORD appeared to him and he feared for his life, but God said "Peace be to you." Reveals God as the source of wholeness, completeness, and harmony.</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ Judges 6:24<br><br><strong>Also:</strong><br>▸ Isaiah 26:3<br>▸ John 14:27<br>▸ Romans 5:1</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>El Roi</h3>
+                <div class="greek">Hebrew: אֵל רֳאִי — "The God Who Sees"</div>
+                <div class="definition">Named by Hagar in the wilderness after she fled from Sarah. Alone, pregnant, and rejected, she discovered that God sees the forgotten, the outcast, and the desperate. No one is invisible to Him.</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ Genesis 16:13<br><br><strong>Also:</strong><br>▸ Psalm 139:1-4<br>▸ Proverbs 15:3<br>▸ 2 Chronicles 16:9</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Yahweh Sabaoth</h3>
+                <div class="greek">Hebrew: יהוה צְבָאוֹת — "The LORD of Hosts"</div>
+                <div class="definition">Portrays God as commander of heavenly armies — angelic hosts and cosmic powers. Used frequently by the prophets to emphasize God's power in times of national crisis and spiritual warfare.</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ 1 Samuel 1:3<br><br><strong>Also:</strong><br>▸ Isaiah 6:3<br>▸ Psalm 46:7<br>▸ Malachi 3:17</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>Abba</h3>
+                <div class="greek">Aramaic: אַבָּא — "Father" (intimate, familiar)</div>
+                <div class="definition">An intimate Aramaic term for "father" — used by Jesus in Gethsemane and given to believers through the Spirit of adoption. Not merely formal respect, but the tender, trusting cry of a child to their dad.</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ Mark 14:36<br><br><strong>Also:</strong><br>▸ Romans 8:15<br>▸ Galatians 4:6<br>▸ Matthew 6:9</div>
+            </div>
+        </div>
 
         <div class="section-block">
             <h2>Video Resources</h2>

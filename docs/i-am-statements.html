@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="site/style.css">
     <style>
         .topic-hero {
-            background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?w=1200&q=80") center/cover no-repeat;
-            border: none;
+            background: linear-gradient(135deg, #f5ebe0 0%, #faf3e0 100%);
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 36px;
             text-align: center;
@@ -18,8 +18,6 @@
             box-shadow: var(--shadow-sm);
         }
         .topic-hero h1 {
-            color: #fff;
-            text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
             font-family: 'Cinzel', serif;
             font-size: 2.2rem;
             color: #8b3a2a;
@@ -29,7 +27,7 @@
             font-family: 'Merriweather', serif;
             font-size: 1.05rem;
             font-style: italic;
-            color: #f0e4d4;
+            color: var(--text-secondary);
             max-width: 700px;
             margin: 16px auto 8px;
             line-height: 1.8;
@@ -38,7 +36,7 @@
             font-family: 'Inter', sans-serif;
             font-size: 0.85rem;
             font-weight: 600;
-            color: #f0c865;
+            color: #8b3a2a;
         }
         .fruit-grid {
             display: grid;
@@ -48,7 +46,7 @@
         }
         .fruit-card {
             background: var(--bg-card);
-            border: none;
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 24px;
             box-shadow: var(--shadow-sm);
@@ -87,7 +85,7 @@
         }
         .section-block {
             background: var(--bg-card);
-            border: none;
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 28px 32px;
             box-shadow: var(--shadow-sm);
@@ -121,6 +119,14 @@
         }
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: none; border: 1px solid var(--border-light); border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: var(--text-secondary); cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 220px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #8b3a2a; }
 </style>
+
+    <style>
+        .page-hero { position: relative; width: 100%; height: 220px; overflow: hidden; display: flex; align-items: center; justify-content: center; margin-bottom: 24px; border-radius: var(--radius-lg); }
+        .page-hero img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.4); }
+        .page-hero-overlay { position: relative; z-index: 1; text-align: center; padding: 20px 24px; max-width: 700px; }
+        .page-hero-overlay p { font-family: "Cormorant Garamond", serif; font-size: 1.1rem; color: #f0c865; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.7); line-height: 1.8; }
+        @media (max-width: 768px) { .page-hero { height: 180px; border-radius: 0; } .page-hero-overlay p { font-size: 0.95rem; } }
+    </style>
 </head>
 <body>
     <nav class="top-nav">
@@ -133,6 +139,70 @@
     <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
 
     <main class="main-content" style="margin-left:0; max-width:960px; margin-left:auto; margin-right:auto;">
+
+        <div class="page-hero">
+            <img src="https://images.unsplash.com/photo-1509021436665-8f07dbf5bf1d?w=1200&q=80" alt="I Am Statements">
+            <div class="page-hero-overlay">
+                <p>I am the way, and the truth, and the life — John 14:6</p>
+            </div>
+        </div>
+
+        <div class="topic-hero">
+            <h1>I AM Statements of Jesus</h1>
+            <p class="key-passage">"Jesus said to them, 'Truly, truly, I say to you, before Abraham was, I am.'"</p>
+            <span class="ref">— John 8:58 (ESV)</span>
+        </div>
+
+        <div class="fruit-grid">
+            <div class="fruit-card">
+                <h3>1. I Am the Bread of Life</h3>
+                <div class="greek">John 6:35</div>
+                <div class="definition"><strong>Context:</strong> After feeding the 5,000, the crowd followed Jesus seeking more bread. Jesus redirected them from physical bread to spiritual sustenance, declaring Himself the true bread from heaven that gives eternal life.<br><br><strong>Meaning:</strong> Just as bread sustains physical life, Jesus sustains spiritual life. He alone satisfies the deepest hunger of the human soul. Those who come to Him will never hunger or thirst again.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Exodus 16:4 (manna from heaven)<br>▸ Deuteronomy 8:3<br>▸ John 6:48-51<br>▸ Matthew 4:4</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>2. I Am the Light of the World</h3>
+                <div class="greek">John 8:12</div>
+                <div class="definition"><strong>Context:</strong> Spoken during the Feast of Tabernacles, when giant candelabras illuminated the temple courts. Jesus declared Himself the true light that the feast's ceremonies merely symbolized.<br><br><strong>Meaning:</strong> Jesus dispels spiritual darkness — sin, ignorance, and death. Those who follow Him walk in truth, clarity, and life rather than stumbling in the darkness of sin.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Isaiah 9:2<br>▸ Psalm 27:1<br>▸ John 1:4-9<br>▸ 1 John 1:5-7<br>▸ Matthew 5:14</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>3. I Am the Door</h3>
+                <div class="greek">John 10:9</div>
+                <div class="definition"><strong>Context:</strong> Using shepherd imagery familiar to His audience, Jesus presented Himself as the only legitimate entrance to God's fold. Thieves and robbers climb in other ways, but the true shepherd enters through the door.<br><br><strong>Meaning:</strong> Jesus is the exclusive way to salvation and fellowship with God. Through Him alone we find access to the Father, safety from spiritual danger, and abundant life.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Psalm 118:20<br>▸ Matthew 7:13-14<br>▸ Acts 4:12<br>▸ Ephesians 2:18<br>▸ Hebrews 10:19-20</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>4. I Am the Good Shepherd</h3>
+                <div class="greek">John 10:11</div>
+                <div class="definition"><strong>Context:</strong> In contrast to the Pharisees — hired hands who exploited the flock — Jesus declared Himself the true shepherd who knows His sheep by name and willingly lays down His life for them.<br><br><strong>Meaning:</strong> Jesus leads, protects, provides for, and sacrifices for His people. Unlike false leaders, He gives His life voluntarily out of love. His sheep recognize His voice and follow Him.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Psalm 23<br>▸ Ezekiel 34:11-16<br>▸ Isaiah 40:11<br>▸ Hebrews 13:20<br>▸ 1 Peter 2:25</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>5. I Am the Resurrection and the Life</h3>
+                <div class="greek">John 11:25</div>
+                <div class="definition"><strong>Context:</strong> Spoken to Martha at the tomb of Lazarus, her brother who had been dead four days. Before raising Lazarus, Jesus revealed that He is not merely a miracle worker — He is the source of resurrection and life itself.<br><br><strong>Meaning:</strong> Jesus has authority over death. Those who believe in Him possess eternal life that transcends physical death. He is both the power of resurrection and the essence of life.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Romans 6:9<br>▸ 1 Corinthians 15:20-22<br>▸ Colossians 1:18<br>▸ Revelation 1:17-18<br>▸ John 5:21</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>6. I Am the Way, the Truth, and the Life</h3>
+                <div class="greek">John 14:6</div>
+                <div class="definition"><strong>Context:</strong> In the Upper Room before the crucifixion, Thomas asked how they could know the way to where Jesus was going. Jesus responded with the most exclusive claim in all of Scripture.<br><br><strong>Meaning:</strong> Jesus is the only path to God (Way), the full revelation of reality (Truth), and the source of spiritual vitality (Life). No one comes to the Father except through Him — there is no other mediator.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Acts 4:12<br>▸ 1 Timothy 2:5<br>▸ Hebrews 10:19-20<br>▸ John 1:14, 17<br>▸ Colossians 2:9</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>7. I Am the True Vine</h3>
+                <div class="greek">John 15:1</div>
+                <div class="definition"><strong>Context:</strong> Likely spoken while passing vineyards on the way to Gethsemane after the Last Supper. Israel was often called God's vine (Isaiah 5), but had failed to bear fruit. Jesus declared Himself the true fulfillment.<br><br><strong>Meaning:</strong> Spiritual fruitfulness comes only through abiding in Christ. Branches that remain connected to Him bear much fruit; those that disconnect wither. Our entire spiritual vitality depends on union with Him.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Isaiah 5:1-7<br>▸ Psalm 80:8-16<br>▸ Galatians 5:22-23<br>▸ Colossians 1:27<br>▸ John 15:4-8</div>
+            </div>
+        </div>
 
     </main>
 

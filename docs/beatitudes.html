@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="site/style.css">
     <style>
         .topic-hero {
-            background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1200&q=80") center/cover no-repeat;
-            border: none;
+            background: linear-gradient(135deg, #f5ebe0 0%, #faf3e0 100%);
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 36px;
             text-align: center;
@@ -18,8 +18,6 @@
             box-shadow: var(--shadow-sm);
         }
         .topic-hero h1 {
-            color: #fff;
-            text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
             font-family: 'Cinzel', serif;
             font-size: 2.2rem;
             color: #2c6b4f;
@@ -29,7 +27,7 @@
             font-family: 'Merriweather', serif;
             font-size: 1.05rem;
             font-style: italic;
-            color: #f0e4d4;
+            color: var(--text-secondary);
             max-width: 700px;
             margin: 16px auto 8px;
             line-height: 1.8;
@@ -38,7 +36,7 @@
             font-family: 'Inter', sans-serif;
             font-size: 0.85rem;
             font-weight: 600;
-            color: #f0c865;
+            color: #2c6b4f;
         }
         .fruit-grid {
             display: grid;
@@ -48,7 +46,7 @@
         }
         .fruit-card {
             background: var(--bg-card);
-            border: none;
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 24px;
             box-shadow: var(--shadow-sm);
@@ -87,7 +85,7 @@
         }
         .section-block {
             background: var(--bg-card);
-            border: none;
+            border: 1px solid var(--border-light);
             border-radius: var(--radius-lg);
             padding: 28px 32px;
             box-shadow: var(--shadow-sm);
@@ -121,6 +119,14 @@
         }
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: none; border: 1px solid var(--border-light); border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: var(--text-secondary); cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 220px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #8b3a2a; }
 </style>
+
+    <style>
+        .page-hero { position: relative; width: 100%; height: 220px; overflow: hidden; display: flex; align-items: center; justify-content: center; margin-bottom: 24px; border-radius: var(--radius-lg); }
+        .page-hero img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.4); }
+        .page-hero-overlay { position: relative; z-index: 1; text-align: center; padding: 20px 24px; max-width: 700px; }
+        .page-hero-overlay p { font-family: "Cormorant Garamond", serif; font-size: 1.1rem; color: #f0c865; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.7); line-height: 1.8; }
+        @media (max-width: 768px) { .page-hero { height: 180px; border-radius: 0; } .page-hero-overlay p { font-size: 0.95rem; } }
+    </style>
 </head>
 <body>
     <nav class="top-nav">
@@ -133,6 +139,77 @@
     <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
 
     <main class="main-content" style="margin-left:0; max-width:960px; margin-left:auto; margin-right:auto;">
+
+        <div class="page-hero">
+            <img src="https://images.unsplash.com/photo-1501854140801-50d01698950b?w=1200&q=80" alt="Beatitudes">
+            <div class="page-hero-overlay">
+                <p>Blessed are the poor in spirit, for theirs is the kingdom of heaven — Matthew 5:3</p>
+            </div>
+        </div>
+
+        <div class="topic-hero">
+            <h1>The Beatitudes</h1>
+            <p class="key-passage">"Blessed are the poor in spirit, for theirs is the kingdom of heaven."</p>
+            <span class="ref">— Matthew 5:3 (ESV)</span>
+        </div>
+
+        <div class="fruit-grid">
+            <div class="fruit-card">
+                <h3>1. Blessed Are the Poor in Spirit</h3>
+                <div class="greek">Matthew 5:3</div>
+                <div class="definition"><strong>The Blessing:</strong> "Blessed are the poor in spirit, for theirs is the kingdom of heaven."<br><br><strong>What It Means:</strong> Spiritual poverty — recognizing our complete bankruptcy before God. Not material poverty, but a humble acknowledgment that we have nothing to offer God and are utterly dependent on His grace.<br><br><strong>The Promise:</strong> The kingdom of heaven belongs to those who know they need it most.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Isaiah 66:2<br>▸ Luke 18:9-14<br>▸ Psalm 51:17<br>▸ Revelation 3:17</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>2. Blessed Are Those Who Mourn</h3>
+                <div class="greek">Matthew 5:4</div>
+                <div class="definition"><strong>The Blessing:</strong> "Blessed are those who mourn, for they shall be comforted."<br><br><strong>What It Means:</strong> Grief over sin — both personal sin and the brokenness of the world. This is godly sorrow that leads to repentance (2 Corinthians 7:10), not mere sadness over consequences.<br><br><strong>The Promise:</strong> God Himself will comfort them — the ultimate consolation that transcends earthly sorrow.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ 2 Corinthians 7:10<br>▸ Isaiah 61:1-3<br>▸ Psalm 34:18<br>▸ Revelation 21:4</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>3. Blessed Are the Meek</h3>
+                <div class="greek">Matthew 5:5</div>
+                <div class="definition"><strong>The Blessing:</strong> "Blessed are the meek, for they shall inherit the earth."<br><br><strong>What It Means:</strong> Meekness is not weakness — it is strength under control. A gentle spirit that submits to God's will and doesn't insist on its own rights. Moses was called the meekest man on earth (Numbers 12:3) yet confronted Pharaoh.<br><br><strong>The Promise:</strong> The meek, not the aggressive, will ultimately inherit everything — a stunning reversal of worldly values.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Psalm 37:11<br>▸ Numbers 12:3<br>▸ 1 Peter 3:4<br>▸ Matthew 11:29</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>4. Blessed Are Those Who Hunger and Thirst for Righteousness</h3>
+                <div class="greek">Matthew 5:6</div>
+                <div class="definition"><strong>The Blessing:</strong> "Blessed are those who hunger and thirst for righteousness, for they shall be satisfied."<br><br><strong>What It Means:</strong> An intense, consuming desire for right standing with God and for justice in the world — as desperate as physical starvation and thirst. Not casual interest, but a driving passion for holiness.<br><br><strong>The Promise:</strong> Those who truly hunger for God's righteousness will be filled — completely satisfied.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Psalm 42:1-2<br>▸ Isaiah 55:1-2<br>▸ John 4:14<br>▸ Philippians 3:8-9</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>5. Blessed Are the Merciful</h3>
+                <div class="greek">Matthew 5:7</div>
+                <div class="definition"><strong>The Blessing:</strong> "Blessed are the merciful, for they shall receive mercy."<br><br><strong>What It Means:</strong> Active compassion toward those in misery — not giving people what they deserve, but extending grace as God has extended grace to us. Mercy in action, not just sentiment.<br><br><strong>The Promise:</strong> Those who show mercy will receive mercy — from God and from others. Our mercy reflects the mercy we've received.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ James 2:13<br>▸ Matthew 18:21-35<br>▸ Micah 6:8<br>▸ Luke 6:36</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>6. Blessed Are the Pure in Heart</h3>
+                <div class="greek">Matthew 5:8</div>
+                <div class="definition"><strong>The Blessing:</strong> "Blessed are the pure in heart, for they shall see God."<br><br><strong>What It Means:</strong> Singleness of devotion — an undivided heart that desires God above all else. Internal integrity where motives, desires, and thoughts align with God's character. Not perfection, but sincerity.<br><br><strong>The Promise:</strong> They will see God — both in this life (spiritual perception) and in eternity (face to face).</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Psalm 24:3-4<br>▸ Psalm 73:1<br>▸ 1 John 3:2-3<br>▸ Hebrews 12:14</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>7. Blessed Are the Peacemakers</h3>
+                <div class="greek">Matthew 5:9</div>
+                <div class="definition"><strong>The Blessing:</strong> "Blessed are the peacemakers, for they shall be called sons of God."<br><br><strong>What It Means:</strong> Not merely peace-lovers but peace-makers — those who actively work to reconcile people to God and to each other. This is costly, sacrificial work that mirrors what Christ did on the cross.<br><br><strong>The Promise:</strong> They are recognized as God's children — because they share the family resemblance of their Father who made peace through the blood of His Son.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Romans 12:18<br>▸ 2 Corinthians 5:18-20<br>▸ Colossians 1:20<br>▸ James 3:17-18</div>
+            </div>
+
+            <div class="fruit-card">
+                <h3>8. Blessed Are the Persecuted</h3>
+                <div class="greek">Matthew 5:10-12</div>
+                <div class="definition"><strong>The Blessing:</strong> "Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven."<br><br><strong>What It Means:</strong> Suffering that comes specifically because of faithfulness to Christ — not from foolishness or sin, but from living righteously in a world hostile to God. Jesus said to "rejoice and be glad" in this.<br><br><strong>The Promise:</strong> Great reward in heaven, and fellowship with the prophets who were persecuted before them. The kingdom belongs to them.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ 1 Peter 4:12-14<br>▸ 2 Timothy 3:12<br>▸ Acts 5:41<br>▸ Romans 8:17-18</div>
+            </div>
+        </div>
 
     </main>
 
