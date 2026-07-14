@@ -1,7 +1,7 @@
 /* Bible Study Site — Shared JavaScript */
 
 /* ESV API Configuration — via Cloudflare Worker proxy */
-var ESV_PROXY_URL = 'https://esv-proxy.jeremy-mcadoo.workers.dev';
+var ESV_PROXY_URL = 'https://esv-proxy.cloudflare-dust598.workers.dev';
 
 function switchTab(tabId) {
     document.querySelectorAll('.study-tab').forEach(t => t.classList.remove('active'));
