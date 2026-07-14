@@ -10,7 +10,10 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link rel="stylesheet" href="site/style.css?v=12">
     <style>
-        .home-content {{ margin-top: 0; padding: 0; max-width: 900px; margin-left: auto; margin-right: auto; padding-bottom: 60px; }}
+        .home-content {{ margin-top: 0; padding: 0; max-width: 900px; margin-left: auto; margin-right: auto; padding-bottom: 60px; background: linear-gradient(180deg, #f5ebe0 0%, #fdf9f4 10%, #f5ebe0 30%, #fdf9f4 50%, #f5ebe0 70%, #fdf9f4 90%, #f0e4d4 100%); }}
+
+        /* Section dividers — smooth gradient transitions between sections */
+        .section-fade {{ height: 40px; background: linear-gradient(180deg, transparent 0%, #f5ebe0 100%); }}
 
         /* Hero Section — extended with welcome overlay */
         .hero-section {{ position: relative; width: 100%; min-height: 480px; overflow: hidden; display: flex; align-items: center; justify-content: center; }}
@@ -26,7 +29,7 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
         .prayer-label {{ font-family: "Cinzel", serif; font-size: 0.9rem; color: #c9a96e; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 16px; }}
 
         /* Content Blocks — Translation Guide & Commentaries */
-        .content-block {{ margin: 32px 32px 0; background: #fdf9f4; border: 1px solid #e0d6c8; border-radius: 12px; padding: 32px; box-shadow: 0 4px 12px rgba(0,0,0,0.06); }}
+        .content-block {{ margin: 0 32px; background: linear-gradient(180deg, #fdf9f4 0%, #faf5ed 50%, #fdf9f4 100%); border: none; border-radius: 0; padding: 40px 32px; box-shadow: none; border-bottom: 1px solid #e8e0d6; }}
         .content-block h2 {{ font-family: "Cinzel", serif; font-size: 1.4rem; color: #8b3a2a; margin-bottom: 8px; text-align: center; }}
         .content-block .block-desc {{ font-size: 0.9rem; color: #5a4e44; text-align: center; margin-bottom: 24px; line-height: 1.7; }}
         .trans-guide-item {{ margin-bottom: 18px; padding: 16px; background: #fff; border: 1px solid #e8e0d6; border-radius: 8px; }}
@@ -39,7 +42,7 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
         .commentary-card p {{ font-size: 0.88rem; line-height: 1.7; color: #5a4e44; margin: 0; }}
 
         /* Scroll Sections — realistic parchment texture */
-        .scroll-section {{ margin: 32px 32px 0; }}
+        .scroll-section {{ margin: 40px 32px 0; }}
         .scroll-banner {{ display: flex; align-items: center; cursor: pointer; user-select: none; }}
         .scroll-end {{ width: 44px; height: 110px; border-radius: 22px; background: radial-gradient(ellipse at center, #d4a96e 0%, #8b6914 40%, #5c4410 100%); box-shadow: inset 0 0 12px rgba(0,0,0,0.4), 3px 3px 8px rgba(0,0,0,0.25), -1px -1px 4px rgba(255,255,255,0.1); border: 1px solid #6b4c1e; }}
         .scroll-end.left {{ border-right: 3px solid #4a3010; }}
@@ -74,13 +77,13 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
             .hero-overlay .welcome-text {{ font-size: 1.05rem; }}
             .prayer-section {{ padding: 32px 20px; }}
             .prayer-text {{ font-size: 1.15rem; }}
-            .content-block {{ margin: 24px 16px 0; padding: 24px 18px; }}
+            .content-block {{ margin: 0 16px; padding: 32px 18px; }}
             .scroll-title {{ font-size: 1.4rem; }}
             .scroll-subtitle {{ font-size: 0.85rem; }}
             .scroll-end {{ width: 28px; height: 90px; }}
             .scroll-body {{ padding: 18px 14px; }}
             .parchment-body {{ margin: 0 16px; padding: 24px 16px; }}
-            .scroll-section {{ margin: 20px 16px 0; }}
+            .scroll-section {{ margin: 28px 16px 0; }}
             .book-grid {{ grid-template-columns: repeat(auto-fill, minmax(130px, 1fr)); }}
             .trans-guide-item {{ padding: 14px; }}
         }}
