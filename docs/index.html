@@ -8,7 +8,8 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link rel="stylesheet" href="site/style.css?v=12">
     <style>
-        .home-content { margin-top: 0; padding: 0; max-width: 900px; margin-left: auto; margin-right: auto; padding-bottom: 60px; background: #faf5ed; }
+        body { background: #faf5ed !important; }
+        .home-content { margin-top: 0; padding: 0; max-width: 100%; margin-left: auto; margin-right: auto; padding-bottom: 60px; background: #faf5ed; }
 
         /* Section dividers — smooth gradient transitions between sections */
         .section-fade { height: 40px; background: linear-gradient(180deg, transparent 0%, #f5ebe0 100%); }
@@ -27,7 +28,7 @@
         .prayer-label { font-family: "Cinzel", serif; font-size: 0.9rem; color: #c9a96e; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 16px; }
 
         /* Content Blocks — Translation Guide & Commentaries */
-        .content-block { margin: 0; background: #faf5ed; border: none; border-radius: 0; padding: 40px 48px; box-shadow: none; }
+        .content-block { margin: 0 auto; max-width: 900px; background: #faf5ed; border: none; border-radius: 0; padding: 40px 48px; box-shadow: none; }
         .content-block h2 { font-family: "Cinzel", serif; font-size: 1.4rem; color: #8b3a2a; margin-bottom: 8px; text-align: center; }
         .content-block .block-desc { font-size: 0.9rem; color: #5a4e44; text-align: center; margin-bottom: 24px; line-height: 1.7; }
         .trans-guide-item { margin-bottom: 18px; padding: 0 0 18px 0; background: none; border: none; border-bottom: 1px solid rgba(0,0,0,0.06); border-radius: 0; }
@@ -40,7 +41,7 @@
         .commentary-card p { font-size: 0.88rem; line-height: 1.7; color: #5a4e44; margin: 0; }
 
         /* Scroll Sections — realistic parchment texture */
-        .scroll-section { margin: 40px 32px 0; padding: 0; }
+        .scroll-section { margin: 40px auto 0; max-width: 900px; padding: 0 32px; }
         .scroll-banner { display: flex; align-items: center; cursor: pointer; user-select: none; }
         .scroll-end { width: 44px; height: 110px; border-radius: 22px; background: radial-gradient(ellipse at center, #d4a96e 0%, #8b6914 40%, #5c4410 100%); box-shadow: inset 0 0 12px rgba(0,0,0,0.4), 3px 3px 8px rgba(0,0,0,0.25), -1px -1px 4px rgba(255,255,255,0.1); border: 1px solid #6b4c1e; }
         .scroll-end.left { border-right: 3px solid #4a3010; }
