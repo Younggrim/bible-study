@@ -17,7 +17,7 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
         .hero-section img {{ position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.4); }}
         .hero-overlay {{ position: relative; z-index: 1; text-align: center; padding: 40px 28px; max-width: 760px; }}
         .hero-overlay h1 {{ font-family: "Cinzel", serif; font-size: 3.2rem; color: #fff; text-shadow: 2px 2px 12px rgba(0,0,0,0.8); margin-bottom: 12px; letter-spacing: 3px; }}
-        .hero-overlay .hero-verse {{ font-family: "Cormorant Garamond", serif; font-size: 1.2rem; color: #e8dcc8; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.6); margin-bottom: 28px; }}
+        .hero-overlay .hero-verse {{ font-family: "Cormorant Garamond", serif; font-size: 1.2rem; color: #f0c865; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.6); margin-bottom: 28px; }}
         .hero-overlay .welcome-text {{ font-family: "Cormorant Garamond", serif; font-size: 1.2rem; line-height: 2; color: #f5ebe0; font-style: italic; text-shadow: 1px 1px 6px rgba(0,0,0,0.7); }}
 
         /* Prayer Section — bold and eye-catching */
@@ -97,7 +97,7 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
         <div class="hero-section">
             <img src="https://images.unsplash.com/photo-1504052434569-70ad5836ab65?w=1400&q=80" alt="Open Bible">
             <div class="hero-overlay">
-                <h1>Bible Study</h1>
+                <h1>Into the Word</h1>
                 <p class="hero-verse">Your Word is a lamp to my feet and a light to my path — Psalm 119:105</p>
                 <p class="welcome-text">Welcome — this is a free resource built to help you grow deeper in God's Word. Whether you are a new believer taking your first steps in faith or you have walked with Christ for many years, this site is here to serve you. Explore Scripture across multiple translations, study the themes woven through the Bible, and let the Holy Spirit guide you into all truth.</p>
             </div>
