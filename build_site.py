@@ -655,7 +655,7 @@ def build_html_page(book_name, chapter_num, total_chapters, verses_html, tab_bar
         <p>KJV, ASV, and WEB texts are in the public domain.</p>
     </footer>
 
-    <script src="site/script.js?v=12"></script>
+    <script src="site/script.js?v=13"></script>
 </body>
 </html>'''
 

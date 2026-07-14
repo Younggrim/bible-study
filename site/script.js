@@ -37,6 +37,9 @@ function switchTranslation(trans) {
         container.style.color = TRANSLATION_COLORS[trans] || '#3d2b1f';
     }
 
+    // Save preference to localStorage
+    try { localStorage.setItem('preferredTranslation', trans); } catch(e) {}
+
     // Load ESV from API if needed
     if (trans === 'ESV') {
         loadESVText();
@@ -107,13 +110,22 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    // Auto-load ESV text on page load (ESV is default translation)
-    loadESVText();
-
-    // Set default translation color (ESV)
-    var container = document.querySelector('.scripture-container');
-    if (container) {
-        container.style.color = TRANSLATION_COLORS['ESV'];
+    // Restore saved translation preference or default to ESV
+    var savedTrans = null;
+    try { savedTrans = localStorage.getItem('preferredTranslation'); } catch(e) {}
+    if (savedTrans && TRANSLATION_COLORS[savedTrans]) {
+        switchTranslation(savedTrans);
+        // Update the dropdown to match
+        var transSelect = document.querySelector('.nav-translation');
+        if (transSelect) transSelect.value = savedTrans;
+    } else {
+        // Auto-load ESV text on page load (ESV is default translation)
+        loadESVText();
+        // Set default translation color (ESV)
+        var container = document.querySelector('.scripture-container');
+        if (container) {
+            container.style.color = TRANSLATION_COLORS['ESV'];
+        }
     }
 });
 
