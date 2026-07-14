@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="site/style.css">
     <style>
         .topic-hero {
-            background: linear-gradient(135deg, #f5ebe0 0%, #faf3e0 100%);
-            border: 1px solid var(--border-light);
+            background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200&q=80") center/cover no-repeat;
+            border: none;
             border-radius: var(--radius-lg);
             padding: 36px;
             text-align: center;
@@ -18,6 +18,8 @@
             box-shadow: var(--shadow-sm);
         }
         .topic-hero h1 {
+            color: #fff;
+            text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
             font-family: 'Cinzel', serif;
             font-size: 2.2rem;
             color: #7a5c2e;
@@ -27,7 +29,7 @@
             font-family: 'Merriweather', serif;
             font-size: 1.05rem;
             font-style: italic;
-            color: var(--text-secondary);
+            color: #f0e4d4;
             max-width: 700px;
             margin: 16px auto 8px;
             line-height: 1.8;
@@ -36,7 +38,7 @@
             font-family: 'Inter', sans-serif;
             font-size: 0.85rem;
             font-weight: 600;
-            color: #7a5c2e;
+            color: #f0c865;
         }
         .fruit-grid {
             display: grid;
@@ -46,7 +48,7 @@
         }
         .fruit-card {
             background: var(--bg-card);
-            border: 1px solid var(--border-light);
+            border: none;
             border-radius: var(--radius-lg);
             padding: 24px;
             box-shadow: var(--shadow-sm);
@@ -85,7 +87,7 @@
         }
         .section-block {
             background: var(--bg-card);
-            border: 1px solid var(--border-light);
+            border: none;
             border-radius: var(--radius-lg);
             padding: 28px 32px;
             box-shadow: var(--shadow-sm);
@@ -119,14 +121,6 @@
         }
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: none; border: 1px solid var(--border-light); border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: var(--text-secondary); cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 220px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #8b3a2a; }
 </style>
-
-    <style>
-        .page-hero { position: relative; width: 100%; height: 220px; overflow: hidden; display: flex; align-items: center; justify-content: center; margin-bottom: 24px; border-radius: var(--radius-lg); }
-        .page-hero img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.4); }
-        .page-hero-overlay { position: relative; z-index: 1; text-align: center; padding: 20px 24px; max-width: 700px; }
-        .page-hero-overlay p { font-family: "Cormorant Garamond", serif; font-size: 1.1rem; color: #f0c865; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.7); line-height: 1.8; }
-        @media (max-width: 768px) { .page-hero { height: 180px; border-radius: 0; } .page-hero-overlay p { font-size: 0.95rem; } }
-    </style>
 </head>
 <body>
     <nav class="top-nav">
@@ -139,105 +133,6 @@
     <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
 
     <main class="main-content" style="margin-left:0; max-width:960px; margin-left:auto; margin-right:auto;">
-
-        <div class="page-hero">
-            <img src="https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200&q=80" alt="Parables Of Jesus">
-            <div class="page-hero-overlay">
-                <p>He told them many things in parables — Matthew 13:3</p>
-            </div>
-        </div>
-
-        <div class="topic-hero">
-            <h1>Parables of Jesus</h1>
-            <p class="key-passage">"All these things Jesus said to the crowds in parables; indeed, he said nothing to them without a parable."</p>
-            <span class="ref">— Matthew 13:34 (ESV)</span>
-        </div>
-
-        <div class="fruit-grid">
-            <div class="fruit-card">
-                <h3>The Sower</h3>
-                <div class="greek">Matthew 13:1-23 • Mark 4:1-20 • Luke 8:4-15</div>
-                <div class="definition">A farmer scatters seed on four types of soil: the path (hard), rocky ground (shallow), thorns (choked), and good soil (fruitful). The seed is God's Word; the soils represent different heart conditions that receive it.</div>
-                <div class="scriptures"><strong>Main lesson:</strong> The same Word produces different results depending on the condition of the hearer's heart. Examine what kind of "soil" you are.<br><br><strong>💭 Reflect:</strong><br>▸ Which soil best describes your heart right now? What thorns might be choking the Word in your life?<br><br><strong style="font-size:0.8rem;color:#2c6b4f;">🎬 Videos:</strong><br>▸ <a href="https://www.youtube.com/watch?v=kEqxXEG3qGY" target="_blank" style="color:var(--accent-brown);">Understanding the Parable of the Sower</a></div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>The Mustard Seed</h3>
-                <div class="greek">Matthew 13:31-32 • Mark 4:30-32 • Luke 13:18-19</div>
-                <div class="definition">The kingdom of heaven is like a mustard seed — the smallest of seeds — that grows into the largest of garden plants, so birds come and nest in its branches. Tiny beginnings, extraordinary growth.</div>
-                <div class="scriptures"><strong>Main lesson:</strong> God's kingdom starts small and seemingly insignificant, but it grows beyond all expectation. Never despise small beginnings in faith.<br><br><strong>💭 Reflect:</strong><br>▸ Where in your life is God doing something small that you're tempted to dismiss? What "mustard seed" might He be growing?<br><br><strong style="font-size:0.8rem;color:#2c6b4f;">🎬 Videos:</strong><br>▸ <a href="https://www.youtube.com/watch?v=34L4jOezMkQ" target="_blank" style="color:var(--accent-brown);">What is the meaning of the Parable of the Mustard Seed? | GotQuestions.org</a></div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>The Prodigal Son</h3>
-                <div class="greek">Luke 15:11-32</div>
-                <div class="definition">A younger son demands his inheritance, squanders it in reckless living, hits rock bottom, and returns home. The father runs to embrace him. The older brother resents the celebration. The father loves both.</div>
-                <div class="scriptures"><strong>Main lesson:</strong> God's grace welcomes repentant sinners with extravagant joy. Religious self-righteousness can be as far from the Father's heart as open rebellion.<br><br><strong>💭 Reflect:</strong><br>▸ This parable has two lost sons — the rebellious one and the self-righteous one. Which do you identify with more? Why?<br><br><strong style="font-size:0.8rem;color:#2c6b4f;">🎬 Videos:</strong><br>▸ <a href="https://www.youtube.com/watch?v=jUCCUHurV0I" target="_blank" style="color:var(--accent-brown);">The Prodigal Son: Luke 9-19</a><br>▸ <a href="https://www.youtube.com/watch?v=SKxA_b6H0nM" target="_blank" style="color:var(--accent-brown);">The Parable of the Prodigal Son EXPLAINED</a></div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>The Good Samaritan</h3>
-                <div class="greek">Luke 10:25-37</div>
-                <div class="definition">A man is beaten and left for dead. A priest and Levite pass by. A despised Samaritan stops, tends his wounds, and pays for his care. Jesus tells the questioning lawyer: "Go and do likewise."</div>
-                <div class="scriptures"><strong>Main lesson:</strong> True love for neighbor crosses every social, ethnic, and religious boundary. Your neighbor is anyone in need — and you must act, not merely feel compassion.<br><br><strong>💭 Reflect:</strong><br>▸ Who is the "wounded man on the road" in your life that you might be walking past? What would stopping look like?<br><br><strong style="font-size:0.8rem;color:#2c6b4f;">🎬 Videos:</strong><br>▸ <a href="https://www.youtube.com/watch?v=pUUxIVl3Fi0" target="_blank" style="color:var(--accent-brown);">The Parable of the Good Samaritan EXPLAINED VERSE BY VERSE!</a></div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>The Lost Sheep</h3>
-                <div class="greek">Matthew 18:12-14 • Luke 15:1-7</div>
-                <div class="definition">A shepherd with 100 sheep leaves the 99 to search for the one that is lost. When he finds it, he carries it home rejoicing and calls friends to celebrate. Heaven rejoices over one sinner who repents.</div>
-                <div class="scriptures"><strong>Main lesson:</strong> Every individual matters to God. He actively pursues the lost — not waiting passively, but seeking with relentless love until they are found.<br><br><strong>💭 Reflect:</strong><br>▸ Have you ever felt like the "one lost sheep"? How has God pursued you? Who might He be asking you to go after?</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>The Talents</h3>
-                <div class="greek">Matthew 25:14-30 • Luke 19:12-27</div>
-                <div class="definition">A master entrusts servants with talents (money): five, two, and one. The first two invest and double their master's money. The third buries his. The faithful are rewarded; the fearful servant is cast out.</div>
-                <div class="scriptures"><strong>Main lesson:</strong> God entrusts us with gifts, abilities, and opportunities — and expects faithful stewardship. Fear-based inaction is not humility; it's disobedience.<br><br><strong>💭 Reflect:</strong><br>▸ What has God entrusted to you that you might be "burying" out of fear? What would faithful investment look like?<br><br><strong style="font-size:0.8rem;color:#2c6b4f;">🎬 Videos:</strong><br>▸ <a href="https://www.youtube.com/watch?v=U1qx3IrwClI" target="_blank" style="color:var(--accent-brown);">How to Get Ready for Jesus' Return | The Parable of the Talents</a></div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>The Wedding Banquet</h3>
-                <div class="greek">Matthew 22:1-14 • Luke 14:15-24</div>
-                <div class="definition">A king prepares a wedding feast, but invited guests refuse to come — making excuses or even killing the messengers. The king then invites anyone from the streets. One guest arrives without proper wedding clothes and is cast out.</div>
-                <div class="scriptures"><strong>Main lesson:</strong> God's invitation to His kingdom is open to all, but it must be received on His terms. Casual presumption without genuine faith is not true acceptance.<br><br><strong>💭 Reflect:</strong><br>▸ Are you truly accepting God's invitation on His terms — or making excuses? What might you be prioritizing over His call?<br><br><strong style="font-size:0.8rem;color:#2c6b4f;">🎬 Videos:</strong><br>▸ <a href="https://www.youtube.com/watch?v=lgTcEM3KhPE" target="_blank" style="color:var(--accent-brown);">What is the meaning of the Parable of the Wedding Feast? | GotQuestions.org</a></div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>The Rich Fool</h3>
-                <div class="greek">Luke 12:13-21</div>
-                <div class="definition">A wealthy man has a bumper crop. Instead of generosity, he plans bigger barns to store it all and says to himself: "Eat, drink, be merry." God says: "Fool! This night your soul is required of you."</div>
-                <div class="scriptures"><strong>Main lesson:</strong> Life does not consist in the abundance of possessions. Hoarding for self while being poor toward God is ultimate foolishness — death comes without warning.<br><br><strong>💭 Reflect:</strong><br>▸ Where are you building "bigger barns" instead of being rich toward God? What would generosity look like this week?<br><br><strong style="font-size:0.8rem;color:#2c6b4f;">🎬 Videos:</strong><br>▸ <a href="https://www.youtube.com/watch?v=uqFRx-dDO94" target="_blank" style="color:var(--accent-brown);">Luke 12:16-34 - Witness of the Rich Fool</a><br>▸ <a href="https://www.youtube.com/watch?v=WNkjBOif58c" target="_blank" style="color:var(--accent-brown);">Meet a Blind Man with 5 Eyes | The Parable of the Rich Fool</a></div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>The Pharisee & Tax Collector</h3>
-                <div class="greek">Luke 18:9-14</div>
-                <div class="definition">Two men pray in the temple. The Pharisee thanks God he's not like "other men." The tax collector beats his chest and says: "God, be merciful to me, a sinner!" Jesus says the tax collector went home justified.</div>
-                <div class="scriptures"><strong>Main lesson:</strong> God opposes the proud but gives grace to the humble. True prayer is honest, desperate dependence on God's mercy — not self-congratulation before Him.<br><br><strong>💭 Reflect:</strong><br>▸ When you pray, do you sound more like the Pharisee or the tax collector? Where does spiritual pride sneak into your life?</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>The Ten Virgins</h3>
-                <div class="greek">Matthew 25:1-13</div>
-                <div class="definition">Ten virgins wait for the bridegroom. Five are wise (with extra oil) and five are foolish (unprepared). When the groom arrives at midnight, the foolish have no oil and are shut out of the feast.</div>
-                <div class="scriptures"><strong>Main lesson:</strong> Be spiritually prepared for Christ's return at all times. You cannot borrow another person's readiness. The time to prepare is now — before the door closes.<br><br><strong>💭 Reflect:</strong><br>▸ If Jesus returned tonight, would you be ready? What does "keeping oil in your lamp" look like practically?<br><br><strong style="font-size:0.8rem;color:#2c6b4f;">🎬 Videos:</strong><br>▸ <a href="https://www.youtube.com/watch?v=ZOYKA1DchqM" target="_blank" style="color:var(--accent-brown);">The Parable of the Ten Virgins Explained</a></div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>The Unforgiving Servant</h3>
-                <div class="greek">Matthew 18:21-35</div>
-                <div class="definition">A king forgives a servant an impossibly large debt (10,000 talents). That servant then finds a fellow servant who owes him a tiny amount and has him thrown in prison. The king is furious and revokes his forgiveness.</div>
-                <div class="scriptures"><strong>Main lesson:</strong> Those who have been forgiven an infinite debt by God must extend forgiveness to others. Refusing to forgive reveals that we haven't truly grasped the magnitude of our own forgiveness.<br><br><strong>💭 Reflect:</strong><br>▸ Is there someone you're withholding forgiveness from? How does the size of your debt to God compare to what they owe you?</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>The Pearl of Great Price</h3>
-                <div class="greek">Matthew 13:45-46</div>
-                <div class="definition">A merchant searching for fine pearls finds one of extraordinary value. He sells everything he has to buy that single pearl. The kingdom of heaven is worth total surrender — and the one who finds it counts the cost as nothing.</div>
-                <div class="scriptures"><strong>Main lesson:</strong> The kingdom of God is of such surpassing worth that everything else pales in comparison. Following Christ is not sacrifice — it's the wisest trade you'll ever make.<br><br><strong>💭 Reflect:</strong><br>▸ What are you holding onto that you'd need to "sell" to fully pursue Christ? Is there anything you value more than the kingdom?</div>
-            </div>
-        </div>
 
         <div class="section-block">
             <h2>Video Resources</h2>

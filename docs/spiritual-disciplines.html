@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="site/style.css">
     <style>
         .topic-hero {
-            background: linear-gradient(135deg, #f5ebe0 0%, #faf3e0 100%);
-            border: 1px solid var(--border-light);
+            background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1200&q=80") center/cover no-repeat;
+            border: none;
             border-radius: var(--radius-lg);
             padding: 36px;
             text-align: center;
@@ -18,6 +18,8 @@
             box-shadow: var(--shadow-sm);
         }
         .topic-hero h1 {
+            color: #fff;
+            text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
             font-family: 'Cinzel', serif;
             font-size: 2.2rem;
             color: #3d6b3d;
@@ -27,7 +29,7 @@
             font-family: 'Merriweather', serif;
             font-size: 1.05rem;
             font-style: italic;
-            color: var(--text-secondary);
+            color: #f0e4d4;
             max-width: 700px;
             margin: 16px auto 8px;
             line-height: 1.8;
@@ -36,7 +38,7 @@
             font-family: 'Inter', sans-serif;
             font-size: 0.85rem;
             font-weight: 600;
-            color: #3d6b3d;
+            color: #f0c865;
         }
         .fruit-grid {
             display: grid;
@@ -46,7 +48,7 @@
         }
         .fruit-card {
             background: var(--bg-card);
-            border: 1px solid var(--border-light);
+            border: none;
             border-radius: var(--radius-lg);
             padding: 24px;
             box-shadow: var(--shadow-sm);
@@ -85,7 +87,7 @@
         }
         .section-block {
             background: var(--bg-card);
-            border: 1px solid var(--border-light);
+            border: none;
             border-radius: var(--radius-lg);
             padding: 28px 32px;
             box-shadow: var(--shadow-sm);
@@ -119,14 +121,6 @@
         }
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: none; border: 1px solid var(--border-light); border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: var(--text-secondary); cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 220px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #8b3a2a; }
 </style>
-
-    <style>
-        .page-hero { position: relative; width: 100%; height: 220px; overflow: hidden; display: flex; align-items: center; justify-content: center; margin-bottom: 24px; border-radius: var(--radius-lg); }
-        .page-hero img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.4); }
-        .page-hero-overlay { position: relative; z-index: 1; text-align: center; padding: 20px 24px; max-width: 700px; }
-        .page-hero-overlay p { font-family: "Cormorant Garamond", serif; font-size: 1.1rem; color: #f0c865; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.7); line-height: 1.8; }
-        @media (max-width: 768px) { .page-hero { height: 180px; border-radius: 0; } .page-hero-overlay p { font-size: 0.95rem; } }
-    </style>
 </head>
 <body>
     <nav class="top-nav">
@@ -139,77 +133,6 @@
     <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
 
     <main class="main-content" style="margin-left:0; max-width:960px; margin-left:auto; margin-right:auto;">
-
-        <div class="page-hero">
-            <img src="https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=1200&q=80" alt="Spiritual Disciplines">
-            <div class="page-hero-overlay">
-                <p>Train yourself for godliness — 1 Timothy 4:7</p>
-            </div>
-        </div>
-
-        <div class="topic-hero">
-            <h1>Spiritual Disciplines</h1>
-            <p class="key-passage">"Rather train yourself for godliness; for while bodily training is of some value, godliness is of value in every way, as it holds promise for the present life and also for the life to come."</p>
-            <span class="ref">— 1 Timothy 4:7-8 (ESV)</span>
-        </div>
-
-        <div class="fruit-grid">
-            <div class="fruit-card">
-                <h3>1. Prayer</h3>
-                <div class="greek">Communicating with God — listening and speaking</div>
-                <div class="definition"><strong style="color:#8b3a2a;">What it is:</strong> Conversing with God — praise, confession, thanksgiving, and petition. Not merely reciting words but cultivating an ongoing awareness of God's presence and seeking His will in all things.</div>
-                <div class="scriptures"><strong style="color:#4a5a8a;">Biblical Basis:</strong><br>▸ Matthew 6:5-13<br>▸ Philippians 4:6-7<br>▸ 1 Thessalonians 5:17<br><br><strong style="color:#2c6b4f;">Practical:</strong> Set a daily time. Use the ACTS model (Adoration, Confession, Thanksgiving, Supplication). Keep a prayer journal.</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>2. Bible Study & Meditation</h3>
-                <div class="greek">Reading, studying, and meditating on God's Word</div>
-                <div class="definition"><strong style="color:#8b3a2a;">What it is:</strong> Intentionally engaging with Scripture — reading for comprehension, studying for depth, and meditating for transformation. Not just information gathering but allowing God's Word to shape your thinking and actions.</div>
-                <div class="scriptures"><strong style="color:#4a5a8a;">Biblical Basis:</strong><br>▸ Psalm 1:1-3<br>▸ Joshua 1:8<br>▸ 2 Timothy 3:16-17<br><br><strong style="color:#2c6b4f;">Practical:</strong> Read daily with a plan. Study with cross-references and context. Meditate by slowly reflecting on a passage throughout the day.</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>3. Fasting</h3>
-                <div class="greek">Voluntarily abstaining to focus on God</div>
-                <div class="definition"><strong style="color:#8b3a2a;">What it is:</strong> Deliberately setting aside food (or other things) for a period to devote that time and attention to prayer and seeking God. It declares that God is more necessary than physical sustenance.</div>
-                <div class="scriptures"><strong style="color:#4a5a8a;">Biblical Basis:</strong><br>▸ Matthew 6:16-18<br>▸ Isaiah 58:6-7<br>▸ Acts 13:2-3<br><br><strong style="color:#2c6b4f;">Practical:</strong> Start with one meal. Spend that time in prayer. Fast with purpose — a specific request or seeking guidance. Stay hydrated.</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>4. Worship</h3>
-                <div class="greek">Ascribing worth to God in all of life</div>
-                <div class="definition"><strong style="color:#8b3a2a;">What it is:</strong> More than singing — worship is a lifestyle of honoring God as supreme. Corporate worship gathers believers to praise together; personal worship acknowledges God's worth in everyday moments.</div>
-                <div class="scriptures"><strong style="color:#4a5a8a;">Biblical Basis:</strong><br>▸ Romans 12:1<br>▸ John 4:23-24<br>▸ Psalm 95:1-7<br><br><strong style="color:#2c6b4f;">Practical:</strong> Engage fully in corporate worship. Practice gratitude throughout the day. Offer your work, relationships, and choices as worship to God.</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>5. Fellowship</h3>
-                <div class="greek">Life together in Christian community</div>
-                <div class="definition"><strong style="color:#8b3a2a;">What it is:</strong> Sharing life with other believers — encouragement, accountability, bearing burdens, and spurring one another toward Christ. Not optional socializing but essential mutual edification.</div>
-                <div class="scriptures"><strong style="color:#4a5a8a;">Biblical Basis:</strong><br>▸ Hebrews 10:24-25<br>▸ Acts 2:42-47<br>▸ Galatians 6:2<br><br><strong style="color:#2c6b4f;">Practical:</strong> Join a small group or Bible study. Practice vulnerability and confession (James 5:16). Serve others regularly. Don't do faith alone.</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>6. Giving & Generosity</h3>
-                <div class="greek">Stewarding resources for God's Kingdom</div>
-                <div class="definition"><strong style="color:#8b3a2a;">What it is:</strong> Freely giving time, money, and resources in recognition that everything belongs to God. Generosity breaks the power of greed and cultivates trust in God's provision.</div>
-                <div class="scriptures"><strong style="color:#4a5a8a;">Biblical Basis:</strong><br>▸ 2 Corinthians 9:6-7<br>▸ Malachi 3:10<br>▸ Acts 20:35<br><br><strong style="color:#2c6b4f;">Practical:</strong> Tithe consistently. Give beyond the tithe sacrificially. Look for needs to meet. Give secretly when possible (Matthew 6:3-4).</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>7. Sabbath Rest</h3>
-                <div class="greek">Ceasing work to trust and delight in God</div>
-                <div class="definition"><strong style="color:#8b3a2a;">What it is:</strong> A regular rhythm of stopping work to remember that God sustains the world — not our effort. Rest is an act of faith, declaring that our identity is in God, not productivity.</div>
-                <div class="scriptures"><strong style="color:#4a5a8a;">Biblical Basis:</strong><br>▸ Genesis 2:2-3<br>▸ Exodus 20:8-11<br>▸ Mark 2:27<br>▸ Hebrews 4:9-11<br><br><strong style="color:#2c6b4f;">Practical:</strong> Set aside one day weekly for rest, worship, and delight. Unplug from work. Enjoy creation, family, and unhurried time with God.</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>8. Scripture Memory</h3>
-                <div class="greek">Hiding God's Word in your heart</div>
-                <div class="definition"><strong style="color:#8b3a2a;">What it is:</strong> Intentionally committing Bible verses to memory so that God's truth is accessible in every situation — for encouragement, guidance, resisting temptation, and sharing with others.</div>
-                <div class="scriptures"><strong style="color:#4a5a8a;">Biblical Basis:</strong><br>▸ Psalm 119:11<br>▸ Deuteronomy 6:6-7<br>▸ Colossians 3:16<br><br><strong style="color:#2c6b4f;">Practical:</strong> Start with one verse per week. Write it on a card. Review daily. Meditate on its meaning. Use it in prayer and conversation.</div>
-            </div>
-        </div>
 
     </main>
 

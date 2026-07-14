@@ -9,8 +9,8 @@
     <link rel="stylesheet" href="site/style.css">
     <style>
         .topic-hero {
-            background: linear-gradient(135deg, #f5ebe0 0%, #faf3e0 100%);
-            border: 1px solid var(--border-light);
+            background: linear-gradient(rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=80") center/cover no-repeat;
+            border: none;
             border-radius: var(--radius-lg);
             padding: 36px;
             text-align: center;
@@ -18,6 +18,8 @@
             box-shadow: var(--shadow-sm);
         }
         .topic-hero h1 {
+            color: #fff;
+            text-shadow: 2px 2px 8px rgba(0,0,0,0.7);
             font-family: 'Cinzel', serif;
             font-size: 2.2rem;
             color: #5c3d6e;
@@ -27,7 +29,7 @@
             font-family: 'Merriweather', serif;
             font-size: 1.05rem;
             font-style: italic;
-            color: var(--text-secondary);
+            color: #f0e4d4;
             max-width: 700px;
             margin: 16px auto 8px;
             line-height: 1.8;
@@ -36,7 +38,7 @@
             font-family: 'Inter', sans-serif;
             font-size: 0.85rem;
             font-weight: 600;
-            color: #5c3d6e;
+            color: #f0c865;
         }
         .fruit-grid {
             display: grid;
@@ -46,7 +48,7 @@
         }
         .fruit-card {
             background: var(--bg-card);
-            border: 1px solid var(--border-light);
+            border: none;
             border-radius: var(--radius-lg);
             padding: 24px;
             box-shadow: var(--shadow-sm);
@@ -85,7 +87,7 @@
         }
         .section-block {
             background: var(--bg-card);
-            border: 1px solid var(--border-light);
+            border: none;
             border-radius: var(--radius-lg);
             padding: 28px 32px;
             box-shadow: var(--shadow-sm);
@@ -119,14 +121,6 @@
         }
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: none; border: 1px solid var(--border-light); border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: var(--text-secondary); cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 220px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #8b3a2a; }
 </style>
-
-    <style>
-        .page-hero { position: relative; width: 100%; height: 220px; overflow: hidden; display: flex; align-items: center; justify-content: center; margin-bottom: 24px; border-radius: var(--radius-lg); }
-        .page-hero img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.4); }
-        .page-hero-overlay { position: relative; z-index: 1; text-align: center; padding: 20px 24px; max-width: 700px; }
-        .page-hero-overlay p { font-family: "Cormorant Garamond", serif; font-size: 1.1rem; color: #f0c865; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.7); line-height: 1.8; }
-        @media (max-width: 768px) { .page-hero { height: 180px; border-radius: 0; } .page-hero-overlay p { font-size: 0.95rem; } }
-    </style>
 </head>
 <body>
     <nav class="top-nav">
@@ -139,91 +133,6 @@
     <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
 
     <main class="main-content" style="margin-left:0; max-width:960px; margin-left:auto; margin-right:auto;">
-
-        <div class="page-hero">
-            <img src="https://images.unsplash.com/photo-1509316785289-025f5b846b35?w=1200&q=80" alt="Men Of The Bible">
-            <div class="page-hero-overlay">
-                <p>Be watchful, stand firm in the faith, act like men, be strong — 1 Corinthians 16:13</p>
-            </div>
-        </div>
-
-        <div class="topic-hero">
-            <h1>Men of the Bible</h1>
-            <p class="key-passage">"Now faith is the assurance of things hoped for, the conviction of things not seen. For by it the people of old received their commendation."</p>
-            <span class="ref">— Hebrews 11:1-2 (ESV)</span>
-        </div>
-
-        <div class="fruit-grid">
-            <div class="fruit-card">
-                <h3>1. Abraham</h3>
-                <div class="greek">Father of Faith — Genesis 12-25</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who He Was:</strong> A pagan from Ur of the Chaldees whom God called to leave everything and follow by faith. Became the father of the Jewish nation and the spiritual father of all who believe.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Offering Isaac on Mount Moriah (Genesis 22) — willing to sacrifice his only son of promise, trusting God could raise the dead.<br><br><strong style="color:#4a5a8a;">Strength:</strong> Faith — believed God against impossible odds (Romans 4:18-21).<br><br><strong style="color:#7a5c2e;">Weakness:</strong> Fear — lied about Sarah being his wife twice, endangering her to protect himself (Genesis 12:13; 20:2).<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> Faith is not the absence of doubt but obedience in spite of it. God's promises are worth waiting for.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Genesis 12:1-4<br>▸ Genesis 15:6<br>▸ Genesis 22:1-18<br>▸ Romans 4<br>▸ Hebrews 11:8-19</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>2. Moses</h3>
-                <div class="greek">Deliverer and Lawgiver — Exodus–Deuteronomy</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who He Was:</strong> Raised in Pharaoh's palace, fled to Midian as a murderer, called by God at the burning bush to deliver Israel from Egypt. Led the nation for 40 years in the wilderness.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Confronting Pharaoh and leading Israel through the Red Sea — trusting God's power against the mightiest empire on earth.<br><br><strong style="color:#4a5a8a;">Strength:</strong> Humility — "the meekest man on the face of the earth" (Numbers 12:3). Faithfulness as God's servant (Hebrews 3:5).<br><br><strong style="color:#7a5c2e;">Weakness:</strong> Anger — struck the rock in frustration instead of speaking to it, forfeiting entry to the Promised Land (Numbers 20:10-12).<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> God uses broken, reluctant people. Faithful endurance matters more than a perfect record.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Exodus 3:1-14<br>▸ Exodus 14:13-31<br>▸ Numbers 12:3<br>▸ Deuteronomy 34<br>▸ Hebrews 11:24-28</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>3. David</h3>
-                <div class="greek">Man After God's Own Heart — 1 Samuel 16 – 1 Kings 2</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who He Was:</strong> A shepherd boy anointed king, giant-slayer, warrior, poet, and ancestor of Christ. Israel's greatest king who unified the nation and established Jerusalem as capital.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Defeating Goliath as a youth with nothing but a sling and faith in God's name (1 Samuel 17).<br><br><strong style="color:#4a5a8a;">Strength:</strong> Worship — his Psalms reveal raw, honest devotion to God in every season of life. He pursued God's heart above all.<br><br><strong style="color:#7a5c2e;">Weakness:</strong> Lust and deception — committed adultery with Bathsheba and arranged Uriah's murder (2 Samuel 11).<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> Even great failures don't disqualify us from God's grace. True repentance restores fellowship (Psalm 51).</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ 1 Samuel 16:7<br>▸ 1 Samuel 17<br>▸ 2 Samuel 11-12<br>▸ Psalm 51<br>▸ Acts 13:22</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>4. Joseph</h3>
-                <div class="greek">From Pit to Palace — Genesis 37-50</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who He Was:</strong> Jacob's favored son, sold into slavery by his jealous brothers, falsely imprisoned in Egypt, yet rose to become second-in-command of the most powerful nation on earth.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Revealing himself to his brothers and forgiving them: "You meant it for evil, but God meant it for good" (Genesis 50:20).<br><br><strong style="color:#4a5a8a;">Strength:</strong> Integrity — resisted Potiphar's wife, served faithfully in prison, never grew bitter despite injustice.<br><br><strong style="color:#7a5c2e;">Weakness:</strong> Youthful pride — flaunted his dreams before his brothers, provoking their hatred (Genesis 37:5-11).<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> God is sovereign over suffering. He can use betrayal, injustice, and delay to position us for His purposes.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Genesis 37:5-11<br>▸ Genesis 39:2-6<br>▸ Genesis 45:4-8<br>▸ Genesis 50:20<br>▸ Hebrews 11:22</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>5. Daniel</h3>
-                <div class="greek">Faithful in Exile — Daniel 1-12</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who He Was:</strong> A young Jewish noble taken captive to Babylon, who served with excellence under multiple pagan empires while never compromising his faith. Prophet and statesman.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Thrown into the lions' den for refusing to stop praying to God — and delivered by an angel (Daniel 6).<br><br><strong style="color:#4a5a8a;">Strength:</strong> Unwavering conviction — "purposed in his heart" not to defile himself (Daniel 1:8). Maintained integrity for 70+ years.<br><br><strong style="color:#7a5c2e;">Weakness:</strong> Scripture records no failure of Daniel — one of very few biblical figures described without a recorded sin.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> Faithfulness in a hostile culture is possible. Consistency in private devotion sustains public courage.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Daniel 1:8<br>▸ Daniel 2:20-23<br>▸ Daniel 3 (friends)<br>▸ Daniel 6:10<br>▸ Daniel 9:1-19</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>6. Elijah</h3>
-                <div class="greek">Prophet of Fire — 1 Kings 17-19; 2 Kings 2</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who He Was:</strong> Israel's boldest prophet who stood alone against 850 prophets of Baal and Asherah on Mount Carmel. Called fire from heaven and outran a chariot.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> The contest on Mount Carmel — challenging false prophets, rebuilding the altar, and God sending fire from heaven (1 Kings 18:36-39).<br><br><strong style="color:#4a5a8a;">Strength:</strong> Boldness — confronted kings, challenged idolatry, and stood alone when all of Israel had turned away.<br><br><strong style="color:#7a5c2e;">Weakness:</strong> Fear and depression — after his greatest victory, fled from Jezebel's threat and asked God to take his life (1 Kings 19:3-4).<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> Even spiritual giants are human. God meets us in our lowest moments with gentle provision, not condemnation.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ 1 Kings 17:1<br>▸ 1 Kings 18:20-40<br>▸ 1 Kings 19:1-18<br>▸ 2 Kings 2:11<br>▸ James 5:17</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>7. Paul</h3>
-                <div class="greek">Apostle to the Gentiles — Acts 9-28; Epistles</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who He Was:</strong> A Pharisee and persecutor of Christians, dramatically converted on the road to Damascus. Became the greatest missionary and theologian of the early church, writing 13 New Testament letters.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> His conversion on the Damascus road (Acts 9) — from zealous persecutor to passionate proclaimer of the gospel he once tried to destroy.<br><br><strong style="color:#4a5a8a;">Strength:</strong> Tenacity — beaten, shipwrecked, stoned, imprisoned, yet said "I have fought the good fight" (2 Timothy 4:7). Relentless in mission.<br><br><strong style="color:#7a5c2e;">Weakness:</strong> His past — never forgot that he was "the chief of sinners" (1 Timothy 1:15) who had approved of Stephen's murder and ravaged the church.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> No one is beyond God's reach. The worst sinner can become the greatest instrument of grace.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Acts 9:1-22<br>▸ Philippians 3:4-11<br>▸ 2 Corinthians 11:23-28<br>▸ 2 Timothy 4:6-8<br>▸ 1 Timothy 1:15-16</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>8. Peter</h3>
-                <div class="greek">The Rock — Matthew, Acts 1-12, 1-2 Peter</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who He Was:</strong> A brash fisherman who became Jesus' most prominent disciple. First to confess Christ, first to preach at Pentecost, leader of the early Jerusalem church.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> His confession "You are the Christ, the Son of the living God" (Matthew 16:16) — the foundation on which Christ builds His church.<br><br><strong style="color:#4a5a8a;">Strength:</strong> Boldness — willing to step out of the boat, draw a sword in the garden, and preach to thousands at Pentecost.<br><br><strong style="color:#7a5c2e;">Weakness:</strong> Impulsiveness and fear — denied Jesus three times on the night of His arrest (Luke 22:54-62).<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> Jesus restores those who fail. Peter's denial was not the end — his restoration (John 21) shows that our worst moment doesn't define us.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Matthew 16:13-19<br>▸ Luke 22:54-62<br>▸ John 21:15-19<br>▸ Acts 2:14-41<br>▸ 1 Peter 5:1-4</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>9. Joshua</h3>
-                <div class="greek">Faithful Successor — Joshua 1-24</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who He Was:</strong> Moses' assistant for 40 years, one of only two faithful spies (with Caleb), chosen by God to lead Israel into the Promised Land after Moses' death.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Leading Israel across the Jordan and conquering Jericho by faith — not by military might but by obedience to God's unusual battle plan (Joshua 6).<br><br><strong style="color:#4a5a8a;">Strength:</strong> Courage and obedience — "Be strong and courageous" was God's repeated charge, and Joshua obeyed without deviation.<br><br><strong style="color:#7a5c2e;">Weakness:</strong> Failed to seek God's counsel with the Gibeonites, making a treaty based on deception (Joshua 9:14).<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> Faithful service in obscurity prepares us for public leadership. Obedience to God's word, even when it seems illogical, leads to victory.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Joshua 1:7-9<br>▸ Joshua 3:7-17<br>▸ Joshua 6:1-20<br>▸ Joshua 24:15<br>▸ Numbers 14:6-9</div>
-            </div>
-
-            <div class="fruit-card">
-                <h3>10. Gideon</h3>
-                <div class="greek">Unlikely Warrior — Judges 6-8</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who He Was:</strong> The least member of the weakest clan in Manasseh, threshing wheat in a winepress for fear of the Midianites. God called him "mighty warrior" before he'd done anything mighty.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Defeating 135,000 Midianites with just 300 men, torches, and trumpets — so that Israel could not boast in their own strength (Judges 7).<br><br><strong style="color:#4a5a8a;">Strength:</strong> Willingness — despite fear and doubt, he ultimately obeyed God and stepped into what God called him to be.<br><br><strong style="color:#7a5c2e;">Weakness:</strong> Fear and doubt — tested God repeatedly with the fleece (Judges 6:36-40) and later made an ephod that became an idol (Judges 8:27).<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> God doesn't call the qualified — He qualifies the called. He deliberately uses weakness so His power is displayed.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Judges 6:11-16<br>▸ Judges 6:36-40<br>▸ Judges 7:2-7<br>▸ Judges 7:19-22<br>▸ Hebrews 11:32</div>
-            </div>
-        </div>
 
     </main>
 
