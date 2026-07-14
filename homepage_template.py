@@ -20,8 +20,8 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
         .hero-overlay .hero-verse {{ font-family: "Cormorant Garamond", serif; font-size: 1.2rem; color: #f0c865; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.6); margin-bottom: 28px; }}
         .hero-overlay .welcome-text {{ font-family: "Cormorant Garamond", serif; font-size: 1.2rem; line-height: 2; color: #f5ebe0; font-style: italic; text-shadow: 1px 1px 6px rgba(0,0,0,0.7); }}
 
-        /* Prayer Section — bold and eye-catching */
-        .prayer-section {{ background: linear-gradient(135deg, #2a1f14 0%, #3d2b1f 50%, #2a1f14 100%); padding: 44px 32px; text-align: center; }}
+        /* Prayer Section — smooth gradient transition from hero */
+        .prayer-section {{ background: linear-gradient(180deg, #1a1410 0%, #2a1f14 15%, #3d2b1f 50%, #2a1f14 85%, #f5ebe0 100%); padding: 52px 32px 64px; text-align: center; }}
         .prayer-text {{ font-family: "Cormorant Garamond", serif; font-size: 1.3rem; line-height: 2.1; color: #f0e4d4; font-style: italic; max-width: 720px; margin: 0 auto; font-weight: 500; }}
         .prayer-label {{ font-family: "Cinzel", serif; font-size: 0.9rem; color: #c9a96e; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 16px; }}
 
@@ -102,7 +102,7 @@ HOMEPAGE_TEMPLATE = '''<!DOCTYPE html>
 
         <!-- Prayer Section — bold dark background -->
         <div class="prayer-section">
-            <p class="prayer-label">A Prayer for This Study</p>
+            <p class="prayer-label">A Prayer for You</p>
             <p class="prayer-text">Lord, we pray that this resource brings glory to Your name. Use it as a tool to draw hearts closer to You and to reveal Your plan and purpose for each person who visits these pages. May Your Word not return void, but accomplish everything You desire. Open eyes, soften hearts, and let the truth of Scripture transform lives for Your kingdom. In Jesus' name, Amen.</p>
         </div>
 
