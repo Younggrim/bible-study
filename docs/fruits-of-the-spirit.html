@@ -125,6 +125,14 @@
         .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; }
         .topic-dropdown-menu a:hover { background: #f5ebe0; color: #8b3a2a; }
     </style>
+
+    <style>
+        .page-hero { position: relative; width: 100%; height: 220px; overflow: hidden; display: flex; align-items: center; justify-content: center; margin-bottom: 24px; border-radius: var(--radius-lg); }
+        .page-hero img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.4); }
+        .page-hero-overlay { position: relative; z-index: 1; text-align: center; padding: 20px 24px; max-width: 700px; }
+        .page-hero-overlay p { font-family: "Cormorant Garamond", serif; font-size: 1.1rem; color: #f0c865; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.7); line-height: 1.8; }
+        @media (max-width: 768px) { .page-hero { height: 180px; border-radius: 0; } .page-hero-overlay p { font-size: 0.95rem; } }
+    </style>
 </head>
 <body>
     <nav class="top-nav">
@@ -158,6 +166,13 @@
     <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
 
     <main class="main-content" style="margin-left:0; max-width:960px; margin-left:auto; margin-right:auto;">
+
+        <div class="page-hero">
+            <img src="https://images.unsplash.com/photo-1464454709131-ffd692591ee5?w=1200&q=80" alt="Fruits Of The Spirit">
+            <div class="page-hero-overlay">
+                <p>But the fruit of the Spirit is love, joy, peace... — Galatians 5:22</p>
+            </div>
+        </div>
 
         <div class="topic-hero">
             <h1><i class="fas fa-seedling" style="margin-right:12px;color:#2c6b4f;"></i>Fruits of the Spirit<i class="fas fa-seedling" style="margin-left:12px;color:#2c6b4f;"></i></h1>

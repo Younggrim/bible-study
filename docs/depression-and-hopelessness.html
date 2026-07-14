@@ -23,6 +23,14 @@
         @media (max-width: 768px) { .topic-hero h1 { font-size: 1.6rem; } .topic-hero { padding: 24px 16px; } .section-block { padding: 20px 16px; } }
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: none; border: 1px solid var(--border-light); border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: var(--text-secondary); cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 240px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #2c5a6b; }
 </style>
+
+    <style>
+        .page-hero { position: relative; width: 100%; height: 220px; overflow: hidden; display: flex; align-items: center; justify-content: center; margin-bottom: 24px; border-radius: var(--radius-lg); }
+        .page-hero img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.4); }
+        .page-hero-overlay { position: relative; z-index: 1; text-align: center; padding: 20px 24px; max-width: 700px; }
+        .page-hero-overlay p { font-family: "Cormorant Garamond", serif; font-size: 1.1rem; color: #f0c865; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.7); line-height: 1.8; }
+        @media (max-width: 768px) { .page-hero { height: 180px; border-radius: 0; } .page-hero-overlay p { font-size: 0.95rem; } }
+    </style>
 </head>
 <body>
     <nav class="top-nav">
@@ -31,6 +39,13 @@
         <div class="nav-center"><div class="topic-dropdown"><button class="topic-dropdown-btn" onclick="toggleTopicDropdown()">What the Bible Says About... <i class="fas fa-chevron-down" style="font-size:0.7rem;margin-left:4px;"></i></button><div class="topic-dropdown-menu" id="topicDropdown"><a href="anger.html">Anger</a><a href="anxiety-and-fear.html">Anxiety &amp; Fear</a><a href="lust-and-sexual-sin.html">Lust &amp; Sexual Sin</a><a href="greed-and-materialism.html">Greed &amp; Materialism</a><a href="depression-and-hopelessness.html">Depression &amp; Hopelessness</a><a href="addiction.html">Addiction</a><a href="pride.html">Pride</a><a href="unforgiveness-and-bitterness.html">Unforgiveness &amp; Bitterness</a><a href="loneliness.html">Loneliness</a><a href="doubt-and-unbelief.html">Doubt &amp; Unbelief</a><a href="grief-and-loss.html">Grief &amp; Loss</a><a href="identity-and-self-worth.html">Identity &amp; Self-Worth</a><a href="temptation.html">Temptation</a><a href="suffering.html">Suffering</a></div></div></div>
     </nav>
     <main class="main-content" style="margin-left:0; max-width:960px; margin-left:auto; margin-right:auto;">
+        <div class="page-hero">
+            <img src="https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1200&q=80" alt="Depression And Hopelessness">
+            <div class="page-hero-overlay">
+                <p>Why are you cast down, O my soul? Hope in God — Psalm 42:11</p>
+            </div>
+        </div>
+
         <div class="topic-hero">
             <h1>What the Bible Says About Depression &amp; Hopelessness</h1>
             <p class="key-passage">"The LORD is near to the brokenhearted and saves the crushed in spirit."</p>
