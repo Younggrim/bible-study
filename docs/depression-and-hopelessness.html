@@ -10,15 +10,15 @@
     <style>
         .topic-hero { background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://images.unsplash.com/photo-1495616811223-4d98c6e9c869?w=1200&q=80") center/cover no-repeat; border: none; border-radius: var(--radius-lg); padding: 36px; text-align: center; margin-bottom: 32px; box-shadow: var(--shadow-sm); }
         .topic-hero h1 { font-family: 'Cinzel', serif; font-size: 2.2rem; color: #fff; text-shadow: 2px 2px 8px rgba(0,0,0,0.7); margin-bottom: 8px; }
-        .topic-hero .key-passage { font-family: 'Merriweather', serif; font-size: 1.05rem; font-style: italic; color: #f0e4d4; max-width: 700px; margin: 16px auto 8px; line-height: 1.8; }
+        .topic-hero .key-passage { font-family: 'Merriweather', serif; font-size: 1.05rem; font-style: italic; color: #3d342e; max-width: 700px; margin: 16px auto 8px; line-height: 1.8; }
         .topic-hero .ref { font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: #f0c865; }
         .section-block { background: var(--bg-card); border: 1px solid var(--border-light); border-radius: var(--radius-lg); padding: 28px 32px; box-shadow: var(--shadow-sm); margin-bottom: 24px; }
         .section-block h2 { font-family: 'Cinzel', serif; font-size: 1.2rem; color: var(--accent-brown); margin-bottom: 16px; }
         .verse-item { margin-bottom: 16px; padding-bottom: 16px; border-bottom: 1px solid #e8e0d6; }
         .verse-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
         .verse-item .ref { font-weight: 700; color: #2c5a6b; font-size: 0.9rem; }
-        .verse-item .text { font-size: 0.9rem; color: #f0e4d4; line-height: 1.7; margin-top: 4px; font-style: italic; }
-        .practical-item { font-size: 0.9rem; color: #f0e4d4; line-height: 1.7; margin-bottom: 8px; padding-left: 20px; position: relative; }
+        .verse-item .text { font-size: 0.9rem; color: #3d342e; line-height: 1.7; margin-top: 4px; font-style: italic; }
+        .practical-item { font-size: 0.9rem; color: #3d342e; line-height: 1.7; margin-bottom: 8px; padding-left: 20px; position: relative; }
         .practical-item::before { content: "\25B8"; position: absolute; left: 0; color: #2c5a6b; }
         @media (max-width: 768px) { .topic-hero h1 { font-size: 1.6rem; } .topic-hero { padding: 24px 16px; } .section-block { padding: 20px 16px; } }
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: rgba(255,255,255,0.9); border: 1px solid #2c5a6b; border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: #3d2b1f; cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 240px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #2c5a6b; }
@@ -49,12 +49,12 @@
         </div>
         <div class="section-block">
             <h2>Key Scriptures</h2>
-            <div class="verse-item"><span class="ref">Psalm 42:11</span><p class="text">"Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God; for I shall again praise him, my salvation and my God."</p></div>
-            <div class="verse-item"><span class="ref">Isaiah 40:31</span><p class="text">"But they who wait for the LORD shall renew their strength; they shall mount up with wings like eagles."</p></div>
-            <div class="verse-item"><span class="ref">Romans 15:13</span><p class="text">"May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope."</p></div>
-            <div class="verse-item"><span class="ref">Psalm 147:3</span><p class="text">"He heals the brokenhearted and binds up their wounds."</p></div>
+            <div class="verse-item"><span class="ref verse-ref" onclick="showVerse('Psalm 42:11')" style="cursor:pointer;">Psalm 42:11</span><p class="text">"Why are you cast down, O my soul, and why are you in turmoil within me? Hope in God; for I shall again praise him, my salvation and my God."</p></div>
+            <div class="verse-item"><span class="ref verse-ref" onclick="showVerse('Isaiah 40:31')" style="cursor:pointer;">Isaiah 40:31</span><p class="text">"But they who wait for the LORD shall renew their strength; they shall mount up with wings like eagles."</p></div>
+            <div class="verse-item"><span class="ref verse-ref" onclick="showVerse('Romans 15:13')" style="cursor:pointer;">Romans 15:13</span><p class="text">"May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope."</p></div>
+            <div class="verse-item"><span class="ref verse-ref" onclick="showVerse('Psalm 147:3')" style="cursor:pointer;">Psalm 147:3</span><p class="text">"He heals the brokenhearted and binds up their wounds."</p></div>
             <div class="verse-item"><span class="ref">2 <span class="verse-ref" onclick="showVerse('Corinthians 4:8-9')">Corinthians 4:8-9</span></span><p class="text">"We are afflicted in every way, but not crushed; perplexed, but not driven to despair; persecuted, but not forsaken; struck down, but not destroyed."</p></div>
-            <div class="verse-item"><span class="ref">Lamentations 3:22-23</span><p class="text">"The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness."</p></div>
+            <div class="verse-item"><span class="ref verse-ref" onclick="showVerse('Lamentations 3:22-23')" style="cursor:pointer;">Lamentations 3:22-23</span><p class="text">"The steadfast love of the LORD never ceases; his mercies never come to an end; they are new every morning; great is your faithfulness."</p></div>
         </div>
         <div class="section-block">
             <h2>What Scripture Teaches</h2>
