@@ -22,7 +22,19 @@
         .practical-item::before { content: "\25B8"; position: absolute; left: 0; color: #2c5a6b; }
         @media (max-width: 768px) { .topic-hero h1 { font-size: 1.6rem; } .topic-hero { padding: 24px 16px; } .section-block { padding: 20px 16px; } }
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: rgba(255,255,255,0.9); border: 1px solid #2c5a6b; border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: #3d2b1f; cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 240px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #2c5a6b; }
-</style>
+
+        /* Verse Popup */
+        .verse-ref { color: #8b3a2a; cursor: pointer; text-decoration: underline; text-decoration-style: dotted; font-weight: 600; }
+        .verse-ref:hover { color: #2c6b4f; }
+        .verse-popup-overlay { display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.4); z-index:9998; }
+        .verse-popup-overlay.show { display:block; }
+        .verse-popup { display:none; position:fixed; top:50%; left:50%; transform:translate(-50%,-50%); background:#fff; border-radius:12px; padding:24px 28px; max-width:500px; width:90%; max-height:70vh; overflow-y:auto; box-shadow:0 16px 48px rgba(0,0,0,0.2); z-index:9999; }
+        .verse-popup.show { display:block; }
+        .verse-popup .popup-ref { font-family:'Cinzel',serif; font-size:1rem; color:#8b3a2a; margin-bottom:12px; font-weight:700; }
+        .verse-popup .popup-text { font-family:'Merriweather',serif; font-size:0.92rem; line-height:1.9; color:#3d2b1f; }
+        .verse-popup .popup-close { position:absolute; top:12px; right:16px; background:none; border:none; font-size:1.3rem; cursor:pointer; color:#8a7e74; }
+        .verse-popup .popup-loading { font-size:0.85rem; color:#8a7e74; font-style:italic; }
+    </style>
 </head>
 <body>
     <nav class="top-nav">
@@ -34,14 +46,14 @@
         <div class="topic-hero">
             <h1>What the Bible Says About Addiction</h1>
             <p class="key-passage">"So if the Son sets you free, you will be free indeed."</p>
-            <span class="ref">— John 8:36 (ESV)</span>
+            <span class="ref">— <span class="verse-ref" onclick="showVerse('John 8:36')">John 8:36</span> (ESV)</span>
         </div>
         <div class="section-block">
             <h2>Key Scriptures</h2>
             <div class="verse-item"><span class="ref">Romans 6:14</span><p class="text">"For sin will have no dominion over you, since you are not under law but under grace."</p></div>
-            <div class="verse-item"><span class="ref">1 Corinthians 6:12</span><p class="text">"All things are lawful for me, but not all things are helpful. I will not be dominated by anything."</p></div>
+            <div class="verse-item"><span class="ref">1 <span class="verse-ref" onclick="showVerse('Corinthians 6:12')">Corinthians 6:12</span></span><p class="text">"All things are lawful for me, but not all things are helpful. I will not be dominated by anything."</p></div>
             <div class="verse-item"><span class="ref">Galatians 5:1</span><p class="text">"For freedom Christ has set us free; stand firm therefore, and do not submit again to a yoke of slavery."</p></div>
-            <div class="verse-item"><span class="ref">2 Peter 2:19</span><p class="text">"For whatever overcomes a person, to that he is enslaved."</p></div>
+            <div class="verse-item"><span class="ref">2 <span class="verse-ref" onclick="showVerse('Peter 2:19')">Peter 2:19</span></span><p class="text">"For whatever overcomes a person, to that he is enslaved."</p></div>
             <div class="verse-item"><span class="ref">Romans 8:2</span><p class="text">"For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death."</p></div>
             <div class="verse-item"><span class="ref">Philippians 4:13</span><p class="text">"I can do all things through him who strengthens me."</p></div>
         </div>
@@ -59,5 +71,41 @@
     </main>
     <script src="site/script.js"></script>
 <script>function toggleTopicDropdown(){document.getElementById("topicDropdown").classList.toggle("open")}document.addEventListener("click",function(e){if(!e.target.closest(".topic-dropdown")){document.getElementById("topicDropdown").classList.remove("open")}});</script>
+
+    <!-- Verse Popup Elements -->
+    <div class="verse-popup-overlay" id="verseOverlay" onclick="closeVerse()"></div>
+    <div class="verse-popup" id="versePopup">
+        <button class="popup-close" onclick="closeVerse()">&times;</button>
+        <div class="popup-ref" id="popupRef"></div>
+        <div class="popup-text" id="popupText"></div>
+    </div>
+    <script>
+    function showVerse(passage) {
+        var overlay = document.getElementById('verseOverlay');
+        var popup = document.getElementById('versePopup');
+        var refEl = document.getElementById('popupRef');
+        var textEl = document.getElementById('popupText');
+        refEl.textContent = passage;
+        textEl.innerHTML = '<span class="popup-loading">Loading verse...</span>';
+        overlay.classList.add('show');
+        popup.classList.add('show');
+        fetch('https://esv-proxy.cloudflare-dust598.workers.dev/?q=' + encodeURIComponent(passage))
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+            if (data.passages && data.passages[0]) {
+                textEl.innerHTML = data.passages[0];
+            } else {
+                textEl.innerHTML = '<em>Could not load this passage.</em>';
+            }
+        })
+        .catch(function() {
+            textEl.innerHTML = '<em>Unable to fetch verse. Try again later.</em>';
+        });
+    }
+    function closeVerse() {
+        document.getElementById('verseOverlay').classList.remove('show');
+        document.getElementById('versePopup').classList.remove('show');
+    }
+    </script>
 </body>
 </html>

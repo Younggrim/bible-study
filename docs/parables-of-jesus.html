@@ -120,7 +120,19 @@
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: none; border: 1px solid var(--border-light); border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: #3d342e; cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 220px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #8b3a2a; }
         .video-collapse.open { display:flex !important; }
         .chevron.rotated { transform: rotate(180deg); }
-</style></head>
+
+        /* Verse Popup */
+        .verse-ref { color: #8b3a2a; cursor: pointer; text-decoration: underline; text-decoration-style: dotted; font-weight: 600; }
+        .verse-ref:hover { color: #2c6b4f; }
+        .verse-popup-overlay { display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.4); z-index:9998; }
+        .verse-popup-overlay.show { display:block; }
+        .verse-popup { display:none; position:fixed; top:50%; left:50%; transform:translate(-50%,-50%); background:#fff; border-radius:12px; padding:24px 28px; max-width:500px; width:90%; max-height:70vh; overflow-y:auto; box-shadow:0 16px 48px rgba(0,0,0,0.2); z-index:9999; }
+        .verse-popup.show { display:block; }
+        .verse-popup .popup-ref { font-family:'Cinzel',serif; font-size:1rem; color:#8b3a2a; margin-bottom:12px; font-weight:700; }
+        .verse-popup .popup-text { font-family:'Merriweather',serif; font-size:0.92rem; line-height:1.9; color:#3d2b1f; }
+        .verse-popup .popup-close { position:absolute; top:12px; right:16px; background:none; border:none; font-size:1.3rem; cursor:pointer; color:#8a7e74; }
+        .verse-popup .popup-loading { font-size:0.85rem; color:#8a7e74; font-style:italic; }
+    </style></head>
 <body>
     <nav class="top-nav">
         <a href="index.html" class="nav-home-btn" style="display:none;padding:6px 10px;color:#8b3a2a;font-size:1.1rem;text-decoration:none;"><i class="fas fa-home"></i></a>
@@ -135,13 +147,13 @@
         <div class="topic-hero">
             <h1>Parables of Jesus</h1>
             <p class="key-passage">"All these things Jesus said to the crowds in parables; indeed, he said nothing to them without a parable."</p>
-            <span class="ref">— Matthew 13:34 (ESV)</span>
+            <span class="ref">— <span class="verse-ref" onclick="showVerse('Matthew 13:34')">Matthew 13:34</span> (ESV)</span>
         </div>
 
         <div class="fruit-grid">
             <div class="fruit-card">
                 <h3>The Sower</h3>
-                <div class="greek">Matthew 13:1-23 • Mark 4:1-20 • Luke 8:4-15</div>
+                <div class="greek">Matthew 13:1-23 • <span class="verse-ref" onclick="showVerse('Mark 4:1-20')">Mark 4:1-20</span> • <span class="verse-ref" onclick="showVerse('Luke 8:4-15')">Luke 8:4-15</span></div>
                 <div class="definition">A farmer scatters seed on four types of soil: the path (hard), rocky ground (shallow), thorns (choked), and good soil (fruitful). The seed is God's Word; the soils represent different heart conditions that receive it.</div>
                 <div class="scriptures"><strong>Main lesson:</strong> The same Word produces different results depending on the condition of the hearer's heart. Examine what kind of "soil" you are.<br><br><strong>💭 Reflect:</strong><br>▸ Which soil best describes your heart right now? What thorns might be choking the Word in your life?</div>
                 <div style="margin-top:14px;padding-top:14px;border-top:1px solid #e0d6c8;">
@@ -154,7 +166,7 @@
 
             <div class="fruit-card">
                 <h3>The Mustard Seed</h3>
-                <div class="greek">Matthew 13:31-32 • Mark 4:30-32 • Luke 13:18-19</div>
+                <div class="greek">Matthew 13:31-32 • <span class="verse-ref" onclick="showVerse('Mark 4:30-32')">Mark 4:30-32</span> • <span class="verse-ref" onclick="showVerse('Luke 13:18-19')">Luke 13:18-19</span></div>
                 <div class="definition">The kingdom of heaven is like a mustard seed — the smallest of seeds — that grows into the largest of garden plants, so birds come and nest in its branches. Tiny beginnings, extraordinary growth.</div>
                 <div class="scriptures"><strong>Main lesson:</strong> God's kingdom starts small and seemingly insignificant, but it grows beyond all expectation. Never despise small beginnings in faith.<br><br><strong>💭 Reflect:</strong><br>▸ Where in your life is God doing something small that you're tempted to dismiss? What "mustard seed" might He be growing?</div>
                 <div style="margin-top:14px;padding-top:14px;border-top:1px solid #e0d6c8;">
@@ -193,14 +205,14 @@
 
             <div class="fruit-card">
                 <h3>The Lost Sheep</h3>
-                <div class="greek">Matthew 18:12-14 • Luke 15:1-7</div>
+                <div class="greek">Matthew 18:12-14 • <span class="verse-ref" onclick="showVerse('Luke 15:1-7')">Luke 15:1-7</span></div>
                 <div class="definition">A shepherd with 100 sheep leaves the 99 to search for the one that is lost. When he finds it, he carries it home rejoicing and calls friends to celebrate. Heaven rejoices over one sinner who repents.</div>
                 <div class="scriptures"><strong>Main lesson:</strong> Every individual matters to God. He actively pursues the lost — not waiting passively, but seeking with relentless love until they are found.<br><br><strong>💭 Reflect:</strong><br>▸ Have you ever felt like the "one lost sheep"? How has God pursued you? Who might He be asking you to go after?</div>
             </div>
 
             <div class="fruit-card">
                 <h3>The Talents</h3>
-                <div class="greek">Matthew 25:14-30 • Luke 19:12-27</div>
+                <div class="greek">Matthew 25:14-30 • <span class="verse-ref" onclick="showVerse('Luke 19:12-27')">Luke 19:12-27</span></div>
                 <div class="definition">A master entrusts servants with talents (money): five, two, and one. The first two invest and double their master's money. The third buries his. The faithful are rewarded; the fearful servant is cast out.</div>
                 <div class="scriptures"><strong>Main lesson:</strong> God entrusts us with gifts, abilities, and opportunities — and expects faithful stewardship. Fear-based inaction is not humility; it's disobedience.<br><br><strong>💭 Reflect:</strong><br>▸ What has God entrusted to you that you might be "burying" out of fear? What would faithful investment look like?</div>
                 <div style="margin-top:14px;padding-top:14px;border-top:1px solid #e0d6c8;">
@@ -213,7 +225,7 @@
 
             <div class="fruit-card">
                 <h3>The Wedding Banquet</h3>
-                <div class="greek">Matthew 22:1-14 • Luke 14:15-24</div>
+                <div class="greek">Matthew 22:1-14 • <span class="verse-ref" onclick="showVerse('Luke 14:15-24')">Luke 14:15-24</span></div>
                 <div class="definition">A king prepares a wedding feast, but invited guests refuse to come — making excuses or even killing the messengers. The king then invites anyone from the streets. One guest arrives without proper wedding clothes and is cast out.</div>
                 <div class="scriptures"><strong>Main lesson:</strong> God's invitation to His kingdom is open to all, but it must be received on His terms. Casual presumption without genuine faith is not true acceptance.<br><br><strong>💭 Reflect:</strong><br>▸ Are you truly accepting God's invitation on His terms — or making excuses? What might you be prioritizing over His call?</div>
                 <div style="margin-top:14px;padding-top:14px;border-top:1px solid #e0d6c8;">
@@ -283,5 +295,41 @@
 
     <script src="site/script.js"></script>
 <script>function toggleTopicDropdown(){document.getElementById("topicDropdown").classList.toggle("open")}document.addEventListener("click",function(e){if(!e.target.closest(".topic-dropdown")){document.getElementById("topicDropdown").classList.remove("open")}});</script>
+
+    <!-- Verse Popup Elements -->
+    <div class="verse-popup-overlay" id="verseOverlay" onclick="closeVerse()"></div>
+    <div class="verse-popup" id="versePopup">
+        <button class="popup-close" onclick="closeVerse()">&times;</button>
+        <div class="popup-ref" id="popupRef"></div>
+        <div class="popup-text" id="popupText"></div>
+    </div>
+    <script>
+    function showVerse(passage) {
+        var overlay = document.getElementById('verseOverlay');
+        var popup = document.getElementById('versePopup');
+        var refEl = document.getElementById('popupRef');
+        var textEl = document.getElementById('popupText');
+        refEl.textContent = passage;
+        textEl.innerHTML = '<span class="popup-loading">Loading verse...</span>';
+        overlay.classList.add('show');
+        popup.classList.add('show');
+        fetch('https://esv-proxy.cloudflare-dust598.workers.dev/?q=' + encodeURIComponent(passage))
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+            if (data.passages && data.passages[0]) {
+                textEl.innerHTML = data.passages[0];
+            } else {
+                textEl.innerHTML = '<em>Could not load this passage.</em>';
+            }
+        })
+        .catch(function() {
+            textEl.innerHTML = '<em>Unable to fetch verse. Try again later.</em>';
+        });
+    }
+    function closeVerse() {
+        document.getElementById('verseOverlay').classList.remove('show');
+        document.getElementById('versePopup').classList.remove('show');
+    }
+    </script>
 </body>
 </html>

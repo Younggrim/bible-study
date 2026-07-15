@@ -118,7 +118,19 @@
             .topic-hero { padding: 24px 16px; }
         }
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: none; border: 1px solid var(--border-light); border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: #3d342e; cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 220px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #8b3a2a; }
-</style></head>
+
+        /* Verse Popup */
+        .verse-ref { color: #8b3a2a; cursor: pointer; text-decoration: underline; text-decoration-style: dotted; font-weight: 600; }
+        .verse-ref:hover { color: #2c6b4f; }
+        .verse-popup-overlay { display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.4); z-index:9998; }
+        .verse-popup-overlay.show { display:block; }
+        .verse-popup { display:none; position:fixed; top:50%; left:50%; transform:translate(-50%,-50%); background:#fff; border-radius:12px; padding:24px 28px; max-width:500px; width:90%; max-height:70vh; overflow-y:auto; box-shadow:0 16px 48px rgba(0,0,0,0.2); z-index:9999; }
+        .verse-popup.show { display:block; }
+        .verse-popup .popup-ref { font-family:'Cinzel',serif; font-size:1rem; color:#8b3a2a; margin-bottom:12px; font-weight:700; }
+        .verse-popup .popup-text { font-family:'Merriweather',serif; font-size:0.92rem; line-height:1.9; color:#3d2b1f; }
+        .verse-popup .popup-close { position:absolute; top:12px; right:16px; background:none; border:none; font-size:1.3rem; cursor:pointer; color:#8a7e74; }
+        .verse-popup .popup-loading { font-size:0.85rem; color:#8a7e74; font-style:italic; }
+    </style></head>
 <body>
     <nav class="top-nav">
         <a href="index.html" class="nav-home-btn" style="display:none;padding:6px 10px;color:#8b3a2a;font-size:1.1rem;text-decoration:none;"><i class="fas fa-home"></i></a>
@@ -133,92 +145,92 @@
         <div class="topic-hero">
             <h1>Names of God</h1>
             <p class="key-passage">"God said to Moses, 'I AM WHO I AM.' And he said, 'Say this to the people of Israel: I AM has sent me to you.'"</p>
-            <span class="ref">— Exodus 3:14 (ESV)</span>
+            <span class="ref">— <span class="verse-ref" onclick="showVerse('Exodus 3:14')">Exodus 3:14</span> (ESV)</span>
         </div>
 
         <div class="fruit-grid">
             <div class="fruit-card">
                 <h3>Elohim</h3>
                 <div class="greek">Hebrew: אֱלֹהִים — "God" (plural of majesty)</div>
-                <div class="definition">The first name for God in Scripture (Genesis 1:1). A plural noun used with singular verbs, hinting at the Trinity. Emphasizes God's power, might, and sovereignty as Creator of all things.</div>
-                <div class="scriptures"><strong>First used:</strong> ▸ Genesis 1:1<br><br><strong>Also:</strong><br>▸ Psalm 19:1<br>▸ Isaiah 45:18<br>▸ Deuteronomy 10:17</div>
+                <div class="definition">The first name for God in Scripture (<span class="verse-ref" onclick="showVerse('Genesis 1:1')">Genesis 1:1</span>). A plural noun used with singular verbs, hinting at the Trinity. Emphasizes God's power, might, and sovereignty as Creator of all things.</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ <span class="verse-ref" onclick="showVerse('Genesis 1:1')">Genesis 1:1</span><br><br><strong>Also:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 19:1')">Psalm 19:1</span><br>▸ <span class="verse-ref" onclick="showVerse('Isaiah 45:18')">Isaiah 45:18</span><br>▸ <span class="verse-ref" onclick="showVerse('Deuteronomy 10:17')">Deuteronomy 10:17</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>Yahweh (YHWH)</h3>
                 <div class="greek">Hebrew: יהוה — "I AM" / "The LORD"</div>
                 <div class="definition">God's personal, covenant name — the most sacred name in Hebrew Scripture. Rendered as "LORD" (all caps) in most translations. Reveals God as self-existent, eternal, and relationally present with His people.</div>
-                <div class="scriptures"><strong>First used:</strong> ▸ Genesis 2:4<br><br><strong>Also:</strong><br>▸ Exodus 3:14-15<br>▸ Psalm 103:1<br>▸ Isaiah 42:8</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ <span class="verse-ref" onclick="showVerse('Genesis 2:4')">Genesis 2:4</span><br><br><strong>Also:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Exodus 3:14-15')">Exodus 3:14-15</span><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 103:1')">Psalm 103:1</span><br>▸ <span class="verse-ref" onclick="showVerse('Isaiah 42:8')">Isaiah 42:8</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>Adonai</h3>
                 <div class="greek">Hebrew: אֲדֹנָי — "Lord" / "Master"</div>
                 <div class="definition">Expresses God's lordship, authority, and ownership. Used when addressing God as sovereign ruler. The Jews often substituted Adonai when reading YHWH aloud out of reverence for God's sacred name.</div>
-                <div class="scriptures"><strong>First used:</strong> ▸ Genesis 15:2<br><br><strong>Also:</strong><br>▸ Psalm 8:1<br>▸ Isaiah 6:1<br>▸ Malachi 1:6</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ <span class="verse-ref" onclick="showVerse('Genesis 15:2')">Genesis 15:2</span><br><br><strong>Also:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 8:1')">Psalm 8:1</span><br>▸ <span class="verse-ref" onclick="showVerse('Isaiah 6:1')">Isaiah 6:1</span><br>▸ <span class="verse-ref" onclick="showVerse('Malachi 1:6')">Malachi 1:6</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>El Shaddai</h3>
                 <div class="greek">Hebrew: אֵל שַׁדַּי — "God Almighty"</div>
                 <div class="definition">Emphasizes God's absolute power and sufficiency. The name God used when making covenant promises to Abraham. Shaddai may derive from "mountain" (immovable strength) or "breast" (nourishing sufficiency).</div>
-                <div class="scriptures"><strong>First used:</strong> ▸ Genesis 17:1<br><br><strong>Also:</strong><br>▸ Genesis 28:3<br>▸ Exodus 6:3<br>▸ Ruth 1:20-21</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ <span class="verse-ref" onclick="showVerse('Genesis 17:1')">Genesis 17:1</span><br><br><strong>Also:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Genesis 28:3')">Genesis 28:3</span><br>▸ <span class="verse-ref" onclick="showVerse('Exodus 6:3')">Exodus 6:3</span><br>▸ <span class="verse-ref" onclick="showVerse('Ruth 1:20-21')">Ruth 1:20-21</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>El Elyon</h3>
                 <div class="greek">Hebrew: אֵל עֶלְיוֹן — "God Most High"</div>
                 <div class="definition">Declares God's supreme position above all other powers, authorities, and so-called gods. First used by Melchizedek, priest of Salem. Affirms that nothing in heaven or earth is above Him.</div>
-                <div class="scriptures"><strong>First used:</strong> ▸ Genesis 14:18-20<br><br><strong>Also:</strong><br>▸ Psalm 91:1<br>▸ Daniel 4:34<br>▸ Psalm 7:17</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ <span class="verse-ref" onclick="showVerse('Genesis 14:18-20')">Genesis 14:18-20</span><br><br><strong>Also:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 91:1')">Psalm 91:1</span><br>▸ <span class="verse-ref" onclick="showVerse('Daniel 4:34')">Daniel 4:34</span><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 7:17')">Psalm 7:17</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>Jehovah Jireh</h3>
                 <div class="greek">Hebrew: יהוה יִרְאֶה — "The LORD Will Provide"</div>
                 <div class="definition">Named by Abraham at Mount Moriah after God provided a ram in place of Isaac. Reveals God as the one who sees our needs in advance and provides — often in unexpected and miraculous ways.</div>
-                <div class="scriptures"><strong>First used:</strong> ▸ Genesis 22:14<br><br><strong>Also:</strong><br>▸ Philippians 4:19<br>▸ Matthew 6:31-33<br>▸ Psalm 23:1</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ <span class="verse-ref" onclick="showVerse('Genesis 22:14')">Genesis 22:14</span><br><br><strong>Also:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Philippians 4:19')">Philippians 4:19</span><br>▸ <span class="verse-ref" onclick="showVerse('Matthew 6:31-33')">Matthew 6:31-33</span><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 23:1')">Psalm 23:1</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>Jehovah Rapha</h3>
                 <div class="greek">Hebrew: יהוה רָפָא — "The LORD Who Heals"</div>
                 <div class="definition">Revealed after the exodus from Egypt when God promised that none of the diseases of Egypt would come upon obedient Israel. Encompasses physical, emotional, and spiritual healing.</div>
-                <div class="scriptures"><strong>First used:</strong> ▸ Exodus 15:26<br><br><strong>Also:</strong><br>▸ Psalm 103:3<br>▸ Psalm 147:3<br>▸ Isaiah 53:5</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ <span class="verse-ref" onclick="showVerse('Exodus 15:26')">Exodus 15:26</span><br><br><strong>Also:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 103:3')">Psalm 103:3</span><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 147:3')">Psalm 147:3</span><br>▸ <span class="verse-ref" onclick="showVerse('Isaiah 53:5')">Isaiah 53:5</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>Jehovah Nissi</h3>
                 <div class="greek">Hebrew: יהוה נִסִּי — "The LORD Is My Banner"</div>
                 <div class="definition">Named by Moses after Israel's victory over the Amalekites. A banner (flag/standard) rallied troops in battle. God Himself is our rallying point — the one under whose authority we fight and conquer.</div>
-                <div class="scriptures"><strong>First used:</strong> ▸ Exodus 17:15<br><br><strong>Also:</strong><br>▸ Psalm 20:5<br>▸ Song of Solomon 2:4<br>▸ Isaiah 11:10</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ <span class="verse-ref" onclick="showVerse('Exodus 17:15')">Exodus 17:15</span><br><br><strong>Also:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 20:5')">Psalm 20:5</span><br>▸ <span class="verse-ref" onclick="showVerse('Song of Solomon 2:4')">Song of Solomon 2:4</span><br>▸ <span class="verse-ref" onclick="showVerse('Isaiah 11:10')">Isaiah 11:10</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>Jehovah Shalom</h3>
                 <div class="greek">Hebrew: יהוה שָׁלוֹם — "The LORD Is Peace"</div>
                 <div class="definition">Named by Gideon after the Angel of the LORD appeared to him and he feared for his life, but God said "Peace be to you." Reveals God as the source of wholeness, completeness, and harmony.</div>
-                <div class="scriptures"><strong>First used:</strong> ▸ Judges 6:24<br><br><strong>Also:</strong><br>▸ Isaiah 26:3<br>▸ John 14:27<br>▸ Romans 5:1</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ <span class="verse-ref" onclick="showVerse('Judges 6:24')">Judges 6:24</span><br><br><strong>Also:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Isaiah 26:3')">Isaiah 26:3</span><br>▸ <span class="verse-ref" onclick="showVerse('John 14:27')">John 14:27</span><br>▸ <span class="verse-ref" onclick="showVerse('Romans 5:1')">Romans 5:1</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>El Roi</h3>
                 <div class="greek">Hebrew: אֵל רֳאִי — "The God Who Sees"</div>
                 <div class="definition">Named by Hagar in the wilderness after she fled from Sarah. Alone, pregnant, and rejected, she discovered that God sees the forgotten, the outcast, and the desperate. No one is invisible to Him.</div>
-                <div class="scriptures"><strong>First used:</strong> ▸ Genesis 16:13<br><br><strong>Also:</strong><br>▸ Psalm 139:1-4<br>▸ Proverbs 15:3<br>▸ 2 Chronicles 16:9</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ <span class="verse-ref" onclick="showVerse('Genesis 16:13')">Genesis 16:13</span><br><br><strong>Also:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 139:1-4')">Psalm 139:1-4</span><br>▸ <span class="verse-ref" onclick="showVerse('Proverbs 15:3')">Proverbs 15:3</span><br>▸ <span class="verse-ref" onclick="showVerse('2 Chronicles 16:9')">2 Chronicles 16:9</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>Yahweh Sabaoth</h3>
                 <div class="greek">Hebrew: יהוה צְבָאוֹת — "The LORD of Hosts"</div>
                 <div class="definition">Portrays God as commander of heavenly armies — angelic hosts and cosmic powers. Used frequently by the prophets to emphasize God's power in times of national crisis and spiritual warfare.</div>
-                <div class="scriptures"><strong>First used:</strong> ▸ 1 Samuel 1:3<br><br><strong>Also:</strong><br>▸ Isaiah 6:3<br>▸ Psalm 46:7<br>▸ Malachi 3:17</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ <span class="verse-ref" onclick="showVerse('1 Samuel 1:3')">1 Samuel 1:3</span><br><br><strong>Also:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Isaiah 6:3')">Isaiah 6:3</span><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 46:7')">Psalm 46:7</span><br>▸ <span class="verse-ref" onclick="showVerse('Malachi 3:17')">Malachi 3:17</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>Abba</h3>
                 <div class="greek">Aramaic: אַבָּא — "Father" (intimate, familiar)</div>
                 <div class="definition">An intimate Aramaic term for "father" — used by Jesus in Gethsemane and given to believers through the Spirit of adoption. Not merely formal respect, but the tender, trusting cry of a child to their dad.</div>
-                <div class="scriptures"><strong>First used:</strong> ▸ Mark 14:36<br><br><strong>Also:</strong><br>▸ Romans 8:15<br>▸ Galatians 4:6<br>▸ Matthew 6:9</div>
+                <div class="scriptures"><strong>First used:</strong> ▸ <span class="verse-ref" onclick="showVerse('Mark 14:36')">Mark 14:36</span><br><br><strong>Also:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Romans 8:15')">Romans 8:15</span><br>▸ <span class="verse-ref" onclick="showVerse('Galatians 4:6')">Galatians 4:6</span><br>▸ <span class="verse-ref" onclick="showVerse('Matthew 6:9')">Matthew 6:9</span></div>
             </div>
         </div>
 
@@ -235,5 +247,41 @@
 
     <script src="site/script.js"></script>
 <script>function toggleTopicDropdown(){document.getElementById("topicDropdown").classList.toggle("open")}document.addEventListener("click",function(e){if(!e.target.closest(".topic-dropdown")){document.getElementById("topicDropdown").classList.remove("open")}});</script>
+
+    <!-- Verse Popup Elements -->
+    <div class="verse-popup-overlay" id="verseOverlay" onclick="closeVerse()"></div>
+    <div class="verse-popup" id="versePopup">
+        <button class="popup-close" onclick="closeVerse()">&times;</button>
+        <div class="popup-ref" id="popupRef"></div>
+        <div class="popup-text" id="popupText"></div>
+    </div>
+    <script>
+    function showVerse(passage) {
+        var overlay = document.getElementById('verseOverlay');
+        var popup = document.getElementById('versePopup');
+        var refEl = document.getElementById('popupRef');
+        var textEl = document.getElementById('popupText');
+        refEl.textContent = passage;
+        textEl.innerHTML = '<span class="popup-loading">Loading verse...</span>';
+        overlay.classList.add('show');
+        popup.classList.add('show');
+        fetch('https://esv-proxy.cloudflare-dust598.workers.dev/?q=' + encodeURIComponent(passage))
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+            if (data.passages && data.passages[0]) {
+                textEl.innerHTML = data.passages[0];
+            } else {
+                textEl.innerHTML = '<em>Could not load this passage.</em>';
+            }
+        })
+        .catch(function() {
+            textEl.innerHTML = '<em>Unable to fetch verse. Try again later.</em>';
+        });
+    }
+    function closeVerse() {
+        document.getElementById('verseOverlay').classList.remove('show');
+        document.getElementById('versePopup').classList.remove('show');
+    }
+    </script>
 </body>
 </html>

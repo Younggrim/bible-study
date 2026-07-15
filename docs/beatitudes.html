@@ -118,7 +118,19 @@
             .topic-hero { padding: 24px 16px; }
         }
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: none; border: 1px solid var(--border-light); border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: #3d342e; cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 220px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #8b3a2a; }
-</style></head>
+
+        /* Verse Popup */
+        .verse-ref { color: #8b3a2a; cursor: pointer; text-decoration: underline; text-decoration-style: dotted; font-weight: 600; }
+        .verse-ref:hover { color: #2c6b4f; }
+        .verse-popup-overlay { display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.4); z-index:9998; }
+        .verse-popup-overlay.show { display:block; }
+        .verse-popup { display:none; position:fixed; top:50%; left:50%; transform:translate(-50%,-50%); background:#fff; border-radius:12px; padding:24px 28px; max-width:500px; width:90%; max-height:70vh; overflow-y:auto; box-shadow:0 16px 48px rgba(0,0,0,0.2); z-index:9999; }
+        .verse-popup.show { display:block; }
+        .verse-popup .popup-ref { font-family:'Cinzel',serif; font-size:1rem; color:#8b3a2a; margin-bottom:12px; font-weight:700; }
+        .verse-popup .popup-text { font-family:'Merriweather',serif; font-size:0.92rem; line-height:1.9; color:#3d2b1f; }
+        .verse-popup .popup-close { position:absolute; top:12px; right:16px; background:none; border:none; font-size:1.3rem; cursor:pointer; color:#8a7e74; }
+        .verse-popup .popup-loading { font-size:0.85rem; color:#8a7e74; font-style:italic; }
+    </style></head>
 <body>
     <nav class="top-nav">
         <a href="index.html" class="nav-home-btn" style="display:none;padding:6px 10px;color:#8b3a2a;font-size:1.1rem;text-decoration:none;"><i class="fas fa-home"></i></a>
@@ -133,7 +145,7 @@
         <div class="topic-hero">
             <h1>The Beatitudes</h1>
             <p class="key-passage">"Blessed are the poor in spirit, for theirs is the kingdom of heaven."</p>
-            <span class="ref">— Matthew 5:3 (ESV)</span>
+            <span class="ref">— <span class="verse-ref" onclick="showVerse('Matthew 5:3')">Matthew 5:3</span> (ESV)</span>
         </div>
 
         <div class="fruit-grid">
@@ -141,56 +153,56 @@
                 <h3>1. Blessed Are the Poor in Spirit</h3>
                 <div class="greek">Matthew 5:3</div>
                 <div class="definition"><strong>The Blessing:</strong> "Blessed are the poor in spirit, for theirs is the kingdom of heaven."<br><br><strong>What It Means:</strong> Spiritual poverty — recognizing our complete bankruptcy before God. Not material poverty, but a humble acknowledgment that we have nothing to offer God and are utterly dependent on His grace.<br><br><strong>The Promise:</strong> The kingdom of heaven belongs to those who know they need it most.</div>
-                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Isaiah 66:2<br>▸ Luke 18:9-14<br>▸ Psalm 51:17<br>▸ Revelation 3:17</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Isaiah 66:2')">Isaiah 66:2</span><br>▸ <span class="verse-ref" onclick="showVerse('Luke 18:9-14')">Luke 18:9-14</span><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 51:17')">Psalm 51:17</span><br>▸ <span class="verse-ref" onclick="showVerse('Revelation 3:17')">Revelation 3:17</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>2. Blessed Are Those Who Mourn</h3>
                 <div class="greek">Matthew 5:4</div>
-                <div class="definition"><strong>The Blessing:</strong> "Blessed are those who mourn, for they shall be comforted."<br><br><strong>What It Means:</strong> Grief over sin — both personal sin and the brokenness of the world. This is godly sorrow that leads to repentance (2 Corinthians 7:10), not mere sadness over consequences.<br><br><strong>The Promise:</strong> God Himself will comfort them — the ultimate consolation that transcends earthly sorrow.</div>
-                <div class="scriptures"><strong>Cross-References:</strong><br>▸ 2 Corinthians 7:10<br>▸ Isaiah 61:1-3<br>▸ Psalm 34:18<br>▸ Revelation 21:4</div>
+                <div class="definition"><strong>The Blessing:</strong> "Blessed are those who mourn, for they shall be comforted."<br><br><strong>What It Means:</strong> Grief over sin — both personal sin and the brokenness of the world. This is godly sorrow that leads to repentance (<span class="verse-ref" onclick="showVerse('2 Corinthians 7:10')">2 Corinthians 7:10</span>), not mere sadness over consequences.<br><br><strong>The Promise:</strong> God Himself will comfort them — the ultimate consolation that transcends earthly sorrow.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ <span class="verse-ref" onclick="showVerse('2 Corinthians 7:10')">2 Corinthians 7:10</span><br>▸ <span class="verse-ref" onclick="showVerse('Isaiah 61:1-3')">Isaiah 61:1-3</span><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 34:18')">Psalm 34:18</span><br>▸ <span class="verse-ref" onclick="showVerse('Revelation 21:4')">Revelation 21:4</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>3. Blessed Are the Meek</h3>
                 <div class="greek">Matthew 5:5</div>
-                <div class="definition"><strong>The Blessing:</strong> "Blessed are the meek, for they shall inherit the earth."<br><br><strong>What It Means:</strong> Meekness is not weakness — it is strength under control. A gentle spirit that submits to God's will and doesn't insist on its own rights. Moses was called the meekest man on earth (Numbers 12:3) yet confronted Pharaoh.<br><br><strong>The Promise:</strong> The meek, not the aggressive, will ultimately inherit everything — a stunning reversal of worldly values.</div>
-                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Psalm 37:11<br>▸ Numbers 12:3<br>▸ 1 Peter 3:4<br>▸ Matthew 11:29</div>
+                <div class="definition"><strong>The Blessing:</strong> "Blessed are the meek, for they shall inherit the earth."<br><br><strong>What It Means:</strong> Meekness is not weakness — it is strength under control. A gentle spirit that submits to God's will and doesn't insist on its own rights. Moses was called the meekest man on earth (<span class="verse-ref" onclick="showVerse('Numbers 12:3')">Numbers 12:3</span>) yet confronted Pharaoh.<br><br><strong>The Promise:</strong> The meek, not the aggressive, will ultimately inherit everything — a stunning reversal of worldly values.</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 37:11')">Psalm 37:11</span><br>▸ <span class="verse-ref" onclick="showVerse('Numbers 12:3')">Numbers 12:3</span><br>▸ <span class="verse-ref" onclick="showVerse('1 Peter 3:4')">1 Peter 3:4</span><br>▸ <span class="verse-ref" onclick="showVerse('Matthew 11:29')">Matthew 11:29</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>4. Blessed Are Those Who Hunger and Thirst for Righteousness</h3>
                 <div class="greek">Matthew 5:6</div>
                 <div class="definition"><strong>The Blessing:</strong> "Blessed are those who hunger and thirst for righteousness, for they shall be satisfied."<br><br><strong>What It Means:</strong> An intense, consuming desire for right standing with God and for justice in the world — as desperate as physical starvation and thirst. Not casual interest, but a driving passion for holiness.<br><br><strong>The Promise:</strong> Those who truly hunger for God's righteousness will be filled — completely satisfied.</div>
-                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Psalm 42:1-2<br>▸ Isaiah 55:1-2<br>▸ John 4:14<br>▸ Philippians 3:8-9</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 42:1-2')">Psalm 42:1-2</span><br>▸ <span class="verse-ref" onclick="showVerse('Isaiah 55:1-2')">Isaiah 55:1-2</span><br>▸ <span class="verse-ref" onclick="showVerse('John 4:14')">John 4:14</span><br>▸ <span class="verse-ref" onclick="showVerse('Philippians 3:8-9')">Philippians 3:8-9</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>5. Blessed Are the Merciful</h3>
                 <div class="greek">Matthew 5:7</div>
                 <div class="definition"><strong>The Blessing:</strong> "Blessed are the merciful, for they shall receive mercy."<br><br><strong>What It Means:</strong> Active compassion toward those in misery — not giving people what they deserve, but extending grace as God has extended grace to us. Mercy in action, not just sentiment.<br><br><strong>The Promise:</strong> Those who show mercy will receive mercy — from God and from others. Our mercy reflects the mercy we've received.</div>
-                <div class="scriptures"><strong>Cross-References:</strong><br>▸ James 2:13<br>▸ Matthew 18:21-35<br>▸ Micah 6:8<br>▸ Luke 6:36</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ <span class="verse-ref" onclick="showVerse('James 2:13')">James 2:13</span><br>▸ <span class="verse-ref" onclick="showVerse('Matthew 18:21-35')">Matthew 18:21-35</span><br>▸ <span class="verse-ref" onclick="showVerse('Micah 6:8')">Micah 6:8</span><br>▸ <span class="verse-ref" onclick="showVerse('Luke 6:36')">Luke 6:36</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>6. Blessed Are the Pure in Heart</h3>
                 <div class="greek">Matthew 5:8</div>
                 <div class="definition"><strong>The Blessing:</strong> "Blessed are the pure in heart, for they shall see God."<br><br><strong>What It Means:</strong> Singleness of devotion — an undivided heart that desires God above all else. Internal integrity where motives, desires, and thoughts align with God's character. Not perfection, but sincerity.<br><br><strong>The Promise:</strong> They will see God — both in this life (spiritual perception) and in eternity (face to face).</div>
-                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Psalm 24:3-4<br>▸ Psalm 73:1<br>▸ 1 John 3:2-3<br>▸ Hebrews 12:14</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 24:3-4')">Psalm 24:3-4</span><br>▸ <span class="verse-ref" onclick="showVerse('Psalm 73:1')">Psalm 73:1</span><br>▸ <span class="verse-ref" onclick="showVerse('1 John 3:2-3')">1 John 3:2-3</span><br>▸ <span class="verse-ref" onclick="showVerse('Hebrews 12:14')">Hebrews 12:14</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>7. Blessed Are the Peacemakers</h3>
                 <div class="greek">Matthew 5:9</div>
                 <div class="definition"><strong>The Blessing:</strong> "Blessed are the peacemakers, for they shall be called sons of God."<br><br><strong>What It Means:</strong> Not merely peace-lovers but peace-makers — those who actively work to reconcile people to God and to each other. This is costly, sacrificial work that mirrors what Christ did on the cross.<br><br><strong>The Promise:</strong> They are recognized as God's children — because they share the family resemblance of their Father who made peace through the blood of His Son.</div>
-                <div class="scriptures"><strong>Cross-References:</strong><br>▸ Romans 12:18<br>▸ 2 Corinthians 5:18-20<br>▸ Colossians 1:20<br>▸ James 3:17-18</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Romans 12:18')">Romans 12:18</span><br>▸ <span class="verse-ref" onclick="showVerse('2 Corinthians 5:18-20')">2 Corinthians 5:18-20</span><br>▸ <span class="verse-ref" onclick="showVerse('Colossians 1:20')">Colossians 1:20</span><br>▸ <span class="verse-ref" onclick="showVerse('James 3:17-18')">James 3:17-18</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>8. Blessed Are the Persecuted</h3>
                 <div class="greek">Matthew 5:10-12</div>
                 <div class="definition"><strong>The Blessing:</strong> "Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven."<br><br><strong>What It Means:</strong> Suffering that comes specifically because of faithfulness to Christ — not from foolishness or sin, but from living righteously in a world hostile to God. Jesus said to "rejoice and be glad" in this.<br><br><strong>The Promise:</strong> Great reward in heaven, and fellowship with the prophets who were persecuted before them. The kingdom belongs to them.</div>
-                <div class="scriptures"><strong>Cross-References:</strong><br>▸ 1 Peter 4:12-14<br>▸ 2 Timothy 3:12<br>▸ Acts 5:41<br>▸ Romans 8:17-18</div>
+                <div class="scriptures"><strong>Cross-References:</strong><br>▸ <span class="verse-ref" onclick="showVerse('1 Peter 4:12-14')">1 Peter 4:12-14</span><br>▸ <span class="verse-ref" onclick="showVerse('2 Timothy 3:12')">2 Timothy 3:12</span><br>▸ <span class="verse-ref" onclick="showVerse('Acts 5:41')">Acts 5:41</span><br>▸ <span class="verse-ref" onclick="showVerse('Romans 8:17-18')">Romans 8:17-18</span></div>
             </div>
         </div>
 
@@ -198,5 +210,41 @@
 
     <script src="site/script.js"></script>
 <script>function toggleTopicDropdown(){document.getElementById("topicDropdown").classList.toggle("open")}document.addEventListener("click",function(e){if(!e.target.closest(".topic-dropdown")){document.getElementById("topicDropdown").classList.remove("open")}});</script>
+
+    <!-- Verse Popup Elements -->
+    <div class="verse-popup-overlay" id="verseOverlay" onclick="closeVerse()"></div>
+    <div class="verse-popup" id="versePopup">
+        <button class="popup-close" onclick="closeVerse()">&times;</button>
+        <div class="popup-ref" id="popupRef"></div>
+        <div class="popup-text" id="popupText"></div>
+    </div>
+    <script>
+    function showVerse(passage) {
+        var overlay = document.getElementById('verseOverlay');
+        var popup = document.getElementById('versePopup');
+        var refEl = document.getElementById('popupRef');
+        var textEl = document.getElementById('popupText');
+        refEl.textContent = passage;
+        textEl.innerHTML = '<span class="popup-loading">Loading verse...</span>';
+        overlay.classList.add('show');
+        popup.classList.add('show');
+        fetch('https://esv-proxy.cloudflare-dust598.workers.dev/?q=' + encodeURIComponent(passage))
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+            if (data.passages && data.passages[0]) {
+                textEl.innerHTML = data.passages[0];
+            } else {
+                textEl.innerHTML = '<em>Could not load this passage.</em>';
+            }
+        })
+        .catch(function() {
+            textEl.innerHTML = '<em>Unable to fetch verse. Try again later.</em>';
+        });
+    }
+    function closeVerse() {
+        document.getElementById('verseOverlay').classList.remove('show');
+        document.getElementById('versePopup').classList.remove('show');
+    }
+    </script>
 </body>
 </html>

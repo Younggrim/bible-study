@@ -118,7 +118,19 @@
             .topic-hero { padding: 24px 16px; }
         }
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: none; border: 1px solid var(--border-light); border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: #3d342e; cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 220px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #8b3a2a; }
-</style></head>
+
+        /* Verse Popup */
+        .verse-ref { color: #8b3a2a; cursor: pointer; text-decoration: underline; text-decoration-style: dotted; font-weight: 600; }
+        .verse-ref:hover { color: #2c6b4f; }
+        .verse-popup-overlay { display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.4); z-index:9998; }
+        .verse-popup-overlay.show { display:block; }
+        .verse-popup { display:none; position:fixed; top:50%; left:50%; transform:translate(-50%,-50%); background:#fff; border-radius:12px; padding:24px 28px; max-width:500px; width:90%; max-height:70vh; overflow-y:auto; box-shadow:0 16px 48px rgba(0,0,0,0.2); z-index:9999; }
+        .verse-popup.show { display:block; }
+        .verse-popup .popup-ref { font-family:'Cinzel',serif; font-size:1rem; color:#8b3a2a; margin-bottom:12px; font-weight:700; }
+        .verse-popup .popup-text { font-family:'Merriweather',serif; font-size:0.92rem; line-height:1.9; color:#3d2b1f; }
+        .verse-popup .popup-close { position:absolute; top:12px; right:16px; background:none; border:none; font-size:1.3rem; cursor:pointer; color:#8a7e74; }
+        .verse-popup .popup-loading { font-size:0.85rem; color:#8a7e74; font-style:italic; }
+    </style></head>
 <body>
     <nav class="top-nav">
         <a href="index.html" class="nav-home-btn" style="display:none;padding:6px 10px;color:#8b3a2a;font-size:1.1rem;text-decoration:none;"><i class="fas fa-home"></i></a>
@@ -133,78 +145,78 @@
         <div class="topic-hero">
             <h1>Women of the Bible</h1>
             <p class="key-passage">"Charm is deceitful, and beauty is vain, but a woman who fears the LORD is to be praised."</p>
-            <span class="ref">— Proverbs 31:30 (ESV)</span>
+            <span class="ref">— <span class="verse-ref" onclick="showVerse('Proverbs 31:30')">Proverbs 31:30</span> (ESV)</span>
         </div>
 
         <div class="fruit-grid">
             <div class="fruit-card">
                 <h3>1. Ruth</h3>
                 <div class="greek">The Loyal Foreigner — Book of Ruth</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> A Moabite widow who chose to follow her mother-in-law Naomi back to Israel, leaving behind her homeland, gods, and people. Became the great-grandmother of King David.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Her declaration to Naomi: "Where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God" (Ruth 1:16).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Loyal devotion — chesed love that clings to covenant faithfulness regardless of cost.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> God includes outsiders in His redemption story. Faithfulness in small things leads to extraordinary blessings.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Ruth 1:16-17<br>▸ Ruth 2:11-12<br>▸ Ruth 3:9-11<br>▸ Ruth 4:13-17<br>▸ Matthew 1:5</div>
+                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> A Moabite widow who chose to follow her mother-in-law Naomi back to Israel, leaving behind her homeland, gods, and people. Became the great-grandmother of King David.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Her declaration to Naomi: "Where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God" (<span class="verse-ref" onclick="showVerse('Ruth 1:16')">Ruth 1:16</span>).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Loyal devotion — chesed love that clings to covenant faithfulness regardless of cost.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> God includes outsiders in His redemption story. Faithfulness in small things leads to extraordinary blessings.</div>
+                <div class="scriptures"><strong>Key Passages:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Ruth 1:16-17')">Ruth 1:16-17</span><br>▸ <span class="verse-ref" onclick="showVerse('Ruth 2:11-12')">Ruth 2:11-12</span><br>▸ <span class="verse-ref" onclick="showVerse('Ruth 3:9-11')">Ruth 3:9-11</span><br>▸ <span class="verse-ref" onclick="showVerse('Ruth 4:13-17')">Ruth 4:13-17</span><br>▸ <span class="verse-ref" onclick="showVerse('Matthew 1:5')">Matthew 1:5</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>2. Esther</h3>
                 <div class="greek">Queen of Courage — Book of Esther</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> A Jewish orphan raised by her cousin Mordecai who became queen of Persia. Used her position to save her entire people from genocide.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Approaching the king uninvited, risking death: "If I perish, I perish" (Esther 4:16).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Courage — willing to risk everything when God's people were threatened, trusting providence over self-preservation.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> God places us in positions of influence "for such a time as this." Courage means acting despite fear, not in absence of it.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Esther 2:17<br>▸ Esther 4:14-16<br>▸ Esther 5:1-3<br>▸ Esther 7:1-6<br>▸ Esther 8:3-8</div>
+                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> A Jewish orphan raised by her cousin Mordecai who became queen of Persia. Used her position to save her entire people from genocide.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Approaching the king uninvited, risking death: "If I perish, I perish" (<span class="verse-ref" onclick="showVerse('Esther 4:16')">Esther 4:16</span>).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Courage — willing to risk everything when God's people were threatened, trusting providence over self-preservation.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> God places us in positions of influence "for such a time as this." Courage means acting despite fear, not in absence of it.</div>
+                <div class="scriptures"><strong>Key Passages:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Esther 2:17')">Esther 2:17</span><br>▸ <span class="verse-ref" onclick="showVerse('Esther 4:14-16')">Esther 4:14-16</span><br>▸ <span class="verse-ref" onclick="showVerse('Esther 5:1-3')">Esther 5:1-3</span><br>▸ <span class="verse-ref" onclick="showVerse('Esther 7:1-6')">Esther 7:1-6</span><br>▸ <span class="verse-ref" onclick="showVerse('Esther 8:3-8')">Esther 8:3-8</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>3. Mary, Mother of Jesus</h3>
                 <div class="greek">Handmaid of the Lord — Luke 1-2; John 2, 19</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> A young virgin from Nazareth chosen by God to bear the Messiah. Faced scandal, uncertainty, and ultimately watched her son die on a cross.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Her response to the angel Gabriel: "Behold, I am the servant of the Lord; let it be to me according to your word" (Luke 1:38).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Humble submission — surrendered her reputation, comfort, and plans to God's sovereign purpose without demanding explanations.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> Saying "yes" to God often means embracing misunderstanding and suffering. God's greatest work often begins in the most unlikely vessels.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Luke 1:26-38<br>▸ Luke 1:46-55 (Magnificat)<br>▸ Luke 2:19, 51<br>▸ John 2:1-5<br>▸ John 19:25-27</div>
+                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> A young virgin from Nazareth chosen by God to bear the Messiah. Faced scandal, uncertainty, and ultimately watched her son die on a cross.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Her response to the angel Gabriel: "Behold, I am the servant of the Lord; let it be to me according to your word" (<span class="verse-ref" onclick="showVerse('Luke 1:38')">Luke 1:38</span>).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Humble submission — surrendered her reputation, comfort, and plans to God's sovereign purpose without demanding explanations.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> Saying "yes" to God often means embracing misunderstanding and suffering. God's greatest work often begins in the most unlikely vessels.</div>
+                <div class="scriptures"><strong>Key Passages:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Luke 1:26-38')">Luke 1:26-38</span><br>▸ <span class="verse-ref" onclick="showVerse('Luke 1:46-55')">Luke 1:46-55</span> (Magnificat)<br>▸ <span class="verse-ref" onclick="showVerse('Luke 2:19, 51')">Luke 2:19, 51</span><br>▸ <span class="verse-ref" onclick="showVerse('John 2:1-5')">John 2:1-5</span><br>▸ <span class="verse-ref" onclick="showVerse('John 19:25-27')">John 19:25-27</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>4. Sarah</h3>
                 <div class="greek">Mother of Nations — Genesis 11-23</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> Abraham's wife who waited 25 years for God's promise of a son. Despite her failures and impatience, she became the mother of Isaac and ancestress of Christ.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Giving birth to Isaac at age 90 — "Is anything too hard for the LORD?" (Genesis 18:14).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Faith through waiting — ultimately "considered him faithful who had promised" (Hebrews 11:11), though the journey included doubt.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> God's timing is different from ours. Even when we try to "help God" (Hagar), His original promise stands unchanged.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Genesis 18:10-14<br>▸ Genesis 21:1-7<br>▸ Isaiah 51:2<br>▸ Hebrews 11:11<br>▸ 1 Peter 3:5-6</div>
+                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> Abraham's wife who waited 25 years for God's promise of a son. Despite her failures and impatience, she became the mother of Isaac and ancestress of Christ.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Giving birth to Isaac at age 90 — "Is anything too hard for the LORD?" (<span class="verse-ref" onclick="showVerse('Genesis 18:14')">Genesis 18:14</span>).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Faith through waiting — ultimately "considered him faithful who had promised" (<span class="verse-ref" onclick="showVerse('Hebrews 11:11')">Hebrews 11:11</span>), though the journey included doubt.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> God's timing is different from ours. Even when we try to "help God" (Hagar), His original promise stands unchanged.</div>
+                <div class="scriptures"><strong>Key Passages:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Genesis 18:10-14')">Genesis 18:10-14</span><br>▸ <span class="verse-ref" onclick="showVerse('Genesis 21:1-7')">Genesis 21:1-7</span><br>▸ <span class="verse-ref" onclick="showVerse('Isaiah 51:2')">Isaiah 51:2</span><br>▸ <span class="verse-ref" onclick="showVerse('Hebrews 11:11')">Hebrews 11:11</span><br>▸ <span class="verse-ref" onclick="showVerse('1 Peter 3:5-6')">1 Peter 3:5-6</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>5. Deborah</h3>
                 <div class="greek">Judge and Prophetess — Judges 4-5</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> The only female judge of Israel — a prophetess, military leader, and civil magistrate. Led Israel to victory over the Canaanite general Sisera during a time of national oppression.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Commanding Barak to go to battle and accompanying him when he refused to go without her (Judges 4:8-9).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Bold leadership — exercised authority with wisdom and spiritual discernment in a male-dominated culture.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> God raises up leaders regardless of cultural expectations. Spiritual authority comes from hearing God's voice, not from human credentials.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Judges 4:4-9<br>▸ Judges 4:14<br>▸ Judges 5:1-31 (Song of Deborah)<br>▸ Hebrews 11:32-34</div>
+                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> The only female judge of Israel — a prophetess, military leader, and civil magistrate. Led Israel to victory over the Canaanite general Sisera during a time of national oppression.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Commanding Barak to go to battle and accompanying him when he refused to go without her (<span class="verse-ref" onclick="showVerse('Judges 4:8-9')">Judges 4:8-9</span>).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Bold leadership — exercised authority with wisdom and spiritual discernment in a male-dominated culture.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> God raises up leaders regardless of cultural expectations. Spiritual authority comes from hearing God's voice, not from human credentials.</div>
+                <div class="scriptures"><strong>Key Passages:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Judges 4:4-9')">Judges 4:4-9</span><br>▸ <span class="verse-ref" onclick="showVerse('Judges 4:14')">Judges 4:14</span><br>▸ <span class="verse-ref" onclick="showVerse('Judges 5:1-31')">Judges 5:1-31</span> (Song of Deborah)<br>▸ <span class="verse-ref" onclick="showVerse('Hebrews 11:32-34')">Hebrews 11:32-34</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>6. Hannah</h3>
                 <div class="greek">The Praying Mother — 1 Samuel 1-2</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> A barren wife who poured out her soul to God in desperate prayer for a child, then kept her vow by dedicating her son Samuel to the Lord's service for life.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Her prayer at the temple — weeping, vowing, and being so fervent that Eli thought she was drunk (1 Samuel 1:10-16).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Prayerful surrender — brought her deepest grief to God and then gave back His answer as an offering.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> God hears desperate prayers. True gratitude means holding His gifts with open hands, not clenched fists.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ 1 Samuel 1:10-20<br>▸ 1 Samuel 1:24-28<br>▸ 1 Samuel 2:1-10 (Hannah's Prayer)<br>▸ Luke 1:46-55</div>
+                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> A barren wife who poured out her soul to God in desperate prayer for a child, then kept her vow by dedicating her son Samuel to the Lord's service for life.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Her prayer at the temple — weeping, vowing, and being so fervent that Eli thought she was drunk (<span class="verse-ref" onclick="showVerse('1 Samuel 1:10-16')">1 Samuel 1:10-16</span>).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Prayerful surrender — brought her deepest grief to God and then gave back His answer as an offering.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> God hears desperate prayers. True gratitude means holding His gifts with open hands, not clenched fists.</div>
+                <div class="scriptures"><strong>Key Passages:</strong><br>▸ <span class="verse-ref" onclick="showVerse('1 Samuel 1:10-20')">1 Samuel 1:10-20</span><br>▸ <span class="verse-ref" onclick="showVerse('1 Samuel 1:24-28')">1 Samuel 1:24-28</span><br>▸ <span class="verse-ref" onclick="showVerse('1 Samuel 2:1-10')">1 Samuel 2:1-10</span> (Hannah's Prayer)<br>▸ <span class="verse-ref" onclick="showVerse('Luke 1:46-55')">Luke 1:46-55</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>7. Rahab</h3>
                 <div class="greek">Faith from the Margins — Joshua 2; 6:22-25</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> A prostitute in Jericho who hid the Israelite spies, confessed faith in Israel's God, and was spared when Jericho fell. Became an ancestor of King David and Jesus Christ.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Her confession: "The LORD your God, he is God in the heavens above and on the earth beneath" (Joshua 2:11) — and she acted on it by hiding the spies.<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Active faith — her belief produced immediate, risky action. "Faith apart from works is dead" (James 2:25-26).<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> No background is too broken for God's grace. Faith transforms identity — from pagan prostitute to honored ancestor of the Messiah.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Joshua 2:1-21<br>▸ Joshua 6:22-25<br>▸ Matthew 1:5<br>▸ Hebrews 11:31<br>▸ James 2:25</div>
+                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> A prostitute in Jericho who hid the Israelite spies, confessed faith in Israel's God, and was spared when Jericho fell. Became an ancestor of King David and Jesus Christ.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Her confession: "The LORD your God, he is God in the heavens above and on the earth beneath" (<span class="verse-ref" onclick="showVerse('Joshua 2:11')">Joshua 2:11</span>) — and she acted on it by hiding the spies.<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Active faith — her belief produced immediate, risky action. "Faith apart from works is dead" (<span class="verse-ref" onclick="showVerse('James 2:25-26')">James 2:25-26</span>).<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> No background is too broken for God's grace. Faith transforms identity — from pagan prostitute to honored ancestor of the Messiah.</div>
+                <div class="scriptures"><strong>Key Passages:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Joshua 2:1-21')">Joshua 2:1-21</span><br>▸ <span class="verse-ref" onclick="showVerse('Joshua 6:22-25')">Joshua 6:22-25</span><br>▸ <span class="verse-ref" onclick="showVerse('Matthew 1:5')">Matthew 1:5</span><br>▸ <span class="verse-ref" onclick="showVerse('Hebrews 11:31')">Hebrews 11:31</span><br>▸ <span class="verse-ref" onclick="showVerse('James 2:25')">James 2:25</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>8. Mary Magdalene</h3>
                 <div class="greek">Devoted Follower — Luke 8; John 20</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> A woman from whom Jesus cast out seven demons. Became one of His most devoted followers, supported His ministry financially, stood at the cross, and was the first witness of the resurrection.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Being the first person Jesus appeared to after the resurrection, and being commissioned to tell the disciples: "Go to my brothers" (John 20:17).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Devoted gratitude — having been delivered from much, she loved much. She stayed when others fled.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> Those who have experienced deep deliverance often display the deepest devotion. Jesus honors faithfulness by entrusting His greatest news to the faithful.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Luke 8:1-3<br>▸ Mark 15:40-41<br>▸ John 19:25<br>▸ John 20:1-18<br>▸ Mark 16:9</div>
+                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> A woman from whom Jesus cast out seven demons. Became one of His most devoted followers, supported His ministry financially, stood at the cross, and was the first witness of the resurrection.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Being the first person Jesus appeared to after the resurrection, and being commissioned to tell the disciples: "Go to my brothers" (<span class="verse-ref" onclick="showVerse('John 20:17')">John 20:17</span>).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Devoted gratitude — having been delivered from much, she loved much. She stayed when others fled.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> Those who have experienced deep deliverance often display the deepest devotion. Jesus honors faithfulness by entrusting His greatest news to the faithful.</div>
+                <div class="scriptures"><strong>Key Passages:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Luke 8:1-3')">Luke 8:1-3</span><br>▸ <span class="verse-ref" onclick="showVerse('Mark 15:40-41')">Mark 15:40-41</span><br>▸ <span class="verse-ref" onclick="showVerse('John 19:25')">John 19:25</span><br>▸ <span class="verse-ref" onclick="showVerse('John 20:1-18')">John 20:1-18</span><br>▸ <span class="verse-ref" onclick="showVerse('Mark 16:9')">Mark 16:9</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>9. Abigail</h3>
                 <div class="greek">Wise Peacemaker — 1 Samuel 25</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> The intelligent and beautiful wife of Nabal, a wealthy but foolish man. When Nabal's insult nearly provoked David to slaughter, Abigail intervened with wisdom and provision.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Riding out to meet David with food and a humble appeal, preventing bloodshed and appealing to his better nature (1 Samuel 25:23-31).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Wisdom and initiative — she acted swiftly, spoke shrewdly, and averted disaster through discernment rather than passivity.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> Wise intervention can prevent catastrophe. Godly wisdom knows when to speak, what to say, and how to act quickly for peace.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ 1 Samuel 25:3<br>▸ 1 Samuel 25:18-31<br>▸ 1 Samuel 25:32-35<br>▸ 1 Samuel 25:39-42</div>
+                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> The intelligent and beautiful wife of Nabal, a wealthy but foolish man. When Nabal's insult nearly provoked David to slaughter, Abigail intervened with wisdom and provision.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Riding out to meet David with food and a humble appeal, preventing bloodshed and appealing to his better nature (<span class="verse-ref" onclick="showVerse('1 Samuel 25:23-31')">1 Samuel 25:23-31</span>).<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Wisdom and initiative — she acted swiftly, spoke shrewdly, and averted disaster through discernment rather than passivity.<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> Wise intervention can prevent catastrophe. Godly wisdom knows when to speak, what to say, and how to act quickly for peace.</div>
+                <div class="scriptures"><strong>Key Passages:</strong><br>▸ <span class="verse-ref" onclick="showVerse('1 Samuel 25:3')">1 Samuel 25:3</span><br>▸ <span class="verse-ref" onclick="showVerse('1 Samuel 25:18-31')">1 Samuel 25:18-31</span><br>▸ <span class="verse-ref" onclick="showVerse('1 Samuel 25:32-35')">1 Samuel 25:32-35</span><br>▸ <span class="verse-ref" onclick="showVerse('1 Samuel 25:39-42')">1 Samuel 25:39-42</span></div>
             </div>
 
             <div class="fruit-card">
                 <h3>10. Priscilla</h3>
                 <div class="greek">Teacher and Partner — Acts 18; Romans 16</div>
-                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> A tentmaker and church leader alongside her husband Aquila. Partnered with Paul in ministry, hosted house churches, and taught the eloquent Apollos a more complete understanding of the gospel.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Taking Apollos aside and explaining "the way of God more accurately" (Acts 18:26) — correcting a gifted teacher with grace and knowledge.<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Theological competence and hospitality — she combined deep knowledge of Scripture with practical service and courage (risking her life for Paul, Romans 16:3-4).<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> Partnership in ministry is powerful. Deep knowledge of Scripture equips us to serve the church and strengthen others in the faith.</div>
-                <div class="scriptures"><strong>Key Passages:</strong><br>▸ Acts 18:1-3<br>▸ Acts 18:24-26<br>▸ Romans 16:3-5<br>▸ 1 Corinthians 16:19<br>▸ 2 Timothy 4:19</div>
+                <div class="definition"><strong style="color:#2c6b4f;">Who She Was:</strong> A tentmaker and church leader alongside her husband Aquila. Partnered with Paul in ministry, hosted house churches, and taught the eloquent Apollos a more complete understanding of the gospel.<br><br><strong style="color:#8b3a2a;">Key Moment:</strong> Taking Apollos aside and explaining "the way of God more accurately" (<span class="verse-ref" onclick="showVerse('Acts 18:26')">Acts 18:26</span>) — correcting a gifted teacher with grace and knowledge.<br><br><strong style="color:#2c5a6b;">Character Quality:</strong> Theological competence and hospitality — she combined deep knowledge of Scripture with practical service and courage (risking her life for Paul, <span class="verse-ref" onclick="showVerse('Romans 16:3-4')">Romans 16:3-4</span>).<br><br><strong style="color:#5c3d6e;">What We Learn:</strong> Partnership in ministry is powerful. Deep knowledge of Scripture equips us to serve the church and strengthen others in the faith.</div>
+                <div class="scriptures"><strong>Key Passages:</strong><br>▸ <span class="verse-ref" onclick="showVerse('Acts 18:1-3')">Acts 18:1-3</span><br>▸ <span class="verse-ref" onclick="showVerse('Acts 18:24-26')">Acts 18:24-26</span><br>▸ <span class="verse-ref" onclick="showVerse('Romans 16:3-5')">Romans 16:3-5</span><br>▸ <span class="verse-ref" onclick="showVerse('1 Corinthians 16:19')">1 Corinthians 16:19</span><br>▸ <span class="verse-ref" onclick="showVerse('2 Timothy 4:19')">2 Timothy 4:19</span></div>
             </div>
         </div>
 
@@ -212,5 +224,41 @@
 
     <script src="site/script.js"></script>
 <script>function toggleTopicDropdown(){document.getElementById("topicDropdown").classList.toggle("open")}document.addEventListener("click",function(e){if(!e.target.closest(".topic-dropdown")){document.getElementById("topicDropdown").classList.remove("open")}});</script>
+
+    <!-- Verse Popup Elements -->
+    <div class="verse-popup-overlay" id="verseOverlay" onclick="closeVerse()"></div>
+    <div class="verse-popup" id="versePopup">
+        <button class="popup-close" onclick="closeVerse()">&times;</button>
+        <div class="popup-ref" id="popupRef"></div>
+        <div class="popup-text" id="popupText"></div>
+    </div>
+    <script>
+    function showVerse(passage) {
+        var overlay = document.getElementById('verseOverlay');
+        var popup = document.getElementById('versePopup');
+        var refEl = document.getElementById('popupRef');
+        var textEl = document.getElementById('popupText');
+        refEl.textContent = passage;
+        textEl.innerHTML = '<span class="popup-loading">Loading verse...</span>';
+        overlay.classList.add('show');
+        popup.classList.add('show');
+        fetch('https://esv-proxy.cloudflare-dust598.workers.dev/?q=' + encodeURIComponent(passage))
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+            if (data.passages && data.passages[0]) {
+                textEl.innerHTML = data.passages[0];
+            } else {
+                textEl.innerHTML = '<em>Could not load this passage.</em>';
+            }
+        })
+        .catch(function() {
+            textEl.innerHTML = '<em>Unable to fetch verse. Try again later.</em>';
+        });
+    }
+    function closeVerse() {
+        document.getElementById('verseOverlay').classList.remove('show');
+        document.getElementById('versePopup').classList.remove('show');
+    }
+    </script>
 </body>
 </html>

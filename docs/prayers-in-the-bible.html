@@ -118,7 +118,19 @@
             .topic-hero { padding: 24px 16px; }
         }
     .topic-dropdown { position: relative; display: inline-block; } .topic-dropdown-btn { background: none; border: 1px solid var(--border-light); border-radius: 8px; padding: 6px 14px; font-size: 0.85rem; font-weight: 600; color: #3d342e; cursor: pointer; transition: background 0.2s; } .topic-dropdown-btn:hover { background: var(--bg-card); } .topic-dropdown-menu { display: none; position: absolute; top: 100%; left: 50%; transform: translateX(-50%); background: #fff; border: 1px solid var(--border-light); border-radius: 10px; box-shadow: 0 8px 24px rgba(0,0,0,0.12); padding: 8px 0; min-width: 220px; z-index: 1000; margin-top: 6px; max-height: 400px; overflow-y: auto; } .topic-dropdown-menu.open { display: block; } .topic-dropdown-menu a { display: block; padding: 8px 18px; font-size: 0.83rem; color: #3d2b1f; text-decoration: none; font-weight: 500; transition: background 0.15s; } .topic-dropdown-menu a:hover { background: #f5ebe0; color: #8b3a2a; }
-</style></head>
+
+        /* Verse Popup */
+        .verse-ref { color: #8b3a2a; cursor: pointer; text-decoration: underline; text-decoration-style: dotted; font-weight: 600; }
+        .verse-ref:hover { color: #2c6b4f; }
+        .verse-popup-overlay { display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.4); z-index:9998; }
+        .verse-popup-overlay.show { display:block; }
+        .verse-popup { display:none; position:fixed; top:50%; left:50%; transform:translate(-50%,-50%); background:#fff; border-radius:12px; padding:24px 28px; max-width:500px; width:90%; max-height:70vh; overflow-y:auto; box-shadow:0 16px 48px rgba(0,0,0,0.2); z-index:9999; }
+        .verse-popup.show { display:block; }
+        .verse-popup .popup-ref { font-family:'Cinzel',serif; font-size:1rem; color:#8b3a2a; margin-bottom:12px; font-weight:700; }
+        .verse-popup .popup-text { font-family:'Merriweather',serif; font-size:0.92rem; line-height:1.9; color:#3d2b1f; }
+        .verse-popup .popup-close { position:absolute; top:12px; right:16px; background:none; border:none; font-size:1.3rem; cursor:pointer; color:#8a7e74; }
+        .verse-popup .popup-loading { font-size:0.85rem; color:#8a7e74; font-style:italic; }
+    </style></head>
 <body>
     <nav class="top-nav">
         <a href="index.html" class="nav-home-btn" style="display:none;padding:6px 10px;color:#8b3a2a;font-size:1.1rem;text-decoration:none;"><i class="fas fa-home"></i></a>
@@ -133,7 +145,7 @@
         <div class="topic-hero">
             <h1>Prayers in the Bible</h1>
             <p class="key-passage">"Do not be anxious about anything, but in everything by prayer and supplication with thanksgiving let your requests be made known to God. And the peace of God, which surpasses all understanding, will guard your hearts and your minds in Christ Jesus."</p>
-            <span class="ref">— Philippians 4:6-7 (ESV)</span>
+            <span class="ref">— <span class="verse-ref" onclick="showVerse('Philippians 4:6-7')">Philippians 4:6-7</span> (ESV)</span>
         </div>
 
         <div class="fruit-grid">
@@ -146,21 +158,21 @@
 
             <div class="fruit-card">
                 <h3>Solomon's Prayer for Wisdom</h3>
-                <div class="greek">1 Kings 3:5-14 — A young king's humble request</div>
+                <div class="greek">1 <span class="verse-ref" onclick="showVerse('Kings 3:5-14')">Kings 3:5-14</span> — A young king's humble request</div>
                 <div class="definition"><strong>Context:</strong> God appeared to Solomon in a dream and said, "Ask what I shall give you." Instead of wealth, long life, or victory over enemies, Solomon asked for "an understanding mind to govern your people, that I may discern between good and evil."</div>
-                <div class="scriptures"><strong>What we learn:</strong> God is pleased when we prioritize wisdom and servant-hearted leadership over selfish gain. He gave Solomon wisdom — and everything else besides (James 1:5).</div>
+                <div class="scriptures"><strong>What we learn:</strong> God is pleased when we prioritize wisdom and servant-hearted leadership over selfish gain. He gave Solomon wisdom — and everything else besides (<span class="verse-ref" onclick="showVerse('James 1:5')">James 1:5</span>).</div>
             </div>
 
             <div class="fruit-card">
                 <h3>Hannah's Prayer</h3>
-                <div class="greek">1 Samuel 1:10-11 — A barren woman's desperate plea</div>
+                <div class="greek">1 <span class="verse-ref" onclick="showVerse('Samuel 1:10-11')">Samuel 1:10-11</span> — A barren woman's desperate plea</div>
                 <div class="definition"><strong>Context:</strong> Hannah was barren, mocked by her rival, and deeply grieved. She poured out her soul to God in the temple, weeping bitterly, and vowed to dedicate her child to the Lord's service if He would remember her.</div>
                 <div class="scriptures"><strong>What we learn:</strong> God hears the prayers of the brokenhearted. Honest, raw emotion is welcome before Him. Hannah's prayer was so intense the priest thought she was drunk — yet God answered powerfully.</div>
             </div>
 
             <div class="fruit-card">
                 <h3>Jabez's Prayer</h3>
-                <div class="greek">1 Chronicles 4:10 — A bold request for blessing</div>
+                <div class="greek">1 <span class="verse-ref" onclick="showVerse('Chronicles 4:10')">Chronicles 4:10</span> — A bold request for blessing</div>
                 <div class="definition"><strong>Context:</strong> Tucked within a genealogy, Jabez prayed: "Oh that you would bless me and enlarge my border, and that your hand might be with me, and that you would keep me from harm so that it might not bring me pain!" And God granted his request.</div>
                 <div class="scriptures"><strong>What we learn:</strong> It is not wrong to ask God boldly for blessing — when our motive is to live under His hand and be kept from evil. God honors faith-filled, specific prayers.</div>
             </div>
@@ -204,7 +216,7 @@
                 <h3>Daniel's Prayer</h3>
                 <div class="greek">Daniel 9:4-19 — Confession and petition in exile</div>
                 <div class="definition"><strong>Context:</strong> After reading Jeremiah's prophecy that exile would last 70 years, Daniel turned to God with fasting, prayer, and confession — not just personal sin, but national sin. He appealed to God's mercy and His name's sake.</div>
-                <div class="scriptures"><strong>What we learn:</strong> Scripture can prompt prayer. Corporate confession is valid — identifying with your community's sin before God. Daniel's prayer was answered with one of the most detailed prophecies in the Bible (Daniel 9:24-27).</div>
+                <div class="scriptures"><strong>What we learn:</strong> Scripture can prompt prayer. Corporate confession is valid — identifying with your community's sin before God. Daniel's prayer was answered with one of the most detailed prophecies in the Bible (<span class="verse-ref" onclick="showVerse('Daniel 9:24-27')">Daniel 9:24-27</span>).</div>
             </div>
         </div>
 
@@ -212,5 +224,41 @@
 
     <script src="site/script.js"></script>
 <script>function toggleTopicDropdown(){document.getElementById("topicDropdown").classList.toggle("open")}document.addEventListener("click",function(e){if(!e.target.closest(".topic-dropdown")){document.getElementById("topicDropdown").classList.remove("open")}});</script>
+
+    <!-- Verse Popup Elements -->
+    <div class="verse-popup-overlay" id="verseOverlay" onclick="closeVerse()"></div>
+    <div class="verse-popup" id="versePopup">
+        <button class="popup-close" onclick="closeVerse()">&times;</button>
+        <div class="popup-ref" id="popupRef"></div>
+        <div class="popup-text" id="popupText"></div>
+    </div>
+    <script>
+    function showVerse(passage) {
+        var overlay = document.getElementById('verseOverlay');
+        var popup = document.getElementById('versePopup');
+        var refEl = document.getElementById('popupRef');
+        var textEl = document.getElementById('popupText');
+        refEl.textContent = passage;
+        textEl.innerHTML = '<span class="popup-loading">Loading verse...</span>';
+        overlay.classList.add('show');
+        popup.classList.add('show');
+        fetch('https://esv-proxy.cloudflare-dust598.workers.dev/?q=' + encodeURIComponent(passage))
+        .then(function(r) { return r.json(); })
+        .then(function(data) {
+            if (data.passages && data.passages[0]) {
+                textEl.innerHTML = data.passages[0];
+            } else {
+                textEl.innerHTML = '<em>Could not load this passage.</em>';
+            }
+        })
+        .catch(function() {
+            textEl.innerHTML = '<em>Unable to fetch verse. Try again later.</em>';
+        });
+    }
+    function closeVerse() {
+        document.getElementById('verseOverlay').classList.remove('show');
+        document.getElementById('versePopup').classList.remove('show');
+    }
+    </script>
 </body>
 </html>
