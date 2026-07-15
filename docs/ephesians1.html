@@ -348,19 +348,13 @@
                     </div>
                 </div>
                 <div class="video-card">
-                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
-                    <div class="video-card-info">
-                        <h4><a href="https://www.youtube.com/watch?v=w5ea_RQHGn8&list=PLUBpLcqCn5ukI0M8b-VPNSsED5VnuwbVf&index=19" target="_blank">Are You Holy? | Ephesians 1:1-4 (New River Church)</a></h4>
-                        <p>Teaching on holiness and election from Ephesians 1:1-4.</p>
-                    </div>
-                </div>
+    <div class="yt-facade" onclick="loadYT(this,'w5ea_RQHGn8')" style="position:relative;cursor:pointer;border-radius:10px;overflow:hidden;border:1px solid var(--border-light);aspect-ratio:16/9;background:#000 url('https://img.youtube.com/vi/w5ea_RQHGn8/hqdefault.jpg') center/cover;"><div style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,0.3);"><div style="width:60px;height:42px;background:#c0392b;border-radius:10px;display:flex;align-items:center;justify-content:center;"><div style="width:0;height:0;border-left:18px solid #fff;border-top:10px solid transparent;border-bottom:10px solid transparent;margin-left:4px;"></div></div></div><p style="position:absolute;bottom:0;left:0;right:0;padding:8px 12px;margin:0;background:rgba(0,0,0,0.7);color:#fff;font-size:0.78rem;font-weight:600;">Are You Holy? | Ephesians 1:1-4 (New River Church)</p></div>
+    <p style="font-size:0.85rem;color:#3d342e;margin-top:8px;">Teaching on holiness and election from Ephesians 1:1-4.</p>
+</div>
                 <div class="video-card">
-                    <div class="video-card-icon"><i class="fab fa-youtube"></i></div>
-                    <div class="video-card-info">
-                        <h4><a href="https://www.youtube.com/watch?v=2Zmkri56q0w&list=PLUBpLcqCn5ukI0M8b-VPNSsED5VnuwbVf&index=18" target="_blank">It&#x27;s All About The Beloved | Ephesians 1:5-7 (New River Church)</a></h4>
-                        <p>Teaching on adoption and redemption in the Beloved from Ephesians 1:5-7.</p>
-                    </div>
-                </div>
+    <div class="yt-facade" onclick="loadYT(this,'2Zmkri56q0w')" style="position:relative;cursor:pointer;border-radius:10px;overflow:hidden;border:1px solid var(--border-light);aspect-ratio:16/9;background:#000 url('https://img.youtube.com/vi/2Zmkri56q0w/hqdefault.jpg') center/cover;"><div style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,0.3);"><div style="width:60px;height:42px;background:#c0392b;border-radius:10px;display:flex;align-items:center;justify-content:center;"><div style="width:0;height:0;border-left:18px solid #fff;border-top:10px solid transparent;border-bottom:10px solid transparent;margin-left:4px;"></div></div></div><p style="position:absolute;bottom:0;left:0;right:0;padding:8px 12px;margin:0;background:rgba(0,0,0,0.7);color:#fff;font-size:0.78rem;font-weight:600;">It's All About The Beloved | Ephesians 1:5-7 (New River Church)</p></div>
+    <p style="font-size:0.85rem;color:#3d342e;margin-top:8px;">Teaching on adoption and redemption in the Beloved from Ephesians 1:5-7.</p>
+</div>
             </div>
             <div class="tab-content" id="tab-reflection">
                 <h3>Reflection</h3>
@@ -382,5 +376,6 @@
     </footer>
 
     <script src="site/script.js?v=13"></script>
+<script>function loadYT(el,id){el.innerHTML='<iframe src="https://www.youtube.com/embed/'+id+'?autoplay=1" style="width:100%;height:100%;position:absolute;top:0;left:0;border:none;" allow="autoplay;encrypted-media" allowfullscreen></iframe>';el.style.cursor="default";}</script>
 </body>
 </html>
