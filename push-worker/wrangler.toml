@@ -10,4 +10,7 @@ id = "83cc0dd3b0c64cf794d59e8aded53edb"
 VAPID_PUBLIC_KEY = "BBXso6T-C1Ft59FLWrdRfANGYtKm21CHUktfb0rsmfDZOEJSFyn5Y62f2ZaFMr0PxiPCIyN9Wm6_8MxXMQ6AGuY"
 
 [triggers]
-crons = ["0 12 * * *"]
+# Fires once an hour; each run only pushes to subscribers whose own chosen
+# reminder hour (stored per-subscription as hourUTC) matches the current
+# UTC hour — see worker.js sendPush().
+crons = ["0 * * * *"]

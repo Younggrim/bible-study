@@ -1,14 +1,18 @@
 /**
  * Cloudflare Worker — Daily Devotional Push
  *
- * Handles Web Push subscription storage and sends a daily, payload-less
- * VAPID-authenticated push to every stored subscriber. The actual
- * notification content (today's devotional) is fetched by the client's
- * service worker at delivery time from that site's own devotionals.json —
- * this worker never needs to know which site a subscriber came from.
+ * Handles Web Push subscription storage and, once an hour, sends a
+ * payload-less VAPID-authenticated push to whichever subscribers have
+ * that hour (in UTC) as their own chosen reminder time — each subscriber
+ * picks their own local time client-side, converts it to a UTC hour, and
+ * that's stored alongside their subscription. The actual notification
+ * content (today's devotional) is fetched by the client's service worker
+ * at delivery time from that site's own devotionals.json — this worker
+ * never needs to know which site a subscriber came from.
  *
  * Deploy: npx wrangler deploy
- * Secret: npx wrangler secret put VAPID_PRIVATE_KEY
+ * Secrets: npx wrangler secret put VAPID_PRIVATE_KEY
+ *          npx wrangler secret put ADMIN_SECRET   (for manual /send-now testing)
  */
 
 const ALLOWED_ORIGINS = [
@@ -97,6 +101,69 @@ async function buildVapidJWT(privateKey, audience) {
   return unsigned + '.' + bytesToBase64url(new Uint8Array(signature));
 }
 
+// Shared by the hourly cron and the manual /send-now debug endpoint.
+// If targetHour (0-23, UTC) is given, only subscriptions whose stored
+// hourUTC matches are sent to — this is what lets each subscriber pick
+// their own reminder time rather than everyone getting one fixed time.
+// Passing null/undefined sends to everyone regardless of their chosen hour
+// (used by /send-now for on-demand testing).
+async function sendPush(env, targetHour) {
+  const privateKey = await importVapidPrivateKey(env.VAPID_PUBLIC_KEY, env.VAPID_PRIVATE_KEY);
+  const list = await env.PUSH_SUBS.list({ prefix: 'sub:' });
+  const summary = { total: 0, matched: 0, sent: 0, expired: 0, failed: 0 };
+
+  for (const key of list.keys) {
+    const raw = await env.PUSH_SUBS.get(key.name);
+    if (!raw) continue;
+    summary.total++;
+
+    let sub;
+    try {
+      sub = JSON.parse(raw);
+    } catch (e) {
+      summary.failed++;
+      continue;
+    }
+
+    if (typeof targetHour === 'number' && sub.hourUTC !== targetHour) continue;
+    summary.matched++;
+
+    let audience;
+    try {
+      audience = new URL(sub.endpoint).origin;
+    } catch (e) {
+      summary.failed++;
+      continue;
+    }
+
+    try {
+      const jwt = await buildVapidJWT(privateKey, audience);
+      const resp = await fetch(sub.endpoint, {
+        method: 'POST',
+        headers: {
+          'Authorization': `vapid t=${jwt}, k=${env.VAPID_PUBLIC_KEY}`,
+          'TTL': '86400',
+          'Content-Length': '0'
+        }
+      });
+      if (resp.status === 404 || resp.status === 410) {
+        await env.PUSH_SUBS.delete(key.name);
+        summary.expired++;
+      } else if (resp.ok || resp.status === 201) {
+        summary.sent++;
+      } else {
+        summary.failed++;
+      }
+    } catch (e) {
+      // Network error reaching this push service — leave the subscription
+      // in place and try again on the next scheduled run.
+      summary.failed++;
+    }
+  }
+
+  return summary;
+}
+
 export default {
   async fetch(request, env) {
     if (request.method === 'OPTIONS') {
@@ -107,11 +174,35 @@ export default {
       return new Response('Not found', { status: 404 });
     }
 
+    const url = new URL(request.url);
+
+    // Manual trigger for testing — not origin-gated (it's not called from a
+    // browser), gated instead by a shared secret header only the operator
+    // knows. By default sends to everyone regardless of their configured
+    // hour (useful for an immediate test); pass {"hourUTC": n} in the body
+    // to instead test a specific hour bucket the way the cron would see it.
+    if (url.pathname === '/send-now') {
+      const provided = request.headers.get('X-Admin-Secret') || '';
+      if (!env.ADMIN_SECRET || provided !== env.ADMIN_SECRET) {
+        return new Response(JSON.stringify({ error: 'Forbidden' }), {
+          status: 403, headers: { 'Content-Type': 'application/json' }
+        });
+      }
+      let targetHour = null;
+      try {
+        const testBody = await request.json();
+        if (testBody && Number.isInteger(testBody.hourUTC)) targetHour = testBody.hourUTC;
+      } catch (e) { /* no body, or not JSON — fine, send to everyone */ }
+      const summary = await sendPush(env, targetHour);
+      return new Response(JSON.stringify(summary), {
+        status: 200, headers: { 'Content-Type': 'application/json' }
+      });
+    }
+
     if (!originAllowed(request)) {
       return jsonResponse({ error: 'Forbidden' }, 403, request);
     }
 
-    const url = new URL(request.url);
     let body;
     try {
       body = await request.json();
@@ -123,7 +214,13 @@ export default {
       if (!body || !body.endpoint || !body.keys || !body.keys.p256dh || !body.keys.auth) {
         return jsonResponse({ error: 'Invalid subscription' }, 400, request);
       }
-      await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(body));
+      // hourUTC (0-23) is the subscriber's own chosen reminder time,
+      // converted to UTC client-side. Falls back to 12:00 UTC (~8am
+      // Eastern) if the client didn't send one.
+      let hourUTC = Number.isInteger(body.hourUTC) ? body.hourUTC : 12;
+      if (hourUTC < 0 || hourUTC > 23) hourUTC = 12;
+      const record = { endpoint: body.endpoint, keys: body.keys, hourUTC };
+      await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(record));
       return jsonResponse({ ok: true }, 200, request);
     }
 
@@ -139,44 +236,6 @@ export default {
   },
 
   async scheduled(controller, env, ctx) {
-    const privateKey = await importVapidPrivateKey(env.VAPID_PUBLIC_KEY, env.VAPID_PRIVATE_KEY);
-    const list = await env.PUSH_SUBS.list({ prefix: 'sub:' });
-
-    for (const key of list.keys) {
-      const raw = await env.PUSH_SUBS.get(key.name);
-      if (!raw) continue;
-
-      let sub;
-      try {
-        sub = JSON.parse(raw);
-      } catch (e) {
-        continue;
-      }
-
-      let audience;
-      try {
-        audience = new URL(sub.endpoint).origin;
-      } catch (e) {
-        continue;
-      }
-
-      try {
-        const jwt = await buildVapidJWT(privateKey, audience);
-        const resp = await fetch(sub.endpoint, {
-          method: 'POST',
-          headers: {
-            'Authorization': `vapid t=${jwt}, k=${env.VAPID_PUBLIC_KEY}`,
-            'TTL': '86400',
-            'Content-Length': '0'
-          }
-        });
-        if (resp.status === 404 || resp.status === 410) {
-          await env.PUSH_SUBS.delete(key.name);
-        }
-      } catch (e) {
-        // Network error reaching this push service — leave the subscription
-        // in place and try again on the next scheduled run.
-      }
-    }
+    await sendPush(env, new Date().getUTCHours());
   }
 };
