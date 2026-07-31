@@ -1,0 +1,13 @@
+name = "devotional-push"
+main = "worker.js"
+compatibility_date = "2025-06-01"
+
+[[kv_namespaces]]
+binding = "PUSH_SUBS"
+id = "83cc0dd3b0c64cf794d59e8aded53edb"
+
+[vars]
+VAPID_PUBLIC_KEY = "BBXso6T-C1Ft59FLWrdRfANGYtKm21CHUktfb0rsmfDZOEJSFyn5Y62f2ZaFMr0PxiPCIyN9Wm6_8MxXMQ6AGuY"
+
+[triggers]
+crons = ["0 12 * * *"]
