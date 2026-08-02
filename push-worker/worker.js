@@ -2,13 +2,21 @@
  * Cloudflare Worker — Daily Devotional Push
  *
  * Handles Web Push subscription storage and, once an hour, sends a
- * payload-less VAPID-authenticated push to whichever subscribers have
- * that hour (in UTC) as their own chosen reminder time — each subscriber
- * picks their own local time client-side, converts it to a UTC hour, and
- * that's stored alongside their subscription. The actual notification
- * content (today's devotional) is fetched by the client's service worker
- * at delivery time from that site's own devotionals.json — this worker
- * never needs to know which site a subscriber came from.
+ * payload-less VAPID-authenticated push to whichever subscribers'
+ * chosen local reminder time it currently is. Cloudflare Cron Triggers
+ * only run in UTC — there's no way to schedule "fire at each user's
+ * local 7am" directly — so instead each subscriber's IANA timezone
+ * (e.g. "America/New_York") and chosen local hour (0-23) are stored,
+ * and on every hourly tick this worker computes, per subscriber, what
+ * the current local hour actually is in their timezone right now
+ * (via Intl.DateTimeFormat, which is DST-aware) and compares it to
+ * their chosen hour. This is what makes delivery time survive DST
+ * transitions automatically instead of drifting by an hour twice a
+ * year, which a precomputed-UTC-hour-at-subscribe-time approach would
+ * not. The actual notification content (today's devotional) is
+ * fetched by the client's service worker at delivery time from that
+ * site's own devotionals.json — this worker never needs to know which
+ * site a subscriber came from.
  *
  * Deploy: npx wrangler deploy
  * Secrets: npx wrangler secret put VAPID_PRIVATE_KEY
@@ -71,6 +79,37 @@ function stringToBase64url(str) {
   return bytesToBase64url(new TextEncoder().encode(str));
 }
 
+// --- timezone helpers ---
+
+function isValidTimezone(tz) {
+  if (typeof tz !== 'string' || !tz) return false;
+  try {
+    new Intl.DateTimeFormat('en-US', { timeZone: tz });
+    return true;
+  } catch (e) {
+    return false;
+  }
+}
+
+const DEFAULT_TIMEZONE = 'America/New_York';
+
+// The current local hour (0-23) in an IANA timezone, right now. DST-aware
+// by construction — Intl resolves the real tz-database offset for "now" in
+// that zone, so this doesn't need any manual DST bookkeeping.
+function currentLocalHourInTimezone(tz) {
+  try {
+    const parts = new Intl.DateTimeFormat('en-US', {
+      timeZone: tz,
+      hour: 'numeric',
+      hourCycle: 'h23'
+    }).formatToParts(new Date());
+    const hourPart = parts.find(p => p.type === 'hour');
+    return hourPart ? parseInt(hourPart.value, 10) : null;
+  } catch (e) {
+    return null;
+  }
+}
+
 // --- VAPID: import the shared keypair, sign a per-request JWT ---
 
 async function importVapidPrivateKey(publicKeyB64url, privateKeyB64url) {
@@ -102,12 +141,13 @@ async function buildVapidJWT(privateKey, audience) {
 }
 
 // Shared by the hourly cron and the manual /send-now debug endpoint.
-// If targetHour (0-23, UTC) is given, only subscriptions whose stored
-// hourUTC matches are sent to — this is what lets each subscriber pick
-// their own reminder time rather than everyone getting one fixed time.
-// Passing null/undefined sends to everyone regardless of their chosen hour
-// (used by /send-now for on-demand testing).
-async function sendPush(env, targetHour) {
+// mode 'matchNow' (used by the real hourly cron): for each subscription,
+// compute the current local hour in ITS OWN stored timezone and only send
+// if that equals the subscriber's chosen localHour — this is what lets
+// each subscriber pick their own reminder time, correctly, across DST.
+// mode 'sendToAll' (used by /send-now for on-demand testing): ignore the
+// per-subscriber hour entirely and send to everyone right now.
+async function sendPush(env, mode) {
   const privateKey = await importVapidPrivateKey(env.VAPID_PUBLIC_KEY, env.VAPID_PRIVATE_KEY);
   const list = await env.PUSH_SUBS.list({ prefix: 'sub:' });
   const summary = { total: 0, matched: 0, sent: 0, expired: 0, failed: 0 };
@@ -125,7 +165,10 @@ async function sendPush(env, targetHour) {
       continue;
     }
 
-    if (typeof targetHour === 'number' && sub.hourUTC !== targetHour) continue;
+    if (mode !== 'sendToAll') {
+      const nowLocalHour = currentLocalHourInTimezone(sub.timezone);
+      if (nowLocalHour === null || nowLocalHour !== sub.localHour) continue;
+    }
     summary.matched++;
 
     let audience;
@@ -178,9 +221,11 @@ export default {
 
     // Manual trigger for testing — not origin-gated (it's not called from a
     // browser), gated instead by a shared secret header only the operator
-    // knows. By default sends to everyone regardless of their configured
-    // hour (useful for an immediate test); pass {"hourUTC": n} in the body
-    // to instead test a specific hour bucket the way the cron would see it.
+    // knows. By default sends to everyone right now regardless of their
+    // chosen hour (useful for an immediate delivery test); pass
+    // {"simulateHourlyMatch": true} to instead run the exact per-subscriber
+    // timezone/hour matching logic the real hourly cron uses, without
+    // waiting for the top of the hour.
     if (url.pathname === '/send-now') {
       const provided = request.headers.get('X-Admin-Secret') || '';
       if (!env.ADMIN_SECRET || provided !== env.ADMIN_SECRET) {
@@ -188,12 +233,12 @@ export default {
           status: 403, headers: { 'Content-Type': 'application/json' }
         });
       }
-      let targetHour = null;
+      let mode = 'sendToAll';
       try {
         const testBody = await request.json();
-        if (testBody && Number.isInteger(testBody.hourUTC)) targetHour = testBody.hourUTC;
-      } catch (e) { /* no body, or not JSON — fine, send to everyone */ }
-      const summary = await sendPush(env, targetHour);
+        if (testBody && testBody.simulateHourlyMatch) mode = 'matchNow';
+      } catch (e) { /* no body, or not JSON — fine, default to sendToAll */ }
+      const summary = await sendPush(env, mode);
       return new Response(JSON.stringify(summary), {
         status: 200, headers: { 'Content-Type': 'application/json' }
       });
@@ -214,12 +259,15 @@ export default {
       if (!body || !body.endpoint || !body.keys || !body.keys.p256dh || !body.keys.auth) {
         return jsonResponse({ error: 'Invalid subscription' }, 400, request);
       }
-      // hourUTC (0-23) is the subscriber's own chosen reminder time,
-      // converted to UTC client-side. Falls back to 12:00 UTC (~8am
-      // Eastern) if the client didn't send one.
-      let hourUTC = Number.isInteger(body.hourUTC) ? body.hourUTC : 12;
-      if (hourUTC < 0 || hourUTC > 23) hourUTC = 12;
-      const record = { endpoint: body.endpoint, keys: body.keys, hourUTC };
+      // localHour (0-23) + timezone (IANA name, e.g. "America/New_York")
+      // are the subscriber's own chosen reminder time, exactly as they
+      // picked it — no client-side UTC conversion. The worker recomputes
+      // what that means in UTC fresh on every hourly tick, so this stays
+      // correct across DST without ever needing to be resaved.
+      let localHour = Number.isInteger(body.localHour) ? body.localHour : 8;
+      if (localHour < 0 || localHour > 23) localHour = 8;
+      const timezone = isValidTimezone(body.timezone) ? body.timezone : DEFAULT_TIMEZONE;
+      const record = { endpoint: body.endpoint, keys: body.keys, localHour, timezone };
       await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(record));
       return jsonResponse({ ok: true }, 200, request);
     }
@@ -237,24 +285,26 @@ export default {
     // happen periodically, especially on iOS) — without this, the old
     // endpoint eventually starts returning 404/410, sendPush() deletes it,
     // and the subscriber silently stops getting reminders forever with no
-    // way to know. This preserves their chosen hourUTC instead of resetting
-    // it to the default.
+    // way to know. This preserves their chosen localHour + timezone instead
+    // of resetting to the default.
     if (url.pathname === '/resubscribe') {
       if (!body || !body.endpoint || !body.keys || !body.keys.p256dh || !body.keys.auth) {
         return jsonResponse({ error: 'Invalid subscription' }, 400, request);
       }
-      let hourUTC = 12;
+      let localHour = 8;
+      let timezone = DEFAULT_TIMEZONE;
       if (body.oldEndpoint) {
         const oldRaw = await env.PUSH_SUBS.get('sub:' + body.oldEndpoint);
         if (oldRaw) {
           try {
             const old = JSON.parse(oldRaw);
-            if (Number.isInteger(old.hourUTC)) hourUTC = old.hourUTC;
-          } catch (e) { /* fall back to default */ }
+            if (Number.isInteger(old.localHour)) localHour = old.localHour;
+            if (isValidTimezone(old.timezone)) timezone = old.timezone;
+          } catch (e) { /* fall back to defaults */ }
           await env.PUSH_SUBS.delete('sub:' + body.oldEndpoint);
         }
       }
-      const record = { endpoint: body.endpoint, keys: body.keys, hourUTC };
+      const record = { endpoint: body.endpoint, keys: body.keys, localHour, timezone };
       await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(record));
       return jsonResponse({ ok: true }, 200, request);
     }
@@ -263,6 +313,6 @@ export default {
   },
 
   async scheduled(controller, env, ctx) {
-    await sendPush(env, new Date().getUTCHours());
+    await sendPush(env, 'matchNow');
   }
 };

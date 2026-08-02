@@ -10,7 +10,10 @@ id = "83cc0dd3b0c64cf794d59e8aded53edb"
 VAPID_PUBLIC_KEY = "BBXso6T-C1Ft59FLWrdRfANGYtKm21CHUktfb0rsmfDZOEJSFyn5Y62f2ZaFMr0PxiPCIyN9Wm6_8MxXMQ6AGuY"
 
 [triggers]
-# Fires once an hour; each run only pushes to subscribers whose own chosen
-# reminder hour (stored per-subscription as hourUTC) matches the current
-# UTC hour — see worker.js sendPush().
+# Fires once an hour (Cron Triggers only run in UTC — there's no per-
+# timezone scheduling). Each run computes, per subscription, the current
+# local hour in that subscriber's own stored IANA timezone and only pushes
+# if it matches their chosen localHour — see worker.js sendPush() /
+# currentLocalHourInTimezone(). DST-safe by construction since it's
+# recomputed fresh every run rather than precomputed once at subscribe time.
 crons = ["0 * * * *"]
