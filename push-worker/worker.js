@@ -232,6 +232,33 @@ export default {
       return jsonResponse({ ok: true }, 200, request);
     }
 
+    // Fired by the service worker's pushsubscriptionchange handler when the
+    // browser/OS silently rotates a subscriber's push endpoint (this does
+    // happen periodically, especially on iOS) — without this, the old
+    // endpoint eventually starts returning 404/410, sendPush() deletes it,
+    // and the subscriber silently stops getting reminders forever with no
+    // way to know. This preserves their chosen hourUTC instead of resetting
+    // it to the default.
+    if (url.pathname === '/resubscribe') {
+      if (!body || !body.endpoint || !body.keys || !body.keys.p256dh || !body.keys.auth) {
+        return jsonResponse({ error: 'Invalid subscription' }, 400, request);
+      }
+      let hourUTC = 12;
+      if (body.oldEndpoint) {
+        const oldRaw = await env.PUSH_SUBS.get('sub:' + body.oldEndpoint);
+        if (oldRaw) {
+          try {
+            const old = JSON.parse(oldRaw);
+            if (Number.isInteger(old.hourUTC)) hourUTC = old.hourUTC;
+          } catch (e) { /* fall back to default */ }
+          await env.PUSH_SUBS.delete('sub:' + body.oldEndpoint);
+        }
+      }
+      const record = { endpoint: body.endpoint, keys: body.keys, hourUTC };
+      await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(record));
+      return jsonResponse({ ok: true }, 200, request);
+    }
+
     return jsonResponse({ error: 'Not found' }, 404, request);
   },
 
