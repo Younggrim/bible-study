@@ -51,6 +51,38 @@ function originAllowed(request) {
   return originOk || refererOk;
 }
 
+// Byte-for-byte !== leaks how many leading characters matched via response
+// timing — cheap to exploit against a low-traffic worker with no other
+// load. Comparing SHA-256 digests instead means every comparison does the
+// same fixed amount of work regardless of where (or whether) the inputs
+// diverge, and sidesteps the length-leak a naive char-by-char loop would
+// still have.
+async function timingSafeEqual(a, b) {
+  const enc = new TextEncoder();
+  const [da, db] = await Promise.all([
+    crypto.subtle.digest('SHA-256', enc.encode(a)),
+    crypto.subtle.digest('SHA-256', enc.encode(b)),
+  ]);
+  const va = new Uint8Array(da), vb = new Uint8Array(db);
+  let diff = 0;
+  for (let i = 0; i < va.length; i++) diff |= va[i] ^ vb[i];
+  return diff === 0;
+}
+
+// Reuses the PUSH_SUBS KV namespace that's already provisioned rather than
+// adding a separate rate-limiting binding — one fewer thing to configure
+// in the Cloudflare dashboard. A KV write per request is more overhead
+// than a dedicated rate-limiting API, but at this traffic scale that's
+// not a real cost, and it keeps deployment to just `wrangler deploy`.
+async function isRateLimited(env, ip, bucket, limit, windowSeconds) {
+  const key = `ratelimit:${bucket}:${ip}`;
+  const raw = await env.PUSH_SUBS.get(key);
+  const count = raw ? parseInt(raw, 10) : 0;
+  if (count >= limit) return true;
+  await env.PUSH_SUBS.put(key, String(count + 1), { expirationTtl: windowSeconds });
+  return false;
+}
+
 function jsonResponse(body, status, request) {
   return new Response(JSON.stringify(body), {
     status,
@@ -228,7 +260,7 @@ export default {
     // waiting for the top of the hour.
     if (url.pathname === '/send-now') {
       const provided = request.headers.get('X-Admin-Secret') || '';
-      if (!env.ADMIN_SECRET || provided !== env.ADMIN_SECRET) {
+      if (!env.ADMIN_SECRET || !(await timingSafeEqual(provided, env.ADMIN_SECRET))) {
         return new Response(JSON.stringify({ error: 'Forbidden' }), {
           status: 403, headers: { 'Content-Type': 'application/json' }
         });
@@ -246,6 +278,16 @@ export default {
 
     if (!originAllowed(request)) {
       return jsonResponse({ error: 'Forbidden' }, 403, request);
+    }
+
+    // Origin/Referer checks only stop browser-issued requests — a script
+    // can set either header to whatever it likes. Without this, /subscribe
+    // is an open write to PUSH_SUBS: unlimited junk KV entries at whatever
+    // rate someone wants to send them. 30 writes/hour per IP is generous
+    // for a real subscriber changing their reminder time, not for a spammer.
+    const clientIp = request.headers.get('CF-Connecting-IP') || 'unknown';
+    if (await isRateLimited(env, clientIp, 'sub', 30, 3600)) {
+      return jsonResponse({ error: 'Too many requests' }, 429, request);
     }
 
     let body;

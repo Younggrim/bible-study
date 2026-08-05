@@ -2,10 +2,12 @@
 """
 Bible Study Site Builder
 ========================
-Reads .txt study notes and translation files, generates HTML pages
-in the new design format. Run this after any content update.
-
-Usage: python build_site.py
+STALE — DO NOT RUN. docs/ has been hand/AI-evolved directly (curated
+per-chapter YouTube videos, PWA app mode, splash screen, etc.) well past
+what this script generates. Running it will overwrite docs/*.html and
+wipe that content back to this script's older output. docs/ is the real
+source of truth now; edit it directly. Kept here for historical reference
+only, until someone rewrites this to match current docs/ output.
 """
 
 import os
