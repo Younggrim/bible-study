@@ -47,7 +47,7 @@ body {
 }
 
 .nav-brand {
-    font-family: 'Cinzel', serif;
+    font-family: 'Poppins', 'Inter', sans-serif;
     font-size: 1.2rem;
     font-weight: 600;
     color: var(--accent-brown);
@@ -269,7 +269,7 @@ body {
 }
 
 .book-header h1 {
-    font-family: 'Cinzel', serif;
+    font-family: 'Poppins', 'Inter', sans-serif;
     font-size: 2rem;
     font-weight: 600;
     color: var(--accent-brown);
@@ -353,7 +353,8 @@ body {
 .tab-content.active { display: block; }
 
 .tab-content h3 {
-    font-family: 'Cinzel', serif;
+    font-family: 'Poppins', 'Inter', sans-serif;
+    font-weight: 700;
     font-size: 1.1rem;
     color: var(--accent-brown);
     margin-bottom: 16px;
@@ -482,7 +483,7 @@ body {
     line-height: 1.6;
 }
 .trans-popup.show { display: block; }
-.trans-popup h4 { font-family: 'Cinzel', serif; font-size: 1rem; color: var(--accent-brown); margin-bottom: 12px; }
+.trans-popup h4 { font-family: 'Poppins', 'Inter', sans-serif; font-weight: 700; font-size: 1rem; color: var(--accent-brown); margin-bottom: 12px; }
 .trans-popup .trans-item { margin-bottom: 10px; padding-bottom: 10px; border-bottom: 1px solid var(--border-light); }
 .trans-popup .trans-item:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
 .trans-popup .trans-name { font-weight: 700; color: var(--text-primary); }
@@ -631,7 +632,8 @@ body.pwa-standalone .pwa-splash {
     margin-bottom: 20px;
 }
 .pwa-splash .splash-label {
-    font-family: 'Cinzel', serif;
+    font-family: 'Poppins', 'Inter', sans-serif;
+    font-weight: 700;
     font-size: 0.9rem;
     color: #c9a96e;
     letter-spacing: 3px;
@@ -695,7 +697,8 @@ body.pwa-standalone .pwa-splash {
     display: block;
 }
 .pwa-info-popup h3 {
-    font-family: 'Cinzel', serif;
+    font-family: 'Poppins', 'Inter', sans-serif;
+    font-weight: 700;
     font-size: 1rem;
     color: #6b4c3b;
     margin-bottom: 12px;
@@ -761,7 +764,7 @@ body.pwa-standalone .pwa-splash {
 .section-hero { position: relative; width: 100%; min-height: 280px; overflow: hidden; display: flex; align-items: center; justify-content: center; margin-top: 0; }
 .section-hero img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; filter: brightness(0.45) sepia(0.75) saturate(1.7); }
 .section-hero-overlay { position: relative; z-index: 1; text-align: center; padding: 40px 28px; max-width: 800px; }
-.section-hero-overlay h2 { font-family: "Cinzel", serif; font-size: 2.4rem; color: #fff; text-shadow: 2px 2px 10px rgba(0,0,0,0.8); margin-bottom: 12px; letter-spacing: 2px; }
+.section-hero-overlay h2 { font-family: "Poppins", "Inter", sans-serif; font-weight: 700; font-size: 2.4rem; color: #fff; text-shadow: 2px 2px 10px rgba(0,0,0,0.8); margin-bottom: 12px; letter-spacing: 2px; }
 .section-hero-overlay .section-subtitle { font-family: "Merriweather", serif; font-size: 1rem; color: #f0c865; font-style: italic; text-shadow: 1px 1px 4px rgba(0,0,0,0.6); margin-bottom: 16px; }
 .section-hero-overlay .section-desc { font-family: "Cormorant Garamond", serif; font-size: 1.1rem; line-height: 1.9; color: #f5ebe0; font-style: italic; text-shadow: 1px 1px 6px rgba(0,0,0,0.7); }
 @media (max-width: 768px) {
@@ -782,7 +785,7 @@ body.pwa-standalone .section-hero { margin-top: 0; }
    66-book grid in the installed app) ===== */
 .pwa-bible-nav { display: none; max-width: 480px; margin: 32px auto 0; padding: 28px 24px 32px; background: #fff; border: 1px solid #e8e0d6; border-radius: 14px; box-shadow: 0 4px 16px rgba(0,0,0,0.06); text-align: center; }
 body.pwa-standalone .pwa-bible-nav { display: block; }
-.pwa-bible-nav h3 { font-family: 'Cinzel', serif; font-size: 1.1rem; color: #3d2b1f; margin: 0 0 18px; }
+.pwa-bible-nav h3 { font-family: 'Poppins', 'Inter', sans-serif; font-weight: 700; font-size: 1.1rem; color: #3d2b1f; margin: 0 0 18px; }
 .pwa-bible-nav .bible-nav-row { display: flex; gap: 10px; margin-bottom: 12px; }
 .pwa-bible-nav select { flex: 1; min-width: 0; max-width: none; width: 100%; padding: 10px 12px; border: 1px solid #d4c9bc; border-radius: 8px; font-size: 0.9rem; font-family: 'Inter', sans-serif; color: #3d2b1f; background: #faf8f5; }
 .pwa-bible-nav .nav-go-btn { width: 100%; padding: 12px; background: #8b3a2a; color: #fff; border: none; border-radius: 8px; font-weight: 600; font-size: 0.95rem; cursor: pointer; margin-top: 6px; transition: background 0.15s; }
