@@ -28,6 +28,10 @@ function getCorsHeaders(request) {
     'Access-Control-Allow-Methods': 'GET, OPTIONS',
     'Access-Control-Allow-Headers': 'Content-Type',
     'Access-Control-Max-Age': '86400',
+    // Without this, a browser that has visited both allowed sites can reuse
+    // its private HTTP cache for this URL across origins, replaying the
+    // wrong Access-Control-Allow-Origin value and making the fetch fail.
+    'Vary': 'Origin',
   };
 }
 
@@ -116,8 +120,12 @@ export default {
 
       const data = await esvResponse.json();
 
+      // Verse text never changes, and the ESV API's rate limit is easy to
+      // trip in a single browsing session (several topic pages, several
+      // verses each) — cache passages for 30 days instead of 1 hour so
+      // repeat requests, from any visitor on either site, stay off the API.
       await cache.put(cacheKey, new Response(JSON.stringify(data), {
-        headers: { 'Content-Type': 'application/json', 'Cache-Control': 'public, max-age=3600' }
+        headers: { 'Content-Type': 'application/json', 'Cache-Control': 'public, max-age=2592000' }
       }));
 
       return new Response(JSON.stringify(data), {
@@ -131,7 +139,7 @@ export default {
           // above (via caches.default with a synthetic key) already gives
           // us the request-reduction benefit safely, since it's read only
           // after the origin check runs on every request.
-          'Cache-Control': 'private, max-age=3600',
+          'Cache-Control': 'private, max-age=2592000',
           ...getCorsHeaders(request)
         }
       });
