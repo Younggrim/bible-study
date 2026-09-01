@@ -246,6 +246,7 @@
             <button onclick="goToChapter()" style="padding:6px 12px;background:var(--accent-link);color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:0.85rem;font-weight:600;">Go</button>
             <select class="nav-translation" onchange="switchTranslation(this.value)">
                 <option value="ESV">ESV</option>
+                    <option value="BSB">BSB</option>
                 <option value="KJV">KJV</option>
                 <option value="ASV">ASV</option>
                 <option value="NET">NET</option>
@@ -494,6 +495,12 @@
         <div class="scripture-container">
         <div class="translation-block active" data-translation="ESV" data-passage="Psalms 131">
             <p class="verse esv-loading" style="color:var(--text-muted);font-style:italic;">Loading ESV text...</p>
+        </div>
+
+        <div class="translation-block" data-translation="BSB">
+            <p class="verse"><span class="verse-num">1</span>A song of ascents. Of David. My heart is not proud, O LORD, my eyes are not haughty. I do not aspire to great things or matters too lofty for me.</p>
+            <p class="verse"><span class="verse-num">2</span>Surely I have stilled and quieted my soul; like a weaned child with his mother, like a weaned child is my soul within me.</p>
+            <p class="verse"><span class="verse-num">3</span>O Israel, put your hope in the LORD, both now and forevermore.</p>
         </div>
         <div class="translation-block" data-translation="KJV">
             <p class="verse"><span class="verse-num">1</span>LORD, my heart is not haughty, nor mine eyes lofty: neither do I exercise myself in great matters, or in things too high for me.</p>
