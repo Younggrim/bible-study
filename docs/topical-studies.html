@@ -16,11 +16,11 @@
         body { background: #faf5ed; }
         .page-content { margin: 0 auto; max-width: 1400px; padding: 24px 24px 80px; }
         .item-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
-        .item-card { display: block; padding: 16px 18px; background: #fff; border: 1px solid #e8e0d6; border-left: 4px solid; border-radius: 10px; text-decoration: none; color: inherit; transition: transform 0.15s, box-shadow 0.15s; }
+        .item-card { display: block; padding: 16px 18px; background: #fff; border: 1px solid var(--border-light); border-left: 4px solid; border-radius: 10px; text-decoration: none; color: inherit; transition: transform 0.15s, box-shadow 0.15s; }
         .item-card:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(0,0,0,0.1); }
         .item-card h4 { font-family: 'Poppins', 'Inter', sans-serif; font-weight:700; font-size: 0.95rem; margin: 0 0 4px; }
         .item-card .desc { font-size: 0.82rem; color: #5a4e44; line-height: 1.5; margin: 0; }
-        .item-card .count { font-size: 0.72rem; color: #8a7e74; font-weight: 600; text-transform: uppercase; letter-spacing: 0.4px; margin-top: 8px; display: block; }
+        .item-card .count { font-size: 0.72rem; color: var(--text-faint); font-weight: 600; text-transform: uppercase; letter-spacing: 0.4px; margin-top: 8px; display: block; }
         @media (max-width: 768px) { .item-grid { grid-template-columns: 1fr; } }
     </style>
 </head>
@@ -42,8 +42,8 @@
                 <h4 style="color:#2c6b4f;">Fruits of the Spirit</h4>
                 <p class="desc">Nine expressions of Spirit-filled character.</p>
             </a>
-            <a href="the-12-apostles.html" class="item-card" style="border-left-color:#8b3a2a;">
-                <h4 style="color:#8b3a2a;">The 12 Apostles</h4>
+            <a href="the-12-apostles.html" class="item-card" style="border-left-color:var(--accent-link);">
+                <h4 style="color:var(--accent-link);">The 12 Apostles</h4>
                 <p class="desc">The twelve men Jesus called and sent out.</p>
             </a>
             <a href="names-of-god.html" class="item-card" style="border-left-color:#6b4c3b;">
@@ -70,8 +70,8 @@
                 <h4 style="color:#6b4c3b;">Ten Commandments</h4>
                 <p class="desc">God's foundational law of love.</p>
             </a>
-            <a href="miracles-of-jesus.html" class="item-card" style="border-left-color:#8b3a2a;">
-                <h4 style="color:#8b3a2a;">Miracles of Jesus</h4>
+            <a href="miracles-of-jesus.html" class="item-card" style="border-left-color:var(--accent-link);">
+                <h4 style="color:var(--accent-link);">Miracles of Jesus</h4>
                 <p class="desc">Signs of His authority over all creation.</p>
             </a>
             <a href="men-of-the-bible.html" class="item-card" style="border-left-color:#5a4030;">
@@ -106,8 +106,8 @@
                 <h4 style="color:#4a3a6b;">The Trinity</h4>
                 <p class="desc">One God in three persons.</p>
             </a>
-            <a href="the-gospel.html" class="item-card" style="border-left-color:#8b3a2a;">
-                <h4 style="color:#8b3a2a;">The Gospel</h4>
+            <a href="the-gospel.html" class="item-card" style="border-left-color:var(--accent-link);">
+                <h4 style="color:var(--accent-link);">The Gospel</h4>
                 <p class="desc">The good news of salvation in Christ.</p>
             </a>
         </div>
