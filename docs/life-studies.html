@@ -16,7 +16,7 @@
         body { background: #faf5ed; }
         .page-content { margin: 0 auto; max-width: 1400px; padding: 24px 24px 80px; }
         .item-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
-        .item-card { display: block; padding: 16px 18px; background: #fff; border: 1px solid #e8e0d6; border-left: 4px solid; border-radius: 10px; text-decoration: none; color: inherit; transition: transform 0.15s, box-shadow 0.15s; }
+        .item-card { display: block; padding: 16px 18px; background: #fff; border: 1px solid var(--border-light); border-left: 4px solid; border-radius: 10px; text-decoration: none; color: inherit; transition: transform 0.15s, box-shadow 0.15s; }
         .item-card:hover { transform: translateY(-2px); box-shadow: 0 6px 18px rgba(0,0,0,0.1); }
         .item-card h4 { font-family: 'Poppins', 'Inter', sans-serif; font-weight:700; font-size: 0.95rem; margin: 0 0 4px; }
         .item-card .desc { font-size: 0.82rem; color: #5a4e44; line-height: 1.5; margin: 0; }
@@ -37,8 +37,8 @@
     </div>
     <main class="page-content">
         <div class="item-grid">
-            <a href="addiction.html" class="item-card" style="border-left-color:#8b3a2a;">
-                <h4 style="color:#8b3a2a;">Addiction</h4>
+            <a href="addiction.html" class="item-card" style="border-left-color:var(--accent-link);">
+                <h4 style="color:var(--accent-link);">Addiction</h4>
                 <p class="desc">Breaking free from substance and behavioral bondage.</p>
             </a>
             <a href="anger.html" class="item-card" style="border-left-color:#c0392b;">

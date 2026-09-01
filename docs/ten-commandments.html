@@ -23,19 +23,19 @@
         .back-link i { margin-right: 6px; }
 
         .jump-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); gap: 6px; margin-bottom: 24px; }
-        .jump-card { background: #fff; border: 1px solid #e8e0d6; border-radius: 8px; padding: 8px 10px; text-align: center; font-size: 0.76rem; font-weight: 600; color: #6b4c3b; text-decoration: none; transition: background 0.15s, transform 0.15s; }
+        .jump-card { background: #fff; border: 1px solid var(--border-light); border-radius: 8px; padding: 8px 10px; text-align: center; font-size: 0.76rem; font-weight: 600; color: #6b4c3b; text-decoration: none; transition: background 0.15s, transform 0.15s; }
         .jump-card:hover { background: #f5ebe0; transform: translateY(-1px); }
 
-        .section-block { background: var(--bg-card, #fff); border: 1px solid var(--border-light, #e8e0d6); border-radius: 12px; padding: 28px 32px; box-shadow: 0 2px 8px rgba(0,0,0,0.04); margin-bottom: 24px; scroll-margin-top: 76px; }
+        .section-block { background: var(--bg-card, #fff); border: 1px solid var(--border-light, var(--border-light)); border-radius: 12px; padding: 28px 32px; box-shadow: 0 2px 8px rgba(0,0,0,0.04); margin-bottom: 24px; scroll-margin-top: 76px; }
         .section-block h2 { font-family: 'Poppins', 'Inter', sans-serif; font-weight:700; font-size: 1.35rem; color: #6b4c3b; margin-bottom: 4px; }
-        .section-block .section-kicker { display: block; font-family: 'Inter', sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.6px; text-transform: uppercase; color: #8a7e74; margin-bottom: 6px; }
+        .section-block .section-kicker { display: block; font-family: 'Inter', sans-serif; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.6px; text-transform: uppercase; color: var(--text-faint); margin-bottom: 6px; }
         .section-block h3 { font-family: 'Poppins', 'Inter', sans-serif; font-weight:700; font-size: 0.95rem; color: #6b4c3b; margin: 20px 0 12px; }
         .section-block h4 { font-family: 'Poppins', 'Inter', sans-serif; font-weight:700; font-size: 0.88rem; color: #6b4c3b; margin: 18px 0 10px; }
-        .section-block p { font-size: 0.92rem; color: #3d342e; line-height: 1.8; margin-bottom: 14px; }
+        .section-block p { font-size: 0.92rem; color: var(--text-secondary); line-height: 1.8; margin-bottom: 14px; }
         .section-block p:last-child { margin-bottom: 0; }
 
         .verse-list { list-style: none; padding: 0; margin: 0; }
-        .verse-list li { margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid #e8e0d6; }
+        .verse-list li { margin-bottom: 12px; padding-bottom: 12px; border-bottom: 1px solid var(--border-light); }
         .verse-list li:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
 
         .video-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 16px; margin-bottom: 20px; }
@@ -48,9 +48,9 @@
         .verse-popup { display:none; position:fixed; top:50%; left:50%; transform:translate(-50%,-50%); background:#fff; border-radius:12px; padding:24px 28px; max-width:500px; width:90%; max-height:70vh; overflow-y:auto; box-shadow:0 16px 48px rgba(0,0,0,0.2); z-index:9999; }
         .verse-popup.show { display:block; }
         .verse-popup .popup-ref { font-family:'Poppins','Inter',sans-serif; font-size:1rem; color:#6b4c3b; margin-bottom:12px; font-weight:700; }
-        .verse-popup .popup-text { font-family:'Merriweather',serif; font-size:0.92rem; line-height:1.9; color:#3d2b1f; }
-        .verse-popup .popup-close { position:absolute; top:12px; right:16px; background:none; border:none; font-size:1.3rem; cursor:pointer; color:#8a7e74; }
-        .verse-popup .popup-loading { font-size:0.85rem; color:#8a7e74; font-style:italic; }
+        .verse-popup .popup-text { font-family:'Merriweather',serif; font-size:0.92rem; line-height:1.9; color:var(--ink-deep); }
+        .verse-popup .popup-close { position:absolute; top:12px; right:16px; background:none; border:none; font-size:1.3rem; cursor:pointer; color:var(--text-faint); }
+        .verse-popup .popup-loading { font-size:0.85rem; color:var(--text-faint); font-style:italic; }
 
         @media (max-width: 768px) { .topic-hero h1 { font-size: 1.6rem; } .topic-hero { padding: 28px 16px; } .section-block { padding: 20px 16px; } .video-grid { grid-template-columns: 1fr; } }
     </style>
