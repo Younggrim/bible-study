@@ -16,12 +16,29 @@ five folded pages as overlapping because it could not see the difference.
 Verse totals come from each page's own scripture markup rather than from a table,
 so the count cannot drift out of step with the text on the page.
 
-CLEAN means every verse in the chapter is covered by exactly one section.
+Labels are also checked for two faults that verse coverage cannot see, because a
+page can cover every verse and still carry a broken heading:
+
+  Sentence fragments. Prose cut at a colon and promoted into a label, as in
+  'The chapter divides into two movements:' or "2chronicles29"'s "The chapter's
+  theological climax is verse 36:". These read as headings and are not.
+  Labels cut inside a verse reference, as in ezekiel29's 'The first oracle (29:',
+  where the colon that was split on belonged to chapter and verse.
+
+Quoted material is removed before the fragment test, so a genuine topical heading
+that contains a quotation is not mistaken for prose. matthew5's 'The Six Antitheses
+("You have heard... but I say")' is a heading, and the verb inside its quotation
+must not condemn it.
+
+CLEAN means every verse in the chapter is covered by exactly one section, no range
+runs past the end of the chapter, and no label carries emphatic capitals, a
+sentence fragment, or a truncated verse reference.
 
 Usage:
     python3 audit_authorship.py              summary and per-book table
     python3 audit_authorship.py <book>       per-chapter detail for one book
     python3 audit_authorship.py --defects    every non-clean page with its reason
+    python3 audit_authorship.py --labels     every fragment or truncated label
 """
 import collections
 import glob
@@ -39,6 +56,39 @@ CAPS = re.compile(r"\b[A-Z]{2,}\b")
 CAPS_OK = {"LORD", "GOD", "YHWH", "OT", "NT", "BC", "AD", "KJV", "ESV", "ASV",
            "AM", "II", "BRANCH", "HOLINESS", "PE", "AYIN", "MENE", "TEKEL",
            "UPHARSIN"}
+
+# Fields that belong to the book or the chapter as a whole rather than to a span of
+# verses. These are expected to carry no range and are exempt from the label checks.
+BOOK_FIELDS = {
+    "Author:", "Historical Context:", "Classification:", "Key Themes:", "Purpose:",
+    "Date Written:", "Audience:", "Recipient:", "Theme:", "Prologue:", "Notable:",
+    "Speakers:", "Date:", "Subscription:", "The Issue:",
+}
+# A finite verb in a label means a sentence was cut at a colon rather than a heading
+# being written. Participles and gerunds are deliberately absent, since headings use
+# them freely: 'Sowing the Wind', 'The Filthy Garments Removed'.
+FINITE_VERB = re.compile(
+    r"\b(is|are|was|were|has|have|had|divides|moves|reveals|represent|represents|"
+    r"debate|debates|debated|respond|responds|contains|begins|ends|breaks|matters|"
+    r"shows|makes|comes|form|forms|reads|opens|closes|follows|amounts|becomes|records|"
+    r"tells|says|asks|answers|stands|sits|runs|leads|points|hangs|turns|gives|"
+    r"takes|holds|carries|marks|pivots|requires|wonders|seems|appears|means)\b")
+QUOTED = re.compile(r"\"[^\"]*\"|\u201c[^\u201d]*\u201d|\u2018[^\u2019]*\u2019")
+TRUNC_REF = re.compile(r"\((?:\w+\s+)?\d+:\s*$")
+
+
+def label_fault(label):
+    """Return a reason string if a label is a cut sentence, else None."""
+    if label in BOOK_FIELDS or TAIL.search(label):
+        return None
+    if label.startswith("Chapter ") or label.startswith("Purpose of"):
+        return None
+    if TRUNC_REF.search(label.rstrip(":") + ":"):
+        return "cut inside a verse reference"
+    bare = QUOTED.sub(" ", label)
+    if len(bare.split()) >= 4 and FINITE_VERB.search(bare):
+        return "sentence fragment"
+    return None
 
 
 def halves(spec):
@@ -91,6 +141,7 @@ def scan():
         stray = set()
         for label, _ in sections:
             stray |= {w for w in CAPS.findall(label) if w not in CAPS_OK}
+        faults = [(l, label_fault(l)) for l in labels]
         pages[name] = {
             "verses": total,
             "sections": len(sections),
@@ -98,6 +149,7 @@ def scan():
             "repeated": sorted({v for v, _ in repeated}),
             "beyond": over,
             "caps": sorted(stray),
+            "labels": [(l, f) for l, f in faults if f],
         }
     return pages
 
@@ -114,6 +166,9 @@ def reason(d):
         bits.append(f"range past end of chapter {d['beyond']}")
     if d["caps"]:
         bits.append(f"capitals in label {d['caps']}")
+    if d["labels"]:
+        kinds = sorted({f for _, f in d["labels"]})
+        bits.append(f"{len(d['labels'])} label(s) {' and '.join(kinds)}")
     return ", ".join(bits)
 
 
@@ -121,8 +176,19 @@ def main():
     pages = scan()
     clean = {n for n, d in pages.items()
              if d["sections"] and not (d["missing"] or d["repeated"] or d["beyond"]
-                                      or d["caps"])}
+                                      or d["caps"] or d["labels"])}
     arg = sys.argv[1] if len(sys.argv) > 1 else None
+
+    if arg == "--labels":
+        total = 0
+        for n in sorted(pages, key=lambda x: (re.sub(r"\d+$", "", x),
+                                              int(re.search(r"\d+$", x).group()))):
+            for label, fault in pages[n]["labels"]:
+                print(f"  {n:18s} {fault:28s} {label}")
+                total += 1
+        print(f"\n{total} broken label(s) on "
+              f"{len([n for n in pages if pages[n]['labels']])} page(s)")
+        return 0
 
     if arg == "--defects":
         for n in sorted(pages, key=lambda x: (re.sub(r"\d+$", "", x),
