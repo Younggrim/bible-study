@@ -58,10 +58,15 @@ def main():
 
         # record what is about to go, for the report
         for _, _, vid, label in vs.players(original):
-            if label not in vs.BIBLE_STUDY_ALLOW or (vid and vid in drop_ids):
-                key = label if label not in vs.BIBLE_STUDY_ALLOW \
-                    else f"{label} (Short)"
-                per_channel[key] = per_channel.get(key, 0) + 1
+            if label not in vs.BIBLE_STUDY_ALLOW:
+                key = label
+            elif vid and vid in vs.DROP_VIDEO_IDS:
+                key = f"{label} (dropped by id)"
+            elif vid and vid in drop_ids:
+                key = f"{label} (Short)"
+            else:
+                continue
+            per_channel[key] = per_channel.get(key, 0) + 1
 
         text, removed, relabelled = vs.apply_filter(
             original, vs.BIBLE_STUDY_ALLOW, drop_ids)

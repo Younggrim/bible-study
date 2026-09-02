@@ -43,6 +43,7 @@ import xml.etree.ElementTree as ET
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import automation_http as http  # noqa: E402
+import video_sources as vs  # noqa: E402
 
 AUTOMATION_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), ".automation")
 ISSUE_BODY_PATH = "/tmp/new_videos_issue_body.md"
@@ -168,6 +169,7 @@ def main():
     failures = []
     rewrites = []
     shorts_skipped = []
+    dropped_skipped = []
 
     for path, data in state_files:
         channels, legacy = normalise(data)
@@ -190,11 +192,15 @@ def main():
             known = set(info.get("known_video_ids") or [])
             fresh = [(v, t, d) for v, t, d in entries if v not in known]
 
-            # Shorts are never suggested. They are still recorded as seen, so
-            # they are checked once and then never raised again.
+            # Shorts are never suggested, and neither is anything on the shared
+            # drop list. Both are still recorded as seen, so they are checked
+            # once and then never raised again. Without the drop-list check a
+            # video removed from the pages would be re-suggested next week.
             keep = []
             for v, t, d in fresh:
-                if is_short(v):
+                if v in vs.DROP_VIDEO_IDS:
+                    dropped_skipped.append((name, v, t))
+                elif is_short(v):
                     shorts_skipped.append((name, v, t))
                 else:
                     keep.append((v, t, d))
@@ -215,6 +221,12 @@ def main():
                             + (" (migrated to canonical shape)" if legacy else ""))
 
     total = sum(len(v) for v in found.values())
+    if dropped_skipped:
+        print(f"Skipped {len(dropped_skipped)} video(s) on the shared drop list; "
+              f"recorded as seen and will not be raised again.", file=sys.stderr)
+        for ch, v, ttl in dropped_skipped:
+            print(f"    {ch}: {v}  {ttl[:60]}", file=sys.stderr)
+            print(f"        reason: {vs.DROP_VIDEO_IDS[v]}", file=sys.stderr)
     if shorts_skipped:
         print(f"Skipped {len(shorts_skipped)} YouTube Short(s); they are recorded as seen and will not be raised again.",
               file=sys.stderr)
