@@ -50,6 +50,8 @@ import sys
 DOCS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs")
 PANE = re.compile(r'(id="tab-authorship">)(.*?)(?=<div class="tab-content")', re.S)
 LABEL = re.compile(r'<span class="auth-label">(.*?)</span>', re.S)
+ITEM_PAIR = re.compile(
+    r'<div class="auth-item"><span class="auth-label">(.*?)</span>\s*(.*?)</div>', re.S)
 TAIL = re.compile(r'\(vv?\.([\d]+[a-z]?(?:[-,:\s]+[\d]+[a-z]?)*)\)\s*:\s*$')
 PART = re.compile(r'(\d+)([ab]?)(?:\s*-\s*(\d+)([ab]?))?')
 CAPS = re.compile(r"\b[A-Z]{2,}\b")
@@ -84,16 +86,26 @@ FINITE_VERB = re.compile(
     r"repeats|returns|shifts|narrows|widens|centers|centres|works)\b")
 QUOTED = re.compile(r"\"[^\"]*\"|\u201c[^\u201d]*\u201d|\u2018[^\u2019]*\u2019")
 TRUNC_REF = re.compile(r"\((?:\w+\s+)?\d+:\s*$")
+# A label ending in a chapter number, as in 'Romans 3:', is only evidence of a cut
+# reference if the body then opens with the verse number. Requiring both keeps
+# ordinary numbered headings such as 'Feast 1:' out of it.
+CHAPTER_TAIL = re.compile(r"\b[1-3]?\s*[A-Z][A-Za-z]+\s+\d+:\s*$")
 
 
-def label_fault(label):
-    """Return a reason string if a label is a cut sentence, else None."""
+def label_fault(label, body=None):
+    """Return a reason string if a label is a cut sentence, else None.
+
+    body is optional. It is only needed to recognise a label that was cut between
+    a chapter number and its verse number.
+    """
     if label in BOOK_FIELDS or TAIL.search(label):
         return None
     if label.startswith("Chapter ") or label.startswith("Purpose of"):
         return None
     if TRUNC_REF.search(label.rstrip(":") + ":"):
         return "cut inside a verse reference"
+    if body is not None and CHAPTER_TAIL.search(label) and re.match(r"\s*\d", body):
+        return "cut between chapter and verse"
     bare = QUOTED.sub(" ", label)
     if len(bare.split()) >= 4 and FINITE_VERB.search(bare):
         return "sentence fragment"
@@ -150,7 +162,10 @@ def scan():
         stray = set()
         for label, _ in sections:
             stray |= {w for w in CAPS.findall(label) if w not in CAPS_OK}
-        faults = [(l, label_fault(l)) for l in labels]
+        pairs = [(H.unescape(a).strip(), H.unescape(re.sub(r"<.*?>", "", b)).strip())
+                 for a, b in ITEM_PAIR.findall(pane.group(2))]
+        faults = [(l, label_fault(l, b)) for l, b in pairs] if pairs else \
+                 [(l, label_fault(l)) for l in labels]
         pages[name] = {
             "verses": total,
             "sections": len(sections),
