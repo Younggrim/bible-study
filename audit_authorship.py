@@ -67,12 +67,21 @@ BOOK_FIELDS = {
 # A finite verb in a label means a sentence was cut at a colon rather than a heading
 # being written. Participles and gerunds are deliberately absent, since headings use
 # them freely: 'Sowing the Wind', 'The Filthy Garments Removed'.
+# Matching is deliberately case-sensitive on lowercase forms. Headings here are
+# title-cased, so a noun that doubles as a verb ('The Share of the Levites', 'The
+# Form of Godliness') cannot trip the check, while a verb inside a sentence can.
 FINITE_VERB = re.compile(
     r"\b(is|are|was|were|has|have|had|divides|moves|reveals|represent|represents|"
     r"debate|debates|debated|respond|responds|contains|begins|ends|breaks|matters|"
     r"shows|makes|comes|form|forms|reads|opens|closes|follows|amounts|becomes|records|"
     r"tells|says|asks|answers|stands|sits|runs|leads|points|hangs|turns|gives|"
-    r"takes|holds|carries|marks|pivots|requires|wonders|seems|appears|means)\b")
+    r"takes|holds|carries|marks|pivots|requires|wonders|seems|appears|means|"
+    r"unfolds|share|shares|operates|operate|describes|presents|offers|covers|traces|"
+    r"focuses|concerns|consists|functions|serves|falls|splits|alternates|builds|"
+    r"culminates|progresses|develops|expands|parallels|echoes|recalls|quotes|cites|"
+    r"notes|adds|omits|lacks|raises|poses|demands|implies|suggests|indicates|"
+    r"confirms|proves|explains|illustrates|demonstrates|emphasizes|stresses|"
+    r"repeats|returns|shifts|narrows|widens|centers|centres|works)\b")
 QUOTED = re.compile(r"\"[^\"]*\"|\u201c[^\u201d]*\u201d|\u2018[^\u2019]*\u2019")
 TRUNC_REF = re.compile(r"\((?:\w+\s+)?\d+:\s*$")
 
