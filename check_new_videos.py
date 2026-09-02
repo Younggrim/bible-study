@@ -120,6 +120,28 @@ def rss_url_for(info):
     return None
 
 
+def is_short(vid):
+    """True if this video is a YouTube Short.
+
+    youtube.com/shorts/<id> answers it with no API key: a genuine Short serves
+    200, a normal video 303-redirects to /watch. Only a clean 200 counts. If the
+    check is ambiguous this returns False, because wrongly flagging a full
+    teaching video as a Short would hide it from review entirely, which is the
+    worse failure.
+    """
+    for _ in range(2):
+        try:
+            status, _ = http.get(f"https://www.youtube.com/shorts/{vid}",
+                                 timeout=20)
+        except (OSError, ValueError):
+            continue
+        if status == 200:
+            return True
+        if status in (301, 302, 303):
+            return False
+    return False
+
+
 def fetch_feed(url):
     status, body = http.get(url, timeout=TIMEOUT)
     if status != 200:
@@ -145,6 +167,7 @@ def main():
     found = {}
     failures = []
     rewrites = []
+    shorts_skipped = []
 
     for path, data in state_files:
         channels, legacy = normalise(data)
@@ -166,10 +189,21 @@ def main():
 
             known = set(info.get("known_video_ids") or [])
             fresh = [(v, t, d) for v, t, d in entries if v not in known]
+
+            # Shorts are never suggested. They are still recorded as seen, so
+            # they are checked once and then never raised again.
+            keep = []
+            for v, t, d in fresh:
+                if is_short(v):
+                    shorts_skipped.append((name, v, t))
+                else:
+                    keep.append((v, t, d))
+
             if fresh:
-                found.setdefault(name, []).extend(fresh)
                 info["known_video_ids"] = sorted(known | {v for v, _, _ in fresh})
                 changed = True
+            if keep:
+                found.setdefault(name, []).extend(keep)
 
         if changed and not check:
             payload = {"channels": channels,
@@ -181,6 +215,11 @@ def main():
                             + (" (migrated to canonical shape)" if legacy else ""))
 
     total = sum(len(v) for v in found.values())
+    if shorts_skipped:
+        print(f"Skipped {len(shorts_skipped)} YouTube Short(s); they are recorded as seen and will not be raised again.",
+              file=sys.stderr)
+        for ch, v, ttl in shorts_skipped[:20]:
+            print(f"    {ch}: {v}  {ttl[:60]}", file=sys.stderr)
     gh_output = os.environ.get("GITHUB_OUTPUT")
 
     for f in failures:
