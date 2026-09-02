@@ -159,6 +159,13 @@ def scan():
                 over.append(label)
         want = {(v, h) for v in range(1, total + 1) for h in ("a", "b")}
         missing = sorted({v for v, _ in (want - covered)})
+        # Sections should read down the page in the order the chapter runs.
+        starts = []
+        for _, spec in sections:
+            got = halves(spec)
+            starts.append(min(v for v, _ in got) if got else 0)
+        misordered = [(sections[i][0], sections[i + 1][0])
+                      for i in range(len(starts) - 1) if starts[i] > starts[i + 1]]
         stray = set()
         for label, _ in sections:
             stray |= {w for w in CAPS.findall(label) if w not in CAPS_OK}
@@ -174,6 +181,7 @@ def scan():
             "beyond": over,
             "caps": sorted(stray),
             "labels": [(l, f) for l, f in faults if f],
+            "misordered": misordered,
         }
     return pages
 
@@ -193,6 +201,9 @@ def reason(d):
     if d["labels"]:
         kinds = sorted({f for _, f in d["labels"]})
         bits.append(f"{len(d['labels'])} label(s) {' and '.join(kinds)}")
+    if d["misordered"]:
+        a, b = d["misordered"][0]
+        bits.append(f"sections out of verse order ({a!r} before {b!r})")
     return ", ".join(bits)
 
 
@@ -200,7 +211,8 @@ def main():
     pages = scan()
     clean = {n for n, d in pages.items()
              if d["sections"] and not (d["missing"] or d["repeated"] or d["beyond"]
-                                      or d["caps"] or d["labels"])}
+                                      or d["caps"] or d["labels"]
+                                      or d["misordered"])}
     arg = sys.argv[1] if len(sys.argv) > 1 else None
 
     if arg == "--labels":
