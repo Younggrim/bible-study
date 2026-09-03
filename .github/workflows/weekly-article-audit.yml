@@ -1,0 +1,68 @@
+name: Weekly article audit
+
+# Watches the four article sources in article_sources.py and lists anything
+# published since the last run, without guessing which page it belongs on.
+#
+# This is a sibling of weekly-video-audit.yml rather than another job inside it,
+# for two reasons. That file is byte-identical in both repos and New River has no
+# article scripts, so adding a job there would make the two copies diverge. And
+# the two audits are independently dispatchable this way, which matters when only
+# one of them needs re-running.
+#
+# It never edits docs/. Deciding that a Crossway piece on lament belongs on
+# Lamentations 3, or that a title mentioning Mark is about Mark Dever and not the
+# Gospel, is a judgment call left to a person working from the issue. Accepted
+# articles go into the tables in article_sources.py and reach the pages via
+# add_articles.py. See WORKFLOW.md.
+
+on:
+  schedule:
+    - cron: '0 14 * * 1'   # Mondays, 14:00 UTC, an hour after the video audit
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: article-audit
+  cancel-in-progress: false
+
+jobs:
+  new-articles:
+    name: Check article sources for new material
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # 55 requests: one sitemap each for BibleProject, gotquestions.org and
+      # gotquestions.blog, plus Crossway's main feed and 51 topic feeds. Crossway
+      # publishes no article sitemap, so the tag feeds are the only way to see
+      # more than the latest 15. A single feed failing is reported and skipped;
+      # only a source losing every one of its feeds leaves its state untouched,
+      # so an outage can never mark a whole catalogue as seen.
+      - name: Poll article sources
+        id: check
+        run: python3 check_new_articles.py
+
+      - name: Commit updated article state
+        if: steps.check.outputs.has_new == 'true'
+        run: |
+          if [ -n "$(git status --porcelain .automation/articles/)" ]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add .automation/articles/
+            git commit -m "Record newly seen articles on watched sources"
+            git push
+          else
+            echo "No state change to commit."
+          fi
+
+      - name: Open an issue listing the new articles
+        if: steps.check.outputs.has_new == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue create \
+            --title "New articles on watched sources ($(date -u +%Y-%m-%d))" \
+            --body-file /tmp/new_articles_issue_body.md
