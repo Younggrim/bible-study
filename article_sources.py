@@ -1031,10 +1031,70 @@ def link_label(source):
     return SOURCES[source][0]
 
 
+def render_item(source, url, note):
+    """The inner content of one entry, without the <li> wrapper."""
+    return (f"<strong>{source}:</strong> "
+            f"{LINK.format(url=url, label=link_label(source))} {note}")
+
+
 def render_li(source, url, note):
-    """One list item, matching the Commentary tab's shape exactly."""
-    return (f"<li><strong>{source}:</strong> "
-            f"{LINK.format(url=url, label=link_label(source))} {note}</li>")
+    """One list item for a chapter page's tab pane, matching the Commentary
+    tab's shape exactly. .tab-content in site/style.css supplies the indent and
+    the gold star bullet, so nothing is needed here."""
+    return f"<li>{render_item(source, url, note)}</li>"
+
+
+# Styling for a list item on a topical or life page, which has no .tab-content
+# ancestor to inherit from.
+#
+# style.css opens with `* { margin: 0; padding: 0; box-sizing: border-box; }`,
+# which zeroes a ul's default padding-left. It does not reset list-style, so a
+# plain <ul> there keeps its disc marker with no room to sit in, and because
+# markers are drawn outside the content box the discs hang left of the text --
+# visibly flush against the card's left edge on mobile, where .section-block
+# padding drops from 32px to 16px. Chapter pages avoid this because
+# `.tab-content ul { padding-left: 20px; list-style: none; }` restores the room
+# and swaps the disc for the gold star.
+#
+# These declarations reproduce that rule's box model exactly rather than merely
+# approximating it: 20px of padding on the ul, no list marker, the star as the
+# first inline content of each item followed by a space, and the same
+# 0.92rem / 1.7 / --text-secondary body with 10px between items.
+#
+# Inline content, not an absolutely positioned marker. Absolute positioning would
+# give a hanging indent where wrapped lines clear the star, which looks tidier but
+# is NOT what the chapter pages do -- `content: "✦ "` on a ::before is inline, so
+# there the star sits at the 20px mark and wrapped lines return to 20px, under it.
+# Matching the tab meant copying that, not improving on it.
+#
+# Each repo resolves --accent-gold-light to its own gold, #c49a2a upstream and
+# #c9a96e on New River, so no colour is hardcoded.
+#
+# The star is markup rather than a ::before rule on purpose. site/style.css is on
+# the sync's preserve list, so a rule there has to be added by hand in both
+# repos, and both WORKFLOW.md and CLAUDE_HANDOFF.md flag that as the mistake that
+# has already been made twice. Keeping it inline keeps it in one regenerable
+# script.
+TOPIC_UL_STYLE = "padding-left:20px;list-style:none;margin:0;"
+TOPIC_LI_STYLE = ("font-size:0.92rem;line-height:1.7;"
+                  "color:var(--text-secondary);margin-bottom:10px;")
+TOPIC_MARKER_STYLE = "color:var(--accent-gold-light);"
+
+# U+2726 BLACK FOUR POINTED STAR, the same glyph style.css uses. Written as a
+# numeric reference rather than the literal character so it cannot be turned into
+# U+FFFD by a non-UTF-8 tool, which has happened to this repo before -- 173 video
+# captions needed repairing for exactly that reason. The verification pass greps
+# for U+FFFD and expects zero.
+STAR = "&#10022;"
+
+
+def render_li_standalone(source, url, note):
+    """One list item for a topical or life page, carrying its own star because no
+    stylesheet rule covers it. The trailing space after the star matches the
+    `content: "✦ "` it is standing in for. See TOPIC_UL_STYLE above."""
+    return (f'<li style="{TOPIC_LI_STYLE}">'
+            f'<span aria-hidden="true" style="{TOPIC_MARKER_STYLE}">{STAR}</span> '
+            f"{render_item(source, url, note)}</li>")
 
 
 def gq_book_entry(book_slug):

@@ -68,9 +68,14 @@ BLOCK = re.compile(
     re.S)
 
 
-def render_items(entries, indent):
+def render_items(entries, indent, standalone=False):
+    """standalone=True is for the topical and life pages, whose list has no
+    .tab-content ancestor and so carries its indent and star bullet inline. A
+    chapter pane must NOT use it, or the star would appear twice: once from the
+    inline span and once from the .tab-content li::before rule."""
     pad = " " * indent
-    return ("\n" + pad).join(asrc.render_li(*e) for e in entries)
+    render = asrc.render_li_standalone if standalone else asrc.render_li
+    return ("\n" + pad).join(render(*e) for e in entries)
 
 
 def build_pane(entries):
@@ -102,8 +107,8 @@ def build_block(entries, indent):
     return (f'{pad}<div class="section-block">\n'
             f"{inner}<h2>Articles</h2>\n"
             f"{inner}{FENCE_OPEN}\n"
-            f"{inner}<ul>\n"
-            f"{inner}    {render_items(entries, indent + 8)}\n"
+            f'{inner}<ul style="{asrc.TOPIC_UL_STYLE}">\n'
+            f"{inner}    {render_items(entries, indent + 8, standalone=True)}\n"
             f"{inner}</ul>\n"
             f"{inner}<p style=\"font-size:0.78rem;color:var(--text-faint);"
             "margin-top:14px;line-height:1.7;\">Links open on the publisher's own "
