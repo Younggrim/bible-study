@@ -3,3 +3,6 @@ __pycache__/
 *.pyc
 .config.kiro
 .wrangler/
+# Natural Earth downloads, cached so mapgeo_basemap.py does not refetch 25 MB
+# on every run. Rebuildable, so not worth committing.
+.ne-cache/
