@@ -58,11 +58,21 @@ jobs:
             echo "No state change to commit."
           fi
 
+      # --assignee is what turns this into a phone alert. An assigned issue counts
+      # as "participating" rather than "watching", which GitHub Mobile pushes by
+      # default, and it lands in github.com/issues/assigned as a working queue.
+      #
+      # The fallback matters. If assignment ever fails -- account renamed, removed
+      # from the repo, a gh change -- `gh issue create` exits non-zero and files
+      # nothing, which would silently swallow the week's report. Filing it
+      # unassigned is much better than not filing it, the same way the poller
+      # keeps content and surfaces it whenever a check is inconclusive.
       - name: Open an issue listing the new articles
         if: steps.check.outputs.has_new == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh issue create \
-            --title "New articles on watched sources ($(date -u +%Y-%m-%d))" \
-            --body-file /tmp/new_articles_issue_body.md
+          TITLE="New articles on watched sources ($(date -u +%Y-%m-%d))"
+          BODY=/tmp/new_articles_issue_body.md
+          gh issue create --title "$TITLE" --assignee Younggrim --body-file "$BODY" \
+            || gh issue create --title "$TITLE" --body-file "$BODY"
