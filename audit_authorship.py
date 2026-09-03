@@ -56,8 +56,8 @@ TAIL = re.compile(r'\(vv?\.([\d]+[a-z]?(?:[-,:\s]+[\d]+[a-z]?)*)\)\s*:\s*$')
 PART = re.compile(r'(\d+)([ab]?)(?:\s*-\s*(\d+)([ab]?))?')
 CAPS = re.compile(r"\b[A-Z]{2,}\b")
 CAPS_OK = {"LORD", "GOD", "YHWH", "OT", "NT", "BC", "AD", "KJV", "ESV", "ASV",
-           "AM", "II", "BRANCH", "HOLINESS", "PE", "AYIN", "MENE", "TEKEL",
-           "UPHARSIN"}
+           "AM", "II", "III", "IV", "BRANCH", "HOLINESS", "PE", "AYIN", "MENE",
+           "TEKEL", "UPHARSIN"}
 
 # Fields that belong to the book or the chapter as a whole rather than to a span of
 # verses. These are expected to carry no range and are exempt from the label checks.
