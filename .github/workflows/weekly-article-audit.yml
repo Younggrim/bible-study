@@ -9,11 +9,13 @@ name: Weekly article audit
 # the two audits are independently dispatchable this way, which matters when only
 # one of them needs re-running.
 #
-# It never edits docs/. Deciding that a Crossway piece on lament belongs on
-# Lamentations 3, or that a title mentioning Mark is about Mark Dever and not the
-# Gospel, is a judgment call left to a person working from the issue. Accepted
-# articles go into the tables in article_sources.py and reach the pages via
-# add_articles.py. See WORKFLOW.md.
+# It never edits docs/ on its own. Deciding that a Crossway piece on lament
+# belongs on Lamentations 3, or that a title mentioning Mark is about Mark Dever
+# and not the Gospel, is a judgment call. suggest_placements.py drafts one AI
+# suggestion per item (Claude Haiku 4.5, its own ANTHROPIC_API_KEY, never the
+# session bible-study is otherwise edited from) and numbers the issue so a
+# reply of "approve: 1,3" is enough -- apply-approved-placements.yml then does
+# the actual write, gated to the repo owner's reply. See WORKFLOW.md.
 
 on:
   schedule:
@@ -43,7 +45,7 @@ jobs:
       # so an outage can never mark a whole catalogue as seen.
       - name: Poll article sources
         id: check
-        run: python3 check_new_articles.py
+        run: python3 check_new_articles.py --json-out /tmp/new_articles_found.json
 
       - name: Commit updated article state
         if: steps.check.outputs.has_new == 'true'
@@ -58,6 +60,20 @@ jobs:
             echo "No state change to commit."
           fi
 
+      # Best-effort. suggest_placements.py leaves the plain issue body from
+      # check_new_articles.py untouched -- no numbering, no AI suggestions --
+      # if ANTHROPIC_API_KEY is unset or the API call fails for any reason, so
+      # a suggestion outage never blocks the week's report from being filed.
+      - name: Suggest placements (AI)
+        if: steps.check.outputs.has_new == 'true'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          pip install --quiet anthropic
+          python3 suggest_placements.py --kind article \
+            --items /tmp/new_articles_found.json \
+            --issue-body /tmp/new_articles_issue_body.md
+
       # --assignee is what turns this into a phone alert. An assigned issue counts
       # as "participating" rather than "watching", which GitHub Mobile pushes by
       # default, and it lands in github.com/issues/assigned as a working queue.
@@ -67,6 +83,14 @@ jobs:
       # nothing, which would silently swallow the week's report. Filing it
       # unassigned is much better than not filing it, the same way the poller
       # keeps content and surfaces it whenever a check is inconclusive.
+      #
+      # pending-placement is what apply-approved-placements.yml gates on, so it
+      # is only added when the issue body actually carries suggestions to act
+      # on -- an issue the AI-suggestion step left untouched (key unset, or
+      # the call failed) gets no label, and a reply to it is simply a normal
+      # comment, not something the approval workflow would try to parse.
+      # Creating the label first is idempotent -- a label that already exists
+      # is a no-op, never an error that would abort the issue filing.
       - name: Open an issue listing the new articles
         if: steps.check.outputs.has_new == 'true'
         env:
@@ -74,5 +98,14 @@ jobs:
         run: |
           TITLE="New articles on watched sources ($(date -u +%Y-%m-%d))"
           BODY=/tmp/new_articles_issue_body.md
-          gh issue create --title "$TITLE" --assignee Younggrim --body-file "$BODY" \
-            || gh issue create --title "$TITLE" --body-file "$BODY"
+          LABEL_ARGS=()
+          if grep -q '<!-- PLACEMENT_JSON' "$BODY"; then
+            gh label create pending-placement --color FBCA04 \
+              --description "Weekly audit issue awaiting an approve-by-number reply" \
+              --force 2>/dev/null || true
+            LABEL_ARGS=(--label pending-placement)
+          fi
+          gh issue create --title "$TITLE" --assignee Younggrim \
+            "${LABEL_ARGS[@]}" --body-file "$BODY" \
+            || gh issue create --title "$TITLE" "${LABEL_ARGS[@]}" \
+              --body-file "$BODY"

@@ -31,9 +31,12 @@ Any legacy file is rewritten in the canonical shape on first run, so the shapes
 converge without losing which videos were already seen.
 
 Usage:
-    python3 check_new_videos.py [--check]
+    python3 check_new_videos.py [--check] [--json-out PATH]
 
 --check reports findings but writes nothing, neither state nor issue body.
+--json-out PATH also writes the flat list of newly found videos as JSON
+    (each item: channel, id, title, date), for a downstream step such as
+    suggest_placements.py. Not written under --check.
 """
 import datetime
 import json
@@ -158,8 +161,19 @@ def fetch_feed(url):
     return entries
 
 
+def json_out_path():
+    if "--json-out" in sys.argv:
+        i = sys.argv.index("--json-out")
+        try:
+            return sys.argv[i + 1]
+        except IndexError:
+            sys.exit("--json-out needs a path")
+    return None
+
+
 def main():
     check = "--check" in sys.argv
+    json_out = json_out_path()
     state_files = load_state_files()
     if not state_files:
         print(f"No state files under {AUTOMATION_DIR}. Nothing to check.")
@@ -279,6 +293,12 @@ def main():
         if gh_output:
             with open(gh_output, "a") as f:
                 f.write("has_new=true\n")
+        if json_out:
+            items = [{"channel": ch, "id": v, "title": t, "date": d}
+                     for ch, vids in sorted(found.items()) for v, t, d in vids]
+            with open(json_out, "w") as f:
+                json.dump(items, f, indent=2)
+                f.write("\n")
     return 0
 
 

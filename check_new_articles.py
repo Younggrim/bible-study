@@ -31,11 +31,14 @@ never raised again. Without that, an article deliberately left off the site
 would come back in next week's issue.
 
 Usage:
-    python3 check_new_articles.py [--check] [--seed]
+    python3 check_new_articles.py [--check] [--seed] [--json-out PATH]
 
 --check reports findings but writes neither state nor issue body.
 --seed  records everything currently published as already seen, without
         reporting any of it. Used once, when the feature was added.
+--json-out PATH also writes the flat list of newly found articles as JSON
+    (each item: source, url, title), for a downstream step such as
+    suggest_placements.py. Not written under --check or --seed.
 """
 import datetime
 import json
@@ -144,9 +147,20 @@ def slug_of(url):
     return re.sub(r"\.html$", "", tail)
 
 
+def json_out_path():
+    if "--json-out" in sys.argv:
+        i = sys.argv.index("--json-out")
+        try:
+            return sys.argv[i + 1]
+        except IndexError:
+            sys.exit("--json-out needs a path")
+    return None
+
+
 def main():
     check = "--check" in sys.argv
     seed = "--seed" in sys.argv
+    json_out = json_out_path()
 
     state = load_state()
     found = {}
@@ -270,6 +284,13 @@ def main():
         if gh_output:
             with open(gh_output, "a", encoding="utf-8") as f:
                 f.write("has_new=true\n")
+        if json_out:
+            items = [{"source": source, "url": url, "title": title}
+                     for source, items_ in sorted(found.items())
+                     for url, title in items_]
+            with open(json_out, "w", encoding="utf-8") as f:
+                json.dump(items, f, indent=2)
+                f.write("\n")
         if changed:
             save_state(state)
 

@@ -1,0 +1,82 @@
+name: Apply approved placements
+
+# Reacts to a reply on an issue weekly-article-audit.yml opened. A reply like
+# "approve: 1,3" from the repo owner is parsed by apply_approved.py, which
+# writes the approved items into article_sources.py's AUTO_* tables, runs
+# add_articles.py to regenerate the affected pages, and this workflow commits
+# and pushes the result straight to main -- see WORKFLOW.md for the full
+# approve-by-number flow and why a direct push (not a PR) was chosen.
+#
+# Scoped to articles only for now. Video placement stays a manual step from
+# the plain weekly-video-audit.yml issue: that workflow file is byte-identical
+# in bible-study and bible-study-newriver, and New River's own channel writes
+# to docs/newriver-videos.json rather than a chapter page, so an auto-push
+# here would need to know which repo it is running in before it could ever be
+# safe. Nothing about that is solved yet.
+#
+# The two gates below are why this is safe to leave world-readable: only a
+# reply from the actual repo owner, on an issue this pipeline itself opened
+# (carrying the pending-placement label), is ever acted on. Anyone else's
+# comment, or a comment on any other issue, is inert -- apply_approved.py
+# itself also no-ops on a comment that doesn't parse as an approval, as a
+# third layer, but the workflow-level `if:` is the real boundary.
+
+on:
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: apply-placements-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  apply:
+    name: Apply approved items from an issue reply
+    if: >
+      github.event.comment.user.login == 'Younggrim' &&
+      contains(github.event.issue.labels.*.name, 'pending-placement')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # ISSUE_BODY / COMMENT_BODY go through env, never string-interpolated
+      # into the run script -- both are attacker-controllable text (the issue
+      # body embeds AI-drafted titles/URLs, the comment is a free-form reply),
+      # and interpolating either directly into a shell command would be a
+      # script-injection hole. apply_approved.py reads them from os.environ.
+      - name: Apply approved items
+        id: apply
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          COMMENT_BODY: ${{ github.event.comment.body }}
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          python3 apply_approved.py
+
+      - name: Commit and push applied placements
+        env:
+          CHANGED: ${{ steps.apply.outputs.changed }}
+        run: |
+          if [ "$CHANGED" = "true" ] && [ -n "$(git status --porcelain docs/ article_sources.py)" ]; then
+            git add docs/ article_sources.py
+            git commit -m "Add approved article placement(s) from issue #${{ github.event.issue.number }}"
+            git push
+          else
+            echo "Nothing to commit."
+          fi
+
+      # Only when the comment actually parsed as an approval -- a stray reply
+      # like "thanks!" leaves acted=false and this step is skipped, so the
+      # issue is not spammed with a result comment for every unrelated reply.
+      - name: Report back and close the issue
+        if: steps.apply.outputs.acted == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh issue comment ${{ github.event.issue.number }} --body-file /tmp/apply_result.md
+          gh issue close ${{ github.event.issue.number }}

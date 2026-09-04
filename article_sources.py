@@ -1278,3 +1278,33 @@ def already_on_site(url):
     """True if this URL is already linked from a page, or has been ruled out.
     Either way it should never be suggested again."""
     return url in set(all_urls()) or url in DROP_ARTICLE_URLS
+
+
+# ---------------------------------------------------------------------------
+# Auto-approved additions
+# ---------------------------------------------------------------------------
+#
+# Entries a person approved by number from a weekly-audit issue, via
+# apply_approved.py -- see suggest_placements.py for how the suggestion that
+# produced each one was drafted, and WORKFLOW.md for the approve-by-number
+# flow. Kept as their own dicts rather than inserted into CHAPTER_ARTICLES /
+# TOPIC_ARTICLES directly, so an approval never has to locate and edit inside
+# those hand-curated literals. Move an entry up into its permanent home above
+# whenever convenient; nothing breaks either way, since the merge below runs
+# before anything reads CHAPTER_ARTICLES or TOPIC_ARTICLES.
+#
+# apply_approved.py finds this exact block by the fence comments and rewrites
+# it whole -- never hand-edit between the fences, or the next approval could
+# clobber the hand edit. Move an entry above the fences to hand-curate it.
+# AUTO_FENCE_OPEN
+AUTO_CHAPTER_ARTICLES = {
+}
+
+AUTO_TOPIC_ARTICLES = {
+}
+
+for _key, _entries in AUTO_CHAPTER_ARTICLES.items():
+    CHAPTER_ARTICLES[_key] = list(CHAPTER_ARTICLES.get(_key, [])) + list(_entries)
+for _key, _entries in AUTO_TOPIC_ARTICLES.items():
+    TOPIC_ARTICLES[_key] = list(TOPIC_ARTICLES.get(_key, [])) + list(_entries)
+# AUTO_FENCE_CLOSE
