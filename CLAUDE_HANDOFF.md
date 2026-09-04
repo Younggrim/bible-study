@@ -270,7 +270,7 @@ was fixed. `audit_authorship.py --defects`: 0. **Never bulk-transform** without
 reading context first — lowercasing by rule destroys divine names, Roman numerals
 and abbreviations; this pass is proof the check paid off.
 
-**4. British spellings, partially done.** `normalize_british_spelling.py` fixed 171
+**4. British spellings — DONE, 4 Sep.** `normalize_british_spelling.py` fixed 171
 occurrences of words that never appear in KJV vocabulary at all -- `centre`,
 `theatre`, `programme`, `organise` family, `cancelled`, `travelled`/`traveller`,
 `recognise`, `realise`, `summarise`, `emphasise`, `criticise`, `apologise`,
@@ -278,17 +278,46 @@ occurrences of words that never appear in KJV vocabulary at all -- `centre`,
 `modelling` -- since none of those can ever be part of a KJV quotation, so the
 word list alone is a safe filter.
 
-**Still open, and harder than a word list:** the classic-KJV-vocabulary words --
-`favour`, `honour`, `labour`, `saviour`, `neighbour`, `defence`, `offence`,
-`rumour`, `valour`, `behaviour`, `splendour`, `humour`, `colour`. This corpus
-often echoes KJV phrasing inline **without quotation marks** -- `1chronicles19`'s
-Authorship pane reads "thinkest thou that David doth honour thy father", lifted
-almost verbatim from the verse text sitting right above it in the same file, no
-quote marks anywhere near it. A scan for nearby quote marks does not catch
-this: 261 of the 590 original hits sat near a quote mark and were excluded from
-consideration for exactly that reason, but plenty of the other 353 are the same
-kind of unmarked echo, not the site's own voice. Telling the two apart needs
-sentence-by-sentence reading, not a pattern.
+The harder half -- the classic-KJV-vocabulary words `favour`, `honour`, `labour`,
+`saviour`, `neighbour`, `defence`, `offence`, `rumour`, `valour`, `behaviour`,
+`splendour`, `humour`, `colour`, which this corpus often echoes inline **without
+quotation marks** (`1chronicles19`'s Authorship pane reads "thinkest thou that
+David doth honour thy father", lifted almost verbatim from the verse text sitting
+right above it, no quote marks anywhere near it) -- is now also done, via
+`fix_kjv_vocab_spelling.py`. A scan for nearby quote marks alone doesn't catch
+this kind of unmarked echo, so the candidate set was narrowed in two more
+automated passes before any manual reading: first a same-page KJV-text exact-
+substring check, then a `difflib.SequenceMatcher` fuzzy longest-common-match
+check (>=20 chars, abbreviation- and quote-proximity-aware) against the page's
+own KJV translation block, which is a **paraphrase-tolerant** echo detector --
+it doesn't need the commentary to quote KJV word-for-word, just to share a long
+enough run of exact wording, which is how quiet paraphrastic echoes like
+"thou shalt find favour" (word order swapped from KJV's "shalt thou find
+favour") still got caught. That shrank 590 raw hits down to 111 requiring an
+actual judgment call, each of which was then read in full sentence context by
+hand and marked FIX (independent analytical commentary, no tie to specific
+verse wording) or LEAVE (a paraphrase or echo of a specific verse, including
+verses quoted from a *different* chapter, e.g. `1kings2`/`2samuel16` quoting
+Exodus 21:14 and 2 Samuel 12:11 respectively). 78 of the 111 were FIX, applied
+across 69 pages by `fix_kjv_vocab_spelling.py`, each entry keyed to a unique
+substring of its own sentence so only the flagged word in the flagged sentence
+moves -- other occurrences of the same word on the same page, including ones
+deliberately left as an echo, are untouched (see e.g. `psalms101.html`, where
+the "offences" in analytical commentary was fixed to "offenses" while
+"neighbour" three words later, inside the direct Psalm 101:5 KJV quote, was
+correctly left alone). The 33 remaining candidates were verified LEAVE cases:
+direct or near-verbatim KJV quotes (Proverbs 3:4,16,28-29; Philippians 1:7;
+1 Thessalonians 1:3; Psalms 8:5, 144:14; John 5:44; Luke 1:58, 10:29/36;
+Habakkuk 2; Esther 6:3; Ecclesiastes 2:18-21, 4:4, 5:18, 10:15; Ezekiel
+1:4,7,27; and the two cross-chapter quotes above). `audit_authorship.py
+--defects`: 0 throughout. The 267 hits the automated echo-detector excluded
+before manual review were not individually re-read by hand -- the detector's
+accuracy was validated by spot-checking ~30 of them, all genuine echoes, so a
+future pass could re-run that spot-check at a larger sample if more confidence
+is wanted, but nothing indicates it's needed. **Never bulk-transform** this
+word list -- it is exactly the trap the original passage above warns about,
+and the per-occurrence needle-matching in `fix_kjv_vocab_spelling.py` is the
+reason it's safe.
 
 **5. Owner-only: the weekly article audit has never run.** The token lacks
 `Actions: write`. Trigger once from the Actions tab in `bible-study`. Upstream
