@@ -233,13 +233,21 @@ Worth a human eye on:
 
 ## Outstanding
 
-**1. Chapter-level `Key Themes:` on 661 pages.** The big one. Only 528 pages carry the
-field at all. Re-measure before planning; snippet is in `WORKFLOW.md`.
+**1. Chapter-level `Key Themes:` on 661 pages — DONE, 4 Sep.** All 1189 chapter pages
+now carry both `Classification:` and `Key Themes:`. Closed in 30 batches
+(`add_key_themes_batch1.py` through `add_key_themes_batch30.py`), book by book, each
+one dumped via `dump_for_themes.py`, composed by hand in the site's established voice
+(5-7 specific, observational items per chapter, no generic summary), applied with
+`--check` first, then verified with `audit_authorship.py --defects` (0 throughout) and
+`git diff --stat` before every commit. Pentateuch, Genesis, Job, Proverbs, Matthew,
+Acts, Revelation and Luke were the books that needed the full fill; the rest already
+had it from earlier passes. Synced to New River after every batch. `audit_authorship.py
+--defects` now reports 0 across all 1189 pages with the field present on every one.
 
 **2. Strip embedded `Key themes:` from `Author:` on 386 pages.** 13 distinct strings,
-one repeated 150 times across Psalms. **Must run after item 1**, so no page is ever
-left without themes. Together these give one shape: Author, Classification, Key
-Themes, Historical Context, sections.
+one repeated 150 times across Psalms. Item 1 is now finished, so this is unblocked —
+next in line. Together these give one shape: Author, Classification, Key Themes,
+Historical Context, sections.
 
 **3. Emphatic capitals on 179 pages, 282 distinct words.** All in `Author:` and
 `Historical Context:` bodies, which the folds preserved verbatim by design. Needs a
