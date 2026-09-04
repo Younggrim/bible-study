@@ -246,8 +246,25 @@ Themes, Historical Context, sections.
 pass over `CAPS_OK` in `audit_authorship.py` first. **Never bulk-transform** —
 lowercasing by rule destroys divine names, Roman numerals and abbreviations.
 
-**4. British spellings** in the project's own prose only. KJV quotations keep
-`favour`, `honour`, `labour`.
+**4. British spellings, partially done.** `normalize_british_spelling.py` fixed 171
+occurrences of words that never appear in KJV vocabulary at all -- `centre`,
+`theatre`, `programme`, `organise` family, `cancelled`, `travelled`/`traveller`,
+`recognise`, `realise`, `summarise`, `emphasise`, `criticise`, `apologise`,
+`characterise`, `symbolise`, `minimise`, `jewellery`, `grey`, `licence`,
+`modelling` -- since none of those can ever be part of a KJV quotation, so the
+word list alone is a safe filter.
+
+**Still open, and harder than a word list:** the classic-KJV-vocabulary words --
+`favour`, `honour`, `labour`, `saviour`, `neighbour`, `defence`, `offence`,
+`rumour`, `valour`, `behaviour`, `splendour`, `humour`, `colour`. This corpus
+often echoes KJV phrasing inline **without quotation marks** -- `1chronicles19`'s
+Authorship pane reads "thinkest thou that David doth honour thy father", lifted
+almost verbatim from the verse text sitting right above it in the same file, no
+quote marks anywhere near it. A scan for nearby quote marks does not catch
+this: 261 of the 590 original hits sat near a quote mark and were excluded from
+consideration for exactly that reason, but plenty of the other 353 are the same
+kind of unmarked echo, not the site's own voice. Telling the two apart needs
+sentence-by-sentence reading, not a pattern.
 
 **5. Owner-only: the weekly article audit has never run.** The token lacks
 `Actions: write`. Trigger once from the Actions tab in `bible-study`. Upstream
