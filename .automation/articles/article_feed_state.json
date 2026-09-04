@@ -1,5 +1,5 @@
 {
-  "last_checked": "2026-09-03",
+  "last_checked": "2026-09-04",
   "sources": {
     "BibleProject": {
       "known_urls": [
@@ -76,7 +76,9 @@
         "https://bibleproject.com/articles/who-is-the-angel-of-the-lord/",
         "https://bibleproject.com/articles/why-deuterocanon-apocrypha-some-bibles-and-not-others/",
         "https://bibleproject.com/articles/why-did-god-flood-the-world/",
-        "https://bibleproject.com/articles/why-did-jesus-have-to-die-a-question-worth-unpacking/"
+        "https://bibleproject.com/articles/why-did-jesus-have-to-die-a-question-worth-unpacking/",
+        "https://bibleproject.com/articles/why-did-jesus-rise-on-the-third-day/",
+        "https://bibleproject.com/articles/why-leviticus-is-worth-your-time/"
       ]
     },
     "Crossway": {
@@ -237,6 +239,7 @@
         "https://www.crossway.org/articles/does-jesus-really-expect-us-to-be-perfect/",
         "https://www.crossway.org/articles/does-scripture-teach-that-jesus-is-fully-god/",
         "https://www.crossway.org/articles/does-the-gospel-need-a-feminist-rescue/",
+        "https://www.crossway.org/articles/ecclesiastes-helps-us-find-happiness-in-different-seasons-of-life/",
         "https://www.crossway.org/articles/encouragement-for-moms-who-dont-always-feel-gentle/",
         "https://www.crossway.org/articles/excellent-revelations-through-ordinary-means/",
         "https://www.crossway.org/articles/feeling-dissatisfied-lean-into-it/",
@@ -555,6 +558,7 @@
         "https://www.crossway.org/articles/what-does-the-bible-say-about-cherubim/",
         "https://www.crossway.org/articles/what-does-the-gospel-have-to-say-about-your-work/",
         "https://www.crossway.org/articles/what-does-the-new-testament-mean-that-jesus-will-come-soon/",
+        "https://www.crossway.org/articles/what-happens-if-reverence-is-absent-in-our-christian-lives/",
         "https://www.crossway.org/articles/what-help-does-the-book-of-romans-offer-to-those-who-are-struggling-with-sin/",
         "https://www.crossway.org/articles/what-i-learned-while-waiting-for-my-spouse/",
         "https://www.crossway.org/articles/what-is-distinct-about-the-theology-of-ephesians/",
@@ -621,7 +625,10 @@
         "https://www.crossway.org/articles/will-god-ever-give-us-more-than-we-can-handle/",
         "https://www.crossway.org/articles/worship-service-liturgies-for-your-palm-sunday-good-friday-and-easter-sunday-services/",
         "https://www.crossway.org/articles/you-are-not-the-judge-of-your-parenting/",
-        "https://www.crossway.org/articles/you-were-pardoned-for-his-pleasure/"
+        "https://www.crossway.org/articles/you-were-pardoned-for-his-pleasure/",
+        "https://www.crossway.org/articles/your-joy-and-grief-at-christmastime-are-a-shadow-of-something-greater/",
+        "https://www.crossway.org/articles/your-moral-code-has-christian-roots-whether-you-know-it-or-not/",
+        "https://www.crossway.org/articles/youre-romantic-whether-you-know-it-or-not/"
       ]
     },
     "GotQuestions Blog": {
@@ -1683,7 +1690,9 @@
         "https://www.gotquestions.org/receive-Spirit-Acts-19.html",
         "https://www.gotquestions.org/rod-staff-Psalm-23.html",
         "https://www.gotquestions.org/suffering-servant-Isaiah-53.html",
-        "https://www.gotquestions.org/tenderhearted-Ephesians-4-32.html"
+        "https://www.gotquestions.org/tenderhearted-Ephesians-4-32.html",
+        "https://www.gotquestions.org/three-men-Genesis-18.html",
+        "https://www.gotquestions.org/worldly-wealth-Luke-16-9.html"
       ]
     }
   }
