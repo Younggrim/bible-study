@@ -244,15 +244,31 @@ Acts, Revelation and Luke were the books that needed the full fill; the rest alr
 had it from earlier passes. Synced to New River after every batch. `audit_authorship.py
 --defects` now reports 0 across all 1189 pages with the field present on every one.
 
-**2. Strip embedded `Key themes:` from `Author:` on 386 pages.** 13 distinct strings,
-one repeated 150 times across Psalms. Item 1 is now finished, so this is unblocked —
-next in line. Together these give one shape: Author, Classification, Key Themes,
-Historical Context, sections.
+**2. Strip embedded `Key themes:` from `Author:` on 386 pages — DONE, 4 Sep.** 13
+distinct strings, one repeated 150 times across Psalms, stripped by
+`strip_embedded_key_themes.py`. Verified 386/386, `audit_authorship.py --defects`: 0.
+The shape is now consistently Author, Classification, Key Themes, Historical Context,
+sections across all 1189 pages.
 
-**3. Emphatic capitals on 179 pages, 282 distinct words.** All in `Author:` and
-`Historical Context:` bodies, which the folds preserved verbatim by design. Needs a
-pass over `CAPS_OK` in `audit_authorship.py` first. **Never bulk-transform** —
-lowercasing by rule destroys divine names, Roman numerals and abbreviations.
+**3. Emphatic capitals — DONE, 4 Sep.** Re-measured before touching anything (per the
+warning below): 148 pages, 220 distinct words, 268 occurrences in `Author:` and
+`Historical Context:` bodies (the 179/282 figures above were stale). Every flagged
+word's context was read by hand before writing `fix_emphatic_capitals.py` — none
+needed sentence-by-sentence judgment beyond two buckets: personal/place names
+(Babylon, Cyrus, David, Davidic, Israel, Jerusalem, Sarah, Yahweh, Zion, Agur,
+Leviathan) restored to Title Case since the corpus writes them that way everywhere
+else, and ordinary words (PRIEST, SPIRIT, MAKER, REDEEMER, WORSE, REJECTED, ...)
+lowercased to match how this corpus's own KJV/WEB quotations render them (Job 19:25
+"my redeemer liveth", Job 4:17 "his maker" — lowercase in the text sitting right
+there on the same page). LXX was added to the allowlist as a legitimate Septuagint
+abbreviation rather than lowercased. One real bug caught along the way: a possessive
+`'S` (`LEVIATHAN'S`, `GOD'S`) is a separate token under `\b` because the apostrophe —
+literal or the `&#x27;` entity this corpus uses throughout — breaks word-boundary
+matching and a lone `S` fails the 2-letter minimum, so it was invisible to a naive
+scan; three extra pages (ezekiel21, leviticus23, psalms81) only turned up once that
+was fixed. `audit_authorship.py --defects`: 0. **Never bulk-transform** without
+reading context first — lowercasing by rule destroys divine names, Roman numerals
+and abbreviations; this pass is proof the check paid off.
 
 **4. British spellings, partially done.** `normalize_british_spelling.py` fixed 171
 occurrences of words that never appear in KJV vocabulary at all -- `centre`,
