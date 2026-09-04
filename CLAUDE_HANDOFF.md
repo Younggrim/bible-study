@@ -254,14 +254,16 @@ lowercasing by rule destroys divine names, Roman numerals and abbreviations.
 `e13849d` un-recorded seven recent articles specifically so the first run has
 something to report.
 
-**6. Still open from 1 Sep: four undecided videos.** Titles too vague to place.
+**6. The four undecided videos from 1 Sep — resolved to two placed, one dropped, one
+still open.** oEmbed only ever gave truncated titles; fetching the full title and
+`author_name` for each settled three of the four:
 
-| video | id | guess |
+| video | id | resolution |
 |---|---|---|
-| Ein Gedi: Where David Hid from Saul | `EEOaTgDp6zM` | 1 Samuel 24, but a travelogue not exposition |
-| Sweet and sour...prophetic words? | `97KHCS7Pq_s` | Revelation 10 or Ezekiel 3 |
-| Incredible HIDDEN Detail in Story of Jonah | `_pIGyMFIuIg` | Jonah, chapter unknown |
-| He Obeyed God Perfectly. God Still Rejected Him. | `rnMh5XPfN_8` | possibly Saul in 1 Samuel 15 |
+| Ein Gedi: Where David Hid from Saul \| Israel Trip Part 14 | `EEOaTgDp6zM` | **Placed** on `1samuel24` — David Guzik (allowed), and the full title confirms the location is tied to that chapter's cave scene, travelogue framing notwithstanding |
+| Sweet and sour...prophetic words? | `97KHCS7Pq_s` | **Placed** on `revelation10` — Spoken Gospel (allowed). Confirmed against the text: Revelation 10:9-10 is the passage where the scroll is sweet in the mouth and sour in the belly; Ezekiel 3:3 is sweet only, no sour, so it doesn't fit the title |
+| Incredible \*HIDDEN\* Detail in Story of Jonah in Bible | `_pIGyMFIuIg` | **Dropped, not a placement question.** Channel is Lakepointe Church, which is not in `BIBLE_STUDY_ALLOW` (`video_sources.py`) and never has been. Adding it would just have it stripped by the next `filter_videos.py` run. Not worth a `DROP_VIDEO_IDS` entry since the channel itself was never eligible |
+| He Obeyed God Perfectly. God Still Rejected Him. | `rnMh5XPfN_8` | **Still open.** THE BEAT by Allen Parr (allowed). A search turned up a synopsis — "a man in the Bible God personally praised — and then rejected... most Christians have never heard his name" — which argues *against* the earlier guess of Saul (1 Samuel 15): Saul is not an obscure name. No transcript was reachable to confirm who it actually is |
 
 ---
 
