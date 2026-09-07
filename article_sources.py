@@ -98,6 +98,19 @@ DROP_ARTICLE_URLS = {
     "https://www.crossway.org/articles/crossway-special-40-off-all-books-by-john-piper/":
         "promotional, not teaching -- the article feeds carry sale and giveaway "
         "posts alongside real articles",
+    "https://www.crossway.org/articles/introducing-the-sing-hymnal-lyrics-liturgies-and-personal-editions/":
+        "product announcement for a hymnal, not teaching",
+    "https://www.crossway.org/articles/new-updates-to-singhymnalcom/":
+        "a website changelog, not an article",
+    "https://www.crossway.org/articles/our-motive-for-obeying-god-shouldnt-be-gratitude/":
+        "a real teaching piece on the motive for obedience, but there is no "
+        "existing topical page on obedience for it to sit on -- revisit if "
+        "one is added",
+    "https://www.crossway.org/articles/podcast-how-to-find-joy-even-if-happiness-doesnt-come-naturally-andrew-wilson/":
+        "a podcast episode page, not a written article -- same pattern as the "
+        "podcast titles article_sources.py's own docstring already warns "
+        "about; no existing topical page on joy or happiness for it to sit on "
+        "even if it were one",
 }
 
 LINK = ('<a href="{url}" target="_blank" '
@@ -789,6 +802,9 @@ TOPIC_ARTICLES = {
          "How mourning was practised in the Bible, and what that offers now."),
         ("GotQuestions Blog", GQB + "failed-adoption.html",
          "One family's account of a loss most people never hear about."),
+        ("Crossway", CW + "how-do-you-deal-with-the-grief-sin-produces/",
+         "Grief over one's own sin specifically, distinct from grief over "
+         "loss."),
     ],
     "identity-and-self-worth.html": [
         ("GotQuestions.org", GQ + "identity-in-Christ.html",
