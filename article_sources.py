@@ -280,7 +280,7 @@ CHAPTER_ARTICLES = {
          "The Shema in verse 4, and how the New Testament reads it alongside "
          "the deity of Christ."),
         ("BibleProject", BP + "what-is-the-shema/",
-         "The prayer at the centre of this chapter, and what it asks of the "
+         "The prayer at the center of this chapter, and what it asks of the "
          "whole person."),
     ],
     ("deuteronomy", 22): [
