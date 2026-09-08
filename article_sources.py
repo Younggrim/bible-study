@@ -111,6 +111,11 @@ DROP_ARTICLE_URLS = {
         "podcast titles article_sources.py's own docstring already warns "
         "about; no existing topical page on joy or happiness for it to sit on "
         "even if it were one",
+    "https://bibleproject.com/articles/why-did-jesus-rise-on-the-third-day/":
+        "a real teaching piece, but it argues the timing across several "
+        "resurrection accounts and Old Testament pattern rather than "
+        "expounding one chapter, and there is no existing resurrection "
+        "topical page for it to sit on -- revisit if one is added",
 }
 
 LINK = ('<a href="{url}" target="_blank" '
