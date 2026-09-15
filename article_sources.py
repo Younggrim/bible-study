@@ -116,6 +116,34 @@ DROP_ARTICLE_URLS = {
         "resurrection accounts and Old Testament pattern rather than "
         "expounding one chapter, and there is no existing resurrection "
         "topical page for it to sit on -- revisit if one is added",
+    "https://www.crossway.org/articles/crossway-special-up-to-50-off-sing-hymnals-including-new-editions/":
+        "another Crossway+ hymnal sale, same pattern as the Piper book sale "
+        "already dropped above -- promotional, not teaching",
+    "https://www.crossway.org/articles/how-critical-theory-has-affected-modern-education/":
+        "cultural and political commentary rather than exposition of a "
+        "passage or an existing topic page",
+    "https://www.crossway.org/articles/how-do-i-fight-against-my-own-hearts-resistance-to-being-hospitable-to-my-neighbors/":
+        "a real teaching piece on hospitality, but there is no existing "
+        "topical page on hospitality for it to sit on -- revisit if one is "
+        "added",
+    "https://www.crossway.org/articles/how-to-use-the-biggest-story-online-curriculum/":
+        "a how-to guide for subscribers of a paid curriculum product, not "
+        "teaching",
+    "https://www.crossway.org/articles/introducing-the-biggest-story-scripture-journals-for-kids/":
+        "product announcement for a line of journaling Bibles, same pattern "
+        "as the hymnal announcement already dropped above",
+    "https://www.crossway.org/articles/podcast-how-do-i-get-the-most-from-my-pastors-sermons-gunner-gundersen/":
+        "a podcast episode page, same pattern as the joy/happiness podcast "
+        "already dropped above -- no existing topical page on hearing "
+        "sermons for it to sit on even if it were a written article",
+    "https://www.crossway.org/articles/the-sing-hymnal-31-day-reading-plan/":
+        "a reading plan built around a purchased hymnal rather than "
+        "freestanding teaching, same pattern as the other Sing! Hymnal "
+        "posts already dropped above",
+    "https://www.gotquestions.org/Bible-sin.html":
+        "a general definition-of-sin FAQ with no chapter to anchor to and "
+        "no existing topical page for sin as such -- revisit if one is "
+        "added",
 }
 
 LINK = ('<a href="{url}" target="_blank" '
@@ -384,6 +412,11 @@ CHAPTER_ARTICLES = {
         ("GotQuestions.org", GQ + "Isaiah-45-7.html",
          "Verse 7 says God creates calamity, which is one of the hardest "
          "statements about God in the book."),
+    ],
+    ("isaiah", 46): [
+        ("Crossway", CW + "remembering-past-grace-for-the-sake-of-future-grace/",
+         "Why the chapter's call to 'remember the former things' is aimed at "
+         "building confidence in what God will still do."),
     ],
     ("isaiah", 52): [
         ("BibleProject", BP + "isaiah-and-the-suffering-servant-king/",
@@ -661,6 +694,11 @@ CHAPTER_ARTICLES = {
         ("BibleProject", BP + "what-does-faith-without-works-dead-mean-james-214-26/",
          "The passage most often set against Paul, read on its own terms "
          "first."),
+    ],
+    ("james", 3): [
+        ("Crossway", CW + "do-you-recognize-how-destructive-your-words-can-be/",
+         "On the small size of the tongue against the size of the damage it "
+         "can do, from the chapter's own forest-fire image."),
     ],
     ("2peter", 3): [
         ("GotQuestions.org", GQ + "2-Peter-3-8-thousand-years-day.html",
@@ -996,6 +1034,9 @@ TOPIC_ARTICLES = {
          "name."),
         ("BibleProject", BP + "what-happens-when-we-read-bible-together/",
          "On reading Scripture in company rather than alone."),
+        ("Crossway", CW + "5-steps-to-help-you-practice-meditation/",
+         "Practical steps for meditation drawn from the Reformation's own "
+         "devotional guides."),
     ],
     "ten-commandments.html": [
         ("GotQuestions.org", GQ + "Ten-Commandments.html",
