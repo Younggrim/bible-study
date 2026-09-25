@@ -14,7 +14,7 @@ verse is actually leaning on.
 
 Fields
 ------
-name     what the pin is labelled, using the biblical name where the pages do
+name     what the pin is labeled, using the biblical name where the pages do
 lat/lon  decimal degrees, north and east positive
 kind     city | region | water | river | mountain | island, drives the marker
 modern   present-day location, or "" for regions with no single modern place
@@ -224,7 +224,7 @@ PLACES = {
     aka=[],
     note="A fishing village on the north-west shore of the Sea of Galilee, "
          "on the road running from the coast to Damascus. A customs post and a "
-         "garrison explain the tax collector and the centurion; the harbour and "
+         "garrison explain the tax collector and the centurion; the harbor and "
          "the synagogue explain why Jesus made it his base."),
 
 "mediterranean": dict(
@@ -232,7 +232,7 @@ PLACES = {
     modern="", wiki="Mediterranean_Sea",
     aka=["Great Sea", "the Great Sea"],
     note="Called simply the Great Sea, and treated as the western edge of the "
-         "world. Israel's coast has almost no natural harbours, so for most of "
+         "world. Israel's coast has almost no natural harbors, so for most of "
          "its history the sea was a boundary rather than a road, and seafaring "
          "was left to the Phoenicians."),
 
@@ -250,7 +250,7 @@ PLACES = {
     modern="coastal Lebanon", wiki="Phoenicia",
     aka=["Phoenician", "Phoenicians", "Sidonian", "Sidonians"],
     note="A narrow strip of coast backed hard against the Lebanon range, with "
-         "too little farmland to feed itself and excellent harbours. That "
+         "too little farmland to feed itself and excellent harbors. That "
          "combination made its cities trade by sea, plant colonies as far as "
          "Spain, and supply Israel with timber, craftsmen and Jezebel."),
 
@@ -332,7 +332,7 @@ PLACES = {
     aka=["Ephesian", "Ephesians"],
     note="The largest port of Roman Asia, at the mouth of the Cayster on the "
          "west coast of Asia Minor, and home to the temple of Artemis. Its "
-         "harbour silted up and the ruins now sit several miles inland, which is "
+         "harbor silted up and the ruins now sit several miles inland, which is "
          "why a great seaport has no sea."),
 
 "bethany": dict(
@@ -366,7 +366,7 @@ PLACES = {
     name="Caesarea", lat=32.5000, lon=34.8917, kind="city",
     modern="Caesarea, Israel", wiki="Caesarea_Maritima",
     aka=["Caesarea Maritima"],
-    note="Herod built an artificial deep-water harbour on an open coast that "
+    note="Herod built an artificial deep-water harbor on an open coast that "
          "had none, and it became the Roman administrative capital of Judea. "
          "Paul was held here two years and sailed for Rome from it; it is also "
          "where the gospel first went to a Gentile household."),
@@ -458,7 +458,7 @@ PLACES = {
     modern="Ancient Corinth, Greece", wiki="Ancient_Corinth",
     aka=["Corinthian", "Corinthians"],
     note="On the four-mile isthmus joining the Peloponnese to mainland Greece, "
-         "with a harbour on each side. Cargo was hauled overland between them "
+         "with a harbor on each side. Cargo was hauled overland between them "
          "to avoid the dangerous voyage round the cape, so the city was rich, "
          "transient and famously loose."),
 
@@ -485,7 +485,7 @@ PLACES = {
     modern="central Turkey", wiki="Galatia",
     aka=["Galatian", "Galatians"],
     note="The high inland plateau of Asia Minor, named for Gallic settlers and "
-         "organised by Rome as a province stretching south to Antioch, Iconium, "
+         "organized by Rome as a province stretching south to Antioch, Iconium, "
          "Lystra and Derbe. Whether Paul wrote to the northern tribes or the "
          "southern cities he planted is a long-running question."),
 
@@ -519,7 +519,7 @@ PLACES = {
     name="Persia", lat=29.9350, lon=52.8910, kind="region",
     modern="Fars, Iran", wiki="Achaemenid_Empire",
     aka=["Achaemenid Empire", "Persian", "Persians"],
-    note="The empire's ceremonial centre was Persepolis in the Iranian "
+    note="The empire's ceremonial center was Persepolis in the Iranian "
          "highlands, but it governed from Susa and Babylon and ran roads from "
          "the Indus to the Aegean. Its scale is the point of Esther's opening: "
          "127 provinces from India to Ethiopia."),
@@ -528,8 +528,8 @@ PLACES = {
     name="Thessalonica", lat=40.6403, lon=22.9444, kind="city",
     modern="Thessaloniki, Greece", wiki="Thessaloniki",
     aka=["Thessalonian", "Thessalonians"],
-    note="The capital of Macedonia, with a natural harbour on the Aegean and "
-         "the Via Egnatia running through it. A letter left here travelled well, "
+    note="The capital of Macedonia, with a natural harbor on the Aegean and "
+         "the Via Egnatia running through it. A letter left here traveled well, "
          "which is part of why Paul could say the word had sounded out from "
          "them in every place."),
 
@@ -565,7 +565,7 @@ PLACES = {
     name="Sidon", lat=33.5630, lon=35.3689, kind="city",
     modern="Sidon, Lebanon", wiki="Sidon",
     aka=[],
-    note="A Phoenician harbour city 25 miles north of Tyre and about 60 miles "
+    note="A Phoenician harbor city 25 miles north of Tyre and about 60 miles "
          "from Nazareth. Older than Tyre and often paired with it; Jezebel came "
          "from its royal house, and Elijah was fed by a widow in its territory "
          "at Zarephath."),
@@ -604,7 +604,7 @@ PLACES = {
     note="A long mountainous island across the southern Aegean, about 160 "
          "miles end to end, with the shipping lane running along its southern "
          "coast. Paul's grain ship sheltered there before the storm, and Titus "
-         "was left to organise its churches."),
+         "was left to organize its churches."),
 
 "malta": dict(
     name="Malta", lat=35.90, lon=14.45, kind="island",
@@ -665,7 +665,7 @@ PLACES = {
     modern="Mit Rahina, Egypt", wiki="Memphis,_Egypt",
     aka=["Noph"],
     note="At the apex of the Nile Delta just south of modern Cairo, the point "
-         "where Upper and Lower Egypt meet and so Egypt's administrative centre "
+         "where Upper and Lower Egypt meet and so Egypt's administrative center "
          "for most of its history. Jeremiah and Ezekiel name it when they mean "
          "Egyptian power itself."),
 
@@ -713,7 +713,7 @@ PLACES.update({
     name="Mizpah", lat=31.8839, lon=35.2161, kind="city",
     modern="Tell en-Nasbeh, West Bank", wiki="Mizpah_in_Benjamin", aka=[],
     note="A fortified town on the northern approach to Jerusalem, used as a "
-         "gathering point by Samuel and as Judah's administrative centre after "
+         "gathering point by Samuel and as Judah's administrative center after "
          "Jerusalem fell."),
 "ramah": dict(
     name="Ramah", lat=31.8450, lon=35.2339, kind="city",
@@ -818,14 +818,14 @@ PLACES.update({
 "joppa": dict(
     name="Joppa", lat=32.0542, lon=34.7522, kind="city",
     modern="Jaffa, Tel Aviv, Israel", wiki="Jaffa", aka=["Jaffa"],
-    note="The one usable harbour on Israel's straight coast, a rock shelf with "
+    note="The one usable harbor on Israel's straight coast, a rock shelf with "
          "a gap in it, dangerous but workable. Cedar for both temples was "
          "landed here, Jonah sailed from here, and Peter saw his vision on a "
          "roof here."),
 "ashkelon": dict(
     name="Ashkelon", lat=31.6667, lon=34.5500, kind="city",
     modern="Ashkelon, Israel", wiki="Ashkelon", aka=["Askelon"],
-    note="A Philistine harbour city on the coastal road, and the only one of "
+    note="A Philistine harbor city on the coastal road, and the only one of "
          "the five that sat directly on the sea."),
 "ashdod": dict(
     name="Ashdod", lat=31.7522, lon=34.6500, kind="city",
@@ -885,7 +885,7 @@ PLACES.update({
     modern="Nablus, West Bank", wiki="Mount_Ebal", aka=["Ebal"],
     note="The bare northern side of the Shechem pass, 3,080 feet. The curses "
          "of the covenant were read from this side, facing Gerizim across the "
-         "valley, in a natural amphitheatre with remarkable acoustics."),
+         "valley, in a natural amphitheater with remarkable acoustics."),
 "mount_gerizim": dict(
     name="Mount Gerizim", lat=32.1992, lon=35.2733, kind="mountain",
     modern="Nablus, West Bank", wiki="Mount_Gerizim", aka=["Gerizim"],
@@ -994,7 +994,7 @@ PLACES.update({
     name="Gerasa", lat=32.2811, lon=35.8911, kind="city",
     modern="Jerash, Jordan", wiki="Jerash", aka=["Gergesa", "Gerasene", "Gerasenes"],
     note="The best preserved of the Decapolis cities, in the Gilead highlands. "
-         "Its colonnaded streets and theatres show what Greek-speaking urban "
+         "Its colonnaded streets and theaters show what Greek-speaking urban "
          "life looked like a day's walk from Galilee."),
 "hazor": dict(
     name="Hazor", lat=33.0172, lon=35.5681, kind="city",
@@ -1205,7 +1205,7 @@ PLACES.update({
 "salamis_cyprus": dict(
     name="Salamis", lat=35.1833, lon=33.9050, kind="city",
     modern="near Famagusta, Cyprus", wiki="Salamis,_Cyprus", aka=[],
-    note="Cyprus's main eastern harbour and the landing point on the way from "
+    note="Cyprus's main eastern harbor and the landing point on the way from "
          "Antioch."),
 "paphos": dict(
     name="Paphos", lat=34.7750, lon=32.4239, kind="city",
@@ -1242,7 +1242,7 @@ PLACES.update({
 "attalia": dict(
     name="Attalia", lat=36.8850, lon=30.7042, kind="city",
     modern="Antalya, Turkey", wiki="Antalya", aka=[],
-    note="The harbour of Pamphylia, from which the first journey sailed home to "
+    note="The harbor of Pamphylia, from which the first journey sailed home to "
          "Antioch."),
 "troas": dict(
     name="Troas", lat=39.8158, lon=26.1589, kind="city",
@@ -1253,7 +1253,7 @@ PLACES.update({
 "miletus": dict(
     name="Miletus", lat=37.5306, lon=27.2778, kind="city",
     modern="Balat, Turkey", wiki="Miletus", aka=[],
-    note="A harbour city 30 miles south of Ephesus, where Paul summoned the "
+    note="A harbor city 30 miles south of Ephesus, where Paul summoned the "
          "Ephesian elders rather than go into the city himself."),
 "colossae": dict(
     name="Colossae", lat=37.7881, lon=29.2631, kind="city",
@@ -1275,7 +1275,7 @@ PLACES.update({
 "smyrna": dict(
     name="Smyrna", lat=38.4192, lon=27.1394, kind="city",
     modern="Izmir, Turkey", wiki="Smyrna", aka=[],
-    note="A well-planned harbour city 40 miles north of Ephesus, loyal to Rome "
+    note="A well-planned harbor city 40 miles north of Ephesus, loyal to Rome "
          "and prosperous, whose letter nonetheless speaks only of poverty and "
          "pressure."),
 "pergamum": dict(
@@ -1288,7 +1288,7 @@ PLACES.update({
     name="Thyatira", lat=38.9181, lon=27.8422, kind="city",
     modern="Akhisar, Turkey", wiki="Thyatira", aka=[],
     note="An inland manufacturing town known for dyeing, which is Lydia the "
-         "seller of purple's home trade, and heavily organised into craft "
+         "seller of purple's home trade, and heavily organized into craft "
          "guilds."),
 "sardis": dict(
     name="Sardis", lat=38.4875, lon=28.0406, kind="city",
@@ -1310,7 +1310,7 @@ PLACES.update({
 "cnidus": dict(
     name="Cnidus", lat=36.6861, lon=27.3742, kind="city",
     modern="Datca peninsula, Turkey", wiki="Knidos", aka=[],
-    note="A harbour at the tip of a long peninsula where ships heading west "
+    note="A harbor at the tip of a long peninsula where ships heading west "
          "must commit to open water, which is where Paul's ship lost the wind."),
 
 # --- Greece and Italy ----------------------------------------------------
@@ -1337,7 +1337,7 @@ PLACES.update({
 "cenchreae": dict(
     name="Cenchreae", lat=37.8881, lon=22.9872, kind="city",
     modern="Kechries, Greece", wiki="Cenchreae", aka=["Cenchrea"],
-    note="Corinth's eastern harbour on the Saronic Gulf, six miles from the "
+    note="Corinth's eastern harbor on the Saronic Gulf, six miles from the "
          "city, with a church of its own and Phoebe as its deacon."),
 "puteoli": dict(
     name="Puteoli", lat=40.8231, lon=14.1214, kind="city",

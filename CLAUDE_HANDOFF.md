@@ -319,6 +319,46 @@ word list -- it is exactly the trap the original passage above warns about,
 and the per-occurrence needle-matching in `fix_kjv_vocab_spelling.py` is the
 reason it's safe.
 
+**4a. Spelling and wording audit — DONE, 25 Sep.** Prompted by `luke1.html`,
+whose Authorship pane said "Elisabeth" and "Zacharias" while the Summary, map and
+Reflection on the same page said "Elizabeth" and "Zechariah". The KJV/ASV forms
+are right inside those two translation blocks, but the verse-range sections were
+drafted from the KJV text and carried its name forms into the site's own voice.
+`fix_spelling_audit.py` (idempotent, `--check`) now:
+
+- puts ~70 KJV-only name forms back into the ESV spelling in unquoted prose
+  (Elias→Elijah, Jonas→Jonah, Noe→Noah, Zidon→Sidon, Tyrus→Tyre,
+  Pergamos→Pergamum, Kirjath-→Kiriath-, Nazarite→Nazirite, Shulamite→Shulammite,
+  Pashur→Pashhur, ...). Candidates were found as capitalized words present in the
+  KJV/ASV blocks and absent from every BSB and NET block; uncertain forms were
+  checked against the ESV. Quoted KJV verses keep their spelling, and so does prose
+  that is explaining the KJV form itself ("Susa (Shushan)", "Noph is Memphis").
+  Deliberately untouched: Jehovah, Sabaoth, Olivet, Beelzebub, Lucifer, Nethinim,
+  psalm superscription terms. Unquoted "Holy Ghost" (17 places) was left too: it is
+  a wording choice, not a spelling;
+- Americanizes British spellings the 4 Sep passes did not cover: -ise/-isation
+  words written after that pass, `harbour` (142, mostly map notes), `judgement`,
+  `amphitheatre`, `storey`, `candour`, and 100 hand-reviewed KJV-vocabulary hits
+  (honour, neighbour, labour, ...) using the same FIX/LEAVE method as
+  `fix_kjv_vocab_spelling.py`. Every spot that script ruled an echo was left;
+- fixes six typos (`don'T`, five `word- word` hyphen breaks).
+
+`mapgeo_places.py` had the same British forms in its write-ups (plus a `travelled`
+and an `organise` that the 4 Sep pass had fixed only in the output), so
+`add_mapgeo_maps.py` would have put them back. It is corrected at the source;
+`add_mapgeo_maps.py --check` reports 0 files to change.
+
+`devotionals.json`: 27 entries quoted verses outside their cited reference
+(Proverbs 3:5-6 quoted through v.8, 1 Samuel 16:7 ended with v.10, Proverbs 18:10-11
+ended with Proverbs 14:1). Only the references were corrected; the text is untouched.
+
+Checked and clean: every bare `v.`/`vv.` reference is inside its chapter (the one
+exception, Romans 14:24-26, is the deliberate doxology note), all 2,790
+`Book C:V` cross-references resolve, no U+FFFD, no doubled words, no stray spaces
+before punctuation, titles and headings match their chapter. **If a `fold_*.py`
+script is ever re-run it will restore the KJV forms in its pane; re-run
+`fix_spelling_audit.py` afterwards.**
+
 **5. Owner-only: the weekly article audit has never run.** The token lacks
 `Actions: write`. Trigger once from the Actions tab in `bible-study`. Upstream
 `e13849d` un-recorded seven recent articles specifically so the first run has
