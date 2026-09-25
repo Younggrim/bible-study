@@ -139,10 +139,6 @@ DROP_ARTICLE_URLS = {
         "page for it to sit on -- revisit if one is added",
     "https://www.crossway.org/articles/crossway-special-up-to-50-off-sing-hymnals-including-new-editions/":
         "promotional, a sale on the Sing! Hymnal",
-    "https://www.crossway.org/articles/do-you-recognize-how-destructive-your-words-can-be/":
-        "a real teaching piece on careless speech, but there is no existing "
-        "topical page on the tongue or speech for it to sit on -- revisit if "
-        "one is added",
     "https://www.crossway.org/articles/how-critical-theory-has-affected-modern-education/":
         "cultural commentary on education policy, not a teaching piece "
         "anchored to Scripture",
@@ -159,9 +155,6 @@ DROP_ARTICLE_URLS = {
         "revisit if one is added",
     "https://www.crossway.org/articles/podcast-how-do-i-get-the-most-from-my-pastors-sermons-gunner-gundersen/":
         "a podcast episode page, not a written article",
-    "https://www.crossway.org/articles/remembering-past-grace-for-the-sake-of-future-grace/":
-        "a real teaching piece on grace, but there is no existing topical "
-        "page for it to sit on -- revisit if one is added",
     "https://www.crossway.org/articles/the-sing-hymnal-31-day-reading-plan/":
         "a reading plan tied to a specific hymnal product, not teaching",
     "https://www.gotquestions.org/Bible-sin.html":
@@ -450,6 +443,11 @@ CHAPTER_ARTICLES = {
          "Verse 7 says God creates calamity, which is one of the hardest "
          "statements about God in the book."),
     ],
+    ("isaiah", 46): [
+        ("Crossway", CW + "remembering-past-grace-for-the-sake-of-future-grace/",
+         "Why the chapter's call to 'remember the former things' is aimed at "
+         "building confidence in what God will still do."),
+    ],
     ("isaiah", 52): [
         ("BibleProject", BP + "isaiah-and-the-suffering-servant-king/",
          "The servant songs that begin here and run into chapter 53, and how "
@@ -726,6 +724,11 @@ CHAPTER_ARTICLES = {
         ("BibleProject", BP + "what-does-faith-without-works-dead-mean-james-214-26/",
          "The passage most often set against Paul, read on its own terms "
          "first."),
+    ],
+    ("james", 3): [
+        ("Crossway", CW + "do-you-recognize-how-destructive-your-words-can-be/",
+         "On the small size of the tongue against the size of the damage it "
+         "can do, from the chapter's own forest-fire image."),
     ],
     ("2peter", 3): [
         ("GotQuestions.org", GQ + "2-Peter-3-8-thousand-years-day.html",
