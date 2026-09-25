@@ -168,6 +168,14 @@ DROP_ARTICLE_URLS = {
         "sin as a topic is broader than any single existing life page (pride, "
         "lust, greed, anger, addiction, etc. each have their own), so there "
         "is no single page for a general treatment to sit on",
+    "https://www.crossway.org/articles/crossway-special-50-off-spiral-bound-journaling-bibles-5-volume-set/":
+        "promotional, a sale on ESV journaling Bibles",
+    "https://www.crossway.org/articles/introducing-the-william-tyndale-new-testament-500-year-anniversary-edition/":
+        "product announcement for a new edition, not teaching",
+    "https://www.gotquestions.blog/there-is-no-baby.html":
+        "a critique of the modern prophetic movement; prophecy-and-fulfillment "
+        "covers fulfilled biblical prophecy, not modern prophets, so there is "
+        "no page for it -- revisit if a spiritual-gifts page is added",
 }
 
 LINK = ('<a href="{url}" target="_blank" '
@@ -387,6 +395,11 @@ CHAPTER_ARTICLES = {
         ("GotQuestions.org", GQ + "Psalm-49-7-Jesus.html",
          "Verse 7 says no one can redeem another, which raises the question "
          "the New Testament answers."),
+    ],
+    ("psalms", 51): [
+        ("Crossway", CW + "the-worship-that-god-will-not-accept/",
+         "Why David says God takes no delight in sacrifice in verses 16-17, "
+         "and what kind of worship he does accept."),
     ],
     ("psalms", 53): [
         ("GotQuestions.org", GQ + "Psalms-14-53.html",
@@ -1061,6 +1074,9 @@ TOPIC_ARTICLES = {
          "On reading Scripture in company rather than alone."),
         ("Crossway", CW + "5-steps-to-help-you-practice-meditation/",
          "A practical walk through biblical meditation, step by step."),
+        ("Crossway", CW + "how-should-we-think-about-meditation-and-mindfulness/",
+         "How meditating on God's word differs from mindfulness techniques "
+         "aimed at clearing the mind."),
     ],
     "ten-commandments.html": [
         ("GotQuestions.org", GQ + "Ten-Commandments.html",
