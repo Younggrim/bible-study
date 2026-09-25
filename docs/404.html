@@ -5,10 +5,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="manifest" href="manifest.json"><meta name="theme-color" content="#3d2b1f">
     <title>Page Not Found — Bible Study</title>
+    <!-- seo -->
+    <meta name="description" content="The page you were looking for could not be found. Return to the home page to browse every book and chapter of the Bible.">
+    <link rel="canonical" href="https://bible.macdwellings.com/404.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Bible Study">
+    <meta property="og:title" content="Page Not Found — Bible Study">
+    <meta property="og:description" content="The page you were looking for could not be found. Return to the home page to browse every book and chapter of the Bible.">
+    <meta property="og:url" content="https://bible.macdwellings.com/404.html">
+    <meta property="og:image" content="https://bible.macdwellings.com/site/icon-512.png">
+    <meta name="twitter:card" content="summary">
+    <!-- /seo -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700;800&family=Cormorant+Garamond:ital,wght@0,400;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="site/style.css?v=16">
+    <link rel="stylesheet" href="site/style.css?v=17">
     <style>
         .notfound-wrap {
             min-height: 100vh;
@@ -16,7 +27,7 @@
             align-items: center;
             justify-content: center;
             padding: 32px;
-            background: linear-gradient(180deg, #faf5ed 0%, #f5ebe0 100%);
+            background: linear-gradient(180deg, var(--bg-page) 0%, var(--bg-tint) 100%);
         }
         .notfound-card { max-width: 560px; text-align: center; }
         .notfound-eyebrow {
@@ -39,7 +50,7 @@
             font-family: 'Cormorant Garamond', serif;
             font-style: italic;
             font-size: 1.25rem;
-            color: #6b5040;
+            color: var(--accent-brown);
             line-height: 1.6;
             margin-bottom: 36px;
         }
@@ -53,9 +64,9 @@
             border-radius: 10px;
             transition: transform 0.15s, box-shadow 0.2s;
         }
-        .notfound-btn.primary { background: var(--ink-deep); color: #faf5ed; }
+        .notfound-btn.primary { background: var(--ink-deep); color: var(--bg-page); }
         .notfound-btn.primary:hover { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(61,43,31,0.25); }
-        .notfound-btn.secondary { background: #fff; color: #6b4c3b; border: 1px solid var(--rule-warm); }
+        .notfound-btn.secondary { background: #fff; color: var(--accent-brown); border: 1px solid var(--rule-warm); }
         .notfound-btn.secondary:hover { transform: translateY(-2px); box-shadow: 0 6px 16px rgba(0,0,0,0.08); }
     </style>
 </head>
