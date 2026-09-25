@@ -116,6 +116,58 @@ DROP_ARTICLE_URLS = {
         "resurrection accounts and Old Testament pattern rather than "
         "expounding one chapter, and there is no existing resurrection "
         "topical page for it to sit on -- revisit if one is added",
+    "https://www.crossway.org/articles/7-tips-to-help-you-preach-persuasively/":
+        "advice for preachers, not a teaching piece for a reader of the site, "
+        "and there is no page on preaching for it to sit on",
+    "https://www.crossway.org/articles/crossway-special-all-esv-study-bibles-50-off/":
+        "promotional, a sale on ESV Study Bibles",
+    "https://www.crossway.org/articles/four-simple-beautiful-words-you-are-with-me/":
+        "which passage this anchors to (Psalm 23:4 vs. a broader "
+        "God-with-us theme) could not be confirmed -- crossway.org could not "
+        "be reached to check, so this waits rather than guessing a chapter",
+    "https://www.crossway.org/articles/how-can-i-be-freed-from-the-fear-of-death/":
+        "ambiguous fit between the anxiety-and-fear page and the-gospel page, "
+        "and crossway.org could not be reached to check which the article "
+        "actually centers on -- revisit rather than guessing",
+    "https://www.crossway.org/articles/podcast-complex-questions-about-when-and-how-to-forgive-chris-brauns/":
+        "a podcast episode page, not a written article",
+    "https://www.crossway.org/articles/the-delightful-reality-of-gods-happiness/":
+        "a real teaching piece on God's own happiness, but there is no "
+        "existing topical page for it to sit on -- revisit if one is added",
+    "https://www.crossway.org/articles/why-the-christian-view-of-aging-is-countercultural/":
+        "a real teaching piece on aging, but there is no existing topical "
+        "page for it to sit on -- revisit if one is added",
+    "https://www.crossway.org/articles/crossway-special-up-to-50-off-sing-hymnals-including-new-editions/":
+        "promotional, a sale on the Sing! Hymnal",
+    "https://www.crossway.org/articles/do-you-recognize-how-destructive-your-words-can-be/":
+        "a real teaching piece on careless speech, but there is no existing "
+        "topical page on the tongue or speech for it to sit on -- revisit if "
+        "one is added",
+    "https://www.crossway.org/articles/how-critical-theory-has-affected-modern-education/":
+        "cultural commentary on education policy, not a teaching piece "
+        "anchored to Scripture",
+    "https://www.crossway.org/articles/how-do-i-fight-against-my-own-hearts-resistance-to-being-hospitable-to-my-neighbors/":
+        "a real teaching piece on hospitality, but there is no existing "
+        "topical page for it to sit on -- revisit if one is added",
+    "https://www.crossway.org/articles/how-to-use-the-biggest-story-online-curriculum/":
+        "instructions for a curriculum product, not teaching",
+    "https://www.crossway.org/articles/introducing-the-biggest-story-scripture-journals-for-kids/":
+        "product announcement for a journal, not teaching",
+    "https://www.crossway.org/articles/is-predestination-fair/":
+        "a real teaching piece on predestination, but there is no existing "
+        "topical page on election or predestination for it to sit on -- "
+        "revisit if one is added",
+    "https://www.crossway.org/articles/podcast-how-do-i-get-the-most-from-my-pastors-sermons-gunner-gundersen/":
+        "a podcast episode page, not a written article",
+    "https://www.crossway.org/articles/remembering-past-grace-for-the-sake-of-future-grace/":
+        "a real teaching piece on grace, but there is no existing topical "
+        "page for it to sit on -- revisit if one is added",
+    "https://www.crossway.org/articles/the-sing-hymnal-31-day-reading-plan/":
+        "a reading plan tied to a specific hymnal product, not teaching",
+    "https://www.gotquestions.org/Bible-sin.html":
+        "sin as a topic is broader than any single existing life page (pride, "
+        "lust, greed, anger, addiction, etc. each have their own), so there "
+        "is no single page for a general treatment to sit on",
 }
 
 LINK = ('<a href="{url}" target="_blank" '
@@ -733,6 +785,11 @@ BOOK_ARTICLES = {
          "On the whole letter: why Romans has carried the weight it has in "
          "church history."),
     ],
+    "psalms": [
+        ("Crossway", CW + "theres-a-reason-we-see-so-much-repetition-in-the-psalms/",
+         "On the whole book: why repetition is a deliberate feature of Hebrew "
+         "poetry rather than a lack of imagination."),
+    ],
 }
 
 
@@ -798,6 +855,9 @@ TOPIC_ARTICLES = {
          "the hands."),
         ("GotQuestions.org", GQ + "Bible-verses-about-money.html",
          "Passages on money, wealth and generosity, collected."),
+        ("Crossway", CW + "a-battle-against-covetousness-is-a-battle-against-unbelief/",
+         "Why coveting is ultimately a failure to trust God's provision, not "
+         "just a wish for someone else's things."),
     ],
     "grief-and-loss.html": [
         ("GotQuestions.org", GQ + "Bible-grief.html",
@@ -964,6 +1024,9 @@ TOPIC_ARTICLES = {
         ("BibleProject", BP + "are-the-parables-of-jesus-confusing-on-purpose/",
          "Why Jesus taught in a form that some of his hearers did not "
          "understand."),
+        ("Crossway", CW + "4-things-you-have-in-common-with-the-prodigals-older-brother/",
+         "On the parable of the prodigal son, from the older brother's side "
+         "of the story."),
     ],
     "prayers-in-the-bible.html": [
         ("GotQuestions.org", GQ + "Lords-Prayer.html",
@@ -996,6 +1059,8 @@ TOPIC_ARTICLES = {
          "name."),
         ("BibleProject", BP + "what-happens-when-we-read-bible-together/",
          "On reading Scripture in company rather than alone."),
+        ("Crossway", CW + "5-steps-to-help-you-practice-meditation/",
+         "A practical walk through biblical meditation, step by step."),
     ],
     "ten-commandments.html": [
         ("GotQuestions.org", GQ + "Ten-Commandments.html",
