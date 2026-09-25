@@ -178,7 +178,7 @@ DROP_ARTICLE_URLS = {
         "no page for it -- revisit if a spiritual-gifts page is added",
 }
 
-LINK = ('<a href="{url}" target="_blank" '
+LINK = ('<a href="{url}" target="_blank" rel="noopener" '
         'style="color:var(--accent-link);text-decoration:none;'
         'border-bottom:1px dotted var(--accent-link);">{label}</a>')
 
@@ -617,7 +617,7 @@ CHAPTER_ARTICLES = {
     ],
     ("acts", 2): [
         ("GotQuestions.org", GQ + "baptism-Acts-2-38.html",
-         "Whether Peter's call to be baptised for the forgiveness of sins "
+         "Whether Peter's call to be baptized for the forgiveness of sins "
          "makes baptism a condition of salvation."),
     ],
     ("acts", 8): [
@@ -642,7 +642,7 @@ CHAPTER_ARTICLES = {
     ],
     ("acts", 22): [
         ("GotQuestions.org", GQ + "baptism-Acts-22-16.html",
-         "'Be baptised and wash your sins away' -- what Paul is recounting "
+         "'Be baptized and wash your sins away' -- what Paul is recounting "
          "here."),
     ],
     ("romans", 1): [
@@ -674,7 +674,7 @@ CHAPTER_ARTICLES = {
          "What 'neither Jew nor Greek, neither slave nor free' claims, and "
          "what it is often made to claim."),
         ("GotQuestions.org", GQ + "baptism-Galatians-3-27.html",
-         "Being baptised into Christ in this chapter, and whether the water is "
+         "Being baptized into Christ in this chapter, and whether the water is "
          "in view."),
     ],
     ("ephesians", 1): [
@@ -835,7 +835,7 @@ TOPIC_ARTICLES = {
     ],
     "anxiety-and-fear.html": [
         ("GotQuestions.org", GQ + "Bible-anxiety.html",
-         "What the Bible says to someone who is anxious, without minimising "
+         "What the Bible says to someone who is anxious, without minimizing "
          "it."),
         ("GotQuestions.org", GQ + "Bible-verses-about-fear.html",
          "Passages on fear and courage, collected."),
@@ -1057,7 +1057,7 @@ TOPIC_ARTICLES = {
     ],
     "prophecy-and-fulfillment.html": [
         ("GotQuestions.org", GQ + "messianic-prophecies.html",
-         "The messianic prophecies with their fulfilments, side by side."),
+         "The messianic prophecies with their fulfillments, side by side."),
         ("GotQuestions.org", GQ + "Bible-prophecy.html",
          "What biblical prophecy is, which is broader than prediction."),
         ("BibleProject", BP + "how-does-the-bibles-story-lead-to-jesus/",
@@ -1170,7 +1170,7 @@ def render_li(source, url, note):
 # Matching the tab meant copying that, not improving on it.
 #
 # Each repo resolves --accent-gold-light to its own gold, #c49a2a upstream and
-# #c9a96e on New River, so no colour is hardcoded.
+# #c9a96e on New River, so no color is hardcoded.
 #
 # The star is markup rather than a ::before rule on purpose. site/style.css is on
 # the sync's preserve list, so a rule there has to be added by hand in both

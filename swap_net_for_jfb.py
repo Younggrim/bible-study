@@ -55,7 +55,7 @@ BLB_CODE = {
     "2john": "2Jo", "3john": "3Jo", "jude": "Jde", "revelation": "Rev",
 }
 
-LINK = ('<a href="{url}" target="_blank" '
+LINK = ('<a href="{url}" target="_blank" rel="noopener" '
         'style="color:var(--accent-link);text-decoration:none;'
         'border-bottom:1px dotted var(--accent-link);">{label}</a>')
 
