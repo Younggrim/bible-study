@@ -151,6 +151,25 @@ PHRASES = [
     ("acts28.html", "The Appii Forum and the Three Taverns", "The Forum of Appius and the Three Taverns"),
     ("2samuel6.html", "at Nachon's threshing floor", "at Nacon's threshing floor"),
     ("romans16.html", "Timotheus, Tertius and Gaius", "Timothy, Tertius and Gaius"),
+    # factual corrections: counts checked against the verse counts
+    # (Psalm 117 has 2 verses, Psalm 87 has 7; Matthew 3 has 17, Matthew 28
+    # has 20; Judges 20:17 musters 400,000, and 22,000 + 18,000 fall), and
+    # claims softened where they are disputed or unsupported (no Egyptian
+    # locust deity named Serapia is attested; Luke's Gentile identity is the
+    # majority view, not a certainty; Judges 6:39 and Isaiah 7:11 also have
+    # God inviting or permitting a test)
+    ("psalms87.html", "This is the shortest psalm in the psalter and the strangest",
+     "This is one of the shortest psalms in the psalter and one of the strangest"),
+    ("matthew28.html", "It is the shortest chapter in Matthew but contains",
+     "It is one of the shorter chapters in Matthew but contains"),
+    ("exodus10.html", "Targets: Serapia (locust deity), Isis/Osiris (agriculture gods).",
+     "Targets: Isis/Osiris (agriculture gods), whose crops the locusts strip."),
+    ("luke1.html", "He is the only non-Jewish author in the New Testament.",
+     "He is traditionally regarded as the only Gentile author in the New Testament."),
+    ("judges20.html", "Total losses: 40,000 men — nearly 10% of their army.",
+     "Total losses: 40,000 men — a tenth of their army."),
+    ("malachi3.html", "This is the only place in Scripture where God invites testing.",
+     "This is one of the very few places in Scripture where God invites testing."),
     # typos
     ("isaiah7.html", "telling him: don&#x27;T fear", "telling him: don&#x27;t fear"),
     ("1chronicles20.html", "giant- killing", "giant-killing"),
