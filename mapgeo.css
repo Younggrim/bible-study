@@ -186,9 +186,15 @@
     margin: -10px 0 14px;
 }
 
-/* One blank line between the last write-up and this note. The pane's own
-   ".tab-content p" rule outranks ".geo-credit", so the spacing is set here. */
-.tab-content p.geo-credit { margin-top: 1.6em; }
+/* A blank line above, and small grey type so the note reads as fine print
+   rather than as another write-up. The pane's own ".tab-content p" rule
+   outranks ".geo-credit", so the note is styled at this specificity. */
+.tab-content p.geo-credit {
+    margin-top: 1.6em;
+    font-size: 0.78rem;
+    line-height: 1.6;
+    color: var(--text-faint);
+}
 
 @media (max-width: 600px) {
     .gm-label { font-size: 11px; }
