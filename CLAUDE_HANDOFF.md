@@ -359,6 +359,43 @@ before punctuation, titles and headings match their chapter. **If a `fold_*.py`
 script is ever re-run it will restore the KJV forms in its pane; re-run
 `fix_spelling_audit.py` afterwards.**
 
+**4b. Polish pass — DONE, 25-26 Sep.** Ten items, each its own commit, each
+synced to New River:
+
+- *Palette drift.* The topical, life-study, home, devotional and 404 pages had
+  bible-study's neutrals as hex literals, so New River showed cream backgrounds,
+  brown text and a brown prayer band. `tokenize_neutral_colors.py` moved them onto
+  eight new tokens (see WORKFLOW.md's table); New River's `style.css` defines them
+  in black and grey, and the sync's hardcoded-color warning now watches them.
+- *Accessibility, in `site/script.js` (both copies).* Study tabs are an ARIA
+  tablist with arrow keys; video thumbnails and verse references are focusable
+  buttons; selects are labelled; Escape closes a verse popup. The **chapter arrows**
+  linked to chapter+1 unconditionally, so every book's last chapter pointed at a
+  missing page; they now cross into the neighbouring book, in theme colors.
+- *Search and sharing.* `add_seo_meta.py` writes description, canonical and Open
+  Graph tags on every page plus `sitemap.xml` and `robots.txt`. **Re-run it after
+  editing a Summary tab** so the description follows. New River's sync rewrites
+  the domain and site name.
+- *Links.* All 3,996 outbound links checked. 122 Blue Letter Bible links for eight
+  books silently landed on the commentary index (wrong book codes, now fixed in
+  the pages and in `add_commentaries.py` / `swap_net_for_jfb.py`); three renamed
+  Wikipedia articles fixed in `mapgeo_places.py`. `rel="noopener"` on every
+  new-tab link and in the link templates.
+- *Content.* Two false counts corrected (Psalm 87 is not the shortest psalm;
+  Matthew 28 is not Matthew's shortest chapter) and four claims softened;
+  107 shouted capitals lowercased; 178 devotional passages restored to the ESV's
+  LORD/Lord distinction. "Holy Ghost" was deliberately left: nearly every unquoted
+  use is part of a woven KJV phrase.
+- *Phones.* All 1,228 pages load at 375px with no horizontal overflow and no
+  script errors. `optimize_hero_images.py` serves the hero photos at phone size.
+
+**Generators that render text into docs/** — fix the source, not only the page,
+or the next run reverts it: `mapgeo_places.py` (map notes), `article_sources.py`
+(article notes), `add_seo_meta.py` (descriptions come from Summary tabs). The
+`fold_*.py` scripts would also revert the name and spelling fixes; re-run
+`fix_spelling_audit.py` after any re-fold. `add_commentaries.py` predates the
+NET-to-JFB swap and should not be re-run.
+
 **5. Owner-only: the weekly article audit has never run.** The token lacks
 `Actions: write`. Trigger once from the Actions tab in `bible-study`. Upstream
 `e13849d` un-recorded seven recent articles specifically so the first run has
