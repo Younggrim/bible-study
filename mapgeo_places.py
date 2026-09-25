@@ -717,7 +717,7 @@ PLACES.update({
          "Jerusalem fell."),
 "ramah": dict(
     name="Ramah", lat=31.8450, lon=35.2339, kind="city",
-    modern="er-Ram, West Bank", wiki="Ramah_(Israel)", aka=[],
+    modern="er-Ram, West Bank", wiki="Ramah_in_Benjamin", aka=[],
     note="A Benjamite town on the ridge road north of Jerusalem, Samuel's home "
          "and the staging point from which Judah's captives were marched to "
          "Babylon, which is the weeping in Ramah Jeremiah hears."),
@@ -729,7 +729,7 @@ PLACES.update({
          "surprise the Philistine garrison."),
 "geba": dict(
     name="Geba", lat=31.8583, lon=35.2667, kind="city",
-    modern="Jaba, West Bank", wiki="Geba,_Benjamin", aka=[],
+    modern="Jaba, West Bank", wiki="Geba_(city)", aka=[],
     note="Facing Michmash across the same gorge, and the southern marker of "
          "the reduced kingdom in the phrase from Geba to Beersheba."),
 "anathoth": dict(
@@ -1029,7 +1029,7 @@ PLACES.update({
 # --- East of the Jordan --------------------------------------------------
 "succoth": dict(
     name="Succoth", lat=32.1939, lon=35.6222, kind="city",
-    modern="Deir Alla, Jordan", wiki="Succoth_(Israel)", aka=[],
+    modern="Deir Alla, Jordan", wiki="Deir_Alla", aka=[],
     note="In the Jordan valley near the mouth of the Jabbok, where Jacob "
          "stopped after Peniel and where Solomon's bronze was cast."),
 "jabbok": dict(
