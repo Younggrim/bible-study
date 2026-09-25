@@ -38,6 +38,13 @@ translation and the only one that could fail at load.
 everything else network-first, so a slow ESV API no longer delays the default
 view. `CACHE_NAME` is `bible-study-v8`.
 
+The ESV Worker also serves a **claude.ai connector**: `esv-proxy-worker/mcp.js`
+adds `POST /mcp/<MCP_PATH_KEY>` with one tool, `esv_passage`, returning plain ESV
+text for the Stored Up memorization app. It is routed **before** the origin check
+(Claude's servers send no Origin); the `MCP_PATH_KEY` Worker secret in the path is
+its access control. To rotate: `wrangler secret put MCP_PATH_KEY`, then update the
+connector URL in claude.ai.
+
 Adding another translation means: the block on 1189 pages, the `<option>` on 1190
 pages, `TRANSLATION_COLORS` **in both repos**, the PWA info panel **in both
 repos**, and the homepage Translation Guide.
