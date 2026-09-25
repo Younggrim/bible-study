@@ -10,6 +10,8 @@
  *   fetch('https://esv-proxy.<your-subdomain>.workers.dev/?q=John+3:16')
  */
 
+import { isMcpPath, handleMcp } from "./mcp.js";
+
 const ESV_API_URL = 'https://api.esv.org/v3/passage/html/';
 
 // Allowed origins (add your domain here)
@@ -36,7 +38,12 @@ function getCorsHeaders(request) {
 }
 
 export default {
-  async fetch(request, env) {
+  async fetch(request, env, ctx) {
+    // claude.ai connector endpoint (see mcp.js). Routed before the origin
+    // check because Claude's servers send no Origin header; the secret path
+    // key is its access control.
+    if (isMcpPath(new URL(request.url))) return handleMcp(request, env, ctx);
+
     // Handle CORS preflight
     if (request.method === 'OPTIONS') {
       return new Response(null, { status: 204, headers: getCorsHeaders(request) });
