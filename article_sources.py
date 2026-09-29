@@ -169,6 +169,23 @@ DROP_ARTICLE_URLS = {
         "a critique of the modern prophetic movement; prophecy-and-fulfillment "
         "covers fulfilled biblical prophecy, not modern prophets, so there is "
         "no page for it -- revisit if a spiritual-gifts page is added",
+    "https://www.crossway.org/articles/the-call-to-good-stewardship-extends-to-your-body/":
+        "a real teaching piece on the body and aging, but there is no existing "
+        "topical page for it to sit on -- revisit if one is added",
+    "https://www.crossway.org/articles/classical-theology-v-modern-evangelical-experientialism/":
+        "a book excerpt of cultural and theological commentary, not tied to "
+        "a passage or an existing topical page",
+    "https://www.crossway.org/articles/3-ways-pastors-can-develop-genuineness-and-integrity/":
+        "advice for pastors, and there is no page on ministry for it to sit on",
+    "https://www.crossway.org/articles/christians-going-to-college-have-to-be-intellectually-prepared/":
+        "a real piece, but there is no existing page on education or "
+        "apologetics for it to sit on -- revisit if one is added",
+    "https://www.crossway.org/articles/introducing-new-morning-mercies-for-kids/":
+        "product announcement for a children's devotional, not teaching",
+    "https://www.crossway.org/articles/podcast-what-the-modern-church-can-relearn-from-classical-theology-carl-trueman/":
+        "a podcast episode page, not a written article",
+    "https://www.crossway.org/articles/september-2026-new-releases/":
+        "promotional, a monthly list of new books",
 }
 
 LINK = ('<a href="{url}" target="_blank" rel="noopener" '
@@ -393,6 +410,9 @@ CHAPTER_ARTICLES = {
         ("Crossway", CW + "the-worship-that-god-will-not-accept/",
          "Why David says God takes no delight in sacrifice in verses 16-17, "
          "and what kind of worship he does accept."),
+        ("Crossway", CW + "how-to-sing-psalm-51/",
+         "What it takes to set David's prayer of repentance to English meter "
+         "so a congregation can sing it."),
     ],
     ("psalms", 53): [
         ("GotQuestions.org", GQ + "Psalms-14-53.html",
@@ -800,6 +820,9 @@ BOOK_ARTICLES = {
         ("Crossway", CW + "why-romans-is-the-greatest-letter-ever-written/",
          "On the whole letter: why Romans has carried the weight it has in "
          "church history."),
+        ("Crossway", CW + "preparing-our-minds-and-hearts-to-study-the-book-of-romans/",
+         "Why Paul's own story of being overtaken by grace is the right way "
+         "into the letter."),
     ],
     "psalms": [
         ("Crossway", CW + "theres-a-reason-we-see-so-much-repetition-in-the-psalms/",
