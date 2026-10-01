@@ -307,7 +307,8 @@ document.addEventListener('DOMContentLoaded', function() {
         'parables-of-jesus','prophecy-and-fulfillment','prayers-in-the-bible','i-am-statements',
         'beatitudes','men-of-the-bible','women-of-the-bible','kings-of-israel','promises-of-god',
         'spiritual-disciplines','the-trinity','miracles-of-jesus','ten-commandments','the-gospel',
-        'covenants','marriage-and-family','topical-studies'];
+        'covenants','marriage-and-family','topical-studies','attributes-of-god',
+        'gifts-of-the-holy-spirit','judges-of-israel','types-of-christ'];
     var strugglePages = ['addiction','anger','anxiety-and-fear','depression-and-hopelessness',
         'doubt-and-unbelief','greed-and-materialism','grief-and-loss','identity-and-self-worth',
         'loneliness','lust-and-sexual-sin','pride','suffering','temptation',
