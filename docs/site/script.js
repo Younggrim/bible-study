@@ -317,6 +317,8 @@ document.addEventListener('DOMContentLoaded', function() {
     var baseName = path.replace('.html','');
     if (baseName === 'devotional') {
         section = 'devotional';
+    } else if (baseName === 'memory') {
+        section = 'memory';
     } else if (topicPages.indexOf(baseName) !== -1) {
         section = 'topical';
     } else if (strugglePages.indexOf(baseName) !== -1) {
@@ -469,7 +471,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }, 8000);
     }
 
-    // Inject bottom nav (4 tabs: Bible, Topical, Life, Devotional)
+    // Inject bottom nav (5 tabs: Bible, Topical, Life, Devotional, Memory)
     var nav = document.createElement('nav');
     nav.className = 'pwa-bottom-nav';
     nav.innerHTML = ''
@@ -480,7 +482,9 @@ document.addEventListener('DOMContentLoaded', function() {
         + '<a class="pwa-nav-item' + (section==='life'?' active':'') + '" data-section="life" href="#">'
         + '<i class="fas fa-heart"></i><span>Life</span></a>'
         + '<a class="pwa-nav-item' + (section==='devotional'?' active':'') + '" data-section="devotional" id="pwa-devotional-btn" href="#">'
-        + '<i class="fas fa-hands-praying"></i><span>Devotional</span></a>';
+        + '<i class="fas fa-hands-praying"></i><span>Devotional</span></a>'
+        + '<a class="pwa-nav-item' + (section==='memory'?' active':'') + '" data-section="memory" href="#">'
+        + '<i class="fas fa-brain"></i><span>Memory</span></a>';
     document.body.appendChild(nav);
 
     // Tab click handling
@@ -490,6 +494,10 @@ document.addEventListener('DOMContentLoaded', function() {
             var sec = this.dataset.section;
             if (sec === 'devotional') {
                 window.location.href = 'devotional.html';
+                return;
+            }
+            if (sec === 'memory') {
+                window.location.href = 'memory.html';
                 return;
             }
             if (sec === 'topical') {

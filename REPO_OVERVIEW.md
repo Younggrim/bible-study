@@ -45,6 +45,24 @@ text for the Stored Up memorization app. It is routed **before** the origin chec
 its access control. To rotate: `wrangler secret put MCP_PATH_KEY`, then update the
 connector URL in claude.ai.
 
+## Scripture Memory
+
+`docs/memory.html` is the Memory tab of the installed app (fifth item in the
+bottom nav, wired in `site/script.js`). A verse is learned by fading its words out
+over six steps, then reviewed as a flashcard on a spaced schedule (Again / Hard /
+Good / Easy set the next interval). It is one self-contained page: no build step
+and no server.
+
+- **Storage is the browser's localStorage**, key `memory-verses-v1`, so each
+  device and each site (bible-study, New River) keeps its own list. Back up /
+  Restore on the Verses tab moves a list between devices as a JSON file.
+- **Look up** fetches ESV text through the existing `/?q=` proxy route and strips
+  headings, verse numbers and the copyright line in the page. Other translations
+  are pasted in by hand.
+- Colors come from the style.css tokens, so the mirror gets New River's palette.
+  The bottom-nav change lives in `site/script.js`, which New River keeps its own
+  copy of: port that change there by hand when mirroring.
+
 Adding another translation means: the block on 1189 pages, the `<option>` on 1190
 pages, `TRANSLATION_COLORS` **in both repos**, the PWA info panel **in both
 repos**, and the homepage Translation Guide.

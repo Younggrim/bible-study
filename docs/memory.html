@@ -1,0 +1,552 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="manifest" href="manifest.json"><meta name="theme-color" content="#3d2b1f">
+    <title>Scripture Memory — Bible Study</title>
+    <!-- seo -->
+    <meta name="description" content="Memorize Scripture: fade a verse out word by word, then review it on a spaced schedule so it stays with you.">
+    <link rel="canonical" href="https://bible.macdwellings.com/memory.html">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Bible Study">
+    <meta property="og:title" content="Scripture Memory — Bible Study">
+    <meta property="og:description" content="Memorize Scripture: fade a verse out word by word, then review it on a spaced schedule so it stays with you.">
+    <meta property="og:url" content="https://bible.macdwellings.com/memory.html">
+    <meta property="og:image" content="https://bible.macdwellings.com/site/icon-512.png">
+    <meta name="twitter:card" content="summary">
+    <!-- /seo -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com">
+    <link href="https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,400&family=Inter:wght@400;500;600;700&family=Poppins:wght@500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"></noscript>
+    <link rel="stylesheet" href="site/style.css?v=17">
+    <style>
+        /* Theme colors come from the tokens in site/style.css so the New River
+           mirror picks up its own palette. The four grade colors and the white
+           card ground are deliberate literals, the same on both sites. */
+        body { background: var(--bg-page); }
+        .page-content { margin: 0 auto; max-width: 720px; padding: 24px 20px 100px; }
+        .mem-hero { background: var(--ink-deep); border-radius: 16px; padding: 30px 24px; text-align: center; margin-bottom: 18px; box-shadow: 0 8px 32px rgba(0,0,0,0.15); }
+        .mem-hero h1 { font-family: 'Poppins', 'Inter', sans-serif; font-weight: 700; font-size: 1.5rem; color: #fff; margin: 0 0 6px; }
+        .mem-hero p { font-family: 'Merriweather', serif; font-style: italic; font-size: 0.85rem; color: var(--text-on-dark); margin: 0; opacity: 0.9; }
+        .mem-tabs { display: flex; gap: 4px; background: #fff; border: 1px solid var(--border-light); border-radius: 999px; padding: 4px; margin-bottom: 24px; }
+        .mem-tab { flex: 1; border: 0; background: transparent; padding: 8px 10px; border-radius: 999px; font-family: 'Inter', sans-serif; font-size: 0.85rem; font-weight: 600; color: var(--text-faint); cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 6px; }
+        .mem-tab[aria-current="page"] { background: var(--accent-link); color: #fff; }
+        .mem-badge { min-width: 18px; height: 18px; padding: 0 5px; border-radius: 9px; background: var(--accent-link); color: #fff; font-size: 0.68rem; font-weight: 700; display: inline-grid; place-items: center; }
+        .mem-tab[aria-current="page"] .mem-badge { background: #fff; color: var(--accent-link); }
+        #memMain { display: flex; flex-direction: column; gap: 26px; }
+        .mem-eyebrow { font-size: 0.72rem; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; color: var(--text-faint); margin: 0 0 10px; }
+        .mem-h2 { font-family: 'Poppins', 'Inter', sans-serif; font-weight: 700; font-size: 1.3rem; color: var(--ink-deep); margin: 0; line-height: 1.3; }
+        .mem-lede { color: var(--text-secondary); font-size: 0.92rem; margin: 6px 0 0; }
+        .mem-note { font-size: 0.8rem; color: var(--text-faint); margin: 0; line-height: 1.5; }
+        .mem-note a { color: var(--accent-link); }
+        .mem-row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+        .mem-between { justify-content: space-between; }
+        .mem-count { font-family: 'Poppins', 'Inter', sans-serif; font-size: 2.6rem; font-weight: 700; line-height: 1; color: var(--ink-deep); }
+        .mem-btn { font-family: 'Inter', sans-serif; border: 1px solid var(--border-medium); background: #fff; color: var(--ink-deep); padding: 10px 16px; border-radius: 8px; font-weight: 600; font-size: 0.88rem; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; gap: 8px; }
+        .mem-btn.primary { background: var(--accent-link); border-color: var(--accent-link); color: #fff; }
+        .mem-btn.quiet { background: transparent; border-color: transparent; color: var(--accent-link); padding-left: 6px; padding-right: 6px; }
+        .mem-btn.danger { color: #b5473f; border-color: #b5473f; }
+        .mem-btn:disabled { opacity: 0.45; cursor: default; }
+        .mem-btn[hidden] { display: none; }
+        .mem-btn:focus-visible, .mem-tab:focus-visible, .mem-item:focus-visible, .mem-grade:focus-visible, .mem-blank:focus-visible { outline: 2px solid var(--accent-link); outline-offset: 2px; }
+        .mem-list { display: flex; flex-direction: column; border-top: 1px solid var(--border-light); }
+        .mem-item { display: grid; grid-template-columns: 1fr auto; gap: 4px 12px; padding: 14px 2px; border: 0; border-bottom: 1px solid var(--border-light); background: transparent; text-align: left; width: 100%; font-family: 'Inter', sans-serif; color: var(--ink-deep); }
+        button.mem-item { cursor: pointer; }
+        .mem-ref { font-family: 'Merriweather', serif; font-weight: 700; font-size: 0.98rem; color: var(--ink-deep); }
+        .mem-snip { grid-column: 1 / -1; color: var(--text-secondary); font-family: 'Merriweather', serif; font-size: 0.85rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+        .mem-chip { font-size: 0.7rem; font-weight: 700; padding: 3px 9px; border-radius: 999px; white-space: nowrap; align-self: center; }
+        .mem-chip.due { background: var(--accent-link); color: #fff; }
+        .mem-chip.later { background: var(--bg-tint); color: var(--ink-deep); }
+        .mem-chip.known { background: #ddefe6; color: #2f7456; }
+        .mem-steps { display: flex; gap: 3px; align-self: center; }
+        .mem-steps i { width: 14px; height: 5px; border-radius: 3px; background: var(--border-medium); }
+        .mem-steps i.on { background: var(--accent-link); }
+        .mem-empty { padding: 20px 0; color: var(--text-secondary); font-size: 0.92rem; margin: 0; }
+
+        /* The verse card, ruled like an index card */
+        .mem-card { background: #fff; border: 1px solid var(--border-light); border-radius: 8px; box-shadow: 0 4px 16px rgba(0,0,0,0.06); overflow: hidden; }
+        .mem-card-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 16px 22px 10px; border-bottom: 2px solid var(--accent-link); }
+        .mem-card-head .mem-ref { font-size: 1.1rem; }
+        .mem-card-meta { font-size: 0.72rem; color: var(--text-faint); font-weight: 600; letter-spacing: 0.5px; text-transform: uppercase; }
+        .mem-card-body { padding: 4px 22px 20px; font-family: 'Merriweather', serif; font-size: 1.08rem; line-height: 2.2rem; color: var(--ink-deep); min-height: calc(2.2rem * 4 + 24px);
+            background-image: repeating-linear-gradient(to bottom, transparent 0, transparent calc(2.2rem - 1px), var(--rule-soft) calc(2.2rem - 1px), var(--rule-soft) 2.2rem);
+            background-origin: content-box; background-clip: content-box; }
+        .mem-card-body.prompt { display: grid; place-items: center; text-align: center; color: var(--text-faint); font-style: italic; font-size: 0.98rem; }
+        .mem-w { white-space: nowrap; }
+        .mem-blank { display: inline-block; height: 1.2em; vertical-align: -0.2em; border: 0; border-bottom: 2px solid var(--accent-link); border-radius: 1px; background: transparent; padding: 0; margin: 0 1px; cursor: pointer; }
+        .mem-first { color: var(--accent-link); font-weight: 700; }
+        .mem-peek { background: var(--bg-tint); border-radius: 3px; }
+        .mem-hint { color: var(--accent-link); letter-spacing: 0.12em; word-spacing: 0.2em; }
+        .mem-stepper { display: flex; gap: 6px; flex-wrap: wrap; }
+        .mem-stepper button { font-family: 'Inter', sans-serif; border: 1px solid var(--border-medium); background: #fff; border-radius: 999px; padding: 5px 11px; font-size: 0.76rem; font-weight: 600; color: var(--text-muted); cursor: pointer; }
+        .mem-stepper button[aria-pressed="true"] { background: var(--ink-deep); border-color: var(--ink-deep); color: #fff; }
+        .mem-stepper button.done { border-color: var(--accent-link); color: var(--accent-link); }
+        .mem-grades { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+        .mem-grade { font-family: 'Inter', sans-serif; border: 0; border-radius: 10px; padding: 10px 6px; display: flex; flex-direction: column; align-items: center; gap: 2px; font-weight: 700; font-size: 0.9rem; cursor: pointer; }
+        .mem-grade small { font-weight: 500; font-size: 0.72rem; }
+        .mem-g0 { background: #f6e3e1; color: #b5473f; }
+        .mem-g1 { background: #f5ebd6; color: #8a5e0e; }
+        .mem-g2 { background: #e1e9f4; color: #2c4c78; }
+        .mem-g3 { background: #ddefe6; color: #2f7456; }
+        .mem-progress { height: 4px; background: var(--border-light); border-radius: 2px; overflow: hidden; }
+        .mem-progress i { display: block; height: 100%; background: var(--accent-link); transition: width 0.25s; }
+        .mem-form { display: flex; flex-direction: column; gap: 16px; }
+        .mem-form label { font-size: 0.8rem; font-weight: 700; color: var(--text-muted); display: flex; flex-direction: column; gap: 6px; }
+        .mem-form input, .mem-form textarea, .mem-form select { font-family: 'Inter', sans-serif; font-size: 1rem; color: var(--ink-deep); background: #fff; border: 1px solid var(--border-medium); border-radius: 8px; padding: 10px 12px; width: 100%; }
+        .mem-form textarea { font-family: 'Merriweather', serif; line-height: 1.7; min-height: 140px; resize: vertical; }
+        .mem-two { display: grid; grid-template-columns: 2fr 1fr; gap: 12px; }
+        .mem-refrow { display: flex; gap: 8px; }
+        .mem-refrow input { flex: 1; min-width: 0; }
+        .mem-refrow .mem-btn { flex: none; }
+        .mem-detail { padding: 4px 2px 18px; border-bottom: 1px solid var(--border-light); display: flex; flex-direction: column; gap: 14px; }
+        .mem-detail p.mem-text { margin: 0; font-family: 'Merriweather', serif; font-size: 0.98rem; line-height: 1.8; color: var(--ink-deep); }
+        .mem-facts { display: flex; gap: 18px; flex-wrap: wrap; font-size: 0.78rem; color: var(--text-faint); }
+        .mem-facts b { color: var(--ink-deep); }
+        .mem-banner { font-size: 0.82rem; color: #8a5e0e; background: #f5ebd6; padding: 10px 12px; border-radius: 8px; }
+        .mem-copy { font-size: 0.7rem; color: var(--text-faint); margin: 28px 0 0; line-height: 1.5; }
+        @media (max-width: 480px) { .mem-two { grid-template-columns: 1fr; } .mem-grades { grid-template-columns: repeat(2, 1fr); } .mem-card-body { font-size: 1rem; } }
+        @media (prefers-reduced-motion: reduce) { .mem-progress i { transition: none; } }
+    </style>
+</head>
+<body>
+    <main class="page-content" style="margin-top:20px;">
+        <div class="mem-hero">
+            <h1>Scripture Memory</h1>
+            <p>Hide a verse in your heart, a few words at a time.</p>
+        </div>
+        <nav class="mem-tabs" id="memTabs" aria-label="Scripture Memory"></nav>
+        <div id="memMain"><p class="mem-note">Loading your verses…</p></div>
+        <p class="mem-copy">Scripture quotations marked ESV are from the ESV® Bible (The Holy Bible, English Standard Version®), © 2001 by Crossway. Used by permission. All rights reserved.</p>
+        <input type="file" id="memFile" accept="application/json,.json" hidden>
+    </main>
+    <script src="site/script.js"></script>
+    <script>
+    (function() {
+        // Verses and their review schedule live in this browser's localStorage
+        // (one list per device and per site). Back up / Restore on the Verses
+        // tab moves a list between devices.
+        var STORE_KEY = 'memory-verses-v1';
+        var ESV_PROXY = (typeof ESV_PROXY_URL !== 'undefined' && ESV_PROXY_URL) || 'https://esv-proxy.cloudflare-dust598.workers.dev';
+        var STEPS = [
+            { name: 'Read it', frac: 0 },
+            { name: 'A few gone', frac: 0.25 },
+            { name: 'Half gone', frac: 0.5 },
+            { name: 'Most gone', frac: 0.75 },
+            { name: 'First letters', frac: 1, letters: true },
+            { name: 'From memory', frac: 1 }
+        ];
+        var GRADES = ['Again', 'Hard', 'Good', 'Easy'];
+        var S = { verses: {}, view: 'today', session: null, practice: null, detail: null, confirmDel: false, editing: false, notice: '', canSave: true };
+        var main = document.getElementById('memMain'), tabs = document.getElementById('memTabs'), fileInput = document.getElementById('memFile');
+        var looking = false;
+
+        /* ---------- dates ---------- */
+        function pad(n) { return String(n).padStart(2, '0'); }
+        function ds(d) { return d.getFullYear() + '-' + pad(d.getMonth() + 1) + '-' + pad(d.getDate()); }
+        function today() { return ds(new Date()); }
+        function parseDay(s) { var p = s.split('-').map(Number); return new Date(p[0], p[1] - 1, p[2]); }
+        function addDays(s, n) { var d = parseDay(s); d.setDate(d.getDate() + n); return ds(d); }
+        function daysBetween(a, b) { return Math.round((parseDay(b) - parseDay(a)) / 864e5); }
+        function fmtDue(d) {
+            if (!d) return '';
+            var n = daysBetween(today(), d);
+            if (n <= 0) return 'Due now';
+            if (n === 1) return 'Tomorrow';
+            var dt = parseDay(d);
+            if (n < 7) return dt.toLocaleDateString(undefined, { weekday: 'long' });
+            return dt.toLocaleDateString(undefined, { month: 'short', day: 'numeric' });
+        }
+        function fmtIv(n) { return n < 1 ? 'today' : n === 1 ? '1 day' : n < 30 ? n + ' days' : n < 365 ? Math.round(n / 30) + ' mo' : (n / 365).toFixed(1) + ' yr'; }
+
+        /* ---------- scheduling ---------- */
+        // Again: back tomorrow. Hard: slightly longer. Good: interval x ease.
+        // Easy: longer still. Ease drifts with how the reviews go.
+        function nextFor(v, g) {
+            var ease = v.ease || 2.5, i = v.interval || 0, reps = v.reps || 0, ni;
+            if (g === 0) { ni = 1; ease = Math.max(1.3, ease - 0.2); }
+            else if (g === 1) { ni = Math.max(1, Math.round(i * 1.2)); ease = Math.max(1.3, ease - 0.15); }
+            else if (g === 2) { ni = reps === 0 ? 3 : Math.max(i + 1, Math.round(i * ease)); }
+            else { ni = reps === 0 ? 5 : Math.max(i + 2, Math.round(i * ease * 1.3)); ease = ease + 0.15; }
+            ni = Math.min(ni, 180);
+            return { interval: ni, ease: Math.round(ease * 100) / 100, reps: g === 0 ? 0 : reps + 1, lapses: (v.lapses || 0) + (g === 0 ? 1 : 0), due: addDays(today(), ni), lastReviewed: today() };
+        }
+        function isDue(v) { return v.stage === 'review' && v.due && v.due <= today(); }
+        function all() { return Object.keys(S.verses).map(function(k) { return S.verses[k]; }).sort(function(a, b) { return (a.addedAt || '').localeCompare(b.addedAt || ''); }); }
+        function dueList() { return all().filter(isDue).sort(function(a, b) { return a.due.localeCompare(b.due); }); }
+        function learning() { return all().filter(function(v) { return v.stage === 'learning'; }); }
+
+        /* ---------- storage ---------- */
+        function load() {
+            try {
+                var raw = JSON.parse(localStorage.getItem(STORE_KEY) || 'null');
+                S.verses = (raw && raw.verses) || {};
+            } catch (e) { S.verses = {}; S.canSave = false; }
+            try { localStorage.setItem('memory-probe', '1'); localStorage.removeItem('memory-probe'); } catch (e) { S.canSave = false; }
+        }
+        function save() {
+            try { localStorage.setItem(STORE_KEY, JSON.stringify({ version: 1, verses: S.verses })); }
+            catch (e) { S.canSave = false; }
+        }
+        function create(v) { S.verses[v.id] = v; save(); render(); }
+        function patch(id, p) { var v = S.verses[id]; if (!v) return; for (var k in p) v[k] = p[k]; save(); render(); }
+        function remove(id) { delete S.verses[id]; save(); render(); }
+        function newId() { return 'v' + Date.now().toString(36) + Math.random().toString(36).slice(2, 6); }
+        function cleanVerse(o) {
+            if (!o || typeof o.ref !== 'string' || typeof o.text !== 'string' || !o.ref.trim() || !o.text.trim()) return null;
+            var learning = o.stage !== 'review';
+            return {
+                id: newId(), ref: o.ref.trim().slice(0, 120), text: o.text.trim().replace(/\s+/g, ' ').slice(0, 6000),
+                translation: String(o.translation || 'ESV').slice(0, 12), stage: learning ? 'learning' : 'review',
+                fadeStep: Math.max(0, Math.min(STEPS.length - 1, parseInt(o.fadeStep, 10) || 0)),
+                interval: Math.max(0, Math.min(180, parseInt(o.interval, 10) || 0)), ease: Math.max(1.3, Math.min(4, Number(o.ease) || 2.5)),
+                reps: Math.max(0, parseInt(o.reps, 10) || 0), lapses: Math.max(0, parseInt(o.lapses, 10) || 0),
+                due: !learning && /^\d{4}-\d{2}-\d{2}$/.test(o.due || '') ? o.due : (learning ? null : today()),
+                lastReviewed: /^\d{4}-\d{2}-\d{2}$/.test(o.lastReviewed || '') ? o.lastReviewed : null,
+                addedAt: typeof o.addedAt === 'string' ? o.addedAt : new Date().toISOString()
+            };
+        }
+
+        /* ---------- text ---------- */
+        function tokens(text) {
+            return text.trim().split(/\s+/).map(function(t) {
+                var m = t.match(/^([^\p{L}\p{N}]*)(.*?)([^\p{L}\p{N}]*)$/u) || ['', '', t, ''];
+                return { pre: m[1], core: m[2], post: m[3] };
+            });
+        }
+        function hash(s) { var h = 2166136261; for (var i = 0; i < s.length; i++) { h ^= s.charCodeAt(i); h = Math.imul(h, 16777619); } return h >>> 0; }
+        function order(n, seed) {
+            var a = [], x = seed || 1, i, j, t;
+            for (i = 0; i < n; i++) a.push(i);
+            function rnd() { x ^= x << 13; x >>>= 0; x ^= x >> 17; x ^= x << 5; x >>>= 0; return x / 4294967296; }
+            for (i = n - 1; i > 0; i--) { j = Math.floor(rnd() * (i + 1)); t = a[i]; a[i] = a[j]; a[j] = t; }
+            return a;
+        }
+        function esc(s) { return String(s).replace(/[&<>"']/g, function(c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+        // The words hidden at each step are a growing prefix of one shuffled
+        // order, so a word that disappears stays gone as the steps advance.
+        function fadedHTML(v, step, seed, peeked) {
+            var tk = tokens(v.text), st = STEPS[step], words = [];
+            tk.forEach(function(t, i) { if (t.core) words.push(i); });
+            var ord = order(words.length, hash(v.id + ':' + seed)).map(function(k) { return words[k]; });
+            var hide = {};
+            ord.slice(0, Math.ceil(words.length * st.frac)).forEach(function(i) { hide[i] = true; });
+            return tk.map(function(t, i) {
+                if (!hide[i] || peeked[i]) return '<span class="mem-w">' + esc(t.pre) + (peeked[i] ? '<span class="mem-peek">' + esc(t.core) + '</span>' : esc(t.core)) + esc(t.post) + '</span>';
+                if (st.letters) {
+                    var rest = t.core.length > 1 ? '<button class="mem-blank" data-a="peek" data-i="' + i + '" style="width:' + Math.max(0.9, (t.core.length - 1) * 0.6) + 'em" aria-label="Show word"></button>' : '';
+                    return '<span class="mem-w">' + esc(t.pre) + '<span class="mem-first">' + esc(t.core[0]) + '</span>' + rest + esc(t.post) + '</span>';
+                }
+                return '<span class="mem-w">' + esc(t.pre) + '<button class="mem-blank" data-a="peek" data-i="' + i + '" style="width:' + Math.max(1.6, t.core.length * 0.6) + 'em" aria-label="Show word"></button>' + esc(t.post) + '</span>';
+            }).join(' ');
+        }
+        function hintLine(v) { return tokens(v.text).map(function(t) { return t.pre + (t.core ? t.core[0] : '') + t.post; }).join(' '); }
+
+        // The proxy returns the ESV API's passage HTML. Strip headings, verse
+        // and chapter numbers, footnote marks and the copyright line, leaving
+        // the words alone.
+        function passageText(html) {
+            var doc = new DOMParser().parseFromString('<div>' + html + '</div>', 'text/html');
+            var root = doc.body.firstChild;
+            Array.prototype.forEach.call(root.querySelectorAll('h1,h2,h3,h4,h5,h6,.verse-num,.chapter-num,sup,.footnote,.footnotes,.extra_text'), function(n) { n.remove(); });
+            Array.prototype.forEach.call(root.querySelectorAll('a.copyright'), function(a) { (a.closest('p') || a).remove(); });
+            Array.prototype.forEach.call(root.querySelectorAll('br'), function(b) { b.replaceWith(doc.createTextNode(' ')); });
+            Array.prototype.forEach.call(root.querySelectorAll('p'), function(p) { p.appendChild(doc.createTextNode(' ')); });
+            return (root.textContent || '').replace(/[\s ]+/g, ' ').trim();
+        }
+
+        /* ---------- status ---------- */
+        function chipFor(v) {
+            if (v.stage === 'learning') return '<span class="mem-steps" aria-label="Learning, step ' + ((v.fadeStep || 0) + 1) + ' of ' + STEPS.length + '">' + STEPS.map(function(_, i) { return '<i class="' + (i <= (v.fadeStep || 0) ? 'on' : '') + '"></i>'; }).join('') + '</span>';
+            if (isDue(v)) return '<span class="mem-chip due">Due now</span>';
+            if ((v.interval || 0) >= 21) return '<span class="mem-chip known">Known · ' + fmtDue(v.due) + '</span>';
+            return '<span class="mem-chip later">' + fmtDue(v.due) + '</span>';
+        }
+
+        /* ---------- views ---------- */
+        function renderTabs() {
+            var d = dueList().length;
+            var cur = S.session ? 'today' : S.practice ? (S.practice.from === 'library' ? 'library' : 'today') : S.view;
+            tabs.innerHTML = [['today', 'Today', d], ['library', 'Verses', 0], ['add', 'Add', 0]].map(function(t) {
+                return '<button class="mem-tab" data-a="nav" data-v="' + t[0] + '"' + (cur === t[0] ? ' aria-current="page"' : '') + '>' + t[1] + (t[2] ? '<span class="mem-badge">' + t[2] + '</span>' : '') + '</button>';
+            }).join('');
+        }
+        function banner() {
+            var h = '';
+            if (S.notice) h += '<div class="mem-banner" role="status">' + esc(S.notice) + ' <button class="mem-btn quiet" data-a="dismiss">Dismiss</button></div>';
+            if (!S.canSave) h += '<div class="mem-banner">This browser is blocking saved data (private browsing does this), so verses you add here will be gone when you close the page.</div>';
+            return h;
+        }
+        function viewToday() {
+            var due = dueList(), lrn = learning(), t = today(), total = all().length;
+            var doneToday = all().filter(function(v) { return v.lastReviewed === t; }).length;
+            var upcoming = all().filter(function(v) { return v.stage === 'review' && !isDue(v); }).sort(function(a, b) { return a.due.localeCompare(b.due); }).slice(0, 4);
+            var h = banner();
+            if (!total) {
+                return h + '<section><h2 class="mem-h2">Start with one verse</h2><p class="mem-lede">Add a verse and read it aloud. Each step hides more of the words until you can say it from a blank card. After that it comes back for review tomorrow, then a few days later, then further and further apart.</p></section>'
+                    + '<div class="mem-row"><button class="mem-btn primary" data-a="nav" data-v="add">Add your first verse</button></div>';
+            }
+            h += '<section><div class="mem-row mem-between" style="align-items:flex-end"><div><p class="mem-eyebrow">' + new Date().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' }) + '</p>'
+                + '<div class="mem-row" style="align-items:baseline;gap:12px"><span class="mem-count">' + due.length + '</span><h2 class="mem-h2">' + (due.length === 1 ? 'verse to review' : 'verses to review') + '</h2></div>'
+                + '<p class="mem-lede">' + (due.length ? 'Say each one from memory, then check yourself.' : doneToday ? 'You reviewed ' + doneToday + ' today. Nothing else is due.' : 'Nothing is due right now.') + '</p></div>'
+                + (due.length ? '<button class="mem-btn primary" data-a="start">Start review</button>' : '') + '</div></section>';
+            h += '<section><p class="mem-eyebrow">Learning · ' + lrn.length + '</p>';
+            if (lrn.length) {
+                h += '<div class="mem-list">' + lrn.map(function(v) { return '<button class="mem-item" data-a="practice" data-id="' + v.id + '"><span class="mem-ref">' + esc(v.ref) + '</span>' + chipFor(v) + '<span class="mem-snip">' + esc(v.text) + '</span></button>'; }).join('') + '</div>'
+                    + '<p class="mem-note" style="margin-top:10px">Tap a verse to keep fading it out. When you can say it from a blank card, it moves into reviews.</p>';
+            } else h += '<p class="mem-empty">No verses in progress. <button class="mem-btn quiet" data-a="nav" data-v="add">Add a verse</button></p>';
+            h += '</section>';
+            if (upcoming.length) h += '<section><p class="mem-eyebrow">Coming up</p><div class="mem-list">' + upcoming.map(function(v) { return '<div class="mem-item"><span class="mem-ref">' + esc(v.ref) + '</span>' + chipFor(v) + '</div>'; }).join('') + '</div></section>';
+            return h;
+        }
+        function viewLibrary() {
+            var vs = all();
+            var h = banner() + '<section><div class="mem-row mem-between"><div><p class="mem-eyebrow">' + vs.length + (vs.length === 1 ? ' verse' : ' verses') + '</p><h2 class="mem-h2">Your verses</h2></div><button class="mem-btn" data-a="nav" data-v="add">Add a verse</button></div></section>';
+            if (!vs.length) h += '<p class="mem-empty">No verses yet.</p>';
+            else {
+                h += '<div class="mem-list">';
+                vs.forEach(function(v) {
+                    h += '<button class="mem-item" data-a="detail" data-id="' + v.id + '" aria-expanded="' + (S.detail === v.id) + '"><span class="mem-ref">' + esc(v.ref) + '</span>' + chipFor(v) + (S.detail === v.id ? '' : '<span class="mem-snip">' + esc(v.text) + '</span>') + '</button>';
+                    if (S.detail === v.id) h += detailHTML(v);
+                });
+                h += '</div>';
+            }
+            h += '<section><p class="mem-eyebrow">Backup</p><p class="mem-note" style="margin-bottom:12px">Your verses are saved on this device only. Back them up to a file to keep a copy or to move them to another device.</p>'
+                + '<div class="mem-row"><button class="mem-btn" data-a="backup"' + (vs.length ? '' : ' disabled') + '>Back up to a file</button><button class="mem-btn" data-a="restore">Restore from a file</button></div></section>';
+            return h;
+        }
+        function detailHTML(v) {
+            if (S.editing) return '<div class="mem-detail"><form class="mem-form" data-f="edit" data-id="' + v.id + '">'
+                + '<div class="mem-two"><label>Reference<input id="memEditRef" value="' + esc(v.ref) + '" required></label><label>Translation<input id="memEditTr" value="' + esc(v.translation || 'ESV') + '"></label></div>'
+                + '<label>Verse text<textarea id="memEditText" required>' + esc(v.text) + '</textarea></label>'
+                + '<div class="mem-row"><button class="mem-btn primary" type="submit">Save changes</button><button class="mem-btn" type="button" data-a="cancel-edit">Cancel</button></div></form></div>';
+            var facts = v.stage === 'learning'
+                ? '<span>Stage <b>Learning</b></span><span>Step <b>' + ((v.fadeStep || 0) + 1) + ' of ' + STEPS.length + '</b></span>'
+                : '<span>Next review <b>' + fmtDue(v.due) + '</b></span><span>Interval <b>' + fmtIv(v.interval || 0) + '</b></span><span>Reviews <b>' + (v.reps || 0) + '</b></span><span>Misses <b>' + (v.lapses || 0) + '</b></span>';
+            return '<div class="mem-detail"><p class="mem-text">' + esc(v.text) + '</p><div class="mem-facts"><span><b>' + esc(v.translation || 'ESV') + '</b></span>' + facts + '</div>'
+                + '<div class="mem-row"><button class="mem-btn primary" data-a="practice" data-id="' + v.id + '" data-from="library">Practice</button>'
+                + (isDue(v) ? '<button class="mem-btn" data-a="review-one" data-id="' + v.id + '">Review now</button>' : '')
+                + '<button class="mem-btn" data-a="edit">Edit</button>'
+                + (v.stage === 'review' ? '<button class="mem-btn" data-a="relearn" data-id="' + v.id + '">Start over</button>' : '')
+                + (S.confirmDel ? '<button class="mem-btn danger" data-a="delete" data-id="' + v.id + '">Delete for good</button><button class="mem-btn quiet" data-a="keep">Keep it</button>' : '<button class="mem-btn quiet" data-a="ask-delete" style="color:#b5473f">Delete</button>')
+                + '</div></div>';
+        }
+        function viewAdd() {
+            return banner() + '<section><p class="mem-eyebrow">New verse</p><h2 class="mem-h2">Add a verse to memorize</h2>'
+                + '<p class="mem-lede">Type a reference and look it up, or paste the text from your own Bible.</p></section>'
+                + '<form class="mem-form" data-f="add">'
+                + '<div class="mem-two"><label>Reference<span class="mem-refrow"><input id="memAddRef" placeholder="Romans 12:2" required autocomplete="off"><button type="button" class="mem-btn" id="memLookupBtn" data-a="lookup" disabled>Look up</button></span></label>'
+                + '<label>Translation<select id="memAddTr"><option>ESV</option><option>BSB</option><option>KJV</option><option>NKJV</option><option>NIV</option><option>CSB</option><option>NLT</option><option>NASB</option><option>NET</option></select></label></div>'
+                + '<label>Verse text<textarea id="memAddText" placeholder="Look it up, or paste the verse here" required></textarea></label>'
+                + '<p class="mem-note" id="memLookupNote" aria-live="polite"></p>'
+                + '<div class="mem-row"><button class="mem-btn primary" type="submit">Add and start learning</button></div></form>';
+        }
+        function viewPractice() {
+            var P = S.practice, v = S.verses[P.id];
+            if (!v) { S.practice = null; return S.session ? viewSession() : viewToday(); }
+            var last = P.step === STEPS.length - 1;
+            var h = '<section class="mem-row mem-between"><button class="mem-btn quiet" data-a="exit-practice">← Back</button><span class="mem-note">' + (v.stage === 'learning' ? 'Learning' : 'Practice only. Your review schedule stays the same.') + '</span></section>';
+            h += '<div class="mem-stepper" role="group" aria-label="Fade steps">' + STEPS.map(function(s, i) { return '<button data-a="step" data-s="' + i + '" aria-pressed="' + (i === P.step) + '" class="' + (v.stage === 'learning' && i < (v.fadeStep || 0) && i !== P.step ? 'done' : '') + '">' + s.name + '</button>'; }).join('') + '</div>';
+            h += '<article class="mem-card"><div class="mem-card-head"><span class="mem-ref">' + esc(v.ref) + '</span><span class="mem-card-meta">' + esc(v.translation || 'ESV') + ' · step ' + (P.step + 1) + '/' + STEPS.length + '</span></div>'
+                + '<div class="mem-card-body">' + fadedHTML(v, P.step, P.seed, P.peeked) + '</div></article>';
+            h += '<p class="mem-note">' + (P.step === 0 ? 'Read it out loud two or three times, reference included.' : last ? 'Say the whole verse and its reference out loud. Tap a line only if you are stuck.' : 'Say it out loud, filling in the blanks. Tap a blank to peek.') + '</p>';
+            h += '<div class="mem-row">' + (P.step > 0 ? '<button class="mem-btn" data-a="prev">Back a step</button><button class="mem-btn" data-a="shuffle">Hide different words</button>' : '')
+                + (!last ? '<button class="mem-btn primary" data-a="next">Fade more</button>'
+                    : v.stage === 'learning' ? '<button class="mem-btn primary" data-a="graduate">I can say it. Start reviews</button>' : '<button class="mem-btn primary" data-a="exit-practice">Done</button>') + '</div>';
+            return h;
+        }
+        function viewSession() {
+            var Q = S.session;
+            while (Q.i < Q.queue.length && !S.verses[Q.queue[Q.i]]) Q.i++;
+            if (Q.i >= Q.queue.length) {
+                var nxt = all().filter(function(v) { return v.stage === 'review' && !isDue(v); }).sort(function(a, b) { return a.due.localeCompare(b.due); })[0];
+                return '<section><p class="mem-eyebrow">Review complete</p><h2 class="mem-h2">' + Q.done + (Q.done === 1 ? ' verse' : ' verses') + ' reviewed</h2>'
+                    + '<p class="mem-lede">' + (Q.missed ? Q.missed + (Q.missed === 1 ? ' verse' : ' verses') + ' came back around after a miss and will return tomorrow.' : 'Every verse came to mind.') + (nxt ? ' Next review: ' + fmtDue(nxt.due) + ' (' + esc(nxt.ref) + ').' : '') + '</p></section>'
+                    + '<div class="mem-row"><button class="mem-btn primary" data-a="end">Back to today</button></div>';
+            }
+            var v = S.verses[Q.queue[Q.i]];
+            var h = '<section style="display:flex;flex-direction:column;gap:10px"><div class="mem-row mem-between"><button class="mem-btn quiet" data-a="end">← End review</button><span class="mem-note">' + (Q.i + 1) + ' of ' + Q.queue.length + '</span></div>'
+                + '<div class="mem-progress"><i style="width:' + Math.round(Q.i / Q.queue.length * 100) + '%"></i></div></section>';
+            h += '<article class="mem-card"><div class="mem-card-head"><span class="mem-ref">' + esc(v.ref) + '</span><span class="mem-card-meta">' + esc(v.translation || 'ESV') + (v.lapses ? ' · missed ' + v.lapses + '×' : '') + '</span></div>';
+            if (Q.revealed) h += '<div class="mem-card-body">' + esc(v.text) + '</div>';
+            else if (Q.hint) h += '<div class="mem-card-body"><span class="mem-hint">' + esc(hintLine(v)) + '</span></div>';
+            else h += '<div class="mem-card-body prompt">Say it from memory.</div>';
+            h += '</article>';
+            if (!Q.revealed) {
+                h += '<div class="mem-row">' + (Q.hint ? '' : '<button class="mem-btn" data-a="hint">First letters</button>') + '<button class="mem-btn primary" data-a="reveal">Show verse</button></div>';
+            } else {
+                h += '<div><p class="mem-eyebrow">How did it go' + (Q.hint ? ' (with first letters)' : '') + '?</p><div class="mem-grades">' + GRADES.map(function(g, i) { var n = nextFor(v, i); return '<button class="mem-grade mem-g' + i + '" data-a="grade" data-g="' + i + '">' + g + '<small>' + (i === 0 ? 'again today' : fmtIv(n.interval)) + '</small></button>'; }).join('') + '</div>'
+                    + '<p class="mem-note" style="margin-top:10px">Again: could not recall it. Hard: took real effort or the hint. Good: got it with small slips. Easy: word-perfect.</p></div>'
+                    + '<div class="mem-row"><button class="mem-btn quiet" data-a="practice" data-id="' + v.id + '" data-from="session">Practice this one with fading</button></div>';
+            }
+            return h;
+        }
+        function render() {
+            renderTabs();
+            // Leave an open form alone so typing is never wiped by a re-render.
+            if (S.view === 'add' && !S.session && !S.practice && main.querySelector('form[data-f="add"]')) return;
+            if (S.editing && main.querySelector('form[data-f="edit"]')) return;
+            var h;
+            if (S.practice) h = viewPractice();
+            else if (S.session) h = viewSession();
+            else if (S.view === 'library') h = viewLibrary();
+            else if (S.view === 'add') h = viewAdd();
+            else h = viewToday();
+            main.innerHTML = h;
+            if (S.view === 'add' && !S.practice && !S.session) wireAdd();
+        }
+
+        /* ---------- add form + ESV lookup ---------- */
+        function updLookup() {
+            var ref = document.getElementById('memAddRef'); if (!ref || looking) return;
+            var tr = document.getElementById('memAddTr'), note = document.getElementById('memLookupNote'), btn = document.getElementById('memLookupBtn');
+            var esv = tr.value === 'ESV';
+            btn.hidden = !esv; btn.disabled = !ref.value.trim();
+            note.textContent = esv ? '' : 'Look up fills in ESV text. For ' + tr.value + ', paste the verse from your own Bible.';
+        }
+        function wireAdd() {
+            var ref = document.getElementById('memAddRef'), tr = document.getElementById('memAddTr');
+            ref.addEventListener('input', updLookup); tr.addEventListener('change', updLookup);
+            ref.addEventListener('keydown', function(e) {
+                if (e.key === 'Enter' && tr.value === 'ESV' && !document.getElementById('memAddText').value.trim()) { e.preventDefault(); lookup(); }
+            });
+            updLookup();
+        }
+        function lookup() {
+            var ref = document.getElementById('memAddRef'), txt = document.getElementById('memAddText'), note = document.getElementById('memLookupNote'), btn = document.getElementById('memLookupBtn');
+            var r = ref.value.trim(); if (!r || looking) return;
+            looking = true; btn.disabled = true; btn.textContent = 'Looking up…'; note.textContent = '';
+            fetch(ESV_PROXY + '/?q=' + encodeURIComponent(r))
+                .then(function(res) { if (!res.ok) throw new Error('http ' + res.status); return res.json(); })
+                .then(function(data) {
+                    var text = data && data.passages && data.passages.length ? passageText(data.passages.join(' ')) : '';
+                    if (!text) { note.textContent = 'No passage found for "' + r + '". Check the book name and the numbers.'; return; }
+                    if (!document.getElementById('memAddRef')) return;
+                    ref.value = data.canonical || r; txt.value = text;
+                    note.textContent = 'Filled in ' + (data.canonical || r) + ' (ESV). Check it, then add it.';
+                })
+                .catch(function() { if (note.isConnected) note.textContent = navigator.onLine === false ? 'You are offline. Paste the text instead, or try Look up again when you are back online.' : 'The ESV text could not be loaded just now. Try again in a moment, or paste the text.'; })
+                .then(function() { looking = false; if (btn.isConnected) { btn.textContent = 'Look up'; btn.disabled = !ref.value.trim(); } });
+        }
+
+        /* ---------- backup ---------- */
+        function backup() {
+            var blob = new Blob([JSON.stringify({ app: 'bible-study-memory', version: 1, exportedAt: new Date().toISOString(), verses: all() }, null, 2)], { type: 'application/json' });
+            var a = document.createElement('a');
+            a.href = URL.createObjectURL(blob); a.download = 'memory-verses-' + today() + '.json';
+            document.body.appendChild(a); a.click(); a.remove();
+            setTimeout(function() { URL.revokeObjectURL(a.href); }, 4000);
+        }
+        function restoreFrom(file) {
+            var reader = new FileReader();
+            reader.onload = function() {
+                var added = 0, skipped = 0;
+                try {
+                    var data = JSON.parse(reader.result);
+                    var list = Array.isArray(data) ? data : Array.isArray(data.verses) ? data.verses : Object.keys(data.verses || {}).map(function(k) { return data.verses[k]; });
+                    var have = {};
+                    all().forEach(function(v) { have[(v.ref + '|' + (v.translation || 'ESV')).toLowerCase()] = true; });
+                    list.forEach(function(o) {
+                        var v = cleanVerse(o); if (!v) return;
+                        var key = (v.ref + '|' + v.translation).toLowerCase();
+                        if (have[key]) { skipped++; return; }
+                        have[key] = true; S.verses[v.id] = v; added++;
+                    });
+                    save();
+                    S.notice = added ? 'Restored ' + added + (added === 1 ? ' verse.' : ' verses.') + (skipped ? ' Skipped ' + skipped + ' already in your list.' : '') : skipped ? 'Nothing new to restore. All ' + skipped + ' were already in your list.' : 'That file has no verses in it.';
+                } catch (e) { S.notice = 'That file could not be read. Choose a backup file made by this page.'; }
+                render();
+            };
+            reader.readAsText(file);
+        }
+
+        /* ---------- actions ---------- */
+        function top() { try { window.scrollTo(0, 0); } catch (e) {} }
+        function startSession(ids) { S.session = { queue: ids, i: 0, revealed: false, hint: false, done: 0, missed: 0, requeued: {} }; S.practice = null; S.view = 'today'; render(); top(); }
+        function openPractice(id, from) { var v = S.verses[id]; if (!v) return; S.practice = { id: id, from: from || S.view, step: v.stage === 'learning' ? (v.fadeStep || 0) : 0, seed: 1, peeked: {} }; render(); top(); }
+        function setStep(n) {
+            var P = S.practice, v = S.verses[P.id];
+            P.step = Math.max(0, Math.min(STEPS.length - 1, n)); P.peeked = {};
+            if (v.stage === 'learning' && P.step > (v.fadeStep || 0)) patch(v.id, { fadeStep: P.step }); else render();
+        }
+        function grade(g) {
+            var Q = S.session, id = Q.queue[Q.i], v = S.verses[id];
+            if (!Q.requeued[id]) Q.done++;
+            if (g === 0 && !Q.requeued[id]) { Q.queue.push(id); Q.requeued[id] = true; Q.missed++; }
+            Q.i++; Q.revealed = false; Q.hint = false;
+            patch(id, nextFor(v, g));
+        }
+        document.querySelector('.page-content').addEventListener('click', function(e) {
+            var b = e.target.closest('[data-a]'); if (!b) return;
+            var a = b.dataset.a, id = b.dataset.id;
+            switch (a) {
+                case 'nav': S.session = null; S.practice = null; S.detail = null; S.editing = false; S.confirmDel = false; S.view = b.dataset.v; main.innerHTML = ''; render(); break;
+                case 'dismiss': S.notice = ''; render(); break;
+                case 'lookup': lookup(); break;
+                case 'start': startSession(dueList().map(function(v) { return v.id; })); break;
+                case 'review-one': startSession([id]); break;
+                case 'practice': openPractice(id, b.dataset.from); break;
+                case 'exit-practice': S.practice = null; render(); break;
+                case 'step': setStep(+b.dataset.s); break;
+                case 'next': setStep(S.practice.step + 1); break;
+                case 'prev': setStep(S.practice.step - 1); break;
+                case 'shuffle': S.practice.seed++; S.practice.peeked = {}; render(); break;
+                case 'peek': S.practice.peeked[+b.dataset.i] = true; render(); break;
+                case 'graduate': var pid = S.practice.id; S.practice = null; patch(pid, { stage: 'review', fadeStep: STEPS.length - 1, interval: 1, reps: 0, ease: 2.5, due: addDays(today(), 1) }); break;
+                case 'hint': S.session.hint = true; render(); break;
+                case 'reveal': S.session.revealed = true; render(); break;
+                case 'grade': grade(+b.dataset.g); break;
+                case 'end': S.session = null; render(); break;
+                case 'detail': S.detail = S.detail === id ? null : id; S.confirmDel = false; S.editing = false; render(); break;
+                case 'edit': S.editing = true; main.innerHTML = ''; render(); break;
+                case 'cancel-edit': S.editing = false; main.innerHTML = ''; render(); break;
+                case 'relearn': patch(id, { stage: 'learning', fadeStep: 0, interval: 0, reps: 0, ease: 2.5, due: null }); break;
+                case 'ask-delete': S.confirmDel = true; render(); break;
+                case 'keep': S.confirmDel = false; render(); break;
+                case 'delete': S.confirmDel = false; S.detail = null; remove(id); break;
+                case 'backup': backup(); break;
+                case 'restore': fileInput.value = ''; fileInput.click(); break;
+            }
+        });
+        fileInput.addEventListener('change', function() { if (fileInput.files && fileInput.files[0]) restoreFrom(fileInput.files[0]); });
+        document.querySelector('.page-content').addEventListener('submit', function(e) {
+            e.preventDefault();
+            var f = e.target;
+            if (f.dataset.f === 'add') {
+                var ref = document.getElementById('memAddRef').value.trim(), text = document.getElementById('memAddText').value.trim().replace(/\s+/g, ' ');
+                if (!ref || !text) return;
+                var id = newId(), tr = document.getElementById('memAddTr').value;
+                main.innerHTML = ''; S.view = 'today';
+                create({ id: id, ref: ref, text: text, translation: tr, stage: 'learning', fadeStep: 0, interval: 0, ease: 2.5, reps: 0, lapses: 0, due: null, lastReviewed: null, addedAt: new Date().toISOString() });
+                openPractice(id, 'today');
+            } else if (f.dataset.f === 'edit') {
+                var eid = f.dataset.id, nref = document.getElementById('memEditRef').value.trim(), ntext = document.getElementById('memEditText').value.trim().replace(/\s+/g, ' ');
+                if (!nref || !ntext) return;
+                S.editing = false; main.innerHTML = '';
+                patch(eid, { ref: nref, translation: document.getElementById('memEditTr').value.trim() || 'ESV', text: ntext });
+            }
+        });
+        document.addEventListener('keydown', function(e) {
+            if (e.target.matches('input,textarea,select') || e.metaKey || e.ctrlKey || e.altKey) return;
+            if (S.practice) {
+                if (e.key === 'ArrowRight') setStep(S.practice.step + 1);
+                else if (e.key === 'ArrowLeft') setStep(S.practice.step - 1);
+            } else if (S.session && S.session.i < S.session.queue.length) {
+                if (!S.session.revealed) {
+                    if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); S.session.revealed = true; render(); }
+                    else if (e.key.toLowerCase() === 'h') { S.session.hint = true; render(); }
+                } else if (/^[1-4]$/.test(e.key)) grade(+e.key - 1);
+            }
+        });
+        // Pick up changes made in another tab of the same site.
+        window.addEventListener('storage', function(e) { if (e.key === STORE_KEY && !S.session && !S.practice) { load(); render(); } });
+
+        load();
+        render();
+    })();
+    </script>
+</body>
+</html>

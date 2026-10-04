@@ -37,6 +37,7 @@ PAGE_DESCRIPTIONS = {
     "index.html": "Study every book and chapter of the Bible in six translations, with background, maps, commentary, videos, reflection questions and a daily devotional.",
     "404.html": "The page you were looking for could not be found. Return to the home page to browse every book and chapter of the Bible.",
     "devotional.html": "A short daily devotional: a passage of Scripture, a reflection, a prayer and one way to apply it today.",
+    "memory.html": "Memorize Scripture: fade a verse out word by word, then review it on a spaced schedule so it stays with you.",
     "topical-studies.html": "Topical Bible studies on the names of God, covenants, parables, miracles, prophecy, the Trinity, the gospel and more.",
     "life-studies.html": "What the Bible says about the struggles of real life: anxiety, anger, grief, loneliness, addiction, doubt, temptation and more.",
     "addiction.html": "What the Bible says about addiction: why it takes hold, how Scripture describes freedom in Christ, and practical steps toward lasting change.",
