@@ -144,11 +144,13 @@
         <input type="file" id="memFile" accept="application/json,.json" hidden>
     </main>
     <script src="site/script.js"></script>
+    <script src="site/account.js"></script>
     <script>
     (function() {
-        // Verses and their review schedule live in this browser's localStorage
-        // (one list per device and per site). Back up / Restore on the Verses
-        // tab moves a list between devices.
+        // Verses and their review schedule live in this browser's localStorage,
+        // so the page works with no account and offline. Signed in (see
+        // site/account.js), the same list is also kept in the memory_verses
+        // table and synced between devices; localStorage stays the working copy.
         var STORE_KEY = 'memory-verses-v1';
         var ESV_PROXY = (typeof ESV_PROXY_URL !== 'undefined' && ESV_PROXY_URL) || 'https://esv-proxy.cloudflare-dust598.workers.dev';
         var STEPS = [
@@ -168,7 +170,7 @@
         // Collections: verses grouped under headings, worked through in order. [book index, chapter, verse, through verse].
         var COLLECTIONS = [{"name":"The Gospel","desc":"What God has done for us in Christ, and how we receive it.","sections":[{"name":"Our need","refs":[[44,3,23],[22,53,6],[44,6,23]]},{"name":"God's love","refs":[[42,3,16],[44,5,8],[61,4,10]]},{"name":"Christ's work","refs":[[59,3,18],[46,5,21],[45,15,3,4]]},{"name":"Grace through faith","refs":[[48,2,8,9],[55,3,5],[44,10,9,10]]},{"name":"Assurance","refs":[[42,5,24],[61,5,11,12],[42,10,28]]}]},{"name":"Walking with God","desc":"Daily habits that keep you close to the Lord.","sections":[{"name":"His Word","refs":[[18,119,105],[54,3,16,17],[5,1,8],[58,1,22]]},{"name":"Prayer","refs":[[49,4,6,7],[51,5,16,18],[39,6,6],[61,5,14,15]]},{"name":"Obedience","refs":[[42,14,21],[44,12,1,2],[41,9,23]]},{"name":"Fellowship","refs":[[57,10,24,25],[61,1,7],[20,4,9,10]]}]},{"name":"Trusting God in Hard Times","desc":"Promises to hold onto when life is heavy.","sections":[{"name":"Fear and worry","refs":[[22,41,10],[59,5,7],[18,56,3],[39,6,34]]},{"name":"Strength","refs":[[22,40,31],[46,12,9],[49,4,13]]},{"name":"Suffering","refs":[[44,8,28],[58,1,2,3],[46,4,17,18]]},{"name":"Grief and comfort","refs":[[18,34,18],[65,21,4],[46,1,3,4]]},{"name":"God's faithfulness","refs":[[24,3,22,23],[4,31,8],[57,13,5,6]]}]},{"name":"Fighting Sin","desc":"Truth to stand on in the moment of temptation.","sections":[{"name":"Temptation","refs":[[45,10,13],[58,4,7],[57,4,15,16]]},{"name":"Purity","refs":[[18,119,9,11],[45,6,18,20],[47,5,16]]},{"name":"Pride and humility","refs":[[58,4,6],[49,2,3,4],[19,16,18]]},{"name":"Anger and the tongue","refs":[[58,1,19,20],[48,4,29],[19,15,1]]},{"name":"Confession","refs":[[61,1,9],[18,51,10],[19,28,13]]}]},{"name":"Who I Am in Christ","desc":"What God says is true about you.","sections":[{"name":"A new creation","refs":[[46,5,17],[47,2,20],[48,2,10]]},{"name":"Loved and chosen","refs":[[44,8,38,39],[59,2,9],[35,3,17]]},{"name":"Forgiven and free","refs":[[44,8,1],[18,103,12],[42,8,36]]},{"name":"Made by God","refs":[[18,139,13,14],[0,1,27],[23,29,11]]}]},{"name":"Loving Others","desc":"How Christ's love shapes the way you treat people.","sections":[{"name":"Love","refs":[[42,13,34,35],[45,13,4,7],[61,4,19]]},{"name":"Forgiveness","refs":[[48,4,32],[50,3,13],[39,6,14,15]]},{"name":"Family","refs":[[48,5,25],[48,6,4],[4,6,6,7],[5,24,15]]},{"name":"Serving","refs":[[40,10,45],[47,6,2],[47,5,13]]},{"name":"Sharing your faith","refs":[[39,28,19,20],[59,3,15],[44,1,16]]}]}];
         var KNOWN_DAYS = 21;   // a verse counts as memorized once its review interval reaches three weeks
-        var S = { verses: {}, collection: null, colBusy: null, view: 'today', session: null, practice: null, detail: null, confirmDel: false, editing: false, notice: '', canSave: true };
+        var S = { verses: {}, deleted: {}, owner: null, user: null, sync: 'idle', collection: null, colBusy: null, view: 'today', session: null, practice: null, detail: null, confirmDel: false, editing: false, notice: '', canSave: true };
         var main = document.getElementById('memMain'), tabs = document.getElementById('memTabs'), fileInput = document.getElementById('memFile');
 
         /* ---------- dates ---------- */
@@ -211,16 +213,25 @@
             try {
                 var raw = JSON.parse(localStorage.getItem(STORE_KEY) || 'null');
                 S.verses = (raw && raw.verses) || {};
-            } catch (e) { S.verses = {}; S.canSave = false; }
+                S.deleted = (raw && raw.deleted) || {};
+                S.owner = (raw && raw.owner) || null;
+            } catch (e) { S.verses = {}; S.deleted = {}; S.owner = null; S.canSave = false; }
             try { localStorage.setItem('memory-probe', '1'); localStorage.removeItem('memory-probe'); } catch (e) { S.canSave = false; }
         }
         function save() {
-            try { localStorage.setItem(STORE_KEY, JSON.stringify({ version: 1, verses: S.verses })); }
+            try { localStorage.setItem(STORE_KEY, JSON.stringify({ version: 1, verses: S.verses, deleted: S.deleted, owner: S.owner })); }
             catch (e) { S.canSave = false; }
         }
-        function create(v) { S.verses[v.id] = v; save(); render(); }
-        function patch(id, p) { var v = S.verses[id]; if (!v) return; for (var k in p) v[k] = p[k]; save(); render(); }
-        function remove(id) { delete S.verses[id]; save(); render(); }
+        // dirty = changed here since the last sync; rev lets a sync in flight
+        // notice that a verse changed again before the server answered.
+        function touch(v) { v.dirty = true; v.rev = (v.rev || 0) + 1; }
+        function create(v) { touch(v); S.verses[v.id] = v; save(); render(); scheduleSync(); }
+        function patch(id, p) { var v = S.verses[id]; if (!v) return; for (var k in p) v[k] = p[k]; touch(v); save(); render(); scheduleSync(); }
+        function remove(id) {
+            var v = S.verses[id];
+            if (v && v.syncedAt) S.deleted[id] = 1;   // tell the server, so other devices drop it too
+            delete S.verses[id]; save(); render(); scheduleSync();
+        }
         function newId() { return 'v' + Date.now().toString(36) + Math.random().toString(36).slice(2, 6); }
         function cleanVerse(o) {
             if (!o || typeof o.ref !== 'string' || typeof o.text !== 'string' || !o.ref.trim() || !o.text.trim()) return null;
@@ -235,6 +246,117 @@
                 lastReviewed: /^\d{4}-\d{2}-\d{2}$/.test(o.lastReviewed || '') ? o.lastReviewed : null,
                 addedAt: typeof o.addedAt === 'string' ? o.addedAt : new Date().toISOString()
             };
+        }
+
+        /* ---------- account sync ---------- */
+        // Rules: a verse changed on this device since the last sync wins and is
+        // pushed; otherwise the server's copy replaces the local one. Deleting
+        // wins over editing. The server stamps updated_at, so device clocks
+        // never matter.
+        var account = window.BibleAccount || null, syncTimer = null, syncing = false, syncAgain = false;
+        function toRow(v, uid) {
+            return { user_id: uid, id: v.id, ref: v.ref, text: v.text, translation: v.translation || 'ESV', stage: v.stage === 'review' ? 'review' : 'learning',
+                fade_step: v.fadeStep || 0, interval_days: v.interval || 0, ease: v.ease || 2.5, reps: v.reps || 0, lapses: v.lapses || 0,
+                due: v.due || null, last_reviewed: v.lastReviewed || null, added_at: v.addedAt || new Date().toISOString(), deleted_at: null };
+        }
+        function fromRow(r) {
+            return { id: r.id, ref: r.ref, text: r.text, translation: r.translation, stage: r.stage, fadeStep: r.fade_step, interval: r.interval_days,
+                ease: Number(r.ease), reps: r.reps, lapses: r.lapses, due: r.due, lastReviewed: r.last_reviewed, addedAt: r.added_at, syncedAt: r.updated_at, dirty: false, rev: 0 };
+        }
+        function scheduleSync() {
+            if (!S.user) return;
+            clearTimeout(syncTimer);
+            syncTimer = setTimeout(sync, 1200);
+        }
+        function setSync(state) { if (S.sync !== state) { S.sync = state; render(); } }
+        function sync() {
+            if (!account || !S.user) return Promise.resolve();
+            if (syncing) { syncAgain = true; return Promise.resolve(); }
+            syncing = true; clearTimeout(syncTimer);
+            var uid = S.user.id, sb;
+            setSync('syncing');
+            return account.ready().then(function(c) {
+                sb = c;
+                return sb.from('memory_verses').select('*');
+            }).then(function(res) {
+                if (res.error) throw res.error;
+                if (!S.user || S.user.id !== uid) return;
+                var remote = {}, byKey = {};
+                res.data.forEach(function(r) { remote[r.id] = r; if (!r.deleted_at) byKey[(r.ref + '|' + r.translation).toLowerCase()] = r.id; });
+                // 1. take the server's changes
+                res.data.forEach(function(r) {
+                    var local = S.verses[r.id];
+                    if (r.deleted_at) { if (local) delete S.verses[r.id]; delete S.deleted[r.id]; return; }
+                    if (S.deleted[r.id]) return;
+                    if (!local || (!local.dirty && local.syncedAt !== r.updated_at)) S.verses[r.id] = fromRow(r);
+                });
+                // 2. a verse added here that the account already has under another id: keep the account's
+                Object.keys(S.verses).forEach(function(id) {
+                    var v = S.verses[id], other = byKey[(v.ref + '|' + (v.translation || 'ESV')).toLowerCase()];
+                    if (!v.syncedAt && other && other !== id) delete S.verses[id];
+                });
+                // 3. a synced verse the server no longer has at all: treat as new again
+                Object.keys(S.verses).forEach(function(id) { var v = S.verses[id]; if (v.syncedAt && !remote[id]) { v.syncedAt = null; v.dirty = true; } });
+                save();
+                // 4. push local changes
+                var out = all().filter(function(v) { return v.dirty || !v.syncedAt; });
+                var revs = {}; out.forEach(function(v) { revs[v.id] = v.rev || 0; });
+                var push = out.length ? sb.from('memory_verses').upsert(out.map(function(v) { return toRow(v, uid); }), { onConflict: 'user_id,id' }).select('id,updated_at') : Promise.resolve({ data: [] });
+                return Promise.resolve(push).then(function(up) {
+                    if (up.error) throw up.error;
+                    (up.data || []).forEach(function(r) {
+                        var v = S.verses[r.id]; if (!v) return;
+                        v.syncedAt = r.updated_at;
+                        if ((v.rev || 0) === revs[r.id]) v.dirty = false;
+                    });
+                    // 5. push deletions
+                    var gone = Object.keys(S.deleted);
+                    if (!gone.length) return;
+                    return sb.from('memory_verses').update({ deleted_at: new Date().toISOString() }).in('id', gone).then(function(del) {
+                        if (del.error) throw del.error;
+                        gone.forEach(function(id) { delete S.deleted[id]; });
+                    });
+                });
+            }).then(function() {
+                save(); syncing = false; S.sync = 'synced'; render();
+                if (syncAgain || all().some(function(v) { return v.dirty; }) || Object.keys(S.deleted).length) { syncAgain = false; scheduleSync(); }
+            }).catch(function(err) {
+                syncing = false; syncAgain = false;
+                setSync(navigator.onLine === false || (err && (err.message === 'offline' || /Failed to fetch|NetworkError|Load failed/i.test(err.message || ''))) ? 'offline' : 'error');
+            });
+        }
+        function onAccount(user) {
+            var was = S.user;
+            S.user = user;
+            if (user) {
+                // A different person signing in on this device must not inherit the last person's synced verses.
+                if (S.owner && S.owner !== user.id) {
+                    Object.keys(S.verses).forEach(function(id) { if (S.verses[id].syncedAt) delete S.verses[id]; });
+                    S.deleted = {};
+                }
+                S.owner = user.id; save(); render(); sync();
+            } else if (was) {
+                // Signed out: synced verses stay safe in the account and leave this device.
+                Object.keys(S.verses).forEach(function(id) { if (S.verses[id].syncedAt && !S.verses[id].dirty) delete S.verses[id]; });
+                S.deleted = {}; S.owner = null; S.sync = 'idle'; S.session = null; S.practice = null; save(); render();
+            } else render();
+        }
+        function accountHTML() {
+            if (!account) return '';
+            if (!S.user) {
+                if (account.hasSession()) return '<section><p class="mem-eyebrow">Your account</p><p class="mem-note">Checking your sign-in…</p></section>';
+                return '<section class="mem-acct"><p class="mem-eyebrow">Keep them on every device</p>'
+                    + '<p class="mem-note" style="margin-bottom:12px">Right now your verses are saved on this device only. Sign in and they are saved to your account and follow you to any phone or computer.</p>'
+                    + '<div class="mem-row"><button class="mem-btn primary" data-a="signin">Sign in</button></div></section>';
+            }
+            var status = S.sync === 'syncing' ? 'Saving to your account…' : S.sync === 'offline' ? 'You are offline. Changes are kept here and saved to your account when you are back online.'
+                : S.sync === 'error' ? 'Could not reach your account just now. Your changes are kept on this device.' : 'Saved to your account.';
+            return '<section class="mem-acct"><p class="mem-eyebrow">Your account</p>'
+                + '<p class="mem-note" style="margin-bottom:12px">Signed in as <b>' + esc(S.user.email || 'your account') + '</b>. ' + status + '</p>'
+                + '<div class="mem-row">' + (S.sync === 'offline' || S.sync === 'error' ? '<button class="mem-btn" data-a="sync">Try again</button>' : '')
+                + (S.confirmOut ? '<button class="mem-btn danger" data-a="signout">Sign out and clear this device</button><button class="mem-btn quiet" data-a="keep-in">Stay signed in</button>'
+                    : '<button class="mem-btn quiet" data-a="ask-signout">Sign out</button>') + '</div>'
+                + (S.confirmOut ? '<p class="mem-note" style="margin-top:10px">Your verses stay in your account. They are removed from this device until you sign in again.</p>' : '') + '</section>';
         }
 
         /* ---------- text ---------- */
@@ -328,6 +450,7 @@
                     + '<p class="mem-note" style="margin-top:10px">Tap a verse to keep fading it out. When you can say it from a blank card, it moves into reviews.</p>';
             } else h += '<p class="mem-empty">No verses in progress. <button class="mem-btn quiet" data-a="nav" data-v="add">Add a verse</button></p>';
             h += '</section>';
+            if (account && !S.user && !account.hasSession()) h += '<p class="mem-note">Saved on this device only. <button class="mem-btn quiet" data-a="signin" style="padding:0 2px;font-size:inherit">Sign in</button> to keep your verses on every device.</p>';
             if (upcoming.length) h += '<section><p class="mem-eyebrow">Coming up</p><div class="mem-list">' + upcoming.map(function(v) { return '<div class="mem-item"><span class="mem-ref">' + esc(v.ref) + '</span>' + chipFor(v) + '</div>'; }).join('') + '</div></section>';
             return h;
         }
@@ -343,7 +466,8 @@
                 });
                 h += '</div>';
             }
-            h += '<section><p class="mem-eyebrow">Backup</p><p class="mem-note" style="margin-bottom:12px">Your verses are saved on this device only. Back them up to a file to keep a copy or to move them to another device.</p>'
+            h += accountHTML();
+            h += '<section><p class="mem-eyebrow">Backup</p><p class="mem-note" style="margin-bottom:12px">' + (S.user ? 'You can also keep a copy of your verses in a file.' : 'Or back them up to a file to keep a copy or to move them to another device.') + '</p>'
                 + '<div class="mem-row"><button class="mem-btn" data-a="backup"' + (vs.length ? '' : ' disabled') + '>Back up to a file</button><button class="mem-btn" data-a="restore">Restore from a file</button></div></section>';
             return h;
         }
@@ -683,9 +807,9 @@
                         var v = cleanVerse(o); if (!v) return;
                         var key = (v.ref + '|' + v.translation).toLowerCase();
                         if (have[key]) { skipped++; return; }
-                        have[key] = true; S.verses[v.id] = v; added++;
+                        have[key] = true; touch(v); S.verses[v.id] = v; added++;
                     });
-                    save();
+                    save(); scheduleSync();
                     S.notice = added ? 'Restored ' + added + (added === 1 ? ' verse.' : ' verses.') + (skipped ? ' Skipped ' + skipped + ' already in your list.' : '') : skipped ? 'Nothing new to restore. All ' + skipped + ' were already in your list.' : 'That file has no verses in it.';
                 } catch (e) { S.notice = 'That file could not be read. Choose a backup file made by this page.'; }
                 render();
@@ -713,7 +837,7 @@
             var b = e.target.closest('[data-a]'); if (!b) return;
             var a = b.dataset.a, id = b.dataset.id;
             switch (a) {
-                case 'nav': S.session = null; S.practice = null; S.detail = null; S.editing = false; S.confirmDel = false; S.collection = null; S.view = b.dataset.v; main.innerHTML = ''; render(); break;
+                case 'nav': S.session = null; S.practice = null; S.detail = null; S.editing = false; S.confirmDel = false; S.confirmOut = false; S.collection = null; S.view = b.dataset.v; main.innerHTML = ''; render(); break;
                 case 'dismiss': S.notice = ''; render(); break;
                 case 'suggest': useSuggestion(+b.dataset.i); break;
                 case 'open-col': S.collection = +b.dataset.i; try { localStorage.setItem('memory-collection', b.dataset.i); } catch (e) {} render(); top(); break;
@@ -742,6 +866,11 @@
                 case 'keep': S.confirmDel = false; render(); break;
                 case 'delete': S.confirmDel = false; S.detail = null; remove(id); break;
                 case 'backup': backup(); break;
+                case 'signin': account.openSignIn({ reason: 'Your memory verses and review schedule are saved to your account, so they follow you to any device.' }); break;
+                case 'ask-signout': S.confirmOut = true; render(); break;
+                case 'keep-in': S.confirmOut = false; render(); break;
+                case 'signout': S.confirmOut = false; b.disabled = true; sync().then(function() { return account.signOut(); }); break;
+                case 'sync': sync(); break;
                 case 'restore': fileInput.value = ''; fileInput.click(); break;
             }
         });
@@ -783,6 +912,12 @@
 
         load();
         render();
+        if (account) {
+            account.onChange(onAccount);
+            // Catch up when the app comes back to the front or the connection returns.
+            document.addEventListener('visibilitychange', function() { if (!document.hidden && S.user && !S.session && !S.practice) sync(); });
+            window.addEventListener('online', function() { if (S.user) sync(); else if (account.hasSession()) account.ready().catch(function() {}); });
+        }
     })();
     </script>
 </body>

@@ -53,9 +53,19 @@ over six steps, then reviewed as a flashcard on a spaced schedule (Again / Hard 
 Good / Easy set the next interval). It is one self-contained page: no build step
 and no server.
 
-- **Storage is the browser's localStorage**, key `memory-verses-v1`, so each
-  device and each site (bible-study, New River) keeps its own list. Back up /
-  Restore on the Verses tab moves a list between devices as a JSON file.
+- **Storage is the browser's localStorage**, key `memory-verses-v1`, so the
+  page works with no account and offline. Back up / Restore on the Verses tab
+  moves a list between devices as a JSON file.
+- **Optional sign-in syncs it.** `site/account.js` (shared, mirrored to New
+  River as is) holds the Supabase URL and publishable key and the sign-in
+  dialog: email, then a 6-digit code, the same flow as Upheld. Signed in, the
+  list is also kept in the `memory_verses` table and synced between devices. A
+  change made on this device wins and is pushed; otherwise the server's copy
+  replaces the local one; deleting wins over editing. Signing out removes the
+  synced verses from the device. The Supabase library is loaded only when a
+  session exists or the dialog opens. Schema, RLS privacy test and the
+  dashboard email settings are in `supabase/`. Both sites share one database,
+  so one account works on either.
 - **Adding a verse** is done with Book / Chapter / Verse / Through dropdowns, not
   typing. The verse counts for all 1,189 chapters are in the `BIBLE` table in the
   page, taken from the chapter pages (Romans 14 ends at 23, where WEB alone
