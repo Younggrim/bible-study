@@ -56,9 +56,20 @@ and no server.
 - **Storage is the browser's localStorage**, key `memory-verses-v1`, so each
   device and each site (bible-study, New River) keeps its own list. Back up /
   Restore on the Verses tab moves a list between devices as a JSON file.
-- **Look up** fetches ESV text through the existing `/?q=` proxy route and strips
-  headings, verse numbers and the copyright line in the page. Other translations
-  are pasted in by hand.
+- **Adding a verse** is done with Book / Chapter / Verse / Through dropdowns, not
+  typing. The verse counts for all 1,189 chapters are in the `BIBLE` table in the
+  page, taken from the chapter pages (Romans 14 ends at 23, where WEB alone
+  numbers the doxology; 3 John has 15 for ESV). If a book or chapter is ever
+  renumbered, update that table.
+- **The text fills in for all six translations.** ESV comes through the existing
+  `/?q=` proxy route (headings, verse numbers and the copyright line are stripped
+  in the page). BSB, KJV, ASV, NET and WEB are read from the site's own chapter
+  page (`.translation-block[data-translation] p.verse`), so they need no API and
+  work offline once the chapter is cached. The lookup waits until a verse is
+  picked, and is debounced, to save ESV quota.
+- **Verses by topic**: the `TOPICS` table in the page lists a few well-known
+  references per topic and links to the matching Life or Topical study when
+  there is one. References only; the text is looked up like any other verse.
 - Colors come from the style.css tokens, so the mirror gets New River's palette.
   The bottom-nav change lives in `site/script.js`, which New River keeps its own
   copy of: port that change there by hand when mirroring.

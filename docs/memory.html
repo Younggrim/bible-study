@@ -99,9 +99,9 @@
         .mem-form input, .mem-form textarea, .mem-form select { font-family: 'Inter', sans-serif; font-size: 1rem; color: var(--ink-deep); background: #fff; border: 1px solid var(--border-medium); border-radius: 8px; padding: 10px 12px; width: 100%; }
         .mem-form textarea { font-family: 'Merriweather', serif; line-height: 1.7; min-height: 140px; resize: vertical; }
         .mem-two { display: grid; grid-template-columns: 2fr 1fr; gap: 12px; }
-        .mem-refrow { display: flex; gap: 8px; }
-        .mem-refrow input { flex: 1; min-width: 0; }
-        .mem-refrow .mem-btn { flex: none; }
+        .mem-item .mem-btn { align-self: center; }
+        .mem-three { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+        .mem-form select:disabled { opacity: 0.55; }
         .mem-detail { padding: 4px 2px 18px; border-bottom: 1px solid var(--border-light); display: flex; flex-direction: column; gap: 14px; }
         .mem-detail p.mem-text { margin: 0; font-family: 'Merriweather', serif; font-size: 0.98rem; line-height: 1.8; color: var(--ink-deep); }
         .mem-facts { display: flex; gap: 18px; flex-wrap: wrap; font-size: 0.78rem; color: var(--text-faint); }
@@ -140,9 +140,13 @@
             { name: 'From memory', frac: 1 }
         ];
         var GRADES = ['Again', 'Hard', 'Good', 'Easy'];
+        // [slug, name, verses in each chapter]. Counts come from the chapter pages; Old Testament is the first 39.
+        var BIBLE = [["genesis","Genesis",[31,25,24,26,32,22,24,22,29,32,32,20,18,24,21,16,27,33,38,18,34,24,20,67,34,35,46,22,35,43,55,32,20,31,29,43,36,30,23,23,57,38,34,34,28,34,31,22,33,26]],["exodus","Exodus",[22,25,22,31,23,30,25,32,35,29,10,51,22,31,27,36,16,27,25,26,36,31,33,18,40,37,21,43,46,38,18,35,23,35,35,38,29,31,43,38]],["leviticus","Leviticus",[17,16,17,35,19,30,38,36,24,20,47,8,59,57,33,34,16,30,37,27,24,33,44,23,55,46,34]],["numbers","Numbers",[54,34,51,49,31,27,89,26,23,36,35,16,33,45,41,50,13,32,22,29,35,41,30,25,18,65,23,31,40,16,54,42,56,29,34,13]],["deuteronomy","Deuteronomy",[46,37,29,49,33,25,26,20,29,22,32,32,18,29,23,22,20,22,21,20,23,30,25,22,19,19,26,68,29,20,30,52,29,12]],["joshua","Joshua",[18,24,17,24,15,27,26,35,27,43,23,24,33,15,63,10,18,28,51,9,45,34,16,33]],["judges","Judges",[36,23,31,24,31,40,25,35,57,18,40,15,25,20,20,31,13,31,30,48,25]],["ruth","Ruth",[22,23,18,22]],["1samuel","1 Samuel",[28,36,21,22,12,21,17,22,27,27,15,25,23,52,35,23,58,30,24,42,15,23,29,22,44,25,12,25,11,31,13]],["2samuel","2 Samuel",[27,32,39,12,25,23,29,18,13,19,27,31,39,33,37,23,29,33,43,26,22,51,39,25]],["1kings","1 Kings",[53,46,28,34,18,38,51,66,28,29,43,33,34,31,34,34,24,46,21,43,29,53]],["2kings","2 Kings",[18,25,27,44,27,33,20,29,37,36,21,21,25,29,38,20,41,37,37,21,26,20,37,20,30]],["1chronicles","1 Chronicles",[54,55,24,43,26,81,40,40,44,14,47,40,14,17,29,43,27,17,19,8,30,19,32,31,31,32,34,21,30]],["2chronicles","2 Chronicles",[17,18,17,22,14,42,22,18,31,19,23,16,22,15,19,14,19,34,11,37,20,12,21,27,28,23,9,27,36,27,21,33,25,33,27,23]],["ezra","Ezra",[11,70,13,24,17,22,28,36,15,44]],["nehemiah","Nehemiah",[11,20,32,23,19,19,73,18,38,39,36,47,31]],["esther","Esther",[22,23,15,17,14,14,10,17,32,3]],["job","Job",[22,13,26,21,27,30,21,22,35,22,20,25,28,22,35,22,16,21,29,29,34,30,17,25,6,14,23,28,25,31,40,22,33,37,16,33,24,41,30,24,34,17]],["psalms","Psalms",[6,12,8,8,12,10,17,9,20,18,7,8,6,7,5,11,15,50,14,9,13,31,6,10,22,12,14,9,11,12,24,11,22,22,28,12,40,22,13,17,13,11,5,26,17,11,9,14,20,23,19,9,6,7,23,13,11,11,17,12,8,12,11,10,13,20,7,35,36,5,24,20,28,23,10,12,20,72,13,19,16,8,18,12,13,17,7,18,52,17,16,15,5,23,11,13,12,9,9,5,8,28,22,35,45,48,43,13,31,7,10,10,9,8,18,19,2,29,176,7,8,9,4,8,5,6,5,6,8,8,3,18,3,3,21,26,9,8,24,13,10,7,12,15,21,10,20,14,9,6]],["proverbs","Proverbs",[33,22,35,27,23,35,27,36,18,32,31,28,25,35,33,33,28,24,29,30,31,29,35,34,28,28,27,28,27,33,31]],["ecclesiastes","Ecclesiastes",[18,26,22,16,20,12,29,17,18,20,10,14]],["songofsolomon","Song of Solomon",[17,17,11,16,16,13,13,14]],["isaiah","Isaiah",[31,22,26,6,30,13,25,22,21,34,16,6,22,32,9,14,14,7,25,6,17,25,18,23,12,21,13,29,24,33,9,20,24,17,10,22,38,22,8,31,29,25,28,28,25,13,15,22,26,11,23,15,12,17,13,12,21,14,21,22,11,12,19,12,25,24]],["jeremiah","Jeremiah",[19,37,25,31,31,30,34,22,26,25,23,17,27,22,21,21,27,23,15,18,14,30,40,10,38,24,22,17,32,24,40,44,26,22,19,32,21,28,18,16,18,22,13,30,5,28,7,47,39,46,64,34]],["lamentations","Lamentations",[22,22,66,22,22]],["ezekiel","Ezekiel",[28,10,27,17,17,14,27,18,11,22,25,28,23,23,8,63,24,32,14,49,32,31,49,27,17,21,36,26,21,26,18,32,33,31,15,38,28,23,29,49,26,20,27,31,25,24,23,35]],["daniel","Daniel",[21,49,30,37,31,28,28,27,27,21,45,13]],["hosea","Hosea",[11,23,5,19,15,11,16,14,17,15,12,14,16,9]],["joel","Joel",[20,32,21]],["amos","Amos",[15,16,15,13,27,14,17,14,15]],["obadiah","Obadiah",[21]],["jonah","Jonah",[17,10,10,11]],["micah","Micah",[16,13,12,13,15,16,20]],["nahum","Nahum",[15,13,19]],["habakkuk","Habakkuk",[17,20,19]],["zephaniah","Zephaniah",[18,15,20]],["haggai","Haggai",[15,23]],["zechariah","Zechariah",[21,13,10,14,11,15,14,23,17,12,17,14,9,21]],["malachi","Malachi",[14,17,18,6]],["matthew","Matthew",[25,23,17,25,48,34,29,34,38,42,30,50,58,36,39,28,27,35,30,34,46,46,39,51,46,75,66,20]],["mark","Mark",[45,28,35,41,43,56,37,38,50,52,33,44,37,72,47,20]],["luke","Luke",[80,52,38,44,39,49,50,56,62,42,54,59,35,35,32,31,37,43,48,47,38,71,56,53]],["john","John",[51,25,36,54,47,71,53,59,41,42,57,50,38,31,27,33,26,40,42,31,25]],["acts","Acts",[26,47,26,37,42,15,60,40,43,48,30,25,52,28,41,40,34,28,41,38,40,30,35,27,27,32,44,31]],["romans","Romans",[32,29,31,25,21,23,25,39,33,21,36,21,14,23,33,27]],["1corinthians","1 Corinthians",[31,16,23,21,13,20,40,13,27,33,34,31,13,40,58,24]],["2corinthians","2 Corinthians",[24,17,18,18,21,18,16,24,15,18,33,21,14]],["galatians","Galatians",[24,21,29,31,26,18]],["ephesians","Ephesians",[23,22,21,32,33,24]],["philippians","Philippians",[30,30,21,23]],["colossians","Colossians",[29,23,25,18]],["1thessalonians","1 Thessalonians",[10,20,13,18,28]],["2thessalonians","2 Thessalonians",[12,17,18]],["1timothy","1 Timothy",[20,15,16,16,25,21]],["2timothy","2 Timothy",[18,26,17,22]],["titus","Titus",[16,15,15]],["philemon","Philemon",[25]],["hebrews","Hebrews",[14,18,19,16,14,20,28,13,28,39,40,29,25]],["james","James",[27,26,18,17,20]],["1peter","1 Peter",[25,25,22,19,14]],["2peter","2 Peter",[21,22,18]],["1john","1 John",[10,29,24,21,21]],["2john","2 John",[13]],["3john","3 John",[15]],["jude","Jude",[25]],["revelation","Revelation",[20,29,22,11,14,17,17,13,21,11,19,17,18,20,8,21,18,24,21,15,27,21]]];
+        var TRANSLATIONS = ['ESV', 'BSB', 'KJV', 'ASV', 'NET', 'WEB'];
+        // Suggested verses by topic: [book index, chapter, verse, through verse]. page is the matching study, if the site has one.
+        var TOPICS = [{"name":"Anxiety and fear","page":"anxiety-and-fear.html","refs":[[49,4,6,7],[59,5,7],[22,41,10],[39,6,34],[18,56,3],[54,1,7],[18,94,19]]},{"name":"Peace","page":"","refs":[[42,14,27],[22,26,3],[50,3,15],[44,5,1],[42,16,33],[18,4,8]]},{"name":"Strength and courage","page":"","refs":[[5,1,9],[22,40,31],[49,4,13],[18,46,1],[18,27,1],[46,12,9],[48,6,10]]},{"name":"Anger","page":"anger.html","refs":[[58,1,19,20],[19,15,1],[48,4,26,27],[19,29,11],[18,37,8],[50,3,8]]},{"name":"Grief and loss","page":"grief-and-loss.html","refs":[[18,34,18],[39,5,4],[65,21,4],[18,147,3],[46,1,3,4],[42,11,25,26]]},{"name":"Depression and hope","page":"depression-and-hopelessness.html","refs":[[18,42,11],[24,3,22,23],[44,15,13],[18,40,1,2],[23,29,11],[18,30,5]]},{"name":"Doubt and faith","page":"doubt-and-unbelief.html","refs":[[57,11,1],[19,3,5,6],[40,9,24],[46,5,7],[44,10,17],[57,11,6]]},{"name":"Loneliness","page":"loneliness.html","refs":[[4,31,6],[18,23,4],[57,13,5],[39,28,20],[18,139,7,10],[22,43,2]]},{"name":"Identity and worth","page":"identity-and-self-worth.html","refs":[[18,139,14],[48,2,10],[46,5,17],[47,2,20],[59,2,9],[42,1,12],[0,1,27]]},{"name":"Temptation","page":"temptation.html","refs":[[45,10,13],[58,1,12],[57,4,15,16],[39,26,41],[58,4,7],[18,119,11]]},{"name":"Purity","page":"lust-and-sexual-sin.html","refs":[[45,6,18,20],[18,119,9],[39,5,8],[51,4,3,4],[18,51,10],[54,2,22]]},{"name":"Freedom from addiction","page":"addiction.html","refs":[[42,8,36],[47,5,1],[44,6,14],[45,6,12],[55,2,11,12],[47,5,16]]},{"name":"Pride and humility","page":"pride.html","refs":[[19,16,18],[58,4,6],[49,2,3,4],[32,6,8],[59,5,5,6],[19,11,2]]},{"name":"Forgiveness","page":"unforgiveness-and-bitterness.html","refs":[[48,4,32],[50,3,13],[61,1,9],[39,6,14,15],[18,103,12],[40,11,25]]},{"name":"Contentment and money","page":"greed-and-materialism.html","refs":[[53,6,6,8],[39,6,19,21],[49,4,11,13],[41,12,15],[39,6,24],[57,13,5]]},{"name":"Suffering","page":"suffering.html","refs":[[44,8,28],[44,5,3,5],[46,4,17],[58,1,2,4],[44,8,18],[59,5,10]]},{"name":"The gospel","page":"the-gospel.html","refs":[[42,3,16],[44,3,23],[44,6,23],[44,5,8],[48,2,8,9],[44,10,9],[42,14,6],[43,4,12]]},{"name":"Prayer","page":"prayers-in-the-bible.html","refs":[[51,5,16,18],[39,7,7],[58,5,16],[23,33,3],[61,5,14],[39,6,9,13]]},{"name":"God's Word","page":"","refs":[[18,119,105],[54,3,16,17],[57,4,12],[5,1,8],[39,4,4],[22,40,8]]},{"name":"Wisdom and guidance","page":"","refs":[[58,1,5],[18,32,8],[19,9,10],[22,30,21],[44,12,2],[19,16,9]]},{"name":"Love","page":"","refs":[[45,13,4,7],[42,13,34,35],[61,4,19],[44,8,38,39],[61,4,7,8],[42,15,13]]},{"name":"Marriage and family","page":"marriage-and-family.html","refs":[[48,5,25],[0,2,24],[19,22,6],[48,6,1,4],[5,24,15],[4,6,6,7],[18,127,3]]}];
         var S = { verses: {}, view: 'today', session: null, practice: null, detail: null, confirmDel: false, editing: false, notice: '', canSave: true };
         var main = document.getElementById('memMain'), tabs = document.getElementById('memTabs'), fileInput = document.getElementById('memFile');
-        var looking = false;
 
         /* ---------- dates ---------- */
         function pad(n) { return String(n).padStart(2, '0'); }
@@ -335,14 +339,21 @@
                 + '</div></div>';
         }
         function viewAdd() {
+            function opts(from, to) { var o = ''; for (var i = from; i < to; i++) o += '<option value="' + i + '">' + esc(BIBLE[i][1]) + '</option>'; return o; }
             return banner() + '<section><p class="mem-eyebrow">New verse</p><h2 class="mem-h2">Add a verse to memorize</h2>'
-                + '<p class="mem-lede">Type a reference and look it up, or paste the text from your own Bible.</p></section>'
-                + '<form class="mem-form" data-f="add">'
-                + '<div class="mem-two"><label>Reference<span class="mem-refrow"><input id="memAddRef" placeholder="Romans 12:2" required autocomplete="off"><button type="button" class="mem-btn" id="memLookupBtn" data-a="lookup" disabled>Look up</button></span></label>'
-                + '<label>Translation<select id="memAddTr"><option>ESV</option><option>BSB</option><option>KJV</option><option>NKJV</option><option>NIV</option><option>CSB</option><option>NLT</option><option>NASB</option><option>NET</option></select></label></div>'
-                + '<label>Verse text<textarea id="memAddText" placeholder="Look it up, or paste the verse here" required></textarea></label>'
+                + '<p class="mem-lede">Pick a passage and its text is filled in for you, or choose one from a topic below.</p></section>'
+                + '<form class="mem-form" data-f="add" novalidate>'
+                + '<label>Book<select id="memBook"><option value="">Choose a book</option><optgroup label="Old Testament">' + opts(0, 39) + '</optgroup><optgroup label="New Testament">' + opts(39, 66) + '</optgroup></select></label>'
+                + '<div class="mem-three"><label>Chapter<select id="memChapter" disabled><option value="">–</option></select></label>'
+                + '<label>Verse<select id="memVerse" disabled><option value="">–</option></select></label>'
+                + '<label>Through<select id="memVerseTo" disabled><option value="">–</option></select></label></div>'
+                + '<label>Translation<select id="memAddTr">' + TRANSLATIONS.map(function(t) { return '<option>' + t + '</option>'; }).join('') + '</select></label>'
+                + '<label>Verse text<textarea id="memAddText" placeholder="Pick a passage above and the text appears here. You can edit it, or paste your own." required></textarea></label>'
                 + '<p class="mem-note" id="memLookupNote" aria-live="polite"></p>'
-                + '<div class="mem-row"><button class="mem-btn primary" type="submit">Add and start learning</button></div></form>';
+                + '<div class="mem-row"><button class="mem-btn primary" type="submit">Add and start learning</button></div></form>'
+                + '<section><p class="mem-eyebrow">Verses by topic</p>'
+                + '<div class="mem-form"><label>Topic<select id="memTopic"><option value="">Choose a topic</option>' + TOPICS.map(function(t, i) { return '<option value="' + i + '">' + esc(t.name) + '</option>'; }).join('') + '</select></label></div>'
+                + '<div id="memTopicList"></div></section>';
         }
         function viewPractice() {
             var P = S.practice, v = S.verses[P.id];
@@ -399,37 +410,114 @@
             if (S.view === 'add' && !S.practice && !S.session) wireAdd();
         }
 
-        /* ---------- add form + ESV lookup ---------- */
-        function updLookup() {
-            var ref = document.getElementById('memAddRef'); if (!ref || looking) return;
-            var tr = document.getElementById('memAddTr'), note = document.getElementById('memLookupNote'), btn = document.getElementById('memLookupBtn');
-            var esv = tr.value === 'ESV';
-            btn.hidden = !esv; btn.disabled = !ref.value.trim();
-            note.textContent = esv ? '' : 'Look up fills in ESV text. For ' + tr.value + ', paste the verse from your own Bible.';
+        /* ---------- add form: passage pickers, lookup, topics ---------- */
+        var lookupSeq = 0, lookupTimer = null, pageCache = {}, addRef = '';
+        function $id(id) { return document.getElementById(id); }
+        function refName(b) { return BIBLE[b][0] === 'psalms' ? 'Psalm' : BIBLE[b][1]; }
+        function refLabel(b, c, v1, v2) { return refName(b) + ' ' + c + ':' + v1 + (v2 ? '–' + v2 : ''); }
+        function fill(sel, from, to, first) {
+            var o = first === null ? '' : '<option value="">' + first + '</option>';
+            for (var i = from; i <= to; i++) o += '<option value="' + i + '">' + i + '</option>';
+            sel.innerHTML = o; sel.disabled = to < from;
+        }
+        function picked() {
+            var b = $id('memBook').value, c = +$id('memChapter').value, v1 = +$id('memVerse').value, v2 = +$id('memVerseTo').value;
+            if (b === '' || !c || !v1) return null;
+            return { b: +b, c: c, v1: v1, v2: v2 > v1 ? v2 : 0 };
+        }
+        function setChapters() {
+            var b = $id('memBook').value;
+            if (b === '') { fill($id('memChapter'), 1, 0, '–'); fill($id('memVerse'), 1, 0, '–'); fill($id('memVerseTo'), 1, 0, '–'); return; }
+            fill($id('memChapter'), 1, BIBLE[+b][2].length, 'Chapter');
+            fill($id('memVerse'), 1, 0, '–'); fill($id('memVerseTo'), 1, 0, '–');
+        }
+        function setVerses() {
+            var b = +$id('memBook').value, c = +$id('memChapter').value;
+            if (!c) { fill($id('memVerse'), 1, 0, '–'); fill($id('memVerseTo'), 1, 0, '–'); return; }
+            fill($id('memVerse'), 1, BIBLE[b][2][c - 1], 'Verse');
+            fill($id('memVerseTo'), 1, 0, '–');
+        }
+        function setThrough() {
+            var b = +$id('memBook').value, c = +$id('memChapter').value, v1 = +$id('memVerse').value;
+            if (!v1) { fill($id('memVerseTo'), 1, 0, '–'); return; }
+            fill($id('memVerseTo'), v1 + 1, BIBLE[b][2][c - 1], '–');
+            $id('memVerseTo').disabled = false;
         }
         function wireAdd() {
-            var ref = document.getElementById('memAddRef'), tr = document.getElementById('memAddTr');
-            ref.addEventListener('input', updLookup); tr.addEventListener('change', updLookup);
-            ref.addEventListener('keydown', function(e) {
-                if (e.key === 'Enter' && tr.value === 'ESV' && !document.getElementById('memAddText').value.trim()) { e.preventDefault(); lookup(); }
-            });
-            updLookup();
+            $id('memBook').addEventListener('change', function() { setChapters(); loadPassage(); });
+            $id('memChapter').addEventListener('change', function() { setVerses(); loadPassage(); });
+            $id('memVerse').addEventListener('change', function() { setThrough(); loadPassage(); });
+            $id('memVerseTo').addEventListener('change', loadPassage);
+            $id('memAddTr').addEventListener('change', loadPassage);
+            $id('memTopic').addEventListener('change', showTopic);
+            addRef = '';
         }
-        function lookup() {
-            var ref = document.getElementById('memAddRef'), txt = document.getElementById('memAddText'), note = document.getElementById('memLookupNote'), btn = document.getElementById('memLookupBtn');
-            var r = ref.value.trim(); if (!r || looking) return;
-            looking = true; btn.disabled = true; btn.textContent = 'Looking up…'; note.textContent = '';
-            fetch(ESV_PROXY + '/?q=' + encodeURIComponent(r))
+        // ESV comes from the proxy (its licence does not allow storing the text).
+        // The other five are already in the chapter pages, so they are read from there.
+        function fetchEsv(sel) {
+            var q = refName(sel.b) + ' ' + sel.c + ':' + sel.v1 + (sel.v2 ? '-' + sel.v2 : '');
+            return fetch(ESV_PROXY + '/?q=' + encodeURIComponent(q))
                 .then(function(res) { if (!res.ok) throw new Error('http ' + res.status); return res.json(); })
-                .then(function(data) {
-                    var text = data && data.passages && data.passages.length ? passageText(data.passages.join(' ')) : '';
-                    if (!text) { note.textContent = 'No passage found for "' + r + '". Check the book name and the numbers.'; return; }
-                    if (!document.getElementById('memAddRef')) return;
-                    ref.value = data.canonical || r; txt.value = text;
-                    note.textContent = 'Filled in ' + (data.canonical || r) + ' (ESV). Check it, then add it.';
-                })
-                .catch(function() { if (note.isConnected) note.textContent = navigator.onLine === false ? 'You are offline. Paste the text instead, or try Look up again when you are back online.' : 'The ESV text could not be loaded just now. Try again in a moment, or paste the text.'; })
-                .then(function() { looking = false; if (btn.isConnected) { btn.textContent = 'Look up'; btn.disabled = !ref.value.trim(); } });
+                .then(function(data) { return { text: data && data.passages && data.passages.length ? passageText(data.passages.join(' ')) : '', ref: data && data.canonical }; });
+        }
+        function fetchSite(sel, tr) {
+            var url = BIBLE[sel.b][0] + sel.c + '.html';
+            var page = pageCache[url] || (pageCache[url] = fetch(url).then(function(res) { if (!res.ok) throw new Error('http ' + res.status); return res.text(); })
+                .then(function(html) { return new DOMParser().parseFromString(html, 'text/html'); })
+                .catch(function(err) { delete pageCache[url]; throw err; }));
+            return page.then(function(doc) {
+                var block = doc.querySelector('.translation-block[data-translation="' + tr + '"]'), out = [];
+                if (block) Array.prototype.forEach.call(block.querySelectorAll('p.verse'), function(p) {
+                    var num = p.querySelector('.verse-num'), n = num ? parseInt(num.textContent, 10) : 0;
+                    if (n < sel.v1 || n > (sel.v2 || sel.v1)) return;
+                    var c = p.cloneNode(true);
+                    Array.prototype.forEach.call(c.querySelectorAll('.verse-num,sup'), function(x) { x.remove(); });
+                    out.push(c.textContent);
+                });
+                return { text: out.join(' ').replace(/[\s ]+/g, ' ').trim() };
+            });
+        }
+        function loadPassage() {
+            clearTimeout(lookupTimer);
+            if (!picked()) return;
+            $id('memLookupNote').textContent = 'Loading…';
+            lookupTimer = setTimeout(loadNow, 700);
+        }
+        function loadNow() {
+            clearTimeout(lookupTimer);
+            var sel = picked(), txt = $id('memAddText'), note = $id('memLookupNote');
+            if (!sel || !txt) return;
+            var tr = $id('memAddTr').value, label = refLabel(sel.b, sel.c, sel.v1, sel.v2), seq = ++lookupSeq;
+            addRef = label; txt.value = ''; note.textContent = 'Loading ' + label + '…';
+            (tr === 'ESV' ? fetchEsv(sel) : fetchSite(sel, tr)).then(function(r) {
+                if (seq !== lookupSeq || !txt.isConnected) return;
+                if (!r.text) { note.textContent = label + ' is not in the ' + tr + ' text here. Pick another verse or translation, or paste the text.'; return; }
+                txt.value = r.text; if (r.ref) addRef = r.ref;
+                note.textContent = addRef + ' (' + tr + '). Check it, then add it.';
+            }).catch(function() {
+                if (seq !== lookupSeq || !note.isConnected) return;
+                note.textContent = navigator.onLine === false ? 'You are offline. Paste the text, or try again when you are back online.' : 'The text could not be loaded just now. Try again in a moment, or paste it.';
+            });
+        }
+        function showTopic() {
+            var box = $id('memTopicList'), t = TOPICS[$id('memTopic').value];
+            if (!t) { box.innerHTML = ''; return; }
+            var have = {};
+            all().forEach(function(v) { have[v.ref.replace(/[–-]/g, '-').toLowerCase()] = true; });
+            box.innerHTML = '<div class="mem-list" style="margin-top:14px">' + t.refs.map(function(r, i) {
+                var label = refLabel(r[0], r[1], r[2], r[3]), got = have[label.replace(/–/g, '-').toLowerCase()];
+                return '<div class="mem-item"><span class="mem-ref">' + esc(label) + '</span>' + (got ? '<span class="mem-chip later">In your list</span>'
+                    : '<button type="button" class="mem-btn" data-a="suggest" data-i="' + i + '" style="padding:6px 14px">Use</button>') + '</div>';
+            }).join('') + '</div>' + (t.page ? '<p class="mem-note" style="margin-top:12px">From the study <a href="' + t.page + '">' + esc(t.name) + '</a>.</p>' : '');
+        }
+        function useSuggestion(i) {
+            var t = TOPICS[$id('memTopic').value], r = t && t.refs[i]; if (!r) return;
+            $id('memBook').value = r[0]; setChapters();
+            $id('memChapter').value = r[1]; setVerses();
+            $id('memVerse').value = r[2]; setThrough();
+            $id('memVerseTo').value = r[3] || '';
+            loadNow();
+            try { main.querySelector('form[data-f="add"]').scrollIntoView({ behavior: 'smooth', block: 'start' }); } catch (e) {}
         }
 
         /* ---------- backup ---------- */
@@ -485,7 +573,7 @@
             switch (a) {
                 case 'nav': S.session = null; S.practice = null; S.detail = null; S.editing = false; S.confirmDel = false; S.view = b.dataset.v; main.innerHTML = ''; render(); break;
                 case 'dismiss': S.notice = ''; render(); break;
-                case 'lookup': lookup(); break;
+                case 'suggest': useSuggestion(+b.dataset.i); break;
                 case 'start': startSession(dueList().map(function(v) { return v.id; })); break;
                 case 'review-one': startSession([id]); break;
                 case 'practice': openPractice(id, b.dataset.from); break;
@@ -516,8 +604,10 @@
             e.preventDefault();
             var f = e.target;
             if (f.dataset.f === 'add') {
-                var ref = document.getElementById('memAddRef').value.trim(), text = document.getElementById('memAddText').value.trim().replace(/\s+/g, ' ');
-                if (!ref || !text) return;
+                var sel = picked(), text = document.getElementById('memAddText').value.trim().replace(/\s+/g, ' ');
+                if (!sel) { document.getElementById('memLookupNote').textContent = 'Choose a book, chapter and verse first.'; return; }
+                if (!text) { document.getElementById('memLookupNote').textContent = 'Add the verse text first.'; return; }
+                var ref = addRef || refLabel(sel.b, sel.c, sel.v1, sel.v2);
                 var id = newId(), tr = document.getElementById('memAddTr').value;
                 main.innerHTML = ''; S.view = 'today';
                 create({ id: id, ref: ref, text: text, translation: tr, stage: 'learning', fadeStep: 0, interval: 0, ease: 2.5, reps: 0, lapses: 0, due: null, lastReviewed: null, addedAt: new Date().toISOString() });
