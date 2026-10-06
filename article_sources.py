@@ -186,6 +186,21 @@ DROP_ARTICLE_URLS = {
         "a podcast episode page, not a written article",
     "https://www.crossway.org/articles/september-2026-new-releases/":
         "promotional, a monthly list of new books",
+    "https://www.crossway.org/articles/the-enduring-word-from-william-tyndale-to-the-english-standard-version/":
+        "Bible-translation history, and there is no page on translation for "
+        "it to sit on",
+    "https://www.crossway.org/articles/this-day-in-history-the-death-of-william-tyndale/":
+        "church history, and there is no page for it to sit on",
+    "https://www.crossway.org/articles/coming-soon-the-enduring-word-documentary/":
+        "promotional, an announcement for a documentary",
+    "https://www.crossway.org/articles/crossway-special-50-off-large-print-compact-bibles/":
+        "promotional, a sale on large print Bibles",
+    "https://www.crossway.org/articles/how-to-arrange-your-sermon-in-the-most-persuasive-way-possible/":
+        "advice for preachers, and there is no page on preaching",
+    "https://www.crossway.org/articles/note-to-parents-new-morning-mercies-for-kids/":
+        "a companion piece for a children's devotional product, not teaching",
+    "https://www.crossway.org/articles/podcast-how-and-how-not-to-think-about-heaven-dane-ortlund/":
+        "a podcast episode page, not a written article",
 }
 
 LINK = ('<a href="{url}" target="_blank" rel="noopener" '
@@ -767,6 +782,9 @@ CHAPTER_ARTICLES = {
         ("GotQuestions.org", GQ + "God-will-wipe-away-every-tear-Revelation-21-4.html",
          "The promise about tears, death and mourning, and what it says has "
          "passed away."),
+        ("Crossway", CW + "10-things-you-should-know-about-heaven/",
+         "Why the heaven believers go to at death is temporary, and what the "
+         "renewed creation of this chapter adds to it."),
     ],
     ("revelation", 22): [
         ("GotQuestions.org", GQ + "Revelation-22-18-19.html",
@@ -885,6 +903,9 @@ TOPIC_ARTICLES = {
          "Passages on belief and unbelief, collected."),
         ("GotQuestions Blog", GQB + "understand-vs-trust.html",
          "On the difference between understanding God and trusting him."),
+        ("Crossway", CW + "what-should-i-do-with-my-doubts-3-suggestions/",
+         "Practical counsel for doubting: stay in community, and remember the "
+         "church has faced these questions before."),
     ],
     "greed-and-materialism.html": [
         ("GotQuestions.org", GQ + "Bible-greed.html",
@@ -971,6 +992,9 @@ TOPIC_ARTICLES = {
         ("BibleProject", BP + "sin-iniquity-and-transgression-in-the-bible/",
          "Three words the Bible uses for sin, and why the distinctions "
          "matter."),
+        ("GotQuestions.org", GQ + "Bible-verses-about-temptation.html",
+         "The key passages on temptation gathered in one place, from James 1 "
+         "to 1 Corinthians 10:13."),
     ],
     "unforgiveness-and-bitterness.html": [
         ("GotQuestions.org", GQ + "Bible-forgiveness.html",
