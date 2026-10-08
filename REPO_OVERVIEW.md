@@ -70,6 +70,15 @@ and no server.
 - **Verses by topic**: the `TOPICS` table in the page lists a few well-known
   references per topic and links to the matching Life or Topical study when
   there is one. References only; the text is looked up like any other verse.
+- **Collections** (`COLLECTIONS` table): six themed lists written for this site,
+  not copied from another app, each split into headed sections. Each verse is
+  matched to the person's list by book, chapter and verses (any translation), so
+  the checklist shows Not started / Learning / Reviewing / Memorized, and a
+  progress bar sums it. Memorized means a review interval of 21 days or more
+  (`KNOWN_DAYS`). "Start next" adds the first not-started verse in the person's
+  last-used translation and opens practice; the Today tab shows the next verse
+  of the last collection opened. Progress is derived from the verses, so it
+  needs no storage of its own and syncs along with them.
 - Colors come from the style.css tokens, so the mirror gets New River's palette.
   The bottom-nav change lives in `site/script.js`, which New River keeps its own
   copy of: port that change there by hand when mirroring.
