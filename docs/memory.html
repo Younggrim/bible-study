@@ -92,6 +92,26 @@
         .mem-g1 { background: #f5ebd6; color: #8a5e0e; }
         .mem-g2 { background: #e1e9f4; color: #2c4c78; }
         .mem-g3 { background: #ddefe6; color: #2f7456; }
+        .mem-grade.suggested { box-shadow: 0 0 0 2px var(--ink-deep); }
+        .mem-modes { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; border: 1px solid var(--border-medium); border-radius: 10px; overflow: hidden; background: #fff; }
+        .mem-modes button { font-family: 'Inter', sans-serif; border: 0; border-right: 1px solid var(--border-medium); background: transparent; padding: 9px 6px; font-size: 0.84rem; font-weight: 600; color: var(--ink-deep); cursor: pointer; }
+        .mem-modes button:last-child { border-right: 0; }
+        .mem-modes button[aria-pressed="true"] { background: var(--ink-deep); color: #fff; }
+        .mem-modes button:focus-visible, .mem-chip:focus-visible { outline: 2px solid var(--accent-link); outline-offset: -2px; }
+        .mem-card-body.mem-built { min-height: calc(2.2rem * 2 + 24px); }
+        .mem-built .mem-slot { display: inline-block; width: 2.4em; height: 1.2em; vertical-align: -0.2em; border: 0; border-bottom: 2px solid var(--accent-link); border-radius: 0; background: none; }
+        .mem-pool { display: flex; flex-wrap: wrap; gap: 8px; padding: 4px 22px 20px; }
+        .mem-chip { font-family: 'Merriweather', serif; font-size: 1rem; border: 1px solid var(--border-medium); background: #fff; color: var(--ink-deep); border-radius: 8px; padding: 8px 12px; cursor: pointer; min-height: 44px; }
+        .mem-chip.wrong { border-color: #b5473f; background: #f6e3e1; color: #b5473f; animation: mem-shake 0.3s; }
+        @keyframes mem-shake { 25% { transform: translateX(-4px); } 75% { transform: translateX(4px); } }
+        .mem-type { width: 100%; box-sizing: border-box; font-family: 'Merriweather', serif; font-size: 1rem; line-height: 1.7; color: var(--ink-deep); background: #fff; border: 1px solid var(--border-medium); border-radius: 8px; padding: 12px 14px; min-height: 150px; resize: vertical; }
+        .mem-type:focus { outline: 2px solid var(--accent-link); outline-offset: 1px; }
+        .mem-ok { }
+        .mem-typo { text-decoration: underline dotted #8a5e0e; text-underline-offset: 4px; }
+        .mem-miss { background: #f6e3e1; color: #b5473f; border-radius: 3px; padding: 0 2px; }
+        .mem-extra { color: var(--text-faint); text-decoration: line-through; }
+        .mem-score { font-family: 'Inter', sans-serif; font-weight: 700; color: var(--ink-deep); }
+        .mem-legend { display: flex; gap: 14px; flex-wrap: wrap; font-size: 0.8rem; color: var(--text-faint); }
         .mem-tab { padding-left: 6px; padding-right: 6px; }
         .mem-cols { display: grid; gap: 12px; }
         .mem-col { display: flex; flex-direction: column; gap: 6px; text-align: left; background: #fff; border: 1px solid var(--border-light); border-radius: 12px; padding: 16px 18px; cursor: pointer; font-family: 'Inter', sans-serif; color: var(--ink-deep); }
@@ -129,7 +149,7 @@
         .mem-banner { font-size: 0.82rem; color: #8a5e0e; background: #f5ebd6; padding: 10px 12px; border-radius: 8px; }
         .mem-copy { font-size: 0.7rem; color: var(--text-faint); margin: 28px 0 0; line-height: 1.5; }
         @media (max-width: 480px) { .mem-two { grid-template-columns: 1fr; } .mem-grades { grid-template-columns: repeat(2, 1fr); } .mem-card-body { font-size: 1rem; } }
-        @media (prefers-reduced-motion: reduce) { .mem-progress i { transition: none; } }
+        @media (prefers-reduced-motion: reduce) { .mem-progress i { transition: none; } .mem-chip.wrong { animation: none; } }
     </style>
 </head>
 <body>
@@ -392,6 +412,87 @@
                 return '<span class="mem-w">' + esc(t.pre) + '<button class="mem-blank" data-a="peek" data-i="' + i + '" style="width:' + Math.max(1.6, t.core.length * 0.6) + 'em" aria-label="Show word"></button>' + esc(t.post) + '</span>';
             }).join(' ');
         }
+        /* ---------- word order and typing ---------- */
+        var CHUNK = 8;   // word order shows this many words at a time, so long passages stay tappable on a phone
+        function normWord(w) { return w.toLowerCase().replace(/[\u2018\u2019\u02bc]/g, "'").replace(/[^\p{L}\p{N}']/gu, '').replace(/^'+|'+$/g, ''); }
+        function verseWords(v) {
+            return tokens(v.text).filter(function(t) { return t.core; }).map(function(t) { return { show: t.pre + t.core + t.post, n: normWord(t.core) }; });
+        }
+        function newOrder() { return { pos: 0, used: {}, mistakes: 0, wrong: null, helps: 0, seed: 1 }; }
+        function orderPick(v, O, i) {
+            var w = verseWords(v);
+            if (O.pos >= w.length || O.used[i]) return;
+            if (w[i].n === w[O.pos].n) {
+                // A repeated word counts wherever it sits, so swap it into place.
+                O.used[i] = true; O.pos++; O.wrong = null;
+            } else { O.mistakes++; O.wrong = i; }
+        }
+        function orderHelp(v, O) {
+            var w = verseWords(v), i, end = Math.min(w.length, Math.floor(O.pos / CHUNK) * CHUNK + CHUNK);
+            for (i = O.pos; i < end; i++) if (!O.used[i] && w[i].n === w[O.pos].n) break;
+            O.helps++; O.mistakes++; O.used[i] = true; O.pos++; O.wrong = null;
+        }
+        function orderHTML(v, O) {
+            var w = verseWords(v), done = O.pos >= w.length;
+            var h = '<div class="mem-card-body mem-built">' + w.slice(0, O.pos).map(function(x) { return esc(x.show); }).join(' ') + (done ? '' : ' <span class="mem-slot" aria-hidden="true"></span>') + '</div>';
+            if (done) return h;
+            var cs = Math.floor(O.pos / CHUNK) * CHUNK, ce = Math.min(w.length, cs + CHUNK), idx = [];
+            for (var i = cs; i < ce; i++) if (!O.used[i]) idx.push(i);
+            var ord = order(idx.length, hash(v.id + ':' + cs + ':' + O.seed));
+            h += '<div class="mem-pool" role="group" aria-label="Words to place">' + ord.map(function(k) { var j = idx[k]; return '<button class="mem-chip' + (O.wrong === j ? ' wrong' : '') + '" data-a="ord-pick" data-i="' + j + '">' + esc(w[j].show) + '</button>'; }).join('') + '</div>';
+            return h;
+        }
+        function orderNote(v, O) {
+            var w = verseWords(v), cs = Math.floor(O.pos / CHUNK) * CHUNK;
+            return 'Tap the words in order.' + (w.length > CHUNK ? ' Words ' + (cs + 1) + '–' + Math.min(w.length, cs + CHUNK) + ' of ' + w.length + '.' : '') + (O.mistakes ? ' Misses: ' + O.mistakes + '.' : '');
+        }
+        function orderGrade(v, O) { var n = verseWords(v).length; return O.mistakes === 0 ? 2 : O.mistakes <= Math.max(1, Math.round(n / 10)) ? 1 : 0; }
+        function close(a, b) {
+            if (a === b) return true;
+            if (a.length < 5 || Math.abs(a.length - b.length) > 1) return false;
+            // One letter added, dropped or changed counts as a typo, not a miss.
+            var i = 0, j = 0, edits = 0;
+            while (i < a.length && j < b.length) {
+                if (a[i] === b[j]) { i++; j++; continue; }
+                if (++edits > 1) return false;
+                if (a.length > b.length) i++; else if (b.length > a.length) j++; else { i++; j++; }
+            }
+            return edits + (a.length - i) + (b.length - j) <= 1;
+        }
+        // Line up what was typed against the verse (longest common run of words)
+        // and mark each verse word as right, a typo, or missed, and each extra typed word.
+        function checkTyped(v, typed) {
+            var w = verseWords(v), t = typed.split(/\s+/).map(normWord).filter(Boolean), n = w.length, m = t.length, i, j;
+            var L = []; for (i = 0; i <= n; i++) { L.push(new Array(m + 1).fill(0)); }
+            for (i = n - 1; i >= 0; i--) for (j = m - 1; j >= 0; j--) L[i][j] = close(w[i].n, t[j]) ? L[i + 1][j + 1] + 1 : Math.max(L[i + 1][j], L[i][j + 1]);
+            var out = [], ok = 0, typos = 0, extra = 0; i = 0; j = 0;
+            while (i < n || j < m) {
+                if (i < n && j < m && close(w[i].n, t[j]) && L[i][j] === L[i + 1][j + 1] + 1) {
+                    var exact = w[i].n === t[j]; out.push({ k: exact ? 'ok' : 'typo', s: w[i].show }); ok++; if (!exact) typos++; i++; j++;
+                } else if (j < m && (i >= n || L[i][j + 1] >= L[i + 1][j])) { out.push({ k: 'extra', s: t[j] }); extra++; j++; }
+                else { out.push({ k: 'miss', s: w[i].show }); i++; }
+            }
+            var pct = n ? Math.round(ok / (n + extra) * 100) : 0;
+            return { parts: out, ok: ok, typos: typos, extra: extra, missed: n - ok, total: n, pct: pct, grade: pct === 100 && !typos ? 3 : pct >= 90 ? 2 : pct >= 70 ? 1 : 0 };
+        }
+        function resultHTML(r) {
+            return '<div class="mem-card-body">' + r.parts.map(function(p) { return '<span class="mem-' + p.k + '">' + esc(p.s) + '</span>'; }).join(' ') + '</div>';
+        }
+        function resultLine(r) {
+            var bits = [r.ok + ' of ' + r.total + ' words'];
+            if (r.missed) bits.push(r.missed + ' missed');
+            if (r.typos) bits.push(r.typos + (r.typos === 1 ? ' typo' : ' typos'));
+            if (r.extra) bits.push(r.extra + ' extra');
+            return '<p class="mem-note"><span class="mem-score">' + r.pct + '%</span> · ' + bits.join(' · ') + '</p>'
+                + (r.missed || r.typos || r.extra ? '<p class="mem-legend"><span><span class="mem-miss">missed</span></span><span><span class="mem-typo">typo</span></span><span><span class="mem-extra">extra</span></span></p>' : '');
+        }
+        function typeBox(val) {
+            return '<textarea id="memType" class="mem-type" autocomplete="off" autocorrect="off" autocapitalize="sentences" spellcheck="false" aria-label="Type the verse from memory" placeholder="Type the verse from memory. Punctuation and capitals do not matter.">' + esc(val || '') + '</textarea>';
+        }
+        function modesHTML(cur, act) {
+            return '<div class="mem-modes" role="group" aria-label="Practice style">' + [['say', act === 'pmode' ? 'Fade' : 'Say it'], ['order', 'Word order'], ['type', 'Type it']].map(function(m) { return '<button data-a="' + act + '" data-m="' + m[0] + '" aria-pressed="' + (cur === m[0]) + '">' + m[1] + '</button>'; }).join('') + '</div>';
+        }
+        function reviewMode() { try { var m = localStorage.getItem('memory-review-mode'); return m === 'type' || m === 'order' ? m : 'say'; } catch (e) { return 'say'; } }
         function hintLine(v) { return tokens(v.text).map(function(t) { return t.pre + (t.core ? t.core[0] : '') + t.post; }).join(' '); }
 
         // The proxy returns the ESV API's passage HTML. Strip headings, verse
@@ -509,6 +610,8 @@
             if (!v) { S.practice = null; return S.session ? viewSession() : viewToday(); }
             var last = P.step === STEPS.length - 1;
             var h = '<section class="mem-row mem-between"><button class="mem-btn quiet" data-a="exit-practice">← Back</button><span class="mem-note">' + (v.stage === 'learning' ? 'Learning' : 'Practice only. Your review schedule stays the same.') + '</span></section>';
+            h += modesHTML(P.mode, 'pmode');
+            if (P.mode !== 'say') return h + practiceTest(P, v);
             h += '<div class="mem-stepper" role="group" aria-label="Fade steps">' + STEPS.map(function(s, i) { return '<button data-a="step" data-s="' + i + '" aria-pressed="' + (i === P.step) + '" class="' + (v.stage === 'learning' && i < (v.fadeStep || 0) && i !== P.step ? 'done' : '') + '">' + s.name + '</button>'; }).join('') + '</div>';
             h += '<article class="mem-card"><div class="mem-card-head"><span class="mem-ref">' + esc(v.ref) + '</span><span class="mem-card-meta">' + esc(v.translation || 'ESV') + ' · step ' + (P.step + 1) + '/' + STEPS.length + '</span></div>'
                 + '<div class="mem-card-body">' + fadedHTML(v, P.step, P.seed, P.peeked) + '</div></article>';
@@ -517,6 +620,21 @@
                 + (!last ? '<button class="mem-btn primary" data-a="next">Fade more</button>'
                     : v.stage === 'learning' ? '<button class="mem-btn primary" data-a="graduate">I can say it. Start reviews</button>' : '<button class="mem-btn primary" data-a="exit-practice">Done</button>') + '</div>';
             return h;
+        }
+        function practiceTest(P, v) {
+            var head = '<article class="mem-card"><div class="mem-card-head"><span class="mem-ref">' + esc(v.ref) + '</span><span class="mem-card-meta">' + esc(v.translation || 'ESV') + '</span></div>';
+            var grad = v.stage === 'learning' ? '<button class="mem-btn primary" data-a="graduate">I can say it. Start reviews</button>' : '<button class="mem-btn primary" data-a="exit-practice">Done</button>';
+            if (P.mode === 'order') {
+                var O = P.order, finished = O.pos >= verseWords(v).length;
+                var h = head + orderHTML(v, O) + '</article>';
+                if (!finished) return h + '<p class="mem-note">' + orderNote(v, O) + '</p><div class="mem-row"><button class="mem-btn" data-a="ord-help">Show next word</button></div>';
+                return h + '<p class="mem-note"><span class="mem-score">' + (O.mistakes ? O.mistakes + (O.mistakes === 1 ? ' miss' : ' misses') : 'No misses') + '</span>' + (O.mistakes ? '. Go again until it comes clean.' : '. Try typing it next.') + '</p>'
+                    + '<div class="mem-row"><button class="mem-btn" data-a="ord-again">Go again</button>' + (O.mistakes ? '' : grad) + '</div>';
+            }
+            if (!P.result) return head + '<div class="mem-card-body" style="min-height:0;padding-bottom:16px">' + typeBox(P.typed) + '</div></article>'
+                + '<div class="mem-row"><button class="mem-btn primary" data-a="type-check">Check</button></div>';
+            return head + resultHTML(P.result) + '</article>' + resultLine(P.result)
+                + '<div class="mem-row"><button class="mem-btn" data-a="type-again">Try again</button>' + (P.result.pct >= 90 ? grad : '') + '</div>';
         }
         function viewSession() {
             var Q = S.session;
@@ -531,14 +649,25 @@
             var h = '<section style="display:flex;flex-direction:column;gap:10px"><div class="mem-row mem-between"><button class="mem-btn quiet" data-a="end">← End review</button><span class="mem-note">' + (Q.i + 1) + ' of ' + Q.queue.length + '</span></div>'
                 + '<div class="mem-progress"><i style="width:' + Math.round(Q.i / Q.queue.length * 100) + '%"></i></div></section>';
             h += '<article class="mem-card"><div class="mem-card-head"><span class="mem-ref">' + esc(v.ref) + '</span><span class="mem-card-meta">' + esc(v.translation || 'ESV') + (v.lapses ? ' · missed ' + v.lapses + '×' : '') + '</span></div>';
-            if (Q.revealed) h += '<div class="mem-card-body">' + esc(v.text) + '</div>';
+            var sug = null;
+            if (Q.revealed && Q.result) { h += resultHTML(Q.result); sug = Q.result.grade; }
+            else if (Q.revealed && Q.mode === 'order' && Q.order.pos >= verseWords(v).length) { h += '<div class="mem-card-body">' + esc(v.text) + '</div>'; sug = orderGrade(v, Q.order); }
+            else if (Q.revealed) h += '<div class="mem-card-body">' + esc(v.text) + '</div>';
+            else if (Q.mode === 'order') h += orderHTML(v, Q.order);
+            else if (Q.mode === 'type') h += '<div class="mem-card-body" style="min-height:0;padding-bottom:16px">' + (Q.hint ? '<p class="mem-hint" style="margin:0 0 8px">' + esc(hintLine(v)) + '</p>' : '') + typeBox(Q.typed) + '</div>';
             else if (Q.hint) h += '<div class="mem-card-body"><span class="mem-hint">' + esc(hintLine(v)) + '</span></div>';
             else h += '<div class="mem-card-body prompt">Say it from memory.</div>';
             h += '</article>';
+            if (Q.result && Q.hint && sug > 1) sug = 1;
             if (!Q.revealed) {
-                h += '<div class="mem-row">' + (Q.hint ? '' : '<button class="mem-btn" data-a="hint">First letters</button>') + '<button class="mem-btn primary" data-a="reveal">Show verse</button></div>';
+                h = h.replace('<article class="mem-card">', modesHTML(Q.mode, 'qmode') + '<article class="mem-card">');
+                if (Q.mode === 'order') h += '<p class="mem-note">' + orderNote(v, Q.order) + '</p><div class="mem-row"><button class="mem-btn" data-a="ord-help">Show next word</button><button class="mem-btn quiet" data-a="reveal">Show verse</button></div>';
+                else if (Q.mode === 'type') h += '<div class="mem-row">' + (Q.hint ? '' : '<button class="mem-btn" data-a="hint">First letters</button>') + '<button class="mem-btn primary" data-a="type-check">Check</button><button class="mem-btn quiet" data-a="reveal">Show verse</button></div>';
+                else h += '<div class="mem-row">' + (Q.hint ? '' : '<button class="mem-btn" data-a="hint">First letters</button>') + '<button class="mem-btn primary" data-a="reveal">Show verse</button></div>';
             } else {
-                h += '<div><p class="mem-eyebrow">How did it go' + (Q.hint ? ' (with first letters)' : '') + '?</p><div class="mem-grades">' + GRADES.map(function(g, i) { var n = nextFor(v, i); return '<button class="mem-grade mem-g' + i + '" data-a="grade" data-g="' + i + '">' + g + '<small>' + (i === 0 ? 'again today' : fmtIv(n.interval)) + '</small></button>'; }).join('') + '</div>'
+                if (Q.result) h += resultLine(Q.result);
+                else if (Q.mode === 'order' && Q.order && Q.order.pos >= verseWords(v).length) h += '<p class="mem-note"><span class="mem-score">' + (Q.order.mistakes ? Q.order.mistakes + (Q.order.mistakes === 1 ? ' miss' : ' misses') : 'No misses') + '</span> putting the words in order.</p>';
+                h += '<div><p class="mem-eyebrow">How did it go' + (Q.hint ? ' (with first letters)' : '') + '?' + (sug != null ? ' Suggested: ' + GRADES[sug] : '') + '</p><div class="mem-grades">' + GRADES.map(function(g, i) { var n = nextFor(v, i); return '<button class="mem-grade mem-g' + i + (sug === i ? ' suggested' : '') + '" data-a="grade" data-g="' + i + '">' + g + '<small>' + (i === 0 ? 'again today' : fmtIv(n.interval)) + '</small></button>'; }).join('') + '</div>'
                     + '<p class="mem-note" style="margin-top:10px">Again: could not recall it. Hard: took real effort or the hint. Good: got it with small slips. Easy: word-perfect.</p></div>'
                     + '<div class="mem-row"><button class="mem-btn quiet" data-a="practice" data-id="' + v.id + '" data-from="session">Practice this one with fading</button></div>';
             }
@@ -556,7 +685,9 @@
             else if (S.view === 'collections') h = S.collection != null ? viewCollection(S.collection) : viewCollections();
             else if (S.view === 'add') h = viewAdd();
             else h = viewToday();
+            var box = document.getElementById('memType'), hadFocus = box && document.activeElement === box, sel = box ? [box.selectionStart, box.selectionEnd] : null;
             main.innerHTML = h;
+            if (hadFocus && (box = document.getElementById('memType'))) { box.focus(); try { box.setSelectionRange(sel[0], sel[1]); } catch (e) {} }
             if (S.view === 'add' && !S.practice && !S.session) wireAdd();
         }
 
@@ -819,18 +950,36 @@
 
         /* ---------- actions ---------- */
         function top() { try { window.scrollTo(0, 0); } catch (e) {} }
-        function startSession(ids) { S.session = { queue: ids, i: 0, revealed: false, hint: false, done: 0, missed: 0, requeued: {} }; S.practice = null; S.view = 'today'; render(); top(); }
-        function openPractice(id, from) { var v = S.verses[id]; if (!v) return; if (from === 'collections') S.view = 'collections'; S.practice = { id: id, from: from || S.view, step: v.stage === 'learning' ? (v.fadeStep || 0) : 0, seed: 1, peeked: {} }; render(); top(); }
+        function startSession(ids) { S.session = { queue: ids, i: 0, revealed: false, hint: false, done: 0, missed: 0, requeued: {}, mode: reviewMode(), order: newOrder(), typed: '', result: null }; S.practice = null; S.view = 'today'; render(); top(); }
+        function openPractice(id, from) { var v = S.verses[id]; if (!v) return; if (from === 'collections') S.view = 'collections'; S.practice = { id: id, from: from || S.view, step: v.stage === 'learning' ? (v.fadeStep || 0) : 0, seed: 1, peeked: {}, mode: 'say', order: newOrder(), typed: '', result: null }; render(); top(); }
         function setStep(n) {
             var P = S.practice, v = S.verses[P.id];
             P.step = Math.max(0, Math.min(STEPS.length - 1, n)); P.peeked = {};
             if (v.stage === 'learning' && P.step > (v.fadeStep || 0)) patch(v.id, { fadeStep: P.step }); else render();
         }
+        function focusType() { var t = document.getElementById('memType'); if (t) t.focus(); }
+        function testPick(i) {
+            var X = S.practice || S.session, v = S.verses[S.practice ? S.practice.id : S.session.queue[S.session.i]];
+            if (!v) return;
+            if (i === null) orderHelp(v, X.order); else orderPick(v, X.order, i);
+            // Finishing the order in a review shows the verse and the grades.
+            if (!S.practice && X.order.pos >= verseWords(v).length) X.revealed = true;
+            render();
+        }
+        function typeCheck() {
+            var X = S.practice || S.session, v = S.verses[S.practice ? S.practice.id : S.session.queue[S.session.i]], t = document.getElementById('memType');
+            if (!v) return;
+            X.typed = t ? t.value : X.typed;
+            if (!X.typed.trim()) { focusType(); return; }
+            X.result = checkTyped(v, X.typed);
+            if (!S.practice) X.revealed = true;
+            render(); top();
+        }
         function grade(g) {
             var Q = S.session, id = Q.queue[Q.i], v = S.verses[id];
             if (!Q.requeued[id]) Q.done++;
             if (g === 0 && !Q.requeued[id]) { Q.queue.push(id); Q.requeued[id] = true; Q.missed++; }
-            Q.i++; Q.revealed = false; Q.hint = false;
+            Q.i++; Q.revealed = false; Q.hint = false; Q.order = newOrder(); Q.typed = ''; Q.result = null;
             patch(id, nextFor(v, g));
         }
         document.querySelector('.page-content').addEventListener('click', function(e) {
@@ -855,6 +1004,13 @@
                 case 'peek': S.practice.peeked[+b.dataset.i] = true; render(); break;
                 case 'graduate': var pid = S.practice.id; S.practice = null; patch(pid, { stage: 'review', fadeStep: STEPS.length - 1, interval: 1, reps: 0, ease: 2.5, due: addDays(today(), 1) }); break;
                 case 'hint': S.session.hint = true; render(); break;
+                case 'pmode': S.practice.mode = b.dataset.m; S.practice.order = newOrder(); S.practice.result = null; render(); if (b.dataset.m === 'type') focusType(); break;
+                case 'qmode': S.session.mode = b.dataset.m; S.session.order = newOrder(); try { localStorage.setItem('memory-review-mode', b.dataset.m); } catch (e) {} render(); if (b.dataset.m === 'type') focusType(); break;
+                case 'ord-pick': testPick(+b.dataset.i); break;
+                case 'ord-help': testPick(null); break;
+                case 'ord-again': S.practice.order = newOrder(); S.practice.order.seed = Date.now() % 997 + 2; render(); break;
+                case 'type-check': typeCheck(); break;
+                case 'type-again': S.practice.result = null; S.practice.typed = ''; render(); focusType(); break;
                 case 'reveal': S.session.revealed = true; render(); break;
                 case 'grade': grade(+b.dataset.g); break;
                 case 'end': S.session = null; render(); break;
@@ -873,6 +1029,10 @@
                 case 'sync': sync(); break;
                 case 'restore': fileInput.value = ''; fileInput.click(); break;
             }
+        });
+        document.querySelector('.page-content').addEventListener('input', function(e) {
+            if (e.target.id !== 'memType') return;
+            var X = S.practice || S.session; if (X) X.typed = e.target.value;
         });
         fileInput.addEventListener('change', function() { if (fileInput.files && fileInput.files[0]) restoreFrom(fileInput.files[0]); });
         document.querySelector('.page-content').addEventListener('submit', function(e) {
@@ -896,11 +1056,14 @@
             }
         });
         document.addEventListener('keydown', function(e) {
+            if (e.target.id === 'memType' && e.key === 'Enter' && (e.metaKey || e.ctrlKey)) { e.preventDefault(); typeCheck(); return; }
             if (e.target.matches('input,textarea,select') || e.metaKey || e.ctrlKey || e.altKey) return;
             if (S.practice) {
+                if (S.practice.mode !== 'say') return;
                 if (e.key === 'ArrowRight') setStep(S.practice.step + 1);
                 else if (e.key === 'ArrowLeft') setStep(S.practice.step - 1);
             } else if (S.session && S.session.i < S.session.queue.length) {
+                if (!S.session.revealed && S.session.mode !== 'say') return;
                 if (!S.session.revealed) {
                     if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); S.session.revealed = true; render(); }
                     else if (e.key.toLowerCase() === 'h') { S.session.hint = true; render(); }
