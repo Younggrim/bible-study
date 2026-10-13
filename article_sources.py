@@ -201,6 +201,21 @@ DROP_ARTICLE_URLS = {
         "a companion piece for a children's devotional product, not teaching",
     "https://www.crossway.org/articles/podcast-how-and-how-not-to-think-about-heaven-dane-ortlund/":
         "a podcast episode page, not a written article",
+    "https://www.crossway.org/articles/reveling-in-the-joy-that-awaits-you/":
+        "a book excerpt on heaven with no single passage at its center; "
+        "Revelation 21 already carries a heaven article",
+    "https://www.crossway.org/articles/if-everything-in-life-keeps-getting-better-why-are-happiness-levels-plummeting/":
+        "promotes a booklet, and there is no page on happiness for it to sit on",
+    "https://www.crossway.org/articles/reflections-on-the-esv-after-25-years/":
+        "Bible-translation history, and there is no page on translation",
+    "https://www.crossway.org/articles/introducing-beholding-christ-and-the-esv-beholding-christ-bible/":
+        "product announcement for a book and Bible, not teaching",
+    "https://www.crossway.org/articles/introducing-the-biggest-story-curriculum-christmas-lessons/":
+        "product announcement for a curriculum, not teaching",
+    "https://www.crossway.org/articles/crossway-special-celebrating-25-years-of-the-esv-with-55-off-preaching-bibles/":
+        "promotional, a sale on preaching Bibles",
+    "https://www.crossway.org/articles/podcast-how-to-see-jesus-in-all-of-scripture-nancy-guthrie/":
+        "a podcast episode page, not a written article",
 }
 
 LINK = ('<a href="{url}" target="_blank" rel="noopener" '
@@ -965,6 +980,9 @@ TOPIC_ARTICLES = {
          "wisdom."),
         ("GotQuestions.org", GQ + "Bible-verses-about-divorce.html",
          "Passages on divorce, collected, with the hard cases named."),
+        ("Crossway", CW + "3-reasons-to-consider-using-a-devotional-with-your-family/",
+         "A case for a regular family devotional time, and what a good one "
+         "gives parents and children."),
     ],
     "pride.html": [
         ("GotQuestions.org", GQ + "Bible-verses-about-pride.html",
@@ -1154,6 +1172,9 @@ TOPIC_ARTICLES = {
         ("BibleProject", BP + "why-did-jesus-have-to-die-a-question-worth-unpacking/",
          "Why the cross was necessary, treated as a question rather than a "
          "formula."),
+        ("Crossway", CW + "we-must-commit-to-the-functional-centrality-of-the-gospel/",
+         "Why the gospel is meant to shape the whole Christian life day to "
+         "day, not just how it begins."),
     ],
     "the-trinity.html": [
         ("GotQuestions.org", GQ + "Trinity-Bible.html",
