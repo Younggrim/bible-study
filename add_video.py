@@ -68,7 +68,16 @@ def lookup(vid):
         except (OSError, ValueError):
             continue
         if status == 200 and data:
-            return data.get("title", "").strip(), data.get("author_name", "").strip()
+            title = (data.get("title") or "").strip()
+            channel = (data.get("author_name") or "").strip()
+            # YouTube answers 200 with no title or author for a live stream
+            # that hasn't finished processing. Adding it would publish a blank
+            # card, so refuse and let it be retried in a later week.
+            if not title or not channel:
+                sys.exit(f"{vid}: YouTube returned no title or channel yet "
+                         f"(often an unprocessed live stream). Not added; "
+                         f"try again later.")
+            return title, channel
         if status in (401, 404):
             sys.exit(f"{vid}: YouTube returned {status}. The video is deleted, "
                      f"private, or not embeddable, so it should not be added.")
