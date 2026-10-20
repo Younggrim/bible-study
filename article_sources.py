@@ -216,6 +216,18 @@ DROP_ARTICLE_URLS = {
         "promotional, a sale on preaching Bibles",
     "https://www.crossway.org/articles/podcast-how-to-see-jesus-in-all-of-scripture-nancy-guthrie/":
         "a podcast episode page, not a written article",
+    "https://www.crossway.org/articles/the-incredible-story-of-two-women-martyred-in-the-amphitheater/":
+        "church history, and there is no page for it to sit on",
+    "https://www.crossway.org/articles/2026-christmas-gift-guide/":
+        "promotional, a holiday gift guide",
+    "https://www.crossway.org/articles/celebrating-25-years-of-the-english-standard-version/":
+        "translation history and promotional",
+    "https://www.crossway.org/articles/october-2026-new-releases/":
+        "promotional, a monthly list of new books",
+    "https://www.crossway.org/articles/podcast-church-history-is-for-everyone-kevin-deyoung/":
+        "a podcast episode page, not a written article",
+    "https://www.crossway.org/articles/tyndale-500-year-anniversary-doc/":
+        "promotional, a documentary announcement",
 }
 
 LINK = ('<a href="{url}" target="_blank" rel="noopener" '
@@ -443,6 +455,9 @@ CHAPTER_ARTICLES = {
         ("Crossway", CW + "how-to-sing-psalm-51/",
          "What it takes to set David's prayer of repentance to English meter "
          "so a congregation can sing it."),
+        ("Crossway", CW + "the-glaring-difference-between-being-truly-repentant-and-being-merely-remorseful/",
+         "How true repentance differs from regret over consequences, drawn "
+         "from David's prayer."),
     ],
     ("psalms", 53): [
         ("GotQuestions.org", GQ + "Psalms-14-53.html",
@@ -610,6 +625,11 @@ CHAPTER_ARTICLES = {
         ("GotQuestions.org", GQ + "Matthew-27-9-Jeremiah-Zechariah.html",
          "Matthew attributes a quotation to Jeremiah that reads like "
          "Zechariah. The explanations, weighed."),
+    ],
+    ("mark", 6): [
+        ("Crossway", CW + "a-devotional-for-those-in-the-midst-of-trial/",
+         "Why Jesus sent his disciples straight into a storm he knew was "
+         "coming, and what that says to anyone in a trial."),
     ],
     ("mark", 8): [
         ("Crossway", CW + "what-does-it-mean-to-pick-up-your-cross-and-follow-jesus-mark-8/",
@@ -1002,6 +1022,9 @@ TOPIC_ARTICLES = {
          "How the whole Bible handles suffering, from Job to the cross."),
         ("GotQuestions Blog", GQB + "crash-turn.html",
          "On whether God uses injury and illness to get our attention."),
+        ("Crossway", CW + "the-profound-connection-between-suffering-and-glory/",
+         "Why Scripture ties present suffering to future glory, from the "
+         "cross to 2 Corinthians 4:17."),
     ],
     "temptation.html": [
         ("GotQuestions.org", GQ + "Bible-temptation.html",
@@ -1013,6 +1036,11 @@ TOPIC_ARTICLES = {
         ("GotQuestions.org", GQ + "Bible-verses-about-temptation.html",
          "The key passages on temptation gathered in one place, from James 1 "
          "to 1 Corinthians 10:13."),
+    ],
+    "types-of-christ.html": [
+        ("Crossway", CW + "beholding-christ-in-all-66-books-of-the-bible/",
+         "A quick tour of how each part of Scripture points to Christ, from "
+         "the Law through the Prophets."),
     ],
     "unforgiveness-and-bitterness.html": [
         ("GotQuestions.org", GQ + "Bible-forgiveness.html",
