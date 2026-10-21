@@ -145,10 +145,28 @@
             }).then(function () { save(K_CUR, cur); });
         }).catch(function () { /* offline: kept on this device, retried later */ })
           .then(function () {
-            busy = null; save(K_OWNER, uid); changed();
+            busy = null; save(K_OWNER, uid); changed(); publish();
             if (again) { again = false; scheduleSync(0); }
         });
         return busy;
+    }
+
+    // For people who set up Friends: keep the streak and progress they show
+    // their friends current. Nobody else's device ever sends this.
+    var lastPublished = null;
+    function publish() {
+        if (!user || !account) return;
+        var friendsOn = null;
+        try { friendsOn = localStorage.getItem('bs-friends'); } catch (e) {}
+        if (friendsOn !== user.id) return;
+        var pos = load('bs-position', null);
+        var row = { user_id: user.id, streak: streak().days, chapters: Math.min(studiedCount(), 1189),
+                    current_page: pos && isPage(pos.page) ? pos.page : null };
+        var key = JSON.stringify(row);
+        if (key === lastPublished) return;
+        account.ready().then(function (sb) {
+            return sb.from('friend_stats').upsert(row, { onConflict: 'user_id' }).then(function (res) { if (!res.error) lastPublished = key; });
+        }).catch(function () {});
     }
 
     function onAccount(u) {
@@ -275,6 +293,7 @@
 
     window.BibleProgress = {
         streak: streak, studiedCount: studiedCount, isStudied: isStudied,
+        publish: function () { lastPublished = null; publish(); },
         studiedOn: function (p) { return chapters[p] && !chapters[p].r ? chapters[p].d : null; },
         today: today,
         reset: function () { chapters = {}; days = {}; changed(); },

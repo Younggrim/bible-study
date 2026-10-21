@@ -385,6 +385,25 @@
         bm.addEventListener('click', function () { applyToSelection({ b: !allBookmarked }); closeSheet(); });
         var noteBtn = el('a', { class: 'bs-act', href: 'notes.html?new=1&ref=' + here.book + here.chapter + ':' + Math.min.apply(null, selected) }, [el('i', { class: 'fas fa-pen-to-square', 'aria-hidden': 'true' }), T('sheet.note', 'Note')]);
         noteBtn.style.textDecoration = 'none';
+        // Share a verse with friends (only offered once Friends is set up on this account).
+        var shareBtn = null;
+        var friendsOn = null;
+        try { friendsOn = localStorage.getItem('bs-friends'); } catch (e) {}
+        if (user && friendsOn === user.id) {
+            shareBtn = el('button', { type: 'button', class: 'bs-act' }, [el('i', { class: 'fas fa-share-nodes', 'aria-hidden': 'true' }), T('sheet.share', 'Share')]);
+            shareBtn.addEventListener('click', function () {
+                var v = Math.min.apply(null, selected), ref = here.book + here.chapter + ':' + v;
+                var comment = window.prompt(T('sheet.sharewhy', 'Add a note for your friends (optional)'), '');
+                if (comment === null) return;
+                shareBtn.disabled = true;
+                account.ready().then(function (sb) {
+                    return sb.from('shared_items').insert({ owner: user.id, kind: 'verse', ref: ref, title: refText(here.book, here.chapter, selected.slice().sort(function (a, b) { return a - b; })), body: comment.slice(0, 2000) });
+                }).then(function (res) {
+                    if (res && res.error) throw res.error;
+                    closeSheet();
+                }).catch(function () { shareBtn.disabled = false; alert(T('sheet.sharefail', 'Could not share right now. Try again in a moment.')); });
+            });
+        }
         var clear = anyMark ? el('button', { type: 'button', class: 'bs-act' }, [el('i', { class: 'fas fa-eraser', 'aria-hidden': 'true' }), T('sheet.clear', 'Clear')]) : null;
         if (clear) clear.addEventListener('click', function () { applyToSelection({ c: null, b: false }); closeSheet(); });
         var x = el('button', { type: 'button', class: 'bs-x', 'aria-label': 'Close' }, ['×']);
@@ -401,7 +420,7 @@
 
         var inner = el('div', { class: 'bs-sheet-in', role: 'dialog', 'aria-label': 'Highlight ' + refText(here.book, here.chapter, selected) }, [
             el('div', { class: 'bs-sheet-top' }, [el('span', { class: 'bs-sheet-ref', text: refText(here.book, here.chapter, selected) }), x]),
-            el('div', { class: 'bs-row' }, dots.concat([bm, noteBtn, clear])),
+            el('div', { class: 'bs-row' }, dots.concat([bm, noteBtn, shareBtn, clear])),
             note
         ]);
         if (!sheet) { sheet = el('div', { class: 'bs-sheet' }); document.body.appendChild(sheet); }
@@ -591,10 +610,11 @@
 
     function accountLinks() {
         var notesLink = el('a', { href: 'notes.html', text: T('acct.mynotes', 'My notes') });
+        var friendsLink = el('a', { href: 'friends.html', text: T('acct.friends', 'Friends') });
         var priv = el('a', { href: PRIVACY_URL, text: T('acct.privacy', 'Privacy') });
         var del = el('button', { type: 'button', text: T('acct.delete', 'Delete my account') });
         del.addEventListener('click', function () { closePop(); confirmDelete(); });
-        return el('p', { class: 'bs-acct-links' }, [notesLink, priv, del]);
+        return el('p', { class: 'bs-acct-links' }, [notesLink, friendsLink, priv, del]);
     }
 
     // Permanently deletes the account and everything saved with it (the database

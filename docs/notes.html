@@ -213,6 +213,23 @@
             var numbered = el('button', { type: 'button', class: 'nt-tool', 'aria-label': t('notes.numbered', 'Numbered') }, [el('i', { class: 'fas fa-list-ol', 'aria-hidden': 'true' }), t('notes.numbered', 'Numbered')]);
             var status = el('span', { class: 'nt-status', role: 'status' });
             var del = el('button', { type: 'button', class: 'nt-btn danger' }, [el('i', { class: 'fas fa-trash', 'aria-hidden': 'true' }), t('notes.delete', 'Delete note')]);
+            // Share a copy of this note with friends (once Friends is set up on this account).
+            var share = null, friendsOn = null;
+            try { friendsOn = localStorage.getItem('bs-friends'); } catch (e) {}
+            if (user && friendsOn === user.id) {
+                share = el('button', { type: 'button', class: 'nt-btn' }, [el('i', { class: 'fas fa-share-nodes', 'aria-hidden': 'true' }), t('notes.share', 'Share with friends')]);
+                share.addEventListener('click', function () {
+                    if (!n.title.trim() && !n.body.trim()) return;
+                    if (!confirm(t('notes.shareconfirm', 'Share a copy of this note with your friends? Later edits are not shared; you can unshare it on the Friends page.'))) return;
+                    share.disabled = true;
+                    account.ready().then(function (sb) {
+                        return sb.from('shared_items').insert({ owner: user.id, kind: 'note', ref: n.ref || null, title: (n.title || '').slice(0, 200), body: (n.body || '').slice(0, 2000) });
+                    }).then(function (res) {
+                        if (res && res.error) throw res.error;
+                        status.textContent = t('notes.shared', 'Shared with your friends.');
+                    }).catch(function () { status.textContent = t('notes.sharefail', 'Could not share right now.'); }).then(function () { share.disabled = false; });
+                });
+            }
 
             function changed() {
                 n.title = title.value; n.body = body.value; n.t = Date.now(); n.dirty = true;
@@ -286,7 +303,7 @@
                 el('div', { class: 'nt-ref-row' }, [el('i', { class: 'fas fa-book-bible', 'aria-hidden': 'true' }), ref, refLink]),
                 el('div', { class: 'nt-tools' }, [bullet, numbered]),
                 body,
-                el('div', { class: 'nt-foot' }, [status, del])
+                el('div', { class: 'nt-foot' }, [status, el('span', { style: 'display:flex;gap:8px;flex-wrap:wrap' }, [share, del])])
             ]));
             status.textContent = n.dirty ? '' : (user ? t('notes.saved', 'Saved') : '');
             if (!n.title && !n.body) (n.ref ? body : title).focus();
