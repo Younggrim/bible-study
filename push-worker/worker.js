@@ -130,6 +130,38 @@ const DEFAULT_TIMEZONE = 'America/New_York';
 // nudge. The page reports the streak to /studied each time a chapter is
 // marked; the worker never sees what was read, only the date and the count.
 const STREAK_HOUR = 19;
+
+// Friend notifications. A device that has reminders on and is signed in is
+// linked to its Supabase account (/link), so when a friend sends a request
+// or shares a verse or note (/notify), their friends' devices get a push.
+// Both endpoints prove who is calling with the person's own Supabase access
+// token, checked against Supabase itself; the worker holds no secret for it.
+// These two values are public by design (the site's own account.js has them).
+const SUPABASE_URL = 'https://vqgumrfjxlhkzzzfgejl.supabase.co';
+const SUPABASE_KEY = 'sb_publishable_pG2kmWU11t4FShA7JpiHFQ_kpxBoRbW';
+const QUEUE_TTL = 3 * 3600 * 1000;
+
+async function supabase(path, jwt, init) {
+  const resp = await fetch(SUPABASE_URL + path, Object.assign({}, init, {
+    headers: Object.assign({ apikey: SUPABASE_KEY, Authorization: 'Bearer ' + jwt, 'Content-Type': 'application/json' }, (init && init.headers) || {})
+  }));
+  if (!resp.ok) return null;
+  return resp.json();
+}
+async function userFromJwt(jwt) {
+  if (typeof jwt !== 'string' || jwt.length < 20 || jwt.length > 4096) return null;
+  const u = await supabase('/auth/v1/user', jwt);
+  return u && typeof u.id === 'string' ? u.id : null;
+}
+
+// Each subscription keeps a short queue of what its next pushes are about;
+// the service worker reads the front of it through /message.
+function enqueue(sub, item) {
+  const now = Date.now();
+  const q = (Array.isArray(sub.queue) ? sub.queue : []).filter(x => now - x.at < QUEUE_TTL);
+  q.push(Object.assign({ at: now }, item));
+  sub.queue = q.slice(-5);
+}
 const DAY_RE = /^\d{4}-\d{2}-\d{2}$/;
 
 // The calendar date (YYYY-MM-DD) in an IANA timezone, offsetDays from now.
@@ -154,7 +186,7 @@ function streakDue(sub, hour) {
 function carryOver(old) {
   const out = {};
   if (!old) return out;
-  for (const k of ['lastStudied', 'streak', 'streakNotified', 'streakReminders', 'streakText']) {
+  for (const k of ['lastStudied', 'streak', 'streakNotified', 'streakReminders', 'streakText', 'userId', 'friendAlerts']) {
     if (old[k] !== undefined) out[k] = old[k];
   }
   return out;
@@ -281,7 +313,7 @@ async function sendPush(env, mode) {
     }
 
     if (mode !== 'sendToAll' && streakDue(sub, hour)) {
-      sub.pending = { type: 'streak', at: Date.now() };
+      enqueue(sub, { type: 'streak' });
       sub.streakNotified = localDate(sub.timezone, 0);
       await env.PUSH_SUBS.put(key.name, JSON.stringify(sub));
       const r = await deliver(env, privateKey, key.name, sub);
@@ -291,6 +323,12 @@ async function sendPush(env, mode) {
   }
 
   return summary;
+}
+
+async function unlinkUser(env, uid, endpoint) {
+  const list = JSON.parse(await env.PUSH_SUBS.get('user:' + uid) || '[]').filter(e => e !== endpoint);
+  if (list.length) await env.PUSH_SUBS.put('user:' + uid, JSON.stringify(list));
+  else await env.PUSH_SUBS.delete('user:' + uid);
 }
 
 export default {
@@ -374,6 +412,8 @@ export default {
       if (!body || !body.endpoint) {
         return jsonResponse({ error: 'Missing endpoint' }, 400, request);
       }
+      const prev = await env.PUSH_SUBS.get('sub:' + body.endpoint);
+      if (prev) { try { const p = JSON.parse(prev); if (p.userId) await unlinkUser(env, p.userId, body.endpoint); } catch (e) { /* nothing to unlink */ } }
       await env.PUSH_SUBS.delete('sub:' + body.endpoint);
       return jsonResponse({ ok: true }, 200, request);
     }
@@ -426,16 +466,17 @@ export default {
       return jsonResponse({ ok: true }, 200, request);
     }
 
-    // Turn the evening streak reminder on or off without touching the
-    // daily devotional reminder.
+    // Turn the evening streak reminder or friend alerts on or off without
+    // touching the daily devotional reminder.
     if (url.pathname === '/preferences') {
-      if (!body || !body.endpoint || typeof body.streakReminders !== 'boolean') {
+      if (!body || !body.endpoint || (typeof body.streakReminders !== 'boolean' && typeof body.friendAlerts !== 'boolean')) {
         return jsonResponse({ error: 'Invalid' }, 400, request);
       }
       const raw = await env.PUSH_SUBS.get('sub:' + body.endpoint);
       if (!raw) return jsonResponse({ ok: false, subscribed: false }, 200, request);
       const sub = JSON.parse(raw);
-      sub.streakReminders = body.streakReminders;
+      if (typeof body.streakReminders === 'boolean') sub.streakReminders = body.streakReminders;
+      if (typeof body.friendAlerts === 'boolean') sub.friendAlerts = body.friendAlerts;
       await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(sub));
       return jsonResponse({ ok: true }, 200, request);
     }
@@ -448,12 +489,95 @@ export default {
       const raw = await env.PUSH_SUBS.get('sub:' + body.endpoint);
       if (!raw) return jsonResponse({ type: 'devotional' }, 200, request);
       const sub = JSON.parse(raw);
-      if (sub.pending && sub.pending.type === 'streak' && Date.now() - sub.pending.at < 3 * 3600 * 1000) {
-        delete sub.pending;
+      const now = Date.now();
+      const q = (Array.isArray(sub.queue) ? sub.queue : []).filter(x => now - x.at < QUEUE_TTL);
+      if (sub.pending && sub.pending.type === 'streak' && now - sub.pending.at < QUEUE_TTL) q.unshift(sub.pending);   // queued before the queue existed
+      delete sub.pending;
+      const item = q.shift();
+      sub.queue = q;
+      await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(sub));
+      if (!item) return jsonResponse({ type: 'devotional' }, 200, request);
+      if (item.type === 'streak') return jsonResponse({ type: 'streak', streak: sub.streak || 0, text: sub.streakText || '' }, 200, request);
+      return jsonResponse({ type: 'friend', title: item.title, body: item.body, url: item.url || '/friends.html' }, 200, request);
+    }
+
+    // Tie this device's subscription to the signed-in account, so friend
+    // activity can reach it. Re-sent by the page now and then; harmless.
+    if (url.pathname === '/link') {
+      if (!body || !body.endpoint) return jsonResponse({ error: 'Invalid' }, 400, request);
+      const uid = await userFromJwt(body.jwt);
+      if (!uid) return jsonResponse({ error: 'Not signed in' }, 401, request);
+      const raw = await env.PUSH_SUBS.get('sub:' + body.endpoint);
+      if (!raw) return jsonResponse({ ok: false, subscribed: false }, 200, request);
+      const sub = JSON.parse(raw);
+      if (sub.userId && sub.userId !== uid) await unlinkUser(env, sub.userId, body.endpoint);
+      sub.userId = uid;
+      if (typeof body.friendAlerts === 'boolean') sub.friendAlerts = body.friendAlerts;
+      await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(sub));
+      const list = JSON.parse(await env.PUSH_SUBS.get('user:' + uid) || '[]').filter(e => e !== body.endpoint);
+      list.push(body.endpoint);
+      await env.PUSH_SUBS.put('user:' + uid, JSON.stringify(list.slice(-10)));
+      return jsonResponse({ ok: true }, 200, request);
+    }
+
+    // Signing out on a device stops friend pushes to it.
+    if (url.pathname === '/unlink') {
+      if (!body || !body.endpoint) return jsonResponse({ error: 'Invalid' }, 400, request);
+      const raw = await env.PUSH_SUBS.get('sub:' + body.endpoint);
+      if (raw) {
+        const sub = JSON.parse(raw);
+        if (sub.userId) await unlinkUser(env, sub.userId, body.endpoint);
+        delete sub.userId;
         await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(sub));
-        return jsonResponse({ type: 'streak', streak: sub.streak || 0, text: sub.streakText || '' }, 200, request);
       }
-      return jsonResponse({ type: 'devotional' }, 200, request);
+      return jsonResponse({ ok: true }, 200, request);
+    }
+
+    // A friend request was sent, or something was shared: tell the people it
+    // concerns. Who they are comes from Supabase, asked as the sender, so a
+    // caller can only ever reach their own accepted friends (for a share) or
+    // the people they have a pending request with (for a request).
+    if (url.pathname === '/notify') {
+      if (!body || (body.type !== 'share' && body.type !== 'request')) return jsonResponse({ error: 'Invalid' }, 400, request);
+      const uid = await userFromJwt(body.jwt);
+      if (!uid) return jsonResponse({ error: 'Not signed in' }, 401, request);
+      const [people, me] = await Promise.all([
+        supabase('/rest/v1/rpc/friends_list', body.jwt, { method: 'POST', body: '{}' }),
+        supabase('/rest/v1/friend_profiles?select=display_name&user_id=eq.' + encodeURIComponent(uid), body.jwt)
+      ]);
+      const name = (Array.isArray(me) && me[0] && me[0].display_name) || 'A friend';
+      if (!Array.isArray(people)) return jsonResponse({ ok: false }, 200, request);
+      let targets, item;
+      if (body.type === 'share') {
+        targets = people.filter(p => p.status === 'accepted').map(p => p.friend);
+        const what = body.kind === 'note' ? 'a note' : 'a verse';
+        const title = typeof body.title === 'string' ? body.title.slice(0, 80) : '';
+        item = { type: 'friend', title: name + ' shared ' + what, body: title || 'Open Friends to see it.', url: '/friends.html' };
+      } else {
+        targets = [];
+        for (const p of people.filter(x => x.status === 'pending' && !x.incoming)) {
+          const k = 'notified:' + uid + ':' + p.friend;
+          if (await env.PUSH_SUBS.get(k)) continue;
+          await env.PUSH_SUBS.put(k, '1', { expirationTtl: 30 * 86400 });
+          targets.push(p.friend);
+        }
+        item = { type: 'friend', title: 'New friend request', body: name + ' wants to study the Bible with you.', url: '/friends.html' };
+      }
+      const privateKey = await importVapidPrivateKey(env.VAPID_PUBLIC_KEY, env.VAPID_PRIVATE_KEY);
+      let sent = 0;
+      for (const t of targets.slice(0, 200)) {
+        const endpoints = JSON.parse(await env.PUSH_SUBS.get('user:' + t) || '[]');
+        for (const ep of endpoints) {
+          const raw = await env.PUSH_SUBS.get('sub:' + ep);
+          if (!raw) continue;
+          const sub = JSON.parse(raw);
+          if (sub.friendAlerts === false) continue;
+          enqueue(sub, item);
+          await env.PUSH_SUBS.put('sub:' + ep, JSON.stringify(sub));
+          if ((await deliver(env, privateKey, 'sub:' + ep, sub)) === 'sent') sent++;
+        }
+      }
+      return jsonResponse({ ok: true, sent }, 200, request);
     }
 
     return jsonResponse({ error: 'Not found' }, 404, request);

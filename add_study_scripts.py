@@ -29,9 +29,9 @@ import sys
 DOCS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs")
 CHAPTER = re.compile(r"^(\d?[a-z]+?)(\d+)\.html$")
 SCRIPT_JS = re.compile(r'(<script src="site/script\.js(?:\?v=[^"]*)?"></script>)')
-OURS = re.compile(r'\n?[ \t]*<script src="site/(?:account|study|progress|plans-data|plans|translations|i18n)\.js(?:\?v=[^"]*)?"></script>')
-FULL = ["account", "study", "progress", "plans-data", "plans", "translations", "i18n"]
-STAMPED = {"study", "progress", "plans-data", "plans", "translations", "i18n"}
+OURS = re.compile(r'\n?[ \t]*<script src="site/(?:account|study|progress|plans-data|plans|translations|friends-strip|i18n)\.js(?:\?v=[^"]*)?"></script>')
+FULL = ["account", "study", "progress", "plans-data", "plans", "translations", "friends-strip", "i18n"]
+STAMPED = {"account", "study", "progress", "plans-data", "plans", "translations", "friends-strip", "i18n"}
 
 
 def main():
@@ -49,7 +49,7 @@ def main():
             continue
         if name == "index.html" or (CHAPTER.match(name) and 'class="scripture-container"' in text):
             want = FULL
-        elif 'src="site/account.js"' in text:
+        elif 'src="site/account.js' in text:
             want = ["account", "i18n"]          # notes.html, memory.html: pages with their own sign-in
         else:
             want = ["i18n"]
