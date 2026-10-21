@@ -4,7 +4,8 @@ site/script.js tag:
 
     chapter pages, index.html   account.js, study.js (highlights, bookmarks,
                                 "pick up where you left off"), progress.js
-                                (chapters studied, streaks), translations.js
+                                (chapters studied, streaks), plans-data.js and
+                                plans.js (reading plans), translations.js
                                 (other-language Bibles), i18n.js (labels)
     notes.html                  account.js, i18n.js
     every other page with       i18n.js, so the app's bottom bar follows the
@@ -28,9 +29,9 @@ import sys
 DOCS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs")
 CHAPTER = re.compile(r"^(\d?[a-z]+?)(\d+)\.html$")
 SCRIPT_JS = re.compile(r'(<script src="site/script\.js(?:\?v=[^"]*)?"></script>)')
-OURS = re.compile(r'\n?[ \t]*<script src="site/(?:account|study|progress|translations|i18n)\.js(?:\?v=[^"]*)?"></script>')
-FULL = ["account", "study", "progress", "translations", "i18n"]
-STAMPED = {"study", "progress", "translations", "i18n"}
+OURS = re.compile(r'\n?[ \t]*<script src="site/(?:account|study|progress|plans-data|plans|translations|i18n)\.js(?:\?v=[^"]*)?"></script>')
+FULL = ["account", "study", "progress", "plans-data", "plans", "translations", "i18n"]
+STAMPED = {"study", "progress", "plans-data", "plans", "translations", "i18n"}
 
 
 def main():

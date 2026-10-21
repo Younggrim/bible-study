@@ -587,7 +587,7 @@
 
     var PRIVACY_URL = 'privacy.html';
     var LOCAL_KEYS = [K_MARKS, K_POS, K_CURSOR, K_OWNER, 'memory-verses-v1', 'bs-studied', 'bs-days', 'bs-progress-cursor',
-        'bs-progress-owner', 'bs-notes', 'bs-notes-cursor', 'bs-notes-owner'];
+        'bs-progress-owner', 'bs-notes', 'bs-notes-cursor', 'bs-notes-owner', 'bs-plan', 'bs-plan-owner'];
 
     function accountLinks() {
         var notesLink = el('a', { href: 'notes.html', text: T('acct.mynotes', 'My notes') });

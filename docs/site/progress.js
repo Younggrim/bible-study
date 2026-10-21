@@ -275,6 +275,8 @@
 
     window.BibleProgress = {
         streak: streak, studiedCount: studiedCount, isStudied: isStudied,
+        studiedOn: function (p) { return chapters[p] && !chapters[p].r ? chapters[p].d : null; },
+        today: today,
         reset: function () { chapters = {}; days = {}; changed(); },
         onChange: function (fn) { listeners.push(fn); },
         render: render
