@@ -125,6 +125,41 @@ function isValidTimezone(tz) {
 
 const DEFAULT_TIMEZONE = 'America/New_York';
 
+// Streak reminders: at this local hour, anyone with reminders on whose study
+// streak ends tonight (they studied yesterday but not yet today) gets one
+// nudge. The page reports the streak to /studied each time a chapter is
+// marked; the worker never sees what was read, only the date and the count.
+const STREAK_HOUR = 19;
+const DAY_RE = /^\d{4}-\d{2}-\d{2}$/;
+
+// The calendar date (YYYY-MM-DD) in an IANA timezone, offsetDays from now.
+function localDate(tz, offsetDays) {
+  try {
+    return new Intl.DateTimeFormat('en-CA', { timeZone: tz, year: 'numeric', month: '2-digit', day: '2-digit' })
+      .format(new Date(Date.now() + (offsetDays || 0) * 86400000));
+  } catch (e) {
+    return null;
+  }
+}
+
+function streakDue(sub, hour) {
+  if (hour !== STREAK_HOUR || sub.streakReminders === false) return false;
+  if (!Number.isInteger(sub.streak) || sub.streak < 2 || !sub.lastStudied) return false;
+  const today = localDate(sub.timezone, 0), yesterday = localDate(sub.timezone, -1);
+  return sub.lastStudied === yesterday && sub.streakNotified !== today;
+}
+
+// Fields a subscriber's record carries beyond the push subscription itself,
+// kept when they change their reminder time or the browser rotates endpoints.
+function carryOver(old) {
+  const out = {};
+  if (!old) return out;
+  for (const k of ['lastStudied', 'streak', 'streakNotified', 'streakReminders', 'streakText']) {
+    if (old[k] !== undefined) out[k] = old[k];
+  }
+  return out;
+}
+
 // The current local hour (0-23) in an IANA timezone, right now. DST-aware
 // by construction — Intl resolves the real tz-database offset for "now" in
 // that zone, so this doesn't need any manual DST bookkeeping.
@@ -179,10 +214,50 @@ async function buildVapidJWT(privateKey, audience) {
 // each subscriber pick their own reminder time, correctly, across DST.
 // mode 'sendToAll' (used by /send-now for on-demand testing): ignore the
 // per-subscriber hour entirely and send to everyone right now.
+async function deliver(env, privateKey, keyName, sub) {
+  let audience;
+  try {
+    audience = new URL(sub.endpoint).origin;
+  } catch (e) {
+    return 'failed';
+  }
+  try {
+    const jwt = await buildVapidJWT(privateKey, audience);
+    const resp = await fetch(sub.endpoint, {
+      method: 'POST',
+      headers: {
+        'Authorization': `vapid t=${jwt}, k=${env.VAPID_PUBLIC_KEY}`,
+        'TTL': '86400',
+        'Content-Length': '0'
+      }
+    });
+    if (resp.status === 404 || resp.status === 410) {
+      await env.PUSH_SUBS.delete(keyName);
+      return 'expired';
+    }
+    return (resp.ok || resp.status === 201) ? 'sent' : 'failed';
+  } catch (e) {
+    // Network error reaching this push service — leave the subscription
+    // in place and try again on the next scheduled run.
+    return 'failed';
+  }
+}
+
+// Shared by the hourly cron and the manual /send-now debug endpoint.
+// mode 'matchNow' (used by the real hourly cron): for each subscription,
+// compute the current local hour in ITS OWN stored timezone and only send
+// if that equals the subscriber's chosen localHour — this is what lets
+// each subscriber pick their own reminder time, correctly, across DST.
+// The same pass sends the evening streak reminder (see streakDue).
+// mode 'sendToAll' (used by /send-now for on-demand testing): ignore the
+// per-subscriber hour entirely and send the devotional to everyone right now.
+//
+// Pushes carry no payload. The service worker asks /message what to show:
+// a pending streak reminder if one was just queued, otherwise the devotional.
 async function sendPush(env, mode) {
   const privateKey = await importVapidPrivateKey(env.VAPID_PUBLIC_KEY, env.VAPID_PRIVATE_KEY);
   const list = await env.PUSH_SUBS.list({ prefix: 'sub:' });
-  const summary = { total: 0, matched: 0, sent: 0, expired: 0, failed: 0 };
+  const summary = { total: 0, matched: 0, sent: 0, expired: 0, failed: 0, streak: 0 };
 
   for (const key of list.keys) {
     const raw = await env.PUSH_SUBS.get(key.name);
@@ -197,42 +272,21 @@ async function sendPush(env, mode) {
       continue;
     }
 
-    if (mode !== 'sendToAll') {
-      const nowLocalHour = currentLocalHourInTimezone(sub.timezone);
-      if (nowLocalHour === null || nowLocalHour !== sub.localHour) continue;
-    }
-    summary.matched++;
-
-    let audience;
-    try {
-      audience = new URL(sub.endpoint).origin;
-    } catch (e) {
-      summary.failed++;
-      continue;
+    const hour = currentLocalHourInTimezone(sub.timezone);
+    if (mode === 'sendToAll' || (hour !== null && hour === sub.localHour)) {
+      summary.matched++;
+      const r = await deliver(env, privateKey, key.name, sub);
+      summary[r]++;
+      if (r === 'expired') continue;
     }
 
-    try {
-      const jwt = await buildVapidJWT(privateKey, audience);
-      const resp = await fetch(sub.endpoint, {
-        method: 'POST',
-        headers: {
-          'Authorization': `vapid t=${jwt}, k=${env.VAPID_PUBLIC_KEY}`,
-          'TTL': '86400',
-          'Content-Length': '0'
-        }
-      });
-      if (resp.status === 404 || resp.status === 410) {
-        await env.PUSH_SUBS.delete(key.name);
-        summary.expired++;
-      } else if (resp.ok || resp.status === 201) {
-        summary.sent++;
-      } else {
-        summary.failed++;
-      }
-    } catch (e) {
-      // Network error reaching this push service — leave the subscription
-      // in place and try again on the next scheduled run.
-      summary.failed++;
+    if (mode !== 'sendToAll' && streakDue(sub, hour)) {
+      sub.pending = { type: 'streak', at: Date.now() };
+      sub.streakNotified = localDate(sub.timezone, 0);
+      await env.PUSH_SUBS.put(key.name, JSON.stringify(sub));
+      const r = await deliver(env, privateKey, key.name, sub);
+      summary[r]++;
+      if (r === 'sent') summary.streak++;
     }
   }
 
@@ -309,7 +363,9 @@ export default {
       let localHour = Number.isInteger(body.localHour) ? body.localHour : 8;
       if (localHour < 0 || localHour > 23) localHour = 8;
       const timezone = isValidTimezone(body.timezone) ? body.timezone : DEFAULT_TIMEZONE;
-      const record = { endpoint: body.endpoint, keys: body.keys, localHour, timezone };
+      let prior = null;
+      try { prior = JSON.parse(await env.PUSH_SUBS.get('sub:' + body.endpoint) || 'null'); } catch (e) { /* new subscriber */ }
+      const record = Object.assign(carryOver(prior), { endpoint: body.endpoint, keys: body.keys, localHour, timezone });
       await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(record));
       return jsonResponse({ ok: true }, 200, request);
     }
@@ -335,6 +391,7 @@ export default {
       }
       let localHour = 8;
       let timezone = DEFAULT_TIMEZONE;
+      let kept = {};
       if (body.oldEndpoint) {
         const oldRaw = await env.PUSH_SUBS.get('sub:' + body.oldEndpoint);
         if (oldRaw) {
@@ -342,13 +399,61 @@ export default {
             const old = JSON.parse(oldRaw);
             if (Number.isInteger(old.localHour)) localHour = old.localHour;
             if (isValidTimezone(old.timezone)) timezone = old.timezone;
+            kept = carryOver(old);
           } catch (e) { /* fall back to defaults */ }
           await env.PUSH_SUBS.delete('sub:' + body.oldEndpoint);
         }
       }
-      const record = { endpoint: body.endpoint, keys: body.keys, localHour, timezone };
+      const record = Object.assign(kept, { endpoint: body.endpoint, keys: body.keys, localHour, timezone });
       await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(record));
       return jsonResponse({ ok: true }, 200, request);
+    }
+
+    // The page reports the reader's streak after each chapter they mark, so
+    // the evening reminder knows whether tonight is the night it would end.
+    // Only updates an existing subscription; it never creates one.
+    if (url.pathname === '/studied') {
+      if (!body || !body.endpoint || !DAY_RE.test(body.day || '') || !Number.isInteger(body.streak) || body.streak < 0 || body.streak > 100000) {
+        return jsonResponse({ error: 'Invalid' }, 400, request);
+      }
+      const raw = await env.PUSH_SUBS.get('sub:' + body.endpoint);
+      if (!raw) return jsonResponse({ ok: false, subscribed: false }, 200, request);
+      const sub = JSON.parse(raw);
+      sub.lastStudied = body.day;
+      sub.streak = body.streak;
+      if (typeof body.text === 'string') sub.streakText = body.text.slice(0, 200);
+      await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(sub));
+      return jsonResponse({ ok: true }, 200, request);
+    }
+
+    // Turn the evening streak reminder on or off without touching the
+    // daily devotional reminder.
+    if (url.pathname === '/preferences') {
+      if (!body || !body.endpoint || typeof body.streakReminders !== 'boolean') {
+        return jsonResponse({ error: 'Invalid' }, 400, request);
+      }
+      const raw = await env.PUSH_SUBS.get('sub:' + body.endpoint);
+      if (!raw) return jsonResponse({ ok: false, subscribed: false }, 200, request);
+      const sub = JSON.parse(raw);
+      sub.streakReminders = body.streakReminders;
+      await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(sub));
+      return jsonResponse({ ok: true }, 200, request);
+    }
+
+    // Asked by the service worker when a push arrives: which notification is
+    // this one? A streak reminder queued in the last three hours, or the
+    // devotional. Reading it clears it, so it is shown once.
+    if (url.pathname === '/message') {
+      if (!body || !body.endpoint) return jsonResponse({ type: 'devotional' }, 200, request);
+      const raw = await env.PUSH_SUBS.get('sub:' + body.endpoint);
+      if (!raw) return jsonResponse({ type: 'devotional' }, 200, request);
+      const sub = JSON.parse(raw);
+      if (sub.pending && sub.pending.type === 'streak' && Date.now() - sub.pending.at < 3 * 3600 * 1000) {
+        delete sub.pending;
+        await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(sub));
+        return jsonResponse({ type: 'streak', streak: sub.streak || 0, text: sub.streakText || '' }, 200, request);
+      }
+      return jsonResponse({ type: 'devotional' }, 200, request);
     }
 
     return jsonResponse({ error: 'Not found' }, 404, request);

@@ -143,6 +143,37 @@ FIXUPS = {
 }
 
 
+def book_names(path):
+    """Each book's name in the translation's own language, for buttons and headings.
+    \\h, shortened to \\toc2 when that is one whole word of a long \\h ("Gospel of
+    John" -> "John"), and never in capitals ("GENÈSE" -> "Genèse")."""
+    def field(t, tag):
+        m = re.search(r"^\\" + tag + r"\s+(.+?)\s*$", t, re.M)
+        return m.group(1).strip() if m else ""
+    def caps(x):
+        return x and x.upper() == x and x.lower() != x
+    names = {}
+    with zipfile.ZipFile(path) as z:
+        for n in z.namelist():
+            if not n.lower().endswith((".usfm", ".sfm")):
+                continue
+            t = z.read(n).decode("utf-8-sig")
+            m = re.search(r"\\id\s+([A-Z0-9]{3})", t)
+            if not m or m.group(1) not in SLUG:
+                continue
+            h, toc1, toc2, mt1 = field(t, "h"), field(t, "toc1"), field(t, "toc2"), field(t, "mt1")
+            name = h or toc1 or toc2
+            words = name.split()
+            if len(words) >= 2 and toc2 and toc2 != name and toc2 in words:
+                name = toc2
+            if caps(name):
+                short = toc2 if toc2 and not caps(toc2) and len(toc2) >= 0.6 * len(name) else None
+                name = short or next((x for x in (toc1, mt1) if x and not caps(x)), None) or name.title()
+            if name:
+                names[SLUG[m.group(1)]] = name
+    return names
+
+
 def load_zip(path):
     books = {}
     with zipfile.ZipFile(path) as z:
@@ -209,6 +240,8 @@ def main():
             for page, rows in pages.items():
                 with open(os.path.join(d, page + ".json"), "w", encoding="utf-8") as f:
                     json.dump({"v": rows}, f, ensure_ascii=False, separators=(",", ":"))
+            with open(os.path.join(d, "books.json"), "w", encoding="utf-8") as f:
+                json.dump(book_names(zp), f, ensure_ascii=False, separators=(",", ":"))
     sys.exit(1 if bad else 0)
 
 
