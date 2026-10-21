@@ -38,7 +38,21 @@ DOCS = os.path.join(ROOT, "docs")
 OUT = os.path.join(DOCS, "bible")
 
 SOURCES = [("RV09", "spaRV1909"), ("HAU", "hausa"), ("YOR", "yor"),
-           ("IBO", "ibo"), ("URD", "urdgvu"), ("HIN", "hin2017")]
+           ("IBO", "ibo"), ("URD", "urdgvu"), ("HIN", "hin2017"),
+           # India: Indian Revised Version, CC BY-SA 4.0
+           ("BEN", "benirv"), ("TAM", "tam2017"), ("TEL", "tel2017"), ("MAL", "mal"),
+           ("MAR", "mar"), ("GUJ", "guj2017"), ("KAN", "kanirv"), ("ORI", "ory"),
+           ("ASM", "asmfb"), ("PAN", "pan"),
+           ("NEP", "npiulb"),                                   # Unlocked Literal Bible, CC BY-SA 4.0
+           # Africa
+           ("SWA", "swhonen"), ("TWI", "twi"), ("TWA", "twiasante"),   # Biblica Open, CC BY-SA 4.0
+           # world
+           ("ARA", "arb-vd"), ("FRA", "fraLSG"), ("ZHS", "cmn-cu89s"), ("ZHT", "cmn-cu89t"),
+           ("FAS", "pesOPV"), ("VIE", "vie1934"), ("HAT", "hat"),   # public domain
+           # not used: russyn (Russian Synodal) numbers the Psalms the Greek way, so its Psalm 23 is our 24;
+           #           ind (Indonesian) is New Testament plus part of the Old
+           ("POR", "porbr2018"),                                # Biblia Livre, CC BY 4.0
+           ("TGL", "tglulb")]                                   # Unlocked Literal Bible, CC BY-SA 4.0
 
 BOOKS = [("GEN", "genesis"), ("EXO", "exodus"), ("LEV", "leviticus"), ("NUM", "numbers"), ("DEU", "deuteronomy"),
          ("JOS", "joshua"), ("JDG", "judges"), ("RUT", "ruth"), ("1SA", "1samuel"), ("2SA", "2samuel"),
@@ -72,8 +86,8 @@ SPACE = re.compile(r"\s+")
 
 def parse_book(text):
     """Return {chapter: [[verse, text, label|None, title|None], ...]} for one USFM book."""
-    text = NOTES.sub(" ", text)
-    text = FIG.sub(" ", text)
+    text = NOTES.sub("", text)
+    text = FIG.sub("", text)
     text = ATTRS.sub("", text)
     chapters, ch, rows, mode, title = {}, None, None, "skip", []
     pos, cur = 0, None   # cur: the verse row being filled
@@ -91,6 +105,8 @@ def parse_book(text):
         name, closing = m.group(1), m.group(2)
         if closing:
             continue                                   # end of a character style: keep its text
+        if name not in ("c", "v") and pos < len(text) and text[pos] in " \t":
+            pos += 1                                   # the one space after an opening marker belongs to the marker
         if name == "c":
             mm = re.match(r"\s*(\d+)", text[pos:])
             ch = int(mm.group(1)); pos += mm.end()
@@ -118,6 +134,13 @@ def parse_book(text):
         for r in rows:
             r[1] = SPACE.sub(" ", r[1]).strip()
     return chapters
+
+
+# Spacing left by word-by-word markup (\w ... \w*) in two editions. Spaces only; never words.
+FIXUPS = {
+    "FRA": [(re.compile(r"(\w[’'])\s+(?=\w)"), r"\1")],          # qu’ il -> qu’il
+    "RV09": [(re.compile(r"([¡¿])\s+"), r"\1")],                   # ¡ OH -> ¡OH
+}
 
 
 def load_zip(path):
@@ -163,6 +186,9 @@ def main():
                 if page not in ref:
                     diffs.append(f"{page} (no such page)"); continue
                 empty += sum(1 for r in rows if not r[1])
+                for rx, rep in FIXUPS.get(code, []):
+                    for r in rows:
+                        r[1] = rx.sub(rep, r[1])
                 rows = [[r[0], r[1]] + ([r[2]] if r[2] or r[3] else []) + ([r[3]] if r[3] else []) for r in rows if r[1]]
                 pages[page] = rows
                 covered = sum((int(r[2].split("\u2013")[1]) - r[0] + 1) if len(r) > 2 and r[2] else 1 for r in rows)
