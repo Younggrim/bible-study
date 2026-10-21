@@ -359,6 +359,25 @@ LANGS = {
 }
 
 
+# Added with the Plans tab (Oct 2026): the tab label and the plans page title.
+KEYS += ["bn.plans", "plans.title"]
+EN += ["Plans", "Reading Plans"]
+_PLANS = {
+    "es": ["Planes", "Planes de lectura"], "fr": ["Plans", "Plans de lecture"], "pt": ["Planos", "Planos de leitura"],
+    "ar": ["الخطط", "خطط القراءة"], "fa": ["برنامه‌ها", "برنامه‌های مطالعه"], "zh-Hans": ["计划", "读经计划"],
+    "zh-Hant": ["計劃", "讀經計劃"], "vi": ["Kế hoạch", "Kế hoạch đọc Kinh Thánh"], "tl": ["Plano", "Mga Plano sa Pagbasa"],
+    "ht": ["Plan", "Plan lekti"], "ha": ["Tsare-tsare", "Tsare-tsaren karatu"], "yo": ["Ètò", "Ètò kíkà"],
+    "ig": ["Atụmatụ", "Atụmatụ ọgụgụ"], "sw": ["Mipango", "Mipango ya kusoma"], "tw": ["Nhyehyɛe", "Akenkan nhyehyɛe"],
+    "ur": ["منصوبے", "مطالعہ کے منصوبے"], "hi": ["योजनाएँ", "पठन योजनाएँ"], "bn": ["পরিকল্পনা", "পাঠ পরিকল্পনা"],
+    "ta": ["திட்டங்கள்", "வாசிப்புத் திட்டங்கள்"], "te": ["ప్రణాళికలు", "పఠన ప్రణాళికలు"], "ml": ["പദ്ധതികൾ", "വായനാ പദ്ധതികൾ"],
+    "mr": ["योजना", "वाचन योजना"], "gu": ["યોજનાઓ", "વાંચન યોજનાઓ"], "kn": ["ಯೋಜನೆಗಳು", "ಓದುವ ಯೋಜನೆಗಳು"],
+    "or": ["ଯୋଜନା", "ପଠନ ଯୋଜନା"], "as": ["পৰিকল্পনা", "পঠন পৰিকল্পনা"], "pa": ["ਯੋਜਨਾਵਾਂ", "ਪੜ੍ਹਨ ਦੀਆਂ ਯੋਜਨਾਵਾਂ"],
+    "ne": ["योजनाहरू", "पठन योजनाहरू"],
+}
+for _l, _w in _PLANS.items():
+    T[_l] += _w
+
+
 def main():
     out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs", "site", "i18n")
     os.makedirs(out, exist_ok=True)
