@@ -186,7 +186,7 @@ function streakDue(sub, hour) {
 function carryOver(old) {
   const out = {};
   if (!old) return out;
-  for (const k of ['lastStudied', 'streak', 'streakNotified', 'streakReminders', 'streakText', 'userId', 'friendAlerts']) {
+  for (const k of ['lastStudied', 'streak', 'streakNotified', 'streakReminders', 'streakText', 'userId', 'friendAlerts', 'plan', 'planReminders', 'planNotified']) {
     if (old[k] !== undefined) out[k] = old[k];
   }
   return out;
@@ -466,10 +466,27 @@ export default {
       return jsonResponse({ ok: true }, 200, request);
     }
 
+    // The page reports the reader's next reading-plan reading (or null when
+    // they have no plan), and the first day it is due: tomorrow once today's
+    // reading is done. The daily devotional push then also shows it.
+    if (url.pathname === '/plan') {
+      const pl = body && body.plan;
+      const okPlan = pl === null || (pl && typeof pl.title === 'string' && typeof pl.body === 'string'
+        && /^\/[1-3]?[a-z]{2,20}[0-9]{1,3}\.html$/.test(pl.url || '') && DAY_RE.test(pl.readyOn || ''));
+      if (!body || !body.endpoint || !okPlan) return jsonResponse({ error: 'Invalid' }, 400, request);
+      const raw = await env.PUSH_SUBS.get('sub:' + body.endpoint);
+      if (!raw) return jsonResponse({ ok: false, subscribed: false }, 200, request);
+      const sub = JSON.parse(raw);
+      if (pl) sub.plan = { title: pl.title.slice(0, 120), body: pl.body.slice(0, 200), url: pl.url, readyOn: pl.readyOn };
+      else delete sub.plan;
+      await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(sub));
+      return jsonResponse({ ok: true }, 200, request);
+    }
+
     // Turn the evening streak reminder or friend alerts on or off without
     // touching the daily devotional reminder.
     if (url.pathname === '/preferences') {
-      if (!body || !body.endpoint || (typeof body.streakReminders !== 'boolean' && typeof body.friendAlerts !== 'boolean')) {
+      if (!body || !body.endpoint || (typeof body.streakReminders !== 'boolean' && typeof body.friendAlerts !== 'boolean' && typeof body.planReminders !== 'boolean')) {
         return jsonResponse({ error: 'Invalid' }, 400, request);
       }
       const raw = await env.PUSH_SUBS.get('sub:' + body.endpoint);
@@ -477,6 +494,7 @@ export default {
       const sub = JSON.parse(raw);
       if (typeof body.streakReminders === 'boolean') sub.streakReminders = body.streakReminders;
       if (typeof body.friendAlerts === 'boolean') sub.friendAlerts = body.friendAlerts;
+      if (typeof body.planReminders === 'boolean') sub.planReminders = body.planReminders;
       await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(sub));
       return jsonResponse({ ok: true }, 200, request);
     }
@@ -495,8 +513,18 @@ export default {
       delete sub.pending;
       const item = q.shift();
       sub.queue = q;
+      // A devotional push also carries the day's reading-plan reading, once a
+      // day, unless it is already done (readyOn is still ahead) or turned off.
+      let plan = null;
+      if (!item && sub.plan && sub.planReminders !== false) {
+        const today = localDate(sub.timezone, 0);
+        if (today && sub.plan.readyOn <= today && sub.planNotified !== today) {
+          plan = { title: sub.plan.title, body: sub.plan.body, url: sub.plan.url };
+          sub.planNotified = today;
+        }
+      }
       await env.PUSH_SUBS.put('sub:' + body.endpoint, JSON.stringify(sub));
-      if (!item) return jsonResponse({ type: 'devotional' }, 200, request);
+      if (!item) return jsonResponse(plan ? { type: 'devotional', plan } : { type: 'devotional' }, 200, request);
       if (item.type === 'streak') return jsonResponse({ type: 'streak', streak: sub.streak || 0, text: sub.streakText || '' }, 200, request);
       return jsonResponse({ type: 'friend', title: item.title, body: item.body, url: item.url || '/friends.html' }, 200, request);
     }
