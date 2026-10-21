@@ -377,6 +377,13 @@ _PLANS = {
 for _l, _w in _PLANS.items():
     T[_l] += _w
 
+# The chapter page's Notes study tab uses each language's word for Notes.
+_i = KEYS.index("bn.notes")
+KEYS += ["tab.notes"]
+EN += [EN[_i]]
+for _l in T:
+    T[_l] += [T[_l][_i]]
+
 
 def main():
     out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs", "site", "i18n")
