@@ -1,4 +1,4 @@
--- Privacy test for memory_verses, verse_marks and reading_position. Signs in as two fake users and checks that
+-- Privacy test for memory_verses, verse_marks, reading_position and delete_my_account(). Signs in as two fake users and checks that
 -- neither can read, change, delete or take over the other's rows, and that
 -- signed-out visitors get nothing. Everything is rolled back: the final
 -- RAISE carries the verdict and undoes the whole block.
@@ -63,6 +63,22 @@ begin
   update public.reading_position set page = 'john1'; get diagnostics n = row_count; if n <> 0 then failed := failed || ' B-updates-A-position;'; end if;
   perform set_config('request.jwt.claims', json_build_object('sub', a, 'role', 'authenticated')::text, true);
   select count(*) into n from public.verse_marks where color = 'yellow'; if n <> 1 then failed := failed || ' A-mark-changed;'; end if;
+
+  -- Delete my account: B deletes B, and only B. A's rows survive.
+  perform set_config('request.jwt.claims', json_build_object('sub', b, 'role', 'authenticated')::text, true);
+  insert into public.verse_marks (book, chapter, verse, color) values ('john', 3, 16, 'green');
+  perform public.delete_my_account();
+  reset role;
+  select count(*) into n from auth.users where id = b; if n <> 0 then failed := failed || ' B-not-deleted;'; end if;
+  select count(*) into n from public.verse_marks where user_id = b; if n <> 0 then failed := failed || ' B-marks-left;'; end if;
+  select count(*) into n from public.memory_verses where user_id = b; if n <> 0 then failed := failed || ' B-verses-left;'; end if;
+  select count(*) into n from auth.users where id = a; if n <> 1 then failed := failed || ' A-deleted-by-B;'; end if;
+  select count(*) into n from public.verse_marks where user_id = a; if n <> 1 then failed := failed || ' A-marks-lost;'; end if;
+  set local role anon;
+  begin
+    perform public.delete_my_account();
+    failed := failed || ' anon-can-delete;';
+  exception when insufficient_privilege then null; end;
 
   -- Signed-out visitors get nothing
   reset role;

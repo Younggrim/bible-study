@@ -9,12 +9,15 @@ Every table has Row Level Security so a signed-in person reaches only their own
 rows. Never commit a service-role or secret key.
 
 Tables: `memory_verses` (Memory tab), `verse_marks` (highlights and
-bookmarks) and `reading_position` (where each person left off), the last two
-used by `docs/site/study.js`, which `add_study_scripts.py` loads on every
-chapter page and the home page.
+bookmarks), `reading_position`, `chapters_studied` and `study_days` (streaks),
+`notes`, `reading_plans`, and for Friends `friend_profiles`, `friendships`,
+`friend_stats`, `shared_items` with the functions `friend_request`,
+`friend_respond`, `friend_remove`, `friends_list` and `friends_feed`.
+`delete_my_account()` removes a person's account and, by cascade, all of it.
 
     migrations/   schema and RLS policies, in order (already applied to the hosted project)
-    tests/        rls_privacy_test.sql: signs in as two fake users and checks neither can
+    tests/        friends_test.sql: three fake users; friends see each other only after both accept.
+                  rls_privacy_test.sql: signs in as two fake users and checks neither can
                   read, change, delete or take over the other's rows. Runs in a
                   transaction that always rolls back.
 
