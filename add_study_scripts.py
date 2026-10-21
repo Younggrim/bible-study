@@ -7,6 +7,8 @@ site/script.js tag:
                                 (chapters studied, streaks), plans-data.js and
                                 plans.js (reading plans), translations.js
                                 (other-language Bibles), i18n.js (labels)
+    plans.html                  account.js, progress.js, plans-data.js,
+                                plans.js, i18n.js (the app's Plans tab)
     notes.html                  account.js, i18n.js
     every other page with       i18n.js, so the app's bottom bar follows the
     site/script.js              reader's language everywhere
@@ -49,6 +51,8 @@ def main():
             continue
         if name == "index.html" or (CHAPTER.match(name) and 'class="scripture-container"' in text):
             want = FULL
+        elif name == "plans.html":
+            want = ["account", "progress", "plans-data", "plans", "i18n"]
         elif 'src="site/account.js' in text:
             want = ["account", "i18n"]          # notes.html, memory.html: pages with their own sign-in
         else:
