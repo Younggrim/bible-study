@@ -92,6 +92,40 @@ def psalms_proverbs():
     return days
 
 
+def advent():
+    """Dec 1-25: the promise of the Messiah through the Old Testament, then his coming.
+    One chapter a day, ending with the birth on Christmas Day."""
+    return [[p] for p in [
+        "genesis3", "genesis12", "genesis49", "numbers24", "deuteronomy18", "2samuel7", "psalms2", "psalms110",
+        "isaiah7", "isaiah9", "isaiah11", "isaiah40", "isaiah53", "jeremiah23", "micah5", "malachi3", "isaiah61",
+        "luke1", "matthew1", "john1", "galatians4", "philippians2", "hebrews1", "matthew2", "luke2"]]
+
+
+def new_believer():
+    """A first month: Mark's Gospel, then what the good news means (Romans,
+    Ephesians), a few psalms to pray, and 1 John on living it."""
+    return [[p] for p in ch("mark") + [
+        "psalms23", "romans3", "romans5", "ephesians2", "romans8", "psalms51", "romans12", "psalms139", "psalms1"]
+        + ch("1john")]
+
+
+def holy_week():
+    """Palm Sunday to Easter Sunday, a day of readings for each day of the week."""
+    return [
+        ["matthew21"],                          # Sunday: the entry into Jerusalem
+        ["mark11"],                             # Monday: the temple cleared
+        ["matthew23", "matthew24"],             # Tuesday: teaching in the temple and on the Mount of Olives
+        ["matthew26"],                          # Wednesday: anointed at Bethany; Judas agrees to betray him
+        ["john13", "john14", "john17"],         # Thursday: the upper room
+        ["isaiah53", "mark15", "john19"],       # Friday: the cross
+        ["matthew27"],                          # Saturday: the tomb sealed and guarded
+        ["luke24", "john20"],                   # Sunday: he is risen
+    ]
+
+
+PAUL = ["romans", "1corinthians", "2corinthians", "galatians", "ephesians", "philippians", "colossians",
+        "1thessalonians", "2thessalonians", "1timothy", "2timothy", "titus", "philemon"]
+
 PLANS = [
     ("john-21", "Gospel of John in 21 days", [[p] for p in ch("john")]),
     ("nt-90", "New Testament in 90 days", split(nt(), 90)),
@@ -99,6 +133,13 @@ PLANS = [
     ("bible-year", "Bible in a year (chronological)", split(chronological(), 365)),
     ("gospels-40", "Life of Jesus: the four Gospels in 40 days",
      split(ch("matthew") + ch("mark") + ch("luke") + ch("john"), 40)),
+    ("new-believer-30", "New believer: your first 30 days", new_believer()),
+    ("acts-28", "Acts: the early church in 28 days", [[p] for p in ch("acts")]),
+    ("paul-30", "Paul's letters in 30 days", split([p for b in PAUL for p in ch(b)], 30)),
+    ("genesis-50", "Genesis in 50 days", [[p] for p in ch("genesis")]),
+    ("proverbs-31", "Proverbs in a month", [[p] for p in ch("proverbs")]),
+    ("advent-25", "Advent: 25 days to Christmas (start Dec 1)", advent()),
+    ("holy-week-8", "Easter: Holy Week in 8 days (start Palm Sunday)", holy_week()),
 ]
 
 
@@ -112,6 +153,9 @@ def main():
         assert all(days), f"{pid}: an empty day"
         out.append({"id": pid, "name": name, "days": days})
         print(f"{pid}: {len(days)} days, {len(flat)} chapters")
+    days = {p["id"]: len(p["days"]) for p in out}
+    assert days["advent-25"] == 25 and days["new-believer-30"] == 30 and days["holy-week-8"] == 8 and days["paul-30"] == 30
+    assert len({p["id"] for p in out}) == len(out), "plan ids must be unique"
     year = next(p for p in out if p["id"] == "bible-year")
     assert {p for d in year["days"] for p in d} == every, "bible-year must cover every chapter"
     path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs", "site", "plans-data.js")
