@@ -136,7 +136,18 @@
         + '.bs-acct-pop{position:fixed;z-index:9500;background:#fff;color:var(--ink-deep);border:1px solid var(--border-light);border-radius:10px;box-shadow:0 8px 28px rgba(0,0,0,.16);padding:14px 16px;width:260px;font-family:"Inter",-apple-system,sans-serif}'
         + '.bs-acct-pop p{margin:0 0 10px;font-size:.85rem;line-height:1.45;color:var(--text-secondary);word-break:break-word}'
         + '.bs-acct-row{margin-top:16px;padding-top:14px;border-top:1px solid var(--rule-soft);font-size:.85rem;color:var(--text-secondary);font-family:"Inter",-apple-system,sans-serif;text-align:center;line-height:1.5}'
-        + '.bs-acct-row .bs-act{display:block;width:100%;margin-top:8px}';
+        + '.bs-acct-row .bs-act{display:block;width:100%;margin-top:8px}'
+        + '.bs-acct-links{margin:12px 0 0;font-size:.8rem;display:flex;gap:14px;flex-wrap:wrap}'
+        + '.bs-acct-row .bs-acct-links{justify-content:center}'
+        + '.bs-acct-links a,.bs-acct-links button{color:var(--text-faint);font:inherit;font-size:.8rem;background:none;border:0;padding:0;text-decoration:underline;cursor:pointer}'
+        + '.bs-modal{position:fixed;inset:0;z-index:100001;background:rgba(20,14,10,.55);display:flex;align-items:center;justify-content:center;padding:16px}'
+        + '.bs-modal-in{background:#fff;color:var(--ink-deep);max-width:400px;width:100%;border-radius:14px;padding:22px 20px;font-family:"Inter",-apple-system,sans-serif;box-shadow:0 10px 40px rgba(0,0,0,.25)}'
+        + '.bs-modal-in h2{font-family:"Poppins","Inter",sans-serif;font-size:1.15rem;margin:0 0 8px}'
+        + '.bs-modal-in p{font-size:.9rem;line-height:1.55;color:var(--text-secondary);margin:0 0 12px}'
+        + '.bs-danger{display:block;width:100%;margin-top:6px;font-family:inherit;font-weight:600;font-size:.95rem;padding:12px;border-radius:8px;border:1px solid #a33a2f;background:#a33a2f;color:#fff;cursor:pointer}'
+        + '.bs-danger:disabled{opacity:.6;cursor:default}'
+        + '.bs-modal-in .bs-act{display:block;width:100%;margin-top:8px;text-align:center}'
+        + '.bs-modal-err{color:#a33a2f;font-size:.85rem;min-height:1.2em;margin:8px 0 0}';
 
     function injectStyle() {
         if (!document.getElementById('bs-study-style')) document.head.appendChild(el('style', { id: 'bs-study-style', text: STYLE }));
@@ -569,13 +580,69 @@
         Promise.resolve(user ? syncNow() : null).then(function () { return account.signOut(); });
     }
 
+    var PRIVACY_URL = 'privacy.html';
+    var LOCAL_KEYS = [K_MARKS, K_POS, K_CURSOR, K_OWNER, 'memory-verses-v1'];
+
+    function accountLinks() {
+        var priv = el('a', { href: PRIVACY_URL, text: 'Privacy' });
+        var del = el('button', { type: 'button', text: 'Delete my account' });
+        del.addEventListener('click', function () { closePop(); confirmDelete(); });
+        return el('p', { class: 'bs-acct-links' }, [priv, del]);
+    }
+
+    // Permanently deletes the account and everything saved with it (the database
+    // function delete_my_account() cascades to every table), then clears this device.
+    function confirmDelete() {
+        if (!user || document.querySelector('.bs-modal')) return;
+        injectStyle();
+        var err = el('p', { class: 'bs-modal-err', role: 'alert' });
+        var go = el('button', { type: 'button', class: 'bs-danger', text: 'Delete my account and data' });
+        var cancel = el('button', { type: 'button', class: 'bs-act', text: 'Cancel' });
+        var last = document.activeElement;
+        var modal = el('div', { class: 'bs-modal' }, [el('div', { class: 'bs-modal-in', role: 'alertdialog', 'aria-modal': 'true', 'aria-labelledby': 'bs-del-title' }, [
+            el('h2', { id: 'bs-del-title', text: 'Delete your account?' }),
+            el('p', {}, ['This permanently deletes the account for ', el('strong', { text: user.email || 'this email' }),
+                ' and everything saved with it: highlights, bookmarks, your reading place and memory verses, on every device. It cannot be undone.']),
+            el('p', { text: 'You can keep using the site without an account, and sign up again any time.' }),
+            go, cancel, err
+        ])]);
+        function close() { modal.remove(); document.removeEventListener('keydown', onKey); if (last && last.focus) try { last.focus(); } catch (e) {} }
+        function onKey(e) { if (e.key === 'Escape' && !go.disabled) close(); }
+        cancel.addEventListener('click', close);
+        modal.addEventListener('click', function (e) { if (e.target === modal && !go.disabled) close(); });
+        document.addEventListener('keydown', onKey);
+        go.addEventListener('click', function () {
+            go.disabled = true; cancel.disabled = true; go.textContent = 'Deleting…'; err.textContent = '';
+            account.ready().then(function (sb) { return sb.rpc('delete_my_account'); }).then(function (res) {
+                if (res && res.error) throw res.error;
+                LOCAL_KEYS.forEach(function (k) { try { localStorage.removeItem(k); } catch (e) {} });
+                marks = {}; position = null;
+                return account.signOut().catch(function () {});
+            }).then(function () {
+                paintMarks(); renderHome();
+                modal.querySelector('.bs-modal-in').replaceChildren(
+                    el('h2', { text: 'Your account is deleted' }),
+                    el('p', { text: 'Your account and everything saved with it have been removed. Thank you for studying with us.' }),
+                    (function () { var b = el('button', { type: 'button', class: 'bs-act', text: 'Close' }); b.addEventListener('click', close); return b; })());
+            }).catch(function (e) {
+                var offline = e && /fetch|network|offline|Load failed/i.test(e.message || '');
+                err.textContent = offline ? 'You seem to be offline. Nothing was deleted. Try again when you are back online.'
+                    : 'Your account could not be deleted just now. Nothing was removed. Please try again later.';
+                go.disabled = false; cancel.disabled = false; go.textContent = 'Delete my account and data';
+            });
+        });
+        document.body.appendChild(modal);
+        cancel.focus();
+    }
+
     function openPop() {
         if (acctPop) { closePop(); return; }
         var out = el('button', { type: 'button', class: 'bs-act', text: 'Sign out on this device' });
         out.addEventListener('click', doSignOut);
         acctPop = el('div', { class: 'bs-acct-pop', role: 'dialog', 'aria-label': 'Your account' }, [
             el('p', {}, ['Signed in as ', el('strong', { text: (user && user.email) || 'your account' }), '. Your place, highlights, bookmarks and memory verses are saved to your account.']),
-            out
+            out,
+            accountLinks()
         ]);
         document.body.appendChild(acctPop);
         var r = acctBtn.getBoundingClientRect();
@@ -615,13 +682,14 @@
                 var out = el('button', { type: 'button', class: 'bs-link', text: 'Sign out' });
                 out.addEventListener('click', doSignOut);
                 acctRow.replaceChildren(el('i', { class: 'fas fa-user-check', 'aria-hidden': 'true', style: 'color:var(--accent-link);margin-right:6px' }),
-                    'Signed in as ', el('strong', { text: user.email || 'your account' }), '. ', out);
+                    'Signed in as ', el('strong', { text: user.email || 'your account' }), '. ', out, accountLinks());
             } else if (checking) {
                 acctRow.replaceChildren('Checking your sign-in…');
             } else {
                 var b = el('button', { type: 'button', class: 'bs-act' }, [el('i', { class: 'far fa-user', 'aria-hidden': 'true' }), 'Sign in to save your study']);
                 b.addEventListener('click', function () { account.openSignIn({ reason: SIGNIN_REASON }); });
-                acctRow.replaceChildren('Keep your place, highlights and memory verses on every device.', b);
+                acctRow.replaceChildren('Keep your place, highlights and memory verses on every device.', b,
+                    el('p', { class: 'bs-acct-links' }, [el('a', { href: PRIVACY_URL, text: 'Privacy' })]));
             }
         }
     }
