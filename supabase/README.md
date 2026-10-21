@@ -8,6 +8,11 @@ project URL and publishable key (both public by design) and the sign-in dialog.
 Every table has Row Level Security so a signed-in person reaches only their own
 rows. Never commit a service-role or secret key.
 
+Tables: `memory_verses` (Memory tab), `verse_marks` (highlights and
+bookmarks) and `reading_position` (where each person left off), the last two
+used by `docs/site/study.js`, which `add_study_scripts.py` loads on every
+chapter page and the home page.
+
     migrations/   schema and RLS policies, in order (already applied to the hosted project)
     tests/        rls_privacy_test.sql: signs in as two fake users and checks neither can
                   read, change, delete or take over the other's rows. Runs in a
@@ -33,3 +38,10 @@ In the Supabase dashboard for this project:
    must show the code, `{{ .Token }}`, not only a link. (A first-time sign-in can
    be sent with the Confirm signup template.) Copying Upheld's templates works.
 3. Authentication > Sign In / Providers > Email: OTP length 6.
+
+## Free plan pauses the project
+
+On the free plan Supabase pauses a project after about a week with no
+traffic. While paused, sign-in and syncing fail quietly (pages keep working
+from what is saved on the device). It was found paused and restored on
+21 Oct 2026. If sign-in stops working, check the project status first.
