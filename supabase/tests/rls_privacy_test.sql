@@ -1,4 +1,4 @@
--- Privacy test for memory_verses. Signs in as two fake users and checks that
+-- Privacy test for memory_verses, verse_marks and reading_position. Signs in as two fake users and checks that
 -- neither can read, change, delete or take over the other's rows, and that
 -- signed-out visitors get nothing. Everything is rolled back: the final
 -- RAISE carries the verdict and undoes the whole block.
@@ -43,12 +43,41 @@ begin
   exception when insufficient_privilege or check_violation or unique_violation then null; end;
   select count(*) into n from public.memory_verses where text = 'Sample verse text.'; if n <> 1 then failed := failed || ' A-row-changed;'; end if;
 
+  -- Highlights and reading position: A writes, B sees and changes nothing
+  insert into public.verse_marks (book, chapter, verse, color) values ('luke', 6, 20, 'yellow');
+  insert into public.reading_position (page, verse) values ('luke6', 20);
+  begin
+    insert into public.verse_marks (user_id, book, chapter, verse, color) values (b, 'luke', 6, 21, 'blue');
+    failed := failed || ' A-marked-as-B;';
+  exception when insufficient_privilege or check_violation then null; end;
+  begin
+    insert into public.reading_position (user_id, page) values (b, 'john1');
+    failed := failed || ' A-positioned-as-B;';
+  exception when insufficient_privilege or check_violation then null; end;
+
+  perform set_config('request.jwt.claims', json_build_object('sub', b, 'role', 'authenticated')::text, true);
+  select count(*) into n from public.verse_marks; if n <> 0 then failed := failed || ' B-reads-A-marks;'; end if;
+  select count(*) into n from public.reading_position; if n <> 0 then failed := failed || ' B-reads-A-position;'; end if;
+  update public.verse_marks set color = 'pink'; get diagnostics n = row_count; if n <> 0 then failed := failed || ' B-updates-A-marks;'; end if;
+  delete from public.verse_marks; get diagnostics n = row_count; if n <> 0 then failed := failed || ' B-deletes-A-marks;'; end if;
+  update public.reading_position set page = 'john1'; get diagnostics n = row_count; if n <> 0 then failed := failed || ' B-updates-A-position;'; end if;
+  perform set_config('request.jwt.claims', json_build_object('sub', a, 'role', 'authenticated')::text, true);
+  select count(*) into n from public.verse_marks where color = 'yellow'; if n <> 1 then failed := failed || ' A-mark-changed;'; end if;
+
   -- Signed-out visitors get nothing
   reset role;
   set local role anon;
   begin
     select count(*) into n from public.memory_verses;
     failed := failed || ' anon-can-select(' || n || ');';
+  exception when insufficient_privilege then null; end;
+  begin
+    select count(*) into n from public.verse_marks;
+    failed := failed || ' anon-can-select-marks(' || n || ');';
+  exception when insufficient_privilege then null; end;
+  begin
+    select count(*) into n from public.reading_position;
+    failed := failed || ' anon-can-select-position(' || n || ');';
   exception when insufficient_privilege then null; end;
   reset role;
 
