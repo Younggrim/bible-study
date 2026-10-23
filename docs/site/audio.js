@@ -20,18 +20,14 @@
    and a silent utterance; whichever the answer needs is then allowed to play.
 
    Continuous play (on by default) carries on into the next chapter when one
-   ends, in the same translation and speed, through book boundaries, and
-   stops after Revelation 22. The next chapter is swapped into this page
-   rather than loaded, because loading a page destroys the <audio> element,
-   and iOS will not start sound on a new page without a tap, nor at all while
-   the phone is locked. So the same element just changes src, and the page
-   follows: <main>, the sidebar, title and pickers come from the next
-   chapter's HTML (fetched ahead of time), the address changes with
-   pushState, and a "bible-chapter" event tells the other chapter scripts
-   (study.js, translations.js, progress.js, plans.js, chapter-notes.js,
-   i18n.js, mapgeo.js, script.js) to set themselves up for it. Going back or
-   forward afterwards reloads properly. Next and previous follow the page's
-   own chapter arrows (script.js), so they use the site's book order.
+   ends: an ordinary visit to the next chapter's page, which then starts
+   playing in the same translation and speed. Next and previous follow the
+   page's own chapter arrows (script.js), so book boundaries use the site's
+   book order, and it stops after Revelation 22. Halfway through a chapter
+   the next page and its recording are fetched, so the next one starts
+   quickly. A browser that will not start sound on a page nobody has tapped
+   yet (iPhone, always; and while the phone is locked nothing can start)
+   gets a "Keep listening" button instead.
 
    Speed and continuous play are remembered: in the account
    (user_metadata.audio_rate, user_metadata.audio_continuous) when signed in,
@@ -79,6 +75,8 @@
         + '.bs-audio-rate{margin-left:auto;font:inherit;color:var(--ink-deep);background:#fff;border:1px solid var(--border-medium);border-radius:6px;padding:6px 8px;min-height:36px}'
         + '.bs-audio-cont{display:inline-flex;align-items:center;gap:6px;cursor:pointer;white-space:nowrap}'
         + '.bs-audio-cont input{width:16px;height:16px;margin:0;accent-color:var(--accent-link)}'
+        + '.bs-audio-keep{display:inline-flex;align-items:center;gap:8px;min-height:40px;padding:0 16px;border-radius:20px;border:none;background:var(--accent-link);color:#fff;font:inherit;font-weight:600;cursor:pointer}'
+        + '.bs-audio-keep[hidden]{display:none}'
         + '.bs-audio-credit{flex-basis:100%;margin:0;font-size:.72rem;line-height:1.5;color:var(--text-faint)}'
         + '.bs-audio-credit:empty{display:none}'
         + '.bs-audio-credit a{color:inherit}'
@@ -110,8 +108,15 @@
     var contLabel = el('label', 'bs-audio-cont');
     contLabel.append(contBox, t('audio.continuous', 'Continuous play'));
     contLabel.title = t('audio.continuous.note', 'When a chapter ends, go on to the next one');
+    // Shown when this chapter was reached by continuous play but the browser wants a tap to start it.
+    var keepBtn = el('button', 'bs-audio-keep');
+    keepBtn.type = 'button';
+    keepBtn.hidden = true;
+    var keepIcon = el('i', 'fas fa-play');
+    keepIcon.setAttribute('aria-hidden', 'true');
+    keepBtn.append(keepIcon, t('audio.keep', 'Keep listening'));
     var credit = el('p', 'bs-audio-credit');
-    bar.append(srcLabel, contLabel, rateSel, credit);
+    bar.append(keepBtn, srcLabel, contLabel, rateSel, credit);
     container.parentNode.insertBefore(bar, container);
     var picker = document.querySelector('.top-nav select.nav-translation');
     var inNav = !!picker;
@@ -173,7 +178,6 @@
     var engine = null;           // 'media' | 'speech'
     var gen = 0;                 // bumped by stop(); late answers for an older generation are dropped
     var found = {};              // "translation|chapter" -> lookup answer, for this page view
-    var swapping = false;        // true while a chapter is being swapped in, so switchTranslation() does not stop playback
     var audio = null, timings = [], verses = [], verseIndex = 0, utterance = null;
 
     function currentTranslation() {
@@ -183,6 +187,7 @@
 
     function setState(s) {
         state = s;
+        if (s !== 'paused') keepBtn.hidden = true;
         icon.className = s === 'playing' ? 'fas fa-pause' : s === 'loading' ? 'fas fa-spinner fa-spin' : 'fas fa-play';
         playText.textContent = s === 'playing' ? t('audio.pause', 'Pause') : s === 'paused' ? t('audio.resume', 'Resume')
             : s === 'loading' ? t('audio.loading', 'Loading…') : t('audio.listen', 'Listen');
@@ -361,7 +366,8 @@
         a.playbackRate = rate;
         setState('playing');
         var p = a.play();
-        if (p && p.catch) p.catch(function () { if (engine === 'media') setState('paused'); });
+        if (p && p.then) p.then(function () { autostart = false; });
+        if (p && p.catch) p.catch(function (e) { if (engine !== 'media') return; if (e && e.name === 'NotAllowedError' && autostart) askForTap(); else setState('paused'); });
         // Some browsers reset the speed when a new source loads.
         a.addEventListener('loadedmetadata', function once() { a.removeEventListener('loadedmetadata', once); a.playbackRate = rate; });
     }
@@ -485,8 +491,8 @@
         });
     }
 
-    // The verses of a block. A chapter just swapped in fetches its ESV or
-    // other-language text, so wait for it (up to 10 seconds).
+    // The verses of a block. A chapter just opened by continuous play may still
+    // be fetching its ESV or other-language text, so wait for it (up to 10 seconds).
     function textOf(block) {
         var list = block ? readVerses(block) : [];
         if (list.length || !block) return Promise.resolve(list);
@@ -518,14 +524,19 @@
         u.onend = function () { if (utterance === u && state === 'playing') speakFrom(i + 1); };
         u.onerror = function (e) {
             if (utterance !== u || e.error === 'interrupted' || e.error === 'canceled') return;
+            if (e.error === 'not-allowed' && autostart) { askForTap(); return; }
             stop();
         };
+        // iPhone neither speaks nor says why when no one has tapped the page yet.
+        if (autostart && i === 0) setTimeout(function () { if (utterance === u && !u.__started && state === 'playing') askForTap(); }, 2500);
+        var started = u.onstart;
+        u.onstart = function (e) { u.__started = true; autostart = false; if (started) started(e); };
         utterance = u;   // keep a reference: Chrome drops events for utterances it has garbage-collected
         highlight(verses[i].v);
         synth.speak(u);
     }
 
-    /* ---------- continuous play: the next chapter, in this page ---------- */
+    /* ---------- continuous play: on to the next chapter's page ---------- */
 
     // The chapter the page's own arrows point to (script.js builds them in the
     // site's book order: Malachi 4 -> Matthew 1, nothing after Revelation 22).
@@ -535,26 +546,16 @@
         return m ? m[1] : null;
     }
 
-    var pages = {};   // chapter -> Promise of its HTML
-    function fetchPage(pg) {
-        if (!pages[pg]) {
-            pages[pg] = fetch(pg + '.html').then(function (r) {
-                if (!r.ok) throw new Error(r.status);
-                return r.text();
-            });
-            pages[pg].catch(function () { delete pages[pg]; });
-        }
-        return pages[pg];
-    }
-
-    // Ready the next chapter before this one ends: its page, and its recording,
-    // so that when this one ends the next can start straight away.
+    // Halfway through, fetch the next page and look up its recording, so both
+    // come from the browser's cache when it opens.
     var readied = null;
     function prefetchNext() {
         var pg = neighbour('next'), code = currentTranslation().code;
         if (!continuous || !pg || readied === code + '|' + pg) return;
         readied = code + '|' + pg;
-        fetchPage(pg).catch(function () {});
+        var link = document.createElement('link');
+        link.rel = 'prefetch'; link.href = pg + '.html';
+        document.head.appendChild(link);
         lookup(code, pg);
     }
 
@@ -567,71 +568,43 @@
         if (continuous && last) showSource({ source: 'unavailable', message: t('audio.end', END_MESSAGE) });
     }
 
-    // Carry on into chapter pg: same translation, same speed, same <audio> element.
+    // On to chapter pg: note that it should carry on playing, then an ordinary visit.
+    var HANDOFF = 'bs-audio-handoff';
     function goChapter(pg) {
-        var code = currentTranslation().code, ready = found[code + '|' + pg];
+        try { sessionStorage.setItem(HANDOFF, JSON.stringify({ page: pg, t: currentTranslation().code, at: Date.now() })); } catch (e) {}
+        location.href = pg + '.html';
+    }
+
+    // Arrived here by continuous play: start, in the translation that was playing.
+    var autostart = false;
+    function carryOn() {
+        var h = null;
+        try { h = JSON.parse(sessionStorage.getItem(HANDOFF)); sessionStorage.removeItem(HANDOFF); } catch (e) {}
+        if (!h || h.page !== page || Date.now() - h.at > 120000) return;
+        var tr = currentTranslation();
+        if (tr.code !== h.t) return;
+        autostart = true;
         var my = ++gen;
-        // iOS: when the recording is already known, start it now, inside the
-        // 'ended' event or the lock-screen button press, before anything waits.
-        var early = isRecording(ready);
-        if (early) playRecording(ready);
-        else {
-            if (audio) audio.pause();
-            if (window.speechSynthesis) { utterance = null; window.speechSynthesis.cancel(); }
-            setState('loading');
-        }
-        clearHighlight();
-        fetchPage(pg).then(function (html) {
-            if (my !== gen) return;
-            if (!swapTo(pg, html, code)) throw new Error('swap');
-            if (early) { showSource(ready); setMediaSession(code, ready); return; }
-            return lookup(code, pg).then(function (answer) {
-                if (my === gen) begin(answer, currentTranslation());
-            });
-        }).catch(function () {
-            // Offline, or a page that is not shaped like a chapter: an ordinary visit instead.
-            if (my === gen) location.href = pg + '.html';
+        setState('loading');
+        lookup(tr.code, page).then(function (answer) {
+            if (my === gen) begin(answer, currentTranslation());
         });
     }
+    // After script.js has put back the saved translation.
+    if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', carryOn);
+    else setTimeout(carryOn, 0);
 
-    var swapped = false;
-    function swapTo(pg, html, code) {
-        var doc = new DOMParser().parseFromString(html, 'text/html');
-        var main = document.querySelector('main.main-content'), next = doc.querySelector('main.main-content');
-        if (!main || !next || !next.querySelector('.scripture-container')) return false;
-
-        bar.remove();
-        main.replaceWith(document.adoptNode(next));
-        var side = document.querySelector('aside.left-sidebar'), nextSide = doc.querySelector('aside.left-sidebar');
-        if (side && nextSide) { nextSide.className = side.className; side.replaceWith(document.adoptNode(nextSide)); }
-        ['bookSelect', 'chapterSelect'].forEach(function (id) {
-            var mine = document.getElementById(id), theirs = doc.getElementById(id);
-            if (mine && theirs) { mine.innerHTML = theirs.innerHTML; mine.value = theirs.value; }
-        });
-        document.title = doc.title;
-        var desc = document.querySelector('meta[name="description"]'), nextDesc = doc.querySelector('meta[name="description"]');
-        if (desc && nextDesc) desc.setAttribute('content', nextDesc.getAttribute('content'));
-
-        page = pg;
-        container = document.querySelector('.scripture-container');
-        container.parentNode.insertBefore(bar, container);
-        history.pushState({ bsChapter: pg }, '', pg + '.html');
-        swapped = true;
-        window.scrollTo(0, 0);
-        shownVerse = 0;
-
-        // Everything else on the page sets itself up for the new chapter, then
-        // this translation is shown (and its text fetched, for the ESV and other languages).
-        swapping = true;
-        try {
-            window.dispatchEvent(new CustomEvent('bible-chapter', { detail: { page: pg } }));
-            if (typeof window.switchTranslation === 'function') window.switchTranslation(code);
-        } finally { swapping = false; }
-        return true;
+    // This browser wants a tap before it will play here.
+    function askForTap() {
+        if (engine === 'speech' && window.speechSynthesis) { utterance = null; window.speechSynthesis.cancel(); }
+        setState('paused');
+        keepBtn.hidden = false;
+        srcLabel.textContent = t('audio.tap', 'Tap Keep listening to carry on.');
+        credit.replaceChildren();
+        syncBar();
+        autostart = false;
     }
-
-    // Back or forward after a swap: load that address properly.
-    window.addEventListener('popstate', function () { if (swapped) location.reload(); });
+    keepBtn.addEventListener('click', function () { if (state === 'paused') resume(); });
 
     /* ---------- lock screen, Control Center and headphone controls ---------- */
 
@@ -672,11 +645,10 @@
         window.switchTranslation = function (code) {
             var before = currentTranslation().code;
             original(code);
-            if (swapping) return;
             if (code !== before || state !== 'idle') { stop(); showSource(null); }
         };
     }
-    // Leaving the page (any visit other than continuous play's swap). Safari can keep speaking across one, so cancel it.
+    // Leaving the page. Safari can keep speaking across a page load, so cancel it.
     window.addEventListener('pagehide', function () { stop(); });
     window.addEventListener('pageshow', function (e) { if (e.persisted) { stop(); showSource(null); } });
 
