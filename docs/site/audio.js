@@ -44,11 +44,18 @@
         return n;
     }
 
-    /* ---------- player bar ---------- */
+    /* ---------- the button (top bar) and the strip above the text ----------
+       The play button sits in the fixed top bar beside the translation picker,
+       so it stays in reach while scrolling through the chapter. The strip above
+       the text holds what goes with it: where the sound comes from, the speed,
+       and the publisher's credit. It appears once someone starts listening.  */
 
     var STYLE = ''
         + '.bs-audio{display:flex;flex-wrap:wrap;align-items:center;gap:8px 12px;margin:0 0 14px;padding:10px 12px;border:1px solid var(--border-light);border-radius:10px;background:var(--bg-tint-2);font-family:"Inter",-apple-system,sans-serif;font-size:.85rem;color:var(--text-secondary)}'
-        + '.bs-audio-play{display:inline-flex;align-items:center;gap:8px;min-height:40px;padding:0 16px;border-radius:20px;border:1px solid var(--accent-link);background:var(--accent-link);color:#fff;font:inherit;font-weight:600;cursor:pointer}'
+        + '.bs-audio[hidden]{display:none}'
+        + '.bs-audio-play{display:inline-flex;align-items:center;justify-content:center;gap:6px;padding:6px 12px;border-radius:6px;border:none;background:var(--accent-link);color:#fff;font-family:"Inter",-apple-system,sans-serif;font-size:.85rem;font-weight:600;cursor:pointer;white-space:nowrap}'
+        + '.bs-audio-play i{width:1em;text-align:center}'
+        + '@media (max-width:600px){.top-nav .bs-audio-play{padding:5px 0;width:32px;min-height:30px}.top-nav .bs-audio-label{display:none}}'
         + '.bs-audio-play:disabled{opacity:.55;cursor:default}'
         + '.bs-audio-play:focus-visible,.bs-audio-rate:focus-visible{outline:2px solid var(--accent-link);outline-offset:2px}'
         + '.bs-audio-src{color:var(--text-muted)}'
@@ -69,7 +76,7 @@
     playBtn.type = 'button';
     var icon = el('i', 'fas fa-play');
     icon.setAttribute('aria-hidden', 'true');
-    var playText = el('span', null, t('audio.listen', 'Listen'));
+    var playText = el('span', 'bs-audio-label', t('audio.listen', 'Listen'));
     playBtn.append(icon, playText);
     var srcLabel = el('span', 'bs-audio-src');
     srcLabel.setAttribute('aria-live', 'polite');
@@ -81,8 +88,15 @@
         rateSel.appendChild(o);
     });
     var credit = el('p', 'bs-audio-credit');
-    bar.append(playBtn, srcLabel, rateSel, credit);
+    bar.append(srcLabel, rateSel, credit);
     container.parentNode.insertBefore(bar, container);
+    var picker = document.querySelector('.top-nav select.nav-translation');
+    var inNav = !!picker;
+    if (inNav) picker.parentNode.insertBefore(playBtn, picker.nextSibling);
+    else bar.insertBefore(playBtn, bar.firstChild);   // a page without the top bar keeps everything together
+
+    // Hidden until there is something to say: playing, paused, or a message.
+    function syncBar() { bar.hidden = inNav && state === 'idle' && !srcLabel.textContent; }
 
     /* ---------- playback speed, remembered ---------- */
 
@@ -133,6 +147,9 @@
         icon.className = s === 'playing' ? 'fas fa-pause' : s === 'loading' ? 'fas fa-spinner fa-spin' : 'fas fa-play';
         playText.textContent = s === 'playing' ? t('audio.pause', 'Pause') : s === 'paused' ? t('audio.resume', 'Resume')
             : s === 'loading' ? t('audio.loading', 'Loading…') : t('audio.listen', 'Listen');
+        playBtn.setAttribute('aria-label', playText.textContent);
+        playBtn.title = playText.textContent;
+        syncBar();
         if ('mediaSession' in navigator) {
             try { navigator.mediaSession.playbackState = s === 'playing' ? 'playing' : s === 'paused' ? 'paused' : 'none'; } catch (e) {}
         }
@@ -141,7 +158,11 @@
     function showSource(answer) {
         srcLabel.replaceChildren();
         credit.replaceChildren();
-        if (!answer) return;
+        if (answer) fillSource(answer);
+        syncBar();
+    }
+
+    function fillSource(answer) {
         if (answer.source === 'esv' || answer.source === 'fcbh') {
             srcLabel.append(el('b', null, answer.source === 'esv' ? t('audio.esv', 'ESV audio') : t('audio.recording', 'Audio recording')),
                 answer.source === 'fcbh' ? ' · Faith Comes By Hearing' + (answer.drama ? ' · ' + t('audio.drama', 'dramatized') : '') : '');
