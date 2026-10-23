@@ -6,7 +6,8 @@ site/script.js tag:
                                 "pick up where you left off"), progress.js
                                 (chapters studied, streaks), plans-data.js and
                                 plans.js (reading plans), translations.js
-                                (other-language Bibles), i18n.js (labels)
+                                (other-language Bibles), i18n.js (labels);
+                                chapter pages also get audio.js (Listen)
     plans.html                  account.js, progress.js, plans-data.js,
                                 plans.js, i18n.js (the app's Plans tab)
     notes.html                  account.js, i18n.js
@@ -31,9 +32,9 @@ import sys
 DOCS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs")
 CHAPTER = re.compile(r"^(\d?[a-z]+?)(\d+)\.html$")
 SCRIPT_JS = re.compile(r'(<script src="site/script\.js(?:\?v=[^"]*)?"></script>)')
-OURS = re.compile(r'\n?[ \t]*<script src="site/(?:account|study|progress|plans-data|plans|translations|friends-strip|chapter-notes|i18n)\.js(?:\?v=[^"]*)?"></script>')
+OURS = re.compile(r'\n?[ \t]*<script src="site/(?:account|study|progress|plans-data|plans|translations|friends-strip|chapter-notes|i18n|audio)\.js(?:\?v=[^"]*)?"></script>')
 FULL = ["account", "study", "progress", "plans-data", "plans", "translations", "friends-strip", "chapter-notes", "i18n"]
-STAMPED = {"account", "study", "progress", "plans-data", "plans", "translations", "friends-strip", "chapter-notes", "i18n"}
+STAMPED = {"account", "study", "progress", "plans-data", "plans", "translations", "friends-strip", "chapter-notes", "i18n", "audio"}
 
 
 def main():
@@ -49,7 +50,9 @@ def main():
         m = SCRIPT_JS.search(stripped)
         if not m:
             continue
-        if name == "index.html" or (CHAPTER.match(name) and 'class="scripture-container"' in text):
+        if CHAPTER.match(name) and 'class="scripture-container"' in text:
+            want = FULL + ["audio"]         # after translations.js, whose switchTranslation() it wraps
+        elif name == "index.html":
             want = FULL
         elif name == "plans.html":
             want = ["account", "progress", "plans-data", "plans", "i18n"]

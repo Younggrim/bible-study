@@ -48,3 +48,31 @@ On the free plan Supabase pauses a project after about a week with no
 traffic. While paused, sign-in and syncing fail quietly (pages keep working
 from what is saved on the device). It was found paused and restored on
 21 Oct 2026. If sign-in stops working, check the project status first.
+
+## Edge Function: bible-audio (Listen button)
+
+`functions/bible-audio` finds an official recording of a chapter for the
+Listen button (`docs/site/audio.js`). It returns the publisher's MP3 URL, never
+audio bytes, and holds the API keys so the static site never sees them.
+
+    ESV          ESV API /v3/passage/audio/ (the redirect target is returned)
+    everything   Bible Brain (Faith Comes By Hearing), only for translations
+    else         mapped in BIBLE_BRAIN in handler.ts to the same edition
+    no match     {"source":"none"}: the page uses the device's speech voice
+
+Secrets (Dashboard > Edge Functions > Secrets, or the CLI):
+
+    supabase secrets set --project-ref vqgumrfjxlhkzzzfgejl ESV_API_TOKEN=...    # same token as esv-proxy-worker
+    supabase secrets set --project-ref vqgumrfjxlhkzzzfgejl BIBLE_BRAIN_KEY=...  # optional; without it, no Bible Brain audio
+
+Deploy (JWT verification off, see config.toml):
+
+    supabase functions deploy bible-audio --no-verify-jwt --project-ref vqgumrfjxlhkzzzfgejl
+
+Before relying on Bible Brain, confirm the ID table against the real catalogue:
+
+    BIBLE_BRAIN_KEY=... python3 find_bible_brain_audio.py
+
+Tests (Node 22, no keys or network):
+
+    node --experimental-strip-types --test supabase/functions/bible-audio/handler.test.mjs
