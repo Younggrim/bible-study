@@ -1,0 +1,8 @@
+# Only what differs from the Supabase CLI defaults.
+project_id = "bible-study"
+
+# The site calls this with no Authorization header (the publishable key is not
+# a JWT), so the gateway must not demand one. Access is limited by origin in
+# handler.ts instead, the same rule as esv-proxy-worker.
+[functions.bible-audio]
+verify_jwt = false
