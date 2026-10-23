@@ -209,7 +209,8 @@
     function fillSource(answer) {
         if (answer.source === 'esv' || answer.source === 'fcbh') {
             srcLabel.append(el('b', null, answer.source === 'esv' ? t('audio.esv', 'ESV audio') : t('audio.recording', 'Audio recording')),
-                answer.source === 'fcbh' ? ' · Faith Comes By Hearing' + (answer.drama ? ' · ' + t('audio.drama', 'dramatized') : '') : '');
+                answer.source === 'fcbh' ? ' · Faith Comes By Hearing' + (answer.drama ? ' · ' + t('audio.drama', 'dramatized') : '') : '',
+                answer.source === 'esv' ? ' · ' + t('audio.approx', 'verse shading is approximate') : '');
             if (answer.credit) {
                 credit.append(answer.credit.text + ' ');
                 if (answer.credit.link) {
@@ -258,7 +259,7 @@
             try { audio.load(); } catch (e) {}
         }
         if (window.speechSynthesis) { utterance = null; window.speechSynthesis.cancel(); }
-        engine = null; timings = []; verses = []; verseIndex = 0; shownVerse = 0; readied = null;
+        engine = null; timings = []; verses = []; verseIndex = 0; shownVerse = 0; readied = null; estimating = false;
         clearHighlight();
         setState('idle');
     }
@@ -360,6 +361,8 @@
         if (window.speechSynthesis) { utterance = null; window.speechSynthesis.cancel(); }
         engine = 'media';
         timings = answer.timings || [];
+        // The ESV's recordings come with no verse timings; estimate them (see estimateTimings).
+        estimating = !timings.length && answer.source === 'esv';
         shownVerse = 0;
         a.src = answer.url;
         a.defaultPlaybackRate = rate;
@@ -369,7 +372,11 @@
         if (p && p.then) p.then(function () { autostart = false; });
         if (p && p.catch) p.catch(function (e) { if (engine !== 'media') return; if (e && e.name === 'NotAllowedError' && autostart) askForTap(); else setState('paused'); });
         // Some browsers reset the speed when a new source loads.
-        a.addEventListener('loadedmetadata', function once() { a.removeEventListener('loadedmetadata', once); a.playbackRate = rate; });
+        a.addEventListener('loadedmetadata', function once() {
+            a.removeEventListener('loadedmetadata', once);
+            a.playbackRate = rate;
+            if (estimating) estimate(a);
+        });
     }
 
     function begin(answer, tr) {
@@ -440,6 +447,76 @@
     }
 
     var SKIP = '.verse-num,.chapter-num,.bs-bm,.copyright,.extra_text,.footnote,.footnotes,sup,.bs-credit,.bs-msg';
+    var TITLES = 'h4.psalm-title,h4.psalm-acrostic-title';
+
+    /* ---------- estimated shading for the ESV's recordings ----------
+       Crossway's MP3s carry no verse timings, and its server does not allow
+       the page to analyse the sound (no CORS), so where each verse starts is
+       estimated from the text: the recording's length is shared out in
+       proportion to each verse's syllables, plus the pauses a reader makes
+       at the end of each line of poetry and after a psalm's title. The
+       recordings start straight into verse 1, do not read section headings,
+       do read a psalm's title ("A Psalm of David."), and end about 0.4
+       seconds after the last word.
+
+       Measured against word timings transcribed from ESV recordings (John
+       3, Genesis 2, Romans 8, Mark 1, Psalms 1, 23 and 121), each chapter
+       checked with weights fitted on the others: syllables beat characters
+       and words, punctuation weights did not hold up on chapters they were
+       not fitted to, and a line of poetry pauses for about 3 syllables' time,
+       a psalm title for about 9. The shading is typically about a second
+       from the reader and on the right verse 80-90% of the time. The label
+       says it is approximate.                                               */
+    var EST_TAIL = 0.4, EST_LINE = 3, EST_TITLE = 9;
+    var estimating = false;
+
+    function syllables(text) {
+        return (text.match(/[A-Za-z\u2019']+/g) || []).reduce(function (n, w) {
+            return n + Math.max(1, (w.toLowerCase().replace(/e$/, '').match(/[aeiouy]+/g) || []).length);
+        }, 0);
+    }
+
+    function estimateTimings(block, duration) {
+        var byVerse = {}, order = [], lead = '', last = null;
+        block.querySelectorAll('[data-v],.line,' + TITLES).forEach(function (n) {
+            if (n.matches(TITLES)) { lead += ' ' + n.textContent; return; }
+            // A new line of poetry: the reader paused at the end of the line before,
+            // which belongs to the verse being read then.
+            if (n.matches('.line')) { if (last) byVerse[last].lines++; return; }
+            if (n.closest(SKIP)) return;
+            var c = n.cloneNode(true);
+            c.querySelectorAll(SKIP).forEach(function (x) { x.remove(); });
+            var text = c.textContent.replace(/\s+/g, ' ');
+            if (!/[^\s()]/.test(text)) return;
+            var v = n.getAttribute('data-v');
+            if (!(v in byVerse)) { byVerse[v] = { lead: lead, text: '', lines: 0 }; order.push(v); lead = ''; }
+            byVerse[v].text += text;
+            last = v;
+        });
+        if (!order.length || !(duration > 0)) return [];
+        var parts = order.map(function (v) {
+            var d = byVerse[v], title = syllables(d.lead);
+            return { v: parseInt(v, 10), before: title ? title + EST_TITLE : 0, own: syllables(d.text) + EST_LINE * d.lines };
+        });
+        var total = parts.reduce(function (a, p) { return a + p.before + p.own; }, 0);
+        if (!total) return [];
+        var span = Math.max(duration - EST_TAIL, 1), at = 0;
+        return parts.map(function (p) {
+            at += p.before;
+            var start = span * at / total;
+            at += p.own;
+            return [p.v, start];
+        });
+    }
+
+    // Once the recording's length is known, and the ESV text has arrived.
+    function estimate(a) {
+        var my = gen, block = currentTranslation().block;
+        textOf(block).then(function () {
+            if (my !== gen || !estimating || engine !== 'media') return;
+            timings = estimateTimings(block, a.duration);
+        });
+    }
     function readVerses(block) {
         var byVerse = {}, order = [];
         block.querySelectorAll('[data-v]').forEach(function (n) {
