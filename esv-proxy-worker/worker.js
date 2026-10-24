@@ -22,9 +22,19 @@ const ALLOWED_ORIGINS = [
   'http://127.0.0.1'
 ];
 
+// Exact match on scheme + host (+ any port for localhost). A prefix check
+// would also accept https://bible.macdwellings.com.evil.example.
+const LOCAL_HOSTS = ['localhost', '127.0.0.1'];
+function isAllowedOrigin(value) {
+  let u;
+  try { u = new URL(value); } catch { return false; }
+  if (LOCAL_HOSTS.includes(u.hostname)) return u.protocol === 'http:';
+  return ALLOWED_ORIGINS.includes(u.origin);
+}
+
 function getCorsHeaders(request) {
   const origin = request.headers.get('Origin') || '';
-  const allowedOrigin = ALLOWED_ORIGINS.find(o => origin.startsWith(o)) ? origin : ALLOWED_ORIGINS[0];
+  const allowedOrigin = isAllowedOrigin(origin) ? origin : ALLOWED_ORIGINS[0];
   return {
     'Access-Control-Allow-Origin': allowedOrigin,
     'Access-Control-Allow-Methods': 'GET, OPTIONS',
@@ -59,8 +69,8 @@ export default {
     // stop anyone from spoofing an arbitrary header value with curl/script.
     const origin = request.headers.get('Origin') || '';
     const referer = request.headers.get('Referer') || '';
-    const originOk = origin && ALLOWED_ORIGINS.some(o => origin.startsWith(o));
-    const refererOk = !origin && referer && ALLOWED_ORIGINS.some(o => referer.startsWith(o));
+    const originOk = origin && isAllowedOrigin(origin);
+    const refererOk = !origin && referer && isAllowedOrigin(referer);
     if (!originOk && !refererOk) {
       return new Response(JSON.stringify({ error: 'Forbidden' }), {
         status: 403,

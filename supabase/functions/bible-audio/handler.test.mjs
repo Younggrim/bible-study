@@ -34,6 +34,9 @@ test("pages and ESV names", () => {
 test("rejects other origins and bad input", async () => {
   const f = fakeFetch([]);
   assert.equal((await handle(req("t=ESV&page=john3", { Origin: "https://evil.example" }), env({}), f)).status, 403);
+  assert.equal((await handle(req("t=ESV&page=john3", { Origin: "https://bible.macdwellings.com.evil.example" }), env({}), f)).status, 403);
+  assert.equal((await handle(req("t=ESV&page=john3", { Origin: "http://localhost.evil.example" }), env({}), f)).status, 403);
+  assert.equal((await handle(req("t=ESV&page=john3", { Referer: "https://bible.macdwellings.com.evil.example/x" }), env({}), f)).status, 403);
   assert.equal((await handle(req("t=ESV&page=john3", {}), env({}), f)).status, 403);
   assert.equal((await handle(req("t=ESV&page=nope1"), env({}), f)).status, 400);
   assert.equal(f.calls.length, 0);

@@ -93,10 +93,20 @@ export function esvName(slug: string): string {
   return (m[1] ? m[1] + " " : "") + m[2][0].toUpperCase() + m[2].slice(1);
 }
 
+// Exact match on scheme + host (+ any port for localhost). A prefix check
+// would also accept https://bible.macdwellings.com.evil.example.
+const LOCAL_HOSTS = ["localhost", "127.0.0.1"];
+export function isAllowedOrigin(value: string): boolean {
+  let u: URL;
+  try { u = new URL(value); } catch { return false; }
+  if (LOCAL_HOSTS.includes(u.hostname)) return u.protocol === "http:";
+  return ALLOWED_ORIGINS.includes(u.origin);
+}
+
 function cors(req: Request): Record<string, string> {
   const origin = req.headers.get("Origin") || "";
   return {
-    "Access-Control-Allow-Origin": ALLOWED_ORIGINS.some((o) => origin.startsWith(o)) ? origin : ALLOWED_ORIGINS[0],
+    "Access-Control-Allow-Origin": isAllowedOrigin(origin) ? origin : ALLOWED_ORIGINS[0],
     "Access-Control-Allow-Methods": "GET, OPTIONS",
     "Access-Control-Allow-Headers": "Content-Type",
     "Access-Control-Max-Age": "86400",
@@ -120,8 +130,8 @@ function json(req: Request, body: unknown, status = 200, maxAge = 0): Response {
 function allowed(req: Request): boolean {
   const origin = req.headers.get("Origin") || "";
   const referer = req.headers.get("Referer") || "";
-  if (origin) return ALLOWED_ORIGINS.some((o) => origin.startsWith(o));
-  return !!referer && ALLOWED_ORIGINS.some((o) => referer.startsWith(o));
+  if (origin) return isAllowedOrigin(origin);
+  return !!referer && isAllowedOrigin(referer);
 }
 
 /* ---------- ESV ---------- */
