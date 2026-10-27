@@ -228,6 +228,21 @@ DROP_ARTICLE_URLS = {
         "a podcast episode page, not a written article",
     "https://www.crossway.org/articles/tyndale-500-year-anniversary-doc/":
         "promotional, a documentary announcement",
+    "https://www.crossway.org/articles/for-you-this-life-is-either-the-best-it-will-ever-get-or-the-worst-it-will-ever-get/":
+        "a heaven excerpt with no single passage at its center; Revelation 21 "
+        "already carries a heaven article from the same book",
+    "https://www.crossway.org/articles/how-nancy-guthrie-began-to-see-jesus-in-more-than-just-prophecies/":
+        "an author interview promoting a book, not a teaching article",
+    "https://www.crossway.org/articles/a-devotional-for-tired-ministers/":
+        "written for pastors, and there is no page on ministry",
+    "https://www.crossway.org/articles/church-history-for-everyone-from-the-early-church-to-the-middle-ages/":
+        "church history, and there is no page for it to sit on",
+    "https://www.crossway.org/articles/podcast-the-secret-to-happiness-and-why-we-keep-missing-it-jen-oshman/":
+        "a podcast episode page, not a written article",
+    "https://www.crossway.org/articles/sneak-peek-the-esv-symphony-of-scripture/":
+        "product announcement, not teaching",
+    "https://www.crossway.org/articles/the-life-work-and-legacy-of-william-tyndale/":
+        "church history, and there is no page for it to sit on",
 }
 
 LINK = ('<a href="{url}" target="_blank" rel="noopener" '
@@ -357,6 +372,11 @@ NO_BOOK_OF = {"psalms", "songofsolomon", "lamentations"}
 # These are hand-checked. Every URL here returned 200 when it was added. An
 # article that treats a passage spanning two chapters is listed under both.
 CHAPTER_ARTICLES = {
+    ("genesis", 1): [
+        ("Crossway", CW + "where-the-story-of-jesus-begins/",
+         "How the creation account sets up the whole story of Jesus, read "
+         "alongside John 1."),
+    ],
     ("genesis", 3): [
         ("Crossway", CW + "how-jesus-fulfilled-a-prophecy-from-genesis-3/",
          "How the promise made to the serpent in this chapter is read as the "
@@ -1003,6 +1023,9 @@ TOPIC_ARTICLES = {
         ("Crossway", CW + "3-reasons-to-consider-using-a-devotional-with-your-family/",
          "A case for a regular family devotional time, and what a good one "
          "gives parents and children."),
+        ("Crossway", CW + "is-my-kid-growing-in-christ/",
+         "How parents can recognize real spiritual growth in a child, even "
+         "when it looks small."),
     ],
     "pride.html": [
         ("GotQuestions.org", GQ + "Bible-verses-about-pride.html",
