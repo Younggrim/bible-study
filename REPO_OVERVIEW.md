@@ -93,6 +93,11 @@ and no server.
   The bottom-nav change lives in `site/script.js`, which New River keeps its own
   copy of: port that change there by hand when mirroring.
 
+**Hebrew and Greek** are a seventh picker entry (`ORIG`), plus a *Hebrew* /
+*Greek* button in the verse sheet that goes word by word and opens a lexicon.
+Fetched from `docs/bible/ORIG/` like the other-language Bibles; see
+"Original languages" in `WORKFLOW.md`.
+
 Adding another translation means: the block on 1189 pages, the `<option>` on 1190
 pages, `TRANSLATION_COLORS` **in both repos**, the PWA info panel **in both
 repos**, and the homepage Translation Guide.
