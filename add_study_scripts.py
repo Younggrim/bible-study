@@ -32,9 +32,9 @@ import sys
 DOCS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs")
 CHAPTER = re.compile(r"^(\d?[a-z]+?)(\d+)\.html$")
 SCRIPT_JS = re.compile(r'(<script src="site/script\.js(?:\?v=[^"]*)?"></script>)')
-OURS = re.compile(r'\n?[ \t]*<script src="site/(?:account|study|progress|plans-data|plans|translations|friends-strip|chapter-notes|i18n|audio)\.js(?:\?v=[^"]*)?"></script>')
-FULL = ["account", "study", "progress", "plans-data", "plans", "translations", "friends-strip", "chapter-notes", "i18n"]
-STAMPED = {"account", "study", "progress", "plans-data", "plans", "translations", "friends-strip", "chapter-notes", "i18n", "audio"}
+OURS = re.compile(r'\n?[ \t]*<script src="site/(?:account|study|progress|plans-data|plans|translations|original|friends-strip|chapter-notes|i18n|audio)\.js(?:\?v=[^"]*)?"></script>')
+FULL = ["account", "study", "progress", "plans-data", "plans", "translations", "original", "friends-strip", "chapter-notes", "i18n"]
+STAMPED = {"account", "study", "progress", "plans-data", "plans", "translations", "original", "friends-strip", "chapter-notes", "i18n", "audio"}
 
 
 def main():
