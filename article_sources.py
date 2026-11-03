@@ -243,6 +243,21 @@ DROP_ARTICLE_URLS = {
         "product announcement, not teaching",
     "https://www.crossway.org/articles/the-life-work-and-legacy-of-william-tyndale/":
         "church history, and there is no page for it to sit on",
+    "https://www.crossway.org/articles/what-can-we-do-to-care-for-and-honor-the-elderly-in-our-churches/":
+        "a real piece on caring for the elderly, but there is no page on aging "
+        "for it to sit on -- revisit if one is added",
+    "https://www.crossway.org/articles/10-things-you-should-know-about-the-westminster-confession-of-faith/":
+        "church history, and there is no page for it to sit on",
+    "https://www.crossway.org/articles/how-christians-can-overcome-polarization-and-engage-in-culture-with-civility/":
+        "cultural commentary, and there is no page for it to sit on",
+    "https://www.crossway.org/articles/honoring-god-and-his-word-on-the-occasion-of-the-25th-anniversary-of-the-esv/":
+        "promotional, the ESV anniversary",
+    "https://www.crossway.org/articles/introducing-a-coffee-table-book-that-should-be-in-every-christian-home/":
+        "product announcement, not teaching",
+    "https://www.crossway.org/articles/introducing-pilgrims-progress-the-graphic-novel/":
+        "product announcement, not teaching",
+    "https://www.crossway.org/articles/podcast-can-our-prodigal-culture-find-its-way-back-home-andrew-walker/":
+        "a podcast episode page, not a written article",
 }
 
 LINK = ('<a href="{url}" target="_blank" rel="noopener" '
@@ -845,6 +860,9 @@ CHAPTER_ARTICLES = {
         ("GotQuestions.org", GQ + "Revelation-22-18-19.html",
          "The warning against adding to or taking from the words of this "
          "book, and its scope."),
+        ("Crossway", CW + "from-paradise-lost-to-paradise-restored/",
+         "How the Bible's story runs from Eden lost to Eden restored, with the "
+         "river and tree of life returning in this chapter."),
     ],
 }
 
@@ -888,6 +906,11 @@ BOOK_ARTICLES = {
         ("BibleProject", BP + "isaiah-messianic-king/",
          "On the whole book: the promised king who runs through Isaiah from "
          "beginning to end."),
+    ],
+    "ruth": [
+        ("Crossway", CW + "how-the-book-of-ruth-points-us-to-christ/",
+         "On the whole book: how Boaz's kindness and his role as "
+         "kinsman-redeemer foreshadow Christ."),
     ],
     "romans": [
         ("Crossway", CW + "why-romans-is-the-greatest-letter-ever-written/",
