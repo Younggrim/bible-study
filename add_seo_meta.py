@@ -8,7 +8,7 @@ Each page gets, fenced between <!-- seo --> and <!-- /seo --> right after its
     <meta name="description">      what a search result shows under the title
     <link rel="canonical">         the one URL search engines should index
     og:title / og:description / og:url / og:type / og:site_name / og:image
-    twitter:card                    what a shared link previews as
+    twitter:card                    what a shared link previews as (a large card, from site/share/)
 
 Descriptions come from the page itself: a chapter page uses its Summary tab
 (verse ranges dropped, cut at a word boundary), the topical, life-study and
@@ -102,6 +102,13 @@ def attr(s):
     return html.escape(s, quote=True)
 
 
+def share_card(name):
+    """The page's own 1200x630 card in site/share/ (make_cards.py), else the default."""
+    stem = name[:-5]
+    own = os.path.join(DOCS, "site", "share", stem + ".png")
+    return stem if stem != "default" and os.path.exists(own) else "default"
+
+
 def block(name, h, domain):
     title = html.unescape(re.search(r"<title>(.*?)</title>", h, re.S).group(1)).strip()
     desc = PAGE_DESCRIPTIONS.get(name) or chapter_description(h)
@@ -117,8 +124,10 @@ def block(name, h, domain):
         f'<meta property="og:title" content="{attr(title)}">',
         f'<meta property="og:description" content="{attr(desc)}">',
         f'<meta property="og:url" content="{url}">',
-        f'<meta property="og:image" content="https://{domain}/site/icon-512.png">',
-        '<meta name="twitter:card" content="summary">',
+        f'<meta property="og:image" content="https://{domain}/site/share/{share_card(name)}.png">',
+        '<meta property="og:image:width" content="1200">',
+        '<meta property="og:image:height" content="630">',
+        '<meta name="twitter:card" content="summary_large_image">',
         "<!-- /seo -->",
     ]
     return "\n    ".join(lines)
