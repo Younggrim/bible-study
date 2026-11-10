@@ -32,9 +32,20 @@ const ALLOWED_ORIGINS = [
 
 const VAPID_SUBJECT = 'mailto:admin@macdwellings.com';
 
+// Exact match on scheme + host (+ any port for localhost). A prefix check
+// would also accept https://bible.macdwellings.com.evil.example. Same rule
+// as esv-proxy-worker and the bible-audio function.
+const LOCAL_HOSTS = ['localhost', '127.0.0.1'];
+function isAllowedOrigin(value) {
+  let u;
+  try { u = new URL(value); } catch { return false; }
+  if (LOCAL_HOSTS.includes(u.hostname)) return u.protocol === 'http:';
+  return ALLOWED_ORIGINS.includes(u.origin);
+}
+
 function getCorsHeaders(request) {
   const origin = request.headers.get('Origin') || '';
-  const allowedOrigin = ALLOWED_ORIGINS.find(o => origin.startsWith(o)) ? origin : ALLOWED_ORIGINS[0];
+  const allowedOrigin = isAllowedOrigin(origin) ? origin : ALLOWED_ORIGINS[0];
   return {
     'Access-Control-Allow-Origin': allowedOrigin,
     'Access-Control-Allow-Methods': 'POST, OPTIONS',
@@ -46,8 +57,8 @@ function getCorsHeaders(request) {
 function originAllowed(request) {
   const origin = request.headers.get('Origin') || '';
   const referer = request.headers.get('Referer') || '';
-  const originOk = origin && ALLOWED_ORIGINS.some(o => origin.startsWith(o));
-  const refererOk = !origin && referer && ALLOWED_ORIGINS.some(o => referer.startsWith(o));
+  const originOk = origin && isAllowedOrigin(origin);
+  const refererOk = !origin && referer && isAllowedOrigin(referer);
   return originOk || refererOk;
 }
 
