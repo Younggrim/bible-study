@@ -258,6 +258,23 @@ DROP_ARTICLE_URLS = {
         "product announcement, not teaching",
     "https://www.crossway.org/articles/podcast-can-our-prodigal-culture-find-its-way-back-home-andrew-walker/":
         "a podcast episode page, not a written article",
+    "https://www.crossway.org/articles/two-misconceptions-that-lead-some-to-reject-the-idea-of-hell/":
+        "a real teaching piece, but there is no page on hell or judgment for it "
+        "to sit on -- revisit if one is added",
+    "https://www.crossway.org/articles/how-should-christians-think-about-ai/":
+        "cultural commentary, and there is no page for it to sit on",
+    "https://www.crossway.org/articles/the-westminster-confessions-shortest-chapter-reveals-the-warmth-of-its-theology/":
+        "confession and church history, and there is no page for it",
+    "https://www.crossway.org/articles/the-story-of-one-of-historys-most-important-theologians/":
+        "church history, and there is no page for it to sit on",
+    "https://www.crossway.org/articles/an-inside-look-at-pilgrims-progress-the-graphic-novel/":
+        "promotional, a product feature",
+    "https://www.crossway.org/articles/the-challenges-and-benefits-of-adapting-the-pilgrims-progress-into-a-graphic-novel/":
+        "promotional, a product feature",
+    "https://www.crossway.org/articles/introducing-the-biggest-story-bible-storybook-spanish-edition/":
+        "product announcement, not teaching",
+    "https://www.crossway.org/articles/podcast-how-to-help-your-teens-scroll-less-and-live-more-samuel-james/":
+        "a podcast episode page, not a written article",
 }
 
 LINK = ('<a href="{url}" target="_blank" rel="noopener" '
@@ -772,6 +789,11 @@ CHAPTER_ARTICLES = {
          "The instruction about women keeping silent, and the readings that "
          "have been offered of it."),
     ],
+    ("2corinthians", 1): [
+        ("Crossway", CW + "taking-a-closer-look-at-2-corinthians-1811/",
+         "Why Paul admits he was burdened beyond his strength, and what that "
+         "does to the idea that God never gives us more than we can handle."),
+    ],
     ("galatians", 3): [
         ("GotQuestions.org", GQ + "neither-Jew-nor-Greek-Galatians-3-28.html",
          "What 'neither Jew nor Greek, neither slave nor free' claims, and "
@@ -1256,6 +1278,9 @@ TOPIC_ARTICLES = {
         ("GotQuestions.org", GQ + "Jesus-God-one-Deuteronomy-6-4.html",
          "How the confession that God is one sits alongside the deity of "
          "Christ."),
+        ("Crossway", CW + "did-jesus-really-claim-to-be-god/",
+         "The places in the Gospels where Jesus speaks and acts as only God "
+         "can, taken one at a time."),
     ],
     "women-of-the-bible.html": [
         ("GotQuestions.org", GQ + "women-in-the-Bible.html",
