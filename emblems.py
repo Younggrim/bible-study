@@ -58,6 +58,7 @@ E = {
     "the-12-apostles": _ring(12, 32, 32, 22, 3.6) + '<path d="M32 21V43"/><path d="M24 28H40"/>',
     "the-gospel": '<path d="M32 8V56"/><path d="M19 22H45"/><path d="M22 12L17 7"/><path d="M42 12L47 7"/><path d="M12 30L6 28"/><path d="M52 30L58 28"/>',
     "the-trinity": '<circle cx="32" cy="24" r="13"/><circle cx="22.5" cy="40" r="13"/><circle cx="41.5" cy="40" r="13"/>',
+    "marriage-and-family": '<circle cx="25" cy="36" r="13"/><circle cx="39" cy="36" r="13"/><path d="M32 9L36.5 14.500L32 20L27.5 14.500Z"/>',
     "types-of-christ": '<path d="M20 57V16"/><path d="M44 57V16"/><path d="M13 16H51"/><path d="M13 57H51"/><circle cx="26" cy="16" r="2.2" fill="currentColor" stroke="none"/><circle cx="32" cy="16" r="2.2" fill="currentColor" stroke="none"/><circle cx="38" cy="16" r="2.2" fill="currentColor" stroke="none"/><circle cx="20" cy="30" r="2.2" fill="currentColor" stroke="none"/><circle cx="20" cy="42" r="2.2" fill="currentColor" stroke="none"/><circle cx="44" cy="30" r="2.2" fill="currentColor" stroke="none"/><circle cx="44" cy="42" r="2.2" fill="currentColor" stroke="none"/>',
     "women-of-the-bible": '<circle cx="32" cy="15" r="8"/><path d="M24 17C21 24 21 31 25 35"/><path d="M40 17C43 24 43 31 39 35"/><path d="M32 25L22 35L10 57H54L42 35Z"/>',
 }

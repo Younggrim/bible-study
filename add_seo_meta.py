@@ -103,10 +103,16 @@ def attr(s):
 
 
 def share_card(name):
-    """The page's own 1200x630 card in site/share/ (make_cards.py), else the default."""
+    """The page's own 1200x630 card in site/share/ (make_cards.py); a chapter page
+    uses its book's card; anything else gets the default."""
     stem = name[:-5]
-    own = os.path.join(DOCS, "site", "share", stem + ".png")
-    return stem if stem != "default" and os.path.exists(own) else "default"
+    share = os.path.join(DOCS, "site", "share")
+    if stem != "default" and os.path.exists(os.path.join(share, stem + ".png")):
+        return stem
+    m = re.match(r"^(.+?)\d+$", stem)
+    if m and os.path.exists(os.path.join(share, f"book-{m.group(1)}.png")):
+        return f"book-{m.group(1)}"
+    return "default"
 
 
 def block(name, h, domain):

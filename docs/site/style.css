@@ -24,7 +24,7 @@
     --right-panel-width: 280px;
 
     --accent-link: #8b3a2a;   /* links, accent rules, primary button fill */
-    --text-faint: #8a7e74;   /* footer text, captions, muted labels */
+    --text-faint: #6f645b;   /* footer text, captions, muted labels */
     --rule-warm: #e0d6c8;   /* footer hairline and card borders */
     --ink-deep: #3d2b1f;   /* darkest body text */
 
@@ -600,7 +600,7 @@ body.pwa-standalone .pwa-bottom-nav {
 
 .pwa-nav-item i {
     font-size: 1.2rem;
-    color: #8a7e74;
+    color: #6f645b;
     margin-bottom: 3px;
     transition: color 0.15s;
 }
@@ -673,7 +673,7 @@ body.pwa-standalone .pwa-splash {
     margin-top: 32px;
     font-family: 'Inter', sans-serif;
     font-size: 0.7rem;
-    color: #8a7e74;
+    color: #6f645b;
     letter-spacing: 1px;
 }
 
@@ -743,7 +743,7 @@ body.pwa-standalone .pwa-splash {
     background: none;
     border: none;
     font-size: 1.4rem;
-    color: #8a7e74;
+    color: #6f645b;
     cursor: pointer;
 }
 

@@ -19,7 +19,7 @@ from emblems import E, SECTION
 from playwright.sync_api import sync_playwright
 
 site, docs, out = sys.argv[1], sys.argv[2], sys.argv[3]
-nr_docs = sys.argv[4] if len(sys.argv) > 4 else None
+nr_docs = os.path.abspath(sys.argv[4]) if len(sys.argv) > 4 else None
 HERE = os.path.dirname(os.path.abspath(__file__))
 FONTS = os.path.abspath(os.environ.get("FONT_DIR", "node_modules/@fontsource"))
 
@@ -36,15 +36,40 @@ BOOK_MARK = ('<svg viewBox="0 0 512 512" width="46" height="46"><rect x="238" y=
              '<path d="M108 392C156 370 216 374 256 406C296 374 356 370 404 392" fill="none" stroke="{g}" stroke-width="20" stroke-linecap="round"/></svg>')
 
 
-def pages():
+NT = {"matthew", "mark", "luke", "john", "acts", "romans", "1corinthians", "2corinthians", "galatians",
+      "ephesians", "philippians", "colossians", "1thessalonians", "2thessalonians", "1timothy", "2timothy",
+      "titus", "philemon", "hebrews", "james", "1peter", "2peter", "1john", "2john", "3john", "jude", "revelation"}
+
+
+def books():
+    """One card per book of the Bible (book-<slug>.png), shared by its chapter pages."""
+    found = {}
+    for p in sorted(glob.glob(os.path.join(docs, "*.html"))):
+        m = re.match(r"^(.+?)(\d+)\.html$", os.path.basename(p))
+        if not m:
+            continue
+        t = re.search(r"<title>(.*?) (\d+) — Bible Study</title>", open(p, encoding="utf-8").read())
+        if not t:
+            continue
+        slug = m.group(1)
+        found.setdefault(slug, [html.unescape(t.group(1)), 0])[1] += 1
     items = []
+    for slug, (name, n) in found.items():
+        nt = slug in NT
+        ref = f"{n} chapter{'s' if n != 1 else ''} · key words in the original {'Greek' if nt else 'Hebrew'}"
+        items.append((f"book-{slug}", SECTION["bible"], "New Testament" if nt else "Old Testament", name, ref))
+    return items
+
+
+def pages():
+    items = books()
     for p in sorted(glob.glob(os.path.join(docs, "*.html"))):
         stem = os.path.basename(p)[:-5]
         h = open(p, encoding="utf-8").read()
         if stem in E:
             t = re.search(r'<div class="topic-hero">.*?<h1>(.*?)</h1>', h, re.S).group(1)
             ref = re.search(r'<span class="ref">(.*?)</span>', h)
-            life = bool(ref)
+            life = bool(ref) and 'class="subtitle"' not in h
             r = re.sub(r"^[—–-]\s*|\s*\(ESV\)\s*$", "", html.unescape(ref.group(1)).strip()) if ref else ""
             items.append((stem, E[stem], "Life Study" if life else "Topical Study", html.unescape(t), r))
     items.append(("topical-studies", SECTION["topical"], "Bible Study", "Topical Studies", ""))
