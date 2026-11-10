@@ -37,6 +37,7 @@ Usage:
 """
 import datetime
 import json
+import re
 import os
 import sys
 import time
@@ -144,6 +145,31 @@ def is_short(vid):
     return False
 
 
+# Upload types that never got approved in the weekly reviews: lyric videos,
+# podcast episodes, live Q&As and streams, trailers and recaps, travel updates.
+# A match is skipped (recorded as seen, not listed) unless the title also names
+# a Bible passage, because a "LIVE Q&A" on John 3 has been worth adding.
+NOISE_TITLE = re.compile(
+    r"lyric video|\bpodcast\b.*\bep(?:isode|\.)?\s*\d+|\blive\s*q\s*&\s*a\b"
+    r"|\blive\s?stream\b|\bwatch party\b|\btrailer\b|\bfull recap\b"
+    r"|\btrip update\b|\bwe made it to\b|\bisrael 20\d\d\b|\b10 qs\b"
+    r"|\(the chosen scene\)",
+    re.IGNORECASE)
+_BOOKS = (
+    "Genesis|Exodus|Leviticus|Numbers|Deuteronomy|Joshua|Judges|Ruth|Samuel|"
+    "Kings|Chronicles|Ezra|Nehemiah|Esther|Job|Psalms?|Proverbs|Ecclesiastes|"
+    "Song of (?:Solomon|Songs)|Isaiah|Jeremiah|Lamentations|Ezekiel|Daniel|"
+    "Hosea|Joel|Amos|Obadiah|Jonah|Micah|Nahum|Habakkuk|Zephaniah|Haggai|"
+    "Zechariah|Malachi|Matthew|Mark|Luke|John|Acts|Romans|Corinthians|"
+    "Galatians|Ephesians|Philippians|Colossians|Thessalonians|Timothy|Titus|"
+    "Philemon|Hebrews|James|Peter|Jude|Revelation")
+PASSAGE = re.compile(rf"\b(?:{_BOOKS})\s+\d+|\b\d+:\d+")
+
+
+def is_noise(title):
+    return bool(NOISE_TITLE.search(title)) and not PASSAGE.search(title)
+
+
 FEED_ATTEMPTS = 6
 
 
@@ -188,6 +214,7 @@ def main():
     rewrites = []
     shorts_skipped = []
     dropped_skipped = []
+    noise_skipped = []
 
     for path, data in state_files:
         channels, legacy = normalise(data)
@@ -218,6 +245,8 @@ def main():
             for v, t, d in fresh:
                 if v in vs.DROP_VIDEO_IDS:
                     dropped_skipped.append((name, v, t))
+                elif is_noise(t):
+                    noise_skipped.append((name, v, t))
                 elif is_short(v):
                     shorts_skipped.append((name, v, t))
                 else:
@@ -245,6 +274,12 @@ def main():
         for ch, v, ttl in dropped_skipped:
             print(f"    {ch}: {v}  {ttl[:60]}", file=sys.stderr)
             print(f"        reason: {vs.DROP_VIDEO_IDS[v]}", file=sys.stderr)
+    if noise_skipped:
+        print(f"Skipped {len(noise_skipped)} lyric video/podcast/Q&A/trailer/travel "
+              f"upload(s) with no passage in the title; recorded as seen.",
+              file=sys.stderr)
+        for ch, v, ttl in noise_skipped:
+            print(f"    {ch}: {v}  {ttl[:70]}", file=sys.stderr)
     if shorts_skipped:
         print(f"Skipped {len(shorts_skipped)} YouTube Short(s); they are recorded as seen and will not be raised again.",
               file=sys.stderr)
