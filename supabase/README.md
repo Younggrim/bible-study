@@ -11,8 +11,9 @@ rows. Never commit a service-role or secret key.
 Tables: `memory_verses` (Memory tab), `verse_marks` (highlights and
 bookmarks), `reading_position`, `chapters_studied` and `study_days` (streaks),
 `notes`, `reading_plans`, and for Friends `friend_profiles`, `friendships`,
-`friend_stats`, `shared_items` with the functions `friend_request`,
-`friend_respond`, `friend_remove`, `friends_list` and `friends_feed`.
+`friend_stats`, `shared_items`, `friend_blocks` with the functions `friend_request`,
+`friend_respond`, `friend_remove`, `friends_list`, `friends_feed`, and for
+blocking `friend_block`, `friend_unblock` and `friends_blocked`.
 `delete_my_account()` removes a person's account and, by cascade, all of it.
 
     migrations/   schema and RLS policies, in order (already applied to the hosted project)
