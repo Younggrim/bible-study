@@ -384,6 +384,26 @@ EN += [EN[_i]]
 for _l in T:
     T[_l] += [T[_l][_i]]
 
+# Study / Reflect grouping and the Deep Dive pane (Nov 2026). "Reflect" reuses
+# each language's word for Reflection; Study and Deep Dive are new.
+_r = KEYS.index("tab.reflection")
+_STUDY = {
+    "es": ["Estudio", "Estudio a fondo"], "fr": ["Étude", "Étude approfondie"], "pt": ["Estudo", "Estudo aprofundado"],
+    "ar": ["دراسة", "دراسة معمقة"], "fa": ["مطالعه", "مطالعه عمیق"], "zh-Hans": ["研读", "深入研读"],
+    "zh-Hant": ["研讀", "深入研讀"], "vi": ["Nghiên cứu", "Nghiên cứu sâu"], "tl": ["Pag-aaral", "Malalim na pag-aaral"],
+    "ht": ["Etid", "Etid apwofondi"], "ha": ["Nazari", "Nazari mai zurfi"], "yo": ["Ẹ̀kọ́", "Ẹ̀kọ́ jinlẹ̀"],
+    "ig": ["Ọmụmụ", "Ọmụmụ miri emi"], "sw": ["Somo", "Somo la kina"], "tw": ["Adesua", "Adesua a emu dɔ"],
+    "ur": ["مطالعہ", "گہرا مطالعہ"], "hi": ["अध्ययन", "गहन अध्ययन"], "bn": ["অধ্যয়ন", "গভীর অধ্যয়ন"],
+    "ta": ["படிப்பு", "ஆழ்ந்த படிப்பு"], "te": ["అధ్యయనం", "లోతైన అధ్యయనం"], "ml": ["പഠനം", "ആഴത്തിലുള്ള പഠനം"],
+    "mr": ["अभ्यास", "सखोल अभ्यास"], "gu": ["અભ્યાસ", "ઊંડો અભ્યાસ"], "kn": ["ಅಧ್ಯಯನ", "ಆಳವಾದ ಅಧ್ಯಯನ"],
+    "or": ["ଅଧ୍ୟୟନ", "ଗଭୀର ଅଧ୍ୟୟନ"], "as": ["অধ্যয়ন", "গভীৰ অধ্যয়ন"], "pa": ["ਅਧਿਐਨ", "ਡੂੰਘਾ ਅਧਿਐਨ"],
+    "ne": ["अध्ययन", "गहन अध्ययन"],
+}
+KEYS += ["tab.study", "tab.reflect", "tab.deepdive"]
+EN += ["Study", "Reflect", "Deep Dive"]
+for _l in T:
+    T[_l] += [_STUDY[_l][0], T[_l][_r], _STUDY[_l][1]]
+
 
 def main():
     out = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs", "site", "i18n")
