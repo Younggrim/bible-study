@@ -113,7 +113,7 @@ def apply(slug):
 
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
-    have = sorted(f[:-3] for f in os.listdir(SRC) if f.endswith(".md")) if os.path.isdir(SRC) else []
+    have = sorted(f[:-3] for f in os.listdir(SRC) if re.match(r"^[0-9a-z]+?\d+\.md$", f)) if os.path.isdir(SRC) else []
     if "--check" in sys.argv:
         on_pages = sum('id="tab-deepdive"' in open(os.path.join(DOCS, f), encoding="utf-8").read()
                        for f in os.listdir(DOCS) if re.match(r"^[0-9a-z]+?\d+\.html$", f) and "tab-commentary" in
