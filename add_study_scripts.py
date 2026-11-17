@@ -13,6 +13,8 @@ site/script.js tag:
     notes.html                  account.js, i18n.js
     every other page with       i18n.js, so the app's bottom bar follows the
     site/script.js              reader's language everywhere
+    every page above            search.js last (site search: the search button
+                                or box, and search.html itself)
 
 Files that change are stamped with ?v=<hash of that file> so a new version is
 fetched fresh, the way add_mapgeo_maps.py stamps mapgeo.js. Idempotent: a
@@ -32,9 +34,9 @@ import sys
 DOCS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs")
 CHAPTER = re.compile(r"^(\d?[a-z]+?)(\d+)\.html$")
 SCRIPT_JS = re.compile(r'(<script src="site/script\.js(?:\?v=[^"]*)?"></script>)')
-OURS = re.compile(r'\n?[ \t]*<script src="site/(?:account|study|progress|plans-data|plans|translations|original|friends-strip|chapter-notes|i18n|audio)\.js(?:\?v=[^"]*)?"></script>')
+OURS = re.compile(r'\n?[ \t]*<script src="site/(?:account|study|progress|plans-data|plans|translations|original|friends-strip|chapter-notes|i18n|audio|search)\.js(?:\?v=[^"]*)?"></script>')
 FULL = ["account", "study", "progress", "plans-data", "plans", "translations", "original", "friends-strip", "chapter-notes", "i18n"]
-STAMPED = {"account", "study", "progress", "plans-data", "plans", "translations", "original", "friends-strip", "chapter-notes", "i18n", "audio"}
+STAMPED = {"account", "study", "progress", "plans-data", "plans", "translations", "original", "friends-strip", "chapter-notes", "i18n", "audio", "search"}
 
 
 def main():
@@ -60,6 +62,7 @@ def main():
             want = ["account", "i18n"]          # notes.html, memory.html: pages with their own sign-in
         else:
             want = ["i18n"]
+        want = want + ["search"]                # site search: the way in on every page, and search.html itself
         pages += 1
         indent = re.search(r"([ \t]*)$", stripped[: m.start()]).group(1)
         tags = "".join(f'\n{indent}<script src="site/{n}.js' + (f'?v={stamp[n]}' if n in stamp else "") + '"></script>' for n in want)
