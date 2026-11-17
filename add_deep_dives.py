@@ -38,6 +38,12 @@ DOCS = os.path.join(ROOT, "docs")
 SRC = os.path.join(ROOT, "deepdives")
 IND = "            "  # pane indentation used by the chapter pages
 
+# Shown at the top of every Deep Dive so no one mistakes it for original
+# scholarship. Wording agreed with Jeremy, 16 Nov 2026; about.html has the rest.
+NOTE = (f'{IND}    <p class="dd-note" style="background:var(--bg-tint-2);border:1px solid var(--border-light);border-radius:10px;padding:10px 14px;font-size:0.88rem;color:var(--text-secondary);">This Deep Dive was put together with AI help, drawing on the '
+        f'commentators named below. I&rsquo;m a learner, not a scholar, so test everything against '
+        f'Scripture. <a href="about.html" style="color:var(--accent-link);">How this site is made</a></p>\n')
+
 PANE_RE = re.compile(r'[ \t]*<div class="tab-content" id="tab-deepdive">.*?(?=[ \t]*<div class="tab-content")', re.S)
 BTN_RE = re.compile(r'[ \t]*<div class="study-tab" data-tab="deepdive">[^<]*</div>\n')
 COMMENTARY_PANE = re.compile(r'([ \t]*)<div class="tab-content" id="tab-commentary">')
@@ -91,7 +97,7 @@ def render(md):
             para.append(line.strip())
     flush_para(); flush_list()
     return (f'{IND}<div class="tab-content" id="tab-deepdive">\n'
-            f'{IND}    <h3>Deep Dive</h3>\n' + "\n".join(out) + f"\n{IND}</div>\n")
+            f'{IND}    <h3>Deep Dive</h3>\n' + NOTE + "\n".join(out) + f"\n{IND}</div>\n")
 
 
 def apply(slug):
