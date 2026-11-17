@@ -275,6 +275,18 @@ DROP_ARTICLE_URLS = {
         "product announcement, not teaching",
     "https://www.crossway.org/articles/podcast-how-to-help-your-teens-scroll-less-and-live-more-samuel-james/":
         "a podcast episode page, not a written article",
+    "https://www.crossway.org/articles/how-is-believing-in-miracles-different-than-believing-in-a-flat-earth/":
+        "an apologetics interview with no passage; miracles-of-jesus covers his "
+        "specific miracles, not this question",
+    "https://www.crossway.org/articles/biblical-truth-about-heaven-is-so-much-better-than-our-idle-speculation/":
+        "a heaven excerpt with no single passage at its center; the same book "
+        "already has two articles on the site",
+    "https://www.crossway.org/articles/4-strategies-to-help-your-teens-scroll-less-and-live-more/":
+        "no page for it to sit on",
+    "https://www.crossway.org/articles/were-facing-a-crisis-of-meaning/":
+        "cultural commentary, and there is no page for it to sit on",
+    "https://www.crossway.org/articles/podcast-the-story-behind-adapting-pilgrims-progress-into-a-graphic-novel-jeremy-patenaude-and-erik-peterson/":
+        "a podcast episode page about a product",
 }
 
 LINK = ('<a href="{url}" target="_blank" rel="noopener" '
@@ -705,6 +717,11 @@ CHAPTER_ARTICLES = {
          "How this prologue reaches back past Genesis 1, and why the Word is "
          "the term John chooses."),
     ],
+    ("john", 2): [
+        ("Crossway", CW + "only-servants-see-the-miracle/",
+         "Why the servants who filled the jars were the ones who knew where "
+         "the wine came from."),
+    ],
     ("john", 3): [
         ("GotQuestions.org", GQ + "John-3-16.html",
          "The most quoted verse in the Bible, read in the conversation with "
@@ -1047,6 +1064,9 @@ TOPIC_ARTICLES = {
         ("GotQuestions.org", GQ + "Bible-solitude.html",
          "The difference between loneliness and solitude, and why Jesus sought "
          "the second."),
+        ("Crossway", CW + "how-christians-can-combat-the-loneliness-epidemic/",
+         "Practical ways the church can answer the loneliness so many people "
+         "now live with."),
     ],
     "lust-and-sexual-sin.html": [
         ("GotQuestions.org", GQ + "Bible-verses-about-lust.html",
@@ -1071,6 +1091,9 @@ TOPIC_ARTICLES = {
         ("Crossway", CW + "is-my-kid-growing-in-christ/",
          "How parents can recognize real spiritual growth in a child, even "
          "when it looks small."),
+        ("Crossway", CW + "four-steps-to-jump-start-your-family-bible-time/",
+         "Simple first steps for making Bible reading a regular part of family "
+         "life."),
     ],
     "pride.html": [
         ("GotQuestions.org", GQ + "Bible-verses-about-pride.html",
@@ -1210,6 +1233,9 @@ TOPIC_ARTICLES = {
          "The Lord's Prayer line by line."),
         ("GotQuestions.org", GQ + "Bible-verses-about-prayer.html",
          "Passages on prayer, collected."),
+        ("Crossway", CW + "how-to-pray-for-the-soul-yours-or-anothers/",
+         "How to pray Scripture's own requests for spiritual sight and desire, "
+         "for yourself or someone else."),
     ],
     "promises-of-god.html": [
         ("GotQuestions.org", GQ + "promises-of-God.html",
