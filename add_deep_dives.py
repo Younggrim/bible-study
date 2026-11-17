@@ -42,7 +42,7 @@ IND = "            "  # pane indentation used by the chapter pages
 # scholarship. Wording agreed with Jeremy, 16 Nov 2026 (support email added 17 Nov); about.html has the rest.
 NOTE = (f'{IND}    <p class="dd-note" style="background:var(--bg-tint-2);border:1px solid var(--border-light);border-radius:10px;padding:10px 14px;font-size:0.88rem;color:var(--text-secondary);">This Deep Dive was put together with AI help, drawing on the '
         f'commentators named below. I&rsquo;m a learner, not a scholar, so test everything against '
-        f'Scripture. Spot a mistake or have an idea? Email <a href="mailto:support@macdwellings.com" style="color:var(--accent-link);">support@macdwellings.com</a>. '
+        f'Scripture. Spot a mistake or have an idea? Email <a href="mailto:bible.support@macdwellings.com" style="color:var(--accent-link);">bible.support@macdwellings.com</a>. '
         f'<a href="about.html" style="color:var(--accent-link);">How this site is made</a></p>\n')
 
 PANE_RE = re.compile(r'[ \t]*<div class="tab-content" id="tab-deepdive">.*?(?=[ \t]*<div class="tab-content")', re.S)
