@@ -39,10 +39,10 @@ SRC = os.path.join(ROOT, "deepdives")
 IND = "            "  # pane indentation used by the chapter pages
 
 # Shown at the top of every Deep Dive so no one mistakes it for original
-# scholarship. Wording agreed with Jeremy, 16 Nov 2026 (support email added 17 Nov); about.html has the rest.
+# scholarship. Wording agreed with Jeremy, 16 Nov 2026 (contact form link added 17 Nov); about.html has the rest.
 NOTE = (f'{IND}    <p class="dd-note" style="background:var(--bg-tint-2);border:1px solid var(--border-light);border-radius:10px;padding:10px 14px;font-size:0.88rem;color:var(--text-secondary);">This Deep Dive was put together with AI help, drawing on the '
         f'commentators named below. I&rsquo;m a learner, not a scholar, so test everything against '
-        f'Scripture. Spot a mistake or have an idea? Email <a href="mailto:bible.support@macdwellings.com" style="color:var(--accent-link);">bible.support@macdwellings.com</a>. '
+        f'Scripture. Spot a mistake or have an idea? <a href="contact.html?page=__SLUG__&amp;from=deepdive" style="color:var(--accent-link);">Let me know</a>. '
         f'<a href="about.html" style="color:var(--accent-link);">How this site is made</a></p>\n')
 
 PANE_RE = re.compile(r'[ \t]*<div class="tab-content" id="tab-deepdive">.*?(?=[ \t]*<div class="tab-content")', re.S)
@@ -60,7 +60,7 @@ def inline(s):
     return s
 
 
-def render(md):
+def render(md, slug):
     out, items, para = [], [], []
 
     def flush_list():
@@ -98,14 +98,14 @@ def render(md):
             para.append(line.strip())
     flush_para(); flush_list()
     return (f'{IND}<div class="tab-content" id="tab-deepdive">\n'
-            f'{IND}    <h3>Deep Dive</h3>\n' + NOTE + "\n".join(out) + f"\n{IND}</div>\n")
+            f'{IND}    <h3>Deep Dive</h3>\n' + NOTE.replace('__SLUG__', slug) + "\n".join(out) + f"\n{IND}</div>\n")
 
 
 def apply(slug):
     path = os.path.join(DOCS, slug + ".html")
     md = open(os.path.join(SRC, slug + ".md"), encoding="utf-8").read()
     page = open(path, encoding="utf-8").read()
-    pane = render(md)
+    pane = render(md, slug)
     page = PANE_RE.sub("", page)
     page = BTN_RE.sub("", page)
     if not COMMENTARY_PANE.search(page) or not COMMENTARY_BTN.search(page):
