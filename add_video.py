@@ -38,7 +38,7 @@ CARD = (
     '<div class="yt-facade" onclick="loadYT(this,\'{vid}\')" '
     'style="position:relative;cursor:pointer;border-radius:10px;overflow:hidden;'
     'border:1px solid var(--border-light);aspect-ratio:16/9;background:#000 '
-    "url('https://img.youtube.com/vi/{vid}/hqdefault.jpg') center/cover;\">"
+    "url('https://i.ytimg.com/vi/{vid}/hqdefault.jpg') center/cover;\">"
     '<div style="position:absolute;inset:0;display:flex;align-items:center;'
     'justify-content:center;background:rgba(0,0,0,0.3);">'
     '<div style="width:60px;height:42px;background:#c0392b;border-radius:10px;'
