@@ -33,7 +33,7 @@
         .back-link i { margin-right: 6px; }
 
         .jump-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(110px, 1fr)); gap: 6px; margin-bottom: 24px; }
-        .jump-card { background: #fff; border: 1px solid var(--border-light); border-radius: 8px; padding: 8px 10px; text-align: center; font-size: 0.76rem; font-weight: 600; color: #7a5c2e; text-decoration: none; transition: background 0.15s, transform 0.15s; }
+        .jump-card { background: var(--bg-card); border: 1px solid var(--border-light); border-radius: 8px; padding: 8px 10px; text-align: center; font-size: 0.76rem; font-weight: 600; color: #7a5c2e; text-decoration: none; transition: background 0.15s, transform 0.15s; }
         .jump-card:hover { background: var(--bg-tint); transform: translateY(-1px); }
 
         .section-block { background: var(--bg-card, #fff); border: 1px solid var(--border-light, var(--border-light)); border-radius: 12px; padding: 28px 32px; box-shadow: 0 2px 8px rgba(0,0,0,0.04); margin-bottom: 24px; scroll-margin-top: 76px; }
@@ -55,7 +55,7 @@
         .verse-ref:hover { color: #4f3b1d; }
         .verse-popup-overlay { display:none; position:fixed; top:0; left:0; right:0; bottom:0; background:rgba(0,0,0,0.4); z-index:9998; }
         .verse-popup-overlay.show { display:block; }
-        .verse-popup { display:none; position:fixed; top:50%; left:50%; transform:translate(-50%,-50%); background:#fff; border-radius:12px; padding:24px 28px; max-width:500px; width:90%; max-height:70vh; overflow-y:auto; box-shadow:0 16px 48px rgba(0,0,0,0.2); z-index:9999; }
+        .verse-popup { display:none; position:fixed; top:50%; left:50%; transform:translate(-50%,-50%); background:var(--bg-card); border-radius:12px; padding:24px 28px; max-width:500px; width:90%; max-height:70vh; overflow-y:auto; box-shadow:0 16px 48px rgba(0,0,0,0.2); z-index:9999; }
         .verse-popup.show { display:block; }
         .verse-popup .popup-ref { font-family:'Poppins','Inter',sans-serif; font-size:1rem; color:#7a5c2e; margin-bottom:12px; font-weight:700; }
         .verse-popup .popup-text { font-family:'Merriweather',serif; font-size:0.92rem; line-height:1.9; color:var(--ink-deep); }
