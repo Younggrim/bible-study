@@ -21,11 +21,13 @@
 - **"Chambers and a pavement, all around the court. Thirty chambers faced the pavement" (v17).** The outer court was open to ordinary worshipers. The rooms along its wall are not explained here. They may have been for the people to eat their share of the sacrifices (46:21–24 places kitchens in the corners), or for storage and the Levites' work. Jeremiah once met the Rechabites in one of the rooms of the old temple (Jer 35:2–4).
 - **"The lower pavement" (v18).** The temple rises in levels. The outer court is lower than the inner one, and the temple building is higher still. The higher one goes, the holier the space.
 - **"A hundred cubits on the east side and on the north side" (v19).** From the outer gate to the inner gate is about 170 feet. Ezekiel's numbers favor round figures and multiples of 25 and 50, which gives the whole plan a sense of order and symmetry.
+- **Commentators:** JFB calls the pavement a "tesselated mosaic" and suggests the chambers served "as lodgings for the priests on duty" and for storing tithes. Guzik notes the paved walkway on more than one level and the 100-cubit spacing between gates.
 
 #### The North Gate (vv20–23)
 - **"Of the same size as those of the first gate" (v21).** The north gate repeats the east gate exactly: 50 by 25 cubits, three rooms on each side, windows, palm trees. The repetition is the point. Nothing in this temple is improvised or uneven.
 - **"By seven steps people would go up to it" (v22).** The outer gates are reached by seven steps. The inner gates will need eight more (v31), and the temple porch ten more (v49). Worshipers climb as they draw nearer to God.
 - **"Opposite the gate on the north, as on the east, was a gate to the inner court" (v23).** Each outer gate faces a matching inner gate across the court.
+- **Commentators:** JFB places the stairway of "seven in number" at each outer gate. Henry follows the tour gate by gate and notes the exact likeness of the north gate to the east.
 
 #### The South Gate (vv24–27)
 - **"There was a gate on the south… they had the same size as the others" (v24).** The south gate matches the east and north. There is no west gate. Behind the temple, on the west, stood a separate building (41:12), and the holiest place lay at the western end. Worshipers always approached God facing west, with their backs to the rising sun that pagans worshiped (8:16).
@@ -44,7 +46,7 @@
 - **"For the priests who have charge of the temple… for the priests who have charge of the altar" (vv45–46).** The priestly work is divided. "Have charge" means "keep the watch," a guard duty.
 - **"These are the sons of Zadok, who alone among the sons of Levi may come near to the LORD" (v46).** Zadok served as priest under David and became high priest under Solomon, when Abiathar supported the rebel Adonijah (1 Kgs 1:7–8; 2:35). Chapter 44 explains why only Zadok's descendants may serve at the altar: they stayed faithful when other priests led Israel into idolatry (44:10–16). The name Zadok comes from *tsadaq*, "righteous."
 - **"A hundred cubits long and a hundred cubits broad, a square. And the altar was in front of the temple" (v47).** The inner court is a perfect square, about 170 feet on each side. The Most Holy Place in Solomon's temple was a perfect cube (1 Kgs 6:20), and the new Jerusalem in Revelation is a cube too (Rev 21:16). At the center of the square stands the altar.
-- **Commentators:** JFB says the sons of Zadok were "lineally descended from Aaron," and that Solomon gave them the high priesthood in place of Abiathar's family. Guzik, citing Block, takes the "charge" as guard duty, and notes the meaning of Zadok's name.
+- **Commentators:** JFB says the sons of Zadok were "lineally descended from Aaron," and that Solomon gave them the high priesthood in place of Abiathar's family. Guzik, citing Block, takes the *charge* as guard duty, and notes the meaning of Zadok's name.
 
 #### The Vestibule of the Temple (vv48–49)
 - **"Then he brought me to the vestibule of the temple" (v48).** At last the tour reaches the temple itself. The vestibule, or porch, was the entrance hall.
