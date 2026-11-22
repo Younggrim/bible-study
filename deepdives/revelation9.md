@@ -10,8 +10,8 @@ All agree that even the forces of hell work only on a leash God holds, and that 
 
 #### The Fifth Trumpet: Locusts from the Bottomless Pit (vv1–12)
 - **"I saw a star fallen from heaven to earth, and he was given the key" (v1).** The ESV's "fallen" is right: John sees a star that *had already* fallen. Stars stand for angels in Revelation (1:20), and "he" shows this one is a person. Readers differ on who he is:
-  - **A fallen angel, perhaps Satan.** Jesus said, "I saw Satan fall like lightning from heaven" (Luke 10:18), and Isaiah 14:12 speaks of the "Day Star" fallen from heaven. JFB and many others take this view.
-  - **A good angel sent by God.** In 20:1 an angel comes down "holding in his hand the key to the bottomless pit" to lock Satan up.
+- **A fallen angel, perhaps Satan.** Jesus said, "I saw Satan fall like lightning from heaven" (Luke 10:18), and Isaiah 14:12 speaks of the "Day Star" fallen from heaven. JFB and many others take this view.
+- **A good angel sent by God.** In 20:1 an angel comes down "holding in his hand the key to the bottomless pit" to lock Satan up.
 
   Either way, he "was given" the key. He doesn't own it. Christ holds the keys of Death and Hades (1:18).
 - **"The shaft of the bottomless pit" (vv1–2).** "Bottomless pit" is *abyssos*, the abyss, the deep. In Jewish thought it was the prison where rebellious spirits were held (1 Enoch 10; 2 Pet 2:4; Jude 6). The demons Jesus cast out begged him not to send them there (Luke 8:31). The beast comes up from it (11:7; 17:8), and Satan is thrown into it (20:3).
