@@ -93,7 +93,7 @@
 - **"Give your servant a pledge of good" (v122).** "Pledge" (*'arav*) means to stand surety, to guarantee someone's debt, as Judah did for Benjamin (Gen 43:9). He asks God himself to be his guarantor. Hebrews calls Jesus "the guarantor of a better covenant" (Heb 7:22). This is one of very few verses in the psalm with no term for God's word.
 - **"It is time for the LORD to act, for your law has been broken" (v126).** His appeal rests on God's honor, not just his own trouble.
 - **"Above gold, above fine gold" (v127).** Compare 19:10.
-- **Commentators:** Henry: "It is hypocrisy to say we love God's commandments more than our worldly interests," if we do not. JFB reads the stanza as a plea of integrity for protection. Guzik, citing Bridges, says asking God to be surety shows the writer knew he was still a sinner needing a guarantor.
+- **Commentators:** Henry warns that claiming to love God's commandments above worldly gain is hypocrisy unless life bears it out. JFB reads the stanza as a plea of integrity for protection. Guzik, citing Bridges, says asking God to be surety shows the writer knew he was still a sinner needing a guarantor.
 
 #### Pe: The Unfolding of Your Words Gives Light (vv129–136)
 - **"The unfolding of your words gives light" (v130).** "Unfolding" (*petach*) means opening, an entrance or doorway. As a door opens, light floods in, and "the simple" understand.
