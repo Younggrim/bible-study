@@ -2,17 +2,17 @@
 
 #### The Scroll and the Lamb (vv1–7)
 - **"In the right hand of him who was seated on the throne a scroll written within and on the back, sealed with seven seals" (v1).** A scroll was a roll of papyrus or parchment. Writing on both sides was unusual and means the contents are complete, with nothing left to add (Ezek 2:9–10). Seven seals mean it is completely closed. Interpreters differ on what it is:
-  - **God's plan for history and its end**, his purposes of judgment and salvation (Dan 12:4, 9). This is the most common view, and the Tyndale notes take it.
-  - **A title deed** to the creation humanity lost, which only a qualified kinsman-redeemer can reclaim (Jer 32:6–15; Ruth 4). This is popular among futurists.
-  - **A sealed will.** Roman wills were sealed by seven witnesses and opened only after the testator's death. The picture fits strikingly with a Lamb who has died.
+- **God's plan for history and its end**, his purposes of judgment and salvation (Dan 12:4, 9). This is the most common view, and the Tyndale notes take it.
+- **A title deed** to the creation humanity lost, which only a qualified kinsman-redeemer can reclaim (Jer 32:6–15; Ruth 4). This is popular among futurists.
+- **A sealed will.** Roman wills were sealed by seven witnesses and opened only after the testator's death. The picture fits strikingly with a Lamb who has died.
 
   These views overlap. Whatever the scroll is, it holds God's purposes for the world, and opening it puts them into action. That is why the seals in chapter 6 bring events, not just information.
 - **"Who is worthy to open the scroll and break its seals?" (v2).** "Worthy" is the key word of the chapter (vv2, 4, 9, 12). It means qualified by character and right, not just strength. In 4:11 God was worthy as Creator. Now the question is who is worthy to bring history to its goal.
 - **"No one in heaven or on earth or under the earth was able" (v3).** These are the three tiers of the ancient picture of the universe: angels, the living, and the dead. Abraham, Moses, David, Michael and Gabriel are all included, and no created being qualifies.
 - **"I began to weep loudly" (v4).** John isn't being dramatic. If the scroll stays sealed, God's plan to judge evil and renew the world stays shut. The suffering churches of chapters 2–3 have no ending to their story.
 - **"Weep no more; behold, the Lion of the tribe of Judah, the Root of David, has conquered" (v5).** Two great messianic titles:
-  - **Lion of Judah:** Jacob blessed Judah as "a lion's cub" from whom the sceptre would not depart (Gen 49:9–10).
-  - **Root of David:** the "shoot from the stump of Jesse" and "root of Jesse" (Isa 11:1, 10). Jesus is both David's descendant and David's source (22:16; Mark 12:35–37).
+- **Lion of Judah:** Jacob blessed Judah as "a lion's cub" from whom the sceptre would not depart (Gen 49:9–10).
+- **Root of David:** the "shoot from the stump of Jesse" and "root of Jesse" (Isa 11:1, 10). Jesus is both David's descendant and David's source (22:16; Mark 12:35–37).
 
   "Has conquered" (*enikēsen*) is the word promised seven times to "the one who conquers." He conquered first.
 - **"I saw a Lamb standing, as though it had been slain" (v6).** This is one of the great turns in Scripture. John is told "Lion" and turns to see a Lamb. Jesus defines what "Lion" means: he conquers by being sacrificed. "Lamb" is *arnion*, a diminutive, "little lamb," as the lexicon confirms. The diminutive force had faded in everyday Greek, but the contrast with the lion is real. Revelation calls Jesus "Lamb" twenty-eight times. "Slain" is *sphazō*, to slaughter, especially a sacrificial victim, by cutting the throat. This is the Passover lamb (Exod 12; 1 Cor 5:7) and the lamb led to the slaughter (Isa 53:7). Yet it is "standing": it was killed, and it is alive. The wounds remain, as with the risen Jesus in John 20:27.
