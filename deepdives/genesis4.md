@@ -7,10 +7,10 @@
 - **"Abel was a keeper of sheep, and Cain a worker of the ground" (v2).** Both jobs are honorable. Cain carries on his father's calling to "work the ground" (2:15; 3:23). The story is not about farming versus herding.
 - **"An offering of the fruit of the ground… the firstborn of his flock and of their fat portions" (vv3–4).** "Offering" is *minchah*, which means a gift or tribute in general and later the grain offering in particular. In Genesis 4 it is used for *both* brothers' offerings. So the difference isn't simply that one was grain and one was animal. Grain offerings were fully acceptable in Israel's law (Lev 2). The text quietly points to the difference: Abel brought the **firstborn** and the **fat portions**, the very best. Cain brought "of the fruit," some of it, with no mention of firstfruits.
 - **"The LORD had regard for Abel and his offering" (v4).** Notice the order: God looked at *Abel*, then *his offering*. The man came before the gift. Hebrews 11:4 explains: "By faith Abel offered to God a more acceptable sacrifice than Cain." 1 John 3:12 adds that Cain's "own deeds were evil and his brother's righteous." Readers have suggested several reasons God rejected Cain's offering:
-  - **Cain's heart:** he gave carelessly and without faith. This is the most common reading, and it fits Hebrews and 1 John.
-  - **The kind of offering:** only a blood sacrifice could deal with sin, as some, including JFB, argue. But the text calls both offerings *minchah*, and neither is said to be for sin.
-  - **The quality:** Abel gave the first and best, Cain did not.
-  - These overlap. Faith shows itself in what we give.
+- **Cain's heart:** he gave carelessly and without faith. This is the most common reading, and it fits Hebrews and 1 John.
+- **The kind of offering:** only a blood sacrifice could deal with sin, as some, including JFB, argue. But the text calls both offerings *minchah*, and neither is said to be for sin.
+- **The quality:** Abel gave the first and best, Cain did not.
+- These overlap. Faith shows itself in what we give.
 - **How did they know?** The text doesn't say. Many, like JFB and Guzik, guess that God sent fire, as he later did for Aaron (Lev 9:24), Gideon (Judg 6:21) and Elijah (1 Kings 18:38).
 - **"Cain was very angry, and his face fell" (v5).** His anger is aimed at God, and it shows on his face. He doesn't ask what he did wrong.
 - **"Why are you angry?" (v6).** God doesn't reject Cain. He comes to him, as he came to Adam ("Where are you?"), with questions that invite him to look at himself. The door to repentance is open.
