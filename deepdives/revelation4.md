@@ -3,27 +3,24 @@
 #### The Throne in Heaven (vv1–11)
 - **"After this I looked, and behold, a door standing open in heaven!" (v1).** "After this" (*meta tauta*) marks a new vision, not necessarily the next event in time. The door is "standing open." Heaven isn't locked to the one God invites. Jacob saw a "gate of heaven" (Gen 28:17), and Ezekiel saw the heavens opened (Ezek 1:1).
 - **"Come up here, and I will show you what must take place after this" (v1).** This is the same trumpet voice as 1:10, Christ himself. "What must take place after this" echoes 1:19 and Daniel 2:28–29. Here the four readings part ways:
-  - **Futurists** take this as the start of the "things that are to take place after this" (1:19), still future. Many pre-tribulation futurists see John's call upward as a picture of the church's rapture, noting that the word "church" does not appear again until 22:16.
-  - **Others**, including many futurists, answer that John is simply being taken up in vision, as Ezekiel was (Ezek 8:3). They add that God's people are still clearly on earth in the chapters that follow (7:3; 13:7).
-  - **Historicists** see the start of the sweep of church history.
-  - **Preterists** see the coming judgment on Jerusalem or Rome.
-  - **Idealists** see the heavenly reality behind every age.
+- **Futurists** take this as the start of the "things that are to take place after this" (1:19), still future. Many pre-tribulation futurists see John's call upward as a picture of the church's rapture, noting that the word "church" does not appear again until 22:16.
+- **Others**, including many futurists, answer that John is simply being taken up in vision, as Ezekiel was (Ezek 8:3). They add that God's people are still clearly on earth in the chapters that follow (7:3; 13:7).
+- **Historicists** see the start of the sweep of church history.
+- **Preterists** see the coming judgment on Jerusalem or Rome.
+- **Idealists** see the heavenly reality behind every age.
 
   All agree the throne room itself is a present reality, not just a future one.
 - **"At once I was in the Spirit, and behold, a throne stood in heaven, with one seated on the throne" (v2).** The word "throne" appears more than forty times in Revelation, and over a dozen times in this chapter alone. Before any beast or empire appears, the throne is already occupied. John says only "one seated." In the Jewish way, he avoids naming or describing God directly (Exod 20:4; Deut 4:15–19).
 - **"The appearance of jasper and carnelian, and around the throne was a rainbow that had the appearance of an emerald" (v3).** John describes light and colour, not a body. Jasper in Revelation is clear and brilliant (21:11), and carnelian (sardius) is blood-red. These two were the last and first stones on the high priest's breastplate (Exod 28:17–20). The rainbow recalls God's covenant with Noah (Gen 9:13–16) and Ezekiel's vision (Ezek 1:28). The God of judgment is surrounded by his own promise of mercy. Ancient readers often explained the gems' meaning, for example purity and justice, but the text doesn't do this, and the main point is overwhelming glory.
 - **"Twenty-four thrones, and seated on the thrones were twenty-four elders, clothed in white garments, with golden crowns" (v4).** "Elders" is *presbyteroi*, the same word as church elders. Who they are is one of the book's open questions:
-  - **The whole people of God**, both testaments: twelve patriarchs and twelve apostles. This fits 21:12–14, where the new Jerusalem has the tribes' names on its gates and the apostles' names on its foundations.
-  - **A priestly picture**, from the twenty-four divisions of priests in the temple (1 Chr 24:1–19). Since the redeemed are made "priests" (1:6), this also points to God's people.
-  - **An order of angels**, a heavenly council around God's throne (Ps 89:7; Dan 7:9–10). In favour of this view: in 5:8–10 and 7:13–14 the elders seem to speak *about* the redeemed rather than *as* them, and angels can wear white (Matt 28:3).
+- **The whole people of God**, both testaments: twelve patriarchs and twelve apostles. This fits 21:12–14, where the new Jerusalem has the tribes' names on its gates and the apostles' names on its foundations.
+- **A priestly picture**, from the twenty-four divisions of priests in the temple (1 Chr 24:1–19). Since the redeemed are made "priests" (1:6), this also points to God's people.
+- **An order of angels**, a heavenly council around God's throne (Ps 89:7; Dan 7:9–10). In favour of this view: in 5:8–10 and 7:13–14 the elders seem to speak *about* the redeemed rather than *as* them, and angels can wear white (Matt 28:3).
 
   White garments and crowns (*stephanoi*, victors' wreaths) match what Christ promised conquerors in 2:10 and 3:5, 21. That is why many see redeemed people here.
 - **"Flashes of lightning, and rumblings and peals of thunder" (v5).** This is Sinai (Exod 19:16). The same storm returns at the end of each series of judgments (8:5; 11:19; 16:18), as if each series rolls out from this throne.
 - **"Seven torches of fire, which are the seven spirits of God" (v5).** John explains this himself. The seven spirits are the Holy Spirit in his fullness (1:4; Zech 4:2–6). In chapter 1 the lampstands were churches, and here the torches are the Spirit.
-- **"As it were a sea of glass, like crystal" (v6).** "As it were" signals that John is grasping for words. Possible backgrounds:
-  - The "expanse… shining like awe-inspiring crystal" above the creatures in Ezekiel 1:22.
-  - The pavement of sapphire under God's feet in Exodus 24:10.
-  - The great bronze basin in Solomon's temple called "the sea" (1 Kgs 7:23).
+- **"As it were a sea of glass, like crystal" (v6).** "As it were" signals that John is grasping for words. Possible backgrounds: The "expanse… shining like awe-inspiring crystal" above the creatures in Ezekiel 1:22. The pavement of sapphire under God's feet in Exodus 24:10. The great bronze basin in Solomon's temple called "the sea" (1 Kgs 7:23).
 
   To people who lived beside the dangerous Aegean, a sea perfectly still and clear meant total peace before God. In 15:2 the conquerors stand beside it. In the new creation "the sea was no more" (21:1).
 - **"Four living creatures, full of eyes in front and behind" (v6).** "Living creatures" is *zōa*, beings full of life. The KJV's "beasts" is misleading. The lexicon distinguishes *zōon* from *thērion*, the word for the "beast" of chapter 13. They blend Ezekiel's cherubim, which have four faces and are full of eyes (Ezek 1:5–18; 10:12–14), with Isaiah's seraphim, which have six wings and cry "holy" (Isa 6:2–3). Their eyes mean they are fully aware and never sleep. They see everything.
