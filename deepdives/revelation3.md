@@ -10,9 +10,7 @@ On the readings: historicists often place Sardis, Philadelphia and Laodicea as t
 - **"Remember, then, what you received and heard. Keep it, and repent" (v3).** The cure isn't something new. It's going back to the gospel they first received (1 Cor 15:1–3). This is the same three-step pattern as Ephesus: remember, keep, repent.
 - **"I will come like a thief" (v3).** This is Jesus' own picture (Matt 24:43), used by Paul (1 Thess 5:2) and again in Revelation 16:15. Here it is most likely a visit in judgment on this church. Many readers also hear the Second Coming in it. A thief comes when no one is watching, which is exactly how Sardis fell before.
 - **"A few names in Sardis… who have not soiled their garments… they will walk with me in white" (v4).** Even in a dead church, Jesus knows faithful people by name. "Soiled" means stained or smeared. White robes in Revelation mean purity, victory and the washing of the Lamb's blood (7:14). Sardis was a centre of wool dyeing, and pagan worshippers were not supposed to approach their gods in dirty clothes.
-- **"I will never blot his name out of the book of life" (v5).** The book of life is God's register of his people (Exod 32:32–33; Dan 12:1; Phil 4:3; Rev 20:15). Cities kept registers of citizens and struck out the names of criminals and the dead. Jesus phrases the promise as a strong double negative: "never." Christians disagree about the reverse:
-  - Some think a believer's name could be removed by falling away, and that this is the warning side of the promise.
-  - Others take it as pure assurance: Jesus says what he will never do, not what he sometimes does.
+- **"I will never blot his name out of the book of life" (v5).** The book of life is God's register of his people (Exod 32:32–33; Dan 12:1; Phil 4:3; Rev 20:15). Cities kept registers of citizens and struck out the names of criminals and the dead. Jesus phrases the promise as a strong double negative: "never." Christians disagree about the reverse: Some think a believer's name could be removed by falling away, and that this is the warning side of the promise. Others take it as pure assurance: Jesus says what he will never do, not what he sometimes does.
 
   Either way, the text is meant to comfort the faithful few.
 - **"I will confess his name before my Father and before his angels" (v5).** This echoes Jesus in the Gospels (Matt 10:32; Luke 12:8).
@@ -25,34 +23,25 @@ On the readings: historicists often place Sardis, Philadelphia and Laodicea as t
 - **"You have but little power, and yet you have kept my word and have not denied my name" (v8).** This was a small, weak church, and Jesus doesn't scold it for being small. Faithfulness, not size, is what he praises. Like Smyrna, Philadelphia receives no rebuke.
 - **"I will make them come and bow down before your feet, and they will learn that I have loved you" (v9).** Isaiah promised that the nations would bow before Israel (Isa 45:14; 49:23; 60:14). Here the promise is turned around. Opponents who called themselves the true Israel will recognise that these Gentile and Jewish believers are the ones Christ loves. As in Smyrna (2:9), this is about a specific hostile group, not Jewish people in general. The bowing is to acknowledge God's love for the church, not to worship believers (19:10).
 - **"I will keep you from the hour of trial that is coming on the whole world" (v10).** This is one of the most debated verses in the book. "Keep" picks up "you have kept my word": because they kept, he will keep. The views:
-  - **Pre-tribulation futurists** read "keep you *from*" (*tērēsō ek*) as removal before a future worldwide tribulation, and see a hint of the rapture.
-  - **Other futurists**, and many historicists, read it as protection *through* the trial. They point out that Jesus uses the same phrase in John 17:15: "not that you take them out of the world, but that you keep them from the evil one."
-  - **Preterists** see a first-century trial on the Roman world.
-  - **Idealists** see the recurring trials that test every generation.
+- **Pre-tribulation futurists** read "keep you *from*" (*tērēsō ek*) as removal before a future worldwide tribulation, and see a hint of the rapture.
+- **Other futurists**, and many historicists, read it as protection *through* the trial. They point out that Jesus uses the same phrase in John 17:15: "not that you take them out of the world, but that you keep them from the evil one."
+- **Preterists** see a first-century trial on the Roman world.
+- **Idealists** see the recurring trials that test every generation.
 
   All agree that Christ will guard his faithful people. "Those who dwell on the earth" is Revelation's regular phrase for unbelievers (6:10; 13:8).
 - **"I am coming soon. Hold fast what you have, so that no one may seize your crown" (v11).** The crown is the victor's wreath (2:10). Nobody can steal what is held fast, but it can be let go.
-- **"I will make him a pillar in the temple of my God. Never shall he go out of it" (v12).** In a city where buildings fell in earthquakes and people fled into the fields, Jesus promises a permanent place. Pillars were also sometimes inscribed in honour of a city's leading men. The faithful will bear three names:
-  - God's, as a mark of ownership;
-  - the new Jerusalem's, as a mark of citizenship (21:2, 10);
-  - Christ's new name, as a mark of belonging (19:12).
+- **"I will make him a pillar in the temple of my God. Never shall he go out of it" (v12).** In a city where buildings fell in earthquakes and people fled into the fields, Jesus promises a permanent place. Pillars were also sometimes inscribed in honour of a city's leading men. The faithful will bear three names: God's, as a mark of ownership; the new Jerusalem's, as a mark of citizenship (21:2, 10); Christ's new name, as a mark of belonging (19:12).
 
   Philadelphia itself had taken new names twice, in honour of emperors who helped it rebuild. Jesus gives the name that will last.
 - **Commentators:** Henry finds comfort for weak believers: "True grace, though weak, has the divine approbation". He says of the open door, "I have set it open, and kept it open, though there be many adversaries." He reads v10 as a season of testing in which Christ keeps his people: "After a day of patience we must expect an hour of temptation". JFB reads "keep from" the same way, as protection "not to exempt from temptation." He notes that the new Jerusalem is "new" in kind (*kainē*), not just recent. Guzik presents both the protection-through reading and the pre-tribulation rapture reading fairly. He leans toward the rapture view because "from" is not "through." All three, with the Tyndale notes, agree that the promise is Christ's protection of a faithful church.
 
 #### To the Church in Laodicea (vv14–22)
 - **"The Amen, the faithful and true witness, the beginning of God's creation" (v14).** "Amen" means "so be it, it is true." Isaiah 65:16 calls the Lord "the God of truth," which in Hebrew is literally "the God of Amen." Jesus is God's final "yes" (2 Cor 1:20). "Beginning" is *archē*, which can mean first in time, but also origin, source or ruler. Some groups, including Jehovah's Witnesses, have used this verse to argue that Jesus was the first thing created. The lexicon instead lists this verse under Christ as the uncreated source and active cause of creation, which fits John 1:3 and Colossians 1:15–18. The Laodiceans may have known Paul's letter to nearby Colossae, which says the same thing (Col 4:16).
-- **"You are neither cold nor hot… because you are lukewarm… I will spit you out of my mouth" (vv15–16).** "Lukewarm" is *chliaros*, used only here in the New Testament. The local geography explains the picture:
-  - Hierapolis, six miles north, had hot mineral springs good for healing.
-  - Colossae, ten miles east, had cold, clear, refreshing water.
-  - Laodicea had no good water of its own. Its water came by aqueduct and arrived tepid and full of minerals, the kind that makes a person retch.
+- **"You are neither cold nor hot… because you are lukewarm… I will spit you out of my mouth" (vv15–16).** "Lukewarm" is *chliaros*, used only here in the New Testament. The local geography explains the picture: Hierapolis, six miles north, had hot mineral springs good for healing. Colossae, ten miles east, had cold, clear, refreshing water. Laodicea had no good water of its own. Its water came by aqueduct and arrived tepid and full of minerals, the kind that makes a person retch.
 
   So "hot" and "cold" are probably both good: healing and refreshing. The problem isn't that the Laodiceans are lukewarm in feeling. It's that they are useless. The older reading, that "cold" means open hostility and is better than half-heartedness, is still common and makes a real point. The local setting suggests the simpler meaning.
 - **"I am rich, I have prospered, and I need nothing" (v17).** Laodicea was a banking centre. After an earthquake in AD 60, it turned down help from Rome and rebuilt with its own money, as the historian Tacitus records. The church sounds like its city. Jesus answers with five words: "wretched, pitiable, poor, blind, and naked."
-- **"Buy from me gold refined by fire… white garments… salve to anoint your eyes" (v18).** Each remedy answers one of the city's sources of pride:
-  - its banks, with true riches (1 Pet 1:7);
-  - its famous glossy black wool, with white robes to cover shame;
-  - its medical school, known for a Phrygian eye powder, with sight only Christ can give.
+- **"Buy from me gold refined by fire… white garments… salve to anoint your eyes" (v18).** Each remedy answers one of the city's sources of pride: its banks, with true riches (1 Pet 1:7); its famous glossy black wool, with white robes to cover shame; its medical school, known for a Phrygian eye powder, with sight only Christ can give.
 
   "Buy" echoes Isaiah 55:1: "come, buy… without money." What Jesus sells is free, but only to those who admit they are poor.
 - **"Those whom I love, I reprove and discipline, so be zealous and repent" (v19).** This is the most severe letter, and it contains a tender word. "Love" here is *phileō*, the warm love of friendship, which the lexicon confirms. The line comes from Proverbs 3:12 (Heb 12:6). "Be zealous" (*zēleuō*) and "hot" (*zestos*) both come from the Greek root for boiling, so Jesus calls the lukewarm to boil.
