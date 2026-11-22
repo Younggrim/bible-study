@@ -43,7 +43,7 @@
 - **"The lame, the blind, the crippled, the mute" (v30).** "Crippled" (*kyllos*) can mean maimed or deformed. They "put them at his feet," probably because there were so many.
 - **"The mute speaking, the crippled healthy, the lame walking, and the blind seeing" (v31).** Again Isaiah 35:5–6 is being fulfilled (11:5).
 - **"And they glorified the God of Israel" (v31).** This phrase suggests the crowd were Gentiles, praising Israel's God as the one at work. Gentiles are getting more than crumbs.
-- **Commentators:** Guzik places the scene in the Decapolis and notes the "God of Israel" point. He cites Bruce's suggestion that "crippled" may mean lost limbs, which would mean Jesus restored limbs. The word can mean maimed, so it is possible, though the text does not say so directly. JFB defers to Mark.
+- **Commentators:** Guzik places the scene in the Decapolis and notes that the crowd praised the God of Israel. He cites Bruce's suggestion that "crippled" may mean lost limbs, which would mean Jesus restored limbs. The word can mean maimed, so it is possible, though the text does not say so directly. JFB defers to Mark.
 
 #### Jesus Feeds the Four Thousand (vv32–39)
 - **"I have compassion on the crowd because they have been with me now three days" (v32).** This time Jesus raises the problem himself. The people had stayed three days, and whatever food they had brought was gone.
