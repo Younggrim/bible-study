@@ -11,7 +11,7 @@
 #### The Parable of the Sower (vv4–8)
 - **"A sower went out to sow his seed" (v5).** Farmers scattered seed by hand as they walked, often before plowing it in. So some seed landed where no one meant it to go.
 - **"Along the path… trampled underfoot" (v5).** Footpaths ran through the fields. The soil there was packed hard, and the seed lay on top for birds to take.
-- **"On the rock… because it had no moisture" (v6).** Much of Galilee has a limestone shelf a few inches under the surface. Seed there sprouts quickly in the warm, thin soil, but its roots hit rock and it dries out. Luke alone mentions the lack of moisture.
+- **"On the rock… because it had no moisture" (v6).** Much of Galilee has a limestone shelf a few inches under the surface. Seed there sprouts quickly in the warm, thin soil, but its roots hit rock and it dries out.
 - **"Among thorns" (v7).** Thorn roots stay in the ground after the surface is cleared and grow back faster than the grain, crowding it out.
 - **"Yielded a hundredfold" (v8).** Matthew and Mark list thirtyfold, sixtyfold and a hundredfold. Luke gives only the highest.
 - **Commentators:** Henry draws from the path that "where the word of God is heard carelessly there is commonly a contempt put upon it too." Guzik prefers calling it the parable of the soils, since the seed and the sower never change. Only the ground differs. JFB refers the reader to its notes on Mark 4 and adds nothing here.
@@ -41,7 +41,7 @@
 - **"His mother and his brothers came to him" (v19).** Mark places this scene just after his family tried to "seize him" because people said he was out of his mind (Mark 3:21, 31–35). Luke tells it more gently.
 - **"His brothers."** The Gospels name four brothers, James, Joses, Judas and Simon, and mention sisters (Mark 6:3). Most Protestants take them as younger children of Joseph and Mary. Eastern Orthodox tradition holds they were Joseph's children from an earlier marriage. Roman Catholic tradition, following Jerome, holds they were cousins. Both of the latter views protect a belief in Mary's lifelong virginity. The Greek word *adelphos* normally means a full or half brother but can stretch to close relatives.
 - **"My mother and my brothers are those who hear the word of God and do it" (v21).** Jesus is not rejecting his family. Mary herself is Luke's model of one who hears and keeps God's word (1:38; 2:19, 51). He is saying that the closest bond with him comes through hearing and doing, and that door is open to anyone. Two of these brothers, James and Jude, later believed and wrote New Testament letters (Acts 1:14; 1 Cor 15:7).
-- **Commentators:** Guzik reads "brothers" as literal siblings, arguing against perpetual virginity. The Tyndale notes favor the same view while giving the Orthodox alternative. Henry stresses the honor Christ gives to those who obey the word, calling them his nearest relations.
+- **Commentators:** Guzik reads the brothers as literal siblings, arguing against perpetual virginity. The Tyndale notes favor the same view while giving the Orthodox alternative. Henry stresses the honor Christ gives to those who obey the word, calling them his nearest relations.
 
 #### Jesus Calms a Storm (vv22–25)
 - **"Let us go across to the other side of the lake" (v22).** Jesus gave them a destination. That promise matters later in the story.
