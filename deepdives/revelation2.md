@@ -34,20 +34,14 @@ Almost everyone agrees on the first two points: these were real churches, and "t
 
 #### To the Church in Pergamum (vv12–17)
 - **"Him who has the sharp two-edged sword" (v12).** Pergamum was the old capital of the province. The Roman governor there held the "right of the sword," the power of execution. Jesus reminds the church who really holds that power: his word judges (1:16; Heb 4:12). The city also had a great library, and "parchment" (*pergamēnē*) is named after it.
-- **"Where Satan's throne is" (v13).** Several things may lie behind this:
-  - the huge altar of Zeus on the acropolis, shaped like a throne;
-  - the temple of Asclepius, the healing god whose symbol was a serpent;
-  - Pergamum's role as the first city in Asia with a temple to a living emperor (Augustus, 29 BC).
+- **"Where Satan's throne is" (v13).** Several things may lie behind this: the huge altar of Zeus on the acropolis, shaped like a throne; the temple of Asclepius, the healing god whose symbol was a serpent; Pergamum's role as the first city in Asia with a temple to a living emperor (Augustus, 29 BC).
 
   Emperor worship is probably the main point, since that is what got Christians killed.
 - **"Antipas my faithful witness, who was killed among you" (v13).** Jesus gives Antipas his own title from 1:5, "faithful witness" (*martys*). This word later came to mean "martyr" because so many witnesses died. Nothing else is known about Antipas. Later tradition says he was roasted inside a bronze bull, but that comes from much later.
 - **"The teaching of Balaam, who taught Balak to put a stumbling block before the sons of Israel" (v14).** Balaam couldn't curse Israel (Num 22–24), so he advised Balak to seduce Israel into idol feasts and immorality at Peor instead (Num 25:1–3; 31:16). What a curse couldn't do, compromise did. In Pergamum the pressure came through trade guilds and civic festivals, where a meal in a temple dining room often came with worship and sometimes with prostitution. Paul handles the same issue in 1 Corinthians 8–10.
 - **"So also you have some who hold the teaching of the Nicolaitans" (v15).** "So also" probably links the two: the Nicolaitans were a Balaam-like group. Ephesus hated their works. Pergamum tolerated them.
 - **"Therefore repent. If not, I will come to you soon and war against them with the sword of my mouth" (v16).** The whole church must repent of tolerating the error, but the sword is turned against the false teachers ("them"). Balaam himself died by the sword (Num 31:8).
-- **"Some of the hidden manna… a white stone, with a new name written on the stone" (v17).** Those who refuse idol meat will eat heaven's food. A jar of manna was kept in the ark (Exod 16:33). Jewish tradition held that the ark was hidden before the Babylonian exile and that manna would return in the Messiah's day. Jesus calls himself the true bread from heaven (John 6:32–35). The white stone is uncertain. Several customs are possible:
-  - Jurors voted "not guilty" with a white stone.
-  - Victors and guests received a token for admission to a feast.
-  - Stones were worn as amulets with secret names.
+- **"Some of the hidden manna… a white stone, with a new name written on the stone" (v17).** Those who refuse idol meat will eat heaven's food. A jar of manna was kept in the ark (Exod 16:33). Jewish tradition held that the ark was hidden before the Babylonian exile and that manna would return in the Messiah's day. Jesus calls himself the true bread from heaven (John 6:32–35). The white stone is uncertain. Several customs are possible: Jurors voted "not guilty" with a white stone. Victors and guests received a token for admission to a feast. Stones were worn as amulets with secret names.
 
   All point to acceptance and belonging. The new name, known only to its owner, speaks of a personal relationship with Christ (Isa 62:2).
 - **Commentators:** Henry traces a downward path: "Corrupt doctrines and a corrupt worship often lead to a corrupt conversation" (in his day "conversation" meant way of life). He reads the white stone as "absolution from the guilt of sin" and the hidden manna as the Spirit's comfort in communion with Christ. JFB sets the manna "in contrast to the idol-meats" and notes that the whole church, "not only the Nicolaitanes," is told to repent. JFB also reads the white stone as a diamond, which few follow. Guzik stresses that a hard place to live is never an excuse for compromise. He lists the possible meanings of the white stone and says the new name matters more: it speaks of closeness with Jesus.
