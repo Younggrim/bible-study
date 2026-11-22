@@ -26,9 +26,9 @@ All agree on the center: the curse is gone, God's people see his face, and Jesus
 #### Jesus Is Coming (vv6–21)
 - **"These words are trustworthy and true" (v6).** The same words were said in 21:5 and 19:9. The epilogue begins by standing behind everything in the book. **"The God of the spirits of the prophets"** means the God who inspired the prophets. John is placed in their line. **"What must soon take place"** repeats 1:1 word for word, closing the frame.
 - **"Behold, I am coming soon" (v7).** This is the first of three times in this chapter (vv7, 12, 20). "Soon" is *tachy*, "quickly, speedily." The lexicon gives the classical sense "sudden" as well. The approaches read it differently:
-  - **Preterists** take much of the book's "soon" as fulfilled in the first century.
-  - **Futurists** often stress "suddenly": when it comes, it comes without delay. Guzik takes this line.
-  - Many read it as **imminence**: the next great event on God's calendar is Christ's return, and every generation must live ready (2 Pet 3:8–9).
+- **Preterists** take much of the book's "soon" as fulfilled in the first century.
+- **Futurists** often stress "suddenly": when it comes, it comes without delay. Guzik takes this line.
+- Many read it as **imminence**: the next great event on God's calendar is Christ's return, and every generation must live ready (2 Pet 3:8–9).
 - **"Blessed is the one who keeps the words of the prophecy of this book" (v7).** This is the sixth of Revelation's seven blessings and echoes 1:3. The book was given to be obeyed, not just decoded.
 - **"I fell down to worship at the feet of the angel" (v8).** John did the same thing in 19:10 and was stopped then too. It is striking that the apostle, after everything he has seen, can still go wrong this way. Overwhelming spiritual experience is not a guarantee against error.
 - **"You must not do that!… I am a fellow servant… Worship God" (v9).** The angel ranks himself with John, the prophets and every believer who keeps the book. Angels are servants, not objects of worship (Col 2:18; Heb 1:14). The contrast is pointed: the Lamb receives worship throughout the book (5:8–14), and the angel refuses it. That says who the Lamb is.
