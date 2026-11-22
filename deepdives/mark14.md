@@ -1,8 +1,7 @@
 *Setting:* Jerusalem and Bethany, Wednesday to early Friday of the last week, around AD 30. Jesus has foretold the temple's destruction and told his disciples to stay awake (ch 13). Now the story he predicted three times (8:31; 9:31; 10:33–34) begins to happen. Passover, the great feast remembering Israel's rescue from Egypt, had swelled Jerusalem with pilgrims, perhaps several times its normal population. Chapter 14 moves from a dinner in Bethany to the Last Supper, the garden of Gethsemane, the arrest and a night trial before the high priest. It ends with Peter in tears. Mark tells it simply and lets the contrasts speak: a woman's costly love beside a disciple's betrayal, Jesus' faithfulness beside his friends' failure.
 
 #### The Plot to Kill Jesus (vv1–2)
-- **"Two days before the Passover and the Feast of Unleavened Bread" (v1).**
-- **"By stealth… Not during the feast, lest there be an uproar" (vv1–2).** The leaders feared the crowds, full of Galileans who admired Jesus and stirred by a festival of national freedom. Their plan is to wait. God's plan is that the Lamb dies at Passover, and Judas's offer changes their timetable.
+- **"Two days before the Passover… by stealth… Not during the feast" (vv1–2).** Passover and the week of Unleavened Bread that followed were named together for the whole festival (Exod 12:1–20). The leaders feared the crowds, full of Galileans who admired Jesus and stirred by a festival of national freedom. Their plan is to wait. God's plan is that the Lamb dies at Passover, and Judas's offer changes their timetable.
 
 #### Jesus Anointed at Bethany (vv3–9)
 - **"In the house of Simon the leper" (v3).** John places a similar dinner at Bethany with Martha serving and Lazarus at the table, and names the woman as Mary, Lazarus's sister (John 12:1–8). Luke's story of a sinful woman anointing Jesus in Galilee (Luke 7:36–50) is probably a different event.
@@ -82,7 +81,7 @@
 - **"I am" (v62).** For the first time in Mark, Jesus says openly that he is the Christ. The secrecy is over. "I am" (*egō eimi*) also echoes God's name (Exod 3:14), as when Jesus walked on the sea (6:50), though here its first meaning is simply "Yes, I am."
 - **"Seated at the right hand of Power, and coming with the clouds of heaven" (v62).** He joins Psalm 110:1 (the verse he quoted in 12:36) with Daniel 7:13. "Power" is another reverent substitute for God. The prisoner tells his judges that they will see him enthroned beside God and coming as judge. The roles will be reversed.
 - **"The high priest tore his garments… You have heard his blasphemy" (vv63–64).** Tearing one's clothes was the required response to hearing blasphemy. Claiming to be the Messiah was not in itself blasphemy. Claiming to sit at God's right hand and come on the clouds, sharing God's throne, was.
-- **"They all condemned him as deserving death" (v64).**
+- **"They all condemned him as deserving death" (v64).** "All" probably means all present, since Joseph of Arimathea, a council member, did not consent (Luke 23:51).
 - **"Prophesy!" (v65).** They blindfold him and strike him and mock him as a false prophet. At that very moment, down in the courtyard, his prophecy about Peter is coming true.
 - **Commentators:** JFB reads "I am" as a plain affirmation and connects the abuse to Isaiah 50:6: "I gave my back to those who strike." Guzik notes the irregularities of the trial and that Jesus' silence fulfilled Isaiah 53:7, and says the one on trial was the true judge. He sees Jesus seeming to lose while winning, and the council seeming to win while losing.
 
