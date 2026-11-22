@@ -11,17 +11,15 @@ All agree the sixth seal brings the reader to the very edge of the end.
 #### The Seven Seals (vv1–8)
 - **"The Lamb opened one of the seven seals… 'Come!'" (v1).** Each of the four living creatures calls out a horseman in turn. "Come!" is addressed to the riders. The four horses come from Zechariah's visions (Zech 1:8–11; 6:1–8). There, coloured horses patrol the earth for the Lord. Here they bring his judgments.
 - **"A white horse! And its rider had a bow, and a crown was given to him, and he came out conquering, and to conquer" (v2).** The first rider is the most debated:
-  - **Christ, or the triumph of the gospel.** In 19:11 Christ rides a white horse, and white in Revelation is the colour of holiness and victory. Jesus said the gospel would go out to the nations before the end (Mark 13:10). This is the view of Irenaeus, Henry and JFB.
-  - **Antichrist, or a false messiah.** He imitates Christ, which is why he looks like him. The other three riders are all evils, and Christ is the Lamb who *opens* the seals, not a rider released by them. This is the common futurist view, which Guzik takes.
-  - **Conquest and military power in general.** The bow was the weapon of the Parthians, Rome's feared mounted archers on the eastern frontier, who had defeated Roman armies. The Tyndale notes take this view: the four riders together show human power structures at their destructive worst.
+- **Christ, or the triumph of the gospel.** In 19:11 Christ rides a white horse, and white in Revelation is the colour of holiness and victory. Jesus said the gospel would go out to the nations before the end (Mark 13:10). This is the view of Irenaeus, Henry and JFB.
+- **Antichrist, or a false messiah.** He imitates Christ, which is why he looks like him. The other three riders are all evils, and Christ is the Lamb who *opens* the seals, not a rider released by them. This is the common futurist view, which Guzik takes.
+- **Conquest and military power in general.** The bow was the weapon of the Parthians, Rome's feared mounted archers on the eastern frontier, who had defeated Roman armies. The Tyndale notes take this view: the four riders together show human power structures at their destructive worst.
 
   "Crown" is *stephanos*, a victor's wreath. The lexicon notes the word can also be used for a royal crown, though *diadēma* is the proper word for that. In 19:12, Christ wears many *diadēmata*.
 - **"Another horse, bright red. Its rider was permitted to take peace from the earth" (v4).** Red is the colour of blood. Rome boasted of the *pax Romana*, the "Roman peace," but this rider takes peace away, and people "slay one another." That is civil strife as well as war between nations. The word "slay" (*sphazō*) is the same word used for the slain Lamb (5:6) and the slain martyrs (v9). "He was given a great sword." Even violence is on a leash.
 - **"A black horse! And its rider had a pair of scales" (v5).** Scales mean rationing, food weighed out because it is scarce (Lev 26:26; Ezek 4:16).
 - **"A quart of wheat for a denarius, and three quarts of barley for a denarius" (v6).** A denarius was roughly a labourer's daily wage (Matt 20:2). A "quart" (*choinix*, a little under a quart) of wheat was about one person's daily ration. So a full day's work buys bread for one person, with nothing left for a family. Barley, coarser food for the poor, stretches only three times as far. In normal times a denarius bought perhaps ten to twenty times as much. This is famine-level inflation.
-- **"Do not harm the oil and wine!" (v6).** The voice comes "in the midst of the four living creatures," from the throne itself. Two readings:
-  - Olive trees and vines have deeper roots than grain and survive a short drought. So this is a limited famine, not total ruin, and God sets the limit.
-  - Oil and wine were comforts for those who could afford them, so the rich keep their luxuries while the poor go hungry.
+- **"Do not harm the oil and wine!" (v6).** The voice comes "in the midst of the four living creatures," from the throne itself. Two readings: Olive trees and vines have deeper roots than grain and survive a short drought. So this is a limited famine, not total ruin, and God sets the limit. Oil and wine were comforts for those who could afford them, so the rich keep their luxuries while the poor go hungry.
 
   Some note that in AD 92 Emperor Domitian ordered half the vineyards in the provinces cut down to grow more grain, then withdrew the order after protests from Asia. If so, the line would have had a sharp local meaning.
 - **"A pale horse! And its rider's name was Death, and Hades followed him" (v8).** "Pale" is *chlōros*, the word for green grass (8:7). The lexicon gives "pale" for this verse, and the colour is the grey-green of a corpse. Hades is the realm of the dead, following behind to collect what Death takes. Christ holds the keys to both (1:18).
@@ -40,10 +38,10 @@ All agree the sixth seal brings the reader to the very edge of the end.
 - **"The stars of the sky fell to the earth as the fig tree sheds its winter fruit when shaken by a gale" (v13).** Late figs that never ripened through winter drop off easily in a strong wind. It is a homely picture for a cosmic event.
 - **"The sky vanished like a scroll that is being rolled up, and every mountain and island was removed from its place" (v14).** This is from Isaiah 34:4: "the skies roll up like a scroll." The very thing people think most permanent, the sky overhead, is rolled up like a document no longer needed.
 - **How to read the signs.** Readers differ:
-  - **Futurists** usually take them as real physical events at the end, described in the language of observation.
-  - **Historicists** have read them as the collapse of the pagan empire under Constantine, with sun, moon and stars as rulers and powers.
-  - **Preterists** note that the prophets used this same language for the fall of earthly kingdoms, Babylon in Isaiah 13 and Edom in Isaiah 34. They read it as the fall of Jerusalem or Rome.
-  - **Idealists** see the final judgment pictured in symbol.
+- **Futurists** usually take them as real physical events at the end, described in the language of observation.
+- **Historicists** have read them as the collapse of the pagan empire under Constantine, with sun, moon and stars as rulers and powers.
+- **Preterists** note that the prophets used this same language for the fall of earthly kingdoms, Babylon in Isaiah 13 and Edom in Isaiah 34. They read it as the fall of Jerusalem or Rome.
+- **Idealists** see the final judgment pictured in symbol.
 
   All agree the language means God's judgment shakes the whole created order, and that it points beyond any single earthly event to the last day.
 - **"The kings of the earth and the great ones and the generals and the rich and the powerful, and everyone, slave and free" (v15).** There are seven groups, covering everyone from emperor to slave. Power, rank and money don't protect anyone. "Hid themselves in the caves and among the rocks" comes from Isaiah 2:19–21. On the day of the Lord, people hide "from before the terror of the LORD."
