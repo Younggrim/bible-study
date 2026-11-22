@@ -25,10 +25,10 @@ All agree on the center: Jesus reigns, evil will be judged, and he is coming bac
 - **"From him who is and who was and who is to come" (v4).** This is a reflection on God's name in Exodus 3:14, "I AM." Notice it doesn't say "who will be" but "**who is to come**." God's future is his arrival.
 - **"The seven spirits who are before his throne" (v4).** Most interpreters take this as the Holy Spirit in his fullness, echoing the seven lamps of Zechariah 4:2–10 and the sevenfold Spirit of Isaiah 11:2. The phrase sits between the Father and the Son, which makes it a greeting from the whole Trinity. Some read the seven spirits as seven chief angels.
 - **"Jesus Christ the faithful witness, the firstborn of the dead, and the ruler of kings on earth" (v5).** Three titles cover his past, present and future:
-  - **Faithful witness** (*martys*): he held to the truth even to death. Pilate's court was his "testimony" (1 Tim 6:13).
-  - **Firstborn of the dead:** he rose first and leads the way for others (Col 1:18).
-  - **Ruler of kings:** this was a direct challenge to Caesar.
-  - All three come from Psalm 89:27, 37.
+- **Faithful witness** (*martys*): he held to the truth even to death. Pilate's court was his "testimony" (1 Tim 6:13).
+- **Firstborn of the dead:** he rose first and leads the way for others (Col 1:18).
+- **Ruler of kings:** this was a direct challenge to Caesar.
+- All three come from Psalm 89:27, 37.
 - **"To him who loves us and has freed us from our sins by his blood" (vv5–6).** "Loves" is present tense, an ongoing love. "Freed" is past tense, a finished work. He also **"made us a kingdom, priests to his God and Father"**. This is Israel's calling at Sinai (Exod 19:6) given to everyone in Christ (1 Pet 2:9). The praise bursts out before the visions even begin.
 - **"Behold, he is coming with the clouds, and every eye will see him, even those who pierced him" (v7).** This joins Daniel 7:13 (the Son of Man on the clouds) with Zechariah 12:10 (they will look on him whom they pierced). Jesus combined the same two texts (Matt 24:30), and John alone records the spear (John 19:34, 37). It is the theme of the whole book: the crucified One returns as Judge. "All tribes… will wail" can mean grief in repentance or terror at judgment, and perhaps both.
 - **"I am the Alpha and the Omega… the Almighty" (v8).** Alpha and Omega are the first and last letters of the Greek alphabet, "A to Z." God is the beginning and the end of everything. "Almighty" (*pantokratōr*, ruler of all) appears nine times in Revelation and only once elsewhere in the New Testament (2 Cor 6:18). It answers the claim of every emperor. In 22:13 Jesus takes this same title for himself.
