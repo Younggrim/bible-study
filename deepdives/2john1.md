@@ -2,9 +2,9 @@
 
 #### Greeting (vv1–3)
 - **"The elder to the elect lady and her children" (v1).** Who is the "elect lady" (*eklektē kyria*)? There are two main views:
-  - **A local church and its members.** This is the majority view today. Verse 13's "children of your elect sister" would then be the members of John's own church. Peter similarly calls a church "she who is at Babylon, who is likewise chosen" (1 Pet 5:13). The shifts between "you" singular and plural fit this reading.
-  - **An actual Christian woman and her family.** *Kyria* could even be a name, "Kyria," and this was the older common view. Some suggest John avoided naming a church or a person because of persecution.
-  - Either way, the instructions apply to every church and every household.
+- **A local church and its members.** This is the majority view today. Verse 13's "children of your elect sister" would then be the members of John's own church. Peter similarly calls a church "she who is at Babylon, who is likewise chosen" (1 Pet 5:13). The shifts between "you" singular and plural fit this reading.
+- **An actual Christian woman and her family.** *Kyria* could even be a name, "Kyria," and this was the older common view. Some suggest John avoided naming a church or a person because of persecution.
+- Either way, the instructions apply to every church and every household.
 - **"Whom I love in truth, and not only I, but also all who know the truth" (v1).** Christian love isn't a private fondness. It is shared by everyone who shares the truth. "In truth" means both "truly" and "within the truth" of the gospel.
 - **"Because of the truth that abides in us and will be with us forever" (v2).** Truth here is not just a set of facts. It is almost personal. Jesus is the truth (John 14:6), and the Spirit of truth dwells in believers forever (John 14:16–17).
 - **"Grace, mercy, and peace will be with us… in truth and love" (v3).** Unlike most greetings, this one is a promise: "will be." "Jesus Christ the Father's Son" is an unusually full title, and it anticipates the false teaching about Christ in v7.
