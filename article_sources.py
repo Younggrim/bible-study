@@ -287,6 +287,25 @@ DROP_ARTICLE_URLS = {
         "cultural commentary, and there is no page for it to sit on",
     "https://www.crossway.org/articles/podcast-the-story-behind-adapting-pilgrims-progress-into-a-graphic-novel-jeremy-patenaude-and-erik-peterson/":
         "a podcast episode page about a product",
+    "https://www.crossway.org/articles/5-days-of-thankfulness-in-the-psalms/":
+        "a liturgy excerpt promoting a book rather than a teaching article",
+    "https://www.crossway.org/articles/a-devotional-for-talking-with-your-kids-about-what-it-means-to-grow-in-christ/":
+        "a companion piece for a product, not teaching",
+    "https://www.crossway.org/articles/how-the-right-stories-point-our-kids-to-the-true-story/":
+        "no page for it to sit on",
+    "https://www.crossway.org/articles/gods-eternal-decree-divine-sovereignty-and-human-responsibility/":
+        "a real teaching piece, but there is no page on election or "
+        "predestination for it to sit on -- revisit if one is added",
+    "https://www.crossway.org/articles/missionary-do-you-take-your-sin-as-seriously-as-your-calling/":
+        "written for missionaries, and there is no page for it",
+    "https://www.crossway.org/articles/our-faith-as-christians-cannot-be-separated-from-history/":
+        "no page for it to sit on",
+    "https://www.crossway.org/articles/allen-levis-introduction-to-pilgrims-progress-the-graphic-novel/":
+        "promotional, a product feature",
+    "https://www.crossway.org/articles/introducing-an-exciting-new-cross-reference-system-for-the-esv/":
+        "product announcement, not teaching",
+    "https://www.crossway.org/articles/podcast-a-closer-look-at-the-new-cross-reference-system-for-the-esv-drayton-benner/":
+        "a podcast episode page about a product",
 }
 
 LINK = ('<a href="{url}" target="_blank" rel="noopener" '
@@ -479,6 +498,11 @@ CHAPTER_ARTICLES = {
          "How the cycle of judges and deliverers across this book points past "
          "itself."),
     ],
+    ("2samuel", 12): [
+        ("Crossway", CW + "the-story-behind-psalm-51/",
+         "How Nathan's parable of the stolen lamb exposed David's sin and led "
+         "to Psalm 51."),
+    ],
     ("psalms", 8): [
         ("BibleProject", BP + "ruling-the-world-through-weakness-in-psalm-8/",
          "Why this psalm sets human smallness and human authority side by "
@@ -542,6 +566,11 @@ CHAPTER_ARTICLES = {
         ("BibleProject", BP + "exalted-horn-of-psalm-148/",
          "What the closing image of a raised horn means, and how it ties this "
          "psalm to the rest of the Psalter."),
+    ],
+    ("proverbs", 6): [
+        ("Crossway", CW + "what-the-sluggard-has-to-teach-us-about-living-wisely-in-a-tech-world/",
+         "What the ant and the sluggard in verses 6-8 teach about where our "
+         "attention goes."),
     ],
     ("proverbs", 8): [
         ("BibleProject", BP + "proverbs-8-how-gods-wisdom-leads-to-joy/",
@@ -650,6 +679,11 @@ CHAPTER_ARTICLES = {
         ("GotQuestions.org", GQ + "Matthew-2-23-Jesus-Nazarene.html",
          "Matthew quotes a prophecy about Nazareth that appears nowhere in the "
          "Old Testament. What he is doing."),
+    ],
+    ("matthew", 4): [
+        ("Crossway", CW + "the-radical-calling-of-jesuss-first-disciples/",
+         "What the fishermen gave up when they left their nets, and why "
+         "following Jesus is never on our own terms."),
     ],
     ("matthew", 5): [
         ("BibleProject", BP + "what-is-the-sermon-on-the-mount/",
@@ -853,6 +887,11 @@ CHAPTER_ARTICLES = {
     ("hebrews", 10): [
         ("GotQuestions.org", GQ + "Hebrews-10-26.html",
          "The warning about deliberate sin after receiving the truth."),
+    ],
+    ("hebrews", 11): [
+        ("Crossway", CW + "the-old-testament-saints-show-us-how-to-have-faith-in-christ/",
+         "Why the faithful of this chapter died without receiving what was "
+         "promised, and how their faith pointed to Christ."),
     ],
     ("hebrews", 12): [
         ("GotQuestions.org", GQ + "Hebrews-12-2.html",
