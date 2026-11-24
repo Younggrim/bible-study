@@ -3,8 +3,7 @@
 - a **prophecy** (1:3);
 - an **apocalypse**, a "revealing" written in vivid symbols drawn from the Old Testament.
 
-#### How Christians read Revelation
-Faithful Christians have read the book in four main ways, and many blend them:
+*How Christians read Revelation:* Faithful Christians have read the book in four main ways, and many blend them:
 - **Futurist:** most of chapters 4–22 describe events still ahead, before Christ returns. This is common among evangelicals and taught by Guzik.
 - **Historicist:** the book traces church history from John's day to the end. This was the view of many Reformers, and of Henry and JFB in their own ways.
 - **Preterist:** much of it was fulfilled in the first century, in the fall of Jerusalem in AD 70 or of pagan Rome.
