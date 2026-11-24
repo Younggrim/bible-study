@@ -1,0 +1,43 @@
+# Keeps the free-plan Supabase databases (Bible Study sign-in/sync and Upheld)
+# from pausing after a week idle. Replaces the "[Supabase] Database Keep-Alive"
+# Claude scheduled task, so it costs no Claude usage.
+#
+# Each run makes one read-only REST request per project with the PUBLIC
+# publishable key (the same key the sites already ship in their JavaScript).
+# Row Level Security returns an empty list, but the request still runs a
+# database query, which counts as activity.
+name: Supabase keep-alive
+
+on:
+  schedule:
+    - cron: "17 13 * * 1,4" # Mon & Thu, ~8:17 AM Eastern
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - name: Bible Study
+            url: https://vqgumrfjxlhkzzzfgejl.supabase.co/rest/v1/notes?limit=1
+            key: sb_publishable_pG2kmWU11t4FShA7JpiHFQ_kpxBoRbW
+          - name: Upheld
+            url: https://vyiznjphjwehawdzapce.supabase.co/rest/v1/lists?limit=1
+            key: sb_publishable_BeFA87mKNJf756tWM-u6PA_BwX190JU
+    steps:
+      - name: Ping ${{ matrix.name }}
+        run: |
+          for i in 1 2 3; do
+            code=$(curl -s -o /dev/null -w '%{http_code}' --max-time 60 \
+              "${{ matrix.url }}" -H "apikey: ${{ matrix.key }}")
+            echo "${{ matrix.name }}: HTTP $code"
+            if [ "$code" = "200" ]; then exit 0; fi
+            sleep 30
+          done
+          echo "::error::${{ matrix.name }} keep-alive failed (HTTP $code). The project may be paused: restore it in the Supabase dashboard."
+          exit 1
