@@ -1,7 +1,6 @@
 *Setting:* Genesis means "beginning," and it is the first of the five books of the Law, the Pentateuch. Jewish and Christian tradition, and Jesus himself (Mark 12:26; Luke 24:44), connect these books with Moses, writing for Israel after the exodus, around the 15th or 13th century BC depending on how the exodus is dated. Many scholars think the books were shaped and edited over a longer period from older sources, and most evangelical scholars hold that Moses stands behind them while allowing for later editorial touches. Either way, Genesis 1 was first heard by a people just out of Egypt, surrounded by nations who worshiped the sun, the moon, the sea, the Nile and the stars, and who told creation stories full of warring gods. Into that world this chapter says something astonishing in its calm: there is one God, he made everything, he made it by his word, and he made it good. The ESV treats 1:1–2:3 as one section, so the seventh day, the climax of the week, belongs with the first verses of chapter 2.
 
-#### How Christians read Genesis 1
-Faithful Christians who hold Genesis to be God's true word read the "days" in several ways:
+*How Christians read Genesis 1:* Faithful Christians who hold Genesis to be God's true word read the "days" in several ways:
 - **Six ordinary days:** God created in six 24-hour days, fairly recently. This is the traditional reading of most of church history and is taught by Guzik.
 - **Day-age:** each "day" is a long age, fitting the text with an old earth.
 - **Framework:** the six days are a literary structure, two sets of three, telling *that* God made everything and in what order of meaning, not a timetable.
