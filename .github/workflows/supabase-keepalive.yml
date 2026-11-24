@@ -2,10 +2,9 @@
 # from pausing after a week idle. Replaces the "[Supabase] Database Keep-Alive"
 # Claude scheduled task, so it costs no Claude usage.
 #
-# Each run makes one read-only REST request per project with the PUBLIC
-# publishable key (the same key the sites already ship in their JavaScript).
-# Row Level Security returns an empty list, but the request still runs a
-# database query, which counts as activity.
+# Each run calls public.keep_alive() in each project (a read-only function
+# that only returns now() and touches no tables) with the PUBLIC publishable
+# key, the same key the sites already ship in their JavaScript.
 name: Supabase keep-alive
 
 on:
@@ -24,16 +23,16 @@ jobs:
       matrix:
         include:
           - name: Bible Study
-            url: https://vqgumrfjxlhkzzzfgejl.supabase.co/rest/v1/notes?limit=1
+            url: https://vqgumrfjxlhkzzzfgejl.supabase.co/rest/v1/rpc/keep_alive
             key: sb_publishable_pG2kmWU11t4FShA7JpiHFQ_kpxBoRbW
           - name: Upheld
-            url: https://vyiznjphjwehawdzapce.supabase.co/rest/v1/lists?limit=1
+            url: https://vyiznjphjwehawdzapce.supabase.co/rest/v1/rpc/keep_alive
             key: sb_publishable_BeFA87mKNJf756tWM-u6PA_BwX190JU
     steps:
       - name: Ping ${{ matrix.name }}
         run: |
           for i in 1 2 3; do
-            code=$(curl -s -o /dev/null -w '%{http_code}' --max-time 60 \
+            code=$(curl -s -o /dev/null -w '%{http_code}' --max-time 60 -X POST -H 'Content-Type: application/json' -d '{}' \
               "${{ matrix.url }}" -H "apikey: ${{ matrix.key }}")
             echo "${{ matrix.name }}: HTTP $code"
             if [ "$code" = "200" ]; then exit 0; fi
