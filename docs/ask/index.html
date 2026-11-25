@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Ask Dad</title>
+<link rel="stylesheet" href="ask.css">
+</head>
+<body>
+<main class="card">
+  <section id="ask">
+    <img id="logo" class="logo" src="logos/home.png" alt="">
+    <h1 id="title">Ask Dad</h1>
+    <p id="sub" class="sub">This site is blocked. Tell Dad why you need it and he'll take a look.</p>
+    <div id="siteBox" class="site hidden"></div>
+    <form id="form">
+      <div id="siteField" class="hidden">
+        <label for="siteInput">What site or app?</label>
+        <input id="siteInput" maxlength="253" autocomplete="off" autocapitalize="none" placeholder="example.com">
+      </div>
+      <label for="reason">Why do you need it?</label>
+      <textarea id="reason" maxlength="300" placeholder="For homework, a game, a team app..."></textarea>
+      <button id="send" type="submit">Send to Dad</button>
+      <div id="msg" class="msg"></div>
+    </form>
+  </section>
+  <section id="done" class="done hidden">
+    <img id="logo2" class="logo" src="logos/home.png" alt="">
+    <h1>Sent!</h1>
+    <p id="doneSub" class="sub">Dad got your request. He'll let you know.</p>
+  </section>
+  <p class="foot">McAdoo family</p>
+</main>
+<script>
+(function () {
+  var FN = "https://vqgumrfjxlhkzzzfgejl.supabase.co/functions/v1/ask-dad";
+  var p = new URLSearchParams(location.search);
+  var who = (p.get("who") || "home").toLowerCase();
+  if (["bennett", "emma", "sophia", "home"].indexOf(who) < 0) who = "home";
+  var site = (p.get("site") || "").toLowerCase().replace(/[^a-z0-9.\-]/g, "").slice(0, 253);
+  if (site === "{domain}") site = "";
+  var dad = who === "home" ? "Jeremy" : "Dad";
+  var names = { bennett: "Bennett", emma: "Emma", sophia: "Sophia", home: "" };
+
+  document.body.className = who;
+  document.getElementById("logo").src = document.getElementById("logo2").src = "logos/" + who + ".png";
+  document.title = "Ask " + dad;
+  document.getElementById("title").textContent = names[who] ? "Hi " + names[who] + "!" : "Ask " + dad;
+  document.getElementById("sub").textContent = who === "bennett"
+    ? "This one's blocked right now. Want to ask Dad?"
+    : who === "home"
+      ? "This site is blocked on the McAdoo network. Send Jeremy a quick note and he'll take a look."
+      : "This site is blocked. Tell Dad why you need it and he'll take a look.";
+  document.getElementById("send").textContent = "Send to " + dad;
+  document.getElementById("doneSub").textContent = dad + " got your request. He'll let you know.";
+
+  if (site) {
+    var b = document.getElementById("siteBox");
+    b.textContent = site;
+    b.classList.remove("hidden");
+  } else {
+    document.getElementById("siteField").classList.remove("hidden");
+  }
+
+  document.getElementById("form").addEventListener("submit", function (e) {
+    e.preventDefault();
+    var btn = document.getElementById("send"), msg = document.getElementById("msg");
+    var s = site || document.getElementById("siteInput").value.trim().toLowerCase();
+    btn.disabled = true; msg.textContent = ""; msg.className = "msg";
+    fetch(FN, {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ who: who, site: s, reason: document.getElementById("reason").value })
+    }).then(function (r) {
+      if (r.ok) {
+        document.getElementById("ask").classList.add("hidden");
+        document.getElementById("done").classList.remove("hidden");
+      } else {
+        msg.className = "msg err";
+        msg.textContent = r.status === 429 ? "Too many requests. Try again in a few minutes." : "That didn't send. Try again, or just text " + dad + ".";
+        btn.disabled = false;
+      }
+    }).catch(function () {
+      msg.className = "msg err";
+      msg.textContent = "That didn't send. Try again, or just text " + dad + ".";
+      btn.disabled = false;
+    });
+  });
+})();
+</script>
+</body>
+</html>

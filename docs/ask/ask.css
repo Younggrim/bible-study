@@ -1,0 +1,72 @@
+/* Ask Dad page: standalone, not part of the Bible Study theme. */
+:root {
+  --who: #1E3A5F;
+  --who-dark: #0F2238;
+}
+body.bennett { --who: #2E7D4F; --who-dark: #1B5634; }
+body.emma    { --who: #6B4BA8; --who-dark: #47307A; }
+body.sophia  { --who: #1F7F8C; --who-dark: #125862; }
+
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Roboto, sans-serif;
+  background: linear-gradient(180deg, var(--who) 0%, var(--who-dark) 100%);
+  min-height: 100vh;
+  color: #1d1d1f;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 16px;
+}
+.card {
+  background: #ffffff;
+  border-radius: 24px;
+  width: 100%;
+  max-width: 420px;
+  padding: 28px 24px 24px;
+  box-shadow: 0 20px 50px rgba(0,0,0,0.25);
+  text-align: center;
+}
+.logo { width: 96px; height: 96px; border-radius: 22px; display: block; margin: 0 auto 16px; }
+h1 { font-size: 24px; margin: 0 0 6px; }
+.sub { color: #6e6e73; margin: 0 0 18px; font-size: 15px; line-height: 1.4; }
+.site {
+  display: inline-block;
+  background: #f2f2f7;
+  border-radius: 10px;
+  padding: 8px 12px;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 14px;
+  word-break: break-all;
+  margin-bottom: 18px;
+}
+label { display: block; text-align: left; font-weight: 600; font-size: 14px; margin: 0 0 6px; }
+input, textarea {
+  width: 100%;
+  border: 1px solid #d2d2d7;
+  border-radius: 12px;
+  padding: 12px;
+  font: inherit;
+  font-size: 16px;
+  margin-bottom: 14px;
+}
+textarea { min-height: 90px; resize: vertical; }
+button {
+  width: 100%;
+  border: 0;
+  border-radius: 14px;
+  padding: 15px;
+  font: inherit;
+  font-size: 17px;
+  font-weight: 700;
+  color: #ffffff;
+  background: var(--who);
+  cursor: pointer;
+}
+button:disabled { opacity: 0.6; }
+.msg { margin-top: 14px; font-size: 15px; }
+.msg.err { color: #b3261e; }
+.done h1 { margin-top: 4px; }
+.hidden { display: none; }
+.foot { margin-top: 18px; font-size: 12px; color: #8e8e93; }
